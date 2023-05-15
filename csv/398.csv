@@ -1,0 +1,282 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+74,0,div,,n
+1723,74,div,,n
+1725,1723,div,,n
+1734,1725,h1,Archery,n
+1736,1725,ul,,n
+1738,1736,li,Home,n
+1747,1736,li,Archery,n
+1753,1723,div,,n
+1758,1753,div,,n
+1761,1758,h2,Bows,y
+1764,1758,h2,Crossbows and Accessories,y
+1767,1758,h2,Arrows and Accessories,y
+1770,1758,h2,Broadheads and Field Points,y
+1773,1758,h2,Archery Accessories,y
+1776,1758,h2,Archery Targets,y
+1779,1758,h2,Bowfishing,y
+1782,1758,h2,Tree Stands,y
+1790,1753,div,,n
+1792,1790,h3,Category,n
+1794,1790,span,Press enter to collapse or expand the menu.,n
+1802,1790,ul,,n
+1805,1802,li,Archery Accessories,y
+1808,1802,li,Crossbows and Accessories,y
+1811,1802,li,Tree Stands,y
+1814,1802,li,Broadheads and Field Points,y
+1817,1802,li,Arrows and Accessories,y
+1820,1802,li,Bowfishing,y
+1823,1802,li,Bows,y
+1826,1802,li,Archery Targets,y
+1829,1802,li,New Archery,n
+1830,1753,div,,n
+1831,1830,div,,n
+1835,1831,h2,Featured Products,n
+1837,1831,ul,,n
+1843,1837,li,,n
+1845,1843,div,BlackOut Intrigue XST RTH Compound Bow Package,n
+1870,1843,div,$349.99,n
+1891,1837,li,,n
+1893,1891,div,Cabela's Endure RTH Compound Bow Package,n
+1918,1891,div,$379.99,n
+1939,1837,li,,n
+1941,1939,div,Cajun Bowfishing Sucker Punch Pro RTF Compound Bow Package,n
+1967,1939,div,$449.99 - $469.99,n
+1990,1837,li,,n
+1992,1990,div,Trophy Ridge Digital React Single-Pin Bow Sight,n
+2006,1990,div,5 stars. 2 reviews,n
+2017,1990,div,$359.99,n
+2036,1837,li,,n
+2038,2036,div,BlackOut 4-Sided Layered Foam Archery Target,n
+2041,2036,div,,n
+2047,2041,div,8,n
+2052,2041,div,5 stars. 128 reviews,n
+2064,2036,div,$54.99 - $84.99,n
+2085,1837,li,,n
+2087,2085,div,Bear Archery Species EV RTH Compound Bow Package,n
+2090,2085,div,,n
+2096,2090,div,9,n
+2101,2090,div,5 stars. 13 reviews,n
+2116,2085,div,$419.99,n
+2139,1837,li,,n
+2141,2139,div,PSE Archery Brute ATK RTS Compound Bow Package,n
+2166,2139,div,$699.99,n
+2188,1830,h2,Shop by Brand,n
+2220,1830,div,,n
+2223,2220,h2,"Tips, Tricks and Inspiration",n
+2224,2220,div,,n
+2225,2224,div,,n
+2227,2225,p,3D Archery Shoots Provide Fun and Practice,n
+2229,2225,p,"When the wildly popular Hunger Games movies came out, bowhunting suddenly became front and center. Both of my daughters wanted a bow, my sister gave Katy her old bow and the Claycomb family was suddenly bow poor!",n
+2230,2224,div,,n
+2232,2230,p,a Bow Before You Buy,n
+2234,2230,p,"In the garment industry today a lot of fabrics are called fleece, yet they Whether you’re looking to upgrade your hunting bow for the coming season or are just getting into archery, the information below will help you find the perfect bow to fit your needs.",n
+2235,2224,div,,n
+2237,2235,p,Arrow Buyer's Guide,n
+2239,2235,p,"Depending on your bow setup, and whether you compete in 3-D tournaments or just hunt whitetails, finding the arrow that is right for you can be a daunting task. This arrow buyer’s guide will help you understand the differences between the main types of arrows and the fletching that go along with them.",n
+2243,1830,div,,n
+2245,2243,h2,Archery Accessories and Supplies,n
+2247,2243,p,"Get geared up for archery hunting with your official Cabela's archery equipment. Cabela's offers all varieties of Bows , including Compound , Recurve, Longbows and Crossbows . Find a large selection of Youth and Small-Frame Bows , and be sure to keep stocked with plenty of Arrows , Quivers , and Broadheads for your entire season. The next time a buck or trophy tom comes within striking distance of your bow, you'll be ready.",n
+2273,74,footer,,n
+2279,2273,div,,n
+2281,2279,h3,CONTACT CABELA'S,n
+2282,2279,ul,,n
+2285,2282,li,Live Chat,n
+2288,2282,li,customer.service@cabelas.com,n
+2291,2282,li,-,n
+2294,2282,li,FAQs,n
+2296,2282,li,,n
+2297,2296,text,Support ID,n
+2299,2296,span,UCD46423604,n
+2301,2296,span,?,n
+2303,2296,span,,n
+2305,2303,div,We use your Support ID to provide faster resolution to issues experienced while on our website.,n
+2307,2303,div,"Please provide this ID when contacting support via phone, email or chat.",n
+2309,2273,div,,n
+2320,2309,ul,,n
+2322,2320,li,Order Status,n
+2324,2320,li,Returns,n
+2326,2320,li,Shipping Information,n
+2328,2320,li,Product Subscriptions,n
+2330,2320,li,Size Chart,n
+2332,2320,li,Embroidery Services,n
+2334,2320,li,Rod and Reel Repair,n
+2336,2320,li,Boat and Boat Centers,n
+2338,2320,li,Tracker Off-Road,n
+2349,2309,ul,,n
+2353,2349,li,Gift Registry,n
+2355,2349,li,Online Catalogs,n
+2357,2349,li,Business Sales,n
+2359,2349,li,Wildlife Creations,n
+2361,2349,li,Military Discount,n
+2363,2349,li,Restaurants,n
+2365,2349,li,Used Guns,n
+2367,2349,li,Outdoor Rewards,n
+2378,2309,ul,,n
+2380,2378,li,Find a Store,n
+2382,2378,li,Careers,n
+2384,2378,li,Company News,n
+2386,2378,li,Cabela's Story,n
+2388,2378,li,About Our Founder,n
+2390,2378,li,Our Community,n
+2392,2378,li,Conservation,n
+2394,2378,li,Affiliate Program,n
+2396,2378,li,Bass Pro Shops,n
+2397,2309,div,,n
+2398,2397,div,,n
+2400,2398,h3,Sign Up,n
+2402,2398,h3,Sign Up For Exclusive Deals and Offers,n
+2411,2397,div,,n
+2413,2411,p,,n
+2414,2413,text,You can unsubscribe at any time.,n
+2416,2413,span,Contact Us | Privacy Policy,n
+2422,2411,div,"I agree to receive special offers, promotions, and catalog announcements",n
+2424,2411,p,Checkbox must be selected before you can receive exclusive deals and offers,n
+2425,2411,text,Sign Up,n
+2429,2397,ul,,n
+2432,2429,li,Sign Up,n
+2435,2429,li,Get Our Free Catalog,n
+2438,2429,li,Download Our Mobile App,n
+2443,2273,div,,n
+2445,2443,h3,Follow US,n
+2452,2443,h3,Proud Partners,n
+2459,2273,div,,n
+2460,2459,ul,,n
+2463,2460,li,Gift Card Terms and Conditions,n
+2465,2460,li,Recall Information,n
+2466,2460,li,,n
+2468,2466,span,UPDATED,n
+2469,2466,text,Use + Community Guidelines,n
+2471,2460,li,Accessibility Policy,n
+2473,2460,li,Privacy Policy,n
+2475,2460,li,CA TSCA Disclosure,n
+2477,2460,li,Do Not Sell My Personal Information,n
+2479,2460,li,Errors and Limitations,n
+2481,2460,li,Site Map,n
+2482,2459,span,,n
+2483,2482,p,,n
+2484,2483,text,"If you are using a screen reader and are having problems using this website, please call",n
+2486,2483,strong,-,n
+2487,2483,text,for assistance.,n
+2489,2482,p,©2022 Cabela's L.L.C. All rights reserved.,n
+2491,2273,div,,n
+2492,2491,text,This site is protected by reCAPTCHA and the Google,n
+2494,2491,strong,Privacy Policy,n
+2495,2491,text,and,n
+2497,2491,strong,Service,n
+2498,2491,text,apply.,n
+2532,0,div,,n
+2535,2532,div,Product Comparison,n
+2549,2532,div,,n
+2552,2549,div,Product Comparison,n
+2555,2549,div,products that can be compared is 4. Please refine your selection.,n
+2567,0,div,,n
+2570,2567,div,Inactivity Warning Dialog,n
+2589,2567,div,Your session is about to timeout due to inactivity. Click OK to extend your time for an additional 0 minutes.,n
+2604,0,div,,n
+2607,2604,div,Item Added,n
+2621,2604,div,,n
+2624,2621,div,Item Added,n
+2635,2621,div,View List,n
+2650,0,div,,n
+2654,2650,div,Select a Store,n
+2656,2650,div,Check,n
+2660,2650,div,,n
+2661,2660,div,,n
+2664,2661,button,Use My Current Location,n
+2668,2661,button,???SEARCH_CATALOGS???,n
+2671,2660,div,,n
+2672,2671,text,Only show stores that are,n
+2674,2671,span,In Stock,n
+2675,2660,div,,n
+2677,2675,div,,n
+2679,2677,div,Cabela's Springfield,n
+2681,2677,div,2800 Gateway Street,n
+2683,2677,div,"Springfield, OR 97477",n
+2693,2677,div,101 mi,n
+2755,2675,div,,n
+2757,2755,div,Cabela's Lacey,n
+2759,2755,div,1600 Gateway Boulevard Northeast,n
+2761,2755,div,"Lacey, WA 98516",n
+2771,2755,div,108 mi,n
+2833,2675,div,,n
+2835,2833,div,Bass Pro Shops Tacoma,n
+2837,2833,div,7905 S Hosmer St,n
+2839,2833,div,"Tacoma, WA 98408",n
+2849,2833,div,117 mi,n
+2911,2675,div,,n
+2913,2911,div,Cabela's Union Gap,n
+2915,2911,div,1400 E Washington Ave,n
+2917,2911,div,"Union Gap, WA 98903",n
+2927,2911,div,129 mi,n
+2989,2650,div,,n
+2992,2989,div,Selected Store,n
+2993,2989,div,,n
+2994,2993,div,,n
+2996,2994,div,Cabela's Tualatin,n
+2998,2994,div,7555 Southwest Nyberg Street,n
+3000,2994,div,"Tualatin, OR 97062",n
+3003,2993,div,Store Details,n
+3011,0,div,,n
+3016,3011,div,"To change your store location, you will have to go back to the firearms store selection page.",n
+3017,3011,div,,n
+3019,3017,div,Change My Store,n
+3021,3017,div,Stay on Page,n
+3022,0,div,,n
+3025,3022,div,Confirmation Dialog,n
+3046,3022,div,,n
+3048,3046,div,Yes,n
+3049,3046,text,No,n
+3067,0,div,,n
+3068,3067,p,,n
+3069,3068,text,You Are Now Leaving Basspro.ca,n
+3071,3068,span,and will be directed to Basspro.com,n
+3073,3067,div,Go Back Continue,n
+3082,0,div,,n
+3086,3082,div,,n
+3088,3086,div,Welcome to the CLUB,n
+3090,3086,div,Steps to Spending Your $25 Instant Credit Today,n
+3091,3082,div,,n
+3095,3091,span,,n
+3101,3095,div,,n
+3103,3101,p,Create an account or sign in to an existing account.,n
+3105,3101,p,"If you choose not to create or sign in to an account, you can use your $25 credit when you receive your physical card in 7-10 business days.",n
+3115,3095,p,"If your order it less than $25, you can use the remaining balance on another order by choosing to Redeem CLUB Points during payment.",n
+3121,3091,span,,n
+3127,3121,div,,n
+3129,3127,p,Your new CLUB Card has been saved to your wallet.,n
+3131,3127,p,Shop with your new CLUB Card and start earning CLUB Points today!,n
+3141,3121,p,"If your order it less than $25, you can use the remaining balance on another order by choosing to Redeem CLUB Points area within checkout.",n
+3147,3091,div,Fetching Application Details from Capital One,n
+3150,3091,div,,n
+3152,3150,button,Sign In,n
+3155,3150,p,Don't have an account?,n
+3157,3150,button,Register,n
+3158,3150,div,,n
+3159,3158,text,Continue as Guest,n
+3162,3158,span,"If you continue as guest, you will have to wait to receive your physical card in the mail to use your Instant Credit.",n
+3178,0,div,,n
+3182,3178,p,We were unable to fetch your Capital One account information.,n
+3185,3178,p,You can contact Customer Service by calling-1723.,n
+3188,3178,p,"If your application was successful, you should receive your CLUB Card in the mail within 7-10 days.",n
+3205,0,div,,n
+3209,3205,p,"Sorry, we were unable to connect with Capital One at this time.",n
+3212,3205,p,We apologize,n
+3224,0,div,,n
+3226,3224,div,Back Continue as Guest,n
+3231,3224,h3,Create Account,n
+3234,3224,div,,n
+3241,3234,div,Email,n
+3243,3234,div,6 characters and one numeral.,n
+3249,3234,div,Password,n
+3255,3234,div,Verify password,n
+3256,3234,text,Submit,n
+3268,0,div,,n
+3269,3268,div,,n
+3275,3269,p,Checkout with your new Bass Pro Shops CLUB Card and earn points on your order.,n
+3281,3269,p,"If you use an alternative payment method, you will not earn CLUB Points on your order.",n
+3284,3268,div,Pay with CLUB Card,n
+3287,3268,div,Continue to PayPal,n
+3290,3268,div,Continue to Masterpass,n
+3298,0,span,Feedback,n

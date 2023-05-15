@@ -1,0 +1,60 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,article,,n
+2,1,div,,n
+4,2,p,"If you’re new to skiing or snowboarding, you’ll quickly find that there’s a lot to learn about gear. You are probably aware that jeans and sunglasses aren’t a wise choice and that your friend’s old skis or board won’t cut it. But where do you even start? How do you make sure you don’t forget something important?",n
+6,2,p,"Any rental shop will be able to help you out, and renting is always a good option to try things out before spending money. But if you want an idea of what to expect or you’re ready to make the plunge and buy all of your equipment, we put together this list of everything you’ll need to be comfortable and safe as you launch into what’s bound to be a lasting love with your new sport—whether you’re getting into skiing or snowboarding.",n
+9,2,p,"<<When you are just starting out, renting your gear can help you figure out what works best for you. Rent your gear today.>>",n
+11,2,h2,Skiing,n
+13,2,h3,Skis,y
+15,2,p,"Happily, most companies offer a size chart for each make and model to help customers match their height and weight with well-fitting skis. That being said, beginners should err on the side of shorter rather than longer, as it’s easier to learn the art of turn-making on shorter skis.",n
+17,2,p,"Skis also come specifically designed for the type of terrain you like—fat skis with rocker features for floating on powder, carving skis for groomed runs and hard-packed conditions, freeride skis for park and pipe, and all-mountain skis that maneuver well through a variety of terrain and snow conditions.",n
+19,2,p,"An all-mountain ski is best for newbies and every ski company has a bountiful selection, including long-standing international brands like Rossignol, HEAD, and Salomon to independent boutique brands like DPS, Meier, and Icelantic, to name a few.",n
+21,2,h3,Ski Bindings,y
+23,2,p,"Unless you’re planning on using your skis to tour outside of the ski resorts , ski bindings are relatively streamlined, although some are heavier than others . It’s important that the width of the binding fits comfortably into the width of your ski and that the tension is set for easy release.",n
+25,2,h3,Ski Boots,y
+27,2,p,"Boots are the most crucial component of the gear setup and comfort is huge when you’re a beginner. As a general rule, the boots should be snug with your big toe brushing the front of the liner . Make sure you have a little room to move around because your feet will absolutely expand once you get going out there.",n
+29,2,p,"Boots offer varying degree of stiffness and when you’re just starting out, a softer boot with plenty of flex is ideal. Having a shop mold the boot liner to your foot can bring a whole new level of ease and comfort to your skiing experience.",n
+31,2,p,"It’s important for women to get women-specific boots because they are designed to fit below a female’s lower calf muscle. Some top picks for beginner ski boots include the Rossignol Evo 70, Head Dream 100 , and Salomon X Pro.",n
+33,2,h3,Poles,y
+35,2,p,"Poles are pretty straightforward . Some are lighter than others, but they all do the job of helping you choose your turns down the mountain.",n
+37,2,p,"Length is crucial, however. How do you know you’ve got the right length? When you’re wearing your boots and standing on a hard surface, hold the pole upside-down with the handle touching the floor and your hand grasping the pole just under the basket. Your arm should form a 90-degree angle.",n
+40,2,p,"<<If you have never rented ski or snowboard equipment from Epic Mountain Rentals before, here’s what you can expect.>>",n
+42,2,h2,Snowboarding,n
+44,2,h3,Snowboards,y
+46,2,p,"As with skis, snowboards typically come with a size chart pairing your height and weight with the recommended board length. Again, beginners should choose a board that’s a couple centimeters shorter than the recommendation for easier navigation making turns as you become comfortable with transferring your weight from your toe to the heel edges.",n
+48,2,p,"Depending on the terrain you prefer riding, boards are stiffer with more pronounced side cuts for carving, fatter with rocker features for powder, softer and more flexible for tricks and park riding. There are numerous all-around boards ideal for entry-level riders including a handful of Burton models , Nitro Cinema, Ride Agenda, and K2 Standard.",n
+50,2,h3,Snowboard Bindings,y
+52,2,p,"Like the boards themselves, snowboard bindings vary in weight and flexibility. The softer, more flexible options are most suitable for beginner riders. Some riders find better control with toe straps that tighten higher up the foot, while others prefer toe straps that go over the tips of the toes. As you may have already discovered, strapping in at the top of every trail is one of the only downsides to snowboarding, but you can avoid that with step-in bindings or Burton’s brand new, state-of-the-art Step On binding system .",n
+56,2,h3,Snowboard Boots,y
+58,2,p,"Again, Burton’s Step On boots to go with Step On bindings could change the game, especially for beginner riders. You may never have to sit on the snow to strap on your board again. Otherwise, as with ski boots, snowboard boots should be bought snug, with your big toe touching the front of the boot, as your feet will swell a bit once you get moving.",n
+62,2,p,"Softer is better than stiffer for new riders and technology like the Boa lacing system that allows you to tighten the boot by turning a dial rather than by pulling laces, makes things a lot easier.",n
+64,2,p,"Again, women should stick to women’s specific boots, as they’re designed to suit the anatomy of the female lower leg. Highly acclaimed snowboard boots for beginners include Burton Coco , Highline and Moto, Vans Hi-Standard, and Encore , Thirty Two Lashed , and STW Boa .",n
+66,2,h2,Accessories,n
+68,2,h3,Helmet,y
+70,2,p,"Never ski or ride without a helmet. And it’s got to be one designed for skiing and riding—not biking, skateboarding, or motorcycling. Make sure it fits your head snugly without squeezing too hard.",n
+72,2,p,"Comfort is a matter of personal preference, but you’ll find overall that helmets are warmer and more comfortable than hats. Trying on several is best, comparing the weight, warmth, and breathability.",n
+74,2,p,"Time-tested helmet manufacturers include Smith, Giro, and Scott, but there are also a few fantastic smaller brands out there, like POC and BERN. Look for helmets with MIPS, the latest in safety technology. The Multi-Directional Impact System allows the helmet liner to move a few millimeters, reducing the amount of direct force on your brain. The less energy that is transferred to your brain in a crash, the better.",n
+76,2,p,It’s also a good idea to choose your helmet and goggles at the same time to ensure a compatible fit.,n
+78,2,h3,Gloves and Mittens,y
+80,2,p,"As a rule, mittens are warmer than gloves. Some people find them cumbersome for holding poles or adjusting bindings, but as long as they fit properly, it shouldn’t be an issue. Both gloves and mittens should be snug but not tight.",n
+82,2,p,Finding a pair with GORE-TEX® or other waterproof material is key. Another winning feature is the over-the-sleeve length that prevents cold air from blowing onto your wrists and snow from getting into your mittens.,n
+84,2,p,the highest quality glove and mitten makers out there.,n
+86,2,h3,Eyewear,y
+88,2,p,"Wear goggles, not sunglasses. Trust us. As you’re gliding downhill, the breeze will swoop into sunglasses and make your eyes water. Select a goggle lens depending on the typical climate of where you ski, keeping in mind that Canadian and East Coast ski areas tend to be rather cloudy while Colorado, Utah, and Tahoe are more likely to have sunny days.",n
+90,2,p,"As for lenses, you’ll want mirrored or rainbow for bright sun conditions, yellow for grey or flat light, and rose or orange for mixed conditions. Many goggles come with multiple lenses.",n
+92,2,p,"Find a pair of goggles that fit well with your helmet – brand to brand is typically the best fit – Oakley goggles with Oakley helmet, Smith with Smith, etc., but many companies are compatible with one another.",n
+94,2,h3,Neck Gaiter or Balaclava,y
+96,2,p,"Even a thin neck gaiter will be your best friend on cold, snowy days. When it’s windy or extra cold, these things are fantastic for keeping your face toasty and preventing the breeze from blowing down your neck.",n
+98,2,h3,Outerwear,y
+100,2,p,"Again, your choice will depend on personal style and comfort, but wearing a jacket designed for snowsports is key. It’s completely acceptable for skiers to wear outerwear designed by snowboard brands and snowboarders to wear ski-oriented brands like Marker or Spyder.",n
+102,2,p,"They are all designed for movement, comfort, and warmth, so the style and brand choice is up to you. Snowsport outerwear comes with a waterproof rating, so look for a jacket and pants that have a minimum rating of 5,000 mm. The higher the mm, the more waterproof it is.",n
+104,2,p,"Breathability is also important and buying pants and jackets with armpit and leg vents can keep your sweat in check and help you stay comfortable all day on the slopes, especially on warmer days if you are a spring skier.",n
+106,2,h3,Base Layers,y
+108,2,p,"Layering is always a good idea when skiing or riding so you can add or remove layers depending on weather and changing temperatures. Wearing fast-drying undergarments will keep you much more comfortable, layered with a thin, snug-fitting pair of breathable base layer pants as well as a thin, snug-fitting base layer top is the minimum for warmer ski days or if you are wearing a thick jacket. A second or even a third thin base layer , as well as a fleece or wool sweater, will offer much welcomed added warmth on colder days.",n
+110,2,h3,Socks,y
+112,2,p,"Wear ski and snowboard-specific socks. They are typically made of Merino wool and are designed with well-placed padding on the heels and on the balls of the feet. These are much better than doubling up on regular socks. In spite of their relative thinness, they are warm and breathable.",n
+114,2,p,There you have it – everything you need to know about gear and clothing for snowboarding or skiing. Now all you have to do is get out there and have a great time!,n
+117,1,span,Beginner Skiing Snowboarding,n
+125,0,h3,About the author,n
+129,0,h3,Related Posts,n

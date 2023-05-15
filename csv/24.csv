@@ -1,0 +1,233 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+62,0,div,,n
+107,62,div,,n
+118,107,h1,Back to School Shopping Headquarters,n
+119,107,div,,n
+135,119,h2,Shop by grade,n
+158,119,h2,Best selling school supplies,n
+160,119,div,,n
+162,160,ul,,n
+169,162,li,,n
+171,169,div,"HP 14a-na0022od Chromebook, 14""",n
+180,169,div,111 Reviews,n
+187,169,div,$339.99,n
+204,162,li,,n
+206,204,div,JanSport® Cool Student Backpack...,n
+215,204,div,109 Reviews,n
+222,204,div,$54.99,n
+239,162,li,,n
+241,239,div,BIC® Round Stic® Ballpoint Pens...,n
+250,239,div,1073 Reviews,n
+254,239,div,,n
+255,254,div,,n
+258,255,span,$7.49,n
+261,255,span,box,n
+264,254,div,$5.49,n
+291,162,li,173 Reviews,n
+315,162,li,,n
+317,315,div,Kata 3-Ply Pleated Disposable Children's...,n
+326,315,div,382 Reviews,n
+333,315,div,$9.99,n
+350,162,li,,n
+352,350,div,Texas Instruments® TI-34 MultiView™,n
+361,350,div,68 Reviews,n
+368,350,div,$21.39,n
+385,162,li,,n
+387,385,div,"HP 11a-na0040nr Chromebook, 11.6""",n
+396,385,div,28 Reviews,n
+400,385,div,,n
+404,400,div,$299.99,n
+410,400,div,$269.99,n
+426,162,li,,n
+428,426,div,Cleanitize Cleaning And Disinfecting...,n
+437,426,div,922 Reviews,n
+444,426,div,$4.99,n
+461,162,li,,n
+463,461,div,Office Depot® Brand Reinforced Filler...,n
+472,461,div,71 Reviews,n
+479,461,div,$4.79,n
+496,162,li,,n
+498,496,div,DYMO® LabelManager® 160 Label...,n
+507,496,div,309 Reviews,n
+514,496,div,$42.49,n
+542,162,li,315 Reviews,n
+566,162,li,,n
+568,566,div,SanDisk® Cruzer™ Glide USB...,n
+577,566,div,1350 Reviews,n
+581,566,div,,n
+585,581,div,$34.49,n
+591,581,div,$7.99,n
+607,162,li,,n
+609,607,div,Elmer's® Disappearing Glue Sticks...,n
+618,607,div,123 Reviews,n
+623,607,div,,n
+625,623,span,$8.29,n
+629,623,span,or pack,n
+642,162,li,,n
+644,642,div,BIC® Xtra-Sparkle Mechanical Pencils...,n
+653,642,div,432 Reviews,n
+657,642,div,,n
+658,657,div,,n
+661,658,span,$8.99,n
+664,658,span,pack,n
+667,657,div,$6.99,n
+683,162,li,,n
+685,683,div,JanSport® Big Student Backpack With...,n
+701,683,div,$47.99,n
+718,162,li,,n
+720,718,div,"Ticonderoga® Pencils, Presharpened...",n
+729,718,div,312 Reviews,n
+736,718,div,$6.59,n
+753,162,li,,n
+755,753,div,Sharpie® Fine Point Permanent Markers...,n
+764,753,div,1562 Reviews,n
+771,753,div,$13.49,n
+788,162,li,,n
+790,788,div,Just Basics® View 3-Ring Binder...,n
+799,788,div,168 Reviews,n
+806,788,div,$4.29,n
+819,160,div,Prev Next,n
+824,119,div,,n
+829,824,h2,Shop by category,n
+830,824,div,,n
+834,830,div,Arts and Crafts,n
+838,830,div,Basic Supplies,n
+842,830,div,Backpacks and More,n
+846,830,div,Binders and Folders,n
+847,824,div,,n
+851,847,div,Notebooks and Paper,n
+855,847,div,Writing,n
+859,847,div,Calculators,n
+863,847,div,Tech,n
+864,824,div,,n
+868,864,div,Student Furniture,n
+872,864,div,Planners,n
+876,864,div,Classroom Essentials,n
+880,864,div,Teacher Supplies,n
+885,119,div,Shop all school supplies,n
+899,119,div,,n
+901,899,h2,Sponsored Products,n
+902,899,ul,,n
+903,902,li,,n
+915,903,div,"Dunkin' Donuts Original Blend Ground Canister Coffee, Medium ...",n
+920,903,div,114,n
+925,902,li,,n
+934,925,div,88 reviews,n
+937,925,div,"Dunkin' Donuts® Original Blend Ground Coffee, Medium Roast, ...",n
+942,925,div,30,n
+947,902,li,,n
+956,947,div,4 reviews,n
+959,947,div,"Folgers® Black Silk Coffee Single-Serve Packs, Dark Roast, ...",n
+964,947,div,60,n
+969,902,li,,n
+978,969,div,373 reviews,n
+981,969,div,"Folgers® 100% Colombian Pouch Coffee, 1.75 Oz., Carton Of ...",n
+986,969,div,56,n
+991,902,li,,n
+1000,991,div,414 reviews,n
+1003,991,div,"Paper Mate® Flair® Porous-Point Pens, Medium Point, 0.7 ...",n
+1008,991,div,22,n
+1017,119,div,,n
+1022,1017,div,,n
+1026,1022,h3,Changing the Way That We Learn,n
+1029,1022,p,Health and safety standards that may greet students heading back to school,n
+1035,1022,span,", about Changing the Way That We Learn",n
+1037,1022,span,about Changing how we learn,n
+1042,1017,div,,n
+1046,1042,h3,The Easiest Back-to-School Lunch Box Ideas For Kids,n
+1050,1042,p,Beat the lunch crunch with easy school lunches that will keep your child satisfied,n
+1055,1042,span,", about The Easiest Back-to-School Lunch Box Ideas For Kids",n
+1060,1017,div,,n
+1064,1060,h3,Give 5% back to schools,n
+1067,1060,p,A small act can make a huge difference.,n
+1073,1060,span,", about Give 5% back to schools",n
+1077,119,div,,n
+1078,1077,div,,n
+1082,1078,h2,Helpful back to school shopping tips,n
+1084,1078,p,,n
+1086,1084,span,"Explore ideas, learn about timesavers and shop",n
+1087,1084,text,l,n
+1088,1077,div,,n
+1093,1088,div,,n
+1097,1093,h3,6 Tips,n
+1100,1093,p,Are you ready for back-to-school shopping? Create a game plan to make the experience fun rather than stressful. Here's where to start.,n
+1105,1093,span,", about 6 Tips",n
+1110,1088,div,,n
+1114,1110,h3,Your Ultimate Buying Guide to the Best Backpacks,n
+1117,1110,p,"One of the key items on most back-to-school shopping lists are backpacks for school. And not just any backpacks, but cool backpacks for school, right? Your goal may be to find one that will be both versatile and rugged.",n
+1120,1110,text,Find your backpack,n
+1125,1088,div,,n
+1129,1125,h3,Student Laptop Buying Guide,n
+1132,1125,p,"For students today, a large amount of schoolwork is done online. Find the ideal laptop for students whether they will be writing papers, doing math homework or even gaming",n
+1135,1125,text,Find your laptop,n
+1140,1088,div,,n
+1144,1140,h3,A Guide to Finding the Right Calculator,n
+1147,1140,p,"One of the hardest things to shop for during back-to-school shopping season may be a calculator. After all, there are scientific calculators, graphic calculators and basic calculators. And they come with all sorts of bells and whistles and at different price points.",n
+1150,1140,text,Find a school calculator,n
+1155,119,div,,n
+1157,1155,p,,n
+1159,1157,strong,back-to-school shopping sales?,n
+1162,1157,br,"While back-to-school shopping can be a lot of fun, stocking up for a new school year can also get pretty pricey. Thankfully, back-to-school sales offer deep discounts on a range of common school supplies, and nothing says “welcome back to school” quite like getting a great deal.",n
+1165,1157,br,"Back-to-school shopping sales typically begin during the summer months, giving families plenty of time before school starts up again. To stay on top of potential deals, shoppers should keep an eye out for sales starting in July. For customers who prefer to skip busy stores during the back-to-school season, excellent discounts are also available online during this time.",n
+1169,1157,strong,What should I include on my back-to-school shopping list?,n
+1172,1157,br,"Teachers often provide detailed school supply lists to help families complete their back-to-school shopping. While these back-to-school lists can be hugely helpful, they may not include all the items necessary for a successful school year.",n
+1177,1157,br,"For example, parents may want to buy a new lunch box and food containers during their school shopping, setting their child up to enjoy nutritious meals. Additionally, back-to-school shopping can involve purchasing new gadgets, such as a laptop computer or tablet tailored to students . Back-to-school deals are also available in these categories, so it’s a great time to shop for these kinds of items.",n
+1183,1155,p,,n
+1185,1183,strong,How will back-to-school shopping be different in 2021,n
+1188,1183,br,"The COVID-19 pandemic caused schools and families to adopt new learning methods , with differing approaches emerging around the country. The 2021 back-to-school season may still reflect many of these changes, causing students and teachers to shop differently than they have in years past.",n
+1193,1155,p,"For example, parents might be asked to add hand sanitizer to their back-to-school shopping lists or purchase technology necessary for virtual learning. Thankfully, back-to-school sales will likely include all the items necessary to make students safe and successful.",n
+1201,62,div,,n
+1205,1201,div,,n
+1208,1205,div,JOIN US,n
+1223,1205,div,,n
+1225,1223,div,DOWNLOAD OUR APP,n
+1228,1223,ul,,n
+1231,1228,li,GooglePlay,n
+1237,1228,li,AppStore,n
+1245,1205,div,,n
+1247,1245,span,SIGN UP TO RECEIVE,n
+1249,1245,span,EXCLUSIVE OFFERS,n
+1250,1201,div,,n
+1254,1250,div,,n
+1308,1254,li,Online Catalogs,n
+1314,1254,ul,,n
+1318,1314,li,Order by Item Number,n
+1324,1314,li,Recall Notices,n
+1342,1254,ul,,n
+1350,1342,li,Affiliate Program,n
+1354,1342,li,Government Programs,n
+1368,1250,ul,,n
+1370,1368,li,-GO-DEPOT,n
+1372,1368,li,Text Us,n
+1492,1201,ul,,n
+1494,1492,li,Use,n
+1496,1492,li,Privacy Policy,n
+1498,1492,li,Accessibility,n
+1500,1492,li,Office Depot Tracking Tools,n
+1502,1492,li,Office Depot Anywhere,n
+1504,1492,li,Grand and Toy Canada,n
+1506,1492,li,Do Not Sell My Personal Information,n
+1509,1201,div,,n
+1511,1509,strong,"Copyright © 2022 by Office Depot, LLC. All rights reserved.",n
+1512,1509,text,Prices shown are in U.S. Dollars. Please log in for your pricing. Prices are subject to change. All use of the site is subject to the Terms of Use. Prices and offers on,n
+1514,1509,strong,www.officedepot.com,n
+1515,1509,text,Use details.,n
+1517,0,span,https,n
+1519,0,span,2563rew,n
+1521,0,span,https,n
+1523,0,div,https,n
+1527,0,div,,n
+1530,1527,p,"This promotion is for Rewards members only. To take advantage of exclusive offers like these, join Office Depot® OfficeMax® Rewards now!",n
+1534,1527,p,Join Sign In,n
+1544,0,span,"or account or v2 or editBillingDisplay, or orderhistory or subsManager, or orderhistory or submitReturn, or account or accountSummaryDisplay, or account or loginAccountDisplay, or account or myfiles, or csl or listAll",n
+1553,0,span,https,n
+1555,0,text,Join Now,n
+1559,0,span,6,n
+1576,0,div,,n
+1578,1576,div,Opens in new window,n
+1580,1576,div,PDF Download,n
+1582,1576,div,Word Download,n
+1584,1576,div,Excel Download,n
+1586,1576,div,PowerPoint Download,n
+1588,1576,div,Document Download,n

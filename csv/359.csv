@@ -1,0 +1,186 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+13,0,div,,n
+257,13,h1,The best at-home pilates equipment,n
+260,13,p,Our ultimate guide to all the gear you need to skip the studio and find your flow at your place.,n
+261,13,div,,n
+264,261,div,Jenna Martin,n
+265,261,div,,n
+268,265,span,bodyandsoul.com.au,n
+269,265,span,,n
+272,269,span,"July 1, 2021",n
+274,269,span,11:30am,n
+275,13,div,,n
+276,275,article,,n
+280,276,p,image,n
+284,276,p,"If COVID restrictions are making it hard to hit the studio, never fear: here's everything you need to turn your place into a Pilates palace.",n
+285,276,div,,n
+287,285,p,"Pilates really is the ultimate full-body workout. It can be as restoring, relaxing or as high-impact as you like, can stretch and tone, help you build core strength and even give you a cardio hit. Best of all, it's one of the very few full-body exercises that can be done very easily at home, with equipment you can pick up and put away in an instant - goodbye bulky machines that take up half the living room. But with so many options - and affordable ones at that - it can be a bit intimidating knowing where to start looking for equipment when setting up your home pilates studio. That's where we come in, with the ultimate guide to creating the perfect pilates palace at your place, helping you go from from the studio to your living room with ease.",n
+289,285,p,Read on,n
+290,285,ul,,n
+292,290,li,Pilates Mats,y
+294,290,li,Pilates reformer machines,y
+296,290,li,Pilates Chairs,y
+298,290,li,Pilates Rings,y
+300,290,li,Pilates Balls,y
+302,290,li,Pilates Bands,y
+304,290,li,Pilates Socks,y
+306,285,h2,Pilates mats,y
+308,285,p,"If you already have a yoga mat at home, you don't necessarily need a separate one for pilates, but mats specifically designed for pilates are usually a bit thicker with more padding than a yoga mat, protecting your spine and your joints as you roll around the floor.",n
+310,285,h2,"Proiron Eco Friendly Yoga Mat, $35.95 at Amazon",n
+318,285,p,"Weighing in at just over a kilogram, this mat is heavier and thicker than most yoga mats, which makes it ideal for pilates as it's extremely anti-slip. 10MM thick, it's cold-proof and moisture-proof, soft and comfortable and has a stitched edge, meaning it's unlikely to tear at the sides ""This is the only one I could find of this thickness, which for my stegosaurus-like spine is just what I needed,"" says one reviewer, adding, ""I can roll like a ball and not scream. Excellent for daily stretching or pilates alike.""",n
+324,285,h2,"Gaiam Performance High Density Pilates Mat, $49.95 at The Iconic",n
+332,285,p,"Designed for high-impact yoga and pilates, this mat is thicker than most fitness mats and gives you a firm and comfortable base for finding your flow. It's latex free and comes with both a carry sling and two full-length complimentary online pilates workshops to get you started.",n
+338,285,h2,"BAHE Synergy Mat Regular 3.5mm, $89.99 at Rebel Sport",n
+346,285,p,"This rubber mat is designed with a microfiber top layer with built in water-activated grip properties, which means a quick spray before your workout and you're good to go with maximum grip. It's perfect for hot yoga and pilates, as it will keep you strong and stable, but it's also just a great mat for any kind of floor-based workout.",n
+352,285,h2,"The reversible mat, $79 at Lululemon",n
+356,285,p,Image,n
+360,285,p,"Available in 10 different colours, this 5mm mat has a top layer which absorbs moisture to keep you stable while you sweat, along with a natural rubber base that cushions you during floor-based practice. It's also mould and mildew resistant. ""This is THE mat,"" raves one reviewer while another says, ""It’s hard to find one that isn’t too thick but also does the job for those boney positions.""",n
+366,285,h2,"Nyamba 15mm Pilates mat, $49.00 at Decathlon",n
+374,285,p,"This 15mm mat is extra cushioned and comfortable on the top and grippy on the bottom so it won't slip during your workout. ""One of the best floor mats ever,"" writes one reviewer. ""I have two of these at home and it’s well worth it. Great padding, soft, good material and a must addition to the house. I can train and never worried about slipping away.""",n
+380,285,h2,Pilates reformer machines,y
+382,285,p,"Unless you're a seasoned, practiced pilates aficionado, you're probably not going to be wanting to spend the money on a reformer machine. They're bulky, expensive and hard to stash out of place if you don't have a separate studio space. But if you are looking to purchase a machine for at home, we've got some suggestions.",n
+384,285,h2,"Foldable Pro Pilates Reformer, $1850 at Vitality4Life",n
+392,285,p,"One of the more affordable and more manageable home reformer machines on the market, this one has an in-built footbar and offers four different resistance level springs and comes with a rebounder to add a cardio boost to your workouts. It's smooth, quiet and - best of all - foldable, so you can actually have one of these at home without needing a dedicated room to keep it.",n
+398,285,h2,"Pilates Reformer with Half Trapeze, $4550 at Vitality4Life",n
+406,285,p,"A serious machine for those who want to replicate the studio feel in their very own home, this reformer comes with a half trapeze complete with springs, snaps and a push-through bar and also includes a cardio rebounder, foot-strap and long box accessories.",n
+412,285,h2,"Gaiam Performance Coreplus Portable Pilates Reformer, $39.95 at The Iconic",n
+420,285,p,"While it's definitely not the same as the real thing, you can get a pretty good workout from portable reformer machines, like this one from Gaiam, which replicates the workout you get from a Pilates reformer by using lightweight resistance bands joined in an X shape. It also comes with a 40-minute online workshop to teach you how to get the most out of your equipment.",n
+426,285,h2,"Performance Pilates Bar Kit, $59.95 at The Iconic",n
+434,285,p,"This pilates bar kit includes a bar and two power cords to help you work your legs, glutes and core. The kit is super compact and easy to store and comes with three full-length instructional videos - total body sculpt, cardio blast and chiseled arms - that help teach you exactly how to use the kit and get the most out of it. Perfect for beginners or those who want to get more out of their workouts.",n
+440,285,h2,"YICYC Portable Pilates Bar Kit, $22.97 at Amazon",n
+448,285,p,"A similar version of the Gaiam kit, this one from Amazon is slightly more affordable but does roughly the same job. ""I think this is great just to add that little bit of resistance to my workouts,"" says one reviewer, adding, ""It is so easy use and very simple to put together and take apart again making it easier to store. The padding on the bar also makes it more comfortable on the back of the neck as well.""",n
+454,285,h2,Pilates chairs,y
+456,285,p,"If you don't have the space for a reformer, you might want to consider a chair. You can get professional style ones, or smaller, much more affordable options that will let you do many of the same exercises as you would on your reformer.",n
+458,285,h2,"Pilates Wunda Chair with Handles, $1395 at Vitality4Life",n
+466,285,p,"Designed by Joseph Pilates himself, a Wunda chair has a wooden base with a padded seat. Under the seat, a pedal increases or decreases resistance. This chair has adjustable handles, four springs with two tensions and the padded seat is made from EVA foam and non-slip leather to support your workout. Versatile and able to support a huge variety of movements, a Wunda chair is perfect for those times you want a little more than a mat but you don't have room for a full reformer.",n
+472,285,h2,"Perellier Wood Headstand Upside Down Yoga Bench, $125 at Amazon",n
+480,285,p,"While this obviously doesn't offer the same workout range as a traditional pilates chair, this yoga bench is a great alternative if you want to add some range and options to your workout in an affordable way. The bench can be used for floor work, standing and sitting exercises and has removable cushions to use as needed. It comes with a free workout guide to help you learn how to perform the exercises safely.",n
+486,285,h2,"Balance Ball Chair, $159 at Gaiam",n
+490,285,p,Image,n
+494,285,p,"Not strictly a pilates or a yoga chair, this balance ball chair will make a great addition to your studio. The chair comes with a back or backless - depending on whether you want it for working out or just working - and the ball is removable so you can use it like a regular exercise ball whenever you like. The kit also comes with a pump for easy inflation.",n
+500,285,h2,Pilates rings,y
+502,285,p,"For such a simple little piece of equipment, a pilates ring does a lot of heavy lifting. The two padded handles on either side let you push in or out or squeeze it between whatever parts of your body you wish, working endless combinations of muscles.",n
+504,285,h2,"66fit Pilates Double Handle Ring - Dual Grip Magic Exercise Circle, $34 at Amazon",n
+512,285,p,"This super lightweight pilates ring is based on the original magic circle design created by Joseph Pilates to help users find their centre. It has a medium resistance and is perfect for toning every muscle, as well as strengthening legs, arms, chest, thighs and pelvic floor. This ring comes with inner and outer grips and has foam padding for extra support.",n
+518,285,h2,"Gaiam Pilates Toning Ring, $39.99 at Rebel Sport",n
+526,285,p,"This padded, flexible ring from Gaiam is designed to help tone and strengthen the whole body - especially the legs - as well as improve posture and balance and comes with a bonus online workshop to get you started. ""The resistance of the ring is really excellent,"" says one reviewer, with another adding, ""Great product, easy to use and gets into those target areas.""",n
+532,285,h2,"Naimba Pilates Ring, $25 at Decathlon",n
+540,285,p,"Built with flexibility and muscle toning in mind, this affordable option from Decathlon comes with an online training booklet and has a lot of fans. ""Works really well,"" says one, ""though my toning ring looks less flexible that the one the lady uses in online class. I almost feel like I’m going to break it by squeezing it, but it does provide great toning and a class with a difference.""",n
+546,285,h2,"4kg pilates hoop, $35 at Decathlon",n
+554,285,p,"A pilates hoop is another option to the traditional ring, and this weighted version from decathlon is a great way to add resistance and weight to your workout as well as channel your inner hula girl. ""Little did I know that weighted hoops existed... This weighted one is amazing workout. It's sturdy yet smooth on your skin."" It is also portable and flexible and comes apart for easy storage or travel.",n
+560,285,h2,"Sunsign Yoga and Pilates Training Ring, $20.24 at Amazon",n
+568,285,p,"Designed to fit against the curves of your body, this yoga and pilates training ring can be used for training, strengthening, resistance and also massage to relax your muscles. It can help with posture, back and neck pain and leg and foot pain and comes with an instruction book to get you started.",n
+574,285,h2,Pilates balls,y
+576,285,p,"We've done a round-up of Swiss Balls, or Exercise balls and you can read our guide here . But in this section we're covering the mini version, which come in handy for so many different kinds of exercises, stimulating and enhancing your core, activating your muscles and giving you a pillow while doing floor-based work.",n
+580,285,h2,"FIT Barre Mini Exercise Barre Ball, $13.99 at Amazon",n
+588,285,p,"""I’m using to strengthen my knees! Love it blows up in three puffs! Perfect!"" Reads the sterling review from one happy customer. This set of two balls comes in several colours, is made of slip-resistant and anti-burst material and also has a straw for easy inflation.",n
+594,285,h2,"Gaiam Core and Pilates Ball, $19.99 at Rebel Sport",n
+602,285,p,"This ball from Gaiam helps to tone and tighten as well as align the spine and comes with a bonus online workout guide. Reviewers roundly note the top quality of the ball. ""Better than the pilate balls I use at the gym! Great quality.""",n
+608,285,h2,"Bahe Flowballs Set, $24.99 at Rebel Sport",n
+616,285,p,"This set contains two balls - a small, 15cm option and a medium, 22cm one. Using them together throughout your workout will add to your core strength, engage our core, back and legs and enhance your whole pilates routine. Great for beginners as well as Pilates regulars, it comes with 30+ exercise guides to really get you off and running with your practice.",n
+622,285,h2,"PTP Pilates Balls Combo, $24.99 at Amazon",n
+630,285,p,"Another set of two, this time from Amazon, these balls inflate and deflate in just a few seconds, and the kit comes with a poster with more than 30 included exercises to help you get the most out of your workout.",n
+636,285,h2,"66fit Pilates Soft Balls, $19 at Amazon",n
+644,285,p,"This affordable set again gives you two options but in a slightly larger set - the balls measuring 20 and 25 centimetres. Easy to inflate and easy to clean, they're perfect for the home gym.",n
+650,285,h2,Pilates bands,y
+652,285,p,"Resistance bands are fantastic for on-the-go workouts, as well as being a key part of your home studio. They're inexpensive, versatile, safe and often just as effective as weights for building and maintaining core strength and flexibility.",n
+654,285,h2,"The WOD life resistance booty bands, $44.90 at The Iconic",n
+662,285,p,"Perfect for working on areas like glutes, thighs and your upper body, this three pack comes with three bands of different lengths to switch up your resistance based on the workout you want to do. addition to help activate areas such as glutes, thighs, and upper body. This 3 pack set of resistance booty bands includes three versatile lengths to allow you to choose a resistance suited for the workout you are doing.",n
+668,285,h2,"Core trainer 5 pack resistance bands, $29 at The Iconic",n
+676,285,p,"If you want more options when it comes to resistance, these bands give you five different levels for working your lower body, and comes in a drawstring pouch so you can't lose them.",n
+682,285,h2,"PTP Flowbands Set, $39.99 at Rebel Sport",n
+690,285,p,"This three-pack is perfect for both beginners and those established in their pilates practice. Great for working both your upper and lower body, each band is a different colour with different resistance to suit whatever your workout needs may be. It also comes with over 30 exercises to help get you started, or guide you into a deeper level of training.",n
+696,285,h2,"Gaiam Strength and Flexibility Kit, $29.99 at Rebel Sport",n
+704,285,p,"This three-pack strength and flexibility kit from from Gaiam also includes multi-levels of resistance and comes with a bonus online exercise book with guided workouts. Lightweight, small and fantastic for travel, the set has plenty of great reviews, like this one who says, ""Really happy with these bands, nice to have a variety of strengths among the 3 too. They have great grip and can be used for heaps of strength, resistance exercises, as well as stretching and improving flexibility at the end of the workout.""",n
+710,285,h2,"Adjustable Fabric Resistance Bands, $39.99 at Amazon",n
+718,285,p,"This three-pack of fabric bands are perfect for targeting your lower body and working your abs, glutes and legs. Adjustable with three resistance levels for whatever your workout involves, they also come with a carry bag. If you're not into rubber or latex bands, these might be a great alternative. ""Having tried latex ones and non adjustable fabric resistance bands, both had some drawbacks. However these adjustable loop bands work like a belt and I am able to adjust how big or small I want them. They do not roll up or down and keep their shape pretty well.""",n
+724,285,h2,Pilates socks,y
+726,285,p,Specialist socks aren't always a requirement in studios but wearing socks with grippy soles specifically designed for pilates definitely makes it much easier to perform certain movements.,n
+728,285,h2,"Sweaty Betty Sustainable Pilates Socks 2 pack, $40 at The Iconic",n
+736,285,p,"Available in two colours, grey or black, these cotton socks are soft and stretchy with a grippy panel on the sole.",n
+742,285,h2,"Gaiam Mary Jane Yoga Socks, $19.99 at Rebel Sport",n
+750,285,p,"If you're the sort of person who likes to feel the ground while you workout, these might be the socks for you. They have a no-slip sole but have a half-toe design which gives you grip through the toes along with breathability, making them perfect for yoga, pilates, barre and dance.",n
+756,285,h2,"Gaiam Super Grippy Yoga Socks, $19.99 at Rebel Sport",n
+764,285,p,"Like gloves for the feet, these closed-toe grippy socks are non-slip thanks to their little grippy dots along the sole. They're soft and breathable and come with a bonus online yoga workout.",n
+770,285,h2,"Non-slip yoga and pilates socks, 3 pack, $15.95 at Amazon",n
+778,285,p,"This cheap three-pack of socks are perfect for whatever your workout needs might be. Great for yoga, pilates, barre, bikram or even martial arts, they're also just a great option to have in the house if you ever need to go into hospital and need something non-slip to wear around the ward, or find yourself in a kid's play centre from time to time where you need grippy non-slip socks to supervise kids in a ball pit.",n
+784,285,h2,"Studio Grip Sole Socks, $8.99 at Rockwear",n
+788,285,p,Image,n
+792,285,p,These cotton-rich grip sole socks are soft and stretchy and are a great inexpensive option for floor work or for using on a reformer machine.,n
+798,285,h2,What is pilates?,n
+800,285,p,Pilates has been around for about 100 years after being developed by Joseph Pilates as a form of low-impact movement and exercise to help strengthen and tone the body while improving balance and flexibility.,n
+802,285,h2,Who is pilates good for?,n
+804,285,p,"Pilates places a huge emphasis on alignment and posture so it's great for anyone looking to work on and strengthen their core. It's great for dancers and athletes, the elderly and the young and it's fantastic for those just beginning a new workout regime or those recovering from injury as it can be incredibly low impact. In essence, there's not really anybody who can't do pilates, as you can go at your own pace and make it as challenging, relaxing or restorative as you like.",n
+806,285,h2,I'm on a tight budget. What equipment do I really need to get the ultimate at-home workout?,n
+808,285,p,"At the very least, you need a good quality mat. With that as a minimum you can still do the basics when it comes to stretching, toning and floor work. If your budget will stretch to a few pieces of a equipment, most instructors would recommend either some resistance bands or a ring, and a small, inflatable pilates ball to add some variety to your workout.",n
+811,285,p,"While you're here, why not check out our ultimate guide to building your very own home gym and the best activewear brands for every workout .",n
+817,285,p,"This article was originally published on 15th June, 2021 and was updated on July 1, 2021",n
+819,276,p,"Any products featured in this article are selected by our editors, who don’t play favourites. If you buy something, we may get a cut of the sale. Learn more.",n
+823,275,ul,,n
+827,823,li,Share on Facebook,n
+831,823,li,Share on Twitter,n
+835,823,li,Share via Email,n
+836,275,div,,n
+838,836,h3,Related topics,n
+840,836,div,best online buys,n
+847,0,div,,n
+850,847,h2,MORE IN shop,n
+854,847,ul,,n
+858,854,li,How indoor climbing got cool,n
+863,854,li,8 best flannelette sheets to buy this season,n
+868,854,li,the best slow cookers to transform your winter meals,n
+873,854,li,8 best compression tops to buy in 2022,n
+878,854,li,10 best puffer vests,n
+888,0,div,,n
+891,888,div,We Recommend,n
+911,888,div,,n
+912,911,div,,n
+917,912,div,Safe Step Bath,n
+920,912,span,,n
+922,920,span,1 Day Walk-In Bath Installation,n
+932,920,span,Safe Step Bath,n
+938,911,div,,n
+943,938,div,Forge Of Empires,n
+946,938,span,,n
+948,946,span,"If You Like to Play on Your Computer, this City-Building Game is a Must-Have. No Install.",n
+958,946,span,Forge Of Empires,n
+974,888,div,,n
+975,974,div,,n
+980,975,div,Elvenar -Fantasy City Builder Game,n
+983,975,span,,n
+985,983,span,"If You Are Above 30, this Fantasy Game is a Must-Have. No Install.",n
+995,983,span,Elvenar -Fantasy City Builder Game,n
+1001,974,div,,n
+1006,1001,div,Kohlersafeshowers.com,n
+1009,1001,span,,n
+1011,1009,span,1 Day Walk-in Shower Installation,n
+1021,1009,span,Kohlersafeshowers.com,n
+1027,974,div,,n
+1032,1027,div,Amazing Bed Frames | Search Ads,n
+1035,1027,span,,n
+1037,1035,span,Bed Frames For Cheap,n
+1047,1035,span,Amazing Bed Frames | Search Ads,n
+1087,0,div,,n
+1090,1087,ul,,n
+1092,1090,li,FOLLOW US,n
+1100,1090,li,ADVERTISE,n
+1102,1090,li,ABOUT US,n
+1104,1090,li,EDITORIAL TEAM,n
+1106,1090,li,OUR EXPERTS,n
+1108,1090,li,PODCASTS,n
+1110,1090,li,NEWSLETTERS,n
+1113,1087,div,FOLLOW US,n
+1119,1087,div,,n
+1121,1119,div,LEGAL,n
+1122,1119,ul,,n
+1124,1122,li,Legal,n
+1126,1122,li,Privacy Policy,n
+1128,1122,li,Relevant Ads Opt-Out,n
+1130,1122,li,Cookie Policy,n
+1132,1122,li,Terms and Conditions,n
+1134,1119,p,A NOTE ABOUT RELEVANT ADVERTISING,n
+1138,1119,p,bodyandsoul.com.au may receive an affiliate commission if you buy through our links. Learn more,n
+1141,1087,div,,n
+1143,1141,p,Nationwide News Pty Ltd Copyright © 2022. All times on this site are AEDT .,n
+1145,1141,p,Powered by WordPress.com VIP,n

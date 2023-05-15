@@ -1,0 +1,142 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,,n
+8,4,div,,n
+11,8,h1,Free Bar Equipment Checklist,n
+12,8,div,,n
+14,12,div,By,n
+16,12,div,Scott Schulfer,n
+18,4,div,,n
+20,18,div,Contents,n
+23,18,ul,,n
+25,23,li,Cocktail Bar Equipment List,n
+27,23,li,Beverages and Garnishes,n
+29,23,li,Bar Refrigeration and Dispensing Equipment and Supplies,n
+31,23,li,A POS System,n
+33,23,li,"Bar Equipment List, Bar Supplies List, You Get the Gist",n
+34,18,div,,n
+35,34,form,,n
+38,35,strong,Never miss a single post. Get our content in your inbox weekly.,n
+40,35,label,Name,n
+43,35,label,Email Address,n
+48,34,div,Thank you! Check your inbox,n
+51,34,div,Oops! Something went wrong while submitting the form.,n
+52,18,div,,n
+54,52,p,"Everything works better when you have a clear plan in mind; the same is true for running your bar. Similar to having standardized recipes and bar cleaning procedures, having a checklist of necessary bar equipment will help you be better at bar management .",n
+60,52,p,Here is a quick run-down of basic items that should be on your checklist for stocking a bar . Feel free to customize and add more to the list to fit your unique bar and restaurant operations .,n
+67,52,h2,Cocktail Bar Equipment List,n
+69,52,p,"We recommend starting the list with the most obvious equipment. These are the tools that you and your staff would use for bartending- bar glasses , bartending tools, and bar supplies.",n
+73,52,h3,Glassware,y
+74,52,ul,,n
+76,74,li,Mixing glasses,y
+78,74,li,Rocks glasses,y
+80,74,li,Pint glasses,y
+82,74,li,Shot glasses,y
+84,74,li,Wine glasses,y
+86,74,li,Champagne glasses,y
+88,74,li,Martini glasses,y
+90,74,li,Brandy snifters,y
+92,74,li,Highball glasses,y
+94,74,li,Other specialty glasses,y
+96,52,h3,Bartending Tools and Supplies,y
+97,52,ul,,n
+99,97,li,Jiggers,y
+101,97,li,Muddlers,y
+103,97,li,Cocktail shakers,y
+105,97,li,Cocktail spoons,y
+107,97,li,Citrus Juicers,y
+109,97,li,Cap Catchers,y
+111,97,li,Bottle and can openers,y
+113,97,li,Cocktail strainers,y
+115,97,li,Garnishing tools,y
+117,97,li,Muddling supplies,y
+119,97,li,Straws and stirrers,y
+121,97,li,Cutting boards,y
+123,97,li,Napkins,y
+125,97,li,Bar mats,y
+127,97,li,Clean towels,y
+131,97,li,Pourers,y
+133,97,li,Garnishes and bitters containers,y
+135,97,li,"Ice cube trays, ice molds, and ice buckets",y
+137,97,li,Wine openers,y
+139,52,p,"Your bar may carry unique drinks that your staff needs special equipment for. If so, ask for your staff’s suggestions and add them to the list.",n
+142,52,h2,Beverages and Garnishes,y
+144,52,p,"Additionally, your checklist should include your selection of the best bar liquor and liqueur, as well as any mixers for cocktails. For this step, review your standardized recipes and match the items to what your bar serves. Here is our suggestion for a general list of beverages and garnishes:",n
+148,52,h3,Alcoholic Beverages,y
+149,52,ul,,n
+151,149,li,Vodka,y
+153,149,li,Gin,y
+155,149,li,Tequila,y
+157,149,li,Whiskey,y
+159,149,li,Scotch,y
+161,149,li,Bourbon,y
+163,149,li,Rum,y
+165,52,h3,Liqueurs,y
+166,52,ul,,n
+168,166,li,Amaretto,y
+170,166,li,Coffee liqueur,y
+172,166,li,Dry and sweet Vermouth,y
+174,166,li,Irish cream liqueur,y
+176,166,li,Orange liqueur,y
+178,52,h3,Non-Alcoholic Mixers,y
+179,52,ul,,n
+181,179,li,Lemon and lime juice,y
+183,179,li,Orange juice,y
+185,179,li,Cranberry juice,y
+187,179,li,Grapefruit juice,y
+189,179,li,Pineapple juice,y
+191,179,li,Tomato juice,y
+193,179,li,Bitters,y
+200,179,li,Simple syrup,y
+202,179,li,Grenadine,y
+204,179,li,Tabasco sauce,y
+206,52,p,"In order to make the best cocktails, you can’t forget to stock up on garnishes and any items used for decoration. Include the following items for your fruit garnishes.",n
+208,52,h3,Garnishes,y
+209,52,ul,,n
+211,209,li,Lemons,y
+213,209,li,Limes,y
+215,209,li,Oranges,y
+217,209,li,Cherries,y
+219,209,li,Olives,y
+221,209,li,Cocktail onions,y
+223,209,li,Mint,y
+225,209,li,Salt and sugar,y
+227,209,li,Cinnamon,y
+229,209,li,Grated nutmeg,y
+231,209,li,Celery or pickles,y
+233,209,li,Whipped cream,y
+236,52,h2,Bar Refrigeration and Dispensing Equipment and Supplies,y
+238,52,p,Refrigeration is extremely important because your bar will carry many perishable fruits and garnishes. Items that cannot be left outside or kept at room temperature.,n
+240,52,p,"You will need coolers for beer bottles, chilled wine, and champagne as well. Consider the following items when you plan out your bar refrigeration system:",n
+241,52,ul,,n
+243,241,li,Kegerators,y
+245,241,li,Swing door cooler,y
+247,241,li,Horizontal bottle cooler,y
+249,241,li,Chilled wine and champagne cooler,y
+251,241,li,Garnishes and mixers cooler,y
+253,52,p,Add a soda hose or fountain to your list as well. You'll likely need it to serve common mixers of drinks to your guests.,n
+255,52,p,Here are some essential sodas that your bar should carry:,n
+256,52,ul,,n
+258,256,li,Club soda,y
+260,256,li,Ginger ale,y
+262,256,li,Cola and diet cola,y
+264,256,li,Lemon-lime soda,y
+266,256,li,Water,y
+268,52,p,"Create a list for any additional equipment, such as ice makers and crushers, that don’t fit in previous categories:",n
+269,52,ul,,n
+271,269,li,Ice maker,y
+273,269,li,Speed rails,y
+275,269,li,Liquor dispensers,y
+277,269,li,Floor mats,y
+279,269,li,Ice crusher,y
+281,269,li,Blenders,y
+283,269,li,Glass racks,y
+285,52,p,"As for tables and chairs, the number will depend on your bar’s layout and dimensions . Based on how your bar serves beer, you will also need to have beer taps and the associated equipment. Kegs, equipment that pressurizes lines, and equipment that connects kegs to your taps. Add these items on the list to fit how your bar operates.",n
+290,52,h2,A POS System,y
+292,52,p,"Last but not least, you might want to consider having a bar POS system in place to keep track of your bar’s sales and profits. While you could do this with old-fashioned cash registers or traditional pen and paper, having an automatic system greatly helps your business. POS systems give you a quicker and more organized way to manage customer tabs and transactions. They also alert you when mistakes happen so you can catch them in time and prevent them from happening again.",n
+297,52,h2,"Bar Equipment List, Bar Supplies List, You Get the Gist",n
+299,52,p,"In general, the majority of your bar equipment will need to be maintained, repaired, or replaced at some point. If you have wood furniture , you'll need to clean it and make spot touch-ups. Therefore, having a checklist will help you stay on top of your equipment’s status and take action when needed.",n
+303,52,p,"Also, pay special attention to your bar equipment layout . Where you place this stuff matters, so check out our bar equipment layout tips.",n
+307,52,p,Download our free bar equipment checklist template here!,n
+309,52,p,"Once you know the equipment you need, read more about how to open a bar so you can make a profit and thrive. Also, you'll want to create a bar cleaning checklist , so you know which cleaning supplies to buy. Your equipment is an investment, so we recommend keeping it clean and performing necessary maintenance.",n
+315,52,p,"If you find this article helpful, contact us to book a demo and learn more about BinWise Pro! It's a liquor inventory system that helps save time, avoid mistakes, and take your beverage inventory faster within a few minutes. It also makes it easier to reach the goals set out in your restaurant business plan .",n

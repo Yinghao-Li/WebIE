@@ -1,0 +1,36 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+19,3,h1,Fruit Wine Making Equipment List,n
+21,3,div,,n
+24,21,p,"The equipment needed to make Wine From Fruit is very similar to the equipment that you need to make Wine From Concentrate , so if you already have that equipment you will need very little else. We provide a complete list of all the equipment you will need to make fruit wine below, but keep in mind that Midwest Supplies offers Equipment Kits that are prepackaged and contain everything you need to get started.",n
+32,21,p,"One thing to keep in mind when choosing what equipment you need is the amount of fruit you have. It is important that you have no more than 2-3” of head space in you secondary fermentor once the wine has been stabilized with Potassium Metabisulphite . You can make roughly one gallon of wine for every 4-6 pounds of fruit depending on the recipe. So, if you are using a 3 Gallon Glass Carboy to age your wine you will need 12-18 lbs of fruit . If you are limited in the amount of fruit you have access to, make sure that you buy the correct size equipment.",n
+38,21,h3,Equipment Checklist,n
+39,21,ul,,n
+41,39,li,"Sanitizer, such as Star San by Five Star",y
+44,39,li,Nylon Straining Bag,y
+46,39,li,9 Gallon plastic fermenter with lid,y
+48,39,li,Siphon Tubing,y
+50,39,li,Racking Cane or Auto Siphon,y
+54,39,li,A Glass Carboy* with a Stopper and Airlock,y
+58,39,li,Hydrometer and Test Jar,y
+62,39,li,Bottle Rinser,y
+64,39,li,A Bottling Bucket,y
+66,39,li,Wine Bottles,y
+68,39,li,Wine Corks,y
+70,39,li,Wine Corker,y
+72,39,li,Fruit Crusher,y
+74,39,li,Fruit Press,y
+76,21,p,*Size is determined by how much fruit you have available to make wine.,n
+78,21,p,Wine Making equipment here.,n
+82,21,p,"As for the wine ingredients , they will vary depending on the type of fruit you’re using. Our Fruit Wine article has instructions on making wine from several different kinds of grapes. A Fruit Press and Fruit Crusher are not absolutely necessary for smaller batches of wine, but they are a big time saver if you plan on making 6 gallons of wine or more.",n
+92,21,p,"A hydrometer is a must for making fruit wine because a hydrometer is the only way to accurately know how much sugar to add to the wine. If you don’t have one, we suggest picking one up. They are not very expensive, and they go a long way to making better wine at home. A Hydrometer Test Jar and Wine Thief are also handy, and make taking readings with you hydrometer much easier.",n
+100,21,p,See our video below on using the Master Vintner Fresh Harvest Fruit Winemaking Kit,n
+105,21,h3,More Fruit Wine Reading,n
+107,21,li,How to Make Fruit Wine,n
+109,21,li,Fruit Wine History,n
+111,21,li,Where To Get Fruit For Fruit Wine,n
+113,21,li,Processing Fruit For Fruit Wine,n
+115,21,li,Freezing Fruit For Fruit Wine,n
+117,21,li,Using Juice Concentrate To Make Fruit Wine,n
+119,21,li,Making Fruit Wine with Wine Kits,n

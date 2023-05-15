@@ -1,0 +1,525 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+8,3,h1,Smart device,n
+9,3,div,,n
+11,9,div,"From Wikipedia, the free encyclopedia",n
+15,9,text,Jump to navigation Jump to search,n
+17,9,div,,n
+18,17,div,,n
+25,18,div,,n
+26,25,text,This article may require cleanup to meet Wikipedia's quality standards .,n
+33,25,span,No cleanup reason has been specified. Please help improve this article if you can.,n
+41,25,span,October 2011,n
+46,25,span,Learn how and when to remove this template message,n
+49,18,div,electronic device,n
+59,18,div,the most popular smart devices,n
+62,18,p,"A smart device is an electronic device, generally connected to other devices or networks via different wireless protocols such as Bluetooth , Zigbee , NFC , Wi-Fi , LiFi , 5G , etc., that can operate to some extent interactively and autonomously. Several notable types of smart devices are smartphones , smart cars , smart thermostats , smart doorbells , smart locks , smart refrigerators , phablets and tablets , smartwatches , smart bands , smart key chains , smartglasses , and many others. The term can also refer to a device that exhibits some properties of ubiquitous computing , including—although not necessarily— Machine learning .",n
+108,18,p,"Smart devices can be designed to support a variety of form factors, a range of properties pertaining to ubiquitous computing and to be used in three main system environments: physical world, human-centered environments and distributed computing environments. Smart Homes indicate the presence of sensors and some detection devices, appliances and a database to control them.",n
+111,18,div,,n
+115,111,h2,Contents,n
+118,111,ul,,n
+121,118,li,1,n
+126,118,li,2,n
+131,118,li,3,n
+136,118,li,4,n
+141,118,li,5,n
+146,118,li,6,n
+151,118,li,7,n
+156,118,li,8,n
+169,18,p,In 1991 Mark Weiser proposed three basic forms,n
+174,18,ul,,n
+176,174,li,Tabs,n
+182,174,li,Pads,n
+186,174,li,Boards,n
+193,18,p,"These three forms proposed by Weiser are characterised by being macro-sized, having a planar form and by incorporating visual output displays. These were also envisioned more as information appliances. If we relax each of these three characteristics we can expand this range into a much more diverse and potentially more useful range of ubiquitous computing devices. Hence, three additional forms for ubiquitous systems have been proposed:",n
+206,18,p,"Smart devices are typically composed of a hardware layer , a network layer , and an application layer . These layers often include the following characteristics:",n
+207,18,ul,,n
+209,207,li,system hardware and software IT resources. This set is usually static fixed at design time.,n
+211,207,li,some hardware resources.,n
+215,207,li,Remote external service access and execution.,n
+217,207,li,"Local, internal autonomous service execution.",n
+219,207,li,Access to specific external environments,n
+223,207,li,Some Ubiquitous computing properties.,n
+226,18,p,smart devices include,n
+227,18,ul,,n
+229,227,li,Tab and pad type smart devices that often act as personalised smart mobile devices,n
+234,227,li,Smart environment devices.,n
+246,18,p,Weiser's vision,n
+247,18,ul,,n
+249,247,li,"Devices need to be networked, distributed and transparently accessible.",n
+251,247,li,Human–computer interaction with devices is hidden to a degree from its users.,n
+256,18,p,properties,n
+259,18,ul,,n
+261,259,li,"Devices can operate to some extent autonomously, i.e., without human intervention, be self-governed.",n
+262,259,li,,n
+263,262,text,"Devices can handle a multiplicity of dynamic actions and interactions, governed by intelligent decision-making and organisational interaction. This may entail some form of artificial intelligence in order to:",n
+264,262,ul,,n
+266,264,li,handle incomplete and non-deterministic interactions,n
+268,264,li,organisations,n
+270,264,li,"context, semantics and goals etc.",n
+272,18,p,"However, it is hard to fix a closed set of properties that define all ubiquitous computing devices because of the sheer range and variety of ubiquitous computing research and applications. Rather than to propose a single definition for ubiquitous computing, a taxonomy of properties for ubiquitous computing has been proposed, from which different kinds or flavours of ubiquitous systems and applications can be composed and described.",n
+285,18,p,"The term Smart Device Environments has two meanings. First, it can refer to a greater variety of device environments. Three different kinds of environments for devices can be differentiated:",n
+290,18,ul,,n
+292,290,li,Virtual computing environments that enable smart devices to access pertinent services anywhere and anytime.,n
+295,290,li,"Physical environments that may be embedded with a variety of smart devices of different types including tags, sensors and controllers. These can have different form factors ranging from nano to micro to macro sized.",n
+298,290,li,Humans environments,n
+307,18,p,"Second, the term Smart Device Environments can also refer to the concept of a smart environment which focuses more specifically on the physical environment of the device. The physical environment is smart because it is embedded or scattered with smart devices that can sense and control part of it.",n
+322,18,p,"Although smart devices partially overlap in definition with specific types of appliance such as information appliances , smart devices are characterised and differ in several key ways. First, smart devices in general can take a much wider range of form-factors than appliances. Second, smart devices support the ubiquitous computing properties. Third information appliances focus on remote interaction with computing environments that tend to be personalised whereas smart devices can also focus heavily on impersonal physical world interaction. Four, the term appliance generally implies that devices are task specific and under the control of some embedded system or application specific operating system , whereas smart devices may support multiple tasks, e.g., a mobile phone can act as a phone but also as a games console, music player, camera, etc.The smart devices these generation have the ability to control other smart devices, not necessarily they have to be in the same network or in a particular range they can connect and access an authorized smart device across the globe which has an active Internet connection.smart devices are used for auto pilot features in driving",n
+350,18,ul,,n
+352,350,li,Computer appliance,y
+354,350,li,Connected Devices,y
+356,350,li,Home automation,y
+358,350,li,Information appliance,y
+360,350,li,Things,y
+362,350,li,Mobile device,y
+364,350,li,Mobile phone,y
+366,350,li,Sensor node,y
+368,350,li,Smart environment,y
+370,350,li,"Smart, connected products",y
+374,350,li,Telerobotics,y
+376,350,li,Ubiquitous computing,y
+378,350,li,Things,y
+390,18,div,,n
+391,390,li,,n
+393,391,span,^,n
+396,391,span,"Weiser, Mark . ""The Computer for the Twenty-First Century"". Scientific American . 265 : 94–104. doi : 10.1038 or scientificamerican0991-94 .",n
+407,390,li,,n
+408,407,span,,n
+409,408,text,^,n
+411,408,span,Jump up to,n
+413,408,sup,a,n
+415,408,sup,b,n
+417,408,sup,c,n
+419,408,sup,d,n
+422,407,span,,n
+423,422,text,"Poslad, Stefan . Ubiquitous Computing Smart Devices, Smart Environments and Smart Interaction . Wiley. ISBN",n
+428,422,bdi,--3,n
+445,18,table,"Look up Appliance in Wiktionary, the free dictionary.",n
+452,18,table,,n
+453,452,text,Wikimedia Commons has media related to,n
+455,452,span,Smart devices,n
+457,18,ul,,n
+459,457,li,Things,n
+461,457,li,Smart-Devices,n
+465,18,div,,n
+482,465,div,Mobile phones,n
+483,465,tr,,n
+484,483,th,,n
+487,484,br,"networks ,",n
+490,484,br,protocols,n
+494,483,td,,n
+498,494,ul,,n
+500,498,li,Channel capacity,n
+502,498,li,Frequencies,n
+504,498,li,Multi-band,n
+505,498,li,,n
+506,505,text,Network operator,n
+509,505,li,list,n
+511,498,li,Roaming,n
+513,498,li,Signal,n
+514,498,li,,n
+515,514,text,SIM card,n
+516,514,ul,,n
+518,516,li,dual SIM,n
+520,516,li,SIM lock,n
+522,498,li,Standards comparison,n
+524,498,li,Tethering,n
+526,498,li,VoIP,n
+528,498,li,WAP,n
+530,498,li,XHTML-MP,n
+531,494,tr,,n
+533,531,th,Generations,n
+536,531,ul,,n
+538,536,li,Analogue,n
+541,536,li,0G,n
+543,536,li,1G,n
+545,536,li,Digital,n
+548,536,li,2G,n
+549,536,li,,n
+550,549,text,3G,n
+553,549,li,adoption,n
+555,536,li,5G,n
+557,536,li,4G,n
+559,536,li,5G,n
+561,536,li,5G,n
+563,536,li,6G,n
+565,465,tr,,n
+566,565,th,,n
+567,566,text,General,n
+569,566,br,operation,n
+572,565,ul,,n
+574,572,li,Features,n
+575,572,li,,n
+576,575,text,GSM,n
+579,575,li,services,n
+581,572,li,History,n
+583,572,li,Operating system,n
+584,572,li,,n
+585,584,text,Security,n
+588,584,li,phone cloning,n
+589,572,li,,n
+590,589,text,Telephony,n
+593,589,li,airplane mode,n
+594,572,li,,n
+595,594,text,Text messaging,n
+596,594,ul,,n
+598,596,li,SMS,n
+600,596,li,MMS,n
+602,596,li,RCS,n
+604,572,li,Spam,n
+606,572,li,Tracking,n
+608,572,li,Web browsing,n
+609,465,tr,,n
+613,609,th,devices,n
+617,609,td,,n
+621,617,ul,,n
+623,621,li,Manufacturers,n
+625,621,li,3D phone,n
+629,621,li,Car phone,n
+633,621,li,Projector phone,n
+635,621,li,Satellite phone,n
+638,617,tr,,n
+640,638,th,Form factors,n
+643,638,ul,,n
+645,643,li,Bar,n
+647,643,li,Flip,n
+651,643,li,Slider,n
+653,643,li,Slate,n
+657,643,li,Fold,n
+658,617,tr,,n
+660,658,th,Smartphones,n
+663,658,ul,,n
+664,663,li,,n
+665,664,text,Android devices,n
+668,664,li,rooting,n
+670,663,li,BlackBerry 10,n
+671,663,li,,n
+672,671,text,iPhone,n
+675,671,li,iOS jailbreaking,n
+677,663,li,Open-source mobile phones,n
+679,663,li,Symbian devices,n
+681,663,li,Windows Phone devices,n
+683,465,tr,,n
+684,683,th,,n
+687,684,br,specific,n
+689,684,br,software,n
+693,683,td,,n
+694,693,tr,,n
+696,694,th,Apps,n
+699,694,ul,,n
+701,699,li,Development,n
+703,699,li,Distribution,n
+705,699,li,Management,n
+707,699,li,Cloud computing,n
+708,693,tr,,n
+710,708,th,Commerce,n
+713,708,ul,,n
+715,713,li,Banking,n
+716,713,li,,n
+717,716,text,Marketing,n
+718,716,ul,,n
+720,718,li,advertising,n
+722,718,li,campaigns,n
+723,713,li,,n
+724,723,text,Payments,n
+725,723,ul,,n
+727,725,li,contactless,n
+729,725,li,donating,n
+731,713,li,Ticketing,n
+732,693,tr,,n
+734,732,th,Content,n
+737,732,ul,,n
+739,737,li,Blogging,n
+741,737,li,Email,n
+743,737,li,Gambling,n
+745,737,li,Gaming,n
+747,737,li,Health,n
+749,737,li,Instant messaging,n
+751,737,li,Learning,n
+753,737,li,Music,n
+755,737,li,News,n
+756,737,li,,n
+757,756,text,Search,n
+760,756,li,local,n
+761,737,li,,n
+762,761,text,Social,n
+765,761,li,address book,n
+767,737,li,Television,n
+769,465,tr,,n
+771,769,th,Culture,n
+774,769,ul,,n
+776,774,li,Box breaking,n
+778,774,li,Charms,n
+780,774,li,Comics,n
+782,774,li,Dating,n
+784,774,li,Japanese culture,n
+786,774,li,Novels,n
+787,774,li,,n
+788,787,text,Ringtones,n
+791,787,li,silent mode,n
+793,774,li,Selfie,n
+795,774,li,Txt-spk,n
+797,774,li,Wallpaper,n
+798,465,tr,,n
+799,798,th,,n
+800,799,text,Environment,n
+802,799,br,and health,n
+805,798,ul,,n
+807,805,li,BlackBerry thumb,n
+809,805,li,Driving safety,n
+811,805,li,Electronic waste,n
+813,805,li,External power supply,n
+815,805,li,Mental health from overuse,n
+817,805,li,Phantom vibration syndrome,n
+819,805,li,Radiation and health,n
+821,805,li,Recycling,n
+822,465,tr,,n
+824,822,th,Law,n
+827,822,ul,,n
+829,827,li,Carrier IQ,n
+831,827,li,recording by civilians,n
+833,827,li,Mobile phones in prison,n
+835,827,li,Photography and the law,n
+837,827,li,Telephone tapping,n
+839,827,li,Texting while driving,n
+841,827,li,USA use restrictions while driving,n
+845,465,ul,,n
+847,845,li,Telecommunication portal,n
+849,845,li,Telephones portal,n
+856,18,div,,n
+874,856,div,Computer sizes,n
+878,856,div,computers,n
+879,856,tr,,n
+880,879,th,,n
+881,880,text,"microcomputer ,",n
+884,880,br,personal,n
+886,880,br,computer,n
+890,879,td,,n
+891,890,tr,,n
+893,891,th,static,n
+895,891,div,,n
+897,895,li,,n
+898,897,text,Appliances,n
+899,897,ul,,n
+901,899,li,Smart speaker,n
+903,899,li,Smart TV,n
+905,899,li,Interactive kiosk,n
+907,899,li,Arcade cabinet,n
+908,899,li,,n
+909,908,text,Home console,n
+912,908,li,Microconsole,n
+914,899,li,thin client or computer terminal,n
+918,895,li,,n
+919,918,text,Computers,n
+920,918,ul,,n
+921,920,li,,n
+922,921,text,By use,n
+923,921,ul,,n
+924,923,li,,n
+925,924,text,Home,n
+928,924,li,Home server,n
+930,923,li,Workstation,n
+932,923,li,Personal supercomputer,n
+933,920,li,,n
+934,933,text,By size,n
+935,933,ul,,n
+937,935,li,Portable,n
+938,935,li,,n
+939,938,text,Small form factor,n
+940,938,ul,,n
+942,940,li,Nettop,n
+944,940,li,Plug,n
+946,935,li,Desktop,n
+948,935,li,Deskside,n
+950,935,li,All-in-One,n
+954,890,tr,,n
+956,954,th,mobile,n
+960,954,td,,n
+961,960,tr,,n
+963,961,th,laptop,n
+966,961,ul,,n
+968,966,li,Desktop replacement,n
+971,966,li,,n
+972,971,text,Subnotebook,n
+973,971,ul,,n
+975,973,li,Netbook,n
+977,973,li,Smartbook,n
+979,973,li,Ultrabook,n
+984,960,tr,tablet,n
+996,960,tr,,n
+997,996,th,,n
+998,997,text,handheld,n
+1000,997,br,information,n
+1003,997,br,appliance,n
+1007,996,ul,,n
+1008,1007,li,,n
+1009,1008,text,Handheld PC,n
+1010,1008,ul,,n
+1012,1010,li,Palmtop PC,n
+1014,1010,li,Pocket computer,n
+1016,1010,li,Personal digital assistant,n
+1018,1010,li,Electronic organizer,n
+1019,1007,li,,n
+1020,1019,text,Mobile phone,n
+1026,1019,li,,n
+1027,1026,text,Smartphone,n
+1030,1026,li,Rugged Phone,n
+1034,1007,li,Portable media player,n
+1036,1007,li,E-reader,n
+1038,1007,li,Handheld game console,n
+1040,1007,li,Portable or Mobile data terminal,n
+1043,960,tr,,n
+1045,1043,th,calculator,n
+1048,1043,ul,,n
+1050,1048,li,Scientific,n
+1052,1048,li,Programmable,n
+1054,1048,li,Graphing,n
+1055,960,tr,,n
+1057,1055,th,wearable,n
+1060,1055,ul,,n
+1061,1060,li,,n
+1062,1061,text,Digital wristwatch,n
+1063,1061,ul,,n
+1065,1063,li,Calculator watch,n
+1069,1063,li,Sportwatch,n
+1071,1063,li,Smartband,n
+1073,1060,li,Smartglasses,n
+1075,1060,li,Smart ring,n
+1078,856,tr,,n
+1080,1078,th,midrange,n
+1083,1078,ul,,n
+1085,1083,li,Minicomputer,n
+1087,1083,li,Supermini,n
+1088,856,tr,,n
+1090,1088,th,large,n
+1093,1088,ul,,n
+1095,1093,li,Super,n
+1097,1093,li,Mainframe,n
+1099,1093,li,Minisuper,n
+1100,856,tr,,n
+1102,1100,th,others,n
+1105,1100,ul,,n
+1107,1105,li,Microcontroller,n
+1109,1105,li,Nanocomputer,n
+1111,1105,li,Single-board computer,n
+1113,1105,li,Smartdust,n
+1115,1105,li,Wireless sensor network,n
+1117,1105,li,Server,n
+1126,856,li,Portal,n
+1129,18,li,Get the latest tech news about mobile phones.,n
+1135,18,div,,n
+1137,1135,th,Authority control,n
+1143,1135,li,Germany,n
+1146,17,div,"Retrieved from "" https",n
+1149,9,div,,n
+1150,1149,div,,n
+1151,1150,text,Categories,n
+1153,1150,ul,,n
+1155,1153,li,Smart devices,n
+1157,1153,li,Computer networking,n
+1158,1149,div,,n
+1159,1158,text,Hidden categories,n
+1160,1158,ul,,n
+1162,1160,li,Articles needing cleanup from October 2011,n
+1164,1160,li,All pages needing cleanup,n
+1166,1160,li,Cleanup tagged articles without a reason field from October 2011,n
+1168,1160,li,Wikipedia pages needing cleanup from October 2011,n
+1170,1160,li,Articles with short description,n
+1172,1160,li,Short description is different from Wikidata,n
+1174,1160,li,Pages using multiple image with auto scaled images,n
+1176,1160,li,Commons category link is on Wikidata,n
+1178,1160,li,Articles with GND identifiers,n
+1179,0,div,,n
+1181,1179,h2,Navigation menu,n
+1182,1179,div,,n
+1183,1182,nav,,n
+1186,1183,h3,Personal tools,n
+1188,1183,ul,,n
+1191,1188,li,Not logged in,n
+1197,1188,li,Contributions,n
+1200,1188,li,Create account,n
+1203,1188,li,Log in,n
+1204,1182,div,,n
+1205,1204,nav,,n
+1208,1205,h3,Namespaces,n
+1213,1205,li,Article,n
+1221,1204,span,English,n
+1224,1182,div,,n
+1225,1224,nav,,n
+1228,1225,h3,Views,n
+1230,1225,ul,,n
+1233,1230,li,Read,n
+1236,1230,li,Edit,n
+1239,1230,li,View history,n
+1244,1224,span,More,n
+1251,1224,h3,Search,n
+1258,1179,div,,n
+1260,1258,nav,,n
+1263,1260,h3,Navigation,n
+1265,1260,ul,,n
+1268,1265,li,Main page,n
+1271,1265,li,Contents,n
+1274,1265,li,Current events,n
+1277,1265,li,Random article,n
+1283,1265,li,Contact us,n
+1286,1265,li,Donate,n
+1287,1258,nav,,n
+1290,1287,h3,Contribute,n
+1292,1287,ul,,n
+1295,1292,li,Help,n
+1298,1292,li,Learn to edit,n
+1301,1292,li,Community portal,n
+1304,1292,li,Recent changes,n
+1308,1258,nav,,n
+1311,1308,h3,Tools,n
+1313,1308,ul,,n
+1316,1313,li,What links here,n
+1319,1313,li,Related changes,n
+1325,1313,li,Special pages,n
+1328,1313,li,Permanent link,n
+1331,1313,li,Page information,n
+1334,1313,li,Cite this page,n
+1337,1313,li,Wikidata item,n
+1338,1258,nav,,n
+1341,1338,h3,Print or export,n
+1343,1338,ul,,n
+1346,1343,li,Download as PDF,n
+1349,1343,li,Printable version,n
+1350,1258,nav,,n
+1353,1350,h3,In other projects,n
+1358,1350,li,Wikimedia Commons,n
+1359,1258,nav,,n
+1363,1359,h3,Languages,n
+1364,1359,div,,n
+1365,1364,ul,,n
+1368,1365,li,العربية,n
+1371,1365,li,Català,n
+1374,1365,li,Dansk,n
+1377,1365,li,Deutsch,n
+1380,1365,li,Eesti,n
+1383,1365,li,Español,n
+1386,1365,li,Esperanto,n
+1389,1365,li,فارسی,n
+1392,1365,li,Français,n
+1398,1365,li,हिन्दी,n
+1401,1365,li,Bahasa Indonesia,n
+1404,1365,li,Bahasa Melayu,n
+1410,1365,li,Српски or srpski,n
+1413,1365,li,Türkçe,n
+1416,1365,li,Tiếng Việt,n
+1418,1365,button,8 more,n
+1421,1364,div,Edit links,n
+1422,0,footer,,n
+1423,1422,ul,,n
+1425,1423,li,"This page was last edited on 19 June 2022, at 07:58",n
+1430,1423,li,"Text is available under the Creative Commons Attribution-ShareAlike License 3.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.",n
+1439,1422,ul,,n
+1441,1439,li,Privacy policy,n
+1445,1439,li,Disclaimers,n
+1447,1439,li,Contact Wikipedia,n
+1449,1439,li,Mobile view,n
+1451,1439,li,Developers,n
+1453,1439,li,Statistics,n
+1455,1439,li,Cookie statement,n
+1457,1439,li,Edit preview settings,n

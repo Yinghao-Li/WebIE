@@ -1,0 +1,271 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,article,,n
+3,2,div,,n
+5,3,ul,,n
+8,5,li,Share,n
+11,5,li,PINTEREST,n
+14,5,li,Email,n
+17,3,form,Print,n
+20,2,div,,n
+22,20,span,Sports and Athletics,n
+23,20,ul,,n
+24,23,li,,n
+25,24,text,Cheerleading,n
+28,24,li,Cheers,n
+30,23,li,Baseball,n
+32,23,li,Bicycling,n
+34,23,li,Billiards,n
+36,23,li,Bodybuilding,n
+38,23,li,Bowling,n
+40,23,li,Boxing,n
+42,23,li,Car Racing,n
+44,23,li,Extreme Sports,n
+46,23,li,Football,n
+48,23,li,Golf,n
+50,23,li,Gymnastics,n
+52,23,li,Ice Hockey,n
+54,23,li,Martial Arts,n
+56,23,li,Professional Wrestling,n
+58,23,li,Skateboarding,n
+60,23,li,Skating,n
+62,23,li,Paintball,n
+64,23,li,Soccer,n
+66,23,li,Swimming and Diving,n
+68,23,li,Table Tennis,n
+70,23,li,Tennis,n
+72,23,li,Track and Field,n
+74,23,li,Volleyball,n
+76,23,li,Other Activities,n
+78,20,span,Learn More,n
+81,2,div,,n
+82,81,div,,n
+84,82,span,By,n
+85,82,div,,n
+86,85,text,Valerie Ninemire,n
+87,85,div,,n
+88,87,div,,n
+90,88,div,Valerie Ninemire,n
+92,88,div,Cheer Coach and Advisor magazine.,n
+93,87,div,,n
+95,93,span,Learn about our,n
+96,93,text,Editorial Process,n
+98,81,div,Updated on 06 or 10 or 18,n
+100,2,div,,n
+102,100,p,cheerleading ? Learn the lingo with this A to Z glossary.,n
+114,100,p,,n
+116,114,strong,Aerial,n
+117,114,text,Used to describe a cartwheel without hands touching the ground or floor. Sometimes refers to a walkover or roundoff without hands.,n
+119,100,p,,n
+121,119,strong,All Stars,n
+122,119,text,A Cheerleading squad that is not associated or affiliated with a school,n
+124,100,p,,n
+126,124,strong,Arabesque,n
+127,124,text,One leg is down straight and the other is behind you almost at a ninety-degree angle to your back.,n
+129,100,p,,n
+131,129,strong,Attack the Crowd,n
+132,129,text,"A technique used to get the audience involved in a cheer, dance or song.",n
+134,100,p,,n
+136,134,strong,Awesome,n
+137,134,text,Similar to an elevator except the bases bring their hands to the middle and the climber's feet are positioned very close together. This is also known as a Cupie.,n
+139,100,p,,n
+141,139,strong,Back Handspring,n
+142,139,text,"Backwards jump onto your hands, then a quick push from your hands to your feet. Also known as flip-flop or flick-flack.",n
+144,100,p,,n
+146,144,strong,Banana,n
+147,144,text,When you arch your back and reach upwards. You usually only do a banana when you are doing a combination jump or riding up a basket toss.,n
+149,100,p,,n
+151,149,strong,Base,n
+153,149,text,he person or persons who remain in contact with the floor lifting the flyer into a stunt. Person or persons on the bottom of a stunt or pyramid.,n
+157,100,p,Basket Toss,n
+160,100,p,,n
+162,160,strong,Briefs,n
+163,160,text,"Matching undies that are part of your Cheerleading uniform, worn under your skirt. Sometimes called bloomers, spankies, tights, or lolipops.",n
+170,100,p,,n
+172,170,strong,Buckets,n
+173,170,text,"When you hold your arms straight out in front of you, with your fists facing down as if you were holding the handle of a bucket in each hand.",n
+180,100,p,,n
+182,180,strong,Candle Sticks,n
+183,180,text,A cheer motion where you extend your arms out in front of you with your fists facing each other as if you were holding a lit candle in each hand.,n
+191,100,p,,n
+193,191,strong,Captain,n
+195,191,text,a squad or team.,n
+203,100,p,,n
+205,203,strong,Chant,n
+206,203,text,"A short cheer, with simple arm movements. A short repeated yell. Usually done on the sidelines.",n
+212,100,p,,n
+214,212,strong,Cheer,n
+216,212,text,"A longer yell, that involves motions, pom pons, stunts, jumps, or tumbling.",n
+222,100,p,,n
+224,222,strong,Choreography,n
+225,222,text,dance steps and movements.,n
+231,100,p,,n
+233,231,strong,Coach,n
+235,231,text,"A person that instructs or teaches a performer, player, or team.",n
+237,100,p,,n
+239,237,strong,Competitions,n
+240,237,text,"An event where squads come to test their skills against others and compete for 1st, 2nd or 3rd place finishes.",n
+242,100,p,,n
+244,242,strong,Cradle Catch,n
+245,242,text,An end movement where a base catches a flyer or flier after tossing her in the air. The base holds the flyer or flier under her thighs and around her back.,n
+247,100,p,,n
+249,247,strong,Cupie,n
+250,247,text,One base holds up a flyer or flier with one hand. The bases arm is fully extended and both of the flyer's feet are in the base's one hand. Also known as a kewpie or awesome.,n
+252,100,p,,n
+254,252,strong,Deadman,n
+255,252,text,When the flyer falls backward or forwards out of a stunt. 3 or 4 people catch the flyer and could possibly push the flyer back up to the bases hands.,n
+257,100,p,,n
+259,257,strong,Dismount,n
+260,257,text,A way to return the flyer to the floor after a stunt. Returning to the floor position after a routine or mount.,n
+262,100,p,,n
+264,262,strong,Double Hook,n
+265,262,text,"A jump where one leg is bent in front of you and the other leg is bent behind you, your arms are in a high V. Also known as a Pretzel, Abstract, or Table Top.",n
+267,100,p,,n
+269,267,strong,Elevator,n
+270,267,text,one flyer. The feet are both held at shoulder level.,n
+272,100,p,,n
+274,272,strong,Execution,n
+275,272,text,"To perform a stunt or routine; The way in which a stunt or routine is performed. The form, style, and technique of a stunt or routine make up its execution.",n
+277,100,p,,n
+279,277,strong,Extension,n
+280,277,text,"One of the basic stunts. Two bases each hold one of the flyer's feet at their chest level and a spotter stands in back. From this position, you can move into a full extension. The full extension is where the bases' arms are straight, holding the flyer above their heads.",n
+282,100,p,,n
+284,282,strong,Facials,n
+285,282,text,"Expressions, like winks, big smiles, occasional sticking out your tongue, and bobbing your head up and down, that convey enthusiasm and get the crowd and judges excited.",n
+287,100,p,,n
+289,287,strong,Flier or Flyer or Floater,n
+291,287,text,The person who is elevated into the air by the bases; the person that is on top of a pyramid or stunt.,n
+293,100,p,,n
+295,293,strong,Full Extension,n
+296,293,text,"Two bases each hold one of the flyer's feet at their chest level and a spotter stands in back. From this position, the bases move into a full extension by raising the flyer with their arms up straight and holding the flyer above their heads. There are double based extensions and single based.",n
+300,100,p,Handspring,n
+305,100,p,Handstand,n
+308,100,p,,n
+310,308,strong,Heel Stretch,n
+311,308,text,Same as a Liberty except your bent leg is held straight up with your hand. See Liberty.,n
+316,308,br,A jump where the straight leg is held to the side while being careful to keep hips squared and torso facing forward. The bent knee should be pointing down. Often confused with hurdler.,n
+315,308,strong,Herkie,n
+318,100,p,,n
+320,318,strong,High V,n
+321,318,text,"A motion where both arms are locked and hands are in buckets, both arms are up forming a V.",n
+323,100,p,,n
+325,323,strong,Hurdler,n
+326,323,text,"There are two versions of the hurdler—the front hurdler and the side hurdler. In both, the most important thing is that the bent knee is facing the side as if placed on a table. In the front hurdler, the straight leg is extended to the front of the body and the bent knee to the back. In the side hurdler, the straight leg is to the side and the bent leg is to the side, much like in the Herkie, but the bent knee is facing the side, rather than down.",n
+328,100,p,,n
+330,328,strong,Judge,n
+331,328,text,The person or persons delegated to score you at tryouts or your squad at competitions.,n
+333,100,p,,n
+335,333,strong,Jumps,n
+336,333,text,"An action where both feet leave the ground; A coordinated placement of the arms and legs while the feet are off the ground. There are three parts to a jump; the prep or approach, the lift, and the landing.",n
+338,100,p,,n
+340,338,strong,JV,n
+342,338,text,An abbreviation,n
+344,100,p,,n
+346,344,strong,K motion,n
+347,344,text,One arm forms a High V and the other arm comes across your body. There are left and right K motions.,n
+349,100,p,,n
+351,349,strong,Kewpie,n
+352,349,text,One base holds up a flyer or flier with one hand. The bases arm is fully extended and both of the flyer's feet are in the base's one hand. Also known as a cupie or awesome.,n
+354,100,p,,n
+356,354,strong,L motion,n
+357,354,text,Both arms form an L shape. The up arm should have your pinky facing the crowd and the side arm should have your thumb facing the crowd. There are left and right L motions.,n
+359,100,p,,n
+361,359,strong,Liberty,n
+362,359,text,A base holds up a flyer or flier with one of her feet in both of the base's hands. The flyer's other leg is bent. There are also one armed Liberties. The arms can be in a high V or one arm in a high V and the other on your hip.,n
+364,100,p,,n
+366,364,strong,Mascot,n
+367,364,text,"An animal, object or person adopted by a group to bring them good luck or be symbolic of their association, organization, group or school.",n
+369,100,p,,n
+371,369,strong,Megaphone,n
+372,369,text,A funnel-shaped device used to amplify and direct your voice.,n
+374,100,p,,n
+376,374,strong,Motion,n
+377,374,text,"A set position of a Cheerleader's arms. Motions include T motion, L motion, K motion, hands on hips, diagonals, touchdown, daggers, High V, Low V, and variations of them.",n
+379,100,p,,n
+381,379,strong,Mount,n
+382,379,text,When one or more people are supported in the air. Another word,n
+384,100,p,,n
+386,384,strong,Peel Off or Reload,n
+387,384,text,"When a squad is divided into two or more groups to do the same motion, skill or step at different times. Usually used to give a good visual effect.",n
+389,100,p,,n
+391,389,strong,Pom Pon,n
+392,389,text,plastic strips connected by a handle. Also called Pom Pom.,n
+394,100,p,,n
+396,394,strong,Pyramid,n
+397,394,text,stunts next to one another.,n
+399,100,p,,n
+401,399,strong,Roundoff,n
+402,399,text,A basic beginner tumbling skill. Once perfected it is used as a setup,n
+404,100,p,,n
+406,404,strong,Routine,n
+407,404,text,"A continuous show of talent in the squad by use of cheers, chants and dance steps. Can last from 2 min. 30 sec. up to 4 min. depending on the time limits of the competition or showcase.",n
+409,100,p,,n
+411,409,strong,Scorpion,n
+412,409,text,While in a Liberty you grab the toe of your bent leg and bring it up to almost behind your head.,n
+414,100,p,,n
+416,414,strong,Sell It,n
+417,414,text,"A term used when facials or attitude is exaggerated to make the cheer, motion or dance step have more appeal.",n
+419,100,p,,n
+421,419,strong,Spankies,n
+422,419,text,Another word,n
+424,100,p,,n
+426,424,strong,Spotter,n
+427,424,text,A person that stays in contact with the performing surface and watches for any hazards in the stunt or mount. The spotter is responsible for watching the flyer and to be prepared to catch her if she falls.,n
+429,100,p,,n
+431,429,strong,Squad,n
+433,429,text,people organized,n
+435,100,p,,n
+437,435,strong,Stunt,n
+438,435,text,"Any skill or feat involving tumbling, mounting, a pyramid, or toss. Usually does not refer to a jump.",n
+440,100,p,,n
+442,440,strong,Suck it Up,n
+443,440,text,"When a cheerleader says suck it up, it means while a flyer is up in a stunt, to try to hold it and not fall.",n
+445,100,p,,n
+447,445,strong,T motion,n
+448,445,text,When the Cheerleader's arms form a T with the thumb side of her fists facing the crowd. There is a half or broken T where your elbows are bent and the pinky side of your fist is facing the crowd.,n
+450,100,p,,n
+452,450,strong,Table Top,n
+453,450,text,"A jump where it appears the Cheerleader is sitting in the air. This jump is sometimes referred to as an Abstract or Double Hook, depending on where you live. Sometimes the dagger motion is also called a table top.",n
+455,100,p,,n
+457,455,strong,Tick-Tock,n
+458,455,text,When a flier switches feet in a stunt.,n
+460,100,p,,n
+462,460,strong,Toe Touch,n
+463,460,text,A jump where the Cheerleader brings both legs up to their outwardly extended hands and snaps their legs down with as much force as they came up with.,n
+465,100,p,,n
+467,465,strong,Touchdown,n
+468,465,text,"Cheerleading motion where both arms are held directly overhead, tight against the head or ears. Hands have palms facing each other, pinky side out.",n
+470,100,p,,n
+472,470,strong,Try Out,n
+474,470,text,The way to narrow down potential cheerleaders for a squad. Usually conducted by the coach and or or trained or accredited judges. Special skills are named by the coach to perform and be judged on individual performance.,n
+476,100,p,,n
+478,476,strong,Tuck,n
+479,476,text,Jump where you bring both knees up to your chest. Can be used as a jump or for flipping.,n
+481,100,p,,n
+483,481,strong,Tumbling,n
+484,481,text,"Any gymnastic skill used in a cheer, dance, or for crowd appeal. Can be done as an individual or as a group in unison.",n
+486,100,p,,n
+488,486,strong,V motion,n
+489,486,text,Cheerleading motion where both arms are up forming a V. Thumb side,n
+491,100,p,,n
+493,491,strong,Varsity,n
+494,491,text,"The main squad the represents a school, college or university. Upperclassmen.",n
+499,0,div,,n
+500,499,ul,,n
+508,500,li,Top Cheerleading Positions,n
+516,500,li,Motion Magic,n
+524,500,li,Perfecting Your Cheerleading Toe Touch Jump,n
+532,500,li,Cheerleaders,n
+540,500,li,Cheerleading Quotes,n
+548,500,li,30 Great Cheers and Chants,n
+556,500,li,"Cheers, Chants, and Yells",n
+564,500,li,Ice Skating Terms Every Skater Should Know,n
+567,499,ul,,n
+575,567,li,Great Cheers,n
+583,567,li,13 Fun Cheers,n
+591,567,li,How to Do a Backflip in 5 Easy Steps,n
+599,567,li,Pike Position,n
+607,567,li,How to Do Splits,n
+615,567,li,Low Pulley Rows,n
+623,567,li,Using the Barre,n
+631,567,li,Illustrated Step-by-Step Long Jump Technique,n

@@ -1,0 +1,215 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+47,0,div,,n
+49,47,div,,n
+50,49,div,,n
+52,50,h1,U.S. COAST GUARD MINIMUM REQUIREMENTS FOR RECREATIONAL BOATS,n
+54,50,p,,n
+57,54,text,by Chris Riley Updated on,n
+61,54,span,"May 8, 2021",n
+62,54,text,. In nauticalknowhow,n
+66,50,div,"Boat Safe is a community supported site. We may earn commission from links on this page, but we have confidence in all recommended products.",n
+67,50,div,,n
+69,67,p,"This is the current up-to-date list of the U.S Coast Guard’s minimum safety requirements for recreational boat s with sizes of up to 65 ft in size. These requirements detail what boating safety equipment must be present on board, and other necessary features that must be installed to comply with federal laws.",n
+73,67,p,"It’s worth noting that these are only the minimum requirements, and we recommend that you exceed them if you can. Similarly, these USCG rules are only the federal requirements. Individual states may have additions to this list, with additional equipment and operating standards require on top of these minimum requirements. Check with your local authorities to find out the specifics.",n
+81,67,h2,U.S. COAST GUARD MINIMUM REQUIREMENTS FOR RECREATIONAL BOATS,n
+83,67,h3,Personal Flotation Devices,y
+87,67,p,"One approved Type I, II, III or V PFD for each person on board or being towed on water skis, tubes, etc.",n
+90,67,p,For boats sized between than 16 ft and 65.6 ft,n
+95,67,p,"Check state laws for PFD wearing requirements for children and for certain water craft and sports. Federal Regulations mandate that states without child life jacket laws require that youths under 13 wear an approved PFD whenever a recreational boat is underway, unless below decks or in a closed cabin. States with existing regulations are not required to alter their status. Make sure you check your state regulations before getting underway with children onboard.",n
+100,67,h3,Bells and Whistles,y
+101,67,p,,n
+103,101,strong,For all boats smaller than 65.6 ft,n
+104,101,text,Every vessel less than 65.6 ft. in length must carry an efficient sound producing device.,n
+105,67,p,,n
+107,105,strong,For boats larger than 65.6 ft,n
+108,105,text,"On Federally controlled waters, every vessel 65.6 ft. or larger in length must carry a whistle and a bell. They must be audible for 1 nautical mile.",n
+110,67,h3,Visual Distress Signals,y
+112,67,p,"These visual distress signal requirements only apply for coastal waters, the Great Lakes and U.S. owned boats on the high seas.",n
+115,67,div,,n
+117,115,h3,MY LATEST VIDEOS,n
+121,115,div,,n
+137,121,div,BoatSafe,n
+153,121,div,,n
+155,153,span,"1 minute, 21 seconds",n
+157,153,span,Volume 0%,n
+158,121,div,,n
+161,158,span,keyboard shortcuts,n
+162,158,div,,n
+163,162,div,,n
+165,163,span,Keyboard Shortcuts,n
+166,163,button,,n
+169,166,span,Enabled,n
+171,166,span,Disabled,n
+173,162,div,,n
+174,173,div,,n
+176,174,span,Play or Pause,n
+178,174,span,SPACE,n
+179,173,div,,n
+181,179,span,Increase Volume,n
+183,179,span,↑,n
+184,173,div,,n
+186,184,span,Decrease Volume,n
+188,184,span,↓,n
+189,173,div,,n
+191,189,span,Seek Forward,n
+193,189,span,→,n
+194,173,div,,n
+196,194,span,Seek Backward,n
+198,194,span,←,n
+199,173,div,,n
+201,199,span,Captions On or Off,n
+203,199,span,c,n
+204,173,div,,n
+206,204,span,Fullscreen or Exit Fullscreen,n
+208,204,span,f,n
+209,173,div,,n
+211,209,span,Mute or Unmute,n
+213,209,span,m,n
+216,173,div,Seek %,n
+256,121,div,,n
+286,256,div,Live,n
+288,256,div,00:00,n
+313,67,p,They are required to carry approved visual distress signals,n
+314,67,p,,n
+316,314,strong,For boats above 16 ft but no greater than 65.6 ft:,n
+317,314,text,They must carry approved visual distress signals,n
+319,67,h3,Fire Extinguishers,y
+320,67,p,,n
+322,320,strong,For boats up to 26 ft,n
+323,320,text,One B-I type approved hand portable fire extinguisher .,n
+328,67,p,,n
+330,328,strong,For boats between 26 ft and 40 ft,n
+331,328,text,Two B-I type OR one B-II type approved portable fire extinguishers.,n
+332,67,p,,n
+334,332,strong,For boats between 40 ft and 65.6 ft,n
+335,332,text,Three B-I type OR one B-I type PLUS one B-II type approved portable fire extinguishers are required.,n
+339,67,p,When a fixed fire extinguishing system is installed in machinery spaces it will replace one B-I portable fire extinguisher.,n
+341,67,h3,Ventilation,y
+343,67,p,"Coast Guard requirements on ventilation differ depending on the date your boat was manufactured. The requirements don’t change depending on the size of your vessel, just the date it was built.",n
+347,67,p,,n
+349,347,strong,Boats built on or after 8 or 1 or 1980:,n
+350,347,text,"At least two ventilation ducts capable of efficiently ventilating every closed compartment that contains a gasoline engine and or or tank, except those having permanently installed tanks that vent outside of the boat and which contain no unprotected electrical devices.",n
+352,67,p,Engine compartments containing a gasoline engine with a cranking motor are additionally required to contain power operated exhaust blowers that can be controlled from the instrument panel.,n
+353,67,p,,n
+355,353,strong,Boats built before 8 or 1 or 1980,n
+356,353,text,"At least two ventilation ducts fitted with cowls for the purpose of efficiently and properly ventilating the bilges of every closed engine and fuel tank compartment using gasoline as fuel or other fuels having a flashpoint of 110 degrees or less. This applies to boats constructed or decked over after April 25, 1940.",n
+361,67,h3,Back Fire Flame Arrestor,y
+363,67,p,"One approved device on each carburetor of all gasoline engines installed after April 25, 1940, except for outboard motors. This regulation applies to all recreational boats.",n
+365,67,h3,Navigation Rulebooks,y
+367,67,p,All boats over 40 ft in length must carry an up to date copy of the ISDOT ISCG International – Inland Navigational Rules book on board.,n
+369,67,h2,Other Things To Consider,n
+371,67,p,"It’s worth noting that some states have requirements in addition to the federal requirements. Make sure that you check your state’s boating laws for additional requirements. While these aren’t always mandatory, we’ve put together a short list of things that are essential to keep aboard, no matter what size your boat is.",n
+376,67,h3,First Aid Kit,y
+378,67,p,"A first aid kit should be kept on board. Make sure it has a selection of band aids and bandages, as well as range of medication.",n
+380,67,h3,Tools,y
+382,67,p,Keeping tools on your boat can help you out in a bind. Don’t rely on pocket knives and multi-tools; having the right tool for the job will make minor repairs much easier.,n
+384,67,h3,VHF Radio,y
+386,67,p,"No boat should leave the marina without some kind of practical communication device. While some boaters are confident enough to leave with just a cell phone, a portable VHF radio will be of far more use in an emergency .",n
+390,67,h3,Emergency Fuel And Water,y
+392,67,p,"Spare fuel is sensible to have on board. You don’t want to get caught out with an empty fuel tank. Similarly, extra reserves of drinking water should also be kept aboard.",n
+394,67,h3,Bilge Pump,y
+396,67,p,"While most large vessels will have bilge pumps as standard, we recommend traveling with a manual bilge pump to help bail out water in the event of a power failure. A bucket will also work, but a dedicated bilge pump is a better tool for the job .",n
+400,67,h3,Sun Protection,y
+402,67,p,A bottle of sunscreen should be kept along with your first aid kit. There will be at least one occasion when you head out on the water but forget to bring some sun protection.,n
+406,67,h3,An Anchor,y
+408,67,p,"An anchor and chain may help in an emergency. If you can keep yourself anchored to a single point, it will be easier for authorities to find you. An anchor with enough chain should be kept aboard all recreational boats .",n
+412,67,h2,In Summary,n
+414,67,p,"The U.S Coast Guard’s minimum requirements are just that: the minimum requirement. We recommend that you exceed these requirements where possible. There’s nothing wrong with carrying more PFDs than you need, or equipping more visual distress signals than the rule book says.",n
+418,67,p,"Don’t forget, these Coast Guard boat requirements are in place to keep you safe. Besides, if you don’t follow the rules and end up having an accident, your insurance company won’t pay you a dime if you didn’t take the necessary precautions.",n
+420,67,p,"For peace-of-mind, we recommend that you contact your neared branch of the U.S. Coast Guard or U.S. Coast Guard Auxiliary for a voluntary Vessel Safety Check.",n
+427,50,div,,n
+429,427,h3,About Chris,n
+432,427,p,"Outdoors, I’m in my element, especially in the water. I know the importance of being geared up for anything. I do the deep digital dive, researching gear, boats and knowhow and love keeping my readership at the helm of their passions.",n
+438,50,p,Categories,n
+442,50,div,,n
+444,442,h2,11 Comments,n
+445,442,ul,,n
+450,445,li,,n
+451,450,h3,,n
+453,451,cite,Martyn deal,n
+455,451,text,"on December 29, 2019",n
+458,450,p,the required safty equipment would be a big help,n
+466,445,li,,n
+467,466,h3,,n
+469,467,cite,Kevin Donoghue,n
+471,467,text,"on June 5, 2020",n
+474,466,p,How many FAMILY members can we have on our 20 foot boat? Boat safely says 7 people. We are just concerned regarding the COVID regulations.,n
+482,445,li,,n
+483,482,h3,,n
+485,483,cite,PEDRO ORTIZ-CHEVRES,n
+487,483,text,"on June 11, 2020",n
+490,482,p,Would appreciate a list requirements to comply,n
+498,445,li,,n
+499,498,h3,,n
+501,499,cite,Kazmierski James F,n
+503,499,text,"on June 16, 2020",n
+506,498,p,old and outdated flares.,n
+514,445,li,,n
+515,514,h3,,n
+517,515,cite,William Shifter,n
+519,515,text,"on June 27, 2020",n
+522,514,p,I have a 24 foot bay boat with a 250 hp motor am I required to have a paddle,n
+530,445,li,,n
+531,530,h3,,n
+533,531,cite,Merwin Cotton,n
+535,531,text,"on February 27, 2021",n
+538,530,p,Where should all required equipment be stored on a 20 foot vessel be kept ?,n
+546,445,li,,n
+547,546,h3,,n
+549,547,cite,Stephen Whittle,n
+551,547,text,"on November 29, 2021",n
+554,546,p,My boat is a ranger 2000 520 VX and the name plate rating on it say it’s only rated for a 225 hp motor but per coast guard and vessel over 20 foot is unlimited. Do this law override the name plate if the boat is dated older than the law. Bass Boats now that are over 20 all have 250ho motors. Could I get some info please.,n
+562,445,li,,n
+563,562,h3,,n
+565,563,cite,Robert Hogward,n
+567,563,text,"on March 3, 2022",n
+570,562,p,I now know on a 15-foot boat which object is required to be on-board. Great article. Most folks have to learn this the hard way.,n
+578,445,li,,n
+579,578,h3,,n
+581,579,cite,James Fournier,n
+583,579,text,"on April 8, 2022",n
+586,578,p,I have a 15-gal fuel only go out once a year; fuel goes bad and was wanting to use a small outboard fuel tank for my diesel . what is not used will go into my truck .Steave at marina told me that it was against coastguard regulation and it would pass inspection and acted like he was part of the coastguard I am a retired wildland fire fighter always trying to be safe and not pollute,n
+594,445,li,,n
+595,594,h3,,n
+597,595,cite,Randall Allen Kinas,n
+599,595,text,"on April 27, 2022",n
+602,594,p,looking for requirements for kill switches on recreational boats. are there new regs out there and what is required on boats under 28 foot?,n
+610,445,li,,n
+611,610,h3,,n
+613,611,cite,Joe Lasee,n
+615,611,text,"on June 9, 2022",n
+618,610,p,Boat is less than 16′. Do I need night visual distress signals if I am only operating in daylight hours?,n
+622,442,div,,n
+623,622,h3,,n
+624,623,text,Leave a Reply,n
+626,623,small,Cancel reply,n
+627,622,form,,n
+628,627,p,,n
+630,628,span,Your email address will not be published.,n
+632,628,span,Required fields are marked,n
+637,627,p,Comment,n
+643,627,p,Name,n
+649,627,p,Email,n
+655,627,p,Website,n
+660,627,p,"Save my name, email, and website in this browser",n
+669,627,p,Δ,n
+675,49,h3,More in nauticalknowhow,n
+676,49,div,,n
+682,676,h4,How to Clean a Boat Cover,n
+689,676,h4,Everything You Need to Know About Your Boat’s Bilge Pump,n
+696,676,h4,4 Ways to Tie Your Boat Shoes,n
+703,676,h4,How to Cover a Boat with a Tarp,n
+707,47,div,,n
+713,707,h3,8 Best Boat Trailer Locks,n
+720,707,h3,How to Bottom Paint a Boat on a Trailer,n
+727,707,h3,How to Lock a Boat Trailer,n
+734,707,h3,2022,n
+741,707,h3,Best Bass Lures – Top 5 Picks,n
+746,0,div,,n
+749,746,ul,,n
+751,749,li,About,n
+753,749,li,Contact,n
+755,749,li,Privacy Policy,n
+760,746,p,All content is © Copyright 2020. All rights reserved.,n
+769,0,div,×,n

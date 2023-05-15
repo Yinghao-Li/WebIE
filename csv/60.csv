@@ -1,0 +1,51 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+3,2,section,,n
+6,3,p,"The Big Year movie opened last night, and audiences poured in to watch Jack Black, Steve Martin, and Owen Wilson race around the countryside wielding binoculars. The birds and bird names came thick and fast—and I’m sure some people wondered how anyone learns to identify so many of anything. But like anything, it’s mainly practice—and it’s surprisingly easy to learn. You can do it pretty much anytime you’re outside. Birding mainly involves patience, careful observation, and a willingness to let the wonder and beauty of the natural world overtake you. Here are some tips on how to get started:",n
+7,3,p,,n
+9,7,strong,Binoculars.,y
+10,7,text,"Your enjoyment of birds depends hugely on how great they look through your binoculars, so make sure you’re getting a big, bright, crisp picture through yours. In recent years excellent binoculars have become available at surprisingly low prices. So while binoculars under $100 may seem tempting, it’s truly worth it to spend $250 to $300 for vastly superior images as well as lifetime warranties, waterproof housing, and light weight.",n
+12,3,p,Two great models for beginning birders are Nikon Monarchs and Leupold Yosemites . We suggest getting 7-power or 8-power binoculars—they’re a nice mix of magnification while still allowing you a wide enough view that your bird won’t be constantly hopping out of your image. Here’s more advice about buying optics without breaking the bank .,n
+18,3,ul,,n
+26,18,li,The Big Year,n
+34,18,li,"Birds, Birders, and Birding in The Big Year: What We Noticed",n
+42,18,li,10 Great Books on Birds,n
+50,18,li,Birds on Film,n
+51,3,p,,n
+53,51,strong,Field Guide.,n
+54,51,text,"Once you start seeing birds, you’ll start wondering what they are. An informal poll of my coworkers showed a clear field guide favorite: the Sibley Guide , in either its full North America version or smaller, more portable Eastern and Western editions. Other useful guides are Kaufman’s, Peterson’s, the National Geographic guide, and Crossley’s recently published tome . Don’t forget that on the Web you can get information and sounds for nearly 600 species for free on our All About Birds site.",n
+63,3,p,,n
+65,63,strong,Bird Feeders.,y
+66,63,text,"With binoculars for viewing and a guide to help you figure out what’s what, the next step is to bring the birds into your backyard, where you can get a good look at them. Bird feeders come in all types: we recommend starting with a black-oil sunflower feeder , add a suet feeder in winter and a hummingbird feeder in summer . From there you can diversify to millet, thistle seeds, mealworms, and fruit to attract other types of species. Our Attract Birds section is a great place to learn about this.",n
+75,3,p,,n
+77,75,strong,Spotting scope.,y
+78,75,text,"By this point in our list, you’ve got pretty much all the gear you need to be a birder… until you start looking at those ducks on the far side of the pond, or shorebirds in mudflats, or that Golden Eagle perched on a tree limb a quarter-mile away. Though they’re not cheap, spotting scopes are indispensable for getting those last few clues about a species’ ID—or to simply revel in intricate plumage details that can be brought to life only with a 20x to 60x zoom. And scopes, like binoculars, are coming down in price while going up in quality—see a spotting scope comparison we conducted in Living Bird magazine a few years ago.",n
+83,3,p,,n
+85,83,strong,Camera.,y
+86,83,text,"With the proliferation of digital gadgetry, you can take photos anywhere, anytime. Snapping even a blurry photo of a bird can help you or others clinch its ID. And birds are innately artistic creatures—more and more amateur photographers are connecting with birds through taking gorgeous pictures. See our Facebook albums , Birdshare group on Flickr, and Featured Photographer galleries for inspiration. There’s also the growing practice of digiscoping—pointing your camera through a spotting scope or binoculars. Even a cell phone will work—see this gallery and tips from Cornell Lab staffer Charles Eldermire.",n
+95,3,p,,n
+97,95,strong,Skills.,n
+98,95,text,"Once you’re outside and surrounded by birds, we recommend practicing a four-step approach to identification. First you judge the bird’s size and shape; then look for its main color pattern; take note of its behavior; and factor in what habitat it’s in. We’ve got free online tutorials to let you practice each of these skills, and a free Inside Birding video series that walks you through each one.",n
+103,3,p,,n
+105,103,strong,Records.,y
+106,103,text,"Birders like the ones who inspired The Big Year are called listers —people who love compiling lists of the species they’ve seen. But you don’t have to be a lister to reap benefits of writing down what you see—think of notes as a kind of diary with a focus, chronicling the days of your life through the birds you’ve seen and places you’ve been. Many people keep their records online in our free eBird project, which keeps track of every place and day you go bird watching, allows you to enter notes and share sightings with friends, and explore the data all eBirders have entered.",n
+111,3,p,,n
+113,111,strong,Apps.,y
+114,111,text,"If you have a smartphone, you can carry a bookshelf in your pocket. Most of the field guides mentioned above are available as apps , and most of them add in sounds you can listen to as well. For finding where birds are, Birdseye is an amazingly useful tool for the iPhone. It pulls recent data from our eBird project to show you maps—and even give you directions—to birds that are near you. For passing time try the Cornell Lab Bird Q and A app for iPhone from Tipitap, with quizzes, quirky questions, photos, and sounds. And our All About Birds species guide works on mobile devices, giving you access to free ID information and sound recordings straight from your phone’s Internet browser.",n
+125,3,p,,n
+127,125,strong,Connections.,n
+128,125,text,"Bird watching can be a relaxing solo pursuit—a walk in the woods decorated with bird sightings. But birding is also a social endeavor, and the best way to learn is from other people. A great way to connect with people is to look on birdingonthe.net and sign up for a listserv for your area. You’ll get emails that will tell you what people have been seeing, announce local bird outings, and connect you with members of your local birding club. There’s a decent chance that someone’s leading a bird walk near you this weekend—and they’d love to have you come along.",n
+132,3,p,What did we miss? Drop us a note in comments or on Facebook to let us know your own must-have equipment for bird watching.,n
+136,2,div,,n
+139,136,h2,All About Birds is a free resource,n
+140,136,p,,n
+141,140,text,Available,n
+143,140,br,funded by donors like you,n
+146,136,div,Donate,n
+151,2,ul,,n
+159,151,li,Birdwatching Tips,n
+167,151,li,"In Colombia, Shade-Grown Coffee Sustains Songbirds and People Alike",n
+175,151,li,All About Feathers,n
+184,151,li,Why do woodpeckers like to hammer on houses? And what can I do about it?,n
+192,151,li,A hawk has started hunting the feeder birds in my yard. What can I do?,n

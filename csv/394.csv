@@ -1,0 +1,89 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,,n
+5,4,p,,n
+7,5,span,The New,n
+8,5,text,Quill,n
+10,5,span,+,n
+11,4,p,,n
+12,11,text,Become a member to receive free shipping—no minimum.,n
+14,11,span,Tell Me More,n
+16,4,span,Close,n
+17,0,div,,n
+27,17,div,,n
+32,27,p,Free Shipping. No Minimum.,n
+33,27,div,,n
+34,33,div,,n
+36,34,button,Save Coupon,n
+37,34,text,Unclip Coupon,n
+38,33,div,,n
+40,38,span,Code,n
+42,38,strong,FREESHIP,n
+44,38,p,Offer good through 7 or 15 or 22.,n
+47,33,p,Disclaimer,n
+53,17,div,,n
+54,53,section,,n
+56,54,p,"In order to maintain workplace hygiene and keep employees healthy, it's critical to invest in the proper office cleaning supplies. Some of the most important workplace cleaning supplies include hand soap, disinfecting wipes, paper towels, and trash bags, but the list doesn't end there.",n
+58,54,p,"While your janitorial list will vary depending on the size, type, and needs of your business, the following checklist provides a solid foundation for any small to mid-size company looking to keep the office spick and span.",n
+60,54,h2,Office Cleaning Supplies List,n
+61,54,ul,,n
+63,61,li,All-purpose stain and spot remover,y
+65,61,li,Baking soda,y
+67,61,li,Bath tissue,y
+70,61,li,Bucket,y
+73,61,li,"Broom, dustpan, and brush",y
+76,61,li,Dish soap,y
+78,61,li,Disinfecting wipes,y
+81,61,li,Facial tissue,y
+83,61,li,Feather duster,y
+85,61,li,Floor cleaning solution,y
+87,61,li,Glass or window cleaner,y
+89,61,li,Gloves,y
+91,61,li,Hand soap,y
+94,61,li,Kitchen cleaners,y
+97,61,li,Micro-fiber cleaning cloths,y
+99,61,li,Paper towels,y
+102,61,li,Sponges,y
+104,61,li,Sponge mop and or or dry mop,y
+106,61,li,Toilet bowl cleaner,y
+108,61,li,Trash bags,y
+111,61,li,Vinegar,y
+113,61,li,Wood polish,y
+115,54,p,"Work with your office manager to ensure these standard supplies are always on hand, and then make sure they're being put to good use. Availability and implementation of these tools is the key to maintaining a cleaner, healthier office.",n
+117,54,h2,A Simple Five-Day Office Cleaning Schedule,n
+119,54,p,"Once you've acquired the proper cleaning supplies, it's time to craft a regular cleaning schedule. Some tasks should be completed every day in order to maintain proper hygiene, while others only need to be completed once a week. If you don't use a commercial cleaning service, make sure someone on your staff is in charge of maintaining the following five-day cleaning schedule.",n
+121,54,h2,Daily Cleaning Tasks,n
+123,54,p,"Communal office spaces get germy fastest because they're used by multiple people, so focus your daily cleaning tasks on these areas. Use your cleaning supplies to take care of the following daily tasks:",n
+124,54,ul,,n
+126,124,li,Empty trashcans that are at or near capacity and insert a new trash bag.,n
+128,124,li,"Disinfect doorknobs, light switches, faucets, refrigerator handles, and other high-contact surfaces.",n
+130,124,li,"Refill bath tissue, soap, and paper towel dispensers in the bathrooms and kitchen area.",n
+132,124,li,"Clean and sanitize toilets, urinals, sinks, paper towel dispensers, and fixtures in the bathrooms.",n
+134,124,li,Sweep and mop bathroom floors.,n
+136,124,li,Wash and put away any dishes left out in the kitchen or breakroom.,n
+138,124,li,Clean and sanitize the kitchen sink.,n
+140,124,li,Disinfect kitchen countertops.,n
+142,124,li,"Mop, sweep, and or or vacuum floors in high-traffic areas.",n
+144,124,li,Organize office clutter.,n
+146,124,li,Sweep the sidewalk or porch outside your business and tidy up exterior clutter or debris.,n
+148,54,h2,Weekly Cleaning Tasks,n
+150,54,p,"Some cleaning tasks don't need to be completed on a daily basis, but they should happen at least once a week in order to provide a deeper clean. The following tasks fall into this category",n
+151,54,ul,,n
+153,151,li,Disinfect all flat surfaces .,n
+155,151,li,Mop all hard or tiled floors.,n
+157,151,li,Vacuum all carpets and mats.,n
+159,151,li,Wipe down all glass surfaces .,n
+161,151,li,Wipe down all mirrors.,n
+163,151,li,"Empty and disinfect all trash cans, and once they've dried replace the liners.",n
+165,151,li,Clean any walls with visible markings.,n
+167,151,li,"Dust all lamps, hard surfaces, computers, etc.",n
+169,151,li,Discard any leftovers in the communal refrigerator.,n
+171,151,li,the refrigerator.,n
+173,151,li,Buff hard floors.,n
+175,151,li,"Polish any brass on cabinets, doors, drawers, etc.",n
+177,54,p,Get code to share this infographic on your site,n
+179,54,p,"The proper supplies help you maintain a healthier, safer workplace and in the process helps reduce absenteeism. These tasks also ensure the office remains presentable and provides a pleasant setting for employees and clients alike.",n
+181,54,h3,Share this infographic on your site,n
+183,54,textarea,<p><strong>Click to Enlarge Image< or strong><br><br><a href='https: or or www.quill.com or content or index or resource-center or office-supplies or buying-guides or office-supplies-list or '><img src='https: or or www.quill.com or content or index or resource-center or office-supplies or buying-guides or office-supplies-list or images or ultimate-checklist-office-cleaning-supplies.svg' alt='Office Cleaning Supplies' width='600px' border='0'>< or a>< or p>,n
+185,54,p,Copy code,n
+196,53,li,Save,n

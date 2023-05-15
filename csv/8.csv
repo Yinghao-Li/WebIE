@@ -1,0 +1,102 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+11,2,div,,n
+13,11,div,,n
+15,13,button,Slide 1,n
+17,13,button,Slide 2,n
+19,13,button,Slide 3,n
+21,13,button,Slide 4,n
+35,11,div,,n
+39,35,h2,New forTK and Kindergarten Enrollment,n
+40,35,div,,n
+43,40,div,"NEW ENROLLMENT WINDOW Nov. 15 - Dec. 17 **New TK Age Eligibility Extends to Feb. 2, 2023**",n
+46,40,div,Click,n
+71,11,nav,,n
+73,71,span,Previous slide,n
+75,71,span,Next slide,n
+85,2,div,,n
+87,85,div,,n
+97,87,div,Bell Schedule,n
+107,87,div,No Cost Meals,n
+117,87,div,Health and Safety in the SRVUSD,n
+119,85,div,,n
+129,119,div,District Calendar,n
+138,119,div,Schoology,n
+147,119,div,SRVUSD CareLine,n
+152,2,div,,n
+153,152,div,,n
+157,153,h2,Happenings,n
+158,153,div,,n
+159,158,div,,n
+163,159,div,,n
+165,163,div,,n
+167,165,div,Events,n
+168,165,div,,n
+172,168,div,Calendar filter,n
+179,168,li,Homepage,n
+194,163,div,or,n
+241,159,div,Bicycle and Pedestrian Safety Tips,n
+242,158,div,,n
+245,242,div,,n
+248,245,div,,n
+249,248,div,,n
+251,249,div,Quail Run News,n
+254,249,span,RSS feed,n
+257,248,div,,n
+258,257,text,Information Regarding Missing the Last 10 Days or First 3 Days,n
+260,257,span,Posted 3 or 25 or 22,n
+268,245,div,,n
+269,268,div,,n
+271,269,div,District News,n
+274,269,span,RSS feed,n
+275,268,div,,n
+277,275,div,,n
+278,277,text,SRVUSD Website Update,n
+280,277,span,Posted 6 or 17 or 22,n
+282,275,div,,n
+283,282,text,Mask Mandates in K-12 Settings,n
+285,282,span,Posted 3 or 1 or 22,n
+293,242,div,,n
+297,293,h2,Double Your donations with Corporate matching,n
+299,293,div,,n
+301,299,p,"On behalf of the students, teachers and staff at Quail Run Elementary, we would like to THANK YOU for your generous donations during Online Registration in support of our Academic and Curriculum Enrichment Programs.",n
+303,299,p,"Did you know that most employers, big and small, will match your donation? And if both parents' employers match, the same donation can be matched by both companies. Corporate matching programs are a wonderful way to double or triple your donation at no additional expense to you!",n
+305,299,p,"Since our fundraisers are limited this year, Corporate Matching is more important than ever! If you are unsure if your employer matches or unfamiliar with how corporate matching works, please type in your company’s name to find out at",n
+307,299,p,Matching Gifts,n
+309,299,p,You can also reach out to the Quail Run Corporate Match team with questions at qrlfund@gmail.com or look on our Corporate Matching site for more info,n
+315,299,p,"All your donations made to the school are eligible for matching - that includes classroom supplies, Read-a-thon, Boosterthon, and volunteer hours.",n
+316,152,div,,n
+320,316,h2,Resources,n
+325,316,div,,n
+327,325,div,Quicklinks,n
+330,325,div,UPDATED- Covid Guidelines,n
+333,325,div,District COVID Guidelines Update,n
+336,325,div,After School - Kids' Country,n
+339,325,div,Parent Portal,n
+342,325,div,School Accountability Report Card,n
+345,325,div,Schoology Parent Guides,n
+348,325,div,SRVUSD Website,n
+351,325,div,Student Portal,n
+354,325,div,Volunteers,n
+357,325,div,School,n
+367,316,div,,n
+369,367,div,Amazon Smile,n
+371,367,p,Amazon will donate 0.5% of the price of your eligible AmazonSmile purchases to our school whenever you shop on AmazonSmile. Be sure to select Quail Run Learning Fund as your charity.,n
+381,2,div,,n
+386,381,h2,Spotlight,n
+387,381,div,,n
+394,387,div,,n
+396,394,div,Shop our Online Store!,n
+398,394,div,Pay,n
+401,394,div,Visit Our Store,n
+408,387,div,,n
+410,408,div,SRVUSD Digital Citizenship,n
+412,408,div,"We are committed to educating students, staff, and the community on the effective, ethical and safe use of online and digital tools.",n
+415,408,div,About Digital Citizenship,n
+424,2,div,,n
+428,424,h2,About Us,n
+430,424,div,,n
+432,430,p,"Quail Run is located in the Gale Ranch community of the Dougherty Valley. We opened the doors of our beautiful campus in August, 2006. Quail Run is a K-5 elementary school housing approximately 850 students this year.",n
+434,430,p,"Our enthusiastic staff is dedicated to developing lifelong and self directed learners who excel academically and grow personally by providing academic excellence in a nurturing, respectful, student centered environment built on a foundation of family, community, and staff collaboration. We hope you enjoy the information provided in our website.",n
+436,430,p,"At Quail Run Elementary school we foster a love of learning in a caring, safe, and welcoming school community. Our staff works to develop confident, responsible students who are well prepared for the future. Our community collaborates to ensure that our students achieve their highest academic potential and learn social responsibility.",n

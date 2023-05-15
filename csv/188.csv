@@ -1,0 +1,125 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+8,0,section,,n
+22,8,section,,n
+23,22,div,,n
+32,23,h1,22 Essential Baking Supplies Every Home Cook Needs,n
+38,23,div,,n
+41,38,span,Lisa Kaminski,n
+44,38,span,Updated,n
+57,23,div,,n
+59,57,h2,"Love to bake or looking to become a more serious baker? Check out the essential baking supplies you need—as chosen by our Test Kitchen and editors—to make everything from pies to pastries, cookies to cupcakes and so much more.",n
+62,57,p,"Every editorial product is independently selected, though we may be compensated or receive an affiliate commission if you buy something through our links. Ratings and prices are accurate and items are in stock as of time of publication.",n
+63,22,div,,n
+66,63,div,1,n
+75,63,div,Home,n
+77,63,p,"Whether you’re a new baker or an experienced one, you’ll need some essential gear to stir up your favorite recipes. See what essential baking supplies our Test Kitchen and editors love to use, whether they’re making one-bowl baking recipes or tackling all-day baking projects .",n
+82,63,p,,n
+83,82,text,Want to become a star baker?,n
+85,82,strong,Sign up,n
+86,82,text,", our dedicated baking newsletter,",n
+88,82,strong,join the community,n
+89,82,text,on Facebook.,n
+90,22,div,,n
+93,90,div,2,n
+104,90,h2,KitchenAid Stand Mixer,y
+106,90,p,"If you’re a serious baker and don’t have a KitchenAid stand mixer yet, consider adding this appliance to your cart STAT. KitchenAid received the highest marks in our Test Kitchen stand mixer test and is beloved by bakers everywhere. This mixer can help you stir up cookie dough, blend cake batter and so much more all without breaking a sweat. Combine its amazing performance with some great kitchen mixer attachments , and you’ve got a kitchen workhorse you’ll use for years to come.",n
+143,8,section,,n
+144,143,div,,n
+147,144,div,3,n
+157,144,p,via kitchenaid.com,n
+159,144,h2,Hand Mixer,y
+161,144,p,"As much as we love our stand mixers, not every bake requires such heavy equipment. If you need to make whipped cream fast or want to make a simple cream pie, a good hand mixer will do the trick. We recommend this cordless KitchenAid hand mixer . Here’s what we thought about KitchenAid’s other cordless appliances .",n
+170,143,div,,n
+173,170,div,4,n
+184,170,h2,Pyrex Liquid Measuring Cups,y
+186,170,p,"Having dedicated liquid measuring cups in the kitchen is a must. The Taste of Home Test Kitchen relies on Pyrex measuring cups for their liquid measures. We recommend having a smaller measuring cup, like this Pyrex one-cup measuring cup , for small measures, and a larger measuring cup for bigger quantities. This Pyrex eight-cup measuring cup is especially handy; it’s large enough to mix up small-batch bakes.",n
+195,143,div,,n
+198,195,div,5,n
+210,195,h2,OXO Baking Container Set,y
+212,195,p,"Store essential ingredients, like sugar and flour, in these clear baking containers . Much like our other favorite storage containers , this set from OXO keeps your pantry tidy and organized while keeping your ingredients fresh in its airtight container. This set also includes 1 or 2 cup scoopers so you can measure out your ingredients easily.",y
+227,8,section,,n
+228,227,div,,n
+231,228,div,6,n
+242,228,h2,Measuring Spoons,y
+244,228,p,"Turn to a good set of measuring spoons to get the right amount of baking powder, vanilla and other ingredients in your recipes. Our editors recommend these magnetized spoons . They stick together in your drawer, plus the different spoon shapes mean you can dip into any size jar.",n
+249,227,div,,n
+252,249,div,7,n
+262,249,p,via hedleyandbennett.com,n
+264,249,h2,Hedley and Bennett Apron,y
+266,249,p,"Every serious baker needs to splurge on a professional-grade apron , like this one from Hedley and Bennett. It’s loved by both professional chefs and home cooks alike. Not your style? Check out our other favorite aprons .",n
+274,227,div,,n
+277,274,div,8,n
+288,274,h2,Dry Measuring Cups,y
+290,274,p,"Chances are one of your first-ever baking purchases was a set of measuring cups. Of course! They’re essential for making any recipe. A good set of measuring cups is a worthy investment. These stainless steel measuring cups are easy to clean, plus the set includes some extra measures, like the 2 or 3-, 3 or 4-, 1-1 or 2- and 2-cup scoops.",n
+303,8,section,,n
+304,303,div,,n
+307,304,div,9,n
+317,304,p,via surlatable.com,n
+319,304,h2,Mixing Bowls,y
+321,304,p,"The type of bowl you use to mix up your batter matters. Opt for glass over plastic as it’s microwave-safe and won’t cling on to past flavors. Be sure to snag a few sizes to suit whatever recipe you’re tackling. Our editor’s pick is this set of mixing bowls from Anchor Hocking . If those aren’t your style, check out these other mixing bowls for all your kitchen needs.",n
+330,303,div,,n
+333,330,div,10,n
+344,330,h2,French Rolling Pin,y
+346,330,p,"Whether you plan to whip up blue ribbon-worthy pies or a big batch of cinnamon rolls, a rolling pin is a must-have tool. We’re particularly fond of French rolling pins for their easy-to-use design. Ready to go beyond the basics? Check out these gotta-have pie and pastry tools for home bakers.",n
+353,303,div,,n
+356,353,div,11,n
+367,353,h2,Parchment Paper,y
+369,353,p,"How did we ever bake before parchment paper? This nonstick paper helps you create cookie perfection . It’s also a must for lining cake pans . Our editors love the unbleached parchment paper for their at-home bakes. Plus, there are tons of other nifty uses for parchment around the house .",n
+386,8,section,,n
+387,386,div,,n
+390,387,div,12,n
+402,387,h2,Kitchen Scale,y
+404,387,p,"Bakers know that their craft is just as much science as it is art. As such, you should try to be as precise as possible in baking. A great set of measuring cups and the proper measuring technique will get you close, but measuring ingredients by weight is the most accurate method. Invest in a kitchen scale like this OXO kitchen scale for spot-on measures. The pull-out screen is a game-changer when you’re using larger bowls. Don’t forget to bookmark this page for common volume-to-weight conversions .",n
+413,386,div,,n
+416,413,div,13,n
+427,413,h2,Cookie Scoop,y
+429,413,p,"Cookies need to be the same size to bake evenly, and this handy cookie scoop will get the job done. As an added bonus, you can also use the scoop to place perfect dollops of frosting on cupcakes!",n
+435,386,div,,n
+438,435,div,14,n
+449,435,h2,Silicone Spatula,y
+451,435,p,"Don’t waste any batter when you bake with a good silicone spatula. This spatula from GIR can help scoop out every bit of batter or dough from your mixing bowl. The heat-resistant silicone is great for stirring up anything you’re heating over the stove, like gooey, salted caramel .",n
+466,8,section,,n
+467,466,div,,n
+470,467,div,15,n
+481,467,h2,Mesh Strainer,y
+483,467,p,"A set of mesh strainers might sound odd in our list of baking essentials, but these versatile tools will come in handy. You can use a large strainer to sift flour and other dry ingredients—a must for clump-free batters. Use a smaller one to dust powdered sugar over the top of any bake—one of Mary Berry’s signature baking tips .",n
+490,466,div,,n
+493,490,div,16,n
+503,490,p,via kingarthurbaking.com,n
+505,490,h2,King Arthur Baker’s Companion,y
+507,490,p,"With over 450 recipes for any skill level, the King Arthur Baker’s Companion book is a must-have for any baking lover. This recipe book will guide you through all kinds of baking projects—from yeast breads to brownies .",n
+516,466,div,,n
+519,516,div,17,n
+530,516,h2,Whisk,y
+532,516,p,"Need to mix your dry ingredients together? Make a smooth custard? Stir up a great ganache? You’ll need a good whisk to do the job. A classic balloon whisk is our Test Kitchen’s go-to, but flat whisks are winning some of our editors over.",n
+548,8,section,,n
+549,548,div,,n
+552,549,div,18,n
+563,549,h2,Wire Cooling Racks,y
+565,549,p,"Whether you’re baking up a batch of our famous Big and Buttery Chocolate Chip Cookies or a fabulous layer cake , you’ll need a wire rack to let those bakes cool. Invest in a few of these nonstick wire racks and you’ll be ready to bake all day.",n
+574,548,div,,n
+577,574,div,19,n
+588,574,h2,Offset Spatula,y
+590,574,p,"We love a good multi-tasking tool in the kitchen. A good offset spatula is a go-to for frosting cakes, spreading batter into pans and even leveling off flour in your measuring cup.",n
+596,548,div,,n
+599,596,div,20,n
+610,596,h2,Food Processor,y
+612,596,p,"While a food processor isn’t a must for basic baking supplies, it’s definitely one of those really-nice-to-have items. A good food processor—this is our Test Kitchen’s favorite food processor —makes quick work of so many baking tasks like crushing graham crackers to make a quick crust , chopping nuts, pureeing fruit and even making pie crust. Plus, you’ll find plenty of savory applications for this gadget, too.",n
+629,8,section,,n
+630,629,div,,n
+633,630,div,21,n
+644,630,h2,The Whole Kit and Caboodle,y
+646,630,p,"If you’re truly new to baking , try Taste of Home’s new line of bakeware. This 10-piece bakeware set includes all the pans you need to make our best baking recipes.",n
+651,629,div,,n
+654,651,div,22,n
+665,651,h2,Dough Scraper,y
+667,651,p,"Pick up one of the baking supplies that grandma loves to use! A dough scraper is a must-have for dividing portions of dough, roughly chopping fruits or nuts and ensuring every last bit of your bake ends up in the pan. By the way, these are the secrets to perfect pie crust .",n
+674,629,div,,n
+688,674,h2,Cookie Cutters,y
+690,674,p,"You’ll need a pack of cookie cutters to make the cutest treats on the block. Plus, these versatile baking supplies can be used to make more than cookies! Use them to form pie crust decorations, shape fondant or stamp out brownies, too.",n
+701,8,section,,n
+703,701,div,Originally Published,n
+707,701,div,,n
+710,707,div,Lisa Kaminski,n
+712,707,div,"Lisa is an editor at Taste of Home where she gets to embrace her passion for baking. She pours this love of all things sweet into Bakeable , Taste of Home's baking club. Lisa is also dedicated to finding and testing the best ingredients, kitchen gear and home products for our Test Kitchen-Preferred program. At home, you'll find her working on embroidery and other crafts.",n

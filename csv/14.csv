@@ -1,0 +1,305 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+8,3,h1,Surfboard wax,n
+9,3,div,,n
+11,9,div,"From Wikipedia, the free encyclopedia",n
+15,9,text,Jump to navigation Jump to search,n
+17,9,div,,n
+18,17,div,,n
+23,18,div,"Kimberley Thompson in South Carolina, applying wax on a surfboard",n
+25,18,p,"Surfboard wax is a formulation of natural and or or synthetic wax for application to the deck of a surfboard , bodyboard , or skimboard , to keep the surfer from slipping off the board when paddling out or riding a wave. It is also used to increase grip on the paddle of a surf kayak or dragon boat .",n
+42,18,p,"Surfboard wax is generally composed of a mixture of paraffin , beeswax or other hard waxes; petroleum jelly can also be added to create a softer wax. Often exotic scents like coconut or bubblegum are added to give the wax an attractive scent. There are also natural alternatives available containing only organic substances like beeswax, vegetable oils , pine resin, tree pulp and natural essential oils. Many different commercial brands and varieties of surfboard wax optimized for different climates and water temperatures may be found at a surf shop.",n
+51,18,div,,n
+55,51,h2,Contents,n
+58,51,ul,,n
+61,58,li,1,n
+66,58,li,2,n
+71,58,li,3,n
+76,58,li,4,n
+81,58,li,5,n
+86,58,li,6,n
+91,58,li,7,n
+104,18,p,"A plastic scraper can be used to remove surfboard wax in large chunks. Residual wax that has not been removed by scraping can be removed with a soft cloth, either on its own or in combination with coconut oil. Various commercial solvents are also available but can damage the surfboard or its detailing. Surfers will also sometimes intentionally allow surfboard wax to melt in the sun, making the wax easier to remove.",n
+120,18,p,,n
+121,120,text,"A wax comb is a tool used in the maintenance and removal of surfboard wax on a surfboard . Wax combs typically have features such a jagged or toothed edge and a straight, relatively sharp edge. The jagged edge is used to create textured grooves for improving the traction of the wax and the straight edge is used for scraping off unwanted wax.",n
+128,120,text,"In addition to the straight edge for wax removal, some wax combs even have an inwardly curved edge for the rails .",n
+133,120,text,"Additionally, wax combs can have features such as fin key, bottle opener or a snap",n
+150,18,p,"Most surfboard wax comes labeled with a water temperature range for which it is ideal. Wax used in water colder than its rating will become hard and not provide the stickiness needed to stay on the board, while wax used in water warmer than its rating may melt. This makes application of the correct type of wax important.",n
+166,18,div,Man applies surfboard wax to skimboard at a beach.,n
+168,18,p,Surfboard wax is applied by first putting a base coat onto the clean board. This harder base coat forms a bump pattern on the surfboard to which the surfer will stick. The base coat is then topped with a coat of wax of an appropriate temperature.,n
+172,18,p,wax.,n
+184,18,ul,,n
+186,184,li,Ski wax,n
+188,184,li,Mr. Zog's Sex Wax,n
+190,184,li,Surf Wax America,n
+205,18,table,"Look up surfboard wax in Wiktionary, the free dictionary.",n
+210,18,div,,n
+216,210,li,"Curtin, Ryan. ""How To Use A Surfboard Wax Comb"" .",n
+226,210,li,"""Surf Wax 101"" .",n
+235,210,li,"""Surfing Wales",n
+244,210,li,"""Ultimate Guide to Surf Wax"" .",n
+252,210,li,,n
+253,252,text,"John Dang. ""How To Wax A Surfboard"" . surfscience.com",n
+257,252,span,,n
+260,257,span,"March 30,",n
+261,257,text,2010,n
+269,210,li,,n
+270,269,text,"""How to wax a surfboard - Disrupt Surfing"" . Disrupt Surfing",n
+276,269,span,-21,n
+288,18,ul,,n
+290,288,li,Where To Put Surfboard Wax,n
+292,288,li,Surfwax temperature ranges,n
+294,288,li,Surfwax friction,n
+296,288,li,Surfwax hardness,n
+300,18,div,,n
+302,300,tr,,n
+304,302,span,hide,n
+306,302,ul,,n
+309,306,li,v,n
+312,306,li,t,n
+315,306,li,e,n
+317,302,div,Surfing,n
+321,300,div,Terminology,n
+322,300,tr,,n
+324,322,th,Types,n
+327,322,ul,,n
+329,327,li,Big wave,n
+331,327,li,Bellyboarding,n
+333,327,li,Bodyboarding,n
+335,327,li,Flowriding,n
+337,327,li,Kiteboarding,n
+339,327,li,Kneeboarding,n
+341,327,li,Lake surfing,n
+343,327,li,River surfing,n
+345,327,li,Shoulder surfing,n
+347,327,li,Skimboarding,n
+349,327,li,Standup paddleboarding,n
+351,327,li,Surf kayaking,n
+353,327,li,Tow-in,n
+355,327,li,Tube riding,n
+357,327,li,Windsurfing,n
+359,327,li,Women's surfing,n
+360,300,tr,,n
+362,360,th,Surfers,n
+365,360,ul,,n
+367,365,li,American,n
+369,365,li,Argentine,n
+371,365,li,Australian,n
+373,365,li,Brazilian,n
+375,365,li,British,n
+377,365,li,Filipino,n
+379,365,li,French,n
+381,365,li,Irish,n
+383,365,li,Maldivian,n
+387,365,li,Peruvian,n
+389,365,li,Portuguese,n
+391,365,li,South African,n
+392,300,tr,,n
+394,392,th,Environment,n
+397,392,ul,,n
+399,397,li,Closeout,n
+401,397,li,Hawaiian scale,n
+403,397,li,Ocean surface wave,n
+405,397,li,Surf break,n
+407,397,li,Surfline,n
+409,397,li,Tidal bore,n
+411,397,li,Wave pool,n
+412,300,tr,,n
+414,412,th,Equipment,n
+417,412,ul,,n
+419,417,li,Surfboard,y
+421,417,li,Fins,y
+423,417,li,Wax,y
+425,417,li,Wax comb,y
+427,417,li,Foilboard,y
+429,417,li,Boardshorts,y
+431,417,li,Surfboard leash,y
+432,300,tr,,n
+434,432,th,Locations,n
+438,432,td,,n
+439,438,tr,,n
+441,439,th,By country,n
+444,439,ul,,n
+446,444,li,Australia,n
+448,444,li,Brazil,n
+450,444,li,Canada,n
+452,444,li,Chile,n
+454,444,li,Ecuador,n
+456,444,li,India,n
+458,444,li,Indonesia,n
+460,444,li,Ireland,n
+462,444,li,Madeira,n
+466,444,li,Peru,n
+468,444,li,South Africa,n
+470,444,li,Sri Lanka,n
+472,444,li,Taiwan,n
+474,444,li,Turkey,n
+475,444,li,,n
+476,475,text,United Kingdom,n
+479,475,li,Scotland,n
+481,444,li,United States,n
+482,438,tr,,n
+484,482,th,Sites,n
+487,482,ul,,n
+489,487,li,Banzai Pipeline,n
+491,487,li,Cyclops,n
+493,487,li,Jaws,n
+495,487,li,La Libertad,n
+497,487,li,Mavericks,n
+499,487,li,Puerto Escondido,n
+501,487,li,Ship Stern Bluff,n
+503,487,li,Teahupo'o,n
+505,300,tr,,n
+507,505,th,Competitions,n
+510,505,ul,,n
+512,510,li,Australian Boardriders Battle,n
+514,510,li,Surfing,n
+516,510,li,Beachley Classic,n
+518,510,li,Billabong Pipeline Masters,n
+520,510,li,Billabong Pro Teahupoo,n
+522,510,li,Copa Movistar,n
+524,510,li,Duke Kahanamoku Invitational Surfing Championship,n
+526,510,li,East Coast Surfing Championships,n
+528,510,li,Hawaiian Pro,n
+530,510,li,J-Bay Open,n
+532,510,li,Ku Ikaika Challenge,n
+534,510,li,Lion Foundation Surf League,n
+536,510,li,MEO Rip Curl Pro Portugal,n
+538,510,li,Surfing,n
+540,510,li,O'Neill Sebastian Inlet Pro,n
+542,510,li,Surfing,n
+544,510,li,Pipeline Bodysurfing Classic,n
+546,510,li,Quiksilver Big Wave Invitational,n
+548,510,li,Quiksilver Pro France,n
+550,510,li,Quiksilver Pro Gold Coast,n
+552,510,li,Red Bull Big Wave Africa,n
+554,510,li,Red Bull Cape Fear,n
+556,510,li,Rip Curl Pro,n
+558,510,li,Shark Island Challenge,n
+560,510,li,Smirnoff World Pro-Am Surfing Championships,n
+562,510,li,Stubbies,n
+564,510,li,Surfabout,n
+566,510,li,Surfest,n
+568,510,li,Surfing,n
+570,510,li,Surfing,n
+572,510,li,World Surfing Championship,n
+575,300,tr,,n
+577,575,th,Organizations,n
+580,575,ul,,n
+582,580,li,International Professional Surfers,n
+584,580,li,International Surfing Association,n
+586,580,li,International Surfing Day,n
+588,580,li,International Surfing Museum,n
+590,580,li,National Scholastic Surfing Association,n
+592,580,li,NYSurfFilmFestival,n
+594,580,li,Santa Cruz Surfing Museum,n
+596,580,li,SurfAid International,n
+598,580,li,Surfers Against Sewage,n
+600,580,li,Surfrider Foundation,n
+602,580,li,Surfing Australia,n
+604,580,li,Surfing South Africa,n
+606,580,li,The Moonshine Conspiracy,n
+608,580,li,Welsh Surfing Federation,n
+611,300,tr,,n
+613,611,th,Culture,n
+616,611,ul,,n
+618,616,li,Art,n
+620,616,li,Fictional surfers,n
+622,616,li,Films,n
+624,616,li,Hair,n
+626,616,li,Music,n
+628,616,li,Shaka sign,n
+629,300,tr,,n
+631,629,th,Hazards,n
+634,629,ul,,n
+636,634,li,Shark attack,n
+638,634,li,Surfer's eye,n
+640,634,li,Surfer's ear,n
+642,634,li,Surfer's myelopathy,n
+643,300,tr,,n
+645,643,th,Related topics,n
+650,643,li,Surf lifesaving,n
+653,17,div,"Retrieved from "" https",n
+657,9,div,,n
+658,657,text,Categories,n
+660,657,ul,,n
+662,660,li,Waxes,n
+664,660,li,Surfing equipment,n
+665,0,div,,n
+667,665,h2,Navigation menu,n
+668,665,div,,n
+669,668,nav,,n
+672,669,h3,Personal tools,n
+674,669,ul,,n
+677,674,li,Not logged in,n
+683,674,li,Contributions,n
+686,674,li,Create account,n
+689,674,li,Log in,n
+690,668,div,,n
+691,690,nav,,n
+694,691,h3,Namespaces,n
+699,691,li,Article,n
+707,690,span,English,n
+710,668,div,,n
+711,710,nav,,n
+714,711,h3,Views,n
+716,711,ul,,n
+719,716,li,Read,n
+722,716,li,Edit,n
+725,716,li,View history,n
+730,710,span,More,n
+737,710,h3,Search,n
+744,665,div,,n
+746,744,nav,,n
+749,746,h3,Navigation,n
+751,746,ul,,n
+754,751,li,Main page,n
+757,751,li,Contents,n
+760,751,li,Current events,n
+763,751,li,Random article,n
+769,751,li,Contact us,n
+772,751,li,Donate,n
+773,744,nav,,n
+776,773,h3,Contribute,n
+778,773,ul,,n
+781,778,li,Help,n
+784,778,li,Learn to edit,n
+787,778,li,Community portal,n
+790,778,li,Recent changes,n
+794,744,nav,,n
+797,794,h3,Tools,n
+799,794,ul,,n
+802,799,li,What links here,n
+805,799,li,Related changes,n
+811,799,li,Special pages,n
+814,799,li,Permanent link,n
+817,799,li,Page information,n
+820,799,li,Cite this page,n
+823,799,li,Wikidata item,n
+824,744,nav,,n
+827,824,h3,Print or export,n
+829,824,ul,,n
+832,829,li,Download as PDF,n
+835,829,li,Printable version,n
+836,744,nav,,n
+839,836,h3,In other projects,n
+844,836,li,Wikimedia Commons,n
+845,744,nav,,n
+849,845,h3,Languages,n
+850,845,div,,n
+854,850,li,Français,n
+857,850,div,Edit links,n
+858,0,footer,,n
+859,858,ul,,n
+861,859,li,"This page was last edited on 12 June 2022, at 21:13",n
+866,859,li,"Text is available under the Creative Commons Attribution-ShareAlike License 3.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.",n
+875,858,ul,,n
+877,875,li,Privacy policy,n
+881,875,li,Disclaimers,n
+883,875,li,Contact Wikipedia,n
+885,875,li,Mobile view,n
+887,875,li,Developers,n
+889,875,li,Statistics,n
+891,875,li,Cookie statement,n
+893,875,li,Edit preview settings,n

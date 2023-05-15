@@ -1,0 +1,162 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,article,,n
+3,2,div,,n
+5,3,ul,,n
+8,5,li,Share,n
+11,5,li,PINTEREST,n
+14,5,li,Email,n
+17,3,form,Print,n
+20,2,div,,n
+22,20,span,Sports and Athletics,n
+23,20,ul,,n
+24,23,li,,n
+25,24,text,Table Tennis,n
+26,24,ul,,n
+28,26,li,Basics,n
+30,26,li,Playing and Coaching,n
+32,23,li,Baseball,n
+34,23,li,Bicycling,n
+36,23,li,Billiards,n
+38,23,li,Bodybuilding,n
+40,23,li,Bowling,n
+42,23,li,Boxing,n
+44,23,li,Car Racing,n
+46,23,li,Cheerleading,n
+48,23,li,Extreme Sports,n
+50,23,li,Football,n
+52,23,li,Golf,n
+54,23,li,Gymnastics,n
+56,23,li,Ice Hockey,n
+58,23,li,Martial Arts,n
+60,23,li,Professional Wrestling,n
+62,23,li,Skateboarding,n
+64,23,li,Skating,n
+66,23,li,Paintball,n
+68,23,li,Soccer,n
+70,23,li,Swimming and Diving,n
+72,23,li,Tennis,n
+74,23,li,Track and Field,n
+76,23,li,Volleyball,n
+78,23,li,Other Activities,n
+80,20,span,Learn More,n
+83,2,div,,n
+84,83,div,,n
+86,84,span,By,n
+87,84,div,,n
+88,87,text,Greg Letts,n
+89,87,div,,n
+90,89,div,,n
+92,90,div,Greg Letts,n
+94,90,div,"Greg Letts is a world-ranked table tennis player and an Australian Level 1 table tennis coach. He wrote the eBook, ""How to Win at Table Tennis.""",n
+95,89,div,,n
+97,95,span,Learn about our,n
+98,95,text,Editorial Process,n
+100,83,div,Updated on 05 or 24 or 19,n
+102,2,div,,n
+104,102,p,"OK, so you've decided that ping-pong is the game for you - a wise decision ! Now, what exactly are you going to need to begin the sport? As a beginner, there are lots of things you don't know yet. So here's a list of the seven essential things you will need to get started in table tennis.",n
+119,102,h2,Bats,y
+121,102,p,"First of all, you'll need a bat of your own. Sure, you can always borrow other people's, but it's best to have your own personal ping-pong paddle. We'll talk more about how to choose your first table tennis racket later, but for now, I'm simply going to describe what a table tennis racket actually is, without getting too bogged down in all the rules concerning rackets just yet .",n
+128,102,p,"Firstly, the racket is made up of a mainly wooden blade, which can be of any size, shape or weight but must be flat and rigid. See the photo for an example of a typical penhold table tennis blade.",n
+131,102,p,"Then, either sandwich rubber or ordinary pimpled rubber is glued onto the sides of the blade that will be used to hit the ball. These rubbers are colored red or black, and the color on one side must be different from the other side . If one side is left without rubber, you must not hit the ball with this side, and it must be colored red if the rubber on the other side is black, or vice versa.",n
+136,102,p,"An ordinary pimpled rubber is made up of a single layer of non-cellular rubber, with pimples evenly spread out over its surface.",n
+139,102,p,"A sandwich rubber is made up of a layer of cellular rubber, to which another layer of pimpled rubber is glued on top. The cellular rubber is glued to the blade, and the layer of pimpled rubber is used to hit the ball. The pimples may face inwards or outwards. If the pimples are facing outwards, this is called a pimples-out sandwich rubber. If the pimples are glued to the sponge, this is called a pimples-in sandwich rubber, reverse rubber, or smooth rubber.",n
+143,102,div,,n
+145,143,div,Featured Video,n
+148,143,div,,n
+165,148,div,Howcast - Learn the top three playing tips from table tennis pro Tahl Leibovitz in this ping pong video from Howcast.,n
+186,148,div,More Videos,n
+190,148,div,,n
+192,190,span,"2 minutes, 5 seconds",n
+194,190,span,Volume 0%,n
+195,148,div,,n
+198,195,span,keyboard shortcuts,n
+199,195,div,,n
+200,199,div,,n
+202,200,span,Keyboard Shortcuts,n
+203,200,button,,n
+206,203,span,Enabled,n
+208,203,span,Disabled,n
+210,199,div,,n
+211,210,div,,n
+213,211,span,Play or Pause,n
+215,211,span,SPACE,n
+216,210,div,,n
+218,216,span,Increase Volume,n
+220,216,span,↑,n
+221,210,div,,n
+223,221,span,Decrease Volume,n
+225,221,span,↓,n
+226,210,div,,n
+228,226,span,Seek Forward,n
+230,226,span,→,n
+231,210,div,,n
+233,231,span,Seek Backward,n
+235,231,span,←,n
+236,210,div,,n
+238,236,span,Captions On or Off,n
+240,236,span,c,n
+241,210,div,,n
+243,241,span,Fullscreen or Exit Fullscreen,n
+245,241,span,f,n
+246,210,div,,n
+248,246,span,Mute or Unmute,n
+250,246,span,m,n
+253,210,div,Seek %,n
+256,148,div,,n
+270,256,div,,n
+272,270,div,Next Up,n
+274,270,div,How to Do a Backhand Loop in Table Tennis,n
+276,270,div,01:32,n
+296,256,div,,n
+326,296,div,Live,n
+328,296,div,00:00,n
+348,143,div,Top 3 Tips,n
+350,102,p,"The most common rubber in use today is smooth rubber, which generally gives the most spin and speed when hitting the ball. However, pimples-out sandwich rubber is still used by certain players due to its good speed and better control for hitting against spin. Ordinary pimpled rubber is rarer due to the lack of spin and speed it can produce but is an option for some players who prefer its greater control .",n
+360,102,p,Interested in purchasing a table tennis paddle ?,n
+372,102,h2,Balls,y
+374,102,p,"Ping-pong balls can be purchased from many sports stores, although most clubs will purchase them from table tennis dealers. Balls of 40mm diameter are now used, so be careful that you aren't playing with any old 38mm balls that you might have had lying around for years!",n
+382,102,p,celluloid and are white or orange when used in competitions.,n
+391,102,p,"Most manufacturers grade their balls according to a 3-star system. 0 star and 1 star balls are usually used for training purposes since they are cheap and quite acceptable for this type of play. They are the lowest quality balls, but the 0 star balls from manufacturers such as Stiga, Butterfly or Double Happiness are actually surprisingly good these days.",n
+399,102,p,"2 star balls are supposed to be of better quality than the 0 and 1 star balls, but still not considered good enough for serious competition. In reality, these balls are rarely seen or used - I can't remember ever seeing more than a couple of 2 star balls!",n
+406,102,p,"3 star balls are the competition standard balls and are the best quality. Occasionally you will get a not quite round 3 start ball, but it's rare. They are almost always a good roundness and balance. They are quite a bit more expensive than the 0 or 1 star balls though, and they don't seem to last any longer either!",n
+409,102,p,Some manufacturers such as Stiga and Nittaku are now making what is called '3-star premium' balls. These are supposed to be of the highest quality possible. Whether this is really true or just another bit of marketing hype is open to debate - I know that I can't tell the difference between a 3 star and a 3-star premium ball.,n
+412,102,p,Don't bother starting out with 3 star balls or 'premium' balls - they are too expensive and not really worth it for beginners. Simply buy some 0 or 1 star balls from a reputable manufacturer such as Butterfly or Stiga and these will do perfectly well. You also won't feel like crying if you accidentally step on one!,n
+415,102,p,Interested in purchasing table tennis balls? Compare Prices,n
+421,102,h2,Table Tennis Table,y
+423,102,p,"If you play at a club, they will supply the tables for you - after all, you'd hardly want to be bringing your own each time you play!",n
+426,102,p,"You may want to purchase your own ping-pong table for use at home, in which case there are a number of factors to consider. At the moment though, we'll just say to stick to full-sized tables rather than a compact or mini table. Also, be aware that you will want enough space around the table to move around a bit and make a decent swing. Somewhere between 2 or 3 yards on each side would be good. Much less than that and you run the risk of developing bad habits such as playing too close to the table or using cramped strokes. Of course, if you are only going to play for fun it doesn't really matter, but you never know when that competitive bug is going to bite you!",n
+431,102,p,Interested in purchasing a table tennis table ?,n
+438,102,h2,Net,y
+440,102,p,"Good quality nets can be purchased without spending a fortune. I would recommend using a net that has screw-on clamps to attach each side to the table, although spring clamps can be OK provided they can grip the table firmly enough.",n
+445,102,p,"Make sure that the net can be tightened on each side , and that the tightening system will hold the cord firmly without slipping. There is nothing more aggravating than having a net that keeps coming loose.",n
+448,102,p,"One final thing to watch for - the net is supposed to be 15.25cm high. Don't forget to check that the net you are thinking of buying is the right height. Many of the better nets have adjustable posts to allow you to lower or raise the height of the net, which is handy. You don't want to spend too much time playing on a table with a lower or higher net if you are going to play serious table tennis later on - it's too easy to pick up bad habits.",n
+451,102,p,Interested in purchasing a table tennis net ?,n
+458,102,h2,Shoes and Clothing,y
+460,102,p,"For beginners, most reasonable quality tennis or squash shoes with a soft rubber sole will do a good job. You probably won't need a quality table tennis shoe until you have become more advanced. Sneakers can be alright but the ones with plastic soles can lack grip on dusty floors and can be a little heavy as well.",n
+465,102,p,"As far as clothes are concerned, wear what is comfortable and easy to move around in. Keep your shorts above the knee since you will need to bend freely, and avoid wearing shirts with distracting logos, slogans or colors . A tracksuit to wear before and after matches is also a good idea.",n
+468,102,p,"Most competitive women wear shorts and shirts similar to that of the men, but skirts are perfectly acceptable. There is actually a bit of a trend starting among manufacturers to produce some feminine looking table tennis clothes for ladies, that are still comfortable to play in, so hopefully, the choices in this area for females will improve in the future.",n
+473,102,h2,Locations,y
+475,102,p,"Having got all your equipment together, you now need to find somewhere to play. Besides at home or at work, you can also find places to play at many gymnasiums, recreation centers, or of course local ping-pong clubs.",n
+480,102,h2,Opponent,y
+482,102,p,"Finally, once everything else is in place, you need someone to play against! It might be your family at home in the game room or your co-workers at lunch. Clubs are also great places to find fellow ping-pong lovers, and also can give you access to competitions and coaching.",n
+485,102,p,"Remember that it takes at least two people to play a game of table tennis, so always give your opponent a firm handshake and a sincere ""thank you"" for each match you play. After all, without an opponent, you wouldn't be having much fun, would you?",n
+490,0,div,,n
+491,490,ul,,n
+499,491,li,Table Tennis,n
+507,491,li,Important Olympic Rules and Laws,n
+513,491,li,Important Table Tennis Rules,n
+521,491,li,Table Tennis - How to Play With Short Pimples,n
+529,491,li,Lighting a Table Tennis Room,n
+537,491,li,Table Tennis,n
+545,491,li,How to Play Ping-Pong,n
+553,491,li,Picking a Ping-Pong Table,n
+556,490,ul,,n
+564,556,li,Table Tennis,n
+572,556,li,Doubles Tips For Table Tennis or Ping-Pong Beginners,n
+580,556,li,Playing Surface and Table Paint,n
+588,556,li,Is There a Difference Between Red and Black Table Tennis Rubbers?,n
+596,556,li,Beginner's Guide to Table Tennis,n
+604,556,li,The Backhand Sidespin Serve,n
+612,556,li,The Backhand Backspin or Sidespin Serve in Table Tennis,n
+620,556,li,a Ping Pong Ball,n

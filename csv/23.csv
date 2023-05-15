@@ -1,0 +1,388 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+7,0,div,,n
+10,7,p,Tom’s Hardware in your inbox,n
+12,7,div,,n
+14,12,p,"Sign up below to get the latest from Tom’s Hardware, plus exclusive special offers, direct to your inbox!",n
+15,12,form,,n
+21,15,div,"At Future, we have many other great brands you might like - are you happy for us to contact you with news and offers from our other brands?",n
+25,15,div,We also work with some great partners - are you happy for us to email you from time to time on behalf of these partners?,n
+34,12,p,Thank you,n
+37,12,p,There was a problem. Please refresh the page and try again.,n
+40,12,footer,By submitting your information you agree to the Terms and Conditions and Privacy Policy and are aged 16 or over.,n
+45,0,text,Skip to main content,n
+46,0,nav,,n
+50,46,div,,n
+56,50,div,Tom's Hardware,n
+61,50,span,Search,n
+69,50,div,RSS,n
+82,50,div,,n
+85,82,span,US Edition,n
+90,82,div,,n
+94,90,div,UK,n
+99,90,div,US,n
+104,90,div,Australia,n
+109,90,div,Canada,n
+112,46,div,,n
+113,112,ul,,n
+117,113,li,Reviews,n
+120,113,li,Best Picks,n
+123,113,li,Raspberry Pi,n
+126,113,li,CPUs,n
+129,113,li,GPUs,n
+132,113,li,Coupons,n
+133,113,li,,n
+134,133,text,More,n
+135,133,ul,,n
+137,135,li,Laptops,y
+139,135,li,SSDs,y
+141,135,li,Motherboards,y
+143,135,li,Cooling,y
+145,135,li,Desktops,y
+147,135,li,PC Builds,y
+149,135,li,Monitors,y
+151,135,li,RAM,y
+153,135,li,PC Cases,y
+155,135,li,Keyboards,y
+157,135,li,Headsets,y
+159,135,li,Mice,y
+161,135,li,Power Supplies,y
+163,135,li,3D Printers,y
+165,135,li,VR Headsets,y
+167,135,li,About Tom's Hardware,y
+170,112,div,Forums,n
+176,0,div,Skip advert,n
+183,0,div,,n
+186,183,div,,n
+188,186,span,Trending,n
+189,186,ul,,n
+191,189,li,Nvidia Ada Lovelace,n
+193,189,li,AMD Zen 4 Ryzen 7000,n
+195,189,li,Intel Core iKS,n
+197,189,li,Apple M2,n
+199,189,li,Tutorials,n
+202,183,article,,n
+203,202,section,,n
+215,203,div,,n
+225,215,p,"Your PC's power supply plays a significant role in determining your system's reliability, depending on its performance. So it would be best if you were careful when picking the right PSU for your system. The best power supply should also have features to save your system's parts if something goes wrong with your electricity supply or other components. If it doesn't, it's clearly not the best power supply and is putting your other expensive PC parts at risk.",n
+229,215,p,"Of course, you'll also have different concerns depending on whether your power supply will be pushing a monster mining rig, an always-churning workstation, or a basic productivity or gaming PC . We’ll help you find the best power supply for your next desktop PC below.",n
+234,215,p,"Finally, one of the significant changes that the ATX12V v3.0 spec brings is the addition of a 12+4 pin PCIe connector to every PSU with more than 450W max power. This means that PSUs lacking this connector won't be compatible with new GPU generations and will soon be rendered obsolete.",n
+238,215,h2,Quick Power Supply Shopping Tips,n
+240,215,p,,n
+242,240,strong,Determine wattage requirements.,n
+243,240,text,You don't need to purchase much more potential power capacity than you’ll ever use. You can calculate roughly how much power your new or upgraded system will draw from the wall and look for a capacity point that satisfies your demands. Several power supply sellers have calculators that will give you a rough estimate of your system's power needs. You can find a few below:,n
+244,215,ul,,n
+246,244,li,Cooler Master Power Calculator,n
+248,244,li,Seasonic Wattage Calculator,n
+250,244,li,MSI PSU Calculator,n
+252,244,li,be quiet! PSU Calculator,n
+256,244,li,Newegg PSU Calculator,n
+260,215,p,,n
+262,260,strong,Consider upcoming GPU power requirements.,n
+263,260,text,"Although the best graphics cards are usually more power-efficient than previous generations, their power consumption increases overall. This is why the latest 12+4 pin connector that the upcoming generation graphics cards will use will provide up to 600 W of power. Currently, a pair of PCIe 6+2 pin connectors on dedicated cables are officially rated for up to 300W, and three of these connectors can deliver up to 450W safely. You should also add the up to 75W that the PCIe slot can provide in these numbers.",n
+269,215,p,"What troubles today's power supplies is not the maximum sustained power consumption of a GPU but its power spikes, and this is why various manufacturers suggest strong PSUs for high-end graphics cards. If the PSU's over current and over power protection features are conservatively set, the PSU can shut down once the graphics card asks for increased power, even for very short periods . This is why EVGA offers two different OPP features in its G6 and P6 units, called firmware and hardware OPP. The first triggers at lower loads, in the millisecond range, while the latter triggers at higher loads that last for some nanoseconds. This way, short power spikes from the graphics card are addressed without shutting down the system.",n
+272,215,p,"If you add the increased power demands of modern high-end CPUs, you can quickly figure out why strong PSUs are necessary again. Please look at our GPU Benchmarks and CPU Benchmarks hierarchies to see how each of these chips perform relative to each other.",n
+278,215,p,,n
+280,278,strong,your case,n
+281,278,text,"before buying. If you have a standard ATX case, whether or not it is one of the best PC cases , an ATX power supply will fit. But many higher-wattage PSUs are longer than the typical 5.5 inches. So you'll want to be sure of your cases' PSU clearance. If you have an exceptionally small or slim PC case, it may require a less typical SFX power supply. We have picks for this form factor below as well.",n
+293,215,p,"For more on this subject, see our A Basic Guide To Motherboard, Case, and Power Supply Form Factors feature.",n
+297,215,p,,n
+299,297,strong,Consider a modular power supply.,n
+300,297,text,"If your case has lots of room behind the motherboard , or your chassis doesn't have a window or glass side, you can cable-wrap the wires you don't' need and stash them inside your rig. But if the system you're' building doesn't' have space for this, or there is no easy place to hide your cable mess, it's' worth paying extra for a modular power supply. Modular PSUs let you only plug in the power cables you need and leave the rest in the box.",n
+306,215,h2,The Best Power Supplies You Can Buy Today,n
+309,215,div,,n
+312,309,h3,Corsair CX450,n
+319,309,div,Best Cheap PSU,n
+323,309,div,,n
+328,323,div,Channel Well Technology or Great Wall,n
+333,323,div,450W,n
+338,323,div,"80 PLUS Bronze, Cybenetics Bronze , Cybenetics Silver",n
+343,323,div,"Cybenetics A- , Cybenetics Standard+",n
+353,323,div,120mm Rifle Bearing Fan,n
+358,323,div,No,n
+363,323,div,"1x EPS, 1x PCIe",n
+374,309,div,,n
+379,374,span,Low price,n
+384,374,span,protection features,n
+389,374,span,Great soldering quality,n
+399,374,span,Five-year warranty,n
+403,309,div,,n
+408,403,span,Single PCIe connector limits expansion,n
+413,403,span,Not as quiet as the CWT-made CX450,n
+418,403,span,Short distance between peripherals connectors,n
+428,215,p,"Of the two variants of Corsair's CX450, the Great Wall version is more efficient than CWT's, especially under light loads, and has a more efficient 5VSB rail. On the other side, it has a more-aggressive fan profile, so its noise output is increased. In the US market, you will only find the CWT version, which is made in Vietnam instead of China, so it avoids the tariffs and keeps its price tag low.",n
+433,215,p,Corsair CX450 Review,n
+435,215,p,,n
+437,435,strong,Alternate Best Cheap Power Supply,n
+438,435,text,Corsair VS450,n
+441,215,p,"Another decent alternative if your budget is low, you need more than 500W of capacity, and you aren't that concerned about efficiency or some fan noise under load is the Corsair VS650 . It won't win any performance awards, but it gets the job done without much in the way of frills or fuss, for less than $50. You may also be able to save on these or other PSUs by checking Corsair coupon codes .",n
+449,215,div,,n
+452,449,h3,Corsair CX550F RGB,n
+459,449,div,Best Mid-Level RGB PSU,n
+463,449,div,,n
+468,463,div,HEC,n
+478,463,div,"80 PLUS Bronze, Cybenetics Gold",n
+483,463,div,Cybenetics-Standard++,n
+493,463,div,120mm Rifle Bearing Fan,n
+514,449,div,,n
+524,514,span,Good transient response at 12V,n
+534,514,span,Modern platform,n
+544,514,span,Low leakage current,n
+549,514,span,Low conducted EMI,n
+554,514,span,Compatible with the Alternative Low Power Modes,n
+564,514,span,Highly-customizable RGB lighting,n
+569,514,span,Comes in two colors,n
+574,514,span,5-year warranty,n
+578,449,div,,n
+583,578,span,Not so affordable,n
+588,578,span,Loose load regulation,n
+593,578,span,Lower than 17ms hold-up time,n
+598,578,span,the Teapo SC caps that it uses,n
+616,215,p,Phanteks AMP Series 550W,n
+620,215,div,,n
+623,620,h3,Corsair RM550x,n
+630,620,div,Best PSU,n
+654,620,div,Cybenetics A+,n
+700,620,div,Highly efficient at light load,n
+729,620,div,Single EPS connector,n
+747,215,p,Super Flower Leadex III ARGB 550W,n
+751,215,div,,n
+754,751,h3,XPG Core Reactor 650W,n
+761,751,div,Best PSU,n
+765,751,div,,n
+775,765,div,650W,n
+795,765,div,120mm Fluid Dynamic Bearing Fan,n
+826,751,div,High performance,n
+855,751,div,,n
+860,855,span,Two EPS connectors on the same cable,n
+865,855,span,The transient response at 3.3V could be better,n
+868,215,p,"The XPG Core Reactor with 650W max power can achieve higher overall performance than the two hottest picks in this category, the Corsair RM650x, and the Seasonic Focus Plus Gold, with similar capacity. It also has a silent operation, thanks to the relaxed fan profile, despite its compact dimensions. The build quality is high, and the provided warranty meets the competition's offerings. Finally, the two EPS connectors provide compatibility with the high-end mainboard, but they should be installed on dedicated cables—all in all, an excellent power supply.",n
+873,215,p,XPG Core Reactor 650W PSU Review,n
+875,215,p,,n
+877,875,strong,Alternate Best PSU 650W,n
+878,875,text,Thermaltake Toughpower PF1 650W,n
+882,215,div,,n
+885,882,h3,Cooler Master V750 Gold V2,n
+892,882,div,Best PSU,n
+896,882,div,,n
+901,896,div,Gospower,n
+916,896,div,Cybenetics A-,n
+926,896,div,135mm Fluid Dynamic Bearing Fan,n
+947,882,div,,n
+957,947,span,Correctly set protection features,n
+977,947,span,Highly Efficient,n
+982,947,span,Efficient 5VSB rail,n
+992,947,span,Low inrush currents,n
+1011,882,div,,n
+1016,1011,span,A bit tighter load regulation at 12V would be nice,n
+1021,1011,span,The APFC converter needs some fine-tuning,n
+1026,1011,span,Small distance between connectors,n
+1029,215,p,"The Cooler Master V750 Gold V2 is an impressive product from an OEM that is not widely known. Actually, only Cooler Master has used this OEM, Gospower, so far. The overall performance that the V750 achieves is top of the line, managing to surpass tough opponents like the new Corsair RM750x and the EVGA SuperNOVA 750 G6. It is the first time in many years that we've seen a Cooler Master PSU topping our charts, which means that Cooler Master's power team is on the right track again.",n
+1035,215,p,Cooler Master V750 Gold V2 PSU Review,n
+1037,215,p,,n
+1039,1037,strong,Alternate Best PSU 750W,n
+1040,1037,text,Corsair RM750x PSU Review,n
+1044,215,div,,n
+1047,1044,h3,Corsair RM850x,n
+1054,1044,div,Best PSU,n
+1058,1044,div,,n
+1061,1058,div,Manufacturer,n
+1068,1058,div,850W,n
+1083,1058,div,"ATX12V v2.53, EPS 2.92",n
+1098,1058,div,"3x EPS, 4x PCIe",n
+1153,1044,div,Transient response at 3.3V could be better,n
+1166,215,p,"It wasn't easy to upgrade a platform that was among the best in the Gold efficiency category, but Corsair managed to do this with CWT's help. The new Corsair RM850x achieves higher overall performance than its predecessor thanks to its amazing ripple suppression, tighter load regulation, and higher efficiency, especially at light loads. The hold-up time is also longer, while inrush currents remain at the same low levels. The only sections where the old RM850x prevails are transient response at 3.3V, which is not of great importance, and noise output because of the more aggressive fan speed profile and the new ML fan of the new unit. Despite the increased overall noise output, we still prefer the new ML fan because it is super reliable even under high operating temperatures.",n
+1171,215,p,Corsair RM850x Review,n
+1173,215,p,,n
+1175,1173,strong,Alternate Best PSU 850W,n
+1176,1173,text,XPG Core Reactor 850W,n
+1180,215,div,,n
+1183,1180,h3,Corsair RM1000x,n
+1190,1180,div,Best PSU,n
+1194,1180,div,,n
+1209,1194,div,"80 PLUS Gold, Cybenetics-Gold",n
+1234,1194,div,"3x EPS, 6x PCIe",n
+1245,1180,div,,n
+1265,1245,span,Fully compliant with ATX v2.52,n
+1270,1245,span,Highly efficient at light loads,n
+1280,1245,span,Low inrush current,n
+1290,1245,span,cables and connectors,n
+1314,1180,div,A small overall efficiency boost would be nice,n
+1327,215,p,"The Corsair RM1000x achieves high performance, and it isn't noisy, despite its increased max power output. It uses quality parts, including Japanese caps and a Magnetic Levitation fan, ideal for operation under high operating temperatures. It is fully compatible with the newest ATX spec , so among others, it offers high efficiency under super-light loads, and it also supports Microsoft's Modern Standby, which allows for speedy wake-from-sleep times . This is one of the best 1000W PSUs and it doesn't cost a fortune, despite the high-quality parts that it uses.",n
+1332,215,p,Corsair RM1000x Review,n
+1334,215,p,,n
+1336,1334,strong,Alternate Best PSU 1000 Watts,n
+1337,1334,text,XPG Cybercore 1000W Platinum,n
+1341,215,div,,n
+1344,1341,h3,be quiet! Dark Power Pro 12 1500W,n
+1352,1341,div,Best PSU AboveWatts,n
+1356,1341,div,,n
+1366,1356,div,1500W,n
+1386,1356,div,135mm fluid dynamic bearing fan,n
+1407,1341,div,,n
+1412,1407,span,Strong overall performance,n
+1422,1407,span,Low vampire power,n
+1441,1341,div,Not as efficient as other PSUs in this price range,n
+1444,215,p,"If you want silent operation and high-power output, the be quiet! Dark Power Pro 12 with 1500W max power fits the bill. It sports extremely high build quality and its semi-digital platform, offers top performance and can handle high operating temperatures. The only problem is the high price, but in systems that require this much power, the power supply is usually among the least-expensive parts when compared to the installed CPUs and GPUs.",n
+1449,215,p,be quiet! Dark Power Pro 12 1500W Power Supply Review,n
+1453,215,div,,n
+1456,1453,h3,Corsair AX1600i,n
+1464,1453,div,Best PSU Above 1500 Watts,n
+1468,1453,div,,n
+1473,1468,div,Flextronics,n
+1478,1468,div,1600W,n
+1498,1468,div,140mm Fluid Dynamic Bearing Fan,n
+1519,1453,div,,n
+1524,1519,span,Full power at 48°C,n
+1529,1519,span,Powerful and efficient,n
+1534,1519,span,Ripple suppression,n
+1539,1519,span,Load regulation,n
+1544,1519,span,Hold-up time,n
+1549,1519,span,Accurate Power Ok signal,n
+1554,1519,span,Silent,n
+1559,1519,span,Quality caps,n
+1574,1519,span,Quality fan,n
+1579,1519,span,Magnetic side covers,n
+1598,1453,div,EMI with AVG detector,n
+1601,215,p,"We waited years for a competitor to dethrone Corsair's AX1500i, and in the end it was another Corsair power supply to post higher overall performance. The Corsair AX1600i is the best PSU that money can buy today, period. It offers top performance in all areas and uses an innovative platform, which provides a glimpse at the future of power supply design.",n
+1604,215,p,"The use of a cutting-edge PFC circuit in combination with a fully digital platform seems to be the key for record-setting performance. Besides its super efficiency, the AX1600i also offers great load regulation, amazing transient response, a long hold-up time, and unparalleled ripple suppression. Moreover, the great benchmark results are accompanied by quiet operation, enabled by a relaxed fan profile and a high-quality FDB fan. Using the Corsair Link software, you're able to choose between three fan modes: performance, balanced, and quiet.",n
+1609,215,p,Corsair AX1600i Review,n
+1611,215,p,,n
+1613,1611,strong,Alternate Best PSU Above 1500 Watts,n
+1614,1611,text,SilverStone DA1650 Review,n
+1620,215,div,,n
+1623,1620,h3,Corsair SF750,n
+1631,1620,div,Best SFX PSU,n
+1635,1620,div,,n
+1640,1635,div,Great Wall,n
+1660,1635,div,"SFX, EPS 2.92",n
+1665,1635,div,92mm Rifle Bearing Fan,n
+1675,1635,div,7 years,n
+1681,1620,div,,n
+1686,1681,span,Powerful,n
+1696,1681,span,Great ripple suppression,n
+1701,1681,span,Tight load regulation,n
+1716,1681,span,7-year warranty,n
+1720,1620,div,,n
+1730,1720,span,Low hold-up time,n
+1735,1720,span,Semi-passive mode can’t be deactivated,n
+1738,215,p,"The Corsair SF750 is the strongest and one of the best SFX power supplies that money can get you today. If you want so much power out of such a small PSU and you can afford its stiff price, there is no other option. It can easily support a potent gaming system and thanks to the couple of EPS connectors that it has, and is compatible with high-end mainboards that need more juice in the CPU's area.",n
+1741,215,p,"If you don't need more than one graphics card connector, you should consider the top-notch SF600 Platinum instead and save yourself some serious money. Corsair has set the so high in the SFX market that even SFX pioneer SilverStone, doesn't have, for the moment at least, a competing 750W SFX model in its portfolio.",n
+1746,215,p,Corsair SF750 Review,n
+1748,215,p,,n
+1750,1748,strong,Alternate Best SFX Power Supply,n
+1751,1748,text,Corsair SF600 Platinum,n
+1755,215,div,,n
+1758,1755,h3,SilverStone SX1000 SFX-L,n
+1765,1755,div,Best SFX-L PSU,n
+1769,1755,div,,n
+1774,1769,div,Enhance Electronics,n
+1789,1769,div,Cybenetics Standard+,n
+1794,1769,div,"SFX-L, EPS 2.92",n
+1799,1769,div,120mm Double Ball Bearing Fan,n
+1809,1769,div,"2x EPS, 6x PCIe",n
+1820,1755,div,,n
+1825,1820,span,High build quality,n
+1830,1820,span,Extremely high power density,n
+1835,1820,span,Efficient platform,n
+1840,1820,span,2x EPS and 6x PCIe connectors,n
+1849,1755,div,,n
+1859,1849,span,High turn-on 5VSB voltage,n
+1864,1849,span,Low efficiency at light loads,n
+1869,1849,span,Noisy under high loads,n
+1872,215,p,"The SX1000 is the strongest small form factor PSU on the market today, and in reality, it is way stronger than its paper specs since we pushed it up 1480W. This is 148% above its nominal capacity! Enhance, the OEM behind this platform delivered a solid unit to SilverStone, with quite good build quality and top-notch parts.",n
+1875,215,p,"This is also shown by the provided warranty, which at five years is pretty long, given this unit's insane power density score. In other words, the SX1000 is a small, only in dimensions, power factory, able to support everything you throw at it.",n
+1880,215,p,SilverStone SX1000 SFX-L,n
+1882,215,p,,n
+1884,1882,strong,Alternate Best SFX-L Power Supply,n
+1885,1882,text,SilverStone NJ450-SXL,n
+1888,215,h2,Finding Discounts on the Best Power Supplies,n
+1891,215,p,"Whether you're shopping for one of the best power supplies or just looking for an affordable alternative, you may find savings by checking out our lists of the latest Corsair coupon codes , Newegg promo codes and Micro Center coupons .",n
+1902,203,div,,n
+1909,1902,div,Aris Mpitziopoulos,n
+1920,1902,p,"Aris Mpitziopoulos is a Contributing Editor at Tom's Hardware US, covering PSUs.",n
+1928,203,div,,n
+1931,1928,div,More about...,n
+1938,1928,div,,n
+1940,1938,div,Latest,n
+1944,1938,div,,n
+1946,1944,span,See,n
+1947,1944,text,more latest,n
+1950,202,div,,n
+1952,1950,span,Topics,n
+1954,1950,div,Power Supplies,n
+1956,1950,div,Tom's Hardware Top Picks,n
+1960,202,div,See all comments,n
+2174,202,div,,n
+2176,2174,div,,n
+2178,2176,span,4 Comments,n
+2180,2176,span,Comment from the forums,n
+2182,2174,ul,,n
+2187,2182,li,Archived comments are found here,n
+2196,2182,li,"Now many motherboards require 8pin+4pin CPU power, and some even require 8pin+8pin. Since this guide is made for DIY builders, this is the most important information when buying PSUs. In your guide there should be some differentiation between limited power supplies and PSUs that are more versatile, especially since 2x CPU 8pin is required for mid-tier...",n
+2207,2182,li,,n
+2208,2207,div,,n
+2210,2208,span,21490758,n
+2211,2208,text,said,n
+2212,2207,text,"Now many motherboards require 8pin+4pin CPU power, and some even require 8pin+8pin. Since this guide is made for DIY builders, this is the most important information when buying PSUs. In your guide there should be some differentiation between limited power supplies and PSUs that are more versatile, especially since 2x CPU 8pin is required...",n
+2223,2182,li,"If you are running a non-k SKU of Intel processors, you probably can run with DavidM.Maya's advice. I would error on the side of caution otherwise. I also agree that the number of CPU cables with pin counts and number of SATA and Molex power cables should be in there as well. The reason you might go for a...",n
+2233,2182,li,View All 4 Comments,n
+2240,202,p,Most Popular,n
+2313,0,div,,n
+2314,2313,p,,n
+2315,2314,text,"Tom's Hardware is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site",n
+2319,2314,text,.,n
+2321,2313,ul,,n
+2323,2321,li,Terms and conditions,n
+2327,2321,li,Privacy policy,n
+2331,2321,li,Cookies policy,n
+2335,2321,li,Accessibility Statement,n
+2339,2321,li,Advertise,n
+2343,2321,li,About us,n
+2347,2321,li,Coupons,n
+2351,2321,li,Careers,n
+2355,2321,li,Do not sell my info,n
+2357,2313,p,"© Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.",n
+2384,0,div,,n
+2385,2384,div,,n
+2388,2385,div,More stories to check out before you go,n
+2393,2385,div,Keep on reading,n
+2397,2384,div,,n
+2407,2397,div,,n
+2433,2407,div,,n
+2435,2433,span,EVGA's Stolen GPU Haul Turns Up in Vietnam,n
+2437,2433,span,"The missing haul of EVGA graphics cards, stolen last October, has reportedly been sold to customers in Vietnam by a major PC retailer in the country. PC DIYers were drawn to the low prices, but EVGA has locked out these cards from warranty, service, and upgrades.",n
+2452,2407,div,,n
+2454,2452,span,Best Ultrabooks and Premium Laptops 2022,n
+2456,2452,span,Our picks,n
+2471,2407,div,,n
+2473,2471,span,Best Motherboards 2022,n
+2475,2471,span,Here are the best motherboards for Intel and AMD’s recent processors. These boards offer great features and overclocking performance.,n
+2512,2397,div,,n
+2514,2512,span,Best AIO Coolers 2022,n
+2516,2512,span,"We’ve tested dozens of AIO coolers, measuring CPU temperatures and fan noise under load, to find the best closed-loop options to keep your PC cool and quiet.",n
+2533,2384,div,,n
+2539,2533,div,,n
+2541,2539,span,Best NAS 2022,n
+2543,2539,span,"Based on our extensive testing, these are the best network-attached storage devices for your home or home office, for backups, media servers and more.",n
+2555,2533,div,,n
+2557,2555,span,Best Wireless Headsets 2022,n
+2559,2555,span,"From Bluetooth connectivity to premium leather comfort, here are the best wireless headsets for gamers, creators, and professionals alike.",n
+2571,2533,div,,n
+2573,2571,span,Best Portable Monitors 2022,n
+2575,2571,span,These are the best portable monitors to consider if you're looking to expand real estate,n
+2661,2384,div,,n
+2669,2661,div,Nvidia Driver Unlocks Performance Boosting GPU System Processor,n
+2683,2661,div,Bitcoin Difficulty and Hash Rate Reach All-Time High as Price Plummets,n
+2726,2384,div,,n
+2731,2726,div,Rest Wow,n
+2734,2726,span,,n
+2736,2734,span,The Most Remarkable Dress Outfits Ever,n
+2739,2734,span,Rest Wow,n
+2761,2384,div,,n
+2767,2761,div,,n
+2769,2767,span,Logitech MX Mechanical Keyboard Review,n
+2771,2767,span,"Logitech’s MX Mechanical and MX Mechanical Mini keyboards are the perfect companions for the MX Master mouse, allowing you to use Logi Flow and the powerful Options+ software with a choice of brown,",n
+2783,2761,div,,n
+2785,2783,span,Khadas VIM4 Review,n
+2787,2783,span,"More powerful than the Raspberry Pi 4, and just as easy to use. The Khadas VIM4 is more expensive but that cost translates to more power in a familiar form factor.",n

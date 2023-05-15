@@ -1,0 +1,279 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+64,0,div,,n
+76,64,h1,The OfficeCrave.com Office Supplies List,n
+78,64,ul,,n
+80,78,li,Posted By OfficeCrave,n
+83,78,li,"Friday January 24th, 2020",n
+86,78,li,,n
+88,86,span,AddThis Sharing Buttons,n
+89,86,div,,n
+91,89,span,Share to Facebook,n
+94,89,span,Share to Twitter,n
+97,89,span,Share to Pinterest,n
+100,89,span,Share to Email,n
+103,89,span,Share to More,n
+106,78,li,"HP , In The Workplace",n
+109,64,div,,n
+110,109,p,,n
+111,110,text,Congratulations. Your days of forgetting to pick something up while shopping for office supplies are behind you! We’ve compiled the ultimate,n
+115,110,strong,office supply checklist,n
+116,110,text,for you to use when you’re restocking your supply closet. Make sure to click the button below to download the printable,n
+118,110,strong,office supplies list,n
+119,110,text,PDF absolutely free.,n
+128,109,h2,Desk Supplies,y
+129,109,ul,,n
+131,129,li,Desk supplies,y
+133,129,li,Desk organizers,y
+135,129,li,Desk pads,y
+137,129,li,Post-it notes,y
+139,129,li,Bookends,y
+141,129,li,Business cardholders,y
+143,129,li,Desk drawer organizer trays,y
+145,129,li,Desk extenders,y
+147,129,li,Paper clips,y
+149,129,li,Tape,y
+151,129,li,Rubber bands,y
+155,129,li,Stamp pads,y
+157,129,li,Ink,y
+160,109,h2,Writing Supplies,y
+161,109,ul,,n
+167,161,li,Markers,y
+169,161,li,Highlighters,y
+173,161,li,Pencil sharpener,y
+175,161,li,Mechanical pencils,y
+177,161,li,Mechanical pencil lead refills,y
+181,161,li,Rubber stamps,y
+183,161,li,Correction fluid,y
+185,161,li,Dry or Wet erase board,y
+187,161,li,Dry or Wet erase markers,y
+189,161,li,Dry or Wet erase spray,y
+191,161,li,Rulers,y
+193,109,h2,Paper,y
+194,109,ul,,n
+196,194,li,Notebook Paper,y
+198,194,li,Printer Paper,y
+200,194,li,Laser printer paper,y
+202,194,li,Copy Paper,y
+206,194,li,Writing pads,y
+208,194,li,Phone message pads,y
+210,194,li,Fax paper,y
+212,194,li,Graph paper,y
+214,194,li,Construction paper,y
+216,194,li,Pocket notebooks,y
+218,109,h2,Labels and Label Supplies,y
+219,109,ul,,n
+221,219,li,Avery Labels,y
+223,219,li,Avery Label Sizes,y
+225,219,li,Round labels,y
+227,219,li,Square labels,y
+229,219,li,Rectangular labels,y
+231,219,li,Waterproof labels,y
+233,219,li,Mailing labels,y
+235,219,li,Clear labels,y
+237,219,li,Address labels,y
+239,109,h2,Envelopes and Boxes,y
+240,109,ul,,n
+242,240,li,Regular envelopes,y
+244,240,li,Small envelopes,y
+246,240,li,Legal envelopes,y
+248,240,li,Padded legal envelope mailers,y
+250,240,li,Postage stamps,y
+252,240,li,Envelope sealer,y
+254,240,li,Packaging bubble,y
+256,240,li,Cardboard boxes,y
+259,109,h2,Notebooks and Notepads,y
+260,109,ul,,n
+262,260,li,Notepads,y
+264,260,li,Legal pads,y
+268,260,li,Composition books,y
+270,109,h2,Binders and Folders,y
+271,109,ul,,n
+273,271,li,Binders,y
+275,271,li,Folders,y
+277,271,li,Binder tabs,y
+279,271,li,Pocket binders,y
+281,271,li,Clear binders,y
+283,271,li,Document holders,y
+285,271,li,Portfolio folders,y
+287,271,li,Hole punchers,y
+289,271,li,Three-hole puncher,y
+291,109,h2,Office Storage,y
+292,109,ul,,n
+294,292,li,Filing cabinets,y
+296,292,li,Desk drawers,y
+298,292,li,Cubbies,y
+300,292,li,Drawer organizers,y
+302,292,li,Overhead cabinets,y
+304,292,li,Shelves,y
+306,292,li,Storage cabinets,y
+308,292,li,Storage bins,y
+310,109,h2,Technology Supplies,y
+311,109,ul,,n
+315,311,li,Printer ink,y
+317,311,li,Printer toner,y
+321,311,li,Extension cords,y
+323,311,li,Shredders,y
+325,311,li,Digital cameras,y
+327,311,li,Fax machines,y
+329,311,li,Computer monitor,y
+331,311,li,Label makers,y
+333,311,li,Speakers,y
+335,311,li,Postage meter,y
+337,311,li,Headsets,y
+339,109,h2,Kitchen Supplies,y
+340,109,ul,,n
+342,340,li,Paper plates,y
+344,340,li,Plastic plates,y
+346,340,li,Paper cups,y
+348,340,li,Plastic cups,y
+350,340,li,Plastic cutlery,y
+352,340,li,Dishwashing soap,y
+354,340,li,Paper towels,y
+356,340,li,Napkins,y
+358,340,li,Trashcans,y
+360,340,li,Trash bags,y
+362,340,li,Can openers,y
+364,340,li,Tupperware,y
+366,340,li,Healthy snacks,y
+368,340,li,Plastic bags,y
+370,340,li,Tinfoil,y
+372,340,li,Plastic wrap,y
+374,340,li,Birthday candles,y
+376,109,h2,Stationery and Mailing,y
+377,109,ul,,n
+379,377,li,Shipping paper,y
+381,377,li,Shipping labels,y
+383,377,li,Disk mailers,y
+385,377,li,Letter envelopes,y
+387,377,li,Catalog envelopes,y
+389,377,li,Padded envelopes,y
+391,377,li,Bubble wrap,y
+393,377,li,Sealing tape,y
+395,109,h2,Time Tracking,y
+396,109,ul,,n
+398,396,li,Day planner refills,y
+400,396,li,Calendars,y
+402,396,li,Clocks,y
+404,396,li,Timecards,y
+406,396,li,Scheduling boards,y
+408,396,li,To-do lists,y
+410,109,h2,Hanging Supplies,y
+411,109,ul,,n
+413,411,li,Thumbtacks,y
+415,411,li,Pushpins,y
+417,411,li,Velcro tabs,y
+419,109,h2,Missing Something On Our Office Supplies List?,y
+421,109,p,"Every business has different needs when it comes to office supplies. If your business uses office supplies that we didn’t include on our list, let us know on Twitter! We’ll update our article and our downloadable PDF. Don’t forget to scroll all the way to the bottom to download our office supplies list PDF.",n
+425,109,p,Here are a few common questions customers have when shopping,n
+427,109,h4,What Are Common Office Supplies?,n
+429,109,p,"While every office is different, there are plenty of items that can be found in just about any office. This includes items like:",n
+430,109,ul,,n
+432,430,li,Paper,y
+436,430,li,Stationery,y
+438,430,li,Envelopes,y
+440,430,li,Stamps,y
+444,430,li,Ink,y
+446,430,li,Toner,y
+448,430,li,Sticky notes,y
+452,109,p,"Sure, there are plenty of items that can be commonly found in an office, but these are a few of the necessary supplies.",n
+454,109,h4,What Is Basic Office Equipment?,n
+456,109,p,"In today’s working world, there are a few pieces of equipment that every business needs. These are things like:",n
+457,109,ul,,n
+459,457,li,Computers,y
+461,457,li,Scanners,y
+465,457,li,Internet routers,y
+467,457,li,Whiteboards,y
+469,457,li,Monitors,y
+471,457,li,HDMI Cables,y
+473,109,h2,Buying Office Supplies At OfficeCrave.com,y
+475,109,p,Stocking up on office supplies does not need to be a hassle. Stop spending hours at the store. Save time and money when you shop at OfficeCrave.com.,n
+479,109,p,"We carry office products from all of the top brands including HP, Epson, 3M, AbilityOne, Bostich, Bic, and so many more. Chances are if you need it for your office, you can find it at OfficeCrave.com",n
+490,0,div,,n
+492,490,h1,Top Deals,n
+493,490,div,,n
+498,493,p,PURELL Surface Disinfecting Wipes and Advanced Hand Sanitizing Gel Bundle,n
+504,493,p,"PURELL Advanced Hand Sanitizing Gel, 8 oz Pump Bottle, 12 or Carton",n
+510,493,p,PURELL Advanced Sanitizing Gel,n
+516,493,p,"PURELL Professional Surface Disinfecting Wipes, 7 x 8, Fresh Citrus, 110 or Canister, 6 Canister or Carton",n
+521,0,div,,n
+524,521,h4,,n
+525,524,text,Subscribe for,n
+527,524,font,deals and promotions,n
+533,521,div,Subscribe,n
+534,0,div,,n
+537,534,div,,n
+540,537,div,About Us Our Policies Payment Options Privacy Policy Reviews Shipping Returns Purchase Orders Drop Shipping Contact Us Sitemap Product Directory,n
+553,537,div,,n
+555,553,h3,Resources,n
+557,553,div,Articles Resource Center Helpful Resources KN95 Masks Go Green HP Rewards Lexmark Rewards Xerox Rewards Shop by Brand Shop All Categories Shop Sales Shop Closeouts Shop Gojo Shop Purell Shop Clorox Shop HP,n
+573,537,div,,n
+575,573,h3,Top Categories,n
+577,573,div,Avery Label Sizes Avery Waterproof Labels Avery Round Labels Avery Postcards Art Paper Bathroom Cleaners Batteries Binders Bleach Brooms Cables Carpet Cleaners Classroom Decorations Cleaning Products Cups Easels File Boxes File Folders First Aid Kits Floor Cleaners Furniture Cleaners Hand Sanitizers Hanging File Folders Hutches Medicines Mops Paints Plates Pocket Folders Report Covers Safety Glasses Shipping Boxes Snacks Soap Dispensers Soap Refills Squeegees Stamps Utility Carts Waste Receptacles,n
+617,534,div,,n
+620,617,h3,Warehouse Locations,n
+621,617,ul,,n
+623,621,li,"Albany, NY",n
+625,621,li,"Atlanta, GA",n
+627,621,li,"Baltimore, MD",n
+629,621,li,"Birmingham, AL",n
+631,621,li,"Boston, MA",n
+633,621,li,"Charlotte, NC",n
+635,621,li,"Chicago, IL",n
+637,621,li,"Cincinnati, OH",n
+639,621,li,"Cleveland, OH",n
+641,621,li,"Columbus, OH",n
+643,621,li,"Cranbury, NJ",n
+645,621,li,"Dallas, TX",n
+647,621,li,"Denver, CO",n
+649,621,li,"Detroit, MI",n
+651,621,li,"Fort Lauderdale, FL",n
+653,621,li,"Grand Rapids, MI",n
+655,621,li,"Harrisburg, PA",n
+657,621,li,"Houston, TX",n
+659,621,li,"Indianapolis, IN",n
+661,621,li,"Jacksonville, FL",n
+663,621,li,"Kansas City, MO",n
+665,621,li,"Los Angeles, CA",n
+667,621,li,"Memphis, TN",n
+669,621,li,"Miami, FL",n
+671,621,li,"Minneapolis, MN",n
+673,621,li,"Nashville, TN",n
+675,621,li,"New Orleans, LA",n
+677,621,li,"New York, NY",n
+679,621,li,"Orlando, FL",n
+681,621,li,"Philadelphia, PA",n
+683,621,li,"Phoenix, AZ",n
+685,621,li,"Pittsburgh, PA",n
+687,621,li,"Portland, OR",n
+689,621,li,"Raleigh, NC",n
+691,621,li,"Sacremento, CA",n
+693,621,li,"Salt Lake City, UT",n
+695,621,li,"San Antonio, TX",n
+697,621,li,"San Francisco, CA",n
+699,621,li,"Seattle, WA",n
+701,621,li,"St. Louis, MO",n
+703,621,li,"St. Paul, MN",n
+705,621,li,"Tampa, FL",n
+707,621,li,"Tulsa, OK",n
+709,621,li,"Visalia, CA",n
+712,534,p,Copyright © 2022 Office Crave,n
+723,0,div,Search OfficeCrave,n
+729,0,div,,n
+730,729,div,,n
+732,730,div,,n
+734,732,h3,Returning Customers,n
+736,732,p,Login To Your Accout,n
+745,730,div,Password,n
+750,730,div,Login,n
+753,730,div,Forgot Your Password?,n
+757,729,div,New Customer? Click Here to Continue,n
+761,0,div,,n
+763,761,div,,n
+765,763,h3,We'll Let You Know When It's Available,n
+767,763,p,Thank you,n
+769,763,p,Please note,n
+770,761,div,,n
+784,770,div,"Get coupons, deals and promotions delivered to your inbox.",n
+788,770,div,Let Me Know,n
+793,761,p,Success! You have been added to the notification list.,n

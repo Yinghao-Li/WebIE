@@ -1,0 +1,257 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+6,3,div,,n
+9,6,div,,n
+14,9,div,,n
+16,14,h1,Equipment and material required,n
+17,14,p,,n
+18,17,text,by,n
+20,17,span,Prince Kumar,n
+23,9,div,"Last updated on Jan 5, 2020",n
+30,6,div,,n
+31,30,div,,n
+34,31,p,Contents,n
+37,31,ul,,n
+39,37,li,Following are major Equipment and material required,n
+41,37,li,MECHANICS,n
+43,37,li,EQUIPMENT,n
+45,37,li,CONTAINERS,n
+47,37,li,BASES,n
+49,37,li,SUPPORT,n
+51,37,li,PLANT MATERIALS,n
+53,37,li,ACCESSORIES,n
+56,30,h3,Following are major Equipment and material required,n
+58,30,ul,,n
+60,58,li,Mechanics,n
+62,58,li,Equipment,n
+64,58,li,Containers,n
+66,58,li,Bases,n
+68,58,li,Accessories,n
+70,58,li,Plant material,n
+72,58,li,Support,n
+75,30,h3,MECHANICS,n
+78,30,p,"These are items used to keep flowers, foliage, and stems in place within the container. Mechanics must be fixed securely and should be hidden from view.",n
+80,30,p,"Examples – florists’ foam , pin holders , chicken wire, prong, adhesive clay and tape, florist cone.",n
+81,30,ul,,n
+82,81,li,,n
+84,82,strong,"Floral foam,",y
+87,82,strong,oasis,n
+88,82,text,", is a cellular plastic material, available in two types – green foam and brown or grey foam.",n
+89,81,li,,n
+91,89,strong,Pin-holders,y
+94,89,strong,kenzan,n
+95,89,text,"or needle-point holders, is a series of sharply pointed pins are firmly held in a solid lead base, to hold thick and heavy stems securely by impaling them on the pins.",n
+96,81,li,,n
+98,96,strong,Chicken wire,y
+99,96,text,", also called",n
+101,96,strong,‘wire mesh’,y
+102,96,text,or,n
+104,96,strong,‘wire netting’,y
+105,96,text,", is a fine- gauge wire used to cover floral foam blocks in large displays.",n
+106,81,li,,n
+108,106,strong,Prong,y
+109,106,text,is the simplest type of floral foam anchor. It is a small plastic disc with four vertical prongs. The base of the prong is attached to the container with adhesive clay and the floral foam is pressed down onto the prongs.,n
+110,81,li,,n
+112,110,strong,Florist’s cone,y
+113,110,text,"also called a ‘flower tube’ or ‘flower funnel’. It acts like a miniature vase. It is used in large arrangements, where foliage or flowers need to be placed above their stem height.",n
+116,30,h3,EQUIPMENT,n
+118,30,p,,n
+119,118,text,This includes tools used to ensure that a satisfactory arrangement of plant material is created within the container. Examples –,n
+121,118,strong,"bucket, scissors, knife, watering can, mister, wire cutter, cocktail sticks, turn, wire, floral tape, candle holder, cut flower preservatives, and secateurs",n
+122,118,text,.,n
+123,30,ul,,n
+124,123,li,,n
+126,124,strong,Mister,y
+127,124,text,is a hand-held spray bottle to produce a fine mist of water droplets to keep an arrangement look fresh in warm weather.,n
+128,123,li,,n
+130,128,strong,Secateurs,y
+131,128,text,are used to cut through thick and woody stems.,n
+133,123,li,Cocktail sticks or a toothpick is used to make holes in florists’ foam for a soft stem of a flower.,n
+134,123,li,,n
+136,134,strong,Cut-flower preservatives,y
+137,134,text,"is a bactericide, available in powder or liquid form, to prevent slime and smell from developing in the vase water, plus sugar to prolong the life of fresh flowers. A preservative can be made in-house by adding 3 teaspoons of sugar and 1 drop of bleach to half a litre of water.",n
+140,30,h3,CONTAINERS,n
+143,30,p,"These are receptacles that hold the flower arrangement. They may or may not be hidden by the plant material. The container must be waterproof and neutral colours such as soft grey, dull brown, offwhite, or earth colours are most suitable because they are inconspicuous and do not detract attention from flowers displayed. Theme and simplicity should be kept in mind while choosing the design of the container. Example – vases and jugs, basket, bowls and trays, wreath frame etc.",n
+146,30,h3,BASES,n
+149,30,p,"An object that is placed underneath the container to protect the surface of the support and or or to add to the beauty of the display is called a base. Example – table mat, tree section, wood base, stone base, and oriental base.",n
+152,30,h3,SUPPORT,n
+155,30,p,"This refers to the structure on which the container stands. Example – tables, sideboards, alcoves, and shelves.",n
+158,30,h3,PLANT MATERIALS,n
+161,30,p,These can be divided into 3 basic types,n
+162,30,p,,n
+164,162,strong,a Flowers,y
+165,162,text,– This consists of bold flowers or clusters of small showy blooms. The dominant material provides a centre of interest.,n
+168,162,text,"– Gerbera, Chrysanthemum, lilies, Anthurium, Tulips, Poppies, Roses, Dahlias, and Daffodils.",n
+169,30,p,,n
+171,169,strong,b Fillers,y
+172,169,text,– This consists of smaller flowers and all sorts of leaves and foliage that are used to cover the mechanics and edges of the container and also provide added interest and colour to the display.,n
+175,169,text,"– Asters, Ivy, Button Chrysanthemum, Carnations, Gypsophila , Limonium and Marguerites.",n
+176,30,p,,n
+178,176,strong,c Foliages –,y
+179,176,text,"This consists of tall stems, flowering spikes, or bold leaves that are used to create the basic framework or skeleton. This lining material may be straight or curved and it sets the height and width of the finished arrangement.",n
+181,176,strong,Examples,n
+182,176,text,"– Gladioli, birds of paradise, goldenrods, larkspur, asparagus ferns, palms, tuberoses, and Peruvian lilies.",n
+185,30,h3,ACCESSORIES,n
+187,30,p,,n
+188,187,text,These are non-plant materials included in or placed alongside the arrangement.Their purpose is generally decorative but could be functional at times. Accessories are added to the design for extra interest or to ‘stretch’ the flowers when they are in short supply.,n
+191,187,text,"– miniature dolls, hats, ribbons, beads, painted wire, wooden fruit shapes, silk flowers and foliage, candles, driftwood, shells, idols, interesting pebbles etc.",n
+196,30,div,PDF,n
+201,6,div,,n
+203,201,h1,0 Comments,n
+205,201,div,,n
+206,205,h3,,n
+208,206,span,Submit a Comment,n
+210,206,small,Cancel reply,n
+211,205,form,,n
+213,211,p,,n
+215,213,span,Your email address will not be published.,n
+217,213,span,Required fields are marked,n
+222,211,p,Comment,n
+228,211,p,Name,n
+234,211,p,Email,n
+241,211,p,"Save my name, email, and website in this browser",n
+244,211,p,Submit Comment,n
+251,6,div,,n
+253,251,h4,Syllabus BHM204,n
+254,251,div,,n
+257,254,p,LINEN ROOM,n
+259,254,p,the Linen Room,n
+262,254,p,B. Layout and equipment in the Linen Room,n
+265,254,p,C. Selection criteria,n
+268,254,p,Linen,n
+271,254,p,Linen requirements,n
+274,254,p,F. Linen control-procedures and records,n
+277,254,p,G. Stocktaking-procedures and records,n
+280,254,p,discarded linen,n
+283,254,p,I. Linen Hire,n
+287,254,p,UNIFORMS,n
+289,254,p,providing uniforms to staff,n
+292,254,p,uniforms; type of uniforms,n
+295,254,p,uniforms,n
+298,254,p,the Uniform room,n
+302,254,p,SEWING ROOM,n
+304,254,p,A. Activities and areas to be provided,n
+307,254,p,B. Equipment provided,n
+311,254,p,LAUNDRY,n
+313,254,p,A. Commercial and On-site Laundry,n
+316,254,p,Industrial Laundering-OPL,n
+319,254,p,the Wash Cycle,n
+322,254,p,D. Laundry Equipment and Machines,n
+325,254,p,the Laundry,n
+328,254,p,F. Laundry Agents,n
+331,254,p,G. Dry Cleaning,n
+334,254,p,H. Guest Laundry or Valet service,n
+337,254,p,I. Stain removal,n
+340,254,p,Laundry Symbols,n
+343,254,p,FLOWER ARRANGEMENT,n
+345,254,p,A. Flower arrangement in Hotels,n
+348,254,p,B. Equipment and material required,n
+351,254,p,plant material,n
+354,254,p,flower arrangements,n
+357,254,p,design as applied to flower arrangement,n
+361,254,p,INDOOR PLANTS,n
+363,254,p,Selection and care,n
+366,3,div,,n
+367,366,div,,n
+368,367,div,,n
+372,368,h3,Solved Papers,n
+373,368,div,,n
+378,373,div,,n
+380,378,h5,B.Sc HHA 1st Sem,n
+382,378,ul,,n
+390,382,li,Acc. Operation,n
+396,382,li,Computer,n
+399,373,h5,B.Sc HHA 2nd Sem,n
+416,373,div,,n
+418,416,h5,B.Sc HHA 3 or 4 Sem,n
+434,416,li,H. Accountancy,n
+437,373,h5,B.Sc HHA 5th Sem,n
+452,373,div,,n
+454,452,h5,B.Sc HHA 6th Sem,n
+468,452,li,Facility P.,n
+469,367,div,,n
+473,469,h3,Topic-wise Notes,n
+474,469,div,,n
+479,474,div,,n
+481,479,h5,1st Sem Notes,n
+493,479,li,Computer Th.,n
+498,474,div,,n
+500,498,h5,2nd Sem Notes,n
+509,498,li,Acc. Op. Th,n
+519,474,div,,n
+521,519,h5,3 or 4 Sem Notes,n
+523,519,ul,,n
+527,523,li,F and B Opr. Th,n
+537,523,li,H Accountancy,n
+540,474,h5,5th Sem Notes,n
+555,474,div,,n
+557,555,h5,6th Sem Notes,n
+571,555,li,Facility Planning,n
+572,367,div,,n
+576,572,h3,Topic-wise Notes,n
+577,572,div,,n
+582,577,div,,n
+584,582,h5,M.Sc HA 1st Sem,n
+586,582,ul,,n
+588,586,li,Hospitality Mgt.,n
+590,586,li,Info. Mgt. System and Hospitality,n
+592,586,li,Mgt. Fn. and Behaviour,n
+594,586,li,Properties Dev. and Planning,n
+596,577,div,,n
+598,596,h5,M.Sc HA 2nd Sem,n
+600,596,ul,,n
+602,600,li,Equipment and Material Mgt.,n
+604,600,li,"Managing Entrepreneurship, SME Properties",n
+606,600,li,Marketing Research,n
+608,600,li,Revenue or Yield Mgt,n
+609,577,div,,n
+611,609,h5,M.Sc HA 3rd Sem,n
+613,609,ul,,n
+615,613,li,H R Planning,n
+617,613,li,Managing Change in Org.,n
+619,613,li,Union Mgt. Relations,n
+621,613,li,Social Process and Behavioural Issues,n
+622,577,div,,n
+624,622,h5,M.Sc HA 3rd Sem,n
+626,622,ul,,n
+628,626,li,International Marketing,n
+630,626,li,Mktg. Services and Consumer Behaviour,n
+632,626,li,Marketing Mgt.,n
+634,626,li,Sales Mgt.,n
+635,577,div,,n
+637,635,h5,M.Sc HA 4th Sem,n
+639,635,ul,,n
+641,639,li,Managerial Economics,n
+643,639,li,Production and Operation Mgt.,n
+645,639,li,Mktg. Comm. and Advertising,n
+647,639,li,Labour Laws,n
+650,367,div,,n
+653,650,h3,Other Imp.,n
+654,650,ul,,n
+656,654,li,NCHMCT JEE,n
+658,654,li,B.Sc and M.Sc Syllabus,n
+660,654,li,NHTET Exam,n
+662,654,li,IGNOU Books,n
+664,654,li,Free Reference Books,n
+667,650,h3,Old Question Papers,n
+668,650,ul,,n
+670,668,li,B.Sc HHA NCHM,n
+672,668,li,M.Sc HA NCHM,n
+674,668,li,IGNOU,n
+675,366,div,,n
+678,675,div,,n
+681,678,h3,hmhub,n
+682,678,ul,,n
+684,682,li,Android App,n
+686,682,li,Contact,n
+688,682,li,Internship,n
+690,682,li,Privacy Policy,n
+695,675,h3,Let’s Get Social,n
+712,366,div,,n
+713,712,text,Copyright © 2022,n
+715,712,strong,hmhub,n
+716,712,text,All Rights Reserved,n
+718,0,div,,n
+721,718,h3,"Enjoy premium reading Experience by adding hmhub on home screen. Super fast speed, offline access and more.",n
+723,718,div,Get It Now,n

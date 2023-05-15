@@ -1,0 +1,101 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+13,5,h1,10 Basic Supplies to Keep in Stock,n
+15,5,div,,n
+18,15,div,,n
+20,18,span,by,n
+21,18,text,Joseph Flynt,n
+22,15,div,,n
+23,22,text,Posted on,n
+25,22,time,"January 14, 2020",n
+37,5,div,,n
+41,37,div,"3D Insider is ad supported and earns money from clicks, commissions from sales, and other ways.",n
+43,37,p,"The right tools make it easier to do the job correctly – this is true with 3D printing is it is in any other craft. You never know when you’ll run into a problem over the course of 3D printing a project, or simply forget to keep some of the basic supplies in stock when you need them the most.",n
+45,37,p,"Depending on the scale of the project you’re working on, or the filament material that you’re using, the list of tools, supplies, and accessories you’ll need to have on hand can be very long. To keep things simple, we’re narrowing down the list to just these ten essential items.",n
+49,37,h2,What is this list for?,n
+51,37,p,"Before we start writing down what we believe are the essential supplies for 3D printing, we’d like to clarify what this is list includes. These are SUPPLIES, not tools. This means that these items are consumable by nature. Thus, screwdrivers, engraving tools, and pliers, although just as essential to 3D printing, will not be found in this list. This is a guide of items to keep in stock because you are very likely going to need them at some point.",n
+53,37,h3,Alcohol wipes,y
+57,37,p,Let’s start with something incredibly cheap and basic,n
+59,37,p,"What are you going to use alcohol wipes for? A lot of things, actually. We like to give our 3D printer parts and tools a quick wipe-down before and after every use just to remove any residual plastic particles that may have been released during the printing process. This keeps your tools in good condition to be used at a moment’s notice and wards off any erosive effects of residual particulate matter.",n
+61,37,p,"More importantly, alcohol wipes are very useful in cleaning off your build platform before you start any new 3D printing project . When setting up a build platform, it’s almost unavoidable to touch its top surface with our fingers, which tends to leave oil residue. This oil greatly reduces the ability of the plastic filament to the platform’s surface, which could lead to a host of first layer problems. A quick wipe with these alcohol wipes is absolutely necessary, even if you intend to apply some adhesion aid to your build platform.",n
+65,37,h3,Vacuum-sealed containers,y
+68,37,p,"When it comes to 3D printing filaments, moisture is the enemy. Filaments are naturally hygroscopic materials, which means that they readily take up moisture from the environment. If you use a filament that hasn’t been sufficiently dried in your 3D printer, the trapped moisture will expand in the hot end nozzle and cause the formation of bubbles that can eventually burst, leading to prints of poor quality. Worse still, the bubbles could burst inside the nozzle and cause clogging.",n
+70,37,p,"To make sure that you avoid filament moisture problems, you need to keel all your filament spools inside airtight vacuum containers. There are a lot of options out there. You can get this fancy Polybox from Polymaker which actively extracts moisture and keeps your filament at less than 15% humidity, or this inexpensive package of five plastic containers with plastic clasps and vacuum seals.",n
+76,37,p,"Even some standard freezer bags or vacuum storage bags can do the job well enough if you don’t have enough space in your workshop for these large containers. If you decide to go the cheapest route, we advise throwing in a handful of desiccant pouches to help absorb extra moisture from your filament.",n
+80,37,h3,Desiccant pouches,y
+84,37,p,"Unless you have the time to dry your filament in an oven before use or a fancy container with active dehumidifier capabilities, you will need to store your filament with something that will draw out its moisture. This 60-pack bundle only costs around $10 and should last you for a really long time.",n
+86,37,p,Your filament absorbs a good deal of moisture every time you take it out of its airtight container. This moisture again needs to be removed once you put it back. Throwing in at least five of these small desiccant pouches with your filament should do the job.,n
+88,37,p,"Desiccant doesn’t last forever, though, as they can still get saturated with moisture. You’ll need to swap out your old ones for fresh desiccant pouches every now and then, so it’s always a good idea to have ample supply all the time.",n
+90,37,h3,Acetone,y
+94,37,p,"If you work with ABS frequently, then acetone can be one of the most versatile tools that you can have on stock. Acetone readily evaporates at room temperature, so you can’t really store an open bottle for long before it all dries out. For this reason, we don’t recommend getting a huge bottle – this 8-ounce bottle of pure acetone should be just enough for what you need without letting a huge portion of it go to waste.",n
+96,37,p,"The unique characteristic of acetone is that it’s the perfect solvent for ABS. This can be used in two major ways: for creating ABS glue as an adhesion aid, or for finishing an ABS print.",n
+98,37,p,"ABS glue is basically a solution of ABS plastic dissolved in a bit of acetone. This solution can be applied to a heated printing bed is one of the best ways to keep your ABS print to stick to the build platform. As anyone who has even printed with ABS can tell you, warping and adhesion are two of the biggest challenges with ABS. Making your own ABS glue is an effective and inexpensive solution to this problem.",n
+100,37,p,"When an ABS print is exposed to acetone in controlled conditions, the acetone melts a very thin layer of the ABS, resulting in a consistently smooth surface. Finishing an ABS print using an acetone vapor bath is one of the best uses of acetone and one of the most reliable finishing methods. Acetone can also be used to “glue” separate ABS parts by binding them at the molecular level. Considering the many ways that acetone can be used for 3D printing, it’s considered prudent to always have a bottle of it on hand.",n
+102,37,h3,Dust mask,y
+106,37,p,"Whenever you do any sort of 3D printing, it’s always a good idea to do it in a well-ventilated place. Depending on the filament you are using, heating up the plastic material can release a bevy of noxious or irritating gases that can be harmful with prolonged exposure. Even if a filament doesn’t release any odor, the 3D printing process itself tends to result in the release of plastic microparticles that can wreak havoc on your respiratory system.",n
+108,37,p,"Even with a good ventilation system, we still highly recommend having another layer of protection in the form of an N95 dust mask. A mask with an N95 rating can filter out PM2.5 particles such as fine dust and pollen – more than enough for the plastic particles of 3D printing. They are also really cheap, as this pack of 20 masks costs less than $20.",n
+110,37,p,"We know that wearing a dust mask for a long time isn’t exactly comfortable. The mask makes breathing hard, and the straps are necessarily tight so that the mask fits snugly over your face. Feel free to step out of your workshop every once in a while so that you can breathe freely. However, this dust mask is an absolute necessity if you are going to work closely with your 3D printer, so make sure to always have them on stock.",n
+112,37,h3,Sandpaper,y
+116,37,p,"Finishing takes a 3D print to a whole new level. If you’re striving to give your prints a professional quality, then you need to do some amount of finishing on them. Whether you simply want to polish your prints or give them a coat of paint, you have to start at one step: sanding.",n
+118,37,p,"Sanding eliminates the surface imperfections that are inherent to FDM printing and the relatively smooth surface that sanding creates acts as the foundation for more advanced finishing methods. To get good results, you’ll have to sand your print using a multi-step method and work your way up to finer grit sandpaper. This 48-piece set of sandpaper from 48-grit to 3000-grit should be more than up for the job.",n
+120,37,p,"One other thing we like about this set of sandpaper from Keama is that they are waterproof. This makes them suitable for wet sanding – a process in which you keep your print constantly wet while sanding, which mobilizes the particulate plastic and helps accelerate the sanding process. While this step is optional, we find that wet sanding simply results in a smoother finish in 3D printed objects.",n
+122,37,h3,Glue stick,y
+126,37,p,"Who would have thought that a simple glue stick that you can find in any schoolkid’s bag could be an incredibly useful tool in 3D printing? The unassuming glue stick is still the most widely used adhesion aid because of how cheap and accessible it is, and yet, surprisingly effective. This pack of three sticks should be enough for you to get through a couple dozen of 3D printing projects.",n
+128,37,p,"Many 3D printing professionals prefer using glue sticks because of how easily it can be applied. Unlike ABS glue or tape, glue stick application only takes a couple of seconds and it would be very hard to do it improperly. Glue stick also comes off when you lift your print off a built platform, which means that it doesn’t leave much of a residue. Even if it does, glue stick is water-soluble, so you can just wipe off your build platform with a wet cloth to clean it up.",n
+130,37,p,"We also really like the “disappearing” purple hue of this glue stick, which takes out the guesswork of determining when the glue has dried. This means that you don’t have to touch the glue to check if it’s dry and risk leaving your dirty fingerprints all over the build platform.",n
+132,37,h3,Blue painter’s tape,y
+136,37,p,"Another item in our list of things that have been repurposed for 3D printing is blue painter’s tape. Blue tape has the unique property of not leaving behind any residue when it is removed, which is important for both the quality of your print and the integrity of your build platform. For ease of applications, we like getting tape that is as wide as possible – this 2.83-inch roll of Blue Painter’s Tape from Scotch fits the bill.",n
+138,37,p,"Blue painter’s tape has proven to a lot of common filament materials, such as PLA or PETG. It works best on a non-heated printing bed. The advantage of using tape for bed adhesion compared to any sort of glue is that you can simply allow the tape to peel off when you need to remove your print. Since blue tape is so cheap, you don’t have to feel bad about throwing it away once you’re done.",n
+140,37,p,Applying tape on a build platform can be a bit of a headache. You need to make sure that the tape has no wrinkles and that no strips are overlapping. You also need to re-do the entire application every time you start a new project. The results are well worth the effort.,n
+142,37,h3,Brush-on coating,y
+146,37,p,"Remember when we said that you’ll need to sand your 3D prints to achieve a professional finish? Well, it doesn’t quite end there. To really make your project stand out, you’ll have to apply a coating to smooth out those small surface imperfections and give it a sleek polish. This Smooth-On 3D Print Coating is an excellent short cut to achieving this look with minimal effort.",n
+148,37,p,"This coating material is compatible with ABS, PLA, and most other 3D printing materials. The coating fills in all those small holes left over from the sanding process and is self-leveling, so you should end-up with those pesky brush strokes on the finished product. Aside from giving your print a visually pleasing sheen, the epoxy material hardens into this impact-resistant coating that can be further polished and painted on.",n
+150,37,p,"Since the epoxy coating is made with two parts that need to be mixed together, you can create a batch that is just enough for what you need without compromising any of the leftover coating. This bottle should be enough for about a few dozen 3D printing projects depending on size. It does not contain any toxic chemicals, although we would still be careful with it around kids.",n
+152,37,h3,Super glue,y
+156,37,p,"What better way to end this list than with good old super glue? For all the fancy items that we’ve listed here, we still wouldn’t start any 3D printing object if we didn’t have at least a single tube of super glue in our toolbox. This pack of Gorilla Super Glue with two tubes is enough to tide us over several months of 3D printing.",n
+158,37,p,What would you use super glue for? Just about anything you can imagine! We mostly use super glue to put together projects that have to be printed in separate parts or to repair minor damages in projects that we don’t want to do all over again. Thick glue can even be used to fill gaps that could come up if you run into a problem with your 3D printer.,n
+160,37,p,"Super glue is a much more versatile alternative to other means of sticking together 3D printed parts, such as acetone. If we had to choose between the two, we’d go for super glue at any time.",n
+162,37,h2,Final thoughts,n
+164,37,p,"It only takes a bit of preparation to make sure that you get the best results out of your 3D printing projects. In addition to the right tools, you need to make sure that you have all these essential supplies readily available in your workshop. Are there any other supplies that you like stockpiling beside your 3D printer? Tell us about them in the comments below.",n
+169,37,div,Warning; 3D printers should never be left unattended. They can pose a firesafety hazard.,n
+171,0,div,,n
+172,171,div,,n
+173,172,div,,n
+174,173,div,,n
+176,174,strong,Disclosure,n
+177,174,text,"3D Insider is a participant in the Amazon Affiliate Program. We may earn money from your clicks, at no extra cost for you. We are also affiliates of numerous other programs. Outbound clicks may earn the site money. We may get compensated in other ways too. Please read our Privacy Policy.",n
+178,173,div,,n
+183,178,div,Joseph Flynt,n
+188,178,div,I love diving into the latest and greatest in emerging technologies and seeing what they can do. I enjoy running when I'm not thinking about tech.,n
+189,172,div,,n
+191,189,div,0 comments,n
+194,189,div,Share now,n
+206,171,div,,n
+207,206,div,,n
+208,207,div,,n
+210,208,div,YOU MAY ALSO LIKE,n
+212,208,div,SEE MORE,n
+214,207,ul,,n
+222,214,li,Upgrading to An All-Metal Hot End,n
+223,214,li,,n
+227,223,div,9 months ago,n
+230,223,h3,PLA?,n
+231,214,li,,n
+235,231,div,11 months ago,n
+238,231,h3,The New Anycubic Vyper 3D Printer – Beginner-Friendly at A Mid-Range Price,n
+246,214,li,PETG vs. ABS – Which One is Better?,n
+248,206,div,,n
+249,248,h3,,n
+250,249,text,Leave a Reply,n
+252,249,small,Cancel reply,n
+253,248,form,,n
+254,253,p,,n
+256,254,span,Your email address will not be published.,n
+258,254,span,Required fields are marked,n
+263,253,p,Comment,n
+267,253,div,,n
+270,267,p,Name,n
+274,267,p,Email,n
+282,253,p,Sign me up,n
+291,253,p,Δ,n

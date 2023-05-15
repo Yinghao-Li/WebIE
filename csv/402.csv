@@ -1,0 +1,113 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+74,0,div,,n
+85,74,div,,n
+93,85,div,,n
+96,93,h1,Equipment List,n
+99,93,div,,n
+100,99,text,Cameron Hanes,n
+102,99,span,or,n
+104,99,span,Equipment List,n
+106,85,div,,n
+108,106,p,"When I’m in the field, I make it a priority to use what I feel are the best hunting and outdoor products on the market. If you want to know what I think about a specific product, give me a shout at cam@cameronhanes.com. I’ve probably tried it at least once, and can tell you what I think about it.",n
+110,106,p,Here’s my list,n
+111,106,ul,,n
+112,111,li,,n
+114,112,strong,Bow,y
+115,112,text,"Hoyt Vector Turbo 80#, pushing a 415 grain arrow, 299 feet per second for 82.5 ft or lbs of kinetic energy…hammer time!",n
+116,111,li,,n
+118,116,strong,Arrows,y
+119,116,text,"Easton Full Metal Jacket 400, with Blazer vanes and wraps, 415 grains finished weight",n
+120,111,li,,n
+122,120,strong,Broadheads,y
+123,120,text,Blitz by Rocky Mountain Broadhead,n
+124,111,li,,n
+126,124,strong,Sight,y
+127,124,text,single pin Hogg Father with long dove tail,n
+128,111,li,,n
+130,128,strong,Rest,y
+131,128,text,Trophy Taker,n
+132,111,li,,n
+134,132,strong,Stabilizer,y
+135,132,text,Fuse,n
+136,111,li,,n
+138,136,strong,String,y
+139,136,text,"Winner’s Choice Custom Bowstrings – red, white and blue",n
+140,111,li,,n
+142,140,strong,Camo,y
+143,140,text,Realtree Max-1,n
+144,111,li,,n
+146,144,strong,Outer Wear,y
+147,144,text,Under Armour in Realtree. I wear Ridge Reaper pants and jacket,n
+148,111,p,,n
+150,148,strong,Mid-Layer,y
+151,148,text,Under Armour Hoodie or quarter zip over UA Heat Gear,n
+152,111,li,,n
+154,152,strong,Stocking Hat,y
+155,152,text,Under Armour beanie,n
+156,111,li,,n
+158,156,strong,First Layer Gear,y
+159,156,text,Under Armour — I will usually wear Base 2.0. For cold weather I will wear 1.0 with 4.0 over the top.,n
+160,111,li,,n
+162,160,strong,Optics,y
+163,160,text,Brunton Epoch with Bino-System,n
+164,111,li,,n
+166,164,strong,Rangefinder,y
+167,164,text,Nikon,n
+168,111,li,,n
+170,168,strong,Other,n
+171,168,text,Sims Vibration Labs products,n
+172,111,li,,n
+174,172,strong,Release,y
+175,172,text,Wiseguy by Spot Hogg,n
+176,111,li,,n
+178,176,strong,Boots,y
+179,176,text,Under Armour’s Speed Freak and Siberia,n
+180,111,li,,n
+182,180,strong,Pack,y
+183,180,text,Tenzing,n
+184,111,li,,n
+186,184,strong,Water Container,y
+187,184,text,96 oz. Platypus,n
+188,111,li,,n
+190,188,strong,Water Purification,y
+191,188,text,"Potable Aqua – active ingredient, Iodine",n
+192,111,li,,n
+194,192,strong,Headlamp,y
+195,192,text,"Petzl e+LITE, weight 1 ounce with batteries",n
+196,111,li,,n
+198,196,strong,Sleeping Bag,y
+199,196,text,"Big Agnes Zirkel SL, 20 degree bag, 800 fill goose down, 2 lbs 4 oz",n
+200,111,li,,n
+202,200,strong,Shelter,y
+203,200,text,"Outdoor Research Bivy Sack, Big Agnes Fly Creek UL1 1-peson tent, 2 lbs, 3 oz.",n
+204,111,li,,n
+206,204,strong,Sleeping Pad,y
+207,204,text,Therm-A-Rest ¾ length fold up style,n
+208,111,li,,n
+210,208,strong,Socks,y
+211,208,text,Under Armour synthetic,n
+212,111,li,,n
+214,212,strong,Main Staple,y
+215,212,text,"Military Meals-Ready-To-Eat, Mountain House and peanut butter, honey and bacon sandwiches and Honey Stinger energy bars, waffles and chews.",n
+216,111,li,,n
+218,216,strong,Supplements,n
+219,216,text,"Complete Nutrition in Eugene advises me, call Jason Harms @",n
+222,216,strong,Training Gear,n
+225,111,li,Head to Toe Under Armour,n
+226,111,li,,n
+228,226,strong,Watch,y
+229,226,text,Suunto,n
+230,111,li,,n
+232,230,strong,Shoes,y
+233,230,text,Under Armour,n
+236,111,p,Training Music,n
+237,111,li,,n
+239,237,strong,iPod,y
+240,237,text,"Kristy Lee Cook, Jason Aldean, 2Pac, Lil’ Wayne, Miranda Lambert, Akon, Eminem, Tim McGraw, Nelly, Conway Twitty, Fergie, Rhett Akins",n
+243,111,li,Motivation,n
+245,106,p,Cause,n
+255,74,div,,n
+256,255,text,© 2018 Cameron Hanes | All Rights Reserved,n
+259,255,div,Designed By,n
+263,255,div,My Account or Returns or Terms and Conditions or Privacy Policy,n

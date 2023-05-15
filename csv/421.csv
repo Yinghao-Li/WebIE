@@ -1,0 +1,170 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+36,0,div,,n
+39,36,div,,n
+40,39,div,,n
+42,40,h1,How to pack,n
+44,40,div,Read on Watch video,n
+48,39,div,keyboard_arrow_down,n
+51,36,ul,,n
+54,51,li,home,n
+56,51,li,How to pack,n
+57,36,div,,n
+60,57,div,,n
+64,60,div,,n
+66,64,h3,What to bring on a bike ride and how to pack it,n
+68,64,p,"There’s nothing better than cutting loose on the open road, but there’s some essential gear you should take with you on every bike ride and there’s an art to packing it correctly. Here, we’ll teach you the five things you should bring on every ride and the best way to pack them.",n
+80,60,h3,THE FIVE THINGS YOU SHOULD BRING ON EVERY RIDE,n
+84,60,div,,n
+86,84,h3,Lights,y
+88,84,p,"Daytime running lights are essential on every ride. Using them is the single most impactful step you can take toward standing out to motorists. Bontrager DRLs are designed specifically for visibility in all hours of the day, even when the sun is shining, and they can be seen from up to 2km away",n
+90,57,div,,n
+96,90,h4,Bontrager Flare RT Rear Bike Light,y
+102,90,h4,Bontrager Ion 200 RT Front Bike Light,y
+108,90,h4,Bontrager Ion 200 RT or Flare RT Light Set,y
+114,57,div,,n
+116,114,h3,Flat Kit,y
+119,114,div,"Flat tires are a reality of riding, but they don’t have to mean the end of your ride. With the right gear and little knowledge, you’ll",n
+121,114,div,a puncture.,n
+123,114,div,"Your flat kit should contain a spare tube, a way to inflate it , a multi-tool, tire levers, and",n
+125,114,div,"patches. Check out Bontrager’s all-in-one flat kits, and be sure to check out the step-by-step instructions on how to change a flat",n
+127,114,div,tire below.,n
+130,57,div,,n
+136,130,h4,Bontrager Pro Flatpack,y
+142,130,h4,Bontrager Elite Multi-tool,y
+148,130,h4,How to change a flat tire,n
+154,57,div,,n
+156,154,h3,Water and food,y
+159,154,div,"It’s never fun to run out of energy on the road. It’s a good idea to bring a couple of gels, bars, and chews on your ride. And of",n
+161,154,div,"course, don’t forget to bring water to keep hydrated. You should expect to drink at least one full water bottle for every hour of",n
+163,154,div,"riding, and more depending on the weather, your effort, and what your body needs.",n
+166,57,div,,n
+172,166,h4,Nutrition,y
+178,166,h4,Water bottles and cages,n
+184,57,div,,n
+186,184,h3,Warmer clothes,y
+189,184,div,"Nothing turns a good ride bad like getting cold and wet. What you pack for extra clothing depends on the season and where you live, but if there’s a chance of cooler weather or rain on your ride, be sure to pack some extra gear like arm warmers, gloves, a vest, or a rain jacket. All of these items are light and packable, and you’ll be glad you have them if you need them.",n
+192,57,div,,n
+198,192,h4,Cycling jackets and vests,y
+204,192,h4,Cycling arm and leg warmers,y
+206,57,div,,n
+210,206,div,,n
+212,210,h3,"Cell phone, cash, credit card, and ID",y
+215,210,div,"Think of these items as your mini survival kit. In a worst-case scenario, this is what you’ll really need. Always carry a phone, a little",n
+217,210,div,"cash, a credit card, and your ID. The Bontrager Pro Ride Wallet is a sleek, waterproof case that fits perfectly in a jersey pocket and",n
+219,210,div,keeps these valuables dry and protected from the elements.,n
+227,206,h3,Bontrager Pro Ride Wallet,y
+229,57,div,,n
+233,229,div,,n
+235,233,h3,How to pack,n
+238,233,div,"O.K., so that seems like a lot of stuff. But if you pack it strategically, you’ll barely notice it’s there. You’ll pack this essential gear in",n
+240,233,div,two places,n
+245,229,div,,n
+247,245,h3,On your body,n
+250,245,div,Most cycling jerseys are designed with three roomy pockets in the back. This is where you want to keep the stuff you want to reach,n
+252,245,div,the saddle.,n
+261,57,div,,n
+264,261,div,,n
+266,264,h4,Left side pocket,n
+269,264,div,"Keep your cash, phone, credit card, and ID in one side pocket. The Bontrager Pro Ride Wallet fits perfectly in a jersey’s side pocket and keeps these essential items contained and protected from the elements.",n
+273,261,div,,n
+275,273,h4,Middle pocket,n
+278,273,div,"Clothing items, like a vest or jacket, can be rolled up and tucked in the middle jersey pocket.",n
+282,261,div,,n
+284,282,h4,Right side pocket,n
+287,282,div,Put your snacks in your jersey’s other side pocket so the weight is balanced across all three pockets.,n
+294,57,div,,n
+296,294,h3,On your bike,n
+299,294,div,"Pack the items you need to access less frequently, like when you start or stop your ride, right on your bike",n
+303,294,div,Flat kit,n
+306,294,div,"Packing your flat kit in a seat pack or storage bottle will keep your tools tucked out of the way while you’re riding. Seat packs are available in a wide range of sizes. They fit under your saddle and attach to your seat post and the rails of your saddle. A storage bottle fits into your second water bottle cage in place of a water bottle, and it’s the perfect size for a flat kit. Your flat kit should contain a spare tube, a multi-tool, CO2 cartridges, a CO2 inflator, tire levers, and patches. If you prefer a minipump to CO2 cartridges, you can put it in your jersey pocket or attach it to your bike’s frame.",n
+309,57,div,,n
+315,309,h4,Bontrager Elite Seat Pack,n
+321,309,h4,Bontrager Storage Bottle,n
+328,57,div,,n
+330,328,h3,Daytime running lights,n
+333,328,div,"Don’t forget your most important on-bike accessory: daytime running lights. Attach your front light to your handlebar and attach your tail light to your seat post. Position your lights so they’re pointed toward the horizon, making sure your rear light isn’t covered by your saddle bag.",n
+335,328,text,Learn more about daytime running lights,n
+337,57,div,,n
+341,337,div,,n
+343,341,h4,Émonda,n
+346,341,div,The lightweight advantage,n
+348,341,text,See Émonda,n
+352,337,div,,n
+354,352,h4,Domane,n
+357,352,div,"Go anywhere, do anything",n
+359,352,text,See Domane,n
+363,337,div,,n
+365,363,h4,Madone,n
+368,363,div,The ulitmate race bike,n
+370,363,text,See Madone,n
+372,57,div,,n
+373,372,div,,n
+375,373,div,0,n
+377,373,div,Product Compare,n
+379,372,div,add,n
+381,36,div,,n
+395,381,ul,,n
+397,395,li,,n
+400,397,h4,Shop,n
+401,397,ul,,n
+403,401,li,Road bikes,n
+405,401,li,Mountain bikes,n
+407,401,li,Hybrid bikes,n
+409,401,li,Electric bikes,n
+411,401,li,Electra bikes,n
+413,401,li,Men's bikes,n
+415,401,li,Women's bikes,n
+417,401,li,Equipment,n
+419,401,li,Apparel,n
+421,401,li,Sale,n
+423,401,li,Customize,n
+425,401,li,How to buy online,n
+427,401,li,Trek bike finder,n
+429,401,li,Find a bike shop,n
+431,401,li,Bike tours,n
+433,395,li,,n
+436,433,h4,Inside Trek,n
+437,433,ul,,n
+439,437,li,Heritage,n
+441,437,li,Technology,n
+443,437,li,Racing,n
+445,437,li,Social responsibility,n
+447,437,li,Stories,n
+449,437,li,Work at Trek,n
+451,437,li,Podcast,n
+453,395,li,,n
+456,453,h4,Support,n
+457,453,ul,,n
+459,457,li,Customer service,n
+461,457,li,Returns,n
+463,457,li,Warranty,n
+465,457,li,Bike basics and safety,n
+467,457,li,Shipping and delivery,n
+469,457,li,Home delivery,n
+471,457,li,How to shop safely,n
+473,457,li,Bike sizing and fit guides,n
+475,457,li,Manuals and user guides,n
+477,457,li,Product support,n
+479,457,li,Contact us,n
+481,457,li,Newsletter signup,n
+483,457,li,Bike archive,n
+485,457,li,Suspension calculator,n
+487,457,li,Bike registration,n
+489,395,li,,n
+492,489,h4,Legal,n
+493,489,ul,,n
+495,493,li,use,n
+497,493,li,Accessibility,n
+499,493,li,Cookie policy,n
+501,493,li,California Transparency Act,n
+503,493,li,Recalls,n
+506,381,ul,,n
+510,506,li,United States or English,n
+513,506,li,© Trek Bicycle Corporation 2022,n
+543,0,div,,n
+546,543,p,Product Compare Rack,n
+550,543,button,close,n
+580,543,div,,n
+581,580,text,delete,n
+584,580,span,Delete rack,n

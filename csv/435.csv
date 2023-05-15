@@ -1,0 +1,210 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+20,0,ytd-app,,n
+104,20,div,,n
+110,104,div,,n
+111,110,div,,n
+119,111,tp-yt-paper-tooltip,Back,n
+141,111,div,Skip navigation,n
+172,110,div,Search,n
+215,110,div,Sign in,n
+245,104,ytd-page-manager,,n
+256,245,div,,n
+263,256,div,,n
+267,263,div,,n
+279,267,div,How to Begin Scrapbooking,n
+281,267,div,,n
+282,281,button,,n
+286,282,span,Info,n
+290,282,span,Shopping,n
+300,281,div,Watch later,n
+308,281,div,Copy link,n
+313,263,div,Tap to unmute,n
+327,263,div,"If playback doesn't begin shortly, try restarting your device.",n
+377,263,div,,n
+378,377,div,,n
+380,378,div,Up next,n
+382,378,div,,n
+385,382,div,Live,n
+387,382,div,Upcoming,n
+398,377,div,Play Now,n
+411,263,div,,n
+412,411,text,Tiffany Julia,n
+423,411,div,SUBSCRIBED,n
+425,411,div,"Hi I'm Tiffany Julia. Here you will find videos on journaling, memory keeping, my travels, my music, and the occasional vlog. My personal website is at https: or or www.aerialovely.com. Be sure to follow me on IG @aerialovely where I share my all my journal pages, travel photos and other bits of my life. Thanks again for stopping by!",n
+427,263,div,,n
+432,427,div,My Favorite Scrapbooking Supplies,n
+434,427,div,13:43,n
+435,263,div,,n
+440,435,div,How to Begin Journaling,n
+442,435,div,3:57,n
+465,263,div,,n
+467,465,div,You're signed out,n
+469,465,div,"Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.",n
+474,465,div,Confirm,n
+478,263,div,Switch camera,n
+488,263,div,,n
+493,488,label,Include playlist,n
+503,488,div,An error occurred while retrieving sharing information. Please try again later.,n
+513,263,div,,n
+514,513,div,,n
+537,514,div,0:00,n
+539,514,div,6:29,n
+542,513,div,,n
+550,542,div,,n
+552,550,span,,n
+554,552,span,0:00,n
+556,552,span,or,n
+558,552,span,6:29,n
+560,550,span,•,n
+562,550,span,Watch full video,n
+564,550,button,Live,n
+577,542,div,Scroll,n
+588,256,div,,n
+595,588,ytd-engagement-panel-section-list-renderer,,n
+606,595,h2,Description,n
+678,595,div,Show more,n
+685,588,div,,n
+689,685,h2,,n
+691,689,yt-formatted-string,Comments,n
+693,689,yt-formatted-string,71,n
+714,685,div,,n
+718,714,div,Top comments,n
+724,714,div,Newest first,n
+801,588,h2,Transcript,n
+893,256,div,,n
+906,893,div,,n
+909,906,span,,n
+914,909,span,"Mar 30, 2018",n
+917,909,span,Here's a quick video on how to start scrapbooking for beginners. Make sure to check out the coordinating blog post for links to everything that I might have,n
+919,906,span,…,n
+1018,893,div,,n
+1019,1018,div,,n
+1021,1019,div,Comments,n
+1023,1019,div,71,n
+1028,1018,div,Add a comment...,n
+1062,256,div,,n
+1068,1062,div,126K views,n
+1072,1062,div,"Mar 30, 2018",n
+1247,256,div,,n
+1249,1247,div,,n
+1257,1249,div,32:50,n
+1265,1249,div,,n
+1269,1265,h3,What Goes Where on a Scrapbook Layout | Shimelle Laine,n
+1295,1265,div,53K views,n
+1322,1247,div,,n
+1330,1322,div,19:35,n
+1338,1322,div,,n
+1342,1338,h3,Beginner Scrapbooking- Basic Tools and Supplies,n
+1360,1338,div,492K views,n
+1387,1247,div,,n
+1395,1387,div,12:51,n
+1403,1387,div,,n
+1407,1403,h3,flip through my finished scrapbook - inspiration and ideas,n
+1425,1403,div,128K views,n
+1452,1247,div,,n
+1460,1452,div,17:14,n
+1468,1452,div,,n
+1472,1468,h3,Making a Journal For Beginners - Step by Step Process,n
+1490,1468,div,9M views,n
+1517,1247,div,,n
+1525,1517,div,7:40,n
+1533,1517,div,,n
+1537,1533,h3,HOW TO START A CREATIVE JOURNAL | start journaling or scrapbooking,n
+1553,1533,div,,n
+1555,1553,span,38K views,n
+1557,1553,span,5 months ago,n
+1582,1247,div,,n
+1590,1582,div,24:02,n
+1598,1582,div,,n
+1602,1598,h3,The best Amazon Journal Supplies,n
+1620,1598,div,116K views,n
+1647,1247,div,,n
+1655,1647,div,12:35,n
+1663,1647,div,,n
+1667,1663,h3,How to Scrapbook,n
+1685,1663,div,49K views,n
+1712,1247,div,,n
+1720,1712,div,5:59,n
+1728,1712,div,,n
+1732,1728,h3,Beginner Scrapbook Tutorials - Part 1 - Creating Your First Layout,n
+1756,1728,div,,n
+1758,1756,span,563K views,n
+1760,1756,span,12 years ago,n
+1785,1247,div,,n
+1793,1785,div,18:09,n
+1801,1785,div,,n
+1805,1801,h3,How I Would START OVER as a SCRAPBOOKER,n
+1823,1801,div,32K views,n
+1850,1247,div,,n
+1858,1850,div,9:27,n
+1866,1850,div,,n
+1870,1866,h3,A Big Haul Of Scrapbook Supplies !!,n
+1888,1866,div,179K views,n
+1915,1247,div,,n
+1923,1915,div,5:28,n
+1931,1915,div,,n
+1935,1931,h3,Scrapbooking,n
+1953,1931,div,9K views,n
+1980,1247,div,,n
+1988,1980,div,8:25,n
+1996,1980,div,,n
+2000,1996,h3,Painting a Sunflower Field or Acrylic Painting Techniques,n
+2024,1996,div,,n
+2026,2024,span,6M views,n
+2028,2024,span,2 months ago,n
+2053,1247,div,,n
+2061,2053,div,10:05,n
+2069,2053,div,,n
+2073,2069,h3,Layout Share 2022 - Part 1,n
+2089,2069,div,,n
+2091,2089,span,3K views,n
+2093,2089,span,4 months ago,n
+2118,1247,div,,n
+2126,2118,div,9:31,n
+2134,2118,div,,n
+2138,2134,h3,DIY How to Scrapbook | *aesthetic ideas* tips + inspiration,n
+2164,2134,div,579K views,n
+2191,1247,div,,n
+2199,2191,div,13:16,n
+2207,2191,div,,n
+2211,2207,h3,Layering Techniques on 12x12 Layouts with Shimelle,n
+2237,2207,div,79K views,n
+2264,1247,div,,n
+2272,2264,div,50:41,n
+2280,2264,div,,n
+2284,2280,h3,Making Base Pages,n
+2302,2280,div,99K views,n
+2329,1247,div,,n
+2337,2329,div,9:08,n
+2345,2329,div,,n
+2349,2345,h3,How to make ... Word Embellishments,n
+2365,2345,div,,n
+2367,2365,span,67K views,n
+2369,2365,span,4 years ago,n
+2394,1247,div,,n
+2402,2394,div,23:15,n
+2410,2394,div,,n
+2414,2410,h3,asmr journaling scrapbooking #139,n
+2430,2410,div,,n
+2432,2430,span,84K views,n
+2434,2430,span,3 months ago,n
+2459,1247,div,,n
+2467,2459,div,1:34:54,n
+2475,2459,div,,n
+2479,2475,h3,TUTORIAL,n
+2497,2475,div,21K views,n
+2524,1247,div,,n
+2532,2524,div,46:03,n
+2540,2524,div,,n
+2544,2540,h3,Fun and Clever Ideas,n
+2562,2540,div,81K views,n
+2616,1247,div,Show more,n
+2734,245,div,,n
+2738,2734,div,Experiencing interruptions?,n
+2743,2734,yt-button-renderer,Find out why,n
+2759,20,div,,n
+2760,2759,div,,n
+2762,2760,yt-formatted-string,YouTube,n
+2764,2760,yt-formatted-string,"Sign in to like videos, comment, and subscribe.",n
+2770,2759,div,Got it,n

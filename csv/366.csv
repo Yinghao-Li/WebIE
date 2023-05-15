@@ -1,0 +1,180 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+22,0,div,,n
+29,22,h1,,n
+30,29,text,All CeraVe,n
+33,29,span,Products,n
+37,22,div,,n
+40,37,h2,CeraVe Skincare Products,n
+41,37,p,,n
+42,41,text,the outermost layer of your skin is comprised of ceramides.,n
+44,41,sup,1,n
+45,41,text,"That’s why all of our CeraVe skincare products were developed with dermatologists and are formulated with three essential ceramides to help restore and maintain your skin barrier, thereby helping to lock in moisture and protect against irritants. We also have formulas that contain beneficial skincare ingredients like moisture-retaining hyaluronic acid , calming niacinamide , and peptides to improve the look of tired skin. Beneficial to every skin type, from dry, oily, acne-prone , and combination skin to specific skin concerns such as rough and bumpy skin , eczema , and psoriasis , we have a product right for you that will elevate your skin routine . Explore CeraVe’s expansive range of face and body skincare developed for all skin types, as well as specific skin problems and concerns.",n
+65,22,div,,n
+68,65,h2,Explore Products by Category,n
+69,65,ul,,n
+73,69,li,Facial Cleansers,y
+77,69,li,Facial Moisturizers,y
+81,69,li,Body Cleansers,y
+85,69,li,Body Moisturizers,y
+89,69,li,facial serums,y
+93,69,li,Sunscreens,y
+97,69,li,For Baby,y
+101,69,li,Ointments,y
+103,22,div,,n
+105,103,div,,n
+107,105,div,,n
+110,107,div,Sort,n
+111,107,select,,n
+113,111,option,Relevance,n
+115,111,option,Customer Rating,n
+117,111,option,Best Selling,n
+119,111,option,New,n
+121,105,button,Filter By,n
+124,103,div,,n
+125,124,div,,n
+128,125,div,,n
+131,128,p,Product Key Ingredients,n
+136,128,div,,n
+140,136,label,Benzoyl Peroxide,n
+144,136,label,Ceramides,n
+148,136,label,Dimethicone,n
+152,136,label,Hyaluronic Acid,n
+156,136,label,Lactic Acid,n
+160,136,label,Niacinamide,n
+164,136,label,Petrolatum,n
+168,136,label,Pramoxine Hydrochloride,n
+172,136,label,Retinol,n
+176,136,label,Salicylic Acid,n
+180,136,label,Titanium Dioxide,n
+184,136,label,Urea,n
+188,136,label,Vitamin C,n
+192,136,label,Zinc Oxide,n
+195,125,div,,n
+198,195,p,Skincare Category,n
+203,195,div,,n
+207,203,label,Baby,n
+211,203,label,Body cleansers,n
+215,203,label,Body moisturizers,n
+219,203,label,Cream Facial Cleansers,n
+223,203,label,Face moisturizers,n
+227,203,label,Facial cleaners,n
+231,203,label,Facial serums,n
+235,203,label,Foaming Facial Cleansers,n
+239,203,label,Gel Facial Cleansers,n
+243,203,label,Ointment,n
+246,124,span,Close,n
+250,103,div,58 Products,n
+251,22,div,,n
+254,251,span,Skip this section,n
+257,251,div,,n
+258,257,ul,,n
+265,258,li,,n
+268,265,h3,Acne Control Cleanser,y
+270,265,p,Gel-to-foam salicylic acid acne face wash,n
+275,265,div,,n
+281,275,div,4,n
+284,275,div,5 stars. 13 reviews,n
+298,258,li,,n
+301,298,h3,Acne Control Gel,y
+303,298,p,Hydrating full-face acne treatment gel,n
+308,298,div,,n
+314,308,div,5,n
+317,308,div,5 stars. 2 reviews,n
+331,258,li,,n
+334,331,h3,Hydrating Toner,y
+336,331,p,Gentle pH Balanced Toner that Hydrates,n
+341,331,div,,n
+347,341,div,0,n
+350,341,div,5 stars. 8 reviews,n
+364,258,li,,n
+367,364,h3,Comforting Eye Makeup Remover,y
+369,364,p,Gentle eye makeup remover that comforts skin,n
+382,258,li,,n
+385,382,h3,Hydrating Makeup Removing Plant-Based Wipes,y
+387,382,p,Makeup removing compostable wipes,n
+401,258,li,,n
+404,401,h3,Moisturizing Cream,y
+406,401,p,Barrier-restoring moisturizing cream,n
+421,258,li,,n
+424,421,h3,Daily Moisturizing Lotion,y
+426,421,p,Oil-free moisturizer with hyaluronic acid,n
+431,421,div,,n
+437,431,div,7,n
+440,431,div,5 stars. 6609 reviews,n
+454,258,li,,n
+457,454,h3,Hydrating Facial Cleanser,y
+459,454,p,Hydrating cleanser,n
+464,454,div,,n
+470,464,div,6,n
+473,464,div,5 stars. 7049 reviews,n
+487,258,li,,n
+490,487,h3,AM Facial Moisturizing Lotion with Sunscreen,y
+492,487,p,Non-comedogenic moisturizer with SPF,n
+497,487,div,,n
+503,497,div,3,n
+506,497,div,5 stars. 3778 reviews,n
+520,258,li,,n
+523,520,h3,Foaming Facial Cleanser,y
+525,520,p,Foaming gel cleanser,n
+540,258,li,,n
+543,540,h3,Hydrating Cream-to-Foam Cleanser,y
+545,540,p,Creamy foaming face wash,n
+560,258,li,,n
+563,560,h3,PM Facial Moisturizing Lotion,y
+565,560,p,Lightweight night cream with niacinamide,n
+577,257,div,View 12 More>,n
+579,22,div,,n
+582,579,h2,Frequently Asked Questions,n
+583,579,ul,,n
+585,583,li,,n
+588,585,h2,What Skincare Products Should I Use?,n
+595,585,p,"Whether your skin routine is as simple as three steps or more complex, there are a few skincare staples you should use. First off, you should always cleanse your face twice a day, or after sweating. You may choose to use a serum if you want to target specific concerns or indulge in some self-care. Lastly, it’s important to moisturize and use sunscreen every day year-round.",n
+597,583,li,,n
+600,597,h2,How To Layer Skincare?,n
+607,597,p,"The general rule of thumb to layering skincare products is to go from the thinnest consistency to the thickest. That way, your formulas will absorb more efficiently. However, keep in mind that you should always apply sunscreen last to get the best sun protection , even if it is thinner than your moisturizer.",n
+611,583,li,,n
+614,611,h2,How To Build a SkinCare Routine,n
+621,611,p,"The most important part of creating a skin routine is finding the right products for your skin type and concerns. You’re sure to find the best ones for your needs among CeraVe’s skincare line. You can also head over to our Skin Smarts to get tips, advice , identify your skin type , and learn specific routines for different skin types.",n
+632,22,div,,n
+633,632,div,,n
+634,633,text,Find Out Which,n
+637,633,span,Cerave Products,n
+639,633,br,are Right,n
+640,632,text,Get Started,n
+642,22,div,,n
+645,642,h2,References,n
+648,642,li,,n
+651,648,h3,Sources,n
+658,648,p,"1. Kendall AC, Kiezel-Tsugunova M, Brownbridge LC, Harwood JL, Nicolaou A. Lipid functions in skin: Differential effects of n-3 polyunsaturated fatty acids on cutaneous ceramides, in a human skin organ culture model . Biochim Biophys Acta Biomembr. 2017;1859:1679-1689. doi:10.1016 or j.bbamem.2017.03.016",n
+663,0,div,,n
+666,663,ul,,n
+668,666,li,Our Products,n
+670,666,li,CeraVe Ingredients,n
+672,666,li,Skin Smarts,n
+674,666,li,Why CeraVe,n
+676,666,li,Skincare Solution Finder,n
+678,666,li,Where To Buy,n
+681,663,ul,,n
+683,681,li,Contact Us,n
+685,681,li,Accessibility Statement,n
+687,681,li,Countries And Regions,n
+689,681,li,Find A Dermatologist,n
+691,681,li,User Content Permission Terms,n
+693,681,li,FAQs,n
+695,681,li,Privacy Policy,n
+697,681,li,Coupons,n
+699,681,li,Skincare.com,n
+701,681,li,Healthcare Professionals,n
+703,681,li,Terms And Conditions,n
+705,681,li,Samples,n
+707,681,li,My cookie settings,n
+709,681,li,Sitemap,n
+712,663,div,,n
+713,712,div,,n
+714,713,text,"This site is intended for US consumers. Cookies and related technology are used for advertising. To learn more or opt-out, visit AdChoices and our Privacy Policy.",n
+719,713,br,"CeraVe does not treat underlying skin conditions. MVE is a registered trademark of DFB Technology, Ltd. Patent No. 6,709,663. © 2022 CeraVe",n
+720,712,ul,,n
+723,720,li,facebook,n
+726,720,li,twitter,n
+729,720,li,instagram,n

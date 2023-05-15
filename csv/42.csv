@@ -1,0 +1,162 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+9,5,div,,n
+10,9,section,,n
+12,10,nav,,n
+14,12,li,Expert Advice,n
+18,12,li,Fitness,n
+22,12,li,Yoga,n
+24,10,div,,n
+25,24,div,,n
+32,25,span,,n
+34,32,span,138,n
+36,32,span,Reviews,n
+38,25,span,4.6 out of 5 stars,n
+39,24,ul,,n
+43,39,li,Print,n
+46,39,li,Facebook,n
+49,39,li,Twitter,n
+52,39,li,Pinterest,n
+58,9,div,,n
+59,58,nav,,n
+61,59,h2,Shop products from this article on REI.com,n
+62,59,ul,,n
+67,62,li,Moisture Wicking Men's Shorts,n
+72,62,li,Moisture Wicking Shorts,n
+77,62,li,Yoga Towels,n
+82,62,li,Canoeing,n
+87,62,li,Men's Shorts,n
+91,58,div,,n
+93,91,h2,Rate this article,n
+96,91,p,,n
+97,96,text,How helpful was this article?,n
+99,96,span,Click a star to rate.,n
+113,91,button,Submit Rating,n
+115,58,div,,n
+118,115,h2,Contributing Experts,n
+119,115,div,,n
+121,119,div,,n
+123,121,h3,Nani Vishwanath,n
+125,121,p,"A Diversity, Equity and Inclusion Program Manager at REI, Nani believes in breaking down the systemic inequities in the outdoors. She is proud of her Indian heritage and has spent several years learning about the origin and practice of yoga.",n
+127,119,div,,n
+129,127,h3,Megan Gurrentz,n
+131,127,p,"REI Outdoor School Instructor Megan Gurrentz has a 200-hour teaching certificate and a loyal Bay Area following. She first got intrigued after moving near a yoga studio. After 11 years of practice, she’s more passionate than ever.",n
+135,58,div,Back to top,n
+136,5,footer,,n
+138,136,div,,n
+140,138,p,How are we doing?,n
+141,138,p,,n
+143,141,button,Give us feedback,n
+144,141,text,on this page.,n
+146,136,div,,n
+152,146,h2,Sign up,n
+156,146,p,"Co-op offers, events and cool new gear",n
+157,146,form,,n
+159,157,div,,n
+161,159,label,Email,n
+165,159,span,,n
+167,165,span,Error,n
+168,165,text,Is your email address correct?,n
+171,157,div,Sign me up!,n
+175,146,div,REI Privacy Policy,n
+178,146,div,,n
+182,178,h2,Thank you!,n
+185,178,div,,n
+187,185,strong,Check your inbox,n
+188,185,text,for your first email from REI. We'll send you a few emails every week. You can easily unsubscribe at any time.,n
+189,146,div,,n
+193,189,h2,System Maintenance,n
+197,189,p,The newletter sign-up system is currently down,n
+198,136,div,,n
+200,198,div,,n
+201,200,div,,n
+203,201,h2,Who we are,n
+204,201,p,,n
+206,204,span,"At REI, we believe that a life outdoors is a life well lived. We've been sharing our passion for the outdoors since 1938.",n
+207,204,text,Read our story,n
+208,200,div,,n
+210,208,h2,Become a co-op member,n
+211,208,p,,n
+213,211,span,"Anyone can join, and everyone belongs. Benefits include great gear offers, special pricing on events, and an annual Co-op Member Reward—for life. Join once, enjoy forever.",n
+214,211,text,Join us,n
+215,200,div,,n
+217,215,h2,Take a stand,n
+218,215,p,,n
+220,218,span,"Outdoor equity, climate action, places we love. Raise your voice in the movement to protect and share life outdoors.",n
+221,218,text,REI Cooperative Action Network,n
+222,200,div,,n
+223,222,h2,,n
+224,223,text,REI Co-op Mastercard,n
+226,223,sup,®,n
+229,222,ul,,n
+233,229,li,Check back in August,n
+236,229,li,,n
+238,236,span,Have the card already?,n
+239,236,text,Manage your account here.,n
+240,198,div,,n
+242,240,div,,n
+243,242,ul,,n
+245,243,li,Returns and Exchanges,n
+247,243,li,Your Online Account,n
+249,243,li,Purchase Status,n
+251,243,li,Shipping Info,n
+253,243,li,Membership,n
+255,243,li,Find Member Number,n
+257,243,li,Total REI Rewards Lookup,n
+258,242,ul,,n
+260,258,li,Expert Advice,n
+262,258,li,"Classes, Tours and Events",n
+264,258,li,Store Events,n
+266,258,li,REI Adventures Trips,n
+268,258,li,Uncommon Path,n
+270,258,li,Conversations,n
+272,258,li,REI Cooperative Action Fund,n
+274,258,li,Path Ahead Ventures,n
+276,240,div,,n
+277,276,ul,,n
+279,277,li,Virtual Outfitting,n
+281,277,li,Gift Cards,n
+283,277,li,Gift Registry,n
+285,277,li,Wish Lists,n
+287,277,li,Gear Collections,n
+289,277,li,"Coupons, Rebates and Discounts",n
+291,277,li,Free Shipping Details,n
+292,276,ul,,n
+294,292,li,About REI,n
+296,292,li,Stewardship,n
+298,292,li,Jobs,n
+300,292,li,Newsroom,n
+302,292,li,Technology Blog,n
+304,292,li,Sell at REI,n
+306,292,li,Affiliate Program,n
+308,292,li,Corporate and Group Sales,n
+310,292,li,Store Locator,n
+312,292,li,Live Chat,n
+314,292,li,Help Center,n
+315,198,div,,n
+318,315,div,,n
+320,318,p,Help Center,n
+322,318,p,Find answers online anytime.,n
+327,315,p,Live Chat,n
+335,315,p,,n
+337,335,span,Call us at,n
+338,335,text,-,n
+343,198,div,,n
+345,343,div,,n
+351,345,li,Get REI apps,n
+353,345,div,,n
+356,353,span,twitter,n
+359,353,span,facebook,n
+362,353,span,pinterest,n
+365,353,span,youtube,n
+368,353,span,instagram,n
+370,343,div,,n
+372,370,p,"© 2022 Recreational Equipment, Inc. All rights reserved. REI and the REI Co-op logo are trademarks of Recreational Equipment, Inc.",n
+374,370,ul,,n
+376,374,li,Use,n
+378,374,li,Privacy Policy,n
+380,374,li,Interest Based Ads,n
+382,374,li,Product Recalls,n
+384,374,li,CA Transparency Act,n
+386,374,li,REI Accessibility Statement,n

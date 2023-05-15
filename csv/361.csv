@@ -1,0 +1,128 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+8,0,div,,n
+9,8,div,,n
+14,9,h4,Yoga and Pilates,n
+21,9,div,,n
+23,21,p,"We all have muscle aches and pains. Joints that crack on a regular basis and the odd little niggle here and there. But when it comes to doing exercise, we’re often much more focused on getting in a run or building muscle to take the time to address some of the underlying issues.",n
+25,21,div,,n
+28,25,div,Products Used In This Article,n
+31,25,div,,n
+47,31,li,,n
+49,47,strong,Mirafit Double Handle Pilates Ring,n
+51,47,div,,n
+59,51,div,96%,n
+61,51,div,9,n
+64,47,div,,n
+71,64,span,£6.95,n
+73,64,span,,n
+75,73,span,Regular Price,n
+78,73,span,£11.95,n
+95,31,li,,n
+97,95,strong,Mirafit 15mm Thick Exercise Floor Mat,n
+99,95,div,,n
+107,99,div,97%,n
+109,99,div,25,n
+119,95,div,£18.95,n
+136,31,li,,n
+138,136,strong,Mirafit Pilates Ball,n
+140,136,div,,n
+148,140,div,60%,n
+150,140,div,2,n
+160,136,div,£5.95,n
+167,21,p,"Pilates was created in the 1920s by physical trainer Joseph Pilates. Originally designed to treat specific groups at the time such as soldiers returning from war, as well as dancers and athletes, Pilates focuses on healing, rehabilitation and strengthening of the body.",n
+169,21,p,"Many people go to Pilates because they have lower back issues or joint problems, but Pilates works the whole body as well as these areas, to aid overall strength and balance, improve core strength and ease pain.",n
+171,21,h2,WHAT ARE THE BENEFITS OF PILATES?,n
+173,21,p,There was a time when people considered Pilates as something for those who had already suffered an injury. But it is actually a great resource for improving overall strength and preventing problems too.,n
+175,21,p,the benefits of Pilates include,n
+177,21,p,"• As well as focusing on the core and back, Pilates works on stretching, strengthening and loosening muscles that are particularly tight as well as joint mobility.",n
+179,21,p,"• By stretching out muscles, you can elevate points of tension and improve your muscular balance and posture. It also helps reduce the risk of injury as muscles are suppler and have more give in them as you move.",n
+181,21,p,"• Joint mobility is not only important in later life but something we could all do with a bit of improvement on. Without getting a full range of movement, joints become stiff and sore and we can start to develop problems. Imbalance in the body and poor posture means we’re restricted in our movements too. Pilates targets this and helps to prevent issues from developing as well as improve joints that feel tight or weak.",n
+183,21,p,injury.,n
+185,21,p,"So Pilates is not just for those recovering from an injury – it is all about giving your body what it needs to stay healthy, strong and balanced.",n
+187,21,h2,WHICH PILATES CLASS IS RIGHT FOR ME?,n
+189,21,p,"Since its inception, Pilates has grown into several different strands and you’ll find a few different types of classes on offer.",n
+191,21,p,Pilates classes include,n
+192,21,p,,n
+195,192,strong,Mat Pilates,n
+196,192,text,"– traditional Pilates, performed on a mat, which requires either little or no equipment.",n
+197,21,p,,n
+200,197,strong,Contemporary Pilates,n
+201,197,text,"– this is the most comprehensive style of Pilates and involves working the full body with a range of equipment. This is usually the type of Pilates class held at gyms. Expect blocks, swiss balls, mats, small inflatable balls and Pilates rings.",n
+202,21,p,,n
+205,202,strong,Reformer Pilates,n
+206,202,text,"– this is a more specialist type of Pilates and involves using a piece of equipment called a Reformer. Reformers are extremely beneficial and are designed to aid all aspects of Pilates including stretching, strengthening, flexibility and balance through a series of push or pull movements. You may also find your class has other types of large equipment, such as the Cadillac or Ladder Barrel.",n
+207,21,p,,n
+210,207,strong,Clinical Pilates,n
+211,207,text,"– this type of Pilates is targeted at people who are recovering from an injury, so it might be specifically designed to work and rehabilitate a particular area.",n
+212,21,p,,n
+215,212,strong,Classical Pilates,n
+216,212,text,– classical Pilates stays true to the original methods and movements taught by Joseph Pilates however is taught using a fully-equipped studio.,n
+218,21,p,"Pilates should be taught by experienced, qualified instructors.",n
+220,21,h2,WHO DOES PILATES?,n
+222,21,p,"As well as the different types of Pilates, there are different levels of classes, so you can choose one to suit you and your abilities. Strength and overall fitness are the most likely factors deciding which level to go in at. The class should always be challenging but not so much that you put yourself at risk of injury or straining your muscles.",n
+224,21,p,"As mentioned earlier, Pilates can benefit almost anyone and everyone, and many find it a relaxing and beneficial addition to their usual fitness routine.",n
+226,21,p,"In particular, runners and dancers often benefit from Pilates. This is because runners can get a lot of problems with their Iliotibial Bands or IT Bands which run down the side of your legs. Short, tight muscles can become sore and imbalanced with overuse, making knees and hips prone to injury.",n
+228,21,p,"Dancers too are regularly twisting and doing sharp movements which can take its toll on the body. Regular maintenance work, stretching and strengthening can help keep muscles supple and joints loose.",n
+230,21,h2,WHERE CAN YOU DO PILATES?,n
+232,21,p,"You can do Pilates either in a class or at home using a DVD. Classes are often only once a week however and to really get results, it’s best to practise at home to maintain strength and flexibility.",n
+234,21,p,"DVDs are helpful for showing you the poses, but without an expert guiding you, there is a risk that you will not find the correct posture. This can cause you to overstretch – or to not engage your core correctly. We always recommend that you attend classes, at least while you learn the basics.",n
+236,21,h2,WHAT DO I NEED TO DO PILATES?,n
+238,21,p,"Even if you’re relatively fit, you should start with a beginners’ Pilates class just so you can become more familiar with the movements. You’ll also get used to engaging your core and feeling what it’s like to tense your muscles as you use your own bodyweight to balance, raise, move and recline.",n
+239,21,p,,n
+240,239,text,"To aid you in your Pilates workout, there are a few",n
+242,239,span,equipment,n
+243,239,text,that will really help you progress,n
+245,21,h3,Pilates Balls,y
+246,21,p,,n
+247,246,text,"Smaller than gym balls,",n
+249,246,span,Mirafit Pilates Balls,y
+250,246,text,"can be used to enhance your workout by providing support, resistance and focus. Use under both hands to roll out and work your core, or place one in the small of your back while on all fours to balance and stretch. You can also use them to rest your feet as you perform exercises such as hip raises to intensify your glute and hamstring strengthening.",n
+252,21,h2,Two Handled Pilates Ring,y
+253,21,p,,n
+254,253,text,This is a flexible yet firm,n
+256,253,span,Pilates Ring,y
+257,253,text,"with two handles either side. Made for all abilities, squeeze the ring for extra resistance training. The ring helps you to ensure all your muscles are engaged while holding positions and also gives you a focal point. Ergonomically designed, the smooth, curved handles fit comfortably along your palms and the inside of your knees.",n
+259,21,h2,Exercise Mat,y
+260,21,p,,n
+261,260,text,Pilates can involve a lot of floor work and it’s important that your joints are protected as you train. Make sure your spine and knees are cushioned as you work with a padded exercise mat. The,n
+263,260,span,Mirafit Folding Exercise Mat,y
+264,260,text,"can be easily carried to and from class, helping to define your workout space and giving you a wipe-clean, durable surface to train on.",n
+265,21,p,,n
+266,265,text,"All of our Mirafit products are fantastic value for money and great quality. And whether you’re thinking about taking up Pilates yourself, or you want to start it with a bunch of friends, we have",n
+268,265,span,Pilates Rings,y
+269,265,text,that will give you just what you need to get stronger as well as more balanced and controlled.,n
+270,21,p,,n
+271,270,text,"For more content, follow us on Instagram",n
+273,270,span,@Mirafit Official,n
+274,270,text,and on our official,n
+276,270,span,Mirafit Facebook,n
+277,270,text,page.,n
+283,21,p,Enter your email to signup to our newsletter,n
+286,21,div,,n
+289,286,div,Newsletter,n
+291,286,div,,n
+296,291,div,Sign Up,n
+301,291,div,Sign Up,n
+304,21,p,,n
+306,304,strong,Tags,n
+308,304,span,Equipment > Pilates,n
+311,304,span,Exercise Type > Conditioning,n
+314,304,span,Exercise Type > Yoga and Pilates,n
+317,9,h2,Related Blogs,n
+319,9,div,,n
+321,319,li,,n
+323,321,h4,10 Health Benefits Of Yoga,n
+328,321,p,"Could Yoga be your new love? With so many benefits to be had, it wouldn’t surprise us! Find out if it's the one for you.",n
+332,319,li,,n
+334,332,h4,Stretching Routine,n
+339,332,p,"Struggling to improve your flexibility? Use this stretching routine to loosen up, lengthen your limbs and reach your goals.",n
+343,319,li,,n
+345,343,h4,Beginner’s Guide To Yoga,n
+350,343,p,New to Yoga? We've got you covered. Find out more about our kits and why Yoga is still so popular today.,n
+472,8,ul,,n
+484,472,li,All the Row Variations You Need,n
+486,472,li,Why You Should Use a Hip Thrust Bench,n
+488,472,li,Summer Workouts - Kettlebell,n
+490,472,li,The Best Axle Bar Exercises,n
+492,472,li,T-Bar Row - Rowing to a V,n

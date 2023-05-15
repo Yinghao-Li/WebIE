@@ -1,0 +1,324 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+57,0,div,Search,n
+60,0,div,,n
+68,60,div,Runner's Blueprint,n
+129,60,div,,n
+130,129,article,,n
+132,130,div,,n
+136,132,p,Looking,n
+138,132,p,Then you have come to the right place.,n
+140,132,p,Here’ s the truth.,n
+150,132,div,,n
+165,150,div,Sports and Fitness,n
+181,150,div,,n
+183,181,span,15 seconds,n
+185,181,span,Volume 0%,n
+186,150,div,,n
+189,186,span,keyboard shortcuts,n
+190,186,div,,n
+191,190,div,,n
+193,191,span,Keyboard Shortcuts,n
+194,191,button,,n
+197,194,span,Enabled,n
+199,194,span,Disabled,n
+201,190,div,,n
+202,201,div,,n
+204,202,span,Play or Pause,n
+206,202,span,SPACE,n
+207,201,div,,n
+209,207,span,Increase Volume,n
+211,207,span,↑,n
+212,201,div,,n
+214,212,span,Decrease Volume,n
+216,212,span,↓,n
+217,201,div,,n
+219,217,span,Seek Forward,n
+221,217,span,→,n
+222,201,div,,n
+224,222,span,Seek Backward,n
+226,222,span,←,n
+227,201,div,,n
+229,227,span,Captions On or Off,n
+231,227,span,c,n
+232,201,div,,n
+234,232,span,Fullscreen or Exit Fullscreen,n
+236,232,span,f,n
+237,201,div,,n
+239,237,span,Mute or Unmute,n
+241,237,span,m,n
+244,201,div,Seek %,n
+285,150,div,,n
+314,285,span,This ad will end in 14,n
+316,285,div,Live,n
+318,285,div,00:01,n
+320,285,div,00:13,n
+322,285,div,00:15,n
+338,132,p,Your running equipment has an enormous impact on your training performance and running motivation.,n
+341,132,p,"In fact, having the right gear is crucial—whether you’re a complete beginner or a veteran athlete.",n
+346,132,p,"success, and might even make your runs more enjoyable.",n
+350,132,p,"In today’s post, I’m sharing with you a list of the must-have running items for all runners, new and old.",n
+352,132,p,This post will be particularly useful for those of you who don’t have the first clue as to what running gear you might—or not might not—need.,n
+354,132,p,"So, are you excited?",n
+356,132,p,Then here we go.,n
+360,132,h2,What is Running Gear?,n
+362,132,p,Running gear is the general term used to refer to the list of items you can wear on your person during a workout.,n
+364,132,p,And it’s a big business.,n
+366,132,p,"From running shoes, technical clothing, performance socks, hydration belt, to sports bras, compression garments, heart monitors, and GPS watches, this niche is one of the most profitable sectors in the global fashion and sports equipment market.",n
+373,132,h3,"So, What Do You Really Need?",n
+375,132,p,"The answer depends on your personal preferences, training level, training goals, where you live, budget, and how much you love high-tech, stylish fitness gadgets.",n
+377,132,p,Everyone is different and might be in the market,n
+379,132,p,No suit fits all.,n
+380,132,p,,n
+381,380,text,"But, all in all,",n
+383,380,span,"a basic running kit includes proper running shoes, T-shirt, shorts, socks, and a sports bra for female runners.",n
+386,132,p,"If you already have these in your wardrobe, then you got 90 percent of the must-have gear.",n
+389,132,p,But how do you choose the right clothing and fabrics for running? That’s where the rest of this article comes in handy.,n
+394,132,h3,Running Shoes,y
+396,132,p,protective gear you need as a runner.,n
+401,132,p,"Thus, you should spend time and money looking",n
+403,132,p,"If you want to stay a healthy and pain-free runner, then you need a pair of well-cushioned running shoes that feel comfortable and match your unique foot biomechanics and gait.",n
+405,132,p,"I hate to break it to you, but running in old or ill-fitting sneakers is not the wise thing to do.",n
+407,132,p,the leading causes of pain and injury.,n
+409,132,p,"So, if you have a used pair gathering dust at the back of your closet, get rid of them, head to the closest specialty running store, and buy a new pair.",n
+411,132,p,"I personally like Brooke and Nike running shoes, but feel free to try out other brands and styles.",n
+413,132,p,"I’m not affiliated with any shoe brand, and I cannot recommend a perfect pair.",n
+418,132,p,You decide.,n
+423,132,h4,The Main Things,n
+425,132,p,"So, how do you pick the right trainers?",n
+427,132,p,"As a rule of thumb, fit, comfort, and flexibility should be the ultimate measuring criteria whenever you’re looking for a new pair.",n
+429,132,p,Here are the golden tips,n
+430,132,ul,,n
+432,430,li,Go shopping,n
+434,430,li,"Get your shoes from a running specialty store. The pro staff will match you with the most suitable pair by assessing your foot type , running biomechanics, training needs, and personal preferences.",n
+438,430,li,Leave enough wiggle room between your big toe and the end of the shoe—at least a thumbnail’s space.,n
+440,430,li,"Don’t under nor over pay. A cheap pair will not provide with enough support and won’t last you that long, whereas a super expensive pair is uncalled for—especially if you’re just a recreational runner.",n
+444,132,h4,Buy Quality,n
+447,132,p,"Sure, the most expensive pair in the store is not inherently the best, but, at least, don’t skimp.",n
+453,132,p,"You can always go for a low-priced pair, but often than not, these are made with rock-bottom, non-durable materials, which provide little to no protection.",n
+456,132,p,"However, a mid-range shoe—80 to $120—usually has excellent cushioning and stability properties.",n
+459,132,p,If you still want to save off a few bucks then go for last year’s version of a mid or top-range shoe.,n
+462,132,p,"The differences won’t be that significant, but you’ll, at least, get a top-shelf pair for a fraction of the price.",n
+464,132,p,Expect to pay,n
+469,132,h3,Running Clothing,y
+471,132,p,"Although they’re the most critical, shoes are not the only thing that makes your running comfortable and more enjoyable.",n
+473,132,p,Clothing also matters.,n
+476,132,h4,Get the Right Fabrics,n
+478,132,p,"Let me start with the golden rule of workout attire—never, under any circumstance, wear cotton while running.",n
+483,132,p,This material doesn’t properly regulate body temperature.,n
+485,132,p,You’ll feel super cold in the winter and overeat in the hot season.,n
+487,132,p,What’s more?,n
+489,132,p,"Once cotton gets wet, it stays wet, turning into a scratchy material that can lead to blisters and discomfort .",n
+493,132,p,"high performance, technical, material.",n
+495,132,p,"These fabrics pull sweat away from your body in the same way a candle absorbs liquid; then transfer it to the outer surface, where it evaporates.",n
+499,132,p,It also dries faster than cotton.,n
+501,132,p,High-performance clothing can help you regulate your body temperature—even in adverse weather conditions.,n
+506,132,p,This is accomplished by retaining heat during the cold season and dispelling it during the summer.,n
+508,132,p,Best options,n
+511,132,h4,The Running Clothing Items You Need,n
+513,132,p,Here’s what to look,n
+517,132,h3,Shirt,y
+519,132,p,Shirt choice depends on the weather.,n
+521,132,p,That’s why you will need shirts for different seasons and temperatures in a wide range of weights and fabrics.,n
+525,132,p,"These might include sleeveless shirt, light shirts, heavy turtlenecks, etc.",n
+528,132,h4,Go,n
+530,132,p,"thumb, steer clear of cotton shirts.",n
+535,132,p,"Technical materials feel comfortable, light and cool against the skin, unlike cotton which, once it gets wet, it stays wet, turning into cumbersome and scratchy material that can cause chafed underarms and bleeding nipples .",n
+539,132,p,"Furthermore, technical fabrics can regulate your body temperature by dissipating heat during hot weather training and retaining it when the temperature drops.",n
+541,132,p,"A good running T-shirt is typically made from nylon, or brand names like Dri-Fit, Climalite or Coolmax.",n
+543,132,p,"It should feel cool, light and comfortable against the skin.",n
+546,132,p,"To regulate body temperature, get a shirt with a mesh panel covering high heat areas such as the back, underarms, and sides.",n
+549,132,p,"Whatever you end up sporting, make sure it fits nicely and loosely, so it doesn’t bother you while running.",n
+554,132,p,Expect to pay $20 to $50.,n
+558,132,h3,Leg Attire,y
+561,132,p,You’ll need leg attire that moves as you move while protecting you from the elements.,n
+564,132,p,Running shorts and running tights are the best options.,n
+567,132,p,These can be used both during road and off-road training.,n
+569,132,p,"When it comes to leg attire, the two choices I recommend are shorts and running tights.",n
+571,132,p,"In my experience, the best shorts are those made of breathable, lightweight fabrics, with a light mesh interior underwear lining.",n
+573,132,p,"Also, consider getting shorts with a key pocket or extra pockets for carrying gels, keys, ID, or phone.",n
+575,132,p,"Proper tights are made from high-performance stretchy fabrics, like Nylon or Supplex.",n
+578,132,p,outdoor temperatures.,n
+580,132,p,Tights also work well for the overweight beginner as they often protect against chafing and painful irritation in the inner thighs.,n
+584,132,p,"But, all in all, your leg attire should be made of a lightweight construction that protects you from debris and undergrowth and does not hinder your movement.",n
+586,132,p,Expect to pay $20 to $60.,n
+590,132,h3,The Shorts,y
+592,132,p,your running gear.,n
+594,132,p,"As a rule of thumb, your running shorts should provide you with enough support, comfort, and practicality.",n
+597,132,p,Make sure your shorts have a non-restrictive feel.,n
+599,132,p,They should provide you with a maximum range of motion for you to run at your best and unleash your full potential .,n
+603,132,p,"Also, consider getting shorts with an inner brief to provide with excellent internal support that acts as underwear, and a zip pocket or additional pockets for carrying your phone, keys, and or or gels during long training sessions and races.",n
+605,132,p,Expect to pay $20 to $50,n
+609,132,h3,The Tights,y
+611,132,p,"Running tights come in a variety of different lengths, from knickers to 2 or 4-length to full-length.",n
+613,132,p,"So, choose whatever works the best",n
+615,132,p,Proper tights can help cut the risks of chafing in the inner thighs and are ideal to wear on colder days.,n
+618,132,p,Tights work well for the overweight beginner as they often protect against chafing and painful irritation in the inner thighs.,n
+620,132,p,Longer shorts are also an option here.,n
+622,132,p,"Proper tights are typically made from synthetic stretchy fabrics, such as Supplex or Polyester to provide with a flexible and stretchy fit.",n
+624,132,p,Expect to pay $20 to $70,n
+628,132,h3,Your Underwear,y
+630,132,p,"Last but not least, you’ll also want to wear underwear with leg attire.",n
+632,132,p,"A proper pair of running underwear should provide you with a good layer of support and insulation, particularly during winter.",n
+634,132,p,Go,n
+636,132,p,"As long it’s comfortable, you’re good to go.",n
+639,132,p,Expect to pay,n
+643,132,h3,Sports Bras,y
+645,132,p,"Listen up, ladies, a proper, high-impact, sports bra is non-negotiable for running—especially if you are serious about the sport.",n
+647,132,p,An improper sports bra won’t provide you with enough support to reduce breast movement while running.,n
+649,132,p,"This bouncing action is not only uncomfortable but can also stretch the ligament around the breast, which is an irreversible damage in most cases.",n
+651,132,p,these supporting ligaments can cause the breast to droop.,n
+653,132,p,Here is the good news.,n
+655,132,p,A proper sports bra can drastically reduce that unwanted movement—by up to 50 to 60 percent according to experts.,n
+658,132,p,"So, whatever you end up getting, make sure it’s comfortable and has been designed for high impact activities.",n
+660,132,p,Expect to pay,n
+664,132,h3,Running Socks,y
+666,132,p,your running socks can make a huge difference in your running comfort and experience.,n
+668,132,p,"Thus, do not run in socks that suck.",n
+670,132,p,"First, your running socks should be constructed with high-performance technical materials.",n
+672,132,p,blisters.,n
+673,132,p,,n
+674,673,text,"In fact, some high-performance socks include a mesh venting system",n
+676,673,br,"Secondly, make sure your socks are a good fit, especially under the arch of the foot and around the heel.",n
+679,132,p,your shoes.,n
+681,132,p,"These will irritate you while running, leading to horrid blisters.",n
+683,132,p,"If you are blister prone, opt",n
+687,132,p,"For more protection, look for socks that provide extra padding in the heel and the rear of the foot.",n
+689,132,p,You can also give compression socks a try.,n
+693,132,p,Expect to pay,n
+697,132,h3,Find the Right Mixes,n
+699,132,p,clothing items needed to stay comfortable while running.,n
+701,132,p,"These include the time of day you train, your training intensity, workout lengths, climate conditions, outdoor temperatures, and your personal preferences.",n
+704,132,p,"As a rule of thumb, your running wardrobe should be versatile and adaptable, carrying you from the coldest months for the hottest months—especially if you run most of the time outdoors.",n
+706,132,p,Here are a few tips to help you dress right whenever you’re heading out,n
+710,132,h3,Hot Weather Running,n
+712,132,p,"During extreme weather, you’ll want running gear that pulls moisture away from your skin, while shielding you from the sun.",n
+714,132,p,This will keep you both well-hydrated and comfortable.,n
+718,132,h3,Dress in Layers—Winter Running,n
+720,132,p,"During the cold season, you need to dress warmly, but bear in mind that running will increase your heart rate and body temperature.",n
+722,132,p,"So, don’t overdress.",n
+725,132,p,"light, breathable clothing items.",n
+727,132,p,"So, for instance, if halfway through the session you feel too warm, you can remove the extra layers.",n
+731,132,h3,The Main Layers,n
+733,132,p,"Start with a base layer of the close-fitting and moisture-wicking dry layer, such as a tank top, or a technical T-shirt.",n
+735,132,p,"Next, put on a looser fitting, warmer layer, such as a long sleeve shirt, or a fleece pullover on top.",n
+737,132,p,"Last up, the last layer should be a wind- and water-proof layer, such as a nylon shell or a windbreaker.",n
+741,132,h3,More Gear,n
+743,132,p,"You’ll also need headwear for different weather conditions—mainly a face mask, or balaclava for cold and win, a stocking for cold, and a cap with a visor to protect you from the sun, blinding headlights and rain.",n
+746,132,p,"For rainy days, opt for waterproof pants, wind-resistant jackets and sweatpants to keep you running dry and comfortable.",n
+748,132,p,"Want more, Here’s the full guide to winter running gear.",n
+755,132,h3,Running Gear 4 – Sports Watch,y
+757,132,p,"If you are serious about your training routine, then a specialized sports watch will come in handy.",n
+759,132,p,A good GPS watch can turn each workout into a data-producing session.,n
+761,132,p,"It is ideal for keeping track of your running time, taking splits during the race, and help you see patterns in your training—all of which can encourage you to push the pace and run faster.",n
+764,132,p,"As a beginner runner, you can also use the sports watch “stop and start” button to measure run or walk intervals, making sure you’re training within your fitness level.",n
+766,132,p,"Not only that, this interpretive piece of equipment is often equipped with a GPS system that tracks how far and how fast you run.",n
+768,132,p,Just don’t get me wrong.,n
+770,132,p,"As a beginner runner, you don’t need a fancy digital timepiece.",n
+772,132,p,"In fact, a simple watch with a stop and start button can do the trick.",n
+774,132,p,"Once you get more sophisticated, consider getting a running watch that can track your pace, heart rate, running intervals, and pace, etc.—especially if you do any speedwork or carefully paced workouts.",n
+776,132,p,watches.,n
+779,132,p,They can range from a cheap Gosasa GOSK1155B costing around $12 to a several hundred dollars Garmin Forerunner 910XT multifunctional and GPS-Enabled Sports Watch.,n
+781,132,p,Expect to pay,n
+785,132,h3,Running Gear 5 – Headphones,y
+787,132,p,"I love music, and Rock My Run Premium has made my running routine tenfold more enjoyable.",n
+789,132,p,"Numerous studies have linked music to improved running performance, consistency, and overall more enjoyable training experience.",n
+791,132,p,"In other words, having something to listen to while pounding the pavement can make your runs that much better.",n
+793,132,p,That’s why having a proper pair of running headphones are some of the most essential running gear you can get these days.,n
+796,132,p,Good running headphones should have these three traits,n
+797,132,ul,,n
+799,797,li,"They need to be tough enough to keep up with your training,",n
+801,797,li,They must be moisture-resistant so that they won’t get damaged by sweat or rain.,n
+803,797,li,"They should fit nicely and comfortably in your ear. If your headphones fall out as you run, they’re useless. In fact, fit is the most important factor, no matter how superior the music quality is.",n
+805,132,p,"In case you’re not into music, turn to Audiobooks, podcasts to keep your mind occupied during long and tedious runs.",n
+807,132,p,Check out the Tim Ferris podcasts,n
+808,132,p,,n
+810,808,strong,Note,n
+811,808,text,"If you’re running outdoors on the streets, then be careful.",n
+813,132,p,"Listening to music while running can block out traffic noises, which can set the stage for accidents and other horrible tragedies.",n
+816,132,p,"So, please, put on your earbuds only you’re safe outdoor.",n
+818,132,p,"For more safety, go",n
+822,132,h3,Running Gear 6 – Heart Rate Monitor,y
+824,132,p,"If you are a serious runner looking unleash your full potential, or a beginner runner trying to keep your heart rate within a certain range during your runs, then training with a heart rate monitor is non-negotiable.",n
+826,132,p,"A heart rate monitor is strapped to your chest, and can provide you with an accurate reading of your heartbeat while exercising.",n
+828,132,p,It is precisely what you need to avoid under- or overtraining.,n
+830,132,p,"In fact, a good heart rate monitor is just like a running coach that can help you find your sweet training spot—not too much, not too little.",n
+833,132,p,You will no longer have to “guess” your pace or training intensity level.,n
+835,132,p,heart rate monitors to choose from.,n
+837,132,p,"A basic model will just monitor your heart rate, while advanced versions will produce loads of stats, including calorie burned,",n
+839,132,p,"Just keep in mind that HRMs are not an absolute requirement even when you are preparing for a race, but they are something to consider getting.",n
+841,132,p,"Plus, some advanced running watches come with a built-in heart rate monitor.",n
+843,132,p,"So if your watch already has one, then this is not something you have to buy separately.",n
+845,132,p,Expect to pay,n
+849,132,h3,Adding it All Up,n
+851,132,p,So how much you should invest in your running gar wardrobe?,n
+854,132,p,"As previously stated, there is no right or wrong answer to that question.",n
+856,132,p,It’s all up to you.,n
+858,132,p,You might already have in your current workout wardrobe the bare essential running equipment.,n
+860,132,p,"But, irrespective of your budget, fashion sense, technological sophistication and training goals, let functionality, fit, and comfort, be your primary guiding criteria.",n
+862,132,p,Your running gear is a performance tool.,n
+864,132,p,Not a fashion statement.,n
+866,132,p,I cannot emphasize this enough.,n
+870,132,h3,New to Running? Start Here…,n
+871,132,p,,n
+873,871,span,If,n
+875,871,span,"you’re serious about running, getting fit, and staying injury free, then make sure to download my",n
+879,871,strong,Runners Blueprint Guide!,n
+882,132,p,"Inside this guide, you’ll learn how to start running and lose weight weight the easy and painless way. This is, in fact, your ultimate manifesto to becoming a faster and a stronger runner. And you want that, don’t you?",n
+886,132,p,,n
+893,886,span,Click HERE,n
+895,886,span,to check out my Runners Blueprint System today!,n
+897,132,p,Don’t miss out! My awesome running plan is just one click away.,n
+900,130,footer,,n
+902,900,div,,n
+904,902,div,,n
+906,904,span,Previous article,n
+907,904,text,The 10 Vitamins and Minerals Every Runner Needs,n
+910,902,div,,n
+912,910,span,Next article,n
+913,910,text,The Complete Guide To Recovery Runs,n
+916,900,div,David Dack,n
+922,129,div,,n
+924,922,h4,RELATED ARTICLES MORE FROM AUTHOR,n
+926,922,div,,n
+927,926,div,,n
+935,927,h3,Why Runners Need a Chiropractor,n
+943,927,h3,The Cambivo Non Slip Exercise Mat Full Review,n
+951,927,h3,How To Choose A Running Jacket,n
+952,926,div,,n
+960,952,h3,How to Find Cheap Treadmills,n
+968,952,h3,The Beginner’s Guide To Track Running,n
+976,952,h3,Does Running Build Muscle?,n
+978,129,div,,n
+982,978,h4,2 COMMENTS,n
+983,978,ol,,n
+985,983,li,,n
+986,985,footer,,n
+989,986,cite,Dave Alce,n
+991,986,time,"September 23, 2020 at 7:22 am",n
+993,985,p,,n
+994,993,text,Thank you very much for sharing this useful information with us. I am a little bit overweight so I wanted to lose some weight and then one of my friends suggested me to go running every morning and evening. SO I started running a few days back. now I was thinking to myself what gear should I be equipped While running.,n
+996,993,br,This post is really helpful. thank you,n
+999,983,li,,n
+1000,999,footer,,n
+1003,1000,cite,David Dack,n
+1005,1000,time,"September 23, 2020 at 9:11 am",n
+1006,999,div,,n
+1008,1006,p,You’re welcome Dave. Please feel free to email me if you need help,n
+1010,1006,p,Have a great start!,n
+1013,978,div,,n
+1014,1013,h3,,n
+1015,1014,text,LEAVE A COMMENT,n
+1017,1014,small,CANCEL COMMENT,n
+1018,1013,form,,n
+1023,1018,div,Please enter your comment!,n
+1027,1018,div,Please enter your name here,n
+1028,1018,div,,n
+1031,1028,div,You have entered an incorrect email address!,n
+1033,1028,div,Please enter your email address here,n
+1044,1018,p,Δ,n
+1099,60,div,© Copyright 2017 - Runner's Blueprint,n
+1105,0,div,,n
+1106,1105,text,Save,n
+1108,1105,div,Write CSS OR LESS and hit save. CTRL + SPACE,n
+1120,0,div,An Elite CafeMedia Publisher,n

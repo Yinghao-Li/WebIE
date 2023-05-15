@@ -1,0 +1,394 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,⇧,n
+4,0,div,⇩,n
+16,0,ul,,n
+18,16,li,News,n
+19,16,li,,n
+20,19,text,Analytics,n
+21,19,ul,,n
+23,21,li,players in different countries,n
+25,21,li,ITTF Ranking Analytics Demographics Report,n
+27,21,li,Righties versus Lefties,n
+29,21,li,Attack versus Defense,n
+31,21,li,Shakehand vs penhold,n
+33,21,li,the single disciplines in table tennis,n
+35,21,li,the double disciplines in table tennis,n
+37,21,li,Most common scores in table tennis,n
+38,16,li,,n
+39,38,text,Rankings,n
+40,38,ul,,n
+42,40,li,ITTF rankings,n
+44,40,li,ITTF rankings,n
+46,40,li,Popularity Ratings,n
+48,40,li,Popularity Ratings,n
+49,16,li,,n
+50,49,text,Videos,n
+51,49,ul,,n
+53,51,li,International matches,n
+55,51,li,Video search,n
+57,51,li,tournaments,n
+59,51,li,Weird videos,n
+61,51,li,Training videos,n
+63,51,li,Educational videos,n
+65,51,li,Historical videos,n
+67,51,li,Disabled athletes,n
+68,16,li,,n
+69,68,text,Information,n
+70,68,ul,,n
+72,70,li,tournaments ITTF,n
+74,70,li,Search,n
+76,16,li,Contacts,n
+101,0,div,,n
+103,101,h3,professional table tennis players. Men,n
+107,101,div,,n
+108,107,text,Athletes,n
+110,107,select,,n
+112,110,option,Men,n
+114,110,option,Women,n
+117,101,div,,n
+119,117,div,ITTF rank,n
+121,117,div,Full name,n
+123,117,div,Blade,n
+125,117,div,Forehand,n
+127,117,div,Backhand,n
+128,101,div,,n
+129,128,div,,n
+133,129,div,1,n
+137,129,div,Fan Zhendong,n
+141,129,div,Stiga Infinity VPS V with Diamond Touch,n
+145,129,div,DHS Hurricane 3 Neo,n
+150,128,div,,n
+154,150,div,2,n
+158,150,div,Ma Long,n
+162,150,div,DHS W968,n
+171,128,div,,n
+175,171,div,4,n
+179,171,div,Calderano Hugo,n
+183,171,div,Cornilleau Gatien Conquest Off,n
+187,171,div,Cornilleau Target Pro GT-H47,n
+192,128,div,,n
+196,192,div,6,n
+200,192,div,Lin Yun-Ju,n
+204,192,div,Butterfly Zhang Jike Super ZLC,n
+208,192,div,Butterfly Tenergy 05 Hard,n
+213,128,div,,n
+217,213,div,7,n
+221,213,div,Harimoto Tomokazu,n
+225,213,div,Butterfly special wood with Arylate Carbon,n
+234,128,div,,n
+238,234,div,8,n
+242,234,div,Jorgic Darko,n
+254,128,div,,n
+258,254,div,9,n
+262,254,div,Ovtcharov Dimitrij,n
+266,254,div,Donic Ovtcharov No.1 Senso,n
+275,128,div,,n
+279,275,div,11,n
+283,275,div,Aruna Quadri,n
+287,275,div,Joola Aruna OFF,n
+296,128,div,,n
+300,296,div,12,n
+304,296,div,Boll Timo,n
+317,128,div,,n
+321,317,div,13,n
+325,317,div,Franziska Patrick,n
+329,317,div,Butterfly A.Mazunov,n
+338,128,div,,n
+342,338,div,15,n
+346,338,div,Kallberg Anton,n
+359,128,div,,n
+363,359,div,16,n
+367,359,div,Karlsson Kristian,n
+380,128,div,,n
+384,380,div,17,n
+388,380,div,Chuang Chih-Yuan,n
+392,380,div,Butterfly TBA,n
+401,128,div,,n
+405,401,div,18,n
+409,401,div,Pitchford Liam,n
+422,128,div,,n
+426,422,div,23,n
+430,422,div,Gacina Andrej,n
+443,128,div,,n
+447,443,div,24,n
+451,443,div,Wong Chun Ting,n
+455,443,div,Butterfly Zhang Jike ALC,n
+464,128,div,,n
+468,464,div,25,n
+472,464,div,Gauzy Simon,n
+476,464,div,Cornilleau AERO OFF+ Soft Carbon,n
+485,128,div,,n
+489,485,div,28,n
+493,485,div,Jeoung Youngsik,n
+506,128,div,,n
+510,506,div,29,n
+514,506,div,Filus Ruwen,n
+526,506,div,Butterfly Feint Long III,n
+527,128,div,,n
+531,527,div,30,n
+535,527,div,Duda Benedikt,n
+548,128,div,,n
+552,548,div,32,n
+556,548,div,Freitas Marcos,n
+560,548,div,Butterfly Marcos Freitas ALC,n
+569,128,div,,n
+573,569,div,36,n
+577,569,div,Gardos Robert,n
+590,128,div,,n
+594,590,div,38,n
+598,590,div,Falck Mattias,n
+602,590,div,Yasaka Ma Lin Soft Carbon,n
+606,590,div,Yasaka Rakza PO,n
+610,590,div,Yasaka Rakza X,n
+611,128,div,,n
+615,611,div,39,n
+619,611,div,Achanta Sharath Kamal,n
+632,128,div,,n
+636,632,div,41,n
+640,632,div,Lebesson Emmanuel,n
+644,632,div,Tibhar Lebesson,n
+648,632,div,Tibhar Evolution FX-P,n
+652,632,div,Tibhar Sinus Alpha,n
+653,128,div,,n
+657,653,div,42,n
+661,653,div,Geraldo Joao,n
+674,128,div,,n
+678,674,div,44,n
+682,674,div,Wang Yang,n
+694,674,div,TSP Super Spinpips,n
+695,128,div,,n
+699,695,div,47,n
+703,695,div,Wang Eugene,n
+716,128,div,,n
+720,716,div,50,n
+724,716,div,Groth Jonathan,n
+737,128,div,,n
+741,737,div,52,n
+745,737,div,Skachkov Kirill,n
+749,737,div,Donic Skachkov Carbon,n
+758,128,div,,n
+762,758,div,53,n
+766,758,div,Ionescu Ovidiu,n
+770,758,div,Stiga Clipper CC,n
+779,128,div,,n
+783,779,div,56,n
+787,779,div,Olah Benedek,n
+800,128,div,,n
+804,800,div,61,n
+808,800,div,Robles Alvaro,n
+821,128,div,,n
+825,821,div,62,n
+829,821,div,Niwa Koki,n
+842,128,div,,n
+846,842,div,66,n
+850,842,div,Aguirre Marcelo,n
+863,128,div,,n
+867,863,div,67,n
+871,863,div,Apolonia Tiago,n
+875,863,div,Butterfly Tiago Apolonia ZLC,n
+884,128,div,,n
+888,884,div,70,n
+892,884,div,Dyjas Jakub,n
+904,128,div,,n
+908,904,div,72,n
+912,904,div,Monteiro Joao,n
+925,128,div,,n
+929,925,div,76,n
+933,925,div,Jancarik Lubomir,n
+937,925,div,Butterfly Mizutani Jun ZLC,n
+946,128,div,,n
+950,946,div,79,n
+954,946,div,Drinkhall Paul,n
+967,128,div,,n
+971,967,div,82,n
+975,967,div,Polansky Tomas,n
+987,128,div,,n
+991,987,div,83,n
+995,987,div,Alamiyan Noshad,n
+1008,128,div,,n
+1012,1008,div,84,n
+1016,1008,div,El-Beiali Mohamed,n
+1020,1008,div,Stiga Ebenholz NCT V,n
+1029,128,div,,n
+1033,1029,div,85,n
+1037,1029,div,Morizono Masataka,n
+1041,1029,div,DHS Kyo leopard King,n
+1049,1029,div,Nittaku Fastarc G-1,n
+1050,128,div,,n
+1054,1050,div,87,n
+1058,1050,div,Xu Xin,n
+1062,1050,div,Stiga Intensity NCT,n
+1066,1050,div,DHS Neo Skyline III,n
+1071,128,div,,n
+1075,1071,div,91,n
+1079,1071,div,Walker Samuel,n
+1083,1071,div,Donic Crest Off,n
+1092,128,div,,n
+1096,1092,div,97,n
+1100,1092,div,Ho Kwan Kit,n
+1106,1092,div,Forehand,n
+1111,128,div,,n
+1115,1111,div,98,n
+1119,1111,div,Liao Cheng-Ting,n
+1131,128,div,,n
+1135,1131,div,103,n
+1139,1131,div,Tokic Bojan,n
+1152,128,div,,n
+1156,1152,div,112,n
+1160,1152,div,Oikawa Mizuki,n
+1164,1152,div,Butterfly Innerforce Layer AL,n
+1173,128,div,,n
+1177,1173,div,114,n
+1181,1173,div,Szocs Hunor,n
+1194,128,div,,n
+1198,1194,div,115,n
+1202,1194,div,Chen Chien-An,n
+1215,128,div,,n
+1219,1215,div,119,n
+1223,1215,div,Grebnev Maksim,n
+1227,1215,div,Donic Original True Carbon,n
+1236,128,div,,n
+1240,1236,div,122,n
+1244,1236,div,Sidorenko Vladimir,n
+1257,128,div,,n
+1261,1257,div,139,n
+1265,1257,div,Gionis Panagiotis,n
+1277,1257,div,Butterfly Feint Long II,n
+1278,128,div,,n
+1282,1278,div,148,n
+1286,1278,div,Platonov Pavel,n
+1290,1278,div,Butterfly Keyshot Light,n
+1299,128,div,,n
+1303,1299,div,150,n
+1307,1299,div,Szudi Adam,n
+1319,128,div,,n
+1323,1319,div,153,n
+1327,1319,div,Mengel Steffen,n
+1340,128,div,,n
+1344,1340,div,154,n
+1348,1340,div,Kou Lei,n
+1352,1340,div,Stiga Carbonado 45,n
+1361,128,div,,n
+1365,1361,div,157,n
+1369,1361,div,Kozul Deni,n
+1382,128,div,,n
+1386,1382,div,162,n
+1390,1382,div,Campos Jorge,n
+1394,1382,div,Butterfly Primorac Carbon,n
+1403,128,div,,n
+1407,1403,div,167,n
+1411,1403,div,Bobocica Mihai,n
+1424,128,div,,n
+1428,1424,div,174,n
+1432,1424,div,Sgouropoulos Ioannis,n
+1444,128,div,,n
+1448,1444,div,178,n
+1452,1444,div,Lakatos Tamas,n
+1464,128,div,,n
+1468,1464,div,187,n
+1472,1464,div,Kojic Frane,n
+1485,128,div,,n
+1489,1485,div,197,n
+1493,1485,div,Hippler Tobias,n
+1497,1485,div,Joola Tpe Fight,n
+1506,128,div,,n
+1510,1506,div,201,n
+1514,1506,div,Shibaev Alexander,n
+1527,128,div,,n
+1531,1527,div,202,n
+1535,1527,div,Zhmudenko Yaroslav,n
+1548,128,div,,n
+1552,1548,div,247,n
+1556,1548,div,Lambiet Florent,n
+1568,128,div,,n
+1572,1568,div,255,n
+1576,1568,div,Peto Zsolt,n
+1580,1568,div,Butterfly Innerforce ALC,n
+1589,128,div,,n
+1593,1589,div,268,n
+1597,1589,div,Kenjaev Zokhid,n
+1601,1589,div,Butterfly Jun Mizutani Super ZLC,n
+1610,128,div,,n
+1614,1610,div,312,n
+1618,1610,div,Mutti Leonardo,n
+1630,128,div,,n
+1634,1630,div,325,n
+1638,1630,div,Rasmussen Tobias,n
+1650,1630,div,Stiga Calibra LT,n
+1651,128,div,,n
+1655,1651,div,326,n
+1659,1651,div,Karakasevic Aleksandar,n
+1663,1651,div,Killerspin Diamond TX,n
+1672,128,div,,n
+1676,1672,div,456,n
+1680,1672,div,Wang Wei,n
+1691,1672,div,TSP Short Pips,n
+1692,128,div,,n
+1696,1692,div,472,n
+1700,1692,div,Yoshida Masaki,n
+1712,128,div,,n
+1716,1712,div,475,n
+1720,1712,div,Konstantinopoulos Giorgos,n
+1732,128,div,,n
+1736,1732,div,485,n
+1740,1732,div,Aida Satoshi,n
+1744,1732,div,Takashima H3,n
+1753,128,div,,n
+1757,1753,div,487,n
+1761,1753,div,Muramatsu Yuto,n
+1765,1753,div,Victas Koji Matsushita Offensive,n
+1769,1753,div,Xiom Vega Europe,n
+1773,1753,div,TSP Super Spinpips 21,n
+1774,128,div,,n
+1778,1774,div,488,n
+1782,1774,div,Ghosh Soumyajit,n
+1786,1774,div,Butterfly Timo Boll,n
+1795,128,div,,n
+1799,1795,div,551,n
+1803,1795,div,Yefimov Viktor,n
+1815,128,div,,n
+1819,1815,div,557,n
+1823,1815,div,Cantero Jesus,n
+1831,1815,div,Butterfly Raystorm,n
+1835,1815,div,Tibhar Evolution EL-P,n
+1836,128,div,,n
+1840,1836,div,584,n
+1844,1836,div,Jevtovic Marko,n
+1857,128,div,,n
+1861,1857,div,608,n
+1865,1857,div,Flore Tristan,n
+1876,1857,div,Backhand,n
+1877,128,div,,n
+1881,1877,div,735,n
+1885,1877,div,Shamruk Gleb,n
+1898,0,div,,n
+1903,1898,div,,n
+1904,1903,div,,n
+1906,1904,br,Medal Count,n
+1909,1904,ul,,n
+1911,1909,li,Olympic Games,n
+1913,1909,li,World Table Tennis Championships,n
+1915,1909,li,European Table Tennis Championships,n
+1917,1903,div,,n
+1919,1917,br,Medalists,n
+1922,1917,ul,,n
+1924,1922,li,Top athletes,n
+1926,1922,li,Olympic Games,n
+1928,1922,li,World Table Tennis Championships,n
+1930,1922,li,European Table Tennis Championships,n
+1932,1903,div,,n
+1934,1932,br,Tools,n
+1937,1932,ul,,n
+1939,1937,li,Round Robin,n
+1941,1937,li,Playoff,n
+1943,1937,li,Double Elimination,n
+1945,1937,li,Progressive system,n
+1947,1937,li,Team match,n
+1948,1903,div,,n
+1950,1948,br,Equipment,n
+1953,1948,ul,,n
+1955,1953,li,professional table tennis players,n
+1957,1953,li,professional table tennis players,n
+1959,1953,li,brands among professional table tennis athletes,n
+1963,1898,span,tabletennis.guide,n

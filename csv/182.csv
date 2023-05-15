@@ -1,0 +1,79 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+5,2,h2,Essential Leatherworking Tools,n
+7,2,p,Anvil,y
+10,2,p,Awl,y
+13,2,p,Chisels and Pricking Irons,y
+16,2,p,Creaser,y
+19,2,p,Creaser or Folder,y
+22,2,p,Cutting Board,y
+25,2,p,Deglazer,y
+28,2,p,Edge Slickers and Burnishers,y
+31,2,p,Edgers,y
+34,2,p,Gouges,y
+37,2,p,Hand-Press,y
+40,2,p,Knives,y
+43,2,p,Leather Dies,y
+46,2,p,Leather Dyes,y
+49,2,p,Leather Wax,y
+52,2,p,"Mallets, Hammers, and Mauls",y
+55,2,p,Needles,y
+58,2,p,Punches,y
+61,2,p,Rivets and Setters,y
+64,2,p,Rotary Cutters and Scissors,y
+67,2,p,Rulers and Squares,y
+70,2,p,Sewing Machine,y
+73,2,p,Skiver,y
+76,2,p,Spacing or Overstitch or Pricking Wheel,y
+79,2,p,Stamps,y
+82,2,p,Stitching Horse,y
+85,2,p,Strap Cutters,y
+88,2,p,Stitching Groover,y
+91,2,p,Thickness Gauge,y
+94,2,p,Wing Divider or Compass,y
+97,2,p,Workbench,y
+100,2,h3,Additional Resources,n
+101,2,ul,,n
+103,101,li,How to Start Leatherworking,n
+106,101,li,Essential Tools,n
+111,101,li,Leather Craft Safety,n
+114,101,li,Leather Buying Guide,n
+117,101,li,Leather Crafting Tips From a Modern-Day Cowgirl,n
+122,101,li,Basic Tooling Steps,n
+125,101,li,The Best Tools and Sources for Real and Faux Leather : Wondering how to work vegan leather? Where do you even buy leather? This guide can help.,n
+130,101,li,The Tools You Need to Get Started in Leatherworking,n
+133,101,li,Top Six Places to Buy Leather for Jewelry and Crafts : Learn from an experienced crafter where to get leather for projects.,n
+136,101,li,Leather,n
+139,101,li,Six Ways to Dye Leather,n
+142,101,li,How to Harden Leather,n
+145,101,li,DIY Leather Jewelry,n
+148,101,li,Rustic Leather and Bead Necklace DIY,n
+152,101,li,How to Make a Rounded Braided Leather Bracelet,n
+155,101,li,How to Make a Leather Wallet by Hand,n
+158,101,li,How to Make a DIY Leather Belt,n
+161,101,li,How to Make a Leather Journal,n
+164,101,li,Making a Hardened Leather Mask,n
+167,101,li,Make a Leather Tote Bag,n
+171,101,li,Making a Leather Jacket,n
+174,101,li,How to Make Leather Watch Straps,n
+177,2,div,,n
+178,177,div,,n
+180,178,h4,Workbenches,y
+181,178,ul,,n
+183,181,li,Tool Box On Wheels,y
+185,181,li,Industrial Workbench with Drawers,y
+187,181,li,Heavy Duty Workbench,y
+188,177,div,,n
+190,188,h4,Tool Chests,y
+191,188,ul,,n
+193,191,li,Workbench with Cabinets,y
+195,191,li,18 Drawer Tool Cabinet,y
+197,191,li,Workbenches,y
+199,191,li,Garage Workbench,y
+200,177,div,,n
+202,200,h4,Best Sellers,n
+203,200,ul,,n
+205,203,li,Tool Box,y
+207,203,li,Tool Chest,y
+209,203,li,Garage Workbench with Drawers,y

@@ -1,0 +1,49 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,article,,n
+2,1,section,,n
+4,2,p,"We love sharing craft ideas with all of you, and want you to be prepared to get crafty whenever we share an awesome new craft idea, or whenever inspiration strikes you! So we put together a list of our most essential craft supplies so you can stock up and have them at the ready. If you can’t get any of these items, most things in our crafts can be substituted with paper and markers, and a little creativity. These are the items we use the most, and we hope it helps you stay crafty!",n
+7,2,video,"Sorry, your browser doesn’t support the embedded video.",n
+9,2,h2,Most common craft items,n
+10,2,ul,,n
+12,10,li,Colored construction paper or card stock,y
+14,10,li,Googley eyes – assorted sizes,y
+16,10,li,Craft paint – assorted colours,y
+18,10,li,Small paint brushes,y
+20,10,li,Paper plates,y
+22,10,li,Scissors,y
+24,10,li,Glue stick,y
+26,10,li,Pom Poms,y
+28,10,li,Markers,y
+30,2,h2,Sometimes Used,n
+31,2,ul,,n
+33,31,li,Tissue paper,y
+35,31,li,White glue,y
+37,31,li,Paper cups,y
+39,31,li,Fun shape scissors,y
+41,31,li,Colored dot markers,y
+43,31,li,Pipe cleaners,y
+45,31,li,Feathers,y
+47,31,li,Popsicle sticks,y
+49,31,li,Sponge stamps,y
+51,31,li,Hot glue gun,y
+53,2,h2,Great things to save,n
+55,2,p,*make sure these items are clean before you save them!,n
+56,2,ul,,n
+58,56,li,Paper towel rolls,y
+60,56,li,Toilet paper rolls,y
+62,56,li,Jar lids,y
+64,56,li,Tissue boxes,y
+66,56,li,Milk cartons,y
+68,56,li,Bubble wrap,y
+70,56,li,Tin foil,y
+72,56,li,Clothes pins,y
+74,56,li,Smooth rocks,y
+76,2,p,"Once you are all stocked up, here are some of our favorite crafts to help get you started! You can always visit our craft page and search for something else!",n
+81,2,li,Finny and Family Swimming Shark Craft,n
+97,2,p,"We love to see photos of your crafts! Please share them on Facebook , Instagram or through our Contact Us page!",n
+105,2,p,"Don’t forget to follow us on Twitter , Instagram , Pinterest , and Facebook!",n
+115,2,p,Service .,n
+119,1,div,,n
+121,119,h4,More fun Stuff,n
+125,119,li,Finny and Family Swimming Shark Craft,n

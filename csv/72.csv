@@ -1,0 +1,263 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+9,2,p,"Preparation is essential for any outdoor adventure. Having the necessary supplies and equipment can make a difference in your overall enjoyment and experience. Checklists are a great tool to help with your organization. Your camping list will vary according to the type of camping and activities you have planned, the places you are going, the time of year and the length of your trip. Add or remove items to suit your individual needs. Please email us with any other items that you would include in your camping checklist or write comment below.",n
+13,2,p,"By popular request, we’re now offering a printer friendly camping checklist in PDF or as PNG image !",n
+19,2,p,,n
+21,19,strong,NEW! Camping checklist,n
+22,19,text,is now dynamic! You can now mark completed items and they will be saved in your local browser storage.,n
+24,2,ul,,n
+28,24,li,Tweet,n
+32,24,li,Share,n
+38,24,li,Reddit,n
+42,24,li,+1,n
+46,24,li,Pocket,n
+47,24,li,,n
+50,47,span,Pinterest,n
+52,47,span,3k,n
+56,24,li,LinkedIn,n
+59,0,div,,n
+61,59,h2,Shelter,n
+62,59,ul,,n
+67,62,li,Tent,y
+72,62,li,Ground cloth or tarp,y
+77,62,li,Extra stakes,y
+82,62,li,Shade tarp or poles or rope or stakes,y
+87,62,li,Axe or hammer,y
+92,62,li,Mat,y
+97,62,li,Dust pan or brush,y
+98,0,div,,n
+100,98,h2,Bedding,n
+101,98,ul,,n
+106,101,li,Sleeping bag,y
+111,101,li,Sheets or blankets,y
+116,101,li,Pillow,y
+121,101,li,Air mattress or sleeping pad or cot or tarp,y
+126,101,li,Air pump,y
+131,101,li,Repair kit,y
+136,101,li,Utility bags,y
+137,0,div,,n
+139,137,h2,Cooking,n
+140,137,ul,,n
+145,140,li,Large water jug and water bucket,y
+150,140,li,Coolers or ice,y
+155,140,li,Thermos,y
+160,140,li,Stove with fuel or propane,y
+165,140,li,Matches or lighter,y
+170,140,li,Charcoal or firewood or buddy burner,y
+175,140,li,Dutch oven or tin can stove or box oven or etc,y
+180,140,li,Campfire grill or BBQ grill,y
+185,140,li,Fire starters or newspaper,y
+190,140,li,Tablecloth or thumb tacks or clips,y
+195,140,li,Plates and bowls or paper plates and bowls,y
+200,140,li,Silverware or plastic silverware,y
+205,140,li,Measuring cups,y
+210,140,li,Heavy-duty aluminum foil,y
+215,140,li,Paper towels,y
+220,140,li,Trash bags,y
+225,140,li,Dish soap,y
+230,140,li,Clothes pins,y
+235,140,li,Cooking oil or Pam spray,y
+240,140,li,Containers,y
+245,140,li,Potholders or oven mitts,y
+250,140,li,Pots and frying pans with lids,y
+255,140,li,Soap,y
+260,140,li,"Cook utensils-spatula, knife, spoon",y
+265,140,li,Tongs,y
+270,140,li,Skewers or grill forks,y
+275,140,li,Can opener or bottle opener,y
+280,140,li,Folding table,y
+285,140,li,Dutch oven,y
+290,140,li,Pie irons,y
+295,140,li,Mugs or paper cups,y
+300,140,li,Mixing bowl,y
+305,140,li,Cutting board,y
+310,140,li,Ziplock bags,y
+315,140,li,Napkins,y
+320,140,li,Dish pan,y
+325,140,li,Dish rags or towels,y
+330,140,li,Scrub pad or brillo,y
+335,140,li,Seasonings or sugar or condiments,y
+340,140,li,Potato peeler,y
+341,0,div,,n
+343,341,h2,Clothes,y
+344,341,ul,,n
+349,344,li,Shoes or boots,y
+354,344,li,Jeans or pant or belt,y
+359,344,li,Shorts,y
+364,344,li,T-shirts,y
+369,344,li,Socks or extra socks,y
+374,344,li,Hat,y
+379,344,li,Bandana,y
+384,344,li,Sweatshirt or jacket,y
+389,344,li,Underwear,y
+394,344,li,Sleep clothes,y
+399,344,li,Rain gear,y
+404,344,li,Swim suit or towel,y
+409,344,li,Laundry bag,y
+410,0,div,,n
+412,410,h2,Personal,n
+413,410,ul,,n
+418,413,li,Shower shoes or flip flops,y
+423,413,li,Towels or washcloth,y
+428,413,li,Soap in plastic case or shampoo,y
+433,413,li,Tooth brush or tooth paste,y
+438,413,li,Deodorant,y
+443,413,li,Comb or brush,y
+448,413,li,Razor,y
+458,413,li,Toilet paper,y
+463,413,li,Shower bag or 5 gallon bucket,y
+468,413,li,Camping shower or shower pump,y
+473,413,li,Other personal items,y
+478,413,li,Personal medications - take extra,y
+485,0,div,,n
+486,485,div,,n
+488,486,h2,Miscellaneous,n
+490,486,ul,,n
+495,490,li,Sunscreen or chapstick,y
+500,490,li,Lantern with fuel or mantles,y
+505,490,li,Extra batteries or bulbs,y
+510,490,li,Compass or GPS,y
+515,490,li,Bug repellant or candles,y
+520,490,li,Whistle,y
+525,490,li,Water filters or purification or treatment,y
+530,490,li,Camera or battery or film or video,y
+535,490,li,Books or magazines,y
+540,490,li,Candles,y
+545,490,li,Maps or directions,y
+550,490,li,Misc. tools,y
+555,490,li,Backpack or fanny pack,y
+560,490,li,Fishing gear or license or bait,y
+565,490,li,Radio,y
+570,490,li,Musical instruments or song books,y
+575,490,li,Camp chairs,y
+580,490,li,Sunglasses,y
+585,490,li,Hammock,y
+590,490,li,First aid kit,y
+600,490,li,Sawithaxe,y
+605,490,li,Park map or guidebooks or trail maps,y
+610,490,li,Lantern pole or hanger,y
+615,490,li,Collapsible drying rack,y
+620,490,li,Popcorn,y
+623,490,li,,n
+625,623,text,"Marshmallows, Graham crackers,",y
+627,623,br,Hershey bars,y
+632,490,li,Flashlight or batteries,y
+637,490,li,Pocket knife,y
+642,490,li,Plastic grocery bags,y
+647,490,li,Binoculars,y
+652,490,li,Rope or clothes line,y
+657,490,li,Canteen or water bottle or coffee pot,y
+662,490,li,Bungi cords or straps,y
+667,490,li,Cards or games or toys or golf,y
+672,490,li,Duct tape or electrical tape,y
+682,490,li,Reservations info. or confirmation,y
+687,490,li,Cell phone or charger,y
+692,490,li,2-way radios or walkie talkies,y
+697,490,li,Small shovel,y
+707,490,li,Money or ID or credit card or quarters,y
+712,490,li,Bikes or helmets,y
+717,490,li,Travel alarm clock,y
+722,490,li,Work gloves,y
+727,490,li,Umbrella,y
+732,490,li,Hand wipes,y
+737,490,li,Drinks or snacks,y
+742,490,li,Small sewing kit,y
+747,490,li,Fire extinguisher,y
+752,490,li,Hot chocolate or tea bags or coffee,y
+762,490,li,Watch,y
+763,485,div,,n
+765,763,h2,Basic First Aid Kit,y
+766,763,ul,,n
+771,766,li,Personal medications,y
+776,766,li,Roll bandages,y
+781,766,li,Adhesive tape,y
+786,766,li,Antiseptic wipes,y
+791,766,li,Sterile gauze pads,y
+796,766,li,Cotton swabs,y
+801,766,li,Tweezers,y
+816,766,li,Bee sting kit,y
+821,766,li,Sinus medications,y
+831,766,li,Bug repellant,y
+836,766,li,Sunscreen,y
+846,766,li,Sterile compresses,y
+851,766,li,Splinting materials,y
+856,766,li,Personal information or contact person,y
+866,766,li,Ipecac,y
+871,766,li,Razor blades,y
+876,766,li,Plastic bags,y
+881,766,li,water,y
+886,766,li,Blanket,y
+891,766,li,Other personal needs,y
+896,766,li,Small mirror,y
+901,766,li,Triangular bandages,y
+906,766,li,Misc. Band Aides or bandages,y
+911,766,li,Anti-acids,y
+916,766,li,Antibiotic cream,y
+921,766,li,Aspirin or Ibuprofen or Tylenol or Naproxin,y
+926,766,li,Hydrogen Peroxide,y
+931,766,li,Ace bandages,y
+936,766,li,Sunburn lotion,y
+941,766,li,Burn ointment,y
+946,766,li,Snake bit kit,y
+951,766,li,Eye drops,y
+956,766,li,Poison ivy cream or cleansers,y
+961,766,li,Heat or cold packs,y
+966,766,li,Small flashlight,y
+971,766,li,Latex gloves,y
+976,766,li,Antibacterial soap,y
+981,766,li,Thermometer,y
+986,766,li,Coins,y
+991,766,li,Antibiotic soap,y
+996,766,li,Butterfly bandages,y
+1001,766,li,Twine,y
+1006,766,li,Mole skin,y
+1011,766,li,Road flares,y
+1016,766,li,First aid manual,y
+1021,766,li,Nail clippers,y
+1022,485,div,,n
+1024,1022,p,"Tell someone of your plans - give details of where you are going and when you expect to return, give directions and possible alternative roads that you may take, provide cell phone numbers, vehicle description and license plate numbers, hand-held radio channel and codes that you will use, and provide local authority phone numbers for the county or area that you will be in.",n
+1026,1022,button,Clear All,n
+1033,1022,h2,Additional First Aid Tips,n
+1034,1022,ul,,n
+1036,1034,li,Take a First Aid class and a CPR class – keep current on this information,n
+1038,1034,li,"Keep supplies in a well marked, durable, waterproof container",n
+1040,1034,li,Keep the contents organized,n
+1042,1034,li,Know how to use everything in your first aid kit,n
+1044,1034,li,"Inspect content often, re-supply as needed",n
+1046,1034,li,Keep readily available at all times,n
+1047,1022,div,,n
+1049,1047,h2,802 Replies to “Camping Checklist”,n
+1050,1047,ol,,n
+1052,1050,li,,n
+1053,1052,footer,,n
+1055,1053,div,Arthur L. Foley Jr.,n
+1060,1053,div,"January 13, 2022 at 12:31 pm",n
+1063,1052,p,"Am planning a short camping trip. The area that is planned on covering is first to ride to Tucson, Arizona; then to go to ride up the west coast to Seattle, Washington; then head back to Omaha, Nebraska. Currently have in my collection of equipment are: Recumbent trike: Hammock: Sleeping Bag: Kelly Kettle: Ham Transceiver: Clothes.",n
+1065,1050,li,,n
+1066,1065,footer,,n
+1068,1066,div,Robert,n
+1073,1066,div,"March 15, 2021 at 8:05 pm",n
+1076,1065,p,The printable checklist will be handy,n
+1077,1047,nav,,n
+1079,1077,h2,Comments navigation,n
+1080,1077,div,,n
+1082,1080,span,Previous,n
+1083,1080,text,1,n
+1085,1080,span,…,n
+1086,1080,text,15 16,n
+1089,1080,span,17,n
+1090,1047,div,,n
+1091,1090,h3,,n
+1092,1091,text,Leave a Reply,n
+1094,1091,small,Cancel reply,n
+1095,1090,form,,n
+1096,1095,p,,n
+1098,1096,span,Your email address will not be published.,n
+1099,1096,text,Required fields are marked,n
+1104,1095,p,Comment,n
+1108,1095,p,Name,n
+1114,1095,p,Email,n
+1120,1095,p,Website,n
+1125,1095,p,new posts by email.,n
+1134,1095,p,Δ,n

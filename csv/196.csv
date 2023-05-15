@@ -1,0 +1,371 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+3,2,div,,n
+6,3,p,"Moving out for college is exciting, but it can also be a bit overwhelming. Enter our Dorm Essentials for Girls: The Ultimate College Packing List — your guide to what to bring when settling into college life.",n
+9,3,h2,Dorm essentials,n
+11,3,p,"Think of your dorm as a mini-apartment. It’s your home base on campus, and a place you’ll be spending a lot of time — so you want to be sure to have certain comforts and conveniences. Coordinate with your roommate on some of these items since you won’t need two of everything. Before you buy the bedding, check the size of the mattress your bed will have.",n
+14,3,h2,Getting organized,n
+16,3,p,"Does your college provide any storage options for their dorm rooms? Many dorm rooms have at least a chest of drawers. If that’s the case, buy some drawer liners and give the inside of the drawers a quick wipe before you put the liners in.",n
+19,3,p,You might also consider bringing,n
+20,3,ul,,n
+22,20,li,Closet organizers,y
+24,20,li,Hangers,y
+26,20,li,Over-the-door organizer,y
+28,20,li,Shoe organizer,y
+30,20,li,Hooks and hangers,y
+32,20,li,Plastic bin,y
+34,20,li,Drawer organizer,y
+36,20,li,Drawer and shelf liners,y
+38,20,li,Jewelry organizer,y
+41,3,h3,Kitchen area,y
+46,3,li,Coffee maker,y
+51,3,h3,Entertainment or work area,y
+52,3,ul,,n
+56,52,li,Dry erase board,y
+58,52,li,Board games,y
+60,52,li,Playing cards,y
+62,52,li,Area rug,y
+65,3,h3,Bedroom area,y
+66,3,ul,,n
+68,66,li,Full-length mirror,y
+70,66,li,Box fan,y
+72,66,li,Comforter or duvet with cover,y
+74,66,li,Pillow,y
+76,66,li,Pillowcases,y
+78,66,li,Sheets,y
+80,66,li,Extra blanket,y
+84,3,h3,Walls,y
+85,3,ul,,n
+87,85,li,Prints and or or posters,y
+89,85,li,Removable adhesive strips and hooks,y
+92,3,h3,Lighting,y
+93,3,ul,,n
+95,93,li,String lights,y
+97,93,li,Floor lamp,y
+100,3,h3,Miscellaneous,n
+101,3,ul,,n
+103,101,li,Luggage,y
+105,101,li,Weekender bag,y
+107,101,li,Sleeping bag,y
+109,101,li,First aid kit,y
+111,101,li,Tissues,y
+113,101,li,Umbrella,y
+115,101,li,Earplugs,y
+117,101,li,Toolkit,y
+119,101,li,Lightbulbs,y
+121,101,li,Sports equipment,y
+123,101,li,Bike,y
+125,101,li,Lock,y
+127,101,li,Safety whistle,y
+129,101,li,Pepper spray,y
+131,101,li,Your prescription medications,y
+133,101,li,Over-the-counter medications,y
+135,101,li,Band-aids,y
+137,101,li,Vitamins,y
+140,3,h3,Study materials,y
+142,3,p,"No college packing last for girls would be complete without a comprehensive list of the items you’ll need to do your best in school. Some of these depend on your personal study method and what classes you’ll be taking, so look through the list and figure out exactly which items make the most sense for you.",n
+143,3,ul,,n
+145,143,li,Backpack,y
+147,143,li,Binders,y
+149,143,li,Day planner,y
+151,143,li,Filler lined paper,y
+153,143,li,Glue,y
+155,143,li,Graph paper,y
+157,143,li,Graphing calculator,y
+159,143,li,Index cards,y
+161,143,li,Laptop lock,y
+163,143,li,Lunchbox,y
+165,143,li,Highlighters,y
+167,143,li,Notebooks,y
+169,143,li,Notecards,y
+171,143,li,Paper clips and binder clips,y
+173,143,li,Pens and pencils,y
+175,143,li,Ruler,y
+177,143,li,Sticky notes,y
+179,143,li,Stapler and staples,y
+181,143,li,Scissors,y
+183,143,li,Tape,y
+185,143,li,Whiteout,y
+189,3,h3,Creature comforts,y
+191,3,p,"Your dorm is like a sanctuary you can return to when you need to take a break from the hectic college life. To that end, you want it to be as cozy and comfortable as possible. Here’s what will get you there.",n
+194,3,ul,,n
+196,194,li,Mattress topper,y
+198,194,li,Mattress pad,y
+200,194,li,Throw blanket,y
+202,194,li,Bedside lamp,y
+204,194,li,Salt rock lamp,y
+206,194,li,Comfy robe and slippers,y
+208,194,li,Eye mask,y
+211,3,h3,Clothing,y
+213,3,p,"Okay, so you probably don’t need a packing list to remind you that you need to bring clothes to your dorm, but packing for college can be tricky because space will be limited, so it’s important to plan ahead . And if you are moving to college in-state and can commute home, leave your off-season clothes and the non-essential items at home . Now, let’s go over the basics so you don’t miss anything.",n
+218,3,ul,,n
+220,218,li,Undergarments,y
+222,218,li,Socks,y
+224,218,li,Pajamas,y
+226,218,li,Everyday pants,y
+228,218,li,Everyday tops,y
+230,218,li,Activewear,y
+232,218,li,Business casual wear,y
+234,218,li,Semi-formal wear,y
+236,218,li,Rain boots,y
+238,218,li,Sneakers,y
+240,218,li,Going out clothes,y
+242,218,li,heels,y
+244,218,li,Going out purse,y
+246,218,li,Sunglasses,y
+248,218,li,Belt,y
+250,218,li,Jewelry,y
+252,218,li,Everyday purse,y
+254,3,h4,"Depending on where you’re going to school, you may also need:",n
+255,3,ul,,n
+257,255,li,Jackets,y
+259,255,li,Hats,y
+261,255,li,Gloves,y
+263,255,li,Scarf,y
+265,255,li,Winter boots,y
+267,255,li,Bathing suit,y
+270,3,h3,Documents and IDs,y
+272,3,p,"Don’t forget to bring these important documents with you to college. And make sure they’re secure. Buy a small fireproof safe, keep it hidden, and don’t tell anyone where you keep it.",n
+273,3,ul,,n
+275,273,li,Birth certificate,y
+277,273,li,Driver License,y
+279,273,li,Passport,y
+281,273,li,Student ID,y
+283,273,li,Social security card,y
+285,273,li,Banking information,y
+287,273,li,Car registration and insurance information,y
+289,273,li,Debit and credit cards,y
+291,273,li,Checkbook,y
+293,273,li,Medical and dental cards,y
+295,273,li,Financial aid paperwork,y
+297,273,li,emergency contacts,y
+300,3,h3,Toiletries and getting ready,y
+302,3,p,"Just because you’re sharing a bathroom with 40 other people doesn’t mean you don’t still need all of your own toiletries. Keep in mind that while you’ll be able to stock up as needed, it’s a good idea to bring large sizes of toiletries with you at the beginning of the year so that they last as long as possible.",n
+305,3,h3,Shower,y
+306,3,ul,,n
+308,306,li,Shower caddy,y
+310,306,li,Shower shoes,y
+312,306,li,Shampoo,y
+314,306,li,Conditioner,y
+316,306,li,Body wash,y
+318,306,li,Loofah,y
+320,306,li,Body towels,y
+322,306,li,Hand towels,y
+324,306,li,Shaving cream,y
+326,306,li,Razors,y
+329,3,h3,Dental,y
+330,3,ul,,n
+332,330,li,Toothbrush,y
+334,330,li,Toothpaste,y
+336,330,li,Floss,y
+338,330,li,Mouthwash,y
+341,3,h3,Face,y
+343,3,ul,,n
+345,343,li,Face wash,y
+347,343,li,Face scrub,y
+349,343,li,Face masks,y
+351,343,li,Moisturizer,y
+353,343,li,Chapstick,y
+355,343,li,Tweezers,y
+357,343,li,Contacts and contact solution,y
+359,343,li,Sunscreen,y
+362,3,h3,Body,y
+363,3,ul,,n
+365,363,li,Deodorant,y
+367,363,li,Body lotion,y
+369,363,li,Tampons and or or pads,y
+372,3,h3,Nails,y
+373,3,ul,,n
+375,373,li,Nail clippers,y
+377,373,li,Nail file,y
+379,373,li,Nail polish,y
+381,373,li,Nail polish remover,y
+384,3,h3,Hair,y
+385,3,ul,,n
+387,385,li,Hairbrush,y
+389,385,li,Hairspray,y
+391,385,li,Straightening iron,y
+393,385,li,Curling iron,y
+395,385,li,Hair ties,y
+397,385,li,Hair clips,y
+400,3,h3,Cosmetics and beauty products,y
+401,3,ul,,n
+403,401,li,Cotton pads and or or cotton balls,y
+405,401,li,Cotton swabs,y
+407,401,li,Makeup,y
+409,401,li,Makeup remover,y
+411,401,li,Perfume,y
+414,3,h2,Cleaning up,n
+416,3,p,"A clean dorm room is a happy dorm room. Messes build up fast , so be sure to bring along some basic cleaning supplies that will help you keep on top of dirt and grime. As for the laundry, most college dorms offer free or paid communal washing and dryer machines .",n
+419,3,h3,Dorm room,y
+420,3,ul,,n
+422,420,li,Broom and dustpan,y
+424,420,li,Handheld vacuum,y
+426,420,li,Air freshening spray,y
+428,420,li,Small trashcan and bags,y
+432,3,h3,Laundry or clothes,y
+433,3,ul,,n
+435,433,li,Laundry basket or bag,y
+437,433,li,Laundry detergent,y
+439,433,li,Stain remover,y
+441,433,li,Dryer sheets,y
+443,433,li,Fabric softener,y
+445,433,li,Folding drying rack,y
+447,433,li,Mini steamer,y
+449,433,li,Lint roller,y
+451,433,li,Quarters,y
+454,3,h3,Dishes,y
+455,3,ul,,n
+457,455,li,Disinfecting or cleaning wipes,y
+459,455,li,dish soap,y
+461,455,li,Sponge,y
+465,3,h3,Eating and drinking,y
+467,3,p,"College dining consists mostly of cafeteria food and pizza delivery, but you’ll want to keep food items and essentials in your dorm as well for snacks and quick meals.",n
+468,3,ul,,n
+470,468,li,Plates and bowls,y
+472,468,li,Eating utensils,y
+474,468,li,Paper towels,y
+476,468,li,Filtered water pitcher,y
+478,468,li,Mug,y
+480,468,li,Travel mug,y
+482,468,li,Drinking glasses,y
+484,468,li,Travel water bottle,y
+486,468,li,Plastic food storage,y
+488,468,li,Reusable sandwich bags,y
+490,468,li,Can opener,y
+492,468,li,Dorm snacks,y
+496,468,li,Coffee,y
+498,468,li,Tea,y
+502,3,h3,Electronics,y
+504,3,p,"Most kids don’t go anywhere without their favorite electronics, let alone off to college. Pick and choose the ones off of this list that will make dorm life easier for you, as well as the ones that you can’t live without .",n
+505,3,ul,,n
+507,505,li,Cell phone,y
+509,505,li,Laptop,y
+511,505,li,Mouse,y
+513,505,li,USB drive,y
+515,505,li,External hard drive,y
+517,505,li,Noise-canceling headphones,y
+519,505,li,Portable speaker,y
+521,505,li,Extension cords,y
+523,505,li,Surge protectors,y
+525,505,li,Flashlight,y
+527,505,li,Travel charger,y
+529,505,li,Gaming console,y
+531,505,li,Batteries,y
+533,505,li,Router,y
+535,505,li,Ethernet cable,y
+537,505,li,Camera,y
+539,505,li,Kindle reader,y
+541,505,li,Tablet,y
+543,505,li,Printer,y
+546,3,h2,Shared items to coordinate with your roommate,n
+549,3,p,"When you talk to your roommate, ask if she is planning to bring any of these items to the dorm with her or would perhaps consider splitting the cost of buying those.",n
+550,3,ul,,n
+556,550,li,Blender,y
+562,550,li,A streaming device,y
+565,3,h2,College packing tips,n
+567,3,p,"To round out our college packing list for girls, we thought we’d include a few pointers that will help you make sure that packing for the dorms is as easy and stress-free as possible.",n
+568,3,ul,,n
+569,568,li,,n
+571,569,strong,Don’t just bring everything from your room at home.,n
+572,569,text,"Dorm rooms are notoriously small — even if you’re lucky enough to have a single room without a roommate, you’re still going to be tight on space. Take this into account when you’re packing for college and don’t just shove everything into boxes assuming you’ll find a space for it.",n
+573,568,li,,n
+575,573,strong,Coordinate with your roommate.,n
+576,573,text,"When it comes to the bigger items in your dorm room, such as your mini-fridge and area rug, you’re only going to need one. You should have your roommate’s name and contact information before moving day, so have a quick discussion about who will be bringing what when it comes to the major shared-room essentials.",n
+578,568,li,,n
+580,578,strong,Consider moving logistics.,n
+581,578,text,"Most college students don’t hire professional movers. Instead, it’s students themselves and their parents who are going to be lugging boxes up and down the stairs. To save a bit of trouble, pack light and take into account whether or not you’ll have a dolly and or or an elevator available when determining how you load and arrange your moving boxes.",n
+582,568,li,,n
+584,582,strong,Pack an essentials bag.,n
+585,582,text,"Moving day is always chaos, and things have a habit of getting lost in the piles of stuff. Pack an essentials bag that includes the things you know you’ll need right away — such as your wallet, any medications you take, basic toiletries, a cell phone charger, and a couple of changes of clothes, including pajamas.",n
+586,568,li,,n
+588,586,strong,Check to see if there are any items you’re not allowed to bring.,n
+589,586,text,"Before you pack your favorite soy candles and that window AC unit, check your college and dorm’s policies on what you can and can’t bring into student housing. Most colleges have this information on their websites. You may be surprised by some of the items that are not allowed.",n
+590,568,li,,n
+592,590,strong,Check to see what your dorm room already has.,n
+593,590,text,"Some dorms might provide a desk with a chair, others might not, or will have all the furniture you’ll need. You might already have a chest of drawers, too. This will help avoid lugging these items from home. You can usually find this information on the college’s website. If it’s not immediately obvious where on the site, try the FAQ.",n
+594,568,li,,n
+596,594,strong,Think seasonal.,n
+597,594,text,"If you’re going to school somewhere with a cold winter, you’re definitely going to need your boots, jacket, scarf, hat and gloves, but not in the summer when you move in. If you know you’ll have an opportunity to visit home before the colder months hit, just bring along seasonally appropriate wear and then swap it out with winter wear when the time is right.",n
+598,568,li,,n
+600,598,strong,Find out if there are move-in day restrictions.,n
+601,598,text,You may have limited space to unload and typically there’s a designated window of time. These factors might influence your packing decisions.,n
+602,568,li,,n
+604,602,strong,If you buy any devices or appliances,n
+605,602,text,"Unpack them, do an inspection and a trial run of your mini-fridge, coffee maker or printer to make sure they work and aren’t damaged. You can always repack them in the same box they came from when it’s time to move to the dorm room.",n
+606,568,li,,n
+608,606,strong,Pack your car in reverse order.,n
+609,606,text,"If you’re driving your car yourself, pack in the order you want to unpack. We recommend packing smaller items first, then the larger ones.",n
+610,568,li,,n
+612,610,strong,Check your room before unpacking.,n
+613,610,text,"Inspect your new dorm room to see if it needs any cleaning. It should have been cleaned, but it wouldn’t necessarily be by your standards. Also, check the furniture that’s already there and doors, to make sure they’re working properly and aren’t damaged. That way, you can document and report any damage so you aren’t held responsible at year-end.",n
+614,568,li,,n
+616,614,strong,Ask,n
+617,614,text,"Moving can be overwhelming, DIY moving in particular. Enlist friends to help you pack and move, or make it a family affair. Give them all a job to do!",n
+618,568,li,,n
+620,618,strong,home.,n
+621,618,text,"You will probably get homesick at some point, so bring your favorite stuffed animal, family photos or a cozy throw blanket to remind you of home and bring you comfort.",n
+624,3,h3,What not to pack,n
+626,3,p,We recommend that you don’t pack anything that is:,n
+627,3,ul,,n
+629,627,li,Prohibited by your college,n
+631,627,li,space,n
+633,627,li,Not going to be needed right away,n
+635,627,li,A shared item your roommate might be already bringing,n
+637,3,h4,"College policies differ, but you typically will not be able to bring with you to the college dorm the following:",n
+638,3,ul,,n
+640,638,li,Fire hazards,n
+642,638,li,"Firearms, weapons and explosives. This includes weapons of any kind, fireworks, sparklers, and hazardous materials like propane, gasoline, paint thinner, charcoal and lighter fluid.",n
+644,638,li,Water beds,n
+646,638,li,Air conditioners,n
+648,638,li,Illegal substances,n
+650,638,li,Alcohol,n
+652,638,li,Smoking devices and paraphernalia,n
+654,638,li,Hoverboards,n
+656,638,li,Pets,n
+659,3,h2,College packing,n
+661,3,p,Let’s round up our ultimate college packing list,n
+664,3,p,How well in advance should I contact my roommate?,n
+666,3,p,"Contact your roommate to decide who will bring what about three months in advance. Given the small size of typical college dorms, you can bet there won’t be much space for bringing unnecessary items. If possible, split necessities with your roommate. This way you won’t end up with two TVs, two lounge chairs or two futons. If you’re interested in coordinating your linens and decor with your roommate, be sure to decide on a reasonable budget together.",n
+669,3,p,What are my moving choices?,n
+671,3,p,"Moving to a college dorm is typically a small move . A few options include driving yourself, having your parents drive you, and booking a truck rental or trailer . Those who need their cars on campus should drive themselves. If the car lacks enough space, consider renting a trailer. If you’re moving with only a few boxes and necessities, then you can probably skip the truck rental. Maybe three’s a friend or a family member who has a pickup truck and can do you a favor. After considering the pros and cons of each moving method, pick the one that best fits your needs and budget.",n
+682,3,p,When should I start packing?,n
+684,3,p,"About a month before your moving date, it’s time to start packing up your things . Remember that not everything will be allowed on campus. Be sure to double-check the housing department’s policy on prohibited and hazardous dorm room items. In addition, place all important items, such as passports and IDs, in a separate, clearly labeled box or folder. This will prevent them from getting lost during the moving process.",n
+689,3,p,my belongings when I leave,n
+691,3,p,"Dorms typically close for big holidays like spring break, Thanksgiving and Christmas. If you plan to return you can leave your belongings in your dorm room, though of course don’t leave any perishables or valuables unattended.",n
+694,3,p,How early can I move into my room?,n
+696,3,p,"You can expect to move into a college dorm one to four days before the classes start. Classes typically start on a Monday, while move-in begins the preceding Thursday through Sunday.",n
+699,3,p,How long does it take to move into a dorm room?,n
+701,3,p,"On average, it will take between 1.5 and 3 hours to move into a college dorm. Expect 15-30 minutes for check-in, 15-30 minutes for cleaning and sanitizing your dorm room, 30 minutes to 1 hour of unloading and moving your stuff into your room, and 30 minutes to 1 hour for unpacking and organizing.",n
+704,3,h2,Moving into a dorm soon?,n
+706,3,p,"Chances are, you’ll need to move a lot more than you anticipate. From clothes and bedding to personal items and more, your college essentials can quickly exceed what your car can hold. Fortunately, you can rent small trucks and trailers to get your stuff to school, plus the labor to help pack and unpack . Good luck and happy moving!",n
+713,3,div,,n
+715,713,h3,Related Articles,n
+716,713,ul,,n
+718,716,li,10 Tips,n
+720,716,li,The Only Dorm Room Checklist You’ll Ever Need,n
+722,716,li,15 Dorm Room Ideas to Transform Your On-Campus Living Space,n
+724,716,li,10 Cities and States That Can Help Cover Your College Tuition,n
+726,716,li,What to Pack to Move Abroad,n
+728,716,li,Where to Find Tuition-Free College Programs in the U.S.,n
+730,716,li,Packing,n
+732,716,li,94 Moving Hacks,n
+734,716,li,How to Move Quickly,n
+736,716,li,Smart Packing Tips,n
+741,2,div,,n
+742,741,h2,,n
+744,742,span,Author,n
+745,742,text,Laura Mueller,n
+747,741,p,"Laura Mueller is a professional writer with nearly five years of experience writing about moving. She is particularly interested in topics around organization, home design, and real estate, and definitely has a few tricks up her sleeve after moving eight times in eight years during her 20s. Laura believes that moving should be as stress-free of an experience as possible, and is always working on new tips and shortcuts that she can share with readers on Moving.com. View all posts by Laura Mueller",n
+750,0,nav,,n
+752,750,h2,Post navigation,n
+753,750,div,,n
+754,753,div,,n
+756,754,span,Previous,n
+758,754,span,Previous post,n
+760,754,span,How to Check a Moving Company’s USDOT Number,n
+761,753,div,,n
+763,761,span,Next,n
+765,761,span,Next post,n
+767,761,span,How to Transfer Utilities When Moving,n

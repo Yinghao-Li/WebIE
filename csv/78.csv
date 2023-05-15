@@ -1,0 +1,146 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+4,2,div,,n
+8,4,h2,Wrestling Equipment,n
+10,4,div,,n
+13,10,p,Contents,n
+16,10,ul,,n
+18,16,li,Wrestling Equipment,y
+20,16,li,Bags,y
+22,16,li,Champion Belts,y
+24,16,li,Ear Guards,y
+26,16,li,Headgear,y
+28,16,li,Kick Pads,y
+30,16,li,Knee Pads,y
+32,16,li,Masks,y
+34,16,li,Mat Tapes,y
+36,16,li,Mats,y
+38,16,li,Mouthguards,y
+40,16,li,Rings,y
+42,16,li,Shoes,y
+44,16,li,Singlets,y
+46,16,li,Training Equipment,y
+48,16,li,Unitards,y
+49,4,p,,n
+51,49,strong,Wrestling Equipment,n
+52,49,text,"Wrestling is one of the world’s oldest sports, with depictions going as far back as 3000 BC! Wrestling is a combat sport in which two contestants strive to hold each other down on the mat for at least two seconds while keeping their opponents’ shoulders pinned to the ground.",n
+54,4,p,"Wrestling is a popular sport that has different forms across the globe and combines power, grappling, and strategy.",n
+56,4,p,"Freestyle wrestling, in which wrestlers may utilize their legs, and Greco Roman wrestling, in which wrestlers cannot hold the other contestant at any point below their waist, are the two most popular kinds of wrestling in the world.",n
+62,4,h2,Bags,y
+66,4,p,"Wrestlers, like any other athlete, must be well-prepared.",n
+68,4,p,The easiest approach to arrange your stuff is to keep everything in its own bag.,n
+70,4,p,"Wrestlers have more equipment than you’d anticipate for a bout, therefore it’s critical that it’s all portable.",n
+72,4,p,Equipment bags should be adequately ventilated and generally come in the form of a big backpack with lots of space.,n
+74,4,p,One may be purchased,n
+78,4,h2,Champion Belts,y
+82,4,p,"Every battle and tournament must conclude with a victor, and one of the finest ways to do it is with a championship belt.",n
+84,4,p,"The name of the tournament and weight class are frequently inscribed on a huge metal plate in the middle of these belts, which are normally made of leather.",n
+86,4,p,belts.,n
+88,4,p,Professional tournament replica belts or customised belts may sell,n
+90,4,p,"This is an exorbitant price point, but it is well worth it",n
+94,4,h2,Ear Guards,y
+98,4,p,Wrestlers’ ear guards are critical,n
+100,4,p,"To cup and protect the wearer’s ears from incoming blows, they are comprised of protective foam with a durable plastic shell.",n
+102,4,p,"Without ear protection, an athlete is at risk of developing cauliflower ear, a disease in which the ears expand due to frequent stress to the ear that results in a blood clot.",n
+104,4,p,Wrestling gear stores and online may sell ear guards with more breathable and comfy material to reduce attention during a bout for up to $50.,n
+108,4,h2,Headgear,y
+112,4,p,your head.,n
+114,4,p,"To protect wrestlers from concussions or other head damage, certain ear guards contain cushioning towards the forehead.",n
+116,4,p,"These are fastened to the wrestler’s ears and chin using the same straps as the ear protectors, and they usually come as a set.",n
+118,4,p,A chin guard may also be installed on occasion,n
+120,4,p,The pricing range,n
+124,4,h2,Kick Pads,y
+128,4,p,Kick pads are often utilized in professional wrestling as a fashion statement as well as an additional layer of protection for those whose styles include greater knee contact.,n
+130,4,p,"They are not often seen in high school wrestling competitions, although they may be utilized for protection in practice and in select occasions.",n
+132,4,p,They cover the shins with a cushioned layer and are generally fastened with strong straps or a drawstring.,n
+134,4,p,Professional wrestling businesses sell kick pads,n
+138,4,h2,Knee Pads,y
+142,4,p,leg protection used at the lowest levels of wrestling.,n
+144,4,p,Wrestlers often wear knee pads since it is possible to suffer burns or bruises on your knees from being on the mat during a bout.,n
+146,4,p,They have a foam cushioning portion immediately over the knee and are fashioned like sleeves that can be pulled on from the bottom of your leg.,n
+148,4,p,They’re comprised of a stretchy spandex material that allows you a complete range of motion throughout a game while yet keeping you safe.,n
+150,4,p,two might cost up to $30.,n
+154,4,h2,Masks,y
+158,4,p,"professional wrestling, masks are fairly frequent.",n
+160,4,p,"They don’t provide much in the way of protection or comfort, but they do lend a touch of class to any match.",n
+162,4,p,"Wrestling masks have traditionally been eye-catching, colorful, and designed to complement a wrestler’s in-ring demeanor.",n
+164,4,p,"Although these masks are not utilized in the college or high school level of wrestling, they are still available for purchase for about $20.",n
+168,4,h2,Mat Tapes,y
+172,4,p,"wrestling, PVC tape is an unsung hero.",n
+174,4,p,"It is critical that the mat does not move throughout each bout, and the glue that holds it in place must be robust due to the nature of wrestling.",n
+176,4,p,An poorly fitted mat may have a significant impact on a match and can result in one or both participants being harmed as a consequence of slippage.,n
+178,4,p,Mat tape must function properly in order for wrestlers to be safe and for each bout to be of high quality.,n
+180,4,p,"it are rather cheap, costing roughly $5 per roll.",n
+184,4,h2,Mats,y
+188,4,p,Wrestling mats,y
+190,4,p,They provide wrestlers a place to wrestle without risking injury on solid ground.,n
+192,4,p,"Because these mats may cost up to $1,000, they are frequently provided by schools or organizing organizations for participants.",n
+194,4,p,thick foam coated with vinyl.,n
+196,4,p,"For convenience, they are usually foldable and portable.",n
+198,4,p,These mats are usually affixed to a gym floor.,n
+202,4,h2,Mouthguards,y
+206,4,p,gear,n
+208,4,p,They are used to protect the participants’ teeth throughout the match.,n
+210,4,p,"They’re generally composed of plastic and rubber, and they’re designed to cushion the impact of a punch to the face.",n
+212,4,p,Individual mouth protectors,n
+214,4,p,"These protectors, despite their modest size, are among the most vital pieces of safety equipment in wrestling and practically other sports.",n
+218,4,h2,Rings,y
+222,4,p,"Physical wrestling rings are not essential, but they may be a useful tool for limiting where the athletes can fight.",n
+224,4,p,"To save money, several types of wrestling mats have a ring pattern on them, although it’s not unusual to find organizations with genuine borders encircling a canvas ring.",n
+226,4,p,"To save money, you may alternatively mark your wrestling zone using sets of portable rings that can lay on top of a separate mat.",n
+228,4,p,Professional boxing or wrestling businesses provide products like these with elastic bands,n
+232,4,h2,Shoes,y
+236,4,p,Wrestling shoes are very vital,n
+238,4,p,"These shoes are designed to give more traction on the mat, allowing you to perform fast pivots and move around opponents.",n
+240,4,p,"Wrestlers who wear the improper sort of shoes in a fight may struggle to get the traction they need to perform their techniques properly, putting them at a significant disadvantage before the contest even starts.",n
+242,4,p,wrestling shoes.,n
+244,4,p,These sneakers may cost anywhere from $60 to $140 depending on the design and fit.,n
+248,4,h2,Singlets,y
+252,4,p,A wrestler’s standard uniform is a singlet.,n
+254,4,p,"They’re leotards, which are skintight, sleeveless spandex outfits with a longer leg material that ends about the mid-thigh.",n
+256,4,p,the uniform is designed to allow,n
+258,4,p,There are no dangling components to get snagged on or interfere with the match.,n
+260,4,p,"They come in a variety of styles and colors, and firms that specialize in wrestling apparel sell them for $30 to $50.",n
+264,4,h2,Training Equipment,y
+267,4,p,various training tools to improve their strength and endurance.,n
+269,4,p,"them, like weights, may be used in any activity that demands muscular tone.",n
+271,4,p,wrestling-specific training equipment.,n
+273,4,p,"Before you’re ready to physically interact with another person, utilize these dummies to practice takedowns and various positions.",n
+275,4,p,"Depending on the size and quality of the dummy, these training items may be purchased at a range of pricing points.",n
+279,4,h2,Unitards,y
+282,4,p,"Because of its skin-tight material and uniform function, a unitard is comparable to a singlet, but instead of the legs only reaching to the thighs, unitard bottoms finish at the hips, like a swimming suit.",n
+284,4,p,They’re just another kind of wrestling costume meant to maximize a wrestler’s range of motion during a bout.,n
+286,4,p,"At the university and high school levels, they are less frequent than singlets, although they exist in the same diversity of design and color.",n
+288,4,p,related,n
+291,4,p,related,n
+293,4,div,,n
+295,293,h3,Related,n
+296,293,div,,n
+297,296,p,,n
+299,297,span,Softball Equipment List,n
+301,297,time,"March 21, 2022",n
+304,296,p,,n
+306,304,span,Top 10 Sports Video Games,n
+308,304,time,"April 1, 2022",n
+311,296,p,,n
+313,311,span,List oF Polo Equipment,n
+315,311,time,"January 20, 2022",n
+318,2,footer,,n
+319,318,span,,n
+322,319,span,Categories,n
+323,319,text,Blog,n
+324,318,nav,,n
+326,324,span,Post navigation,n
+330,324,div,Top 10 Powerlifting Brands,n
+334,324,div,Fantasy Football Analysts And Experts,n
+337,0,div,,n
+338,337,h3,,n
+339,338,text,Leave a Comment,n
+341,338,small,Cancel reply,n
+342,337,form,,n
+345,342,p,Comment,n
+348,342,label,Name,n
+351,342,label,Email,n
+354,342,label,Website,n
+359,342,p,"Save my name, email, and website in this browser",n

@@ -1,0 +1,201 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+16,0,div,,n
+17,16,div,,n
+25,17,div,,n
+30,25,div,,n
+32,30,h4,Tool Kits,n
+34,30,p,Best tool kits,n
+40,25,div,,n
+42,40,h4,Stitch,n
+44,40,p,Stitching tools,y
+47,40,ul,,n
+49,47,li,Stitching Tools,y
+51,47,li,Needles and Lacing Needles,y
+56,25,div,,n
+58,56,h4,"Threads, Cords, Wax",y
+60,56,p,"Threads, cords,Wax",y
+63,56,ul,,n
+65,63,li,LC Ramie Thread,y
+67,63,li,"Threads, Cords",y
+69,63,li,Polyester Thread,y
+71,63,li,Sinew,y
+73,63,li,Waxed Twine,y
+75,63,li,Artificial Sinew,y
+78,17,div,,n
+83,78,div,,n
+85,83,h4,Carving,n
+87,83,p,Carving Tools,y
+90,83,ul,,n
+92,90,li,Swivel Knife,y
+94,90,li,Tracing Film,y
+96,90,li,Modeling Tools,y
+101,78,div,,n
+103,101,h4,Cut or Grind or Polish,n
+105,101,p,Expert tools,n
+108,101,ul,,n
+110,108,li,"Knife, Sharpener",y
+112,108,li,"Scissors, Cutters",y
+114,108,li,Edge Tools,y
+116,108,li,Skiver,y
+118,108,li,"Slicker, File",y
+120,108,li,Lace and Strap Cutter,y
+125,78,div,,n
+127,125,h4,"Ruler, Measuring",n
+129,125,p,Rulers and measuring instruments.,y
+131,17,div,,n
+136,131,div,,n
+138,136,h4,"Setter, Hammer, Board",y
+140,136,p,"Hammers, swaging tools and the related commodities.",y
+143,136,ul,,n
+145,143,li,"Hammer, Mallet and Board",y
+147,143,li,"Rivet, Snap, Eyelet Setters",y
+152,131,div,,n
+154,152,h4,Hole Punches or Chisels,n
+156,152,p,"Punches, Chisels, Stitching Chisels, Shape Punches, Drills.",y
+159,152,ul,,n
+161,159,li,LC Diamond Stitching Chisel,y
+163,159,li,European Style Stitching Chisel,y
+165,159,li,Diamond Stitching Chisel,y
+167,159,li,Diamond Stitching Chisel,y
+169,159,li,Awl,y
+171,159,li,Thonging Chisel,y
+178,131,div,,n
+180,178,h4,Strap End Punches,y
+182,178,p,Used to cut leather belt ends and straps.,n
+184,17,div,,n
+189,184,div,,n
+191,189,h4,"Dyeing Tools, Brushes",y
+193,189,p,Tools,n
+196,189,ul,,n
+198,196,li,Edge and Flesh Side Painting Tools,y
+200,196,li,Staining Tool,y
+202,196,li,"Paint Brushes, Wool",y
+204,196,li,Dye Storage Container,y
+206,196,li,Wax,y
+211,184,div,,n
+213,211,h4,Clutch Frame Tools,y
+215,211,p,Tools,n
+221,184,div,,n
+223,221,h4,Pyrography Tools,y
+225,221,p,Safe and easy pyrography tools.,n
+227,17,div,,n
+230,227,h4,Related items for,n
+233,227,div,,n
+246,233,div,,n
+248,246,p,LC Diamond Stitching Chisel,n
+251,246,p,¥744,n
+255,233,div,,n
+257,255,p,Edge Slicker,n
+260,255,p,"¥2,340",n
+264,233,div,,n
+266,264,p,LC Super PRO Edge Tool Set,n
+269,264,p,"¥12,285",n
+273,233,div,,n
+275,273,p,Sewing Horse,n
+278,273,p,"¥7,200",n
+281,16,div,,n
+283,281,h4,Recommended Items,n
+284,281,div,,n
+285,284,div,,n
+288,285,div,,n
+290,288,p,Diamond Stitching Chisel 2 mm,n
+291,288,p,,n
+293,291,span,¥500,n
+296,291,text,450,n
+297,285,p,,n
+298,297,text,Stitching pitch,n
+300,297,br,1 Prong,n
+301,284,div,,n
+304,301,div,,n
+306,304,p,Round Maul,n
+307,304,p,,n
+309,307,span,¥5200,n
+312,307,text,680,n
+314,301,p,iron washer.,n
+315,284,div,,n
+318,315,div,,n
+320,318,p,PRO Stitch Groover's Replacement Blade,n
+321,318,p,,n
+323,321,span,¥520,n
+326,321,text,468,n
+328,315,p,Replacement blade,n
+329,284,div,,n
+332,329,div,,n
+334,332,p,Horsehair Ombre Painting Brush 12 mm,n
+335,332,p,,n
+337,335,span,¥640,n
+340,335,text,608,n
+342,329,p,Size,n
+343,284,div,,n
+348,343,p,Purified Japan Wax,n
+355,343,p,,n
+356,355,text,Cohesive natural wax taken from beehives.,n
+358,355,br,Mix this wax with Japan Wax to make it less likely to have crackles,n
+359,284,div,,n
+362,359,div,,n
+364,362,p,Heavy Anvil,n
+365,362,p,,n
+367,365,span,¥4450,n
+370,365,text,005,n
+371,359,p,,n
+372,371,text,6 cm x 10 cm,n
+374,371,br,This is a very useful tool if you have one to attach rivets and such.,n
+375,281,div,,n
+376,375,div,,n
+379,376,div,,n
+381,379,p,VINYMO <MBT> Polyester Machine Thread - #5,n
+383,379,p,"¥1,875",n
+384,376,p,,n
+385,384,text,Length,n
+387,384,br,Thickness,n
+389,384,br,Material,n
+399,375,p,"Includes necessary tools, finishing compounds and textbook to get start with leathercrafting.",n
+400,375,div,,n
+403,400,div,,n
+405,403,p,Craft Divider,n
+406,403,p,,n
+408,406,span,¥1750,n
+411,406,text,575,n
+413,400,p,For drawing lines,n
+417,375,div,,n
+419,417,p,French Style Awl,n
+420,417,p,,n
+422,420,span,¥4500,n
+425,420,text,050,n
+427,375,div,,n
+432,427,p,Groover's Replacement Blade,n
+439,427,p,,n
+440,439,text,Replacement blade,n
+442,439,br,Anti-rust finish.,n
+443,375,div,,n
+446,443,div,,n
+448,446,p,Diamond Stitching Chisel 1.5 mm,n
+449,446,p,,n
+451,449,span,¥750,n
+454,449,text,675,n
+455,443,p,,n
+456,455,text,Stitching pitch,n
+458,455,br,2 Prongs,n
+465,0,div,×,n
+473,0,div,,n
+475,473,div,,n
+476,475,div,,n
+479,476,h4,Info,n
+481,476,p,Leather,n
+483,476,p,Hardware and Eyelet Punch,n
+485,476,p,Privacy Policy,n
+487,476,p,Find Distributors,n
+488,475,div,,n
+491,488,h4,Services,n
+493,488,p,Shipping,n
+495,488,p,Flight Status,n
+497,488,p,Payment,n
+499,488,p,Return Items,n
+502,473,div,,n
+505,502,h4,Help,n
+507,502,ul,,n
+509,507,li,Contact Form,n
+511,507,li,info@leathercrafttools.com,n
+513,507,li,Japanese Site,n
+528,0,div,© 2022 LeatherCraftTools.com,n

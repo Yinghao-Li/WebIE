@@ -1,0 +1,197 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+8,0,div,,n
+9,8,div,,n
+11,9,h1,Play Smart,n
+13,9,ul,,n
+18,13,li,Home,n
+22,13,li,Stories,n
+26,13,li,Blog,n
+30,13,li,Play Smart,n
+33,9,div,Share,n
+35,8,div,,n
+38,35,div,,n
+39,38,div,,n
+40,39,text,"Steven B. Cohen, M.D.",n
+42,39,span,"September 17th, 2018",n
+43,38,div,,n
+46,43,h2,Proper Protective Equipment Can Effectively Help Prevent Football Injuries,n
+48,43,p,Protective gear,n
+52,43,p,Personal protective equipment is not optional,n
+54,43,h3,Protective Equipment,n
+56,43,p,"At Rothman Orthopaedic Institute in Glen Mills , we want to reduce the number of sports injuries suffered by football players to an absolute minimum. Part of reducing football injuries is raising awareness of the risks at play — and how they can be effectively mitigated. That’s why we’ve compiled the following personal protective equipment list of gear items that are essential for every football player:",n
+61,43,ol,,n
+63,61,li,,n
+64,63,text,Helmet,y
+66,63,br,More football players suffer concussions than players of any other sport. Properly-fitted helmets are the most effective tool for preventing concussions and head injuries.,n
+68,61,li,,n
+69,68,text,Shoulder Pads,y
+71,68,br,"Strains, sprains, contusions, fractures, dislocations, and separations are all common football shoulder injuries that may be caused by intense impact. The use of shoulder pads is a must.",n
+73,61,li,,n
+74,73,text,Hip Pads,y
+76,73,br,"Football athletes’ hips are susceptible to strains, impingements, and bursitis. While bursitis is non-traumatic in nature, the forceful impacts that may cause twists, strains, or sprains can be prevented by hip pads.",n
+78,61,li,,n
+79,78,text,Thigh Pads,y
+81,78,br,"Hamstring and quadriceps injuries make up 13% of the total injuries suffered by football players. Wearing thigh pads can help to prevent strains, tears, contusions, and more.",n
+83,61,li,,n
+84,83,text,Knee Pads,y
+86,83,br,"Knee injuries are among the most common traumatic football injuries. Knee pads, thus, are essential in the prevention of such injuries as anterior cruciate ligament tears, posterior cruciate ligament tears, and injuries to the meniscus cartilage.",n
+89,61,li,,n
+90,89,text,Mouthpiece,y
+92,89,br,"Facial impacts with either other players or the ground are common in football, which can damage the mouth and teeth. Mouth guards help protect players’ oral health.",n
+94,61,li,,n
+95,94,text,Jockstrap and Cup,y
+97,94,br,"Jockstraps and cups help to protect some of the most sensitive and delicate body parts of football players. Without these types of protective equipment, highly painful and damaging injuries may occur.",n
+99,61,li,,n
+100,99,text,Gloves,y
+102,99,br,"Gloves are more important than they may initially appear. They help to prevent injuries and lacerations to the hands, which would otherwise be vulnerable and exposed.",n
+104,43,p,"Always ensuring that yourself and all fellow football players are fully and properly equipped with these eight essential pieces of protective equipment can help to prevent serious injury and help you to have a safe football season. If you have any questions about football injuries or have suffered an injury and wish to have the best sports injury treatment available, contact the experts at Rothman Orthopaedic Institute in Glen Mills. Please visit us here or contact us at 1-800-321-9999.",n
+110,38,h2,Related Specialties,n
+118,38,div,,n
+120,118,h2,Related Physicians,n
+121,118,div,,n
+127,121,div,,n
+130,127,div,This Region Only,n
+135,127,div,All Regions,n
+139,121,div,,n
+142,139,div,All Offices,n
+144,139,div,,n
+145,144,div,,n
+165,145,div,,n
+169,165,div,Office locations,n
+173,165,div,Surgical locations,n
+175,145,ul,,n
+178,175,li,All Locations,n
+181,175,li,"Abington, PA",n
+185,175,li,"Bensalem, PA",n
+189,175,li,"Blue Bell, PA",n
+193,175,li,"Bordentown, NJ",n
+197,175,li,"Brick, NJ",n
+201,175,li,"Bryn Mawr, PA",n
+205,175,li,"Cape May Court House, NJ",n
+209,175,li,Center City Philadelphia,n
+213,175,li,"Chalfont, PA",n
+217,175,li,"Davenport, FL",n
+221,175,li,"Doylestown, PA",n
+225,175,li,"East Orlando, FL",n
+229,175,li,"Egg Harbor Township, NJ",n
+233,175,li,"Glen Mills, PA",n
+237,175,li,"Hamilton, NJ",n
+241,175,li,"Hammonton, NJ",n
+245,175,li,"Harrison, NY",n
+249,175,li,"Prussia, PA",n
+253,175,li,"Lake Mary, FL",n
+257,175,li,"Limerick, PA",n
+261,175,li,"Malvern, PA",n
+265,175,li,"Manahawkin, NJ",n
+269,175,li,Manhattan - Madison Avenue,n
+273,175,li,"Marlton, NJ",n
+277,175,li,"Media, PA",n
+281,175,li,"Montvale, NJ",n
+285,175,li,"Newtown , PA",n
+289,175,li,Northeast Philadelphia,n
+293,175,li,"Paramus, NJ",n
+297,175,li,"Pennington, NJ",n
+301,175,li,"Princeton, NJ",n
+305,175,li,"Rutherford, NJ",n
+309,175,li,South Philadelphia,n
+313,175,li,"Tarrytown, NY",n
+317,175,li,"Washington Township, NJ",n
+321,175,li,"Willow Grove, PA",n
+325,175,li,"Winter Garden, FL",n
+329,175,li,"Winter Park, FL",n
+333,175,li,"Wynnewood, PA",n
+398,144,div,"To navigate, press the arrow keys.",n
+443,121,div,,n
+446,443,div,Specialties,n
+447,443,ul,,n
+449,447,li,All Specialties,n
+451,447,li,Hip,n
+453,447,li,Knee,n
+455,447,li,Spine,n
+459,447,li,Shoulder and Elbow,n
+461,447,li,Foot and Ankle,n
+463,447,li,Hand and Wrist,n
+465,447,li,Physical Medicine and Rehabilitation,n
+467,447,li,Orthopaedic Oncology,n
+471,447,li,General Orthopaedics,n
+472,121,div,,n
+474,472,div,,n
+475,474,div,,n
+477,475,h4,Physician Language,n
+480,475,div,Select a Language,n
+481,475,ul,,n
+483,481,li,All Languages,n
+485,481,li,English,n
+487,481,li,Swedish,n
+489,481,li,Tamil,n
+491,481,li,Spanish,n
+493,481,li,Italian,n
+495,481,li,Korean,n
+497,481,li,Persian,n
+499,481,li,Arabic,n
+500,474,div,,n
+502,500,h4,Physician Gender,n
+506,500,div,Female,n
+510,500,div,Male,n
+511,474,div,,n
+513,511,h4,Surgical Options,n
+514,511,div,,n
+518,514,div,Surgeons,n
+522,514,div,Non-Surgeons,n
+523,474,div,,n
+525,523,h4,Sort,n
+527,523,div,,n
+532,527,div,Sort Alphabetically,n
+537,527,div,Sort by Distance,n
+557,472,div,,n
+560,557,h2,Filter Physicians,n
+561,557,div,,n
+562,561,div,,n
+564,562,div,Filter,n
+566,562,div,Sort,n
+571,561,h4,Search,n
+578,557,div,Confirm,n
+580,118,div,,n
+582,580,div,,n
+584,582,h2,Please select your region to view available physicians.,n
+585,582,text,Select Your Region,n
+587,582,div,,n
+588,587,text,or click here to view all,n
+590,587,text,physicians,n
+596,580,li,,n
+598,596,h3,"Steven B. Cohen, M.D.",n
+601,596,p,Sports Medicine,n
+605,596,div,Greater Philadelphia,n
+608,596,div,Make Appointment,n
+649,35,div,,n
+651,649,div,,n
+653,651,h2,Related Conditions,n
+657,651,li,Sports Concussions,n
+659,649,div,,n
+661,659,h2,Related Treatments,n
+664,659,li,Sports Concussion Treatment,n
+666,649,div,,n
+668,666,h2,Office Locations,n
+670,666,li,,n
+672,670,div,Office,n
+674,670,h3,"Glen Mills, PA",n
+676,666,h2,Surgical Locations,n
+679,649,div,,n
+681,679,h2,Related Services,n
+682,679,ul,,n
+685,682,li,Nutrition and Wellness Counseling,n
+688,682,li,Physical Therapy,n
+691,35,div,,n
+693,691,h2,Related Programs,n
+694,691,ul,,n
+696,694,li,,n
+698,696,h3,Athletic Training- Sport Medicine Outreach,n
+700,696,div,"Our Field Athletic Trainers provide direct sports medicine care to youth, high school, college and professional athletes. Rothman AT’s provide athletic training services throughout Southeastern PA and NJ to interscholastic high schools, colleges, as well as tournaments and special events.",n
+703,694,li,,n
+705,703,h3,Injury Prevention Program,n
+707,703,div,"The Injury Prevention Program at the Rothman Orthopaedic Institute is dedicated to the prevention of injuries from athletic participation, particularly youth sports.",n
+710,694,li,,n
+712,710,h3,Sports Concussion Program,n
+714,710,div,Concussion care is a special focus of Rothman's sports medicine program. We've developed the most advanced multi-disciplinary evaluation and treatment techniques based on research done by the concussion specialists here at Rothman Orthopaedic Institute.,n
+731,8,div,of,n

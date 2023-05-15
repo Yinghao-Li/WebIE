@@ -1,0 +1,408 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+17,0,text,Skip to main content,n
+20,0,phoenix-page,,n
+41,20,phoenix-overlay,,n
+43,41,phoenix-accordion,,n
+45,43,li,,n
+47,45,div,Team Sports,n
+56,45,phoenix-accordion-panel,,n
+60,56,li,Soccer,n
+64,56,li,Basketball,n
+68,56,li,American Football,n
+72,56,li,Baseball,n
+76,56,li,Hockey,n
+78,43,li,,n
+80,78,div,Individual Sports,n
+89,78,phoenix-accordion-panel,,n
+93,89,li,Tennis,n
+97,89,li,Competitive Cycling,n
+101,89,li,Golf,n
+105,89,li,Martial Arts,n
+109,89,li,Competitive Swimming,n
+113,89,li,Boxing,n
+117,89,li,Pro Wrestling,n
+146,41,li,Privacy Settings,n
+160,20,phoenix-overlay,"June 24, 2022",n
+162,20,div,,n
+170,162,phoenix-sticky-nav,,n
+173,170,li,Team Sports,n
+176,170,li,Individual Sports,n
+212,162,div,,n
+222,212,div,,n
+224,222,p,"Baseball Brains is a group of players, coaches, and athletic trainers who help others in our field become more successful and knowledgeable.",n
+227,222,h2,Get Geared Up!,n
+229,222,p,"Baseball is a sport that gives a player a tremendous amount of freedom and choices when it comes to the gear they'll be using. There are some positions that require specialized gear, and every position on the field is a little different.",n
+231,222,p,"For the purposes of this article, we'll keep it simple and run down the basic gear that any baseball player can use. Whether you're on a baseball team, or just playing in the backyard, here are the essential pieces of gear you'll need!",n
+235,222,h2,Baseball Glove,y
+237,222,p,"One of the first things you'll need is a baseball glove. There a ton of baseball gloves out there from numerous companies. They come in a wide variety of materials, sizes, colors, designs, and uses. A catcher uses a mitt, which is typically much larger than a traditional baseball glove, and designed to catch blazing fastballs from pitchers.",n
+239,222,p,"There are youth-sized gloves and adult sized gloves. Youth gloves are typically smaller and made of a little less quality material. The nice thing about them is that they're cheaper than their adult counterparts. Youth gloves range from $20-$100, and adult gloves range from $50-$300.",n
+241,222,p,The quality of baseball gloves varies based mostly on the material that it's made out of. There are some very high-end leather gloves on the market that are north of $500! These gloves are used mostly by professional players.,n
+243,222,p,The number one rule of thumb when looking for a glove for yourself is to try a few on to make sure they fit and feel good!,n
+246,222,h2,Baseball Bat,y
+248,222,p,"You can't really play baseball without a bat! While there is a ton of fun to be had by just getting your glove on and playing catch with a friend, the game itself involves hitting and that means a bat.",n
+250,222,p,"There are many different kinds of bats and, like gloves, there are models for youth and adults. Youth bats have smaller barrels and are a lot lighter. Adult bats are heavier and have bigger barrels. It's easier to hit the ball more solidly with a bigger barrel, so my advice is to get a bat that's as big as you can handle. By handle I mean to hold and swing comfortably, and it doesn't feel like a log in your hands.",n
+252,222,p,There are aluminum and other types of metal bats and there are wood bats. Most leagues are lower than professional baseball use metal bats. There are some nice advantages to metal; they hit the ball a little better and they don't break!,n
+254,222,p,"Wood bats are beautiful and can be made from a wide variety of wood. My favorite part of wood bats is the way it sounds when you hit a ball really hard, there's nothing like it!",n
+256,222,p,"Bats range in price from $20-$200 for youth models and can go up to $400 for adult models, and there are a plethora of choices out there for your new bat.",n
+258,222,section,,n
+261,258,div,Scroll to Continue,n
+264,258,phoenix-recommendations,,n
+277,264,phoenix-super-link,Strike Three,n
+290,264,phoenix-super-link,All Time,n
+303,264,phoenix-super-link,How to Teach Young Children to Hit a Baseball,n
+305,222,h2,Baseballs,y
+307,222,p,"I almost forgot that you'll need balls in order to play! Most baseballs are made of a rubberized core, wrapped with yarn , and covered with full-grain leather. There are differences to this with some balls, and some balls are covered with plastic to make them better for use in wet weather.",n
+309,222,p,"Baseballs are very hard and weigh 5.25 ounces. They're perfectly round and designed to throw. If you don't believe me pick one up, I promise you'll feel like throwing it right away!",n
+312,222,h2,Batting Helmet,y
+314,222,p,"If you're going to be playing in a game, or stepping in to try to hit live pitching, you'll need a helmet. Helmets are made of strong plastic material and have padding on the inside for safety and comfort.",n
+316,222,p,"There are lots of different colors and models to choose from, and they range in price from $15-$70. Helmets are rated by the miles per hour of the baseball they are designed to protect you from.",n
+319,222,h2,Catcher's Gear,y
+321,222,p,"If you want to be a catcher, you'll need protective gear. Catcher's gear consists of leg guards, chest pad, and a helmet. The gear comes in all the different sizes that you'll need and is made by many different companies. You can get a cheap set of gear for under $100, or suit yourself up in the finest around for about $400.",n
+323,222,p,"Catchers get hit by plenty of baseballs over the course of a baseball game. Hitters foul balls off, pitchers throw them in the dirt which in turn bounce into the catcher, and all of them hurt! Without catchers gear, don't even think about getting back there to catch pitches behind a hitter.",n
+327,222,h2,Protective Cup,y
+329,222,p,"This is not the most fun thing to buy, or wear, in baseball but it is very important if you're a male. Baseball shorts have a pocket in the front to put a protective cup in.",n
+331,222,p,"These are particularly important if the player is on the infield where he will get a lot of ground balls, but every player should really wear them. It only takes one time without one of these and you'll be regretting it for a long time!",n
+334,222,h2,Baseball Hat,y
+336,222,p,"From keeping the sun out of your eyes to looking cool with the latest team's logo, a baseball hat is a must for a game. Every baseball player wears a hat, and they come in adjustable or custom sizes.",n
+339,222,h2,Baseball Cleats,y
+341,222,p,"You've got to wear cleats if you're going to be running around on grass and dirt for a baseball game. Youth players wear cleats made of rubber, which don't grip the ground as well but are safer. Once players are in middle school and beyond, they wear metal cleats which provide much better traction.",n
+343,222,p,"Cleats come in a variety of shapes and sizes, and almost anything is allowed unless a coach requires that a whole team wears the same cleats. You can buy cleats based on your regular shoe size, although they feel quite a bit different so I recommend trying them on before you order them.",n
+345,222,p,"Like all shoes, the price will vary based on quality and material type. You should be able to pick up a nice pair of cleats for between $60-$120.",n
+348,222,h2,Baseball Pants,y
+350,222,p,"To truly look the part of a baseball player, you need baseball pants! Young players wear pants of various colors, some gray, some black, and most wear white. Old guys wear white and gray pants and some have pinstripes on them as well.",n
+352,222,p,"You can choose between two different styles of pants, up or down. The pants that are designed to be worn up have elastic at the bottom of them so you can pull them up and show your high socks in your team color. Most players today wear open bottom pants that are designed to be worn down to your ankles.",n
+355,222,h2,Batting Gloves,y
+357,222,p,"You'll need some batting gloves if you're going to be spending a lot of time swinging the bat. The bat will give you blisters on your hands, and vibration from the ball hitting the wrong spot on the bat will rattle your hands like crazy. Batting gloves will cure both of these things and will help you grip the bat better too!",n
+359,222,h2,Choices,n
+361,222,p,"There are many other things you can buy for your baseball wardrobe as well, but the things I've listed should get you to where you can play in the backyard or the field. Here are some other things you can get as well:",n
+362,222,ul,,n
+364,362,li,Sock or stirrups to wear under your pants,y
+366,362,li,Guards,y
+368,362,li,Sunglasses,y
+370,362,li,Wrist wraps and other cool things,y
+372,222,p,"Take a look at the guys on TV if you really want to know the ""cool"" look. Baseball is an awesome game that can be enjoyed by anybody of any talent level and income. There are many, many choices out there for what gear you can own. Go out and play ball!",n
+374,222,h2,Comments,n
+375,222,p,,n
+377,375,strong,Group Coaching,n
+378,375,text,"on August 28, 2020",n
+380,222,p,finance,n
+381,222,p,,n
+383,381,strong,nolan,n
+384,381,text,"on August 05, 2020",n
+386,222,p,it helped me make a book,n
+387,222,p,,n
+389,387,strong,josh martin,n
+390,387,text,"on May 23, 2020",n
+392,222,p,you are awesome,n
+393,222,p,,n
+395,393,strong,elmo,n
+396,393,text,"on May 20, 2020",n
+398,222,p,thanks alot,n
+399,222,p,,n
+401,399,strong,Manny,n
+402,399,text,"on March 20, 2020",n
+405,222,p,,n
+407,405,strong,Marco,n
+408,405,text,"on March 15, 2020",n
+410,222,p,This was a lot help,n
+411,222,p,,n
+413,411,strong,Tyler,n
+414,411,text,"on March 13, 2020",n
+420,222,p,"on March 02, 2020",n
+422,222,p,Thanks so much,n
+423,222,p,,n
+425,423,strong,i like trains,n
+426,423,text,"on February 28, 2020",n
+428,222,p,thank you for this information i love baseball i was doing a project in school about baseball this really helped me.,n
+429,222,p,,n
+431,429,strong,brady,n
+432,429,text,"on February 11, 2020",n
+438,222,p,"on February 03, 2020",n
+440,222,p,really good website,n
+441,222,p,,n
+443,441,strong,Hi,n
+444,441,text,"on January 31, 2020",n
+446,222,p,You need a field also,n
+450,222,p,"on January 16, 2020",n
+452,222,p,Thanks Jude!,n
+453,222,p,,n
+455,453,strong,Jude,n
+456,453,text,"on January 14, 2020",n
+458,222,p,Helped with project,n
+459,222,p,,n
+461,459,strong,Aidan,n
+462,459,text,"on January 13, 2020",n
+464,222,p,Thanks I really needed to use this,n
+467,222,p,yo mama,n
+470,222,p,hi my name is jeff wat up men,n
+473,222,p,Ryan Barden,n
+476,222,p,thank u it help alot,n
+480,222,p,"on November 24, 2019",n
+482,222,p,"Awesome, thanks",n
+483,222,p,,n
+485,483,strong,Mr. Shortstop,n
+486,483,text,"on November 21, 2019",n
+488,222,p,Thank u. I used this,n
+489,222,p,,n
+491,489,strong,sraa,n
+492,489,text,"on November 13, 2019",n
+494,222,p,thanks fr the list needed it,n
+495,222,p,,n
+497,495,strong,ball,n
+498,495,text,"on November 12, 2019",n
+500,222,p,I eat chicken nugets,n
+504,222,p,"on November 01, 2019",n
+507,222,p,,n
+509,507,strong,T-dog,n
+510,507,text,"on October 22, 2019",n
+512,222,p,Awesome and great trying out,n
+513,222,p,,n
+515,513,strong,htythb,n
+516,513,text,"on October 21, 2019",n
+518,222,p,thx this is a good sight,n
+522,222,p,"on October 20, 2019",n
+525,222,p,,n
+527,525,strong,Ty'Brianna,n
+528,525,text,"on October 08, 2019",n
+530,222,p,Thank you !!!!!!!!,n
+536,222,p,always play baseball,n
+542,222,p,I LOVE BASEBALL,n
+546,222,p,"on June 20, 2019",n
+548,222,p,baseball = life,n
+552,222,p,"on June 19, 2019",n
+554,222,p,now i can play baseball with this info,n
+555,222,p,,n
+557,555,strong,Landon,n
+558,555,text,"on June 09, 2019",n
+560,222,p,"Awesome, but you forgot belts and backpacks",n
+561,222,p,,n
+563,561,strong,Name,n
+564,561,text,"on June 06, 2019",n
+566,222,p,Add your comment... this is helping on my school writing paper thank you very much,n
+567,222,p,,n
+569,567,strong,br beast,n
+570,567,text,"on June 04, 2019",n
+572,222,p,do you want to make a vid?,n
+573,222,p,,n
+575,573,strong,play fairly peeps,n
+576,573,text,"on June 03, 2019",n
+578,222,p,wow cool!,n
+579,222,p,,n
+581,579,strong,yah yeet,n
+582,579,text,"on June 01, 2019",n
+584,222,p,thank you dog,n
+585,222,p,,n
+587,585,strong,anomous,n
+588,585,text,"on May 24, 2019",n
+591,222,p,,n
+593,591,strong,Chris,n
+594,591,text,"on May 23, 2019",n
+597,222,p,,n
+599,597,strong,coolguy,n
+600,597,text,"on May 15, 2019",n
+602,222,p,this is awesome,n
+603,222,p,,n
+605,603,strong,kermit the frog,n
+606,603,text,"on May 14, 2019",n
+608,222,p,I like this thank you for helping me find a way to get the right stuff it was a really hard problem.,n
+609,222,p,,n
+611,609,strong,guy guy,n
+612,609,text,"on May 13, 2019",n
+615,222,p,,n
+617,615,strong,guyguy,n
+618,615,text,"on May 10, 2019",n
+621,222,p,,n
+623,621,strong,Cole,n
+624,621,text,"on May 07, 2019",n
+626,222,p,This all was very helpful thank you very much. A lot of this is very interesting. I was wondering what you were going to say for the cup lol.,n
+627,222,p,,n
+629,627,strong,banana guy,n
+630,627,text,"on May 03, 2019",n
+632,222,p,this helps a lot!,n
+633,222,p,,n
+635,633,strong,baseball grains,n
+636,633,text,"on April 16, 2019",n
+638,222,p,hoped you enjoyed,n
+639,222,p,,n
+641,639,strong,Ethan cool guy,n
+642,639,text,"on April 14, 2019",n
+644,222,p,i'm starting base ball next week,n
+645,222,p,,n
+647,645,strong,Jayden Martinez,n
+648,645,text,"on April 01, 2019",n
+650,222,p,It helped me right the equipment you need,n
+656,222,p,Whats the authors name?,n
+663,222,p,,n
+665,663,strong,travis,n
+666,663,text,"on February 27, 2019",n
+668,222,p,thanks,n
+669,222,p,,n
+671,669,strong,Keyvonte,n
+672,669,text,"on February 12, 2019",n
+674,222,p,Thanks I needed to write a speech about baseball.Im sure this will help,n
+675,222,p,,n
+677,675,strong,Ethan,n
+678,675,text,"on January 30, 2019",n
+680,222,p,Thank you this really helped,n
+681,222,p,,n
+683,681,strong,chazo,n
+684,681,text,"on January 29, 2019",n
+686,222,p,thank you i needed this,n
+690,222,p,"on December 02, 2018",n
+692,222,p,"Awesome Kyle! Glad it helped, and hope you got a good grade on your paper!",n
+693,222,p,,n
+695,693,strong,Kyle,n
+696,693,text,"on November 30, 2018",n
+698,222,p,This helped me write my first high school paper and was very helpful! :,n
+699,222,p,,n
+701,699,strong,Julian,n
+702,699,text,"on November 28, 2018",n
+704,222,p,Thanks this really helped me because i needed to write a book about baseball i really,n
+707,222,p,Ben,n
+710,222,p,thanks,n
+713,222,p,Christian,n
+720,222,p,"on September 06, 2018",n
+722,222,p,Thanks,n
+723,222,p,,n
+725,723,strong,Kyle Keizer,n
+726,723,text,"on September 04, 2018",n
+728,222,p,thank you,n
+734,222,p,Thanks,n
+737,222,p,jeff,n
+740,222,p,thank you you helped me do my research,n
+746,222,p,Thanks Luna! Glad this helped you with your paper!,n
+749,222,p,luna,n
+752,222,p,it's a good sport to play and it helped me a lot with my research paper.,n
+753,222,p,,n
+755,753,strong,ezekiel,n
+756,753,text,"on May 25, 2018",n
+758,222,p,im wonderful,n
+759,222,p,,n
+761,759,strong,jone smocks,n
+762,759,text,"on May 08, 2018",n
+764,222,p,baseball is a really good sport kids dont give up on it,n
+765,222,p,,n
+767,765,strong,Zackary,n
+768,765,text,"on April 14, 2018",n
+770,222,p,This was good evidence,n
+771,222,p,,n
+773,771,strong,guy,n
+774,771,text,"on March 19, 2018",n
+777,222,p,,n
+779,777,strong,Jeff McCringgleBerry,n
+780,777,text,"on February 12, 2018",n
+782,222,p,Thx i needed this,n
+783,222,p,,n
+785,783,strong,stuckbutt kimbod,n
+786,783,text,"on February 07, 2018",n
+788,222,p,wow very nice very nice indeed thank,n
+790,222,p,"in order i got this i had sell wife for entirewebs, but becuse i sold wife i can now play base ball thak very much indeed",n
+791,222,p,,n
+793,791,strong,HMS,n
+794,791,text,"on January 11, 2018",n
+796,222,p,"Thank you, i needed this i am writing a research paper about BaseBall!",n
+797,222,p,,n
+799,797,strong,Alex,n
+800,797,text,"on January 08, 2018",n
+802,222,p,thanks im writing a report,n
+803,222,p,,n
+805,803,strong,Maxine,n
+806,803,text,"on November 25, 2017",n
+808,222,p,thanks so much really needed this,n
+809,222,p,,n
+811,809,strong,Robert,n
+812,809,text,"on November 13, 2017",n
+815,222,p,,n
+817,815,strong,Garen,n
+818,815,text,"on November 07, 2017",n
+820,222,p,Thanks,n
+821,222,p,,n
+823,821,strong,bell,n
+824,821,text,"on November 02, 2017",n
+826,222,p,thank you,n
+827,222,p,,n
+829,827,strong,nunofyourbuisness45,n
+830,827,text,"on October 31, 2017",n
+832,222,p,thank,n
+833,222,p,,n
+835,833,strong,coolj23,n
+836,833,text,"on May 10, 2017",n
+838,222,p,information,n
+839,222,p,,n
+841,839,strong,Billy Johnson,n
+842,839,text,"on April 04, 2017",n
+844,222,p,I like Trains.,n
+847,222,p,i your daddy,n
+850,222,p,mmmmmm i like this,n
+853,222,p,Fdjdjdf,n
+856,222,p,Hi I like baseball,n
+857,222,p,,n
+859,857,strong,fred,n
+860,857,text,"on December 05, 2016",n
+862,222,p,I like baseball.,n
+863,222,p,,n
+865,863,strong,Matthew tucker,n
+866,863,text,"on January 21, 2016",n
+868,222,p,this article,n
+880,212,h2,Related Articles,n
+882,212,phoenix-hub,,n
+884,882,phoenix-non-personalized-recommendations-tracking,,n
+896,884,phoenix-super-link,,n
+899,896,phoenix-ellipsis,Baseball,n
+902,896,phoenix-ellipsis,Did you realize that the game of baseball has many rules? Some of them are quite strange. Here are five of the strangest and whackiest rules in the sport of baseball.,n
+921,884,phoenix-super-link,,n
+924,921,phoenix-ellipsis,How to Make Your Varsity High School Baseball Team,n
+927,921,phoenix-ellipsis,"If you're planning on making a run at your high school's varsity baseball team, here are some tips to improve your chances.",n
+946,884,phoenix-super-link,,n
+949,946,phoenix-ellipsis,Tips,n
+952,946,phoenix-ellipsis,"When tryouts are close, anxiety levels rise, and kids around the country head out to earn their spot. Here are some tips on lowering the stress and increasing your chances of looking good!",n
+959,946,div,"May 19, 2022",n
+983,884,phoenix-super-link,,n
+986,983,phoenix-ellipsis,Travel Baseball?,n
+989,983,phoenix-ellipsis,Baseball players often have to decide whether to play travel baseball or to stick with recreational teams. Here are some advantages to travel baseball!,n
+1008,884,phoenix-super-link,,n
+1011,1008,phoenix-ellipsis,5 Best Books,n
+1014,1008,phoenix-ellipsis,"There are many great books to read for baseball coaches, but which are the best? Here are five of the greatest books to read for current or future baseball coaches.",n
+1033,884,phoenix-super-link,,n
+1036,1033,phoenix-ellipsis,a Baseball Field?,n
+1039,1033,phoenix-ellipsis,"The dimensions of a baseball field vary by the age and skill level of the players. Here's a guide to just how big a baseball field is, and why so many ballparks are shaped so differently.",n
+1058,884,phoenix-super-link,,n
+1061,1058,phoenix-ellipsis,How to Find the Best Travel Baseball Team,n
+1064,1058,phoenix-ellipsis,"Finding the best travel baseball team can be a real challenge for players and parents. There are numerous organizations competing for your talent and your money, and it's difficult to know how to make the right choice. Follow these tips to find the best select baseball organization for you.",n
+1083,884,phoenix-super-link,,n
+1086,1083,phoenix-ellipsis,How to Make a Practice Plan,n
+1089,1083,phoenix-ellipsis,"Every good baseball practice starts with a solid practice plan. In youth baseball, it's particularly important to establish good habits early by implementing well-designed practice plans. Here are some tips to get you started!",n
+1099,882,phoenix-non-personalized-recommendations-tracking,,n
+1111,1099,phoenix-super-link,,n
+1114,1111,phoenix-ellipsis,Facts About A-Rod's Salary,n
+1117,1111,phoenix-ellipsis,We all know that Alex Rodriguez makes a ton of money. But check out these amazing facts about his salary!,n
+1136,1099,phoenix-super-link,,n
+1139,1136,phoenix-ellipsis,8 Tips on How to Hit More Home Runs,n
+1142,1136,phoenix-ellipsis,"Chicks dig the long ball, or so it's been said. Read more to find out how to hit more home runs, and increase your power at the plate.",n
+1161,1099,phoenix-super-link,,n
+1164,1161,phoenix-ellipsis,All Time,n
+1167,1161,phoenix-ellipsis,"We examine some of the true powerhouses of baseball, the best hitters of all time: Ty Cobb, Rogers Hornsby, Jimmie Foxx, Stan Musial, Mickey Mantle, Frank Robinson, Hank Aaron, and Barry Bonds.",n
+1171,1161,div,By James A Watkins,n
+1198,1099,phoenix-super-link,,n
+1201,1198,phoenix-ellipsis,What to Wear,n
+1204,1198,phoenix-ellipsis,"When playing baseball, it's important to dress for the diamond. Not sure what to wear, or how to dress your child? If you aren't sure what to get for yourself or your little athlete, check out the suggestions in this article to get your bases covered!",n
+1208,1198,div,By David,n
+1223,1099,phoenix-super-link,,n
+1226,1223,phoenix-ellipsis,Understanding Baseball's Unique Words and Phrases,n
+1229,1223,phoenix-ellipsis,"From April through October, it’s baseball season! The announcers can make it confusing, but whether you’re new to the game or an ""old pro,"" baseball is a language we can all speak fluently.",n
+1233,1223,div,By Teri Silver,n
+1248,1099,phoenix-super-link,,n
+1251,1248,phoenix-ellipsis,10 Players You Forgot Played,n
+1254,1248,phoenix-ellipsis,"Some baseball players spend their entire career with one franchise, while others make a quick stop with a team along the way. Many of the latter are forgotten by fans, so in this article, I will look back on 10 players you forgot played for the Cleveland Indians.",n
+1256,1248,div,,n
+1258,1256,span,By Andrew Harner,n
+1261,1256,span,"May 30, 2022",n
+1273,1099,phoenix-super-link,,n
+1276,1273,phoenix-ellipsis,10 Baseball Awards You Have Probably Never Heard Of,n
+1279,1273,phoenix-ellipsis,Baseball has a rich tradition of presenting awards to deserving players and teams. Here is a list of 10 baseball awards that you probably didn't know existed.,n
+1283,1273,div,By Tom Lohr,n
+1289,882,phoenix-footer-loader,,n
+1291,1289,div,Loading…,n
+1293,1289,div,See More,n
+1307,212,div,"© 2022 The Arena Media Brands, LLC and respective content providers on this website. HubPages® is a registered trademark of The Arena Platform, Inc. Other product and company names shown may be trademarks of their respective owners. The Arena Media Brands, LLC and respective content providers to this website may receive compensation for some links to products and services on this website.",n

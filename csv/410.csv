@@ -1,0 +1,212 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+12,0,div,},n
+18,0,div,,n
+21,18,div,,n
+23,21,div,Trending,n
+25,21,ul,,n
+27,25,li,Hickstead Derby,n
+29,25,li,3 magazines,n
+31,25,li,In this week’s H and H,n
+33,25,li,The H and H Podcast,n
+35,25,li,Rider confidence course,n
+37,25,li,living,n
+39,25,li,Horses,n
+41,25,li,Sell your horse,n
+49,18,div,,n
+52,49,ul,,n
+54,52,li,Home,n
+56,52,li,Buyers' guides,n
+57,49,div,,n
+62,57,div,,n
+66,62,li,Learning to ride,n
+74,62,li,"Horse and Hound is supported by its audience. When you purchase through links on our site, we may earn commission on some of the items you choose to buy. Learn more",n
+77,62,p,"If you’re wondering what to wear to go horse riding you’ve come to the right place. We’ve put together this simple guide to essential clothing and equipment to make sure you’ll be safe in the saddle – and looking the part, too.",n
+78,62,p,,n
+79,78,text,The two essential items you will need are a,n
+81,78,strong,well-fitting riding hat,y
+82,78,text,that carries the correct safety standards and a,n
+84,78,strong,boots,y
+85,78,text,with a smooth sole and a small heel. We would also recommend investing in a pair of,n
+87,78,strong,riding gloves,y
+88,78,text,and a,n
+90,78,strong,body protector,y
+91,78,text,in order,n
+137,62,p,,n
+138,137,text,"You may also find you are more comfortable in the saddle if you’re wearing a pair of jodhpurs, breeches or riding tights – these are all types of",n
+140,137,strong,riding trousers,y
+141,137,text,– rather than jeans or jogging bottoms.,n
+143,62,p,"There is no need to go for the most expensive and technical products out there immediately, as long as the items fit well and meet all the safety requirements. Here are some of our suggestions to help you get started…",n
+146,62,h2,Riding hats,y
+148,62,p,"Without wearing a correctly fitting safety hat or helmet, that meets the current safety standards, you should not get on board a horse. Many riding schools will provide hats for beginners to use, but if you’re going to ride regularly it’s better to have your own.",n
+159,62,p,"We recommend visiting a tack shop that has a professional BETA-trained hat fitter , who can advise you on which hat is best suited to your needs, but here are a few suggestions of hats that might suit the beginner rider to point you in the right direction. Plus, we’ve put together even more information about choosing a riding hat here , too.",n
+165,62,p,"As a beginner, it doesn’t matter which style of riding hat you choose – jockey skulls and peaked helmets are equally suitable. The main thing is that it fits your head and some styles are more suited to particular head shapes.",n
+168,62,h3,Charles Owen JS1 Pro jockey skull,n
+176,62,p,This hat is lightweight and has 10 ventilation slots to help keep your head cool – a sweaty head is a common problem for riders. It has a soft leather harness and suede padding under the chin for added comfort. It also carries a number of safety standards. It would be worth investing in a hat silk to avoid the “egg head” look.,n
+179,62,p,View now at naylors.com or elandlodge.com,n
+187,62,h3,Champion X-Air Plus riding hat,n
+195,62,p,This hat will give you a smart look without the need of a hat silk. It also meets plenty of safety standards and has a ventilation system as well as a padded synthetic suede harness.,n
+198,62,p,View now at naylors.com or equus.co.uk,n
+204,62,h2,Footwear,y
+206,62,p,"A horse standing on your toe is painful and can cause significant damage if you aren’t wearing suitable boots. It’s also really important that your boots don’t have too much grip, but have a small heel to prevent your foot slipping through the stirrup.",n
+208,62,p,"There are two main types of horse riding boots – long boots or short boots . A long riding boot prevents rubbing on your inside leg, but new riders can find long boots quite restrictive – plus they tend to be more expensive. Ankle-length jodhpur boots allow more flexibility at the ankle and are commonly worn with soft half chaps or gaiters to prevent rubbing on the inside of the calf.",n
+216,62,p,Hy short boots and chaps would be a safe bet,n
+219,62,h3,Hy Equestrian York synthetic combi leather zip jodhpur boots,n
+221,62,p,Colours,n
+228,62,p,"A smart synthetic boot featuring a spur rest and cambrill lining. Designed with a heel grip rubber sole, zip up fastening, elasticated sides and a pull tag to help slide the foot in. Smart enough for formal events but practical enough for everyday use!",n
+231,62,p,View now at viovet.co.uk,n
+235,62,h3,Hy Equestrian synthetic combi leather half chaps,n
+237,62,p,Colours,n
+244,62,p,"These synthetic, leather effect chaps have an elasticated panel for a snug fit, and an additional panel at the front that allows them to easily slide over your boots. They also have a soft, fleece-style lining for extra protection, and a strong elasticated press stud fastening around the ankle. Also available in child sizes .",n
+249,62,p,View now at viovet.co.uk or rideawaystore.com,n
+255,62,h2,Riding trousers,y
+257,62,p,"When choosing the right pair of jodhpurs or breeches , you should prioritise how they are going to feel sitting in a saddle – how they look walking around should come second. Breeches are normally worn with long boots, while jodhpurs have a slightly different cut and are better with short boots.",n
+261,62,p,"We advise buying a pair that are made of a stretchy fabric with added grip in the relevant places like the knee and under your bottom. When starting out you can choose any colour, but we recommend avoiding white, beige or cream as these are normally worn for competition and hard to keep clean. Riding tights and leggings have become very popular in recent years, but these can be quite slippy – especially if they don’t have added grip – so breeches or jodhpurs are a safer bet.",n
+264,62,h3,HyPerformance Diesel knee-patch ladies’ jodhpurs,n
+268,62,p,£25.99 |,n
+270,62,p,"Designed to look a bit like jeans, these jodhpurs are great if you fancy yourself as a stylish rider but don’t want to spend the big bucks. They also have knee patches, which offer a little extra grip. Also available in children’s sizes .",n
+279,62,h3,Shires Aubrion Northwick ladies’ breeches,n
+285,62,p,"These breeches are smart and stylish, with belt loops and stretchy lower leg cuffs, which help to keep things comfortable under your boots. They also have silicone seat and knee grips, which help to keep you still in the saddle. Also available in children’s sizes .",n
+290,62,p,"View now at naylors.com , equus.co.uk or rideawaystore.com",n
+298,62,h3,Fouganza 500 men’s jodhpurs,n
+304,62,p,These jodhpurs are smart and have belt loops and knee grips. They’re great if you’re just getting started.,n
+307,62,p,View now at decathlon.co.uk,n
+311,62,h3,Shires SaddleHugger gents’ breeches,n
+315,62,p,£31.99 |,n
+317,62,p,"These are made of a four-way stretch knitted fabric for a good, comfortable fit. They are generously cut with flat front, belt loops and touch close leg fastenings.",n
+324,62,h2,Riding gloves,y
+326,62,p,"Seasoned riders often end up with callous hand, particularly between the little and ring finger, which is where the rein passes. To avoid blisters and to keep your hand clean and soft, we recommend you wear a pair of riding gloves . If you would like to take this option, it’s worth investing in a pair of gloves that are manufactured specifically for horse riding. They will be stretchy, grippy and reinforced in the areas where you hold the reins, but thin enough that you’ll be able to have a good feel of what you’re doing.",n
+331,62,h3,Shires Newbury gloves,n
+335,62,p,From £3.50 |,n
+337,62,p,"colours and sizes, and are perfect",n
+340,62,p,"View now at amazon.co.uk , rideawaystore.com or naylors.com",n
+348,62,h2,Body Protector,y
+350,62,p,"A body protector is designed to absorb the impact from a fall or kick from a horse and often makes an inexperienced rider feel more confident, too. Just as with riding hats, this type of safety equipment needs to be fitted by a BETA-trained retailer. Look out for the BETA level 3 2009 standard or 2018 standard – these show that your body protector meets all the requirements of the European standard.",n
+352,62,p,"We advise you get one professionally fitted, but here are a couple of suggestions to point you in the right direction and we’ve put together some more information about choosing a body protector here .",n
+357,62,h3,Champion Titanium Ti22,n
+359,62,p,Fit,n
+370,62,p,"This body protector has a flexible segmented body, which makes it easier to move in, and it is made of a military grade outer mesh and ultra-lightweight foam, so you’ll be comfortable as well as safe.",n
+373,62,p,"View now at naylors.com , equus.co.uk , elandlodge.com or naylors.com",n
+383,62,p,You might also like,n
+384,62,section,,n
+385,384,article,,n
+388,385,div,Library image. Credit,n
+391,385,p,Looking to start horse riding? Find out all you need to know right here...,n
+392,384,article,,n
+395,392,div,Credit,n
+398,392,p,While some of us can’t even remember the first time we sat on a horse — we just know that,n
+403,384,p,"“They closed the borders at midnight, and if your flight landed after that, you were sent away”",n
+411,384,div,Credit,n
+422,62,div,,n
+438,422,div,Avoiding Online Scammers,n
+459,422,div,More Videos,n
+463,422,div,,n
+465,463,span,"2 minutes, 28 seconds",n
+467,463,span,Volume 0%,n
+468,422,div,,n
+471,468,span,keyboard shortcuts,n
+472,468,div,,n
+473,472,div,,n
+475,473,span,Keyboard Shortcuts,n
+476,473,button,,n
+479,476,span,Enabled,n
+481,476,span,Disabled,n
+483,472,div,,n
+484,483,div,,n
+486,484,span,Play or Pause,n
+488,484,span,SPACE,n
+489,483,div,,n
+491,489,span,Increase Volume,n
+493,489,span,↑,n
+494,483,div,,n
+496,494,span,Decrease Volume,n
+498,494,span,↓,n
+499,483,div,,n
+501,499,span,Seek Forward,n
+503,499,span,→,n
+504,483,div,,n
+506,504,span,Seek Backward,n
+508,504,span,←,n
+509,483,div,,n
+511,509,span,Captions On or Off,n
+513,509,span,c,n
+514,483,div,,n
+516,514,span,Fullscreen or Exit Fullscreen,n
+518,514,span,f,n
+519,483,div,,n
+521,519,span,Mute or Unmute,n
+523,519,span,m,n
+526,483,div,Seek %,n
+532,422,div,,n
+546,532,div,,n
+548,546,div,Next Up,n
+550,546,div,How Much Does It Cost To Keep A Horse?,n
+552,546,div,01:54,n
+563,532,div,,n
+565,563,button,facebook,n
+567,563,button,twitter,n
+569,563,button,Email,n
+570,563,div,,n
+572,570,button,Link,n
+574,570,textarea,https,n
+578,563,div,,n
+580,578,button,Embed,n
+582,578,textarea,"<iframe src="" or or cdn.jwplayer.com or players or 7ox1HtdR-KMUcnRiI.html"" width=""640"" height=""360"" frameborder=""0"" scrolling=""auto"">< or iframe>",n
+599,532,div,,n
+629,599,div,Live,n
+631,599,div,00:00,n
+659,62,p,"Horse and Hound magazine, out every Thursday, is packed with all the latest news and reports, as well as interviews, specials, nostalgia, vet and training advice. Find how you can enjoy the magazine delivered to your door every week, plus options to upgrade your subscription to access our online service that brings you breaking news and reports as well as other benefits.",n
+778,57,div,,n
+781,778,h2,You may like...,n
+783,778,ul,,n
+790,783,li,7 things you wish you’d been told when you were learning to ride,n
+797,783,li,14 things your trainer might have said — warning,n
+804,783,li,a horse lover’s life,n
+834,18,div,,n
+836,834,ul,,n
+839,836,li,What's in Horse and Hound,n
+842,836,li,Find nearest Horse and Hound stockist,n
+845,836,li,Horse and Hound - iPad Edition,n
+848,836,li,Horse and Hound digital magazine,n
+851,836,li,About Us,n
+854,836,li,Contact Us,n
+857,836,li,Privacy Policy,n
+862,834,div,"© Future Publishing Limited Quay House, The Ambury, Bath BA1 1UA. All rights reserved. England and Wales company registration number 2008885.",n
+863,834,ul,,n
+866,863,li,Facebook,n
+869,863,li,Instagram,n
+872,863,li,Twitter,n
+875,863,li,YouTube,n
+878,863,li,Pinterest,n
+894,0,div,",""colors"":}",n
+921,0,div,,n
+922,921,div,,n
+925,922,div,More stories to check out before you go,n
+930,922,div,Keep on reading,n
+934,921,div,,n
+944,934,div,,n
+969,944,div,,n
+971,969,span,‘A dream come true’,n
+973,969,span,Brendon Stud HicksteadHickstead Derby,n
+988,944,div,,n
+990,988,span,Rider borrows ‘gentle giant’ stallion from husband’s string to win Hickstead young horse title,n
+992,988,span,Hickstead,n
+1007,944,div,,n
+1009,1007,span,‘There’s nothing worse than seeing a jockey over-riding their horse’: Meet Royal Windsor coloured judge Vincent Seddon,n
+1011,1007,span,Royal Windsor Horse Show,n
+1048,934,div,,n
+1050,1048,span,Meet the 12 Royal Windsor M and M breed in-hand champions,n
+1052,1048,span,Native breedsRoyal Windsor Horse Show,n
+1069,921,div,,n
+1077,1069,div,Zara Tindall’s in action this week – plus John Whitaker and Charlotte Dujardin: find out where and when,n
+1090,1069,div,,n
+1092,1090,span,David Broome’s Hickstead Derby memories,n
+1094,1090,span,David Broome Hickstead DerbyTop stories,n
+1106,1069,div,,n
+1108,1106,span,"The first-time Badminton horse who hates being caught, has a ‘chequered history’ and who only started eventing in 2019",n
+1110,1106,span,Badminton Horse Trials,n
+1154,921,div,,n
+1159,1154,div,Psoriasis.vip | Search Ads,n
+1162,1154,span,,n
+1164,1162,span,What is Scalp Psoriasis? Causes and Symptoms That Shouldn’t Be Ignored!,n
+1168,1162,span,Psoriasis.vip | Search Ads,n

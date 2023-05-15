@@ -1,0 +1,115 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+34,1,div,,n
+38,34,h1,10 Best Home Workout Equipment,n
+39,34,div,,n
+40,39,div,,n
+44,40,text,|,n
+46,40,span,"Nov 18, 2021",n
+49,39,div,528 Views,n
+65,1,div,,n
+66,65,div,,n
+68,66,div,,n
+71,68,p,"When it comes to pandemic and being quarantined, in-home stress and anxiety come without saying. Millions of emotions arise during Covid. The uncertainty spread due to this deadly virus has been the ultimate reason why so many people aren't still over the stress of Covid. Some lost their loved ones; some lost their business, while some are still reluctant to step outside the pre-Covid normal life. Don't know if that exists even more.",n
+74,68,p,"That being said, many types of research highlight and focus on the importance of physical activity during the pandemic. Exercise alone can set happy hormones in the bloodstream and also improve the immunity of the body. Exercising is a great way to combat depression and stress, but gyms being closed and not safe anymore, exercise is also compromised.",n
+75,68,p,,n
+77,75,span,"Hence the need for the best home workout equipment. Many types of research saw an upsurge in the sales of the home gym equipment list; hence,",n
+78,75,text,"home gym equipment is one of the most common purchases of today. Though a home workout equipment set, no doubt is a big expense, but with the right list and items to buy, you can make wise purchases.",n
+82,68,p,Keep reading to get your hands on the finest and most needed home workout equipment essentials.,n
+84,68,h2,Treadmill,y
+86,68,p,,n
+88,86,span,the,n
+89,86,text,"best home workout equipment is the treadmill. When we hear the word treadmill, a giant machine that speeds up your heart rate comes to mind. Well, the latter is true in this case, but since the world is all about compactness, the Autonomous Treadly 2 Slim treadmill takes the lead. Known for its compact design and ability to be folded into a small rectangle shape, this treadmill is ideal for indoor gym adventures. You can keep it in your home office setup or right beside your bed to sweat early in the morning. Comes with Wi-Fi and Bluetooth connectivity, this treadmill is also one of the smartest choices you will make.",n
+95,68,h2,Elliptical,y
+98,68,p,The NordicTrack Commercial has everything,n
+100,68,h2,Balance Board,y
+102,68,p,,n
+104,102,span,"Though this product might seem like not doing a lot, would you mind burning some calories while working? This",n
+105,102,text,"balance board for standing desks from Autonomous is everything you need for those who find it hard to allocate separate time to work out. Made to encourage micro-movements, this flow or balance board burns calories and also improves heart health. It lowers the blood cholesterol level and regulates sugar after meals.",n
+108,68,h2,Adjustable Weight Bench,y
+111,68,p,"There's no question that the FLY BIRD Adjustable Weight Bench is a must-have for any home gym, with thousands of positive online reviews, more than half of which are five stars.",n
+114,68,p,"The bench is easily adjustable for a full-body workout, with six back and four-seat configurations. You won't have to worry about tearing or breaking very soon because it's built of high-quality steel and long-lasting leather.",n
+117,68,p,"The bench is also foldable, completely constructed, and capable of supporting up to 600 pounds for a safe and stable workout.",n
+119,68,h2,Indoor Cycling,y
+121,68,p,,n
+123,121,span,"This is one of the best home workout equipment you must have. Cycling outdoors was a fun experience when kids but not most of us get time to ride on a cycle until it's too late at night, and for people living near busy streets, cycling is no longer therapy. But this",n
+124,121,text,"indoor cycling bike by Office is your one-stop solution. Get it from the trusted Autonomous and enjoy high levels of intensity adjusted as per your choice. You can also work with multiple inclines, and this cycle is both fun and easy to use. And the most amazing part? It isn't even that expensive.",n
+127,68,h2,Tempo Studio,y
+130,68,p,"Missing your gym a bit too much? Some people need the right motivation to kill those abs. The Tempo Studio smart home gym isn't cheap, but it's a great investment. There's a lot to like about the Tempo Studio if you enjoy making your weight-training routines more fun.",n
+133,68,p,"The Tempo Studio, like Mirror, Tonal, and Vault, is a huge mirror-like device with a screen that displays both live and recorded exercises. Dumbbells and an exercise mat are among the provided supplies. The 3D motion sensors that scan your body while you exercise and suggestions to enhance your form set the Tempo apart from the competition.",n
+135,68,h2,Rowing Machine,y
+137,68,p,,n
+139,137,span,Here is another piece in the list of the best home workout equipment. Rowing machines aren't the most thrilling piece of,n
+140,137,text,"home exercise equipment , but they get the job done regarding cardio and muscle toning. It works your legs, arms, back, and core all at the same time. Rowing also has a lesser impact than running, which means your knees and ankles will be saved.",n
+144,68,p,"The Sunny Health and Fitness Rowing Machine includes various resistance levels and an LCD that shows time, count, and calories burnt. Maximum comfort is provided by the completely padded seat and non-slip handles.",n
+146,68,h2,Portable Gym Equipment,y
+150,68,p,"You might have heard of the gym, obviously but portable gym? Well, that's new! Not only is it new but also it is great. A body gym bag from Autonomous covers all the necessary items you need for a basic workout. Whether out for work or on vacation, don't feel any guilt about consuming those extra calories. Wherever you go, this body gym bag goes with you and pumps you with motivation.",n
+151,68,p,,n
+153,151,span,You get the essential,n
+154,151,text,"resistance band bar that can be used in two different settings, and you can perform more than 100 strength training exercises with it.",n
+157,68,h2,Punching Bag,y
+160,68,p,"A freestanding heavy bag and some boxing gloves are a terrific investment if you enjoy boxing, kickboxing, or mixed martial arts .",n
+163,68,p,This FITVEN punching bag is both flexible and robust. It's also meant to absorb shock and minimize noise better than its competitors due to a network of springs.,n
+166,68,p,"It's also freestanding, which means you won't have to bother about fastening it to your ceiling.",n
+168,68,h2,Fitness Watch,y
+170,68,p,,n
+172,170,span,"What's your excuse to skip a workout? Do you forget? Well, not anymore! With this fitness watch from Autonomous, the smart band will keep your body and mental wellness in check. Available in cool colors, the",n
+173,170,text,"smart fitness watch offers accurate calorie tracking. You will also get a reminder to drink water, and whatever protein shakes you need. Your sleep analysis will also be done, and the pulse measurement helps you relax when checking those work emails.",n
+180,66,div,,n
+182,180,div,,n
+184,182,div,"Hey, you have special pricing through your company.",n
+188,182,div,,n
+189,188,form,,n
+193,189,div,Enter your email,n
+195,189,button,Sign in,n
+199,188,div,Sign in with Google,n
+203,180,div,,n
+205,203,h2,Get exclusive rewards,n
+207,203,p,for your first Autonomous blog subscription.,n
+208,203,form,,n
+211,208,div,,n
+212,211,text,Enter your email,n
+214,211,span,*,n
+217,208,span,Subscribe,n
+218,180,div,,n
+220,218,h3,POPULAR TAGS,n
+221,218,ul,,n
+224,221,li,#Ergonomic Office,n
+227,221,li,#Standing Desk,n
+230,221,li,#Ergonomic Chair,n
+233,221,li,#Modern Office,n
+236,221,li,#Smart Office,n
+258,65,ul,,n
+261,258,li,#Home Office,n
+264,258,li,#Work from Home,n
+267,258,li,#Fitness Watch,n
+270,258,li,#Resistance Band Bar,n
+273,258,li,#Indoor Exercise Bike,n
+276,258,li,#Health Tips,n
+297,65,div,,n
+299,297,p,WRITTEN BY,n
+303,297,p,We build office products to help you work smarter.,n
+305,1,div,,n
+309,305,p,You May Also Like,n
+310,305,div,,n
+317,310,div,,n
+320,317,text,The 20 Best Red Gaming Chairs,n
+321,317,div,,n
+323,321,span,"Autonomous | Jun 26, 2022",n
+325,321,span,42 views,n
+332,310,div,,n
+335,332,text,Inspire Your Gaming Experience with These Top 20 Black Gaming Chairs,n
+336,332,div,,n
+338,336,span,"Autonomous | Jun 25, 2022",n
+340,336,span,25 views,n
+347,310,div,,n
+350,347,text,4 Best Modern Wood Executive Office Desks You’ll Love,n
+351,347,div,,n
+353,351,span,"Autonomous | Jun 24, 2022",n
+355,351,span,15 views,n
+362,1,h3,Coming at You Live from Autonomous’ Social Media!,n
+369,1,div,,n
+371,369,div,Home,n
+375,369,div,Ourblog,n
+380,369,div,10 Best Home Workout Equipment,n

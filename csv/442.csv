@@ -1,0 +1,177 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,Home or Smart Home,n
+7,0,div,,n
+11,7,div,Getty Images or Tarik Kizilkaya,n
+12,7,div,,n
+14,12,div,,n
+18,14,p,"One way to build out a smart home is to buy lots of components—sensors, smart bulbs, security cameras, speakers, and whatnot—and connect them all to a hub that helps them communicate with each other and with you, via your smartphone. But let’s be real: That can involve spending a lot of money and investing a lot of time. And for some people, it’s just overkill. If your wants and needs are simpler, just a few relatively inexpensive products will deliver most of the conveniences a high-end smart home can deliver, and on a much more modest budget.",n
+20,14,p,"And if you make sure those smart home products are compatible with each other, you’ll build a solid foundation that you can expand over time. The key is knowing which smart home products don’t depend on a smart home hub to operate. While hubs offer advantages—the most important of which is having a single user interface to control everything—they’re not always essential. One thing you must have, however, is a good wireless router—ideally one that can reach all corners of your home.",n
+25,14,p,Here some a few common ways you can build a hub-free smart home system.,n
+28,14,h2,Smart lighting,y
+30,14,p,"For most people interested in living in a smart home, lighting is the entry point. Many smart lighting systems work perfectly well without a central hub and are still capable of interacting with other smart home elements–including smart speakers and displays, such as the Amazon Echo and Google Nest. Smart bulbs from Cree, LIFX, and TP-Link, for example, communicate over Wi-Fi, while some others—including the newest Philips Hue bulbs—communicate via the Bluetooth radio in your smartphone.",n
+36,14,div,,n
+66,36,div,,n
+68,66,span,"12 minutes, 26 seconds",n
+70,66,span,Volume 0%,n
+71,36,div,,n
+74,71,span,keyboard shortcuts,n
+75,71,div,,n
+76,75,div,,n
+78,76,span,Keyboard Shortcuts,n
+79,76,button,,n
+82,79,span,Enabled,n
+84,79,span,Disabled,n
+86,75,div,,n
+87,86,div,,n
+89,87,span,Play or Pause,n
+91,87,span,SPACE,n
+92,86,div,,n
+94,92,span,Increase Volume,n
+96,92,span,↑,n
+97,86,div,,n
+99,97,span,Decrease Volume,n
+101,97,span,↓,n
+102,86,div,,n
+104,102,span,Seek Forward,n
+106,102,span,→,n
+107,86,div,,n
+109,107,span,Seek Backward,n
+111,107,span,←,n
+112,86,div,,n
+114,112,span,Captions On or Off,n
+116,112,span,c,n
+117,86,div,,n
+119,117,span,Fullscreen or Exit Fullscreen,n
+121,117,span,f,n
+122,86,div,,n
+124,122,span,Mute or Unmute,n
+126,122,span,m,n
+129,86,div,Seek %,n
+135,36,div,,n
+154,135,div,,n
+166,154,div,,n
+169,166,div,Settings,n
+170,166,div,,n
+172,170,button,Off,n
+174,170,button,Automated Captions - en-US,n
+176,154,div,,n
+177,176,button,,n
+178,177,text,Font Color,n
+181,177,div,White,n
+184,176,button,Font Opacity,n
+190,176,button,Font Size,n
+195,176,button,,n
+196,195,text,Font Family,n
+199,195,div,Arial,n
+201,176,button,,n
+202,201,text,Character Edge,n
+205,201,div,None,n
+208,176,button,Background Color,n
+213,176,button,,n
+214,213,text,Background Opacity,n
+217,213,div,50%,n
+220,176,button,Window Color,n
+225,176,button,,n
+226,225,text,Window Opacity,n
+229,225,div,0%,n
+232,176,button,Reset,n
+262,154,div,,n
+264,262,button,200%,n
+266,262,button,175%,n
+268,262,button,150%,n
+270,262,button,125%,n
+278,154,div,,n
+280,278,button,Arial,n
+282,278,button,Courier,n
+284,278,button,Georgia,n
+286,278,button,Impact,n
+288,278,button,Lucida Console,n
+290,278,button,Tahoma,n
+292,278,button,Times New Roman,n
+294,278,button,Trebuchet MS,n
+296,278,button,Verdana,n
+298,154,div,,n
+300,298,button,None,n
+302,298,button,Raised,n
+304,298,button,Depressed,n
+306,298,button,Uniform,n
+308,298,button,Drop Shadow,n
+370,154,div,,n
+371,370,button,,n
+372,371,text,Auto,n
+374,371,span,270p,n
+376,370,button,1080p,n
+378,370,button,720p,n
+380,370,button,406p,n
+382,370,button,270p,n
+384,370,button,180p,n
+417,135,div,,n
+447,417,div,Live,n
+449,417,div,00:01,n
+451,417,div,12:24,n
+453,417,div,12:26,n
+470,14,p,"Some other smart bulbs rely on Zigbee or Z-Wave radios and therefore depend on a bridge to connect to your home network. You can control any of these smart bulbs with an app on your smartphone or tablet, which you can also use to program lighting scenes and schedules, but you’ll do so via the hub versus a direct connection to the bulbs.",n
+476,14,div,,n
+479,476,h3,Philips Hue White and Color Ambiance A19,n
+487,476,div,,n
+492,487,div,$49.99,n
+496,487,div,,n
+497,496,text,$44.99 at Amazon,n
+500,496,text,$49.99 at Home Depot,n
+503,496,text,$54.99 at Best Buy,n
+505,14,p,"If most of your home’s lighting is in the ceiling and controlled by a switch on the wall, you might be better served by replacing those dumb switches with smart switches and dimmers, instead. That’s because a smart bulb becomes dumb the instant you turn off the switch controlling it. Leviton, Lutron, TP-Link, Ecobee, and other manufacturers make smart light switches that operate on your Wi-Fi network and don’t require a central hub.",n
+507,14,p,"If you use lamps for most of your lighting, a smart plug such as the Lutron Caséta or Wemo Mini will enable you to turn the lamp on and off—and dim its dumb light bulb—with a smartphone app and according to a schedule.",n
+513,14,h2,Smart speakers and displays,y
+515,14,p,"What’s more convenient than pulling out your smartphone to dim the lights on movie night? Saying “dim the lights” and having a smart speaker linked to your smart lighting do it for you. The Amazon Echo series and Google Home series are the market leaders in this space. And while Amazon has held the lead for the past few years—it has a much larger installed base, has enjoyed much broader support, and had the only smart speakers with displays for a time—Google is coming on very strong.",n
+521,14,p,"You’ll increasingly find the two companies’ digital assistants—Amazon Alexa and Google Assistant—in unique third-party products. Ecobee puts the guts of an Echo in its excellent Ecobee SmartThermostat with voice control , while Lenovo was first to market with Google Home devices outfitted with displays .",n
+530,14,div,,n
+533,530,h3,Lenovo Smart Display,n
+541,530,div,,n
+546,541,div,$249.99,n
+551,541,div,$249.99 at Best Buy,n
+553,14,p,"And because these smart speakers have been so widely embraced by other smart home device manufacturers, they have become de facto hubs in their own right, serving as a central interaction point for everything from smart lights to home security cameras, displaying video feeds from the latter on connected TVs or their own displays, if equipped.",n
+556,14,p,"Don’t count Apple out of the smart home game. The company becoming a contender in this space thanks to its HomeKit ecosystem, and the company’s HomePod mini smart speaker —powered by Siri—can act as a smart home hub. Apple touts its commitment to privacy in its smart home pitch.",n
+560,14,h2,Smart thermostats,y
+562,14,p,"Few smart home devices can match a smart thermostat’s ability to deliver both comfort and cost or energy savings. These devices go far beyond establishing a heating and cooling schedule based on when you anticipate being home to enjoy those benefits. They can detect when you’re home and when you’re away, so that your HVAC system operates only when it’s needed.",n
+567,14,p,"The latest trend on this front is to equip thermostats with sensors that you can put in the rooms you occupy most frequently, so that the thermostat operates on the basis of where you are in the house, instead of triggering heating and cooling cycles based on the thermostat’s location, which is typically in a hallway you only ever pass through.",n
+569,14,p,The Ecobee SmartThermostat with voice control has a built-in Amazon Echo speaker and can respond to voice commands. It also has remote room sensors that help to eliminate hot and cold spots in your home. This high-end device can even serve as the hub for a broader smart-home or home-security system .,n
+575,14,p,"Nest also has some great thermostats, including the $129 Nest Thermostat , and Wyze Labs recently jumped into the market with a very inexpensive smart thermostat that deserves your consideration if those other models are outside your budget.",n
+582,14,h2,Home security cameras and video doorbells,y
+584,14,p,"A quality home security camera will enable you to keep a watchful eye on your home, especially while you’re away. Indoor models can help you monitor your children and pets, while outdoor models can catch prowlers in the act—and hopefully discourage them from coming around in the first place.",n
+589,14,p,"Some models—from Ring, Arlo, Netatmo, and Maximus—incorporate lights that can illuminate your way. Cameras incorporated into doorbells can monitor your porch and let you interact with visitors without needing to approach the door—or even be home at the time. The best models can discern between people and pets and recognize the presence of a package left at your door.",n
+593,14,div,,n
+596,593,h3,Ring Video Doorbell 4,n
+611,593,div,,n
+612,611,text,$199.99 at Home Depot,n
+615,611,text,$219.99 at Amazon,n
+617,14,h2,Multi-room audio systems,y
+619,14,p,"Sophisticated multi-room speaker systems from the likes of Sonos, Yamaha , and Denon are largely self-contained, enabling you to drop speakers in multiple rooms in your home so you can stream music from your own collection or from online services such as Spotify to all of them in sync, or to send different tracks to each one. Amazon Echo and Google Nest smart speakers can pull off the same tricks.",n
+622,14,p,"Several companies have soundbars in their collections, so you can improve your TV- and movie-watching experiences when you’re not listening to music. In each case, a smartphone or tablet is all you need to control everything. Some Sonos models even include Amazon Alexa and Google Assistant onboard, rendering them capable of controlling other smart home devices .",n
+626,14,h2,Smart smoke and carbon monoxide detectors,y
+628,14,p,"Conventional smoke and carbon monoxide detectors are inherently dumb devices. Their alarms might be loud, but if no one’s home to hear them, what good do they accomplish? A smart smoke detector will sound a local alarm, too, but it will also send an alert to your smartphone—and to anyone else you authorize as a contact—if danger is detected.",n
+634,14,p,"Some smart smoke alarms, such as the Nest Protect , incorporate emergency lights that can help you find your way out of a smoke-filled home; others, such as the First Alert Onelink Safe and Sound , include advanced features such as an integrated smart speaker. If money is an issue, consider a semi-smart smoke and CO detector such as the X-Sense XP01-W . This device doesn’t connect to your Wi-Fi network, so it can’t send alerts to your smartphone, but each one you deploy interconnects to the rest, so that if an alarm sounds in one room, all the other sensors will also fire off to enhance your family’s safety.",n
+642,14,h2,Smart Irrigation,y
+644,14,p,"Water is our most precious resource. A smart irrigation system can help ensure your lawn and garden get enough moisture to be healthy and vibrant without wasting any of it. And of all the smart home subsystems you can invest in, this might be the one that will benefit the least from being incorporated into a hub. Smart irrigation systems can also be complex, so using a purpose-built app is usually better anyway. Rachio builds our favorite products in this category, but Wyze Labs recently jumped in with a budget-priced competitor. If you don’t have an in-ground irrigation system, the Orbit B-Hyve hose-tap timer is just the ticket for drip irrigation systems and other types of hose-based watering.",n
+654,14,h2,A word about IFTTT,y
+657,14,p,"One of the most powerful ways of making disparate smart home devices work together is to open an IFTTT account. The acronym stands for “If This Then That,” a service in which an action by one device can trigger an asction on one or more other devices or services.",n
+661,14,p,"IFTTT is very much like having a smart home hub in the cloud, and it’s widely supported—and not just by smart home products and services.",n
+664,14,p,"IFTTT was once a free service , but it is no longer—at least, not exactly. With a no-cost IFTTT Standard account, you can use as many pre-existing IFTTT applets as you’d like—and there are thousands to choose from.",n
+667,14,p,"One, for example, will trigger your Philips Hue smart bulbs to flash when a timer you set on an Amazon Echo runs out. Expressed as an applet, this would be “When the timer on my Amazon Echo runs out” , then flash my Philips Hue smart bulbs .",n
+674,14,p,"A Standard account will, however, limit you to creating just three IFTTT applets from scratch. If you can’t find an applet that fits your needs, and you want to create more than three new ones, you’ll need to sign up for an IFTTT Pro account , which costs $5 per month. That allows you to create up to 20 applets, while a $10-per-month Pro+ expands that to an unlimited number of applets.",n
+679,14,p,IFTTT is super simple to use,n
+686,14,h2,Are you ready to start?,n
+688,14,p,"We’ve listed smart home components roughly in the order we think most people will go about installing them, but there is no hard and fast rule. If you think installing a smart smoke detector is a higher priority than smart lighting, go for it!",n
+690,14,p,"If you think you might want to invest in a smart home hub that will pull all these components together under a single user interface, just make sure all the bits and pieces you buy will work with one of the most common hubs: Aeotec’s smart home hub is based on the Samsung SmartThings platform, one of the most diverse smart home ecosystems out there. Other powerful systems, such as Ring Alarm and Ring Alarm Pro , are more focused on the security aspect of the smart home and have more limited third-party support. When in doubt, check the hub manufacturers’ websites to verify which devices each one works with.",n
+698,14,p,Including such compatibility in your buying criteria today will maximize the value of your initial smart home investments down the road.,n
+701,12,p,"When you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence .",n
+704,12,div,,n
+706,704,h3,Author,n
+708,704,div,,n
+712,708,p,"Christopher Null is a veteran technology and business journalist. He contributes regularly to TechHive, PCWorld, and Wired, and operates the websites Drinkhacker and Film Racket.",n
+717,708,div,,n
+719,717,h3,Recent stories by Christopher Null,n
+720,717,ul,,n
+722,720,li,Wyze Cam Outdoor review,n
+724,720,li,Ultraloq U-Bolt Pro WiFi review,n
+726,720,li,Best smart smoke detector to keep your home safe,n

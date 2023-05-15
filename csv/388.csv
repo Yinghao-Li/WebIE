@@ -1,0 +1,125 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+3,2,div,,n
+9,3,p,"3D printing industry has seen an accelerated growth in development over the years. From the massive and quite expensive 3D printers in the past, the models available today are more compact, affordable and easy to use. However, successful 3D printing does not only depend on the 3D printer itself. There are a variety of 3D printer accessories that play an important role when it comes to the quality of the final product.",n
+12,3,p,"With the right accessories, you can turn your average 3D printer into an incredible machine and you can be more assured that your prints will come out exactly as desired.",n
+16,3,p,"From removing support material to improving bed plate adhesion, here is a list of the top 15 3D printer accessories that will help you get the most of your 3D printer.",n
+22,3,p,Disclosure,n
+25,3,h2,Filament Storage Container,y
+29,3,p,Get it on Amazon or AliExpress or Banggood,n
+36,3,p,the most important accessories a 3D printer owner must possess is an appropriate filament storage container.,n
+42,3,p,"Most of the 3D printer owners don’t pay attention to that, which can lead to so many problems like clogging, bad layer adhesion, breakage, etc. That’s why it is very important to safely store your filaments in a moisture free environment.",n
+44,3,p,"The first option is a filament box, which keeps your filament dry, dust-free, and also dispenses filament. It has temperature and humidity sensor, and you can also print directly from the box.",n
+47,3,p,Vacuum Sealed Storage Containers,n
+58,3,p,"Another great option are vacuum sealed storage containers. They come in a pack of 5, which is pretty awesome.",n
+60,3,p,,n
+62,60,span,See Also,n
+66,60,span,The Best Affordable 3D Printers,n
+70,3,h2,Masking Tape,y
+79,3,p,"Masking tape is one of the most widely used 3D printing accessories. It is used to help each print adhere better to the print bed and is highly recommended. Furthermore, the finished print is much easier to remove from the bed as well as protect it from scratches.",n
+82,3,p,"Make sure you choose masking tape with a width of at least 5 cm . Having a wider tape means you’ll need fewer strips to cover your print bed, which will lead to better results.",n
+85,3,p,Alternative,n
+94,3,p,"Although masking tape has been widely used for covering print beds and is cheaper option, Kapton tape is much better in the long term since it handles high temperatures better. This tape also prevents severe warping resulting in a much better 3D print. Kapton tape can be combined with other products, such as hairspray for best results.",n
+98,3,h2,PVA Glue Stick,y
+107,3,p,"When 3D printing, it’s vital to ensure good adhesion of your print to the build plate. So, another way to increase plate adhesion is covering your print bed with washable glue stick. You can apply glue directly to your build plate and wipe it off easily with water.",n
+109,3,p,"This is one of the best bed adhesion solutions and works well with most materials, except for those prone to very high warpage like ABS and polycarbonate.",n
+111,3,p,It works pretty well and it can easily be found at a wide variety of stores and at a very reasonable price.,n
+115,3,p,Alternative,n
+122,3,p,Many people also recommend spraying the bed with hair spray. Using hairspray to add an extra layer of ‘stickiness’ to your print bed is a quick and easy process.,n
+124,3,p,But you must be careful with this method because using hairspray regularly and without proper care can damage your printer.,n
+131,3,h2,3D Print Removal Tool,y
+140,3,p,"Sometimes you might find that your 3D print has stuck to your build plate. A 3D print removal tool, or spatula, can easily solve this problem. All you need to do is to put it gently underneath the print and carefully lift it up. You can also use this tool for scraping off little bits of filament.",n
+142,3,p,"You probably got a one with your 3D printer, but that’s just a generic spatula which sometimes doesn’t do the job.",n
+144,3,p,"This set of different spatulas ensures you always have the right tool for removing any object you print. These spatulas are as thin as a knife blade, but without the sharp edge. They’re also usually angled in such a way that you can hold the handle parallel to the bed. It will prevent you from scratching the tray or damaging the part. I consider this set as an essential 3D printer accessory.",n
+148,3,h2,Carving Tools,y
+157,3,p,"When printing parts with a lot of little details and supporting material, you need to do some extra work to get a good finished look. For finishing the 3D prints where a little work is required, this set of carving tools is perfect for smoothing out your final product by removing excess filament and bringing to perfection all the little details.",n
+164,3,p,varying shapes and sizes that will meet most of your needs.,n
+167,3,p,Alternative,n
+177,3,p,"Another tool perfect for working on small, delicate projects is a diamond needle file. This set includes 6 pieces with different shape and size, and each one serves a different purpose.",n
+180,3,h2,Pliers,y
+189,3,p,"Needle-nose pliers can allow you to get into the fiddly areas of your 3D printer and your prints while providing a good, strong grip. Always look for a good quality pair of pliers with a rubberized, slip-resistant grip.",n
+191,3,p,"They can be used to remove jams in your 3D printer, to cut filaments, or to install new filaments. Sometimes, the prints get stuck to the print beds, so they can also be used to remove those prints.",n
+194,3,h2,Tweezers,y
+207,3,p,A full set of tweezers with various shapes and sizes is a must when it comes to the more complicated tasks with 3D printing. They offer a very good and cheap solution for very fine and high precision adjustments in your 3D printer or printed parts.,n
+209,3,p,"They’re great for plucking oozing filament from the extruder nozzle without burning your fingers. Also, they can be used for post-processing finishing of your prints.",n
+212,3,h2,Sandpaper,y
+221,3,p,Having a set of sandpapers in a variety of different grits can be very useful in the post-processing step of your printing. A good sandpaper will help you define the details on your print and smooth out any rough edges and surfaces.,n
+223,3,p,"We recommend buying a set of good quality sandpaper from a well-known brand, from coarse to fine . Good quality sandpaper does not wear out easily, making it last longer and saving you money in the long run.",n
+227,3,p,Alternative,n
+236,3,p,"As an alternative, you can use a rotary tool with different accessories, which will make things much easier and accurate as well.",n
+239,3,h2,Digital Caliper,y
+248,3,p,"A digital caliper is a must-have tool for detail-oriented 3D print maker. When 3D printing, there can be a lot of measurements involved, so this tool will help you increase efficiency and accuracy, which is very important.",n
+254,3,p,"It enables you to make very precise measurements of a part you want to replicate in 3D, to verify the dimensions of a calibration print, or to check the precision of the measurements of your prints versus the dimensions in the source CAD model.",n
+256,3,p,"Calipers are also handy for checking the accuracy of your 3D printing filaments, since the actual filament diameters often differ from what is advertised. This will help you make the necessary adjustment.",n
+259,3,h2,Extra Print Beds,y
+261,3,p,"The key to successful 3D print lies in getting a good first layer. And to get a good first layer, you need to have the right print bed surface which needs to have a smooth finish and to be rigid and durable as well.",n
+263,3,p,"Some people like to swap out their default print beds for glass plated ones, because they handle heat better and won’t warp the printed parts as easily.",n
+266,3,p,Borosilicate Glass Bed,n
+279,3,p,"Borosilicate glass can withstand extremely high temperatures, since it’s tempered. Also, it helps giving the print a smooth finish. When buying glass print bed make sure its dimensions match your model of 3D printer.",n
+282,3,p,Alternative,n
+291,3,p,"This printing surface is compatible with almost every printing material. You can print directly onto the surface without any additional adhesives. Once you’re done printing, it is very easy to remove your printed part without damaging it.",n
+297,3,p,"You can use it for multiple prints and all you need to do is to wipe down with isopropyl alcohol between prints. Also, it can be easily cut to the desired size with a utility knife.",n
+300,3,h2,Nozzle Set,y
+309,3,p,"Nozzles come in many different shapes and sizes, but they all have the same function. Why would you want to have more than one size nozzle?",n
+311,3,p,There are a few reasons why,n
+314,3,h2,Nozzle Cleaning Kit,y
+335,3,p,"The extruder nozzle can easily get clogged with melted plastic after frequent use. It is one of the most significant parts of your 3D printer, so it is very important to keep it maintained, ensuring the quality of your 3D prints.",n
+337,3,p,"Cleaning the nozzles is not as easy as it seems, so you want to make sure you have the right tool for this purpose. There are special nozzle cleaning kits, designed for cleaning different sizes of nozzles, so as long as you have this accessory, you’ll always be able to keep your 3D printer clean and ready for the next print.",n
+340,3,h2,Solutions,y
+342,3,p,"After a part comes out of the printer, it needs to undergo a surface finishing process before it’s ready for use because you can often see its laminated appearance and roughness. So, there are so many reasons to finish a 3D printed part, for example, you might want to enhance its appearance, to smooth out uneven surfaces, or to improve its durability.",n
+344,3,p,"Depending on the 3D printing material, you can choose acetone, or XTC-3D high performance 3D print coating.",n
+347,3,p,Acetone,n
+358,3,p,"By using acetone, you can easily achieve a smooth and polished surface to your ABS 3D prints. A thin layer of this product is just enough to get a better finish. Be very careful when deciding to use acetone, since it is not compatible with all materials.",n
+361,3,p,XTC-3D High Performance 3D Print Coating,n
+373,3,p,"We know that ABS can be smoothed with acetone, but when it comes to PLA, that’s not the case. This epoxy is a protective coating for smoothing and finishing 3D printed parts.",n
+376,3,p,"You just need to mix the two liquids together and apply the mixture onto any 3D print. It dries uniformly without leaving brush strokes. Working time is about 10 minutes, and it takes about 4 hours to cure.",n
+379,3,h2,Super Glue,y
+383,3,p,Thicker,n
+387,3,p,Thinner,n
+392,3,p,"Super glue has endless supply of uses for 3D printing jobs, and is incredibly effective. It can be used to fill in gaps, to repair broken parts, and to combine two or more smaller 3D printed parts together.",n
+394,3,p,"Different types of glue are used for different jobs. For example, for filling gaps a thicker type of glue is required whilst for delicate procedures, like combining two components together, a thinner type of glue is more appropriate.",n
+401,3,p,Alternative,n
+408,3,p,"Acetone can be used for bonding 3D printed parts made of PLA, ABS or HIPS. In fact, it can be used for any material soluble in acetone. It gives very strong bond, and, if done properly it creates invisible seam.",n
+416,3,h2,Additional 3D Printer Accessories – 3D Scanner,y
+425,3,p,"Having a 3D scanner will take your 3D printing experience to the next level, as it enables you to create accurate 3D models from actual real objects.",n
+427,3,p,"There are so many portable, relatively cheap and easy to use scanners on the market. It’s an ideal choice for anyone who wants a compact device that’s easy to carry around and is one of the most beginner-friendly machines around.",n
+435,3,p,Read more,n
+439,3,h2,Conclusion,n
+441,3,p,Choosing the right 3D printer accessories greatly increases the chances of creating a flawless 3D print. These decent investments can make the 3D printing process much easier and enjoyable.,n
+443,3,p,Which of these 3D printer accessories do you already use? Do you have some other useful 3D printer accessories that are not on the list and should be? I’d love to hear about it in the comments section below.,n
+445,3,p,If you want to buy a 3D printer check out our list of the best budget friendly 3D printers that are ideal for hobbyists and beginners who are just getting started.,n
+453,2,span,,n
+455,453,span,Categories,n
+456,453,text,Tools,n
+460,0,div,,n
+474,460,p,Best Budget Oscilloscopes,n
+483,460,p,Arduino Robot Arm and Mecanum Wheels Platform Automatic Operation,n
+492,0,div,,n
+498,492,span,,n
+499,498,div,,n
+501,499,div,Sponsored Content,n
+502,499,ul,,n
+509,502,li,Research cyber security companies services,n
+535,502,li,,n
+541,535,span,Need Dental Implants But Have No Money?,n
+543,535,span,Dental Implants | Search ads,n
+573,502,li,Research Malware Endpoint Protection Software,n
+599,499,ul,,n
+600,599,li,,n
+606,600,span,Clothing Options For Plus Size Women,n
+608,600,span,Plus Size Clothing | Search ads,n
+638,599,li,Research enterprise cloud data storage platforms,n
+664,599,li,,n
+670,664,span,It's so easy to get bathroom tubs,n
+672,664,span,Bathtub | Search ads,n
+697,498,div,Recommended by,n
+700,492,h3,,n
+701,700,text,Leave a Comment,n
+703,700,small,Cancel reply,n
+704,492,form,,n
+707,704,p,Comment,n
+710,704,label,Name,n
+713,704,label,Email,n
+716,704,label,Website,n
+726,704,p,Δ,n

@@ -1,0 +1,46 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+6,1,div,,n
+8,6,div,Menu,n
+10,6,div,Log in,n
+119,1,div,Log in,n
+210,1,li,≡,n
+228,1,div,,n
+247,228,div,,n
+250,247,p,Speed skating has inherent risks and safety is our Club’s priority.,n
+253,247,p,MJSSC is committed to providing a safe environment for all those who go on the ice. We do this by following Speed Skating Canada’s mandatory gear and equipment list ; by setting appropriate skater or helper ratios and on-ice numbers; and by assessing skaters in the event of a fall and working with families to decide on an appropriate course of action if there is an injury.,n
+259,228,div,,n
+264,259,div,,n
+268,264,p,Equipment,n
+270,264,p,Head Protection - Helmet,y
+272,264,p,Neck Protection - Bib type,y
+276,264,p,Protective Eye Wear,y
+278,264,p,Hand Protection,y
+282,264,p,Ankle Protection,y
+284,264,p,Knee Protection - Knee Pads,y
+288,264,p,Shin Pads,y
+290,264,p,Body Protection,y
+299,259,div,,n
+303,299,p,Need,n
+325,299,p,Varies by level,n
+334,259,div,,n
+338,334,p,Description or Details,n
+341,334,p,"Hard Shell Helmet - Hockey, Multi-Sport or Speed Skate",n
+344,334,p,"Neck protection must be made of Kevlar, Dyneema, or ballistic nylon. Protection may be integrated into the design of a skater’s skin suit or worn tucked into a skater’s skin suit. If separate neck protection is worn it must fastened securely",n
+348,334,p,"Clear, shatter-resistant glasses or a complete visor. Glasses must be held in place by a strap",n
+352,334,p,"For Learn to Skate programs, gloves or mitts must be worn. For any long blade activity , full leather gloves or a synthetic glove which offers an equal or superior level of cut and puncture resistance to leather must be worn.",n
+355,334,p,Cut Resistant Kevlar Anklets. Not needed if wearing Kevlar Skin Suit,n
+358,334,p,Full frontal knee coverage providing complete coverage of the patella. Made of puncture resistant and impact absorbing material. Protection may be worn over a skater’s skin suit or it can be integrated in the suit.,n
+361,334,p,Soccer type without ankle protection,n
+364,334,p,All skin below the mid-line of the neck must not be bare. Skaters participating in events sanctioned as SSC Championships and or or as Selection or International competitions must wear cut resistant clothing meeting or exceeding the minimum standards established by the ISU,n
+430,1,div,,n
+448,430,div,,n
+451,448,p,Email us,n
+454,448,p,mjspeedskating@gmail.com,n
+463,430,div,,n
+466,463,p,Mailing Address,n
+469,463,p,Box 2062,n
+472,463,p,"Moose Jaw, Sk. S6H 7N7",n
+488,1,div,Powered by Wild Apricot Membership Software,n
+498,0,span,Please wait...,n

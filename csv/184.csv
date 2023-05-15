@@ -1,0 +1,377 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+8,3,h1,Leather crafting,n
+9,3,div,,n
+11,9,div,"From Wikipedia, the free encyclopedia",n
+15,9,text,Jump to navigation Jump to search,n
+17,9,div,,n
+18,17,div,,n
+25,18,div,,n
+26,25,text,This article needs additional citations,n
+30,25,span,,n
+31,30,text,Please help improve this article by adding citations to reliable sources . Unsourced material may be challenged and removed.,n
+39,30,span,Find sources,n
+54,25,span,February 2009,n
+59,25,span,Learn how and when to remove this template message,n
+65,18,div,Modern leather-working tools,n
+67,18,p,"Leather crafting or simply leathercraft is the practice of making leather into craft objects or works of art, using shaping techniques, coloring techniques or both.",n
+73,18,div,,n
+77,73,h2,Contents,n
+80,73,ul,,n
+81,80,li,,n
+83,81,span,1,n
+86,81,ul,,n
+89,86,li,1,n
+94,86,li,2,n
+99,86,li,3,n
+104,86,li,4,n
+109,86,li,5,n
+114,86,li,6,n
+119,86,li,7,n
+124,86,li,8,n
+129,80,li,2,n
+154,18,div,A dyed leather carving,n
+157,18,p,"The application of pigments carried by solvents or water into the pores of the leather. Can be applied to tooled or untooled leather, either for even coloration or to highlight certain areas. For example, application to a tooled piece can result in pooling in the background areas giving contrasts and depth.",n
+159,18,p,"There are oil, alcohol, and water based leather dyes available. Although the water-based alternatives tend to not work as well due to poor penetration.",n
+170,18,p,"Leather painting differs from leather dyeing in that paint remains only on the surface while dyes are absorbed into the leather. Due to this difference, leather painting techniques are generally not used on items that can or must bend nor on items that receive friction, such as belts and wallets because under these conditions, the paint may crack or wear off. However, latex paints can be used to paint such flexible leather items. In the main though, a flat piece of leather, backed with a stiff board is ideal and common, though three-dimensional forms are possible so long as the painted surface remains secured.",n
+174,18,p,"Acrylic paint is a common medium, often painted on tooled leather pictures, backed with wood or cardboard, and then framed. Unlike photographs, leather paintings are displayed without a glass cover, to prevent mould .",n
+190,18,div,Main article,n
+193,18,p,"Leather carving entails using metal implements to compress moistened leather in such a way as to give a three-dimensional effect. The surface of the leather is not intended to be cut through, as would be done in filigree .",n
+199,18,p,"The main tools used to ""carve"" leather include: swivel knife , veiner , beveler , pear shader , seeder , various sculpting implements, and background tools. The swivel knife is held with one finger providing downward pressure upon a stirrup-like top and drawn along the leather to outline patterns. The other tools are punch -type implements struck with a wooden, nylon, metal or rawhide mallet . The object is to add further definition, texture and depth to the cut lines made by the swivel knife and the areas around the cut lines.",n
+216,18,p,"In the United States and Mexico, the western floral style, known as ""Sheridan Style"", of carving leather predominates. Usually, these are stylized pictures of acanthus or roses although, increasingly, modern leather artists are redefining and expanding the potential of the materials. By far the most preeminent carver in the United States was Al Stohlman . His patterns and methods have been embraced by many hobbyists, scout troops, reenacters, and craftsmen.",n
+236,18,div,geometric stamping on leather.,n
+238,18,p,Leather stamping involves the use of shaped implements to create an imprint onto a leather surface. This is a form of artistic expression and many in leather crafting world consider it an artform. The stamping is generally performed by using specially designed leather stamps that are struck with a mallet .,n
+244,18,p,"Commercial stamps are available in various designs, typically geometric or representative of animals. Most stamping is performed on vegetable tanned leather that has been cased. This is the action of dampening the leather with water so that it soaks into the surface fibres. The water makes the leather softer and able to be compressed by the design being pressed or stamped into it. After the leather has been stamped, the design stays on the leather as it dries out, but it can fade if the leather becomes wet and is flexed. To make the impressions last longer, the leather is conditioned with oils and fats to make it waterproof and prevent the fibers from deforming.",n
+260,18,p,"Leather shaping or molding consists of soaking a piece of leather in water to greatly increase pliability and then shaping it by hand or with the use of objects or even molds as forms. As the leather dries it stiffens and holds its shape. Carving and stamping may be done prior to or after molding. Molding has become popular among hobbyists whose crafts are related to fantasy, goth or steampunk culture and cosplay as well as those interested in more classic styling of bags and household items.",n
+262,18,p,"Two well known pieces of molded leather are part of the funerary achievements of Edward, the Black Prince , the heraldic crest and shield.",n
+278,18,p,"Carbon dioxide lasers cut through leather very smoothly, and at low power a laser cutter can etch detailed designs into leather to any desired depth although some discoloration and stiffening occurs in vegetable tanned tooling leather.",n
+292,18,p,Perforation – the result of punching with a pricking iron or chisel that is provided for the manufacture of a large number of regularly arranged holes of regular shape in the sheet and other material. A decorative technique that is used to connect two sheets of leather or to decorate them.,n
+305,18,p,Pyrography on leather is the art of using a hot needle to make a drawing on leather. Under the influence of heat the leather takes on darker shades which subsequently become a complete picture.,n
+318,18,li,,n
+320,318,span,^,n
+322,318,span,http,n
+327,18,div,,n
+344,327,div,Leather,n
+345,327,tr,,n
+347,345,th,Types,n
+350,345,ul,,n
+352,350,li,Aniline,n
+354,350,li,Bicast,n
+356,350,li,Boiled,n
+358,350,li,Bonded,n
+360,350,li,Buckskin,n
+362,350,li,Chamois,n
+364,350,li,Corinthian,n
+366,350,li,Kidskin,n
+368,350,li,Law leather,n
+370,350,li,Morocco,n
+372,350,li,Napa,n
+374,350,li,Nubuck,n
+376,350,li,Patent,n
+378,350,li,Russia,n
+380,350,li,Shagreen,n
+382,350,li,Shell cordovan,n
+384,350,li,Suede,n
+388,327,tr,,n
+390,388,th,Leather sources,n
+393,388,ul,,n
+395,393,li,Alligator,n
+397,393,li,Bison,n
+398,393,li,,n
+399,398,text,Cattle,n
+400,398,ul,,n
+402,400,li,Calfskin,n
+404,400,li,Slunk,n
+406,393,li,Crocodile,n
+408,393,li,Deer,n
+410,393,li,Eel,n
+412,393,li,Goat,n
+414,393,li,Horse,n
+416,393,li,Kangaroo,n
+418,393,li,Ostrich,n
+420,393,li,Pig,n
+422,393,li,Seal,n
+424,393,li,Sheep,n
+426,393,li,Snake,n
+428,393,li,Yak,n
+429,327,tr,,n
+431,429,th,Processes,n
+434,429,ul,,n
+436,434,li,Liming,n
+438,434,li,Deliming,n
+440,434,li,Tanning,n
+442,434,li,Oiling,n
+443,327,tr,,n
+445,443,th,Crafting,n
+448,443,ul,,n
+452,448,li,Cuir de Cordoue,n
+454,448,li,Leather carving,n
+455,327,tr,,n
+457,455,th,Substitutes,n
+460,455,ul,,n
+462,460,li,Artificial leather,n
+464,460,li,Naugahyde,n
+466,460,li,Presstoff,n
+468,460,li,Ultrasuede,n
+470,460,li,Alcantara,n
+471,327,tr,,n
+473,471,th,Leather museums,n
+476,471,ul,,n
+478,476,li,German Leather Museum,n
+480,476,li,Igualada Leather Museum,n
+482,476,li,Walsall Leather Museum,n
+484,476,li,Leather Archives and Museum,n
+486,476,li,British Museum leather dressing,n
+487,327,tr,,n
+489,487,th,Related,n
+492,487,ul,,n
+494,492,li,hide materials,n
+496,492,li,Leather subculture,n
+501,18,div,,n
+519,501,div,Decorative arts and handicrafts,n
+527,501,li,History,n
+528,501,tr,,n
+530,528,th,Textile,n
+533,528,ul,,n
+535,533,li,Banner-making,n
+537,533,li,Canvas work,n
+539,533,li,Crocheting,n
+541,533,li,Cross-stitch,n
+543,533,li,Embroidery,n
+545,533,li,Felting,n
+547,533,li,Friendship bracelet,n
+549,533,li,Knitting,n
+551,533,li,Lace-making,n
+553,533,li,Lucet,n
+555,533,li,Macrame,n
+557,533,li,Millinery,n
+559,533,li,Needlepoint,n
+561,533,li,Needlework,n
+563,533,li,Patchwork,n
+565,533,li,Quilting,n
+567,533,li,Ribbon embroidery,n
+569,533,li,Rug hooking,n
+571,533,li,Rug making,n
+573,533,li,Sewing,n
+575,533,li,Shoemaking,n
+577,533,li,Spinning,n
+579,533,li,String art,n
+581,533,li,Tapestry,n
+583,533,li,Tatting,n
+585,533,li,Tie-dye,n
+587,533,li,Weaving,n
+588,501,tr,,n
+590,588,th,Paper,n
+593,588,ul,,n
+595,593,li,Altered book,n
+599,593,li,Calligraphy,n
+601,593,li,Cardmaking,n
+603,593,li,Cast paper,n
+604,593,li,,n
+605,604,text,Collage,n
+606,604,ul,,n
+608,606,li,Decoupage,n
+610,606,li,Photomontage,n
+612,593,li,Iris folding,n
+614,593,li,Jianzhi,n
+616,593,li,Kamikiri,n
+617,593,li,,n
+618,617,text,Origami,n
+619,617,ul,,n
+621,619,li,Kirigami,n
+623,619,li,Moneygami,n
+625,593,li,Embossing,n
+627,593,li,Marbling,n
+629,593,li,Papercraft,n
+631,593,li,Papercutting,n
+633,593,li,Papermaking,n
+635,593,li,Paper toys,n
+637,593,li,Papier-mâché,n
+639,593,li,Pop-up book,n
+641,593,li,Quilling,n
+643,593,li,Scrapbooking,n
+645,593,li,Stamping,n
+647,593,li,Wallpaper,n
+648,501,tr,,n
+650,648,th,Wood,n
+653,648,ul,,n
+655,653,li,Bentwood,n
+657,653,li,Cabinetry,n
+659,653,li,Carpentry,n
+661,653,li,Chip carving,n
+663,653,li,Ébéniste,n
+665,653,li,Fretwork,n
+667,653,li,Intarsia,n
+669,653,li,Marquetry,n
+671,653,li,Wood burning,n
+673,653,li,Wood carving,n
+675,653,li,Woodturning,n
+676,501,tr,,n
+678,676,th,Ceramic,n
+681,676,ul,,n
+683,681,li,Azulejo,n
+685,681,li,Bone china,n
+687,681,li,Earthenware,n
+689,681,li,Porcelain,n
+691,681,li,Pottery,n
+693,681,li,Stoneware,n
+695,681,li,Terracotta,n
+696,501,tr,,n
+698,696,th,Glass,n
+701,696,ul,,n
+703,701,li,Cameo glass,n
+705,701,li,Enamelled glass,n
+707,701,li,Glass etching,n
+709,701,li,Glassware,n
+711,701,li,Stained glass,n
+713,701,li,Chip work,n
+714,501,tr,,n
+716,714,th,Metal,n
+719,714,ul,,n
+721,719,li,Chemical milling,n
+723,719,li,Enamel,n
+725,719,li,Engraving,n
+727,719,li,Etching,n
+729,719,li,Jewellery,n
+731,719,li,Goldsmith,n
+733,719,li,Silversmith,n
+735,719,li,Bronze and brass ornamental work,n
+737,719,li,Ironwork,n
+738,501,tr,,n
+740,738,th,Other,n
+743,738,ul,,n
+745,743,li,Assemblage,n
+747,743,li,Balloon modelling,n
+749,743,li,Beadwork,n
+751,743,li,Bone carving,n
+753,743,li,Doll making,n
+755,743,li,Dollhouse,n
+757,743,li,Egg decorating,n
+759,743,li,Faux painting,n
+761,743,li,Engraved gems,n
+763,743,li,Hardstone carving,n
+765,743,li,Lath art,n
+767,743,li,Lapidary,n
+769,743,li,Leatherworking,n
+771,743,li,Miniatures,n
+773,743,li,Micromosaic,n
+774,743,li,,n
+775,774,text,Mosaic,n
+778,774,li,Glass mosaic,n
+780,743,li,Ornament,n
+782,743,li,Pargeting,n
+784,743,li,Pietra dura,n
+786,743,li,Private press,n
+788,743,li,Pressed flower craft,n
+790,743,li,Scrimshaw,n
+792,743,li,Straw marquetry,n
+794,743,li,Wall decal,n
+800,18,div,,n
+802,800,th,Authority control,n
+808,800,li,United States,n
+811,17,div,"Retrieved from "" https",n
+814,9,div,,n
+815,814,div,,n
+816,815,text,Categories,n
+818,815,ul,,n
+820,818,li,Leather crafting,n
+822,818,li,Leather,n
+824,818,li,Carving,n
+825,814,div,,n
+826,825,text,Hidden categories,n
+827,825,ul,,n
+829,827,li,Articles needing additional references from February 2009,n
+831,827,li,All articles needing additional references,n
+833,827,li,Articles with LCCN identifiers,n
+834,0,div,,n
+836,834,h2,Navigation menu,n
+837,834,div,,n
+838,837,nav,,n
+841,838,h3,Personal tools,n
+843,838,ul,,n
+846,843,li,Not logged in,n
+852,843,li,Contributions,n
+855,843,li,Create account,n
+858,843,li,Log in,n
+859,837,div,,n
+860,859,nav,,n
+863,860,h3,Namespaces,n
+868,860,li,Article,n
+876,859,span,English,n
+879,837,div,,n
+880,879,nav,,n
+883,880,h3,Views,n
+885,880,ul,,n
+888,885,li,Read,n
+891,885,li,Edit,n
+894,885,li,View history,n
+899,879,span,More,n
+906,879,h3,Search,n
+913,834,div,,n
+915,913,nav,,n
+918,915,h3,Navigation,n
+920,915,ul,,n
+923,920,li,Main page,n
+926,920,li,Contents,n
+929,920,li,Current events,n
+932,920,li,Random article,n
+938,920,li,Contact us,n
+941,920,li,Donate,n
+942,913,nav,,n
+945,942,h3,Contribute,n
+947,942,ul,,n
+950,947,li,Help,n
+953,947,li,Learn to edit,n
+956,947,li,Community portal,n
+959,947,li,Recent changes,n
+963,913,nav,,n
+966,963,h3,Tools,n
+968,963,ul,,n
+971,968,li,What links here,n
+974,968,li,Related changes,n
+980,968,li,Special pages,n
+983,968,li,Permanent link,n
+986,968,li,Page information,n
+989,968,li,Cite this page,n
+992,968,li,Wikidata item,n
+993,913,nav,,n
+996,993,h3,Print or export,n
+998,993,ul,,n
+1001,998,li,Download as PDF,n
+1004,998,li,Printable version,n
+1005,913,nav,,n
+1008,1005,h3,In other projects,n
+1013,1005,li,Wikimedia Commons,n
+1014,913,nav,,n
+1018,1014,h3,Languages,n
+1019,1014,div,,n
+1020,1019,ul,,n
+1023,1020,li,العربية,n
+1026,1020,li,Eesti,n
+1029,1020,li,Español,n
+1032,1020,li,فارسی,n
+1035,1020,li,Français,n
+1041,1020,li,Polski,n
+1044,1020,li,Português,n
+1047,1020,li,Română,n
+1050,1020,li,Русский,n
+1053,1020,li,Türkçe,n
+1056,1020,li,Українська,n
+1058,1020,button,5 more,n
+1061,1019,div,Edit links,n
+1062,0,footer,,n
+1063,1062,ul,,n
+1064,1063,li,,n
+1065,1064,text,"This page was last edited on 3 June 2022, at 23:33",n
+1068,1064,text,.,n
+1070,1063,li,"Text is available under the Creative Commons Attribution-ShareAlike License 3.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.",n
+1079,1062,ul,,n
+1081,1079,li,Privacy policy,n
+1085,1079,li,Disclaimers,n
+1087,1079,li,Contact Wikipedia,n
+1089,1079,li,Mobile view,n
+1091,1079,li,Developers,n
+1093,1079,li,Statistics,n
+1095,1079,li,Cookie statement,n
+1097,1079,li,Edit preview settings,n

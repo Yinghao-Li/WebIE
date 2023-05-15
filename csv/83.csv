@@ -1,0 +1,86 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+19,0,div,,n
+20,19,div,,n
+21,20,div,,n
+24,21,h1,Youth Football 101,n
+26,21,p,,n
+28,26,span,"August 03, 2021",n
+29,26,text,|,n
+31,26,span,"4 minutes, 12 seconds read",n
+40,20,p,Paul Orr via Shutterstock,n
+44,19,div,,n
+46,44,p,"Today, football is one of the most popular sports in America. But there was a time when the game was outlawed, and deemed illegal because it was considered too dangerous to play. This was long before anyone put on a helmet or a set of shoulder pads, back when football was played without any kind of protection.",n
+48,44,p,"Since then, new safety equipment has been invented and the rules of the game have evolved, making it a safer sport to participate in. And even today, equipment manufacturers are still improving their products and looking to limit serious injuries like concussions with space-age enhancements to helmets and pads. Wearing proper fitting equipment can significantly reduce the incidents of injury during play.",n
+50,44,p,"There is a tremendous market for football equipment, made up of many legacy companies with long histories in the game, as well as other, newer companies, set on evolving and improving on existing equipment.",n
+52,44,p,"With the right knowledge and savvy, you can outfit a football player from head to toe in quality gear at an affordable price.",n
+54,44,h2,What equipment is used in football?,n
+56,44,p,"Compared to other sports like hockey and lacrosse, football requires very little equipment. A full kit is essentially made up of three items:",n
+57,44,ul,,n
+58,57,li,,n
+60,58,strong,Helmet –,y
+61,58,text,"hard plastic with soft padding inside, designed to protect the head and skull.",n
+62,57,li,,n
+64,62,strong,Shoulder pads –,y
+65,62,text,"hard plastic caps over softer, flexible pads protect the shoulders and upper torso.",n
+66,57,li,,n
+68,66,strong,Cleats –,y
+69,66,text,provide traction and support at all positions.,n
+70,57,li,,n
+72,70,strong,Mouthguard –,y
+73,70,text,required,n
+75,44,p,"Other pieces of gear players typically wear include football pants, which are padded pants that protect the hips, thighs and knees; receivers also wear gloves to help them catch the ball while linemen use other types of hand protection. Other accessories include their uniform, neck guards, visors, arm guards, and pads.",n
+77,44,h2,What pads do NFL players wear?,n
+79,44,p,"Football players, from the pros down to pee-wee ball, typically all wear the same equipment. A properly outfitted tackle football player is required to wear a helmet with a face mask, a set of shoulder pads, football pants, and cleats.",n
+81,44,p,"Many NFL players have reportedly been using light, flexible shoulder pads made by X-Tech . NFL players concerned about limiting head injuries have turned to a new helmet made by a company called Vicis , which has also started manufacturing youth models specially designed to cut down on concussions and similar injuries. Other brands like Ridell and Schutt are respected in the game and many players use their products as well.",n
+87,44,h2,What does a youth football player need?,n
+89,44,p,"Youth football players traditionally wear the same gear found on college and pro football fields. Equipment should all fit properly, which is snug and secure. All players are required to wear a helmet with a mouthguard, shoulder pads, padded football pants, and cleats.",n
+91,44,h2,football shoulder pads?,n
+93,44,p,"Eight years after the very first football game was played between Rutgers and Princeton, a student at Princeton by the name of L.P. Smock invented the first set of shoulder pads in 1877. Players have been wearing them regularly since the early 1900s.",n
+95,44,p,"Almost like body armor, shoulder pads are typically hard plastic shells on top of softer, flexible padding that allows players to run into each other, collide and tackle without more serious and frequent injuries. While players still can get hurt—and often do—playing football, equipment like shoulder pads significantly limit those injuries.",n
+97,44,h2,football gear?,n
+99,44,p,"A brand-new set of football gear, bought at retail prices, could run more than $500. Here is a quick look at some popular products listed for sale on Amazon:",n
+100,44,ul,,n
+102,100,li,Schutt Sports Vengeance VTD II Football Helmet,n
+104,100,li,Under Armour Men's Highlight Select D Football Shoe,n
+106,100,li,Schutt Sports XV HD Varsity Football Shoulder Pads,n
+108,44,p,"However, other quality gear can be found for less on the secondary market at places like SportsEngine Gear Marketplace powered by SidelineSwap. Similar football equipment, for example, can be purchased at a significant discount from trusted sellers. Here’s some examples of lightly used or new gear available:",n
+111,44,ul,,n
+114,111,li,New in box Size Men's 10.5 Navy Blue And White Under Armour Spotlight Cleats,n
+118,111,li,New Schutt Vengeance Pro Helmet White,n
+122,111,li,Russell pursuit shoulder pads,n
+125,44,p,"Before you even negotiate with sellers, you’re looking at a big price drop on the secondary market.",n
+127,44,h2,Best football helmets,y
+129,44,p,Ratings according to the Virginia Tech Ratings System .,n
+132,44,ul,,n
+134,132,li,VICIS ZERO2 Trench,n
+136,132,li,VICIS ZERO2,n
+138,132,li,Schutt F7 LTD,n
+140,132,li,Riddell SpeedFlex Diamond,n
+142,132,li,Xenith Shadow XR,n
+144,44,h2,Best football shoulder pads,y
+145,44,ul,,n
+148,145,li,Schutt Sports XV HD Varsity,n
+151,145,li,Adams VS500 Varsity,n
+154,145,li,Schutt MID FLEX 4.0 Youth Football Shoulder Pads,n
+157,145,li,Schutt Sports Varsity Flex 4.0 All-Purpose Football Shoulder Pads,n
+160,145,li,Gear Pro-Tec Z-Cool OL or DL-Pro Select,n
+162,44,h2,Popular football cleats,y
+163,44,ul,,n
+165,163,li,Nike Men's Vapor Untouchable Pro 3 Football Cleat,n
+167,163,li,adidas Men's Adizero 8.0 Football Shoe,n
+169,163,li,Nike Vapor Edge Pro 360 Men’s Football Cleat,n
+171,163,li,Nike Men's Alpha Menace Pro Mid Football Cleat,n
+173,163,li,Under Armour Men's Highlight Mc Football Shoe,n
+184,19,div,,n
+186,184,h3,About SidelineSwap,n
+188,184,p,"SidelineSwap, the world's largest online sporting goods marketplace, makes it easy for athletes and fans to buy and sell new and used gear. Since founding the company in 2015, more than 1,000,000 athletes and fans have joined the SidelineSwap community. Sellers can easily list gear for sale in seconds on our website or mobile app, and buyers can shop a huge selection of new and used gear from top brands while saving up to 70% off the retail price. SidelineSwap is the resale partner of choice in sports–working with leading retailers, brands, software platforms, and leagues to deliver marketplace experiences to their customers. In 2020, SidelineSwap was recognized for the second consecutive year as one of the fastest growing marketplaces on Andreessen Horowitz's A16z Top 100 marketplace list .",n
+192,19,div,,n
+193,192,div,,n
+195,193,h5,Sports in this article,n
+197,193,p,Football,n
+198,192,div,,n
+200,198,h5,Tags in this article,n
+201,198,p,,n
+203,201,span,"New to Sports , Apparel and Gear",n
+207,201,span,SidelineSwap,n

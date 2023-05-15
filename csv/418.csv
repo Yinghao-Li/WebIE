@@ -1,0 +1,381 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+5,1,div,,n
+27,5,h1,Supply List,n
+29,5,div,,n
+31,29,h2,Supplies and tips,n
+32,29,p,,n
+33,32,text,The rule of thumb when preparing for a trip is to leave half of everything at home and you’ll still be carrying too much. Supply lists seem forever incomplete and outdated — this one is no exception. Somehow I crammed these 200 items onboard my bike.,n
+36,32,text,Buy light-weight and super high-quality gear. Heck! Even buy heavy-weight gear that you know will get the job done. Don’t skimp on money now. You’ll regret it later.,n
+37,29,div,,n
+39,37,h2,New supplies,n
+40,37,p,,n
+41,40,text,I love simple solutions. Here’s a new item to add to everyone’s packing list.,n
+43,40,strong,Lemon eucalyptus oil bug repellent.,n
+44,40,text,"The CDC confirms it is almost as effective as DEET, though it may be overhyped because I think this is only the synthetic version, not the actual plant-based oils. More info .",n
+47,37,ul,,n
+49,47,li,For more ideas on your gear and health see Travel Tips and Tricks .,n
+53,47,li,Don’t miss the bicycle touring supplies I never needed .,n
+57,29,h3,Documents,n
+58,29,div,,n
+60,58,h4,21 Bicycle Tourers Share Their Best Packing List Advice,n
+62,58,p,"If you want even more advice, MightyGoods has gathered some advice from notable bicycle tourists. Update: my contribution to this story is now here. The best packing list advice for bicycle tourers.",n
+65,58,p,"And, don’t miss the Victorian era bicycle touring packing list .",n
+71,29,p,"Copies of everything were given to my travel partner or kept in a separate pannier, and another copy was left with my family. Most importantly, scan and save this in a secure location on the internet. Of course, memorize all critical information.",n
+72,29,ul,,n
+74,72,li,Passport with extra pages,n
+78,72,li,Drivers license,n
+82,72,li,Visas,n
+83,72,li,,n
+85,83,strong,Medical emergency info,n
+86,83,ul,,n
+88,86,li,Attorney,n
+90,86,li,Health insurance card and info,n
+91,86,li,,n
+93,91,strong,World Health Organization Vaccination Card,n
+94,91,ul,,n
+96,94,li,Blood type,n
+98,94,li,Allergies,n
+100,94,li,Yellow Fever inoculation,n
+102,94,li,Health history,n
+104,94,li,Physician contact,n
+106,94,li,Attorney contact,n
+108,72,li,Banking and money info,n
+110,72,li,Consulate or embassy info,n
+112,72,li,all documents placed in a separate pannier,n
+114,29,h3,Money,n
+115,29,ul,,n
+117,115,li,Debit Card,y
+118,115,li,,n
+119,118,text,Credit Card .,y
+122,118,text,"You will need both Mastercard and Visa. Some machines will only take one or another. American Express was the least useful. Rarely, I would buy traveler’s checks, but these are usually even harder to use but are handy when the power goes out, or when the banks or governments collapse.",n
+124,115,li,"Local currency. A few weeks supply, enough to get to the next big city.",n
+125,115,li,,n
+126,125,text,"Stable foreign currency such as American dollars or Euros. In some countries, the local currency was almost worthless.",n
+129,125,text,kept hidden in the handlebar bag.,n
+130,115,li,,n
+131,130,text,Bribe money,n
+134,130,text,Always keep your money in more than one place.,n
+136,115,li,Emergency stash of dollars hidden in clever places. Occasionally if I felt threatened I would hide some valuables at night.,n
+138,115,li,Waterproof document holder,y
+140,115,li,Money belt,y
+141,115,li,,n
+142,141,text,Address book.,y
+145,141,text,all your documents,n
+147,115,li,See more tips on travel and safety >>>,n
+150,29,h3,First aid kit,y
+151,29,ul,,n
+152,151,li,,n
+153,152,text,Sunscreen.,y
+155,152,strong,THIRD MOST IMPORTANT TIP OF THEM ALL,n
+156,152,text,"Spare no expense on this one. If you are desperate, use mud. I also highly recommend using sunscreen with natural ingredients — avoid sunscreen containing petrochemicals, which is almost all brands. Adding aloe vera to the sunscreen helps spread it out and protect the skin.",n
+158,151,li,Malaria medication,y
+160,151,li,Loperamide,y
+162,151,li,Aspirin,y
+164,151,li,Ibuprofen,y
+166,151,li,Bandages,y
+168,151,li,Eye drops,y
+170,151,li,Anti-bacterial ointment,y
+172,151,li,Sunburn medication,y
+173,151,li,,n
+174,173,text,Insect repellent with DEET.,n
+177,173,text,"This stuff is poison, use only in countries with malaria outbreaks. If you’re desperate, use mud for insect repellent.",n
+181,151,li,"To keep my kit light, I varied my medication according to needs, besides it’s easy enough to buy medicine in India.",n
+183,29,h3,Cooking supplies,y
+184,29,ul,,n
+185,184,li,,n
+187,185,strong,MSR International Stove,y
+188,185,text,and repair kit.,y
+191,185,text,"Despite the messy maintenance, this worked great and lasted the whole trip. I primarily used super unleaded fuel, which is very toxic. I’d recommend a propane-butane stove for shorter journeys.",n
+193,184,li,MSR Fuel Bottle,y
+194,184,li,,n
+196,194,strong,2 liter MSR Blacklite pot and lid.,y
+197,194,text,"Still going strong 30,000 miles later.",n
+199,184,li,Matches and lighter,y
+200,184,li,,n
+201,200,text,Stainless steel spoon.,y
+204,200,text,"go durable, a steel spoon scrapes pots clean, as opposed to plastic which melts.",n
+205,184,li,,n
+206,205,text,16 0z. Nylon Coffee cup.,y
+209,205,text,bring your own cup and utensils to stay germ-free.,n
+211,29,h3,Bicycle and Gear,y
+212,29,ul,,n
+213,212,li,,n
+215,213,strong,Gunnar Rockhound,y
+217,213,ul,,n
+219,217,li,More about my bike.,n
+221,217,li,"the bike that went around the world, including repairs and interesting captions.",n
+224,217,li,Nationally syndicated story about the bike that went around the world.,n
+227,212,li,Bar ends,y
+229,212,li,2 Bottle cages . I prefer the kind that holds a 1.5 L bottle.,n
+231,212,li,2 Water bottles,y
+233,212,li,Pedal clips,y
+234,212,li,,n
+235,234,text,Racks,y
+237,234,strong,Tubis,y
+240,234,strong,Jandd Expedition,y
+241,234,text,it’s amazing these Jandd aluminum racks survived.,n
+243,234,strong,Blackburn,y
+244,234,text,them.,n
+245,212,li,,n
+246,245,text,Panniers,y
+248,245,strong,Vaude World Tour,y
+249,245,text,",",n
+251,245,strong,Ortlieb Classic,y
+252,245,text,. Can’t get any better than Ortlieb. The Vaude began to fall apart slightly as the PVC peeled off.,n
+253,212,li,,n
+254,253,text,Handlebar bag with map case,y
+256,253,strong,Vaude’s Komet,n
+257,253,text,loved this guy. My current,n
+259,253,strong,Ortlieb Handlebar bag,y
+260,253,text,falls over and is hard to button and has no drawstring interior.,n
+263,212,li,Brook’s All-Terrain saddle,y
+266,212,li,Bicycle computer,y
+267,212,li,,n
+269,267,strong,Kryptonite,y
+270,267,text,"combination chain lock. Still in use, but the numbers are long gone, and I question why I lugged something with such a thick coating of plastic, that does nothing for security.",n
+272,212,li,Rear view mirror,y
+273,212,li,,n
+275,273,strong,Schwalbe Marathon tires.,y
+276,273,text,The best touring tires in the world. I also tried,n
+278,273,strong,Continental Top Tour Tires,n
+279,273,text,which failed multiple times.,n
+281,212,li,Fenders. I left them behind.,n
+282,212,li,,n
+283,282,text,4 liter,n
+285,282,strong,MSR Dromedary Bag,y
+286,282,text,black.,n
+289,282,text,soda bottles work just as good and are disposable when you don’t need them or they get moldy.,n
+291,212,li,Warning flag or vest,y
+292,212,li,,n
+293,292,text,"Rims. Downhill, double-rimmed with at least 36 spokes.",n
+295,292,strong,Mavic,n
+296,292,text,rims have done the trick.,n
+299,292,text,"Get the best rims you can get. The rims, frame and bike seat are your most critical components.",n
+300,212,li,,n
+301,300,text,I also used,n
+304,300,text,"LX components, shoes and pedals without any problems. The rear hub actually cracked after 30,000 miles, but still didn’t fail.",n
+305,212,li,,n
+307,305,strong,SRAM chains,y
+308,305,text,with the master link are awesome.,n
+310,212,li,Lightweight pump,y
+312,29,h3,Tools and repair kits,y
+313,29,ul,,n
+314,313,li,,n
+316,314,strong,Tools,n
+317,314,ul,,n
+319,317,li,Chain whip,y
+321,317,li,Lock ring remover,y
+323,317,li,Adjustable wrench,y
+325,317,li,Needle nose pliers,y
+328,317,li,Swiss Army Knife,y
+330,317,li,Allen Wrenches,y
+331,317,li,,n
+332,331,text,Chain cracker.,y
+335,331,text,Don’t go anywhere without this one.,n
+337,317,li,Spoke wrench,y
+339,317,li,Nylon spoons,y
+340,313,li,,n
+342,340,strong,Misc,n
+343,340,ul,,n
+344,343,li,,n
+345,344,text,Duct tape.,y
+348,344,text,Don’t leave home without it.,n
+350,343,li,Electrician’s tape,y
+352,343,li,Bike grease,y
+354,343,li,Oil,y
+356,343,li,Presta adapter,y
+358,343,li,Plastic zip ties,y
+360,343,li,Rubber bands,y
+362,343,li,Plastic grocery bags,y
+364,343,li,Ziploc bags,y
+366,343,li,Super glue,y
+367,313,li,,n
+369,367,strong,Spare parts,n
+370,367,ul,,n
+372,370,li,Brake and shift cables,y
+373,370,li,,n
+374,373,text,Two spare chains and extra links.,n
+377,373,text,"I carried 3 chains and rotated them every 1000 kilometers so that my whole drive train wore evenly. I replaced the drive train every 10,000 kilometers.",n
+379,370,li,Brake pads,y
+381,370,li,Nylon rope spoke. Useful,y
+382,370,li,,n
+383,382,text,6 Spare spokes.,y
+386,382,text,Use some plastic ties and cinch these to the frame,n
+388,370,li,4 Inner tubes,y
+389,370,li,,n
+390,389,text,Spare tires,y
+393,389,text,foldable knobbies and one set of slicks.,n
+394,370,li,,n
+395,394,text,"Spare nuts, bolts and washers.",y
+398,394,text,these. You will be rebuilding broken parts.,n
+399,313,li,,n
+401,399,strong,Repair kits and maintenance,y
+402,399,ul,,n
+403,402,li,,n
+404,403,text,Regular patch kit and rubber cement.,y
+407,403,text,glueless patches don’t hold in the heat.,n
+409,402,li,Air pump maintenance kit and spare parts,y
+410,402,li,,n
+411,410,text,Therm-A-Rest repair kit.,y
+414,410,text,"I used to carry repair kits for air mattresses, tents, and rain gear, but I used them so rarely that in a pinch I could work miracles with duct tape, super glue, and rubber patches.",n
+416,402,li,Water filter maintenance kit and spare parts,y
+418,402,li,Stove spare maintenance kit and spare parts,y
+420,29,h3,Bicycle Clothes,y
+421,29,ul,,n
+425,421,li,Try to blend in with the locals.,y
+426,421,li,,n
+427,426,text,3 pair bicycle shorts,y
+430,426,text,"Dry your clothes, especially your shorts in the sun occasionally to prevent disease.",n
+432,421,li,1 pair bicycle underwear,y
+434,421,li,Bicycle socks,y
+435,421,li,,n
+437,435,strong,Sidi,n
+441,435,text,cycle shoes. I went through only two pairs of cycling shoes. The cleats actually wore off the bottom before the shoes did. I preferred shoes that were good for walking also.,n
+443,421,li,Booties,y
+444,421,li,,n
+445,444,text,3 bicycle jerseys.,y
+448,444,text,I liked to use synthetic fabric which is very easy to wash and dry. And I liked shirts that looked fairly normal to blend in with the locals and for everyday use to save weight.,n
+450,421,li,Cold or rainy weather jersey,y
+452,421,li,Cold or rainy weather pants,y
+454,421,li,Yellow wind or sun breaker.,y
+456,421,li,Rain jacket,y
+458,421,li,Riding gloves,y
+460,421,li,Cold weather gloves,y
+462,421,li,Hemet with a visor,y
+464,421,li,Knee warmers,y
+468,421,li,"To keep my kit light, I would sell or give away my clothes and buy new ones according to the climate changes.",n
+470,29,h3,Street Clothes,y
+471,29,ul,,n
+473,471,li,Scarf or bandana,y
+475,471,li,Shorts,y
+477,471,li,Shirts,y
+479,471,li,Blue Jeans,y
+481,471,li,Underwear,y
+483,471,li,Sandals or flip flops,y
+485,471,li,Hiking Shoes,y
+487,471,li,Wool socks,y
+488,471,li,,n
+489,488,text,Foldable full-brim hat.,y
+492,488,text,"An essential item, and one of my favorites. You’ll need to keep the sun off you to prevent dehydration, heat stroke, and to look young and beautiful.",n
+494,29,h3,Toiletries,y
+495,29,ul,,n
+496,495,li,,n
+497,496,text,Earplugs.,y
+500,496,text,never leave home without them.,n
+502,495,li,Soap or shampoo,y
+504,495,li,Needle or thread,y
+506,495,li,Floss,y
+508,495,li,Toothpaste or brush,y
+510,495,li,Deodorant,y
+512,495,li,Mirror,y
+514,495,li,Razor or blades,y
+516,495,li,Washcloth,y
+518,495,li,Towel,y
+520,495,li,Nail clippers,y
+522,495,li,Women don’t forget your womanly things. They can be hard to find.,y
+524,29,h3,Camping Supplies,n
+525,29,ul,,n
+526,525,li,,n
+528,526,strong,Mountain Hardware.,y
+529,526,text,My Room With a View lasted the whole way except for replacing the zippers. I recommend anything this company makes. 2-man tent.,n
+532,526,text,"give yourself some room to stretch, because they’ll be a day when you can’t leave your tent.",n
+534,525,li,Ground cloth,y
+535,525,li,,n
+537,535,strong,Slumberjack,y
+538,535,text,Sleeping Bag,y
+540,525,li,Silk sleeping Bag insert,y
+543,525,li,Therm-A-Rest,y
+545,525,li,Bunji cords,y
+546,525,li,,n
+547,546,text,Nylon rope.,y
+550,546,text,make a clothesline for your laundry or hang your bike in a tree for repairs or pull your friend up a cliff :),n
+551,525,li,,n
+553,551,strong,Petzl LED Headlamp.,y
+554,551,text,My favorite item.,n
+556,29,h3,Electronics,n
+557,29,ul,,n
+558,557,li,,n
+560,558,strong,Canon Rebel EOS.,y
+561,558,text,Professional camera or film,n
+563,558,strong,Useful TIP,n
+564,558,text,"I prefer digital now. It’s easy to burn your images onto a CD in any internet cafe in almost every small city. Besides, you will ruin your film in the heat and cold and x-ray machines. I just saved you thousands of dollars.",n
+566,557,li,these. I just saved you thousands of memories.,n
+567,557,li,,n
+569,567,strong,Timex Expedition,y
+570,567,text,watch or Alarm clock. Comes with a built-in compass.,n
+572,557,li,"Spanish dictionary, phrasebook and translator",y
+574,557,li,Short-wave radio,y
+576,557,li,"Computer. I have occasionally lugged around a laptop. But it is risky considering the added weight on your knees, theft, and damage from vibration or humidity.",y
+578,557,li,"Cell phone with GPS. Darn near essential these days; however, don’t expect it to work in most areas.",y
+580,29,h3,Misc,n
+581,29,ul,,n
+583,581,li,Backpack,y
+585,581,li,Binoculars,y
+587,581,li,Journal,y
+589,581,li,Ball-point pens,y
+591,581,li,Sunglasses,y
+593,581,li,Eyeglass strap,y
+594,581,li,,n
+595,594,text,Pepper spray.,y
+598,594,text,"Eventually got tossed out. I figured if I ever got in this much trouble, it was too late.",n
+600,581,li,Pillow. I often used my fleece jacket unless it was too cold.,y
+602,581,li,Fishing line.,y
+604,581,li,Book,y
+606,581,li,Compass,y
+607,581,li,,n
+609,607,strong,Maps and guidebooks,y
+610,607,ul,,n
+612,610,li,World map to show locals what I was doing,y
+614,610,li,Regional map and guidebook,y
+615,610,li,,n
+616,615,text,Additional maps and guidebooks purchased along the way. Generally I preferred,n
+618,615,strong,Lonely Planet,n
+619,615,text,leaving your own country.,n
+622,615,text,Buy the book no one else does.,n
+624,581,li,Cards. Ended up alongside the road with most non-functional items.,y
+626,29,h3,FOOD and WATER,y
+627,29,ul,,n
+629,627,li,Water purification tablets,y
+630,627,li,,n
+632,630,strong,Katadyn,n
+633,630,text,ceramic water filter.,n
+636,630,text,"Another good product. Be sure to carry some replacement o-rings. Also, an additional charcoal filter would be ideal, but not practical.",n
+638,627,li,whatever suits you. Proteins in the morning and carbs in the afternoon.,n
+640,627,li,COFFEE,y
+642,627,li,Salt,y
+643,627,li,,n
+644,643,text,Chili powder,y
+646,643,strong,Very important,n
+647,643,text,bad food and parasites.,n
+648,627,li,,n
+649,648,text,Lemons.,y
+651,648,strong,FIRST MOST IMPORTANT TIPS OF THEM ALL,n
+652,648,text,"squeeze juice in your water to stay hydrated. Just drinking water isn’t good enough. Dehydration causes acidosis . Acidosis not only causes those aches and pains, but it is also a major cause of aging and disease along with stress. Your body needs a little help absorbing water with things like potassium.",n
+653,627,li,,n
+654,653,text,Vitamins and minerals,y
+656,653,strong,THE SECOND MOST IMPORTANT TIP,n
+657,653,text,"Finding food is relatively easy; however, staying nourished is very difficult. As an endurance athlete, not only will you be sweating out salts and minerals and electrolytes, you will be burning through everything else fast, meaning: protein, amino acids, carbs, fats, enzymes, vitamins, minerals, hormones, anti-oxidants and stuff you’ve never even heard of. And you can’t simply replace some of these things. Your body needs the spare parts to manufacture critical chemicals. Spare your body long-term damage, by keeping it regularly fed, watered and rested. Which means minimize processed foods.",n
+660,29,h3,Do you believe I got this all on a bicycle and around the world!?,n
+662,29,p,For more ideas on your gear and supply kit see Tips and Tricks .,n
+670,1,div,,n
+678,670,h4,Please share,n
+681,670,div,,n
+687,681,div,Facebook,n
+693,681,div,Twitter,n
+697,670,div,,n
+699,697,h4,Scott Stoll,n
+701,697,div,My claim to fame is that I rode a bicycle around the world and wrote some books. More about me.,n
+725,1,div,,n
+733,725,h3,More stories about the bike trip,n
+736,725,div,,n
+740,736,div,,n
+742,740,h4,Wisconsin Public Radio Interviews #1 and 2,n
+745,740,p,"I had another great interview on WPR’s Larry Meiller program. We talked a little about my trip around the world on a bicycle, and a lot about working on the new school book project.",n
+749,736,div,,n
+751,749,h4,Milwaukee Magazine — Tour de Force,n
+754,749,p,My story in the acclaimed Milwaukee Magazine was on the newsstands in March and was a sweet summary of my trip. Wish I had a professional photographer following me around the world. Can you guess what that white stuff is?,n
+758,736,div,,n
+760,758,h4,The advertisement that got me fired and “ruined” my life,n
+763,758,p,"This career-changing and life-changing event led to the incendiary moment which compelled me to ask, “If I could do anything, what would I do?”",n

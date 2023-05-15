@@ -1,0 +1,282 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+6,1,div,,n
+13,6,h1,The Bare Necessities,n
+18,6,p,"Canoe Camping Checklist , is an amazing and comprehensive camping pack list that you can use as a light car camping list or for backpacking.",n
+22,6,p,"Canoe camping can take you next to nature and bring you into a peaceful state, a little heaven on earth. But, if you don’t bring the right equipment it can be the longest journey of your life.",n
+23,6,p,,n
+24,23,text,"This camping pack list is a tried and true canoe camping checklist that I use to pack EVERY ONE of the interior canoe trips that I’ve lead. If you follow this, it should be all you’ll need.",n
+26,23,br,Note,n
+30,6,p,"The exact canoe camping checklist of everything you need to paddle into the wilderness, or use it as a Camping Pack List ‘essentials’.",n
+33,6,p,,n
+34,33,text,This Camping pack list is sorted by how I organize to go on canoe trip.,n
+36,33,br,"When I lead trips , I take",n
+38,33,br,•	1 Equipment pack,n
+40,33,br,•	4 Personal packs,n
+42,33,br,days,n
+44,33,br,•	A fanny or bum pack,n
+46,33,br,•	4 canoes you do not want to over fill the canoe.,n
+50,6,p,Make sure to read the bottom half of this page for the description of why each piece of canoe camping gear is important for this Canoe Camping Checklist .,n
+59,6,p,,n
+60,59,text,•	In the canoe,n
+62,59,br,o	Paddles,y
+64,59,br,o	Boat safety kit,y
+66,59,br,o	Lifejackets with Whistle,y
+68,59,br,"o	Map , in waterproof case",y
+70,59,br,o	Water bottle,y
+73,6,p,,n
+74,73,text,•	Equipment pack,n
+76,73,br,o	Bowls,y
+78,73,br,o	Spoons,y
+82,73,br,o	Flipper,y
+84,73,br,o	Big spoon,y
+86,73,br,o	Pots,y
+88,73,br,o	Biodegradable Soap and tea towel,y
+92,73,br,o	Rope,y
+94,73,br,o	Tarp,y
+96,73,br,o	Duct tape,y
+98,73,br,o	Saw,y
+100,73,br,o	First Aid kit,y
+102,73,br,o	Radios and Sattelite phone and Antenna,y
+104,73,br,o	Stove and Fuel,y
+106,73,br,o	Cutting board,y
+108,73,br,o	Bowel trowel with poop can with toilet paper,y
+112,73,br,o	Grill,y
+114,73,br,o	Garbage bags,y
+116,73,br,o	Canoe repair kit,y
+118,73,br,o	Water filter,y
+121,6,p,,n
+122,121,text,•	Personal Packs,n
+126,121,br,o	Tents with groundsheet,y
+128,121,br,o	Sleeping bags,y
+130,121,br,o	Sleeping pad,y
+132,121,br,o	Work gloves,y
+134,121,br,o	Sweater,y
+136,121,br,o	Longsleeve,y
+138,121,br,o	2 Tshirt or Tanktops,y
+140,121,br,o	Bathing suit,y
+142,121,br,o	2 Quick dry pants,y
+144,121,br,o	1 pair shorts,y
+146,121,br,o	Undies and bras,y
+148,121,br,o	Hat	or Bandanna,y
+150,121,br,o	Socks,y
+152,121,br,"o	Toothbrush, floss, toothpaste, dental appliances ,",y
+154,121,br,o	Feminin products,y
+158,121,br,o	Sunglasses,y
+160,121,br,o	Medication,y
+162,121,br,o	Lipchap,y
+164,121,br,o	Wetshoes or sandles,y
+166,121,br,o	Rain gear,y
+168,121,br,o	Camera,y
+170,121,br,"o	Journal, writing paper",y
+172,121,br,o	Small towel,y
+174,121,br,o	Flashlight,y
+177,6,p,,n
+178,177,text,•	Bumpack,n
+180,177,br,o	Bandaids,y
+182,177,br,o	Compass,y
+184,177,br,o	Lip balm,y
+188,177,br,o	Tweezers,y
+192,177,br,o	Bear banger or air horn,y
+196,177,br,o	Alarm clock,y
+198,177,br,o	Extra toilet paper,y
+200,177,br,o	Extra medications,y
+202,177,br,o	Epi pen,y
+204,177,br,o	Tobacco,y
+207,6,p,,n
+208,207,text,Optional,n
+210,207,br,•	Fishing gear and tackle,y
+213,6,p,,n
+214,213,text,Things you DO NOT NEED,y
+216,213,br,•	Pillow,y
+218,213,br,•	Jeans as clothing,y
+220,213,br,•	Forks,y
+222,213,br,•	Plates,y
+224,213,br,•	Chairs,y
+228,6,p,Make sure that you notify someone of your plans and your route and dates that you plan on returning. It is also important to call in to someone every day to say where you are and whether you are ok.,n
+233,6,p,"Canoe Camping Check List, Camping Pack List",n
+236,6,p,"Camping Pack List, Canoe Camping Checklist",n
+241,6,p,"Now, I’ll go through the same camping pack list and explain each item on the Canoe Camping Checklist…",n
+245,6,p,"If you’re picking camping gear for the first time, please also check out my Camping Equipment page to pick the best gear for you! It explains EACH piece of equipment in great detail, so if you’re stuck on choosing, it will REALLY help you!",n
+251,6,p,,n
+252,251,text,Equipment pack,n
+254,251,br,"- everyone takes turns carrying this pack on different portages as it never gets lighter, and is always pretty heavy.",n
+256,251,br,"•	Bowls- Multi purpose- cup or mug, can be used for all foods, instead of a plate.",y
+258,251,br,"•	Spoons- multi purpose- can eat anything a fork can … if you really think you need a fork, get a spork.",y
+260,251,br,•	Knife- bring 1 or 2 butter knives and 1 or 2 multipurpose or jack knives,y
+262,251,br,"•	Flipper- foldable kind, pack up small.",y
+264,251,br,•	Big spoon-,y
+266,251,br,•	Pots - I would recommend 2-3 pots for a group of 8 so you can make supper in 2 and dessert in the 3rd. The lids can be used as pans. I would recommend buying pots meant for camping- they ‘nest’ better and pack up smaller.,y
+268,251,br,"•	Biodegradable Soap and tea towel- very little soap is needed. Some people even go without and just clean their dishes with dirt… yup , it works!!",y
+270,251,br,"•	Matches and Magnesium firestarter- yes, read my story on why I would absolutely recommend a magnesiums firestarter. Make sure you’re matches are strike anywhere and bring in a water proof container, like a mini nalgene – you can’t trust water proof matches… if they’re not strike anywhere, bring the stiker sand paper bit.",y
+274,251,br,"•	Rope- Lots- always handy,",y
+276,251,br,"•	Tarp- 1 or 2, depending on if you want to keep your packs dry at night. I leave them out in the rain if I don’t put up a tarp since if it rains at night, they’ll dry over the day, and if it rained during the night and it does during the day they’ll still get wet… might as well save space.",y
+278,251,br,•	Duct tape… enough said.,y
+280,251,br,"•	Saw- small, compact kinds are good. Come in handy to chop up fallen trees or branches to use in the fire",y
+282,251,br,"•	First Aid kit- A comprehensive list is compiled, please check it out.",y
+284,251,br,"•	Radios and Satellite phone and Antenna- HIGHLY recommended, perhaps rent them? Good to call in every few days to let someone know that you’re on track or if disaster has happened and you need drastic help. You’re life is worth it.",y
+286,251,br,•	Stove and Fuel- make sure to bring enough fuel for the whole trip for all your meals. I usually bring 3 large bottles for 8 people for 7 days. .,y
+288,251,br,•	Cutting board- a small thinner piece of wood to cut and prepare food. Also used to keep the back of the pack straight and hard instead of having things stick into your back.,y
+290,251,br,"•	Bowel trowel with ‘poop can’ with toilet paper- make sure to read article on How to Shit in the woods the poop can is a FANTASTIC idea, so you can still wipe your bum with toilet paper but don’t have to carry it with you or bury it .",y
+294,251,br,•	Campfire Grill- pack it along the back of the pack with the cutting board so that it adds support.,y
+296,251,br,•	Garbage bags- always come in handy. Extra durable ones are extra good!!,y
+298,251,br,•	Canoe repair kit- duct tape is good…,y
+300,251,br,"•	Water filter- some lakes in northern sections of the world have drinkable water, and I drank straight from the lake for many years , but as our fears grow and our cautions and pollutants increase, filters are always the safe way to go. Some people use iodine or chemicals, but they taste gross . This is a piece of equipment to fully research before heading out. Leave it on the top of the equipment pack- easy access to fill bottles as needed through the day.",y
+306,6,p,,n
+307,306,text,In the canoe,n
+309,306,br,•	Paddles- always bring an extra,y
+311,306,br,"•	Boat safety kit- filled with a waterproof flashlight, an emergency blanket, a floating rope and the container acts as a bailer.",y
+313,306,br,•	Lifejackets with Whistle- make sure your life jacket is comfortable and fits properly.,y
+315,306,br,"•	Map , in waterproof case- I like to have one map per canoe so everyone can follow along.",y
+319,6,p,Personal Packs,n
+322,6,p,,n
+323,322,text,•	Tents with groundsheet,y
+325,322,br,•	Sleeping bags,y
+327,322,br,"•	Sleeping pad . When I was younger and less ‘soft’ I just used the ‘blue foamy’, and they were ok.",y
+329,322,br,"•	Work gloves- useful for moving rocks for the firepit, and moving hot pots when cooking. Multipurpose is always best.",y
+331,322,br,"•	Sweater- fleece or wool is best. Cotton is heavy, not as warm and doesn’t dry or keep you warm when wet.",y
+333,322,br,•	Longsleeve- I like ones that open up at the front- button up light work shirts so that as the day gets warmer I can open up the shirt for a breeze.,y
+335,322,br,•	2 Tshirt or Tanktops,y
+337,322,br,•	Bathing suit,y
+339,322,br,•	2 Quick dry pants- better if have zip off shorts,y
+341,322,br,•	1 pair shorts,y
+343,322,br,•	Undies and bras,y
+345,322,br,"•	Hat	or Bandanna- wide brimmed hats are better, they protect your ears.",y
+347,322,br,•	Socks,y
+349,322,br,"•	Toothbrush, floss, toothpaste, dental appliances ,",y
+351,322,br,•	Feminine products,y
+355,322,br,•	Sunglasses,y
+357,322,br,•	Medication,y
+359,322,br,•	Lipchap,y
+361,322,br,•	Wetshoes or sandles,y
+363,322,br,•	Rain gear	- tops and bottoms,y
+365,322,br,•	Water bottle- 1 litre is good,y
+367,322,br,•	Camera,y
+369,322,br,"•	Journal, writing paper",y
+371,322,br,"•	Small towel- bigger just means more smelly wet to carry, as they never fully dry.",y
+373,322,br,•	Flashlight- head ones are really good,y
+377,6,p,,n
+378,377,text,Bum pack or Fanny pack-,n
+380,377,br,"These may not be the most flattering or ‘cool’ item on this Camping Pack List, but they are easily accessible. I like to bring a bum pack so that I don’t have to dig into my pack for something that is small but used often. These are the most common things that are needed on a regular basis. If it’s worse than these things can fix, then you’ll probably have to stop and treat whatever it is anyway.",n
+382,377,br,•	Bandaids,y
+384,377,br,•	Compass,y
+386,377,br,•	Lip balm,y
+390,377,br,•	Tweezers- to pick out slivers or ticks.,y
+392,377,br,•	Matches and magnesium firestarter,y
+396,377,br,"•	Bear banger or air horn – if you come across a bear, it should be handy!!!",y
+398,377,br,•	Knife –,y
+400,377,br,•	Travel Alarm clock,y
+402,377,br,•	Extra toilet paper,y
+404,377,br,•	Extra medications,y
+406,377,br,•	Epi pen-,y
+408,377,br,•	Tobacco read why I give an offering for safe passage as I was taught by my canoe leader who learned from the natives.,y
+414,6,p,,n
+415,414,text,Optional items,n
+417,414,br,"Fishing gear and tackle- make sure you know the parks rules on bait, and learn how to dispose of the remains properly after.",y
+421,6,p,,n
+422,421,text,Things you DO NOT NEED,n
+424,421,br,"•	Pillow – use your sweater in a ball..•	Jeans for clothing- they don’t dry, once wet, they’ll stay wet… oh, and they’re heavy.",y
+426,421,br,•	Forks- you can eat it with a spoon.,y
+428,421,br,•	Plates- it can be kept in a bowl and won’t spill as easily.,y
+430,421,br,•	Chairs,y
+434,421,br,I hope that this Canoe Camping Checklist has helped you to pack,n
+436,6,p,,n
+437,436,text,Other camping packing list s you may use,n
+440,436,br,Full Comprehensive Camping List,n
+443,436,br,Hiking Checklist,n
+446,6,p,Check out how to choose the right Camping Equipment mentioned on this Camping Pack List,n
+450,6,p,Return from Canoe Camping Checklist to Camping Expert Homepage,n
+457,6,div,,n
+458,457,h3,,n
+460,458,span,New!,n
+461,458,text,Comments,n
+462,457,text,Have your say about what you just read! Leave me a comment in the box below.,n
+466,6,div,,n
+472,466,div,,n
+474,472,strong,Share this page,n
+476,472,div,What’s this?,n
+479,466,div,,n
+481,479,summary,Enjoy this page? Please pay it forward. Here's how...,n
+483,479,p,Would you prefer to share this page with others by linking to it?,n
+484,479,ol,,n
+486,484,li,Click on the HTML link code below.,n
+488,484,li,"Copy and paste it, adding a note of your own, into your blog, a Web page, forums, a blog comment, your Facebook account, or anywhere that someone would find this page valuable.",n
+492,479,div,"<a href=""http",n
+494,1,div,,n
+496,494,div,,n
+497,496,text,[,n
+499,496,span,?,n
+500,496,text,]Subscribe To This Site,n
+509,494,div,,n
+510,509,ul,,n
+512,510,li,Home,n
+514,510,li,Wilderness recipe e-book,n
+516,510,li,Ask A Questions!,n
+518,510,li,Camping Blog,n
+520,509,h3,Gifts and Neat Stuff,n
+521,509,ul,,n
+523,521,li,Camping Gifts,n
+525,521,li,Christmas Gift Ideas,n
+527,521,li,Gifts,n
+529,521,li,Small Gift Ideas,n
+531,521,li,Book Suggestions,n
+533,509,h3,Lists,n
+536,509,li,Checklists,n
+538,509,h3,Equipment,n
+539,509,ul,,n
+541,539,li,More Gear,n
+543,539,li,Hammock,n
+545,539,li,Pelican Case,n
+547,539,li,Tents,n
+549,539,li,Sleeping Bags,n
+551,539,li,Tarps,n
+553,539,li,Stove,n
+555,539,li,Bear Container,n
+557,509,h3,Canoeing,n
+558,509,ul,,n
+560,558,li,Everything Canoe,n
+562,558,li,Canoe Checklist,n
+564,558,li,Canoe Specific Gear,n
+566,509,h3,Hiking,n
+569,509,li,Hiking Checklist,n
+571,509,h3,Backpacking,n
+572,509,ul,,n
+574,572,li,Backpacking Stove,n
+576,572,li,Backpacking Gear Recommendation,n
+578,572,li,Backpacking Checklist,n
+580,572,li,Backpacking Recipes,n
+582,509,h3,Food,n
+583,509,ul,,n
+585,583,li,Food,n
+587,583,li,Food List,n
+589,583,li,Menu,n
+591,583,li,Campfire recipes,n
+593,509,h3,Safety,n
+594,509,ul,,n
+596,594,li,Safety,n
+598,594,li,First Aid,n
+600,594,li,Bear Safety,n
+602,594,li,Insect Bites,n
+604,509,h3,How to...,n
+607,509,li,How to,n
+609,509,h3,Places,n
+612,509,li,Parks,n
+614,509,h3,Fun stuff,n
+617,509,li,Hug A Tree,n
+619,509,h3,Other,n
+620,509,ul,,n
+622,620,li,About Me,n
+624,620,li,Camping Websites,n
+626,620,li,Site Policies,n
+628,620,li,Ultralight gear,n
+634,494,div,,n
+637,634,tr,Enter Your E-mail Address,n
+643,634,tr,Enter Your First Name,n
+648,634,tr,,n
+651,648,strong,Then,n
+655,648,small,,n
+656,655,text,Don't worry — your e-mail address is totally secure.,n
+658,655,br,I promise to use it to send you Camping Tips E-Zine.,n
+660,655,strong,only,n
+672,1,p,Check out my NEW Wilderness Recipe Ebook !!,n

@@ -1,0 +1,64 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+22,0,div,,n
+27,22,div,,n
+29,27,h1,Our Must-Have Wedding Decor Checklist,n
+31,27,p,,n
+32,31,text,"Planning a wedding is hectic and it is easy for something to slip up. That is why at Pink Book we work with our trusty checklists! To try and make it easier for all our brides-to-be we created this super handy 12-month wedding planning checklist . And now, to help you keep track of all of the elements you need for your ceremony and reception decorations we present:",n
+36,31,strong,A Printable Wedding Decor Checklist,n
+37,31,text,.,n
+39,27,p,We could not have done this blog without Debbie Montague at ETC Events . Here is what she has to say about your wedding décor checklist:,n
+48,27,p,"This is a short, concise list of the basic décor elements that you are going to need for your wedding ceremony and the reception.",n
+50,27,p,"Obviously, there will be more intricate details based on your wedding theme. But this list should cover the basics. And also note that we haven’t included the wedding flowers here. That is a whole ‘nother topic on its own! So don’t forget about your bouquets, boutonnieres and floral decorations.",n
+52,27,h3,Wedding Ceremony Décor,n
+53,27,ul,,n
+55,53,li,Welcome Sign,y
+57,53,li,Wedding Program,y
+59,53,li,Aisle Runner,y
+61,53,li,Ceremony Arch or Backdrop,y
+63,53,li,Chairs,y
+65,53,li,Confetti,y
+68,27,p,Photo from onefabday.com,n
+74,27,h3,Wedding Reception Décor,n
+75,27,ul,,n
+77,75,li,Tables and Chairs,y
+79,75,li,Cutlery and Silverware,y
+81,75,li,Glassware,y
+83,75,li,Table Numbers and Name Tags,y
+85,75,li,Seating Plan,y
+87,75,li,Center Pieces,y
+89,75,li,Menus,y
+91,75,li,Cake Stand and Knife,y
+93,75,li,Dance Floor,y
+95,75,li,"Linen, Table Cloths and Seat Covers",y
+97,75,li,Draping,y
+99,75,li,Ambient Lighting,y
+101,75,li,Gift Table with Guest Book,y
+103,75,li,Wedding Favours,y
+105,75,li,Bar structure and décor,y
+108,27,p,Photo from fabmood.com,n
+111,27,h3,Download the Wedding DEcor Checklist,n
+114,27,p,DOWNLOAD THE WEDDING DÉCOR CHECKLIST,n
+124,22,div,,n
+126,124,h3,Related Vendors,n
+128,124,div,,n
+132,128,div,,n
+134,132,h2,Ethereal Candle Crafters,n
+137,132,text,Gauteng Decor and Hiring,n
+143,128,h2,Authentic Planning,n
+150,128,div,,n
+152,150,h2,OHRR CANDLE COLLECTIVE,n
+155,150,text,Somerset West Decor and Hiring,n
+159,128,div,,n
+161,159,h2,Décor Luxe Event Hire,n
+164,159,text,Western Cape Decor and Hiring,n
+170,128,h2,A Vintage Affair Crockery and Décor Hire | Western Cape,n
+174,22,div,,n
+176,174,h2,Related Posts,n
+177,174,div,,n
+183,177,div,,n
+185,183,h3,Your Ultimate Wedding Planning Checklist,n
+190,183,p,"Congratulations! You just got engaged and are now starting this exciting journey! All of this is quite overwhelming, isn’t it?...",n
+198,177,div,,n
+200,198,h3,6 Steps To A Covid Free Wedding Day,n
+205,198,p,The coronavirus is here to stay and we want to make sure that you are up to date with new...,n

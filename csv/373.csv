@@ -1,0 +1,390 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+407,0,div,,n
+419,407,div,,n
+429,419,h1,Storage and Organization,n
+431,419,div,,n
+439,431,ul,,n
+441,439,li,Husky Storage Solutions,n
+443,439,li,Shelving,n
+445,439,li,Design and Installation,n
+447,439,li,How-To Guides,n
+448,431,div,,n
+453,448,div,,n
+462,453,div,,n
+463,462,text,Garage Storage,n
+464,462,ul,,n
+466,464,li,Garage Cabinets,y
+468,464,li,Garage Storage Systems,y
+470,464,li,Garage Shelving,y
+472,464,li,Garage Overhead Racks,y
+474,464,li,Garage Wall Organization,y
+476,464,li,Workbenches,y
+478,453,div,,n
+479,478,text,Storage Containers,n
+480,478,ul,,n
+482,480,li,Storage Bins,y
+484,480,li,Storage Drawers,y
+486,480,li,Underbed Storage,y
+488,480,li,Milk Crates,y
+490,480,li,Wooden Crates,y
+492,453,div,,n
+493,492,text,Closet Organizers,n
+494,492,ul,,n
+496,494,li,Closet Systems,y
+498,494,li,Closet Shelves,y
+500,494,li,Shoe Storage,y
+502,494,li,Shoe Racks,y
+504,494,li,Clothes Racks,y
+506,494,li,Closet Rods,y
+508,494,li,Closet Drawers,y
+510,453,div,,n
+511,510,text,Shelving,y
+512,510,ul,,n
+514,512,li,Freestanding Shelving Units,y
+516,512,li,Wall Mounted Shelves,y
+518,512,li,Decorative Shelving,y
+520,512,li,Shelving Brackets,y
+522,453,div,,n
+524,522,p,Shop by Brand,n
+525,522,ul,,n
+527,525,li,Ryobi,n
+529,525,li,Husky,n
+531,525,li,NewAge,n
+533,525,li,Gladiator,n
+535,525,li,Rubbermaid,n
+537,525,li,Closetmaid,n
+539,525,li,Closet Evolution,n
+541,525,li,Closets by Liberty,n
+543,525,li,HDX,n
+545,453,div,,n
+547,545,p,Shop Storage by Room,n
+548,545,ul,,n
+550,548,li,Closet Organization,n
+552,548,li,Garage Storage,n
+554,548,li,Laundry Room Storage,n
+556,548,li,Kitchen Organization,n
+558,548,li,Outdoor Storage,n
+560,548,li,Home Office,n
+562,548,li,Entryway,n
+564,453,div,,n
+565,564,text,Moving Boxes and Supplies,y
+566,564,ul,,n
+568,566,li,Moving Boxes,y
+570,566,li,Bubble Wrap,y
+572,566,li,Packing Paper,y
+574,453,div,,n
+575,574,text,Cube Storage,y
+576,574,ul,,n
+578,576,li,Cube Storage Bins,y
+580,576,li,Cube Organizers,y
+582,453,div,,n
+583,582,text,Folding Furniture,y
+584,582,ul,,n
+586,584,li,Folding Tables,y
+588,584,li,Folding Chairs,y
+590,584,li,Folding Tables and Chair Sets,y
+594,448,div,,n
+600,594,div,That Get Organized Feeling,n
+604,594,div,,n
+609,604,div,,n
+614,609,h2,UP TO $700 OFF,n
+616,609,div,Select Garage Storage Systems,n
+622,604,div,,n
+627,622,h2,UP TO $125 OFF,n
+629,622,div,Select Garage Storage Cabinets,n
+635,604,div,,n
+640,635,h2,UP TO $130 OFF,n
+642,635,div,Select Garage Workbenches,n
+648,604,div,,n
+653,648,h2,STARTING AT $155,n
+655,648,div,Select Closet Systems,n
+665,594,div,Storage Solutions,n
+673,594,div,,n
+678,673,div,,n
+680,678,div,Garage Organization,n
+682,678,div,Closet Organization,n
+686,678,div,Shelving,n
+688,678,div,Moving Boxes and Supplies,n
+690,678,div,Kitchen Organization,n
+695,673,div,,n
+697,695,div,Laundry Organization,n
+699,695,div,Outdoor Storage,n
+701,695,div,Office Organization,n
+703,695,div,Cube Storage,n
+705,695,div,Lockers,n
+707,695,div,Folding Furniture,n
+714,594,div,,n
+716,714,div,,n
+718,716,span,Exclusive Husky Storage Solutions,n
+719,716,text,Shop Now,n
+721,714,div,"From storage bins to complete storage systems, Husky has what you need to get organized. Lifetime warranty with no questions or receipt required.",n
+727,594,div,,n
+732,727,div,,n
+734,732,div,Garage Cabinets,y
+736,732,div,Garage Shelving,y
+740,732,div,Garage Storage Systems,y
+745,727,div,,n
+747,745,div,Workbenches,y
+749,745,div,Garage Overhead Racks,y
+751,745,div,Pegboards,y
+753,745,div,Slatwalls,y
+769,594,div,Shelving,y
+775,594,div,,n
+777,775,div,Steel Shelving,y
+779,775,div,Wire Shelving,y
+781,775,div,Plastic Shelving,y
+783,775,div,Closet Shelves,y
+789,594,div,Design and Installation,n
+797,594,div,,n
+799,797,p,STORAGE JUST THE WAY YOU WANT IT,n
+801,797,p,Our experts will help you custom design the storage solution that’s just right,n
+803,797,span,Schedule An Appointment,n
+807,594,div,,n
+809,807,div,Closet Storage Installation,n
+811,807,div,Garage Storage Installation,n
+813,807,div,Home Office Installation,n
+815,807,div,Laundry Room Installation,n
+821,594,div,How-To Guides,n
+830,594,div,,n
+832,830,span,STORAGE and ORGANIZATION DIY,n
+834,830,p,Maximize your space and get organized with these easy tips.,n
+835,830,ul,,n
+837,835,li,How to Hang a Pegboard,n
+839,835,li,How to Install Wire Shelving,n
+841,835,li,How to Pack,n
+845,594,div,,n
+847,845,div,Garage Storage Ideas,n
+849,845,div,Closet Organization Ideas,n
+851,845,div,Best Storage Containers,n
+857,594,div,Storage Organization Made Easy and Affordable,n
+861,594,div,,n
+863,861,p,Get rid of clutter and make space for living. Now’s the time to put things away so you can find them later. We offer storage solutions at affordable prices and in styles you’ll adore. Take this storage opportunity to organize for peace of mind and clean lines around the house.,n
+867,861,p,Get help with storage and organization,n
+871,861,p,"You’ll fit more in a closet with a shelving system and a little bit of organization. Simply figure out what style works best for your decor and budget, then choose closet organizers that suit your needs. You’ll be surprised by all the options you have to make any space work like entire closet systems . Wood closet organizers are shelving systems that double as storage furniture. They come in a range of shapes and sizes, with options for open shelving, hanging rods, drawers and more. Expand your home storage ability with wire closet organizers . You get a variety of adjustable shelving for your storage needs and solutions you’ll love in 2021.",n
+883,861,p,Declutter the quick and easy way by storing your shoes in a shoe rack . Get in the habit of using your shoe storage by placing your footwear inside so you know where it is once and for all. Easily keep your wardrobe organized with clothes racks . Your home and family will thank you for the extra effort. This home storage solution will keep your summer and winter shoes in storage through the season. You’ll also keep tracked-in dirt to a minimum.,n
+893,861,p,What about storage and shelving,n
+897,861,p,Lift your stuff off the floor and put it up on shelves in any room – especially in the garage or laundry room. Get the detergents and fabric softeners on a shelf onto garage shelving and within reach. Treat yourself to storage shelving and workbenches for your tools and make space for a garage studio .,n
+907,861,p,"Totes, baskets and storage cubes and clear bins are key elements in organizing any space in your home. You can also slip a set of storage drawers in wherever you need more space to sort and store. Tuck away holiday decor favorites with Christmas storage. Whether it be your closet, garage or an outdoor area, these products are great for organizing and neatly stashing household clutter. You can move them around easily to get them where you need them, too. Home storage doesn’t have to be complex. That’s where we come in; we’ve got lots of organization ideas, and we make home organization easy.",n
+915,861,p,"Finally, if you’re planning a move, you can depend on our moving boxes and moving supplies to keep your personal items safe and secure. Use them to stay organized in short-term remote storage, as an extension of your home storage solution. Decrease clutter and increase available space by simply investing a little time and energy into home storage. We are your organization store.",n
+928,419,div,,n
+932,928,div,Garage Storage,n
+940,928,div,Moving Supplies,n
+944,928,div,Decorative Shelving and Accessories,n
+1033,407,div,,n
+1038,1033,h2,Sponsored Products,n
+1044,1033,div,,n
+1046,1044,div,,n
+1052,1046,div,12 ft. x 10 ft. Black Aluminum Hardtop Gazebo with Mosquito Net and Curtain,n
+1062,1046,div,1659,n
+1075,1044,div,10 ft. x 10 ft. Black Gazebo with Mosquito Net and Curtain,n
+1092,1044,div,,n
+1098,1092,div,12 ft. x 12 ft. Hardtop Gazebo with Aluminum frame in Brown,n
+1108,1092,div,1942,n
+1121,1044,div,10 ft. x 12 ft. Gray Gazebo with Mesh,n
+1138,1044,div,,n
+1144,1138,div,13 ft. x 10 ft. Aluminum Outdoor Retractable Pergola with Solar Powered LED Lamps and Wooden Finish in Sand,n
+1154,1138,div,776,n
+1161,1044,div,,n
+1163,1161,div,,n
+1165,1163,span,Shoulder Dolly,n
+1167,1163,span,ShoulderDolly 12 ft L x 5 in. W Moving Straps,n
+1177,1161,div,39,n
+1184,1044,div,,n
+1190,1184,div,32 in. W Bike Track Storage System,n
+1197,1184,div,,n
+1200,1197,text,127,n
+1202,1197,span,57,n
+1207,1044,div,,n
+1209,1207,div,,n
+1211,1209,span,IRIS,n
+1213,1209,span,"79 Qt. Stackble Storage Tote, with Heavy-duty Red Buckles and Beige Lid, in Brown,",n
+1220,1207,div,,n
+1223,1220,text,105,n
+1225,1220,span,97,n
+1230,1044,div,,n
+1236,1230,div,64 in. W Utility Shelf and Track Storage System,n
+1243,1230,div,,n
+1246,1243,text,214,n
+1248,1243,span,88,n
+1253,1044,div,,n
+1259,1253,div,130 Gal. Heavy-Duty Outdoor Storage Deck Box,n
+1266,1253,div,,n
+1269,1266,text,217,n
+1271,1266,span,05,n
+1276,1044,div,,n
+1282,1276,div,47 in. L x 31 in. D x 60.5 - 71.5 in. H Wall-Mounted Folding Work Table,n
+1289,1276,div,,n
+1292,1289,text,300,n
+1294,1289,span,58,n
+1299,1044,div,,n
+1304,1299,div,"12 qt. Stack and Pull Clear storage Box, Lid Gray",n
+1311,1299,div,,n
+1314,1311,text,42,n
+1316,1311,span,91,n
+1321,1044,div,,n
+1327,1321,div,130 Gal. Polyethylene Outdoor Deck Box,n
+1334,1321,div,,n
+1337,1334,text,198,n
+1339,1334,span,38,n
+1344,1044,div,,n
+1346,1344,div,,n
+1348,1346,span,Backyard Discovery,n
+1350,1346,span,Saxony 8 ft. x 5 ft. Wooden Grill Gazebo,n
+1357,1344,div,,n
+1360,1357,text,1230,n
+1362,1357,span,12,n
+1367,1044,div,,n
+1373,1367,div,96 in. W Ultimate Shelf and Track Storage System,n
+1383,1367,div,450,n
+1390,1044,div,,n
+1396,1390,div,8 ft. x 12.5 ft. Outdoor Storage Shed,n
+1403,1390,div,,n
+1406,1403,text,1774,n
+1408,1403,span,66,n
+1503,407,section,,n
+1511,1503,div,,n
+1513,1511,div,,n
+1518,1513,h2,Related Searches,n
+1519,1513,div,,n
+1522,1519,h3,outdoor shed,n
+1525,1519,h3,garage storage cabinet,n
+1528,1519,h3,storage shelves,n
+1531,1519,h3,rubbermaid storage shed,n
+1534,1519,h3,foldable storage and organization,n
+1537,1519,h3,pegboard storage and organization,n
+1539,1511,div,,n
+1544,1539,h2,Related Products,n
+1545,1539,div,,n
+1548,1545,div,,n
+1550,1548,h3,4-Tier Heavy Duty Industrial Welded Steel Garage Storage Shelving Unit in Black,n
+1554,1548,span,"Perfect for organizing your garage or workshop, Husky's Steel I-Beam Shelving Unit measures 78 in. H x 77 in. W x 24 in. D. The 4 adjustable wire shelves provide ample storage space to accommodate a variety of heavy items, each shelf supporting up to 2500 lb.. This unit is constructed with steel in a powder-coated finish for durability and strength.",n
+1565,1545,div,,n
+1567,1565,h3,21 in. L x 15 in. W x 16 in. D Medium Moving Box with Handles,n
+1569,1565,span,The Home Depot Medium Moving Box is great,n
+1571,1565,span,"The Home Depot Medium Moving Box is great for moving and storing moderately heavy and bulky items. Ideal for clothing, kitchen items, toys, small appliances, and more. This box is crafted from 100% recycled material for an environmentally responsible moving and storage option.",n
+1582,1545,div,,n
+1584,1582,h3,27 in. L x 15 in. W x 16 in. D Large Moving Box with Handles,n
+1586,1582,span,The Home Depot Large Moving Box is great,n
+1588,1582,span,"The Home Depot Large Moving Box is great for moving and storing lightweight and bulky items. Ideal for clothing, lampshades, pillows, stuffed animals, toys, and more. This box is crafted from 100% recycled material for an environmentally responsible moving and storage option.",n
+1599,1545,div,,n
+1601,1599,h3,5-Tier Heavy Duty Industrial Welded Steel Garage Storage Shelving Unit in Black,n
+1605,1599,span,"Perfect for organizing your garage or workshop, Husky's Extra Large Steel I-Beam Shelving Unit measures 90 in. H x 90 in. W x 24 in. D. The 5-adjustable wire shelves provide ample storage space to accommodate a variety of heavy items, each shelf supporting up to 1800 lbs. This unit is constructed with steel in a powder-coated finish for durability and strength.",n
+1619,1503,div,,n
+1621,1619,h2,Explore More on homedepot.com,n
+1622,1619,div,,n
+1623,1622,div,,n
+1625,1623,h4,Appliances,n
+1626,1623,ul,,n
+1628,1626,li,Laminate Residential Steam Mops,n
+1630,1626,li,Shop Sabbath Mode Beverage and Wine Combos,n
+1632,1626,li,Brushless Cordless Vacuum Cleaners,n
+1634,1626,li,Black SABA Commercial Refrigerators,n
+1636,1626,li,Shop 2 basket Residential Deep Fryers,n
+1638,1626,li,Colors Gray Top Load Washers,n
+1639,1622,div,,n
+1641,1639,h4,Kitchen,n
+1642,1639,ul,,n
+1644,1642,li,Shop Corner Home Decorators Collection In Stock Kitchen Cabinets,n
+1646,1642,li,Rectangle Aluminum Cupcake Pans and Muffin Pans,n
+1648,1642,li,Shop More than 12 Pieces Libbey Drinking Glasses and Sets,n
+1650,1642,li,Set Cutting Boards,n
+1652,1642,li,Above 75 in. Kitchen Cabinet End Panels,n
+1653,1622,div,,n
+1655,1653,h4,Lighting,n
+1656,1653,ul,,n
+1658,1656,li,1 Light LNC Outdoor Pendant Lights,n
+1660,1656,li,Shop French Country Bronze Pendant Lights,n
+1662,1656,li,LED Brilliant Evolution Under Cabinet Lights,n
+1664,1656,li,Shop Black Light Bulbs,n
+1666,1656,li,Halogen New Construction Recessed Lighting Kits,n
+1667,1622,div,,n
+1669,1667,h4,Paint,n
+1670,1667,ul,,n
+1672,1670,li,Shop Roofing Glue or Epoxy Adhesive,n
+1674,1670,li,Shop BEHR PREMIUM Exterior Wall Exterior Wood Stains,n
+1676,1670,li,Angle Grinders Diamond Power Sander Accessories,n
+1678,1670,li,Interior Paint Nude Paint,n
+1680,1670,li,Shop Plaster Waterproof Pool Paint,n
+1682,1670,li,Shop Porch Song Patio Paint,n
+1683,1622,div,,n
+1685,1683,h4,What's in Season,n
+1686,1683,ul,,n
+1688,1686,li,Shop KEENEY Toilet Flush Valves,n
+1690,1686,li,Ironstone Decking,n
+1692,1686,li,Fluted Crosshead,n
+1694,1686,li,Cleveland Indians Sports Rugs,n
+1698,1619,div,View Less,n
+1700,0,footer,,n
+1702,1700,div,,n
+1704,1702,p,,n
+1705,1704,text,How doers get more done,n
+1707,1704,span,™,n
+1709,1702,p,,n
+1710,1709,text,Need Help? Please call us at,n
+1712,1709,strong,-HOME-DEPOT,n
+1714,1700,div,,n
+1715,1714,nav,,n
+1717,1715,h3,Customer Service,n
+1718,1715,ul,,n
+1720,1718,li,Check Order Status,n
+1722,1718,li,Pay Your Credit Card,n
+1724,1718,li,Order Cancellation,n
+1726,1718,li,Returns,n
+1728,1718,li,Shipping and Delivery,n
+1730,1718,li,Product Recalls,n
+1732,1718,li,Help and FAQs,n
+1734,1718,li,Privacy and Security Center,n
+1735,1714,nav,,n
+1737,1735,h3,Resources,n
+1738,1735,ul,,n
+1742,1738,li,Military Discount Benefit,n
+1750,1738,li,Moving Supplies and Rentals,n
+1752,1738,li,Protection Plans,n
+1754,1738,li,Rebate Center,n
+1758,1738,li,Catalog,n
+1760,1738,li,Subscriptions,n
+1761,1714,nav,,n
+1763,1761,h3,About Us,n
+1764,1761,ul,,n
+1766,1764,li,Careers,n
+1768,1764,li,Corporate Information,n
+1770,1764,li,Digital Newsroom,n
+1772,1764,li,Home Depot Foundation,n
+1774,1764,li,Investor Relations,n
+1776,1764,li,Government Customers,n
+1778,1764,li,Suppliers and Providers,n
+1780,1764,li,Affiliate Program,n
+1782,1764,li,Eco Actions,n
+1784,1764,li,Corporate Responsibility,n
+1786,1764,li,Home Depot Licensing Information,n
+1788,1714,div,,n
+1790,1788,div,,n
+1793,1790,div,Special Financing Available everyday*,n
+1794,1790,ul,,n
+1796,1794,li,Pay and Manage Your Card,n
+1798,1794,li,Credit Offers,n
+1801,1788,div,,n
+1803,1801,legend,Get $5 off when you sign up,n
+1805,1801,p,Please enter in your email address in the following format: you@domain.com,n
+1806,1801,p,,n
+1808,1806,label,Enter Email Address,n
+1812,1806,span,GO,n
+1824,1700,h3,Shop Our Brands,n
+1846,1700,div,,n
+1848,1846,p,© 2000-2022 Home Depot. All Rights Reserved. Use of this site is subject to certain Terms Of Use .,n
+1852,1846,p,Local store prices may vary from those displayed. Products shown as available are normally stocked but inventory levels cannot be guaranteed,n
+1854,1846,p,"For screen reader problems with this website, please call-or text 38698",n
+1855,1846,ul,,n
+1857,1855,li,Privacy and Security Statement,n
+1859,1855,li,Cookie Usage,n
+1861,1855,li,My Preference Center,n
+1863,1855,li,California Privacy Rights and Report,n
+1865,1855,li,Do Not Sell My Personal Information,n
+1867,1855,li,California Supply Chain Act,n
+1869,1855,li,Site Map,n
+1871,1855,li,Store Directory,n
+1873,1855,li,Mobile Site,n
+1885,0,div,,n
+1887,1885,span,Sign in,n
+1889,1885,span,Don't have an account? Create an Account,n

@@ -1,0 +1,764 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+8,3,h1,Airsoft,n
+9,3,div,,n
+11,9,div,"From Wikipedia, the free encyclopedia",n
+15,9,text,Jump to navigation Jump to search,n
+17,9,div,,n
+18,17,div,,n
+20,18,div,Activity which can be played as a game or shooting hobby,n
+28,18,div,,n
+29,28,text,This article needs additional citations,n
+33,28,span,,n
+34,33,text,Please help improve this article by adding citations to reliable sources . Unsourced material may be challenged and removed.,n
+42,33,span,Find sources,n
+57,28,span,November 2010,n
+62,28,span,Learn how and when to remove this template message,n
+64,18,table,,n
+66,64,caption,Airsoft,n
+67,64,tbody,,n
+71,67,div,Airsoft players defending an objective,n
+72,67,tr,,n
+74,72,th,First played,n
+76,72,td,Early 1970s in Japan,n
+80,67,tr,Characteristics,n
+81,67,tr,,n
+83,81,th,Contact,n
+85,81,td,Dependent on ruleset,n
+86,67,tr,,n
+88,86,th,Mixed-sex,n
+90,86,td,Any,n
+91,67,tr,,n
+93,91,th,Equipment,n
+95,91,td,"Airsoft guns , Airsoft pellets",n
+99,18,p,Airsoft is a team game in which participants eliminate opposing players by tagging them out of play with spherical plastic projectiles shot with mock air weapons called airsoft guns .,n
+110,18,p,"Although similar to paintball in concept and gameplay , airsoft pellets do not leave visible markings on their target and hits are not always apparent. Though the pellets leave bruises or welts on exposed skin , the game relies heavily on an honor system in which players who have been hit are expected to call themselves out by shouting ""HIT"".",n
+121,18,p,,n
+122,121,text,"The airsoft guns used are mostly magazine -fed, with some having manual or battery -powered spring - piston pump power plants similar to Nerf Blasters , or pneumatically powered by replaceable compressed gas , 1,1,1,2-tetrafluoroethane or",n
+143,121,span,CO,n
+146,121,text,canisters .,n
+151,121,text,"Many airsoft guns also have mounting platforms compatible with genuine firearm accessories, and most cosmetically resemble real firearms. This makes them popular for military simulation and historical reenactments . There are also professional gun safety and weapon manipulation training conducted with airsoft in some fields, such as law enforcement training,",n
+164,121,text,"due to better safety and lower cost. The United States Coast Guard , for instance, has officially adopted airsoft for training in 2018.",n
+171,18,p,,n
+172,171,text,"Airsoft gameplay varies in style and composition, but often ranges from action shooting to short organized live action role-playing scenarios, close quarters battle skirmishes, military simulations or historical reenactments .",n
+185,171,text,It is played in indoor courses or outdoor fields.,n
+188,171,text,Combat situations on the field may involve the use of genuine military tactics to achieve objectives set in each game. Participants may attempt to emulate the tactical equipment and accessories used by modern military and police organizations. A game is normally kept safe by trained professionals acting as supervisors and marshals.,n
+193,18,p,,n
+194,193,text,"Before gameplay, an airsoft gun's muzzle velocity is usually checked through a chronograph and usually measured in feet per second or Joules, a measurement of kinetic energy. Some countries have a set velocity or muzzle energy restriction; guns shooting over the legal velocity can be confiscated. Some playing fields further restrict minimum engagement distances,",n
+205,193,text,"requiring players to yell ""Bang Bang!"" or another phrase instead of shooting other players at close distances. This is done to prevent possible injuries from short range, high energy pellets.",n
+206,18,div,,n
+210,206,h2,Contents,n
+213,206,ul,,n
+216,213,li,1,n
+219,213,li,,n
+221,219,span,2,n
+224,219,ul,,n
+227,224,li,1,n
+232,224,li,2,n
+235,213,li,,n
+237,235,span,3,n
+243,235,li,1,n
+246,213,li,,n
+248,246,span,4,n
+254,246,li,1,n
+257,213,li,,n
+259,257,span,5,n
+262,257,ul,,n
+265,262,li,1,n
+270,262,li,2,n
+275,262,li,3,n
+280,262,li,4,n
+285,213,li,6,n
+290,213,li,7,n
+295,213,li,8,n
+300,213,li,9,n
+312,18,p,,n
+313,312,text,Airsoft originated,n
+316,312,text,"from Japan in the early 1970s, when photographer Ichiro Nagata, an avid shooting enthusiast himself, thought about making model guns that shoot real projectiles that could not kill. These “guns” were trademarked as soft air guns, tailoring to the needs of shooting enthusiasts while conforming to Firearm and Sword Possession Control Law Japan's strict gun control. The name ""soft air"" referred to the compressed Freon - silicone oil mixture that was used as a propellant gas, which was significantly weaker than the cannistered CO",n
+327,312,text,"used in proper airguns . Originally designed for target shooting , the plastic balls these ""soft air guns"" use can be shot at humans without causing injury due to the low muzzle energy . After Tokyo Marui introduced its revolutionary electric motor - gear box design, which allows sustainable rapid-fire using rechargeable batteries , soft air guns became popular for casual wargames , which the Japanese call survival games",n
+353,312,span,,n
+358,353,text,",",n
+360,353,span,sabaibaru gēmu,n
+365,312,text,Asahi Firearms was a model company from Japan who operated in the 1980s and 90s and was one of the early pioneers of the airsoft hobby.,n
+369,18,p,"Airsoft guns spread to the United Kingdom in the late 1980s and early 1990s via a company called LS, and were sold in separate pieces and had to be assembled before they were capable of shooting. These then became available to the rest of Europe and North America and rapidly gained popularity worldwide. Since the mid-1980s, airsoft has been adapted with a purely recreational application in mind, and the sport is enjoyed by all ages. Airsoft replicas are produced globally, with the majority being manufactured in East Asia . Many law enforcement agencies and military units within the United States now use airsoft for force-on-force training drills.",n
+390,18,div,Main article,n
+396,18,div,Classic Army M4A1 Carbine AEG with Aimpoint Comp M2 Replica Red dot sight,n
+400,18,p,The guns used in airsoft are typically classified as imitation firearms. They have a mechanism for shooting projectiles 6 mm or 8 mm in diameter.,n
+405,18,p,,n
+406,405,text,"Airsoft guns are classified according to their operating principle, which can be spring-loaded, electric , or gas-powered .",n
+409,405,text,"Some companies produce full replicas of counterpart grenade launchers which fire a projectile spray of 6 millimetres pellets by use of a high-powered spring mechanism or a compressed gas propellant (i.e. green gas, propane, compressed air, or CO",n
+414,405,text,"). There is also a type of airsoft gun that is powered by a single high-pressure air tank and a battery pack to power the internal FCU ""Fire Control Unit"" computer board. These guns are often known for their high and adjustable ROF or ""rate of fire"" and durability.",n
+419,405,text,"These HPA replicas are most often referred to as ""PolarStars"", although this refers to a popular brand of HPA engines and accessories.",n
+421,18,p,"A typical airsoft gun is noticeably lighter than its ""real steel"" counterpart due to the use of aluminum alloy and plastic materials, though some have added weights in them for a more realistic feel. Japan has specific rules about producing airsoft guns with metal parts, while newer guns, especially those made in Taiwan and Mainland China , have both internal and external parts that are metallic. Smoke caps, as well as noise amplifiers, are available for certain airsoft guns to add realism.",n
+429,18,p,"Gas handgun magazines usually contain 10 to 30 pellets in a standard-capacity magazine; however, some are high-capacity magazines and can hold 50 rounds or more. In the case of AEG rifles, magazines come in either real-capacity , low-capacity , mid-capacity , or high-capacity . These magazines have spring followers like in BB guns . The high-cap magazines often have a ratchet wheel that can be wound up periodically to force pellets up from the holding chamber of the magazine to the feeding chute. Due to loose pellets in the reservoir, they often make a rattling noise when running or walking. Some airsoft guns have a battery-powered box or drum magazine that holds thousands of pellets, but these are usually only used and allowed on LMGs type replicas.",n
+439,18,p,"It is common for owners to ""tech"" their guns. The majority of gearboxes are made to Tokyo Marui specifications and have aftermarket upgrade parts available commercially. Some gearboxes are proprietary in design. It is also possible to perform DIY modifications.",n
+459,18,div,Main article,n
+461,18,p,,n
+462,461,text,"The ""hop-up"" system, which is installed in most stock airsoft rifles and pistols, is used to increase effective ranges by putting backspin on the pellets. The Magnus effect causes the pellets to experience more lift as they are shot, counteracting against gravity.",n
+473,461,text,"A small rubber nub protrudes into the top of the barrel through a small hole, and it catches the top of the pellet as it moves past. Adjusting the hop-up makes the nub more or less protruded into the barrel, so that backspin is increased or reduced. Ideally, the hop-up should be adjusted so that the pellets fly as far as possible in a straight line without curving upward too far or dropping to the ground too quickly. Hop-Up does decrease the muzzle velocity with the hop fully unwound can drop to as low as 300 ft or s ). Ease and location of adjustment vary by gun design; some equipment provides a control that can be adjusted quickly during gameplay, while others may require partial dis-assembly. For example, a common location for Hop-Up adjustment is where the ejection port would be on a real firearm, which allows the machine to be covered while still allowing quick access to adjust the Hop-Up.",n
+486,18,p,"Some players customize their airsoft guns, either to improve performance or for purely aesthetic reasons. Additions include scopes, fore-grips, and flashlights, red dot sights being the most commonly used. Red dot sights are used to help aim, fore-grips are used to get a better grip on the airsoft gun, flashlights are used to illuminate dark areas and or or to blind opponents.",n
+492,18,p,"Even though in certain countries lasers are illegal, they are popular attachments in the U.S. and Europe. Laser sights are more for their appearance than any practical effect, largely because they must be weak enough not to carry a risk of damaging another player's eyesight, which rules out using any laser powerful enough to produce a visible dot on the target in sunlight .",n
+496,18,p,"Also available are ""mock suppressors or silencers "". These resemble the actual firearm accessory that dampens sound. Since Airsoft does not use combustibles for propulsion these usually serve no function. Although there are models that function to ""light up"" a glow-in-the-dark BB using UV light similar to a tracer round .",n
+516,18,div,Main article,n
+519,18,p,"Most airsoft guns fire round plastic pellets, usually white, but black ""invisible"" or phosphorescent are common as well. The pellets mostly range from 0.12 to 0.48 g. However, the most popular weights for AEGs and GBB* are 0.20 g and 0.25 g to 400 ft or s ). Mid to high end AEGs use 0.20–0.30 g pellets, while heavier rounds are typically used in long range and sniper applications since they are more stable in flight and less easily deflected by wind.",n
+521,18,p,"Pellets are usually bought in bags or bottles of 2,000 to 5,000, but other sizes are available, such as a 250,000 round package of tournament grade pellets. Biodegradable pellets are a fraction more expensive than non-bio counterparts, but many fields require them. Pellets are typically 6 mm in diameter, though 8 mm pellets do exist. Pellets vary by diameter depending on the brand . Pellets are used for the majority of play, although foam balls may be used to represent M203 grenade launcher shells.",n
+537,18,div,Further information on Airsoft pellet ballistics,n
+543,18,div,"An airsoft player shooting from behind cover, wearing goggles to fully seal the area around the eyes and a balaclava to protect the face",n
+548,18,p,,n
+549,548,text,"Due to the low muzzle energy and poor sectional density , the pain an airsoft pellet causes on skin impact is about the same as getting pinched. As a reference value, a standard 0.20 gram 6 mm pellet, which is the most common size and weight, traveling at 100 m or s has 1 J of kinetic energy .",n
+568,548,text,"Calculating the Joules and energy generated by airsoft guns is important because of phenomenon like ""joule creep"" where the FPS remains the same while the energy of the airsoft BB leaving the airsoft gun barrel increases.",n
+572,18,p,"Different regions vary in the velocity airsoft guns are allowed to shoot at. In the United States, velocity differs from the type of gameplay field. Close Quarter Battle arenas typically regulate velocity on airsoft guns at around 110 m or s . For outdoor fields, velocity is usually regulated by the type of gun. With a standard 0.20 grams pellet, fully automatic Airsoft Electric Guns are often set at less than 120 m or s , semi-automatic DMR -style AEGs at 120–140 m or s , and bolt-action sniper rifles at 140–150 m or s .",n
+579,18,p,,n
+580,579,text,The maximum effective range of field-legal airsoft guns is all around 100 m with a highly upgraded sniper rifle replica.,n
+585,579,text,"Most airsoft guns used for field play will have an effective range of around 43–67 m , depending on the intended gameplay role.",n
+590,579,text,"Most Airsoft guns are capable of shooting from 60 to 125 m or s , although it is also possible to purchase upgraded internals that will enable the gun to shoot up to 170 m or s or higher. In California , a common limit for CQB is 110 m or s .",n
+600,579,text,"In Ireland, Italy and Japan the muzzle energy limit for airsoft guns is 1 joule no matter what the type of gameplay. In the UK , the law allows weapons locked to semi-automatic and bolt-action rifles to fire up to 2.5 joules . Any weapon ""which is capable of discharging two or more missiles successively without repeated pressure on the trigger"" is limited, by law, at 1.3 joules .",n
+609,579,text,"Northern Ireland has a maximum velocity of 100 m or s with 0.20 g pellets, without regard to the type of equipment.",n
+615,579,text,"In Sweden, the legal limitations of airsoft guns caps the energy limit at 10 joules for manual guns, and 3 joules for semi- and fully automatic guns.",n
+618,18,p,,n
+619,618,text,The ballistics of spring- or electrically powered airsoft guns differ from real firearms in that a longer barrel will not always result in better accuracy.,n
+625,618,text,"The ""sweet spot"" for barrel length in a spring or electric powered airsoft gun is around 450 mm , beyond which added barrel length will not improve accuracy.",n
+631,618,text,"In any case, barrel quality, velocity consistency, and hopup quality or design are more important factors with regard to accuracy.",n
+637,618,text,"Added barrel length will result in slightly increased velocity if the cylinder size and compression are appropriate for the barrel length. For example, a gun with a large cylinder and a long barrel will shoot slightly harder than a gun with a small cylinder and a short barrel .",n
+645,618,text,"This rule will apply even for barrels longer than 500 mm , if there is enough cylinder volume and air compression to propel the pellet through the barrel.",n
+651,618,text,"However, the resulting velocity increase will be hardly noticeable. The only considerable advantage of using a longer inner barrel in an AEG or spring-powered gun is that it generally will make the gun quieter due to the weakened muzzle pop .",n
+654,18,p,,n
+655,654,text,"In gas-powered guns, added barrel length can result in increased velocity and accuracy to a degree. Tighter-bore barrels will increase velocity because there will be less space between the pellet and the barrel for the air to escape through. Most stock airsoft guns have 6.05–6.08 mm bore barrels, but best performance",n
+658,654,text,"is usually seen with ""tightbore"" barrels, which are 6.01–6.05 mm in diameter. However, the tighter the bore, the more likely the chance of a pellet jam, and subsequently, tightbores need to be cleaned and lubricated regularly. It is generally agreed upon that a high-quality 6.01-6.02 mm barrel will provide the highest muzzle velocity, while a good-quality 6.03 mm or 6.05 mm barrel will provide the best compromise between power, accuracy and ease of maintenance. The actual accuracy difference between tightbore sizes is debatable and usually outweighed by bore consistency. Although, with the newfound popularity with HPA guns, the debate has been opened that barrels with a larger diameter could provide a more accurate shot. Due to the higher volume of air surrounding the pellet it negates the chance of the pellet coming into contact with the barrel, throwing the pellet's trajectory off, similar to a musket, in how the bullet slams about before leaving the barrel.",n
+672,18,div,Players in the 'safe zone' between games,n
+674,18,p,"Airsoft guns are not to be confused with BB guns , which are airguns that shoot 4.5 mm metallic spherical pellets . The two often are colloquially confused as synonyms.",n
+681,18,p,,n
+682,681,text,"Many manufacturers and retailers suggest treating an airsoft gun like a real gun at all times. This will help alleviate safety issues resulting in an accidental or negligent discharge , or prevent a public panic due to a carelessly displayed airsoft gun being mistaken for a real firearm.",n
+691,681,text,"Most manufacturers include an orange tip on the muzzle of the airsoft gun for signaling and safety purposes, and most retailers urge consumers not to remove the orange tip as it is used to help distinguish them from a real firearm. The orange tip serves many purposes, one of them being for law enforcement to help discern airsoft guns from real firearms and thus prevent unnecessary excessive forces .",n
+698,18,p,,n
+699,698,text,"The minimum safe level of gear required to participate in most games includes a pair of ANSI Z87.1 eye protection , preferably an APEL -rated ballistic eyewear . Traditional prescription glasses and sunglasses , or goggles not rated sufficiently for impact -resistance, may shatter and or or be perforated upon being struck when used for airsoft or paintball ,",n
+722,698,text,"causing injury to the eye . Masks , face shields and other types of full-face coverings such as balaclavas are recommended at most airsoft fields.",n
+746,18,div,"Airsoft replica of an H and K G36C . This replica is not in use on a field, and has the magazine removed, the chamber cleared, and a barrel bag placed over the muzzle.",n
+750,18,p,Rules such as a maximum muzzle velocity and engagement distance guidelines are used by different groups. Some organizations have created common safety rules and guidelines. Most minimum engagement distances are 10 feet.,n
+753,18,p,,n
+754,753,text,"When not actively playing, some fields require ""barrel bags"", also known as barrel socks, barrel condoms, barrel blockers, or barrel sleeves, to be placed over the muzzle of the gun. The magazine is usually removed as well, and the gun fired to clear the chamber.",n
+757,753,text,"Most fields also require players to leave their guns set to the safety position when they are not shooting, a practice common when using real firearms. In certain countries, such as the Philippines , additional special rules have been adopted.",n
+773,18,div,Main article,n
+775,18,p,,n
+776,775,text,"the world. Some countries have specific restrictions,",n
+779,775,text,"such as maximum muzzle velocity and ""unrealistic"" coloring to distinguish them from actual firearms. They are legal throughout the United States, but restrictions do exist in cities like Chicago and Detroit. The states of New Mexico, New York and New Jersey,",n
+782,775,text,"however, do not allow airsoft guns to be used or handled publicly because of the resemblance to real firearms. They may be used on private property with the consent of the owner. The U.S. Customs and Border Protection FAQ page states that Airsoft guns are considered look-alike firearms which require the special blaze orange marking.",n
+797,18,p,"In the Republic of Ireland Airsoft guns are classified as Realistic Imitation Firearms but not restricted as much as in the United Kingdom. Under the Criminal Justice Act of 2006, Airsoft guns are legal in the Republic. One can buy, sell and import Airsoft guns without notifying relevant law enforcement authorities. They do not need to be painted in fluorescent colors, they do not need to have an orange tip, but they cannot launch the projectile with a kinetic energy exceeding 1 joule. However, carrying an imitation firearm in public is prohibited, and a gun carry case is required, as for real firearms. Airsoft shops are spread over the country, and buyers must be aged 18 or over to purchase an airsoft gun. There is no age limit on Airsoft, as long as a minor has an adult's permission.",n
+815,18,div,an IF replica of the Glock 18c,n
+817,18,p,,n
+818,817,text,"In the United Kingdom, most Airsoft guns are classified as realistic imitation firearms or RIFs. The sale, manufacture, or importation of these is illegal under the Violent Crime Reduction Act 2006 . A defence is allowed for selling for specific purposes",n
+823,817,text,including airsoft skirmishing.,n
+826,18,p,,n
+827,826,text,The minimum age,n
+832,826,text,"It is an offense to possess an imitation firearm in a public place without a reasonable excuse,",n
+835,826,text,"for example traveling to, or from, or being at an airsoft skirmish site.",n
+837,18,p,Most UK airsoft sites and retailers participate in the United Kingdom Airsoft Retailer Association registration scheme. A player who has participated in at least 3 skirmishes over a period of at least 56 days at the same skirmish site can be registered by that site. Retailers have access to the database to verify that the purchaser can provide them with a defence.,n
+839,18,p,"As an alternative to RIFs, IFs are available in the UK. These are RIFs which have been painted a bright color over at least 51% of the item. No specific defence is required for selling an IF, although the minimum age for purchasing remains 18.",n
+850,18,p,"In Canada, there are laws pertaining to airsoft importing. All airsoft guns that are bought in Canada are legal, but when importing it, the gun has to have between 366FPS and 500FPS to pass inspection at customs, otherwise the gun will be shipped back or destroyed.",n
+854,18,p,"lasers of any kind is illegal, including airsoft gun scopes with integrated lasers.",n
+866,18,p,,n
+867,866,text,"Airsoft guns in the United States are sold with a federally mandated orange tip which must be 1 or 4 inch or longer covering the muzzle of the replica. Manufacturers and importers may cite Title 15 of the Code of Federal Regulations , which stipulates that ""no person shall manufacture, enter into commerce, ship, transport, or receive any toy, look-alike, or imitation firearm"" without approved markings; these may include an orange tip, orange barrel plug, brightly colored exterior of the whole toy, or transparent construction . However, section 272.1 clearly indicates that these restrictions shall not apply to ""traditional B-B, paint-ball, or pellet-firing air guns that expel a projectile through the force of compressed air, compressed gas or mechanical spring action, or any combination thereof.""",n
+872,866,text,"This exempts airsoft guns from these requirements, placing them in the same category as BB-guns, pellet, air, and paintball, none of which are conventionally sold or used with an orange tip, and many of which bear as much resemblance to real firearms as airsoft guns do.",n
+885,18,p,"Airsoft technology is used in military training and law enforcement training. Due to airsoft's realism, relatively safe projectiles, and economical ammunition, it is well-suited to war games and force-on-force scenarios to train and improve troop's tactical proficiency via associative learning and stress inoculation . Multiple airsoft inventions were developed originally for military and law enforcement use.",n
+894,18,p,,n
+895,894,text,"Marking rounds were invented by Kerry T. Bowden to allow trainees to see where each projectile landed. Much like paintball and simunitions , these marking pellets would break upon impact, marking the target with luminescent liquid. Unlike traditional plastic pellets, marking rounds are heavier to ensure breakage of the shell on impact. The weight can be adjusted by adding heavier liquid.",n
+900,894,text,Marking rounds are critical for trainees because they allow the shooter to see exactly where they hit the target. This allows them to extrapolate their mistakes and improve their aim.,n
+901,18,p,,n
+902,901,text,"Reusable grenades were improved by Scott Frank to emulate the fragmentation of a real grenade in war games and scenarios. The grenade can be loaded with paint or pellets. It uses a quick release of highly pressurized gas to break the shell and quickly disperse pellets or paint in all directions. Frank's grenade, although not the first, aimed to be as realistic and predictable as an actual grenade. He developed a more accurate timing mechanism and secondary safety mechanisms to prevent accidental discharge.",n
+905,901,text,Both marking rounds and reusable grenades gave airsoft the edge it needed to enter into military and law enforcement training grounds.,n
+907,18,p,"The airsoft guns used for training differ from civilian models. Guns manufactured for professional training are made to replicate the weight, feel and the sound of its real steel counterpart. In general, professional training airsoft guns are GBB models and enhanced with a weighted blowback mechanism to increase the force of the kick. Some are AEGs and are built with a blowback mechanism. They are also outfitted with muzzle protectors that amplify the sound to a decibel level comparable to that of a real firearm. The average FPS for professional training airsoft guns is higher than civilian models. Economically, airsoft is cheaper than simulation training. Benjamin Kratz, Fort Jackson's battalion executive officer, said that one blank M16 round can cost as much as 32 airsoft rounds. Airsoft can also be used in military simulations such as in malls or prisons to add to the immersion. There are different event producers like MiR Tactical holding these events.",n
+921,18,ul,,n
+923,921,li,Legal issues in airsoft,n
+925,921,li,Airsoft gun,y
+927,921,li,Airsoft pellets,y
+929,921,li,IPSC Action Air,y
+931,921,li,Thunder-B,y
+933,921,li,BB gun,y
+935,921,li,Gel blaster,y
+947,18,div,,n
+952,947,li,,n
+953,952,text,"Ryan Roger . ""Airsoft General Rules"" . Pick Airsoft",n
+959,952,span,15 September,n
+969,947,li,"""All About Airsoft Guns",n
+985,947,li,"""New Airsoft training",n
+994,947,li,"Matthew Cox . ""Coast Guard Buys Sig P229 Airsoft Clone as Its New Training Sidearm"" . Military.com.",n
+1004,947,li,"Matthew Moss . ""US Coast Guard Pick SIG P229 Airsoft Pistol",n
+1014,947,li,"""Airsoft",n
+1033,947,li,"""Indoor Airsoft Field"" . Orlando Sentinel . Jon Busdeker. 27 June 2013. Archived from the original on 12 August 2014",n
+1052,947,li,"""Airsoft Beginners Guide UK"" . BEAR Airsoft | Gameplay, Reviews, Guides and More! . 10 May 2021",n
+1063,947,li,,n
+1064,1063,span,,n
+1065,1064,text,^,n
+1067,1064,span,Jump up to,n
+1069,1064,sup,a,n
+1071,1064,sup,b,n
+1075,1063,span,"""Standard Airsoft BB Weights",n
+1090,947,li,,n
+1091,1090,text,"""Airsoft Gun History"" . www.streetdirectory.com",n
+1097,1090,span,5 May,n
+1107,947,li,"""History and Its Background | Where did Air Soft Come From?"" . Airsoft-guns-gas-electric-spring.com. Archived from the original on 12 July 2012",n
+1124,947,li,"""Airsoft History"" . JustPistols .",n
+1135,947,li,"Airsoft"" . Abbey Supply. 2 March 2016.",n
+1144,947,li,"""About Airsoft BBs",n
+1160,947,li,"Airsoft Guns - All About Airsoft Guns"" . High Speed BBs",n
+1176,947,li,"""Polarstar ROF"" . MIA-Michigan Airsoft . Archived from the original on 28 September 2014",n
+1195,947,li,"""The Science Behind How An Airsoft Hop-Up Works"" . Abbey Supply. 12 October 2018. Archived from the original on 12 November 2018.",n
+1206,947,li,"""Airsoft Equipment"" . airsoft-facts.com . Archived from the original on 7 April 2018",n
+1225,947,li,"""How does an Airsoft Tracer Unit work? "" . 24 July 2019.",n
+1234,947,li,"""New S-Thunder CO2 powered foam ball 40 mm grenade"" . Arniesairsoft.co.uk. 3 June 2010. Archived from the original on 1 November 2012",n
+1251,947,li,"""All About Airsoft Guns",n
+1267,947,li,"""Why We Should Care About Joules and Airsoft Guns - All About Airsoft Guns"" . Socom Tactical Airsoft",n
+1282,947,li,,n
+1283,1282,text,"""Airsoft GI – G700F Sniper Rifle Accuracy And 250 Feet Range Test"" . YouTube . Archived from the original on 23 June 2014",n
+1292,1282,span,10 January,n
+1301,947,li,,n
+1302,1301,text,"""Section IV",n
+1309,1301,span,10 December,n
+1318,947,li,,n
+1319,1318,text,"""Policing and Crime Act 2017 - section 57A"" . legislation.gov.uk . November 2017",n
+1326,1318,span,25 November,n
+1335,947,li,,n
+1336,1335,text,"""Luftvapen, paintball, soft air gun och övriga vapen – Lagar och regler – polisen.se"" . Archived from the original on 9 August 2016",n
+1343,1335,span,25 August,n
+1353,947,li,"""Welcome to BESTPELLETGUN.COM"" . bestpelletgun.com . Archived from the original on 1 August 2015",n
+1371,947,li,,n
+1372,1371,text,"""AirRattle.com",n
+1379,1371,span,5 December,n
+1389,947,li,"""Airsoftprep.com"" . airsoftprep.com . Archived from the original on 18 October 2015",n
+1408,947,li,"""Paintball Vs Airsoft"" .",n
+1416,947,li,,n
+1417,1416,text,"""Airsoft Masks and Face Protection"" . High Speed BBs",n
+1423,1416,span,9 November,n
+1432,947,li,,n
+1433,1432,text,"""Texas Airsoft Organization"" . Texasairsoft.org. Archived from the original on 4 November 2016",n
+1437,1432,span,,n
+1440,1437,span,13 September,n
+1441,1437,text,2011,n
+1450,947,li,"ari. ""Airsoft Rules"" . SS Airsoft",n
+1464,947,li,,n
+1465,1464,text,Filipino Airsoft Players Standard Rules and Regulations,n
+1467,1464,cite,,n
+1468,1467,text,"""Archived copy"" . Archived from the original on 26 March 2008",n
+1475,1467,span,28 April,n
+1481,1464,span,},n
+1491,947,li,Airsoft legal requirements in the world,n
+1497,947,li,,n
+1498,1497,text,"John . ""Legal restrictions on airsoft sports | USA and Canada"" . Pistolzone",n
+1505,1497,span,3 December,n
+1514,947,li,,n
+1515,1514,text,"""Importing a bb gun, air soft or paintball gun",n
+1519,1514,span,13 June,n
+1528,947,li,,n
+1529,1528,text,"""Which Airsoft Rifles Are Better For Youths vs. Adults"" . RifleMasters. Archived from the original on 16 March 2015",n
+1533,1528,span,,n
+1536,1533,span,19 March,n
+1537,1533,text,2015,n
+1546,947,li,"""Specific defenses applying to the offense under s. 36"" . Archived from the original on 1 December 2017",n
+1563,947,li,"""Later defence of 'permitted activities' which includes insured airsoft skirmishing"" . Archived from the original on 27 November 2017",n
+1579,947,li,,n
+1580,1579,text,"""Most players use The British Airsoft Club for a valid defence Q and A"" . Archived from the original on 7 March 2008",n
+1587,1579,span,13 March,n
+1597,947,li,"""Firearms Act 1968 section 19"" . Archived from the original on 1 December 2017",n
+1613,947,li,,n
+1614,1613,text,"""Air Guns – Royal Canadian Mounted Police"" . Rcmp-grc.gc.ca. 25 September 2012. Archived from the original on 21 September 2013",n
+1621,1613,span,24 October,n
+1631,947,li,"""Tactical Airsoft Supplies – Illegal Items"" . Archived from the original on 24 February 2012.",n
+1641,947,li,,n
+1642,1641,text,"""Title 15 Part 272 Marking of toy, look-alike and imitation firearms"" . Electronic Code of Federal Regulations . US Government Printing Office. Archived from the original on 6 January 2015",n
+1651,1641,span,8 March,n
+1660,947,li,,n
+1661,1660,text,"""Difference between airsoft and air rifles"" . Pellet Guns 101. Archived from the original on 20 April 2018",n
+1668,1660,span,23 May,n
+1676,947,li,"""Patent US20140342858 – Airsoft Marking round"" Archived 4 June 2016 at the Wayback Machine , ""Patent US20140342858 – Airsoft Marking round."" Google Scholar. 20 November 2014. Weborn 27 September 2015.",n
+1685,947,li,"""Patent US8485101 – Reusable Grenade."" Archived 4 June 2016 at the Wayback Machine , ""Patent US8485101 – Reusable Grenade."" Google Books. 16 July 2013. Weborn 27 September 2015.",n
+1695,947,li,,n
+1696,1695,text,"Northridge Mall"" . Shepherd Express",n
+1703,1695,span,13 February,n
+1711,947,li,"""Soldiers Test Integration of Popular Civilian Game into Pre-deployment Training."" Archived 1 October 2015 at the Wayback Machine , Reeves, Steve. ""Soldiers Test Integration of Popular Civilian Game into Pre-deployment Training."" www.army.mil. U.S. Army, 12 August 2009. Weborn 27 September 2015.",n
+1729,18,table,,n
+1730,1729,text,Wikimedia Commons has media related to,n
+1732,1729,span,Airsoft,n
+1739,18,div,,n
+1741,1739,tr,,n
+1743,1741,span,hide,n
+1745,1741,ul,,n
+1748,1745,li,v,n
+1751,1745,li,t,n
+1754,1745,li,e,n
+1756,1741,div,Team sports,n
+1760,1739,ul,,n
+1762,1760,li,Sport,n
+1764,1760,li,Governing bodies,n
+1766,1760,li,National sport,n
+1768,1760,li,Sportspeople,n
+1769,1739,tr,,n
+1771,1769,th,Basket sports,n
+1774,1769,ul,,n
+1775,1774,li,,n
+1776,1775,text,Basketball,n
+1777,1775,ul,,n
+1781,1777,li,deaf,n
+1783,1777,li,3x3,n
+1785,1777,li,water,n
+1789,1774,li,Cestoball,n
+1791,1774,li,Korfball,n
+1792,1774,li,,n
+1793,1792,text,Netball,n
+1796,1792,li,Fast5,n
+1802,1774,li,Rezball,n
+1804,1774,li,Ringball,n
+1806,1774,li,Slamball,n
+1807,1739,tr,,n
+1808,1807,th,,n
+1809,1808,text,Bat-and-ball,n
+1811,1808,br,games,n
+1814,1807,ul,,n
+1816,1814,li,Baseball,n
+1818,1814,li,Baseball5,n
+1820,1814,li,Brännboll,n
+1822,1814,li,Corkball,n
+1823,1814,li,,n
+1824,1823,text,Cricket,n
+1825,1823,ul,,n
+1827,1825,li,One Day,n
+1829,1825,li,Test,n
+1831,1825,li,Twenty20,n
+1833,1814,li,Danish longball,n
+1835,1814,li,Indoor cricket,n
+1837,1814,li,Kickball,n
+1839,1814,li,Lapta,n
+1841,1814,li,Matball,n
+1843,1814,li,Oină,n
+1845,1814,li,Over-the-line,n
+1847,1814,li,Pesäpallo,n
+1849,1814,li,Rounders,n
+1851,1814,li,Schlagball,n
+1852,1814,li,,n
+1853,1852,text,Softball,n
+1854,1852,ul,,n
+1856,1854,li,Fastpitch,n
+1858,1854,li,16-inch,n
+1860,1814,li,Stickball,n
+1862,1814,li,Stoolball,n
+1864,1814,li,Town ball,n
+1866,1814,li,Vigoro,n
+1868,1814,li,Vitilla,n
+1870,1814,li,Welsh or British baseball,n
+1872,1814,li,Wiffle ball,n
+1874,1814,li,Wireball,n
+1875,1739,tr,,n
+1876,1875,th,,n
+1877,1876,text,Football,n
+1879,1876,br,codes,n
+1883,1875,td,,n
+1887,1883,ul,,n
+1888,1887,li,,n
+1889,1888,text,Association football,n
+1890,1888,ul,,n
+1892,1890,li,amputee,n
+1896,1890,li,freestyle,n
+1898,1890,li,Futsal,n
+1902,1890,li,Jorkyball,n
+1906,1890,li,powerchair,n
+1908,1890,li,roller,n
+1910,1890,li,street,n
+1912,1890,li,Gol Koochik,n
+1914,1890,li,walking,n
+1915,1887,li,,n
+1916,1915,text,Australian rules football,n
+1917,1915,ul,,n
+1919,1917,li,AFLX,n
+1921,1917,li,Lightning football,n
+1923,1917,li,Metro footy,n
+1925,1917,li,Nine-a-side,n
+1927,1917,li,Rec footy,n
+1928,1887,li,,n
+1929,1928,text,Gaelic football,n
+1932,1928,li,Ladies',n
+1934,1887,li,Circle rules football,n
+1935,1883,tr,,n
+1937,1935,th,Gridiron codes,n
+1941,1935,ul,,n
+1942,1941,li,,n
+1943,1942,text,American football,n
+1944,1942,ul,,n
+1946,1944,li,eight-man,n
+1948,1944,li,flag,n
+1950,1944,li,nine-man,n
+1952,1944,li,six-man,n
+1954,1944,li,sprint,n
+1960,1941,li,Canadian football,n
+1962,1941,li,Indoor American football,n
+1963,1883,tr,,n
+1965,1963,th,Hybrid codes,n
+1969,1963,ul,,n
+1971,1969,li,Austus,n
+1973,1969,li,Eton wall game,n
+1975,1969,li,International rules football,n
+1977,1969,li,Samoa rules,n
+1979,1969,li,Speedball,n
+1981,1969,li,Swedish football,n
+1983,1969,li,Universal football,n
+1985,1969,li,Volata,n
+1986,1883,tr,,n
+1987,1986,th,,n
+1988,1987,text,Medieval or historical,n
+1990,1987,br,football codes,n
+1994,1986,ul,,n
+1996,1994,li,Ba game,n
+1998,1994,li,Caid,n
+2000,1994,li,Calcio fiorentino,n
+2002,1994,li,Camping,n
+2004,1994,li,Cnapan,n
+2006,1994,li,Cornish hurling,n
+2008,1994,li,Cuju,n
+2010,1994,li,Harpastum,n
+2012,1994,li,Kemari,n
+2014,1994,li,La soule,n
+2016,1994,li,Lelo burti,n
+2018,1994,li,Marn grook,n
+2020,1994,li,Pasuckuakohowog,n
+2022,1994,li,Royal Shrovetide,n
+2024,1994,li,Uppies and downies,n
+2025,1883,tr,,n
+2027,2025,th,Rugby codes,n
+2031,2025,ul,,n
+2032,2031,li,,n
+2033,2032,text,Rugby league,n
+2034,2032,ul,,n
+2036,2034,li,masters,n
+2038,2034,li,mod,n
+2040,2034,li,nines,n
+2047,2031,li,,n
+2048,2047,text,Rugby union,n
+2049,2047,ul,,n
+2051,2049,li,American flag,n
+2055,2049,li,mini,n
+2063,2049,li,Tambo,n
+2067,2049,li,tens,n
+2069,2049,li,X,n
+2074,1883,tr,,n
+2076,2074,th,Other related codes,n
+2079,2074,ul,,n
+2081,2079,li,Kī-o-rahi,n
+2083,2079,li,Jegichagi,n
+2085,2079,li,Yubi lakpi,n
+2087,1739,tr,,n
+2089,2087,th,Net sports,n
+2092,2087,ul,,n
+2094,2092,li,Ball badminton,n
+2096,2092,li,Beach tennis,n
+2098,2092,li,Biribol,n
+2100,2092,li,Bossaball,n
+2102,2092,li,Fistball,n
+2104,2092,li,Footbag net,n
+2106,2092,li,Football tennis,n
+2108,2092,li,Footvolley,n
+2110,2092,li,Jianzi,n
+2112,2092,li,Jokgu,n
+2114,2092,li,Newcomb ball,n
+2116,2092,li,Peteca,n
+2118,2092,li,Sepak takraw,n
+2120,2092,li,Throwball,n
+2121,2092,li,,n
+2122,2121,text,Volleyball,n
+2131,2121,li,pioneerball,n
+2134,1739,tr,,n
+2135,2134,th,,n
+2136,2135,text,Stick-and-ball,n
+2138,2135,br,sports,n
+2142,2134,td,,n
+2146,2142,ul,,n
+2148,2146,li,Bando,n
+2150,2146,li,Cammag,n
+2151,2146,li,,n
+2152,2151,text,Hurling,n
+2153,2151,ul,,n
+2155,2153,li,Camogie,n
+2157,2153,li,Super11s,n
+2161,2146,li,Indigenous North American stickball,n
+2163,2146,li,Iomain,n
+2165,2146,li,Knattleikr,n
+2167,2146,li,Knotty,n
+2168,2146,li,,n
+2169,2168,text,Lacrosse,n
+2170,2168,ul,,n
+2172,2170,li,box or indoor,n
+2176,2170,li,intercrosse,n
+2178,2170,li,women's,n
+2180,2146,li,Ritinis,n
+2182,2146,li,Shinty,n
+2186,2142,tr,,n
+2188,2186,th,Hockey sports,n
+2192,2186,ul,,n
+2194,2192,li,Ball hockey,n
+2195,2192,li,,n
+2196,2195,text,Bandy,n
+2199,2195,li,rink,n
+2200,2192,li,,n
+2201,2200,text,Broomball,n
+2204,2200,li,Moscow,n
+2206,2192,li,Field hockey,n
+2211,2192,li,Floor hockey,n
+2213,2192,li,Floorball,n
+2214,2192,li,,n
+2215,2214,text,Ice hockey,n
+2216,2214,ul,,n
+2218,2216,li,pond,n
+2220,2216,li,power,n
+2222,2216,li,ice sledge,n
+2224,2216,li,underwater,n
+2226,2192,li,Ringette,n
+2228,2192,li,Rinkball,n
+2229,2192,li,,n
+2230,2229,text,Roller hockey,n
+2231,2229,ul,,n
+2233,2231,li,in-line,n
+2235,2231,li,quad,n
+2237,2192,li,Rossall hockey,n
+2239,2192,li,Shinny,n
+2241,2192,li,Street hockey,n
+2243,2192,li,Underwater hockey,n
+2245,2192,li,Unicycle hockey,n
+2246,2142,tr,,n
+2248,2246,th,Polo sports,n
+2252,2246,ul,,n
+2254,2252,li,Auto polo,n
+2256,2252,li,Cowboy polo,n
+2258,2252,li,Cycle polo,n
+2260,2252,li,Elephant polo,n
+2262,2252,li,Horseball,n
+2264,2252,li,Motoball,n
+2266,2252,li,Pato,n
+2267,2252,li,,n
+2268,2267,text,Polo,n
+2269,2267,ul,,n
+2271,2269,li,Arena polo,n
+2273,2269,li,Chovgan,n
+2275,2269,li,Snow polo,n
+2277,2252,li,Polocrosse,n
+2279,2252,li,Segway polo,n
+2281,2252,li,Yak polo,n
+2283,1739,tr,,n
+2285,2283,th,Water sports,n
+2288,2283,ul,,n
+2290,2288,li,Synchronized swimming,n
+2292,2288,li,Underwater football,n
+2294,2288,li,Underwater rugby,n
+2295,2288,li,,n
+2296,2295,text,Water polo,n
+2297,2295,ul,,n
+2299,2297,li,canoe,n
+2301,2297,li,inner tube,n
+2302,1739,tr,,n
+2304,2302,th,Other sports,n
+2307,2302,ul,,n
+2311,2307,li,Angleball,n
+2313,2307,li,Balle à la main,n
+2315,2307,li,Ballon au poing,n
+2316,2307,li,,n
+2317,2316,text,Basque pelota,n
+2318,2316,ul,,n
+2320,2318,li,frontenis,n
+2322,2318,li,jai alai,n
+2324,2307,li,Bo-taoshi,n
+2325,2307,li,,n
+2326,2325,text,Boules,n
+2327,2325,ul,,n
+2329,2327,li,Bocce,n
+2331,2327,li,Bocce volo,n
+2333,2327,li,Boccia,n
+2335,2327,li,Bowls,n
+2337,2327,li,Jeu provençal,n
+2339,2327,li,Pétanque,n
+2341,2327,li,Raffa,n
+2343,2307,li,Buzkashi,n
+2345,2307,li,Combat,n
+2347,2307,li,Curling,n
+2352,2307,li,Cycle ball,n
+2354,2307,li,Digor,n
+2356,2307,li,Dodgeball,n
+2358,2307,li,Flickerball,n
+2360,2307,li,Gateball,n
+2362,2307,li,Goalball,n
+2364,2307,li,Guts,n
+2365,2307,li,,n
+2366,2365,text,Handball,n
+2371,2365,li,Czech,n
+2377,2307,li,Hornussen,n
+2379,2307,li,Ice stock sport,n
+2381,2307,li,Jereed,n
+2383,2307,li,Kabaddi,n
+2385,2307,li,Kho kho,n
+2387,2307,li,Kin-Ball,n
+2389,2307,li,Lagori,n
+2391,2307,li,Longue paume,n
+2393,2307,li,Makura-Nage,n
+2395,2307,li,Mesoamerican ballgame,n
+2397,2307,li,Paintball,n
+2399,2307,li,Pelota mixteca,n
+2401,2307,li,Prisonball,n
+2403,2307,li,Pushball,n
+2405,2307,li,Quidditch,n
+2407,2307,li,Roll ball,n
+2409,2307,li,Roller derby,n
+2411,2307,li,Slahal,n
+2413,2307,li,Snow snake,n
+2415,2307,li,Synchronized skating,n
+2417,2307,li,Tamburello,n
+2419,2307,li,Tchoukball,n
+2421,2307,li,Tejo,n
+2423,2307,li,war,n
+2425,2307,li,Ulama,n
+2427,2307,li,Ultimate,n
+2428,2307,li,,n
+2429,2428,text,Valencian pilota,n
+2432,2428,li,Llargues,n
+2434,2307,li,Waboba,n
+2436,2307,li,Whirlyball,n
+2438,2307,li,Woodball,n
+2440,2307,li,Yukigassen,n
+2446,18,div,,n
+2448,2446,th,Authority control,n
+2454,2446,li,Germany,n
+2457,17,div,"Retrieved from "" https",n
+2460,9,div,,n
+2461,2460,div,,n
+2462,2461,text,Categories,n
+2464,2461,ul,,n
+2468,2464,li,Japanese inventions,n
+2470,2464,li,Shooting sports,n
+2472,2464,li,Sports originating in Japan,n
+2474,2464,li,Games and sports introduced in the 1970s,n
+2476,2464,li,Live-action battle gaming,n
+2477,2460,div,,n
+2478,2477,text,Hidden categories,n
+2479,2477,ul,,n
+2481,2479,li,CS1 maint,n
+2483,2479,li,Webarchive template wayback links,n
+2485,2479,li,Articles with short description,n
+2487,2479,li,Short description is different from Wikidata,n
+2489,2479,li,Use dmy dates from September 2018,n
+2491,2479,li,Articles needing additional references from November 2010,n
+2493,2479,li,All articles needing additional references,n
+2495,2479,li,Articles containing Japanese-language text,n
+2497,2479,li,All articles with unsourced statements,n
+2499,2479,li,Articles with unsourced statements from October 2012,n
+2501,2479,li,Commons category link is on Wikidata,n
+2503,2479,li,Articles with GND identifiers,n
+2505,2479,li,Articles containing video clips,n
+2506,0,div,,n
+2508,2506,h2,Navigation menu,n
+2509,2506,div,,n
+2510,2509,nav,,n
+2513,2510,h3,Personal tools,n
+2515,2510,ul,,n
+2518,2515,li,Not logged in,n
+2524,2515,li,Contributions,n
+2527,2515,li,Create account,n
+2530,2515,li,Log in,n
+2531,2509,div,,n
+2532,2531,nav,,n
+2535,2532,h3,Namespaces,n
+2540,2532,li,Article,n
+2548,2531,span,English,n
+2551,2509,div,,n
+2552,2551,nav,,n
+2555,2552,h3,Views,n
+2557,2552,ul,,n
+2560,2557,li,Read,n
+2563,2557,li,Edit,n
+2566,2557,li,View history,n
+2571,2551,span,More,n
+2578,2551,h3,Search,n
+2585,2506,div,,n
+2587,2585,nav,,n
+2590,2587,h3,Navigation,n
+2592,2587,ul,,n
+2595,2592,li,Main page,n
+2598,2592,li,Contents,n
+2601,2592,li,Current events,n
+2604,2592,li,Random article,n
+2610,2592,li,Contact us,n
+2613,2592,li,Donate,n
+2614,2585,nav,,n
+2617,2614,h3,Contribute,n
+2619,2614,ul,,n
+2622,2619,li,Help,n
+2625,2619,li,Learn to edit,n
+2628,2619,li,Community portal,n
+2631,2619,li,Recent changes,n
+2635,2585,nav,,n
+2638,2635,h3,Tools,n
+2640,2635,ul,,n
+2643,2640,li,What links here,n
+2646,2640,li,Related changes,n
+2652,2640,li,Special pages,n
+2655,2640,li,Permanent link,n
+2658,2640,li,Page information,n
+2661,2640,li,Cite this page,n
+2664,2640,li,Wikidata item,n
+2665,2585,nav,,n
+2668,2665,h3,Print or export,n
+2670,2665,ul,,n
+2673,2670,li,Download as PDF,n
+2676,2670,li,Printable version,n
+2677,2585,nav,,n
+2680,2677,h3,In other projects,n
+2685,2677,li,Wikimedia Commons,n
+2686,2585,nav,,n
+2690,2686,h3,Languages,n
+2691,2686,div,,n
+2692,2691,ul,,n
+2695,2692,li,العربية,n
+2698,2692,li,Asturianu,n
+2701,2692,li,Български,n
+2704,2692,li,Brezhoneg,n
+2707,2692,li,Català,n
+2710,2692,li,Čeština,n
+2713,2692,li,Dansk,n
+2716,2692,li,Deutsch,n
+2719,2692,li,Eesti,n
+2722,2692,li,Español,n
+2725,2692,li,Euskara,n
+2728,2692,li,فارسی,n
+2731,2692,li,Français,n
+2734,2692,li,Galego,n
+2740,2692,li,Hrvatski,n
+2743,2692,li,Bahasa Indonesia,n
+2746,2692,li,Íslenska,n
+2749,2692,li,Italiano,n
+2752,2692,li,עברית,n
+2755,2692,li,ქართული,n
+2758,2692,li,Latviešu,n
+2761,2692,li,Lietuvių,n
+2764,2692,li,Magyar,n
+2767,2692,li,Nederlands,n
+2773,2692,li,Polski,n
+2776,2692,li,Português,n
+2779,2692,li,Română,n
+2782,2692,li,Русский,n
+2785,2692,li,Simple English,n
+2788,2692,li,Slovenčina,n
+2791,2692,li,Slovenščina,n
+2794,2692,li,Suomi,n
+2797,2692,li,Svenska,n
+2800,2692,li,Türkçe,n
+2803,2692,li,Українська,n
+2806,2692,li,Tiếng Việt,n
+2814,2692,button,31 more,n
+2817,2691,div,Edit links,n
+2818,0,footer,,n
+2819,2818,ul,,n
+2821,2819,li,"This page was last edited on 26 June 2022, at 14:30",n
+2826,2819,li,"Text is available under the Creative Commons Attribution-ShareAlike License 3.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.",n
+2835,2818,ul,,n
+2837,2835,li,Privacy policy,n
+2841,2835,li,Disclaimers,n
+2843,2835,li,Contact Wikipedia,n
+2845,2835,li,Mobile view,n
+2847,2835,li,Developers,n
+2849,2835,li,Statistics,n
+2851,2835,li,Cookie statement,n
+2853,2835,li,Edit preview settings,n

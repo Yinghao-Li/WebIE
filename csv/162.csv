@@ -1,0 +1,510 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+6,3,h2,Must have knitting supplies for knitters. A list of essential items and equipment you can buy to improve your hobby.,n
+7,3,p,,n
+8,7,text,"Are you just starting out? And now you are wondering about essential knitting tools every knitter needs? Well, then",n
+10,7,strong,you came to the right place!,n
+11,7,text,knitting tools with detailed explanations of why you need them.,n
+12,3,p,,n
+14,12,strong,my heart,n
+15,12,text,". I buy most of my stuff on Amazon or Etsy and I made sure to provide you with links to my favorite items where appropriate. But if you have a local yarn store in your vicinity, nothing speaks against visiting them either .",n
+27,3,p,,n
+28,27,text,"Before I dive right into the list, I would like to add one more important thing. Right after your creativity, the tools you use are the second most important things. So,",n
+30,27,strong,invest in quality rather than quantity,n
+31,27,text,". Otherwise, you’ll buy it twice. You can’t expect a lifetime guarantee on a cheap plastic knitting needle you bought for less than a dollar.",n
+35,3,div,,n
+38,35,div,10 knitting tips,n
+41,35,div,,n
+49,41,div,Video Player is loading.,n
+53,41,span,Play Video,n
+54,41,div,,n
+58,54,span,Play,n
+63,54,div,Unmute,n
+70,54,div,,n
+72,70,span,Current Time,n
+74,70,span,0:00,n
+78,54,div,or,n
+81,54,div,Duration,n
+85,54,div,,n
+87,85,div,,n
+89,87,span,Loaded,n
+92,87,span,26%,n
+98,85,div,00:00,n
+100,54,div,,n
+102,100,span,Stream Type,n
+103,100,text,LIVE,n
+104,54,button,,n
+107,104,span,"Seek to live, currently behind live",n
+109,104,span,LIVE,n
+110,54,div,,n
+112,110,span,Remaining Time,n
+114,110,span,-,n
+118,54,div,,n
+120,118,div,1x,n
+124,118,span,Playback Rate,n
+127,54,div,,n
+131,127,span,Chapters,n
+135,127,li,Chapters,n
+136,54,div,,n
+140,136,span,Descriptions,n
+145,136,li,descriptions off,n
+154,54,ul,,n
+155,154,li,,n
+157,155,span,captions settings,n
+159,155,span,", opens captions settings dialog",n
+162,154,li,captions off,n
+166,154,li,en,n
+172,54,div,,n
+176,172,span,Audio Track,n
+181,172,li,Unknown,n
+187,54,span,Picture-in-Picture,n
+191,54,span,Fullscreen,n
+194,41,p,This is a modal window.,n
+196,41,div,,n
+198,196,p,dialog window. Escape will cancel and close the window.,n
+199,196,div,,n
+200,199,div,,n
+203,200,fieldset,Text,n
+233,200,fieldset,Background,n
+265,200,fieldset,Window,n
+295,199,div,,n
+296,295,fieldset,,n
+298,296,legend,Font Size,n
+299,296,select,,n
+301,299,option,50%,n
+303,299,option,75%,n
+305,299,option,100%,n
+307,299,option,125%,n
+309,299,option,150%,n
+311,299,option,175%,n
+313,299,option,200%,n
+315,299,option,300%,n
+317,299,option,400%,n
+318,295,fieldset,,n
+320,318,legend,Text Edge Style,n
+321,318,select,,n
+323,321,option,None,n
+325,321,option,Raised,n
+327,321,option,Depressed,n
+329,321,option,Uniform,n
+331,321,option,Dropshadow,n
+332,295,fieldset,,n
+334,332,legend,Font Family,n
+335,332,select,,n
+337,335,option,Proportional Sans-Serif,n
+339,335,option,Monospace Sans-Serif,n
+341,335,option,Proportional Serif,n
+343,335,option,Monospace Serif,n
+345,335,option,Casual,n
+347,335,option,Script,n
+349,335,option,Small Caps,n
+350,199,div,,n
+351,350,button,,n
+352,351,text,Reset,n
+354,351,span,restore all settings to the default values,n
+356,350,button,Done,n
+360,196,span,Close Modal Dialog,n
+362,196,p,dialog window.,n
+375,41,div,Your video will begin shortly,n
+386,3,p,"Oh, and don’t rush and shop it all at once, but when you actually need it. Check out my guide about the 5 basic knitting supplies you need when you start out. If you are looking for a present, then consider reading my list of the best gifts for knitters as well.",n
+392,3,p,Note,n
+395,3,h3,Interchangeable needle set,y
+405,3,p,,n
+406,405,text,"The most important tool for knitters are, quite unsurprising, knitting needles. Now, popular culture will conjure up images of grandmas knitting with long clickety-clack straight needles. But these days, most knitters prefer circular needles. They are just so much more versatile.",n
+408,405,strong,"Other than teaching beginners, straight needles are rarely used these days",n
+409,405,text,.,n
+412,3,p,,n
+413,412,text,"To be more precise, most intermediate and advanced",n
+415,412,strong,makers will rely on interchangeable needle sets,n
+416,412,text,". The idea? Instead of buying many single needles, you buy a toolkit of needle tips and cables you can combine at will in the size and length you need for a new project. As there is more than one brand around, I wrote a detailed guide to the",n
+418,412,strong,best interchangeable knitting needles here .,n
+427,3,p,,n
+428,427,text,"That being said, I personally knit most with my Knitter’s Pride Nova Platina",n
+431,427,text,and the Karbonz needles . They are both very affordable and extremely fast. The ChiaoGoo Twist is also a knitter’s favorite .,n
+438,3,p,,n
+440,438,strong,PS,n
+441,438,text,"If you like to knit socks etc, read my review of the best double-pointed knitting needles here .",n
+445,3,h3,Yarn,y
+455,3,p,,n
+456,455,text,"The next thing every knitter needs is yarn. Beginners might imagine that you just walk into a store demand some yarn, maybe add a color, and then the salesperson will happily hand it over to you. In reality,",n
+458,455,strong,different yarns,n
+459,455,text,"out there. Different fibers, different spinning, different weights. Sometimes, finding the right yarn for a project is closer to science than a hobby, lol.",n
+460,3,p,,n
+461,460,text,"If you are just starting out, then I wrote a detailed guide on the best knitting yarns for beginners . But as you proceed, a lot of knitters want to express their personality through their knitting and will be looking for customized dyes. In recent years, the internet gave",n
+465,460,strong,indie yarn dyers,n
+466,460,text,the unique possibility to market their amazing creations directly.,n
+467,3,p,,n
+468,467,text,"So, in case you are looking",n
+470,467,strong,best indie yarn dyers here .,n
+480,3,p,"If you are looking for very reliable brands instead, then Schachenmayr , Lion Brand , Lang Yarns , and Rowan will be a good starting point.",n
+490,3,h3,Scissors,y
+491,3,p,,n
+492,491,text,"The third most used item in knitting are scissors. You actually don’t need them that often, because you shape a garment through your stitches. But of course,",n
+494,491,strong,you will need to cut away the tails,n
+495,491,text,"hanging down from the start and the end of your project. And whenever you join in a new yarn , you will have tails you need to tidy up as well.",n
+496,3,p,,n
+497,496,text,"I personally have got quite a huge scissor collection and it makes sense to invest in something proper. A lot of makers don’t just knit, they also crochet, embroider or sew.",n
+499,496,strong,Good scissors,n
+500,496,text,can be used,n
+502,496,strong,can last a lifetime,n
+503,496,text,properly .,n
+512,3,p,Here’s a link to similar stork scissors like the one from above .,n
+515,3,p,,n
+516,515,text,"If you don’t want to invest a fortune yet, there are also simple yarn snips",n
+519,515,text,dollars.,n
+521,3,h3,Tapestry needle,y
+530,3,p,"To finish a knitting project, you will also need a tapestry needle. Before you can cut the yarn with the aforementioned scissor, you need to weave in the tails .",n
+533,3,p,,n
+534,533,text,Tapestry needles are usually quite cheap.,n
+536,533,strong,different sizes,n
+537,533,text,your yarn.,n
+539,3,p,Here’s the link to the tapestry needle set in the picture above,n
+550,3,h3,Double-Pointed needles,y
+551,3,p,,n
+552,551,text,"As you start out, you will be able to finish almost every project with circular needles. But intermediate knitters will often come to a point where they want to knit in the round on double-pointed needles . This is a great technique",n
+556,551,strong,used,n
+558,3,p,,n
+559,558,text,"Naturally, you can use those DPNS for small straight projects as well. It is advisable to buy a full set of dpns in different sizes, because these",n
+563,558,strong,sets often are sold with a big discount,n
+564,558,text,". As you begin, you might want to start with wooden needles, as they offer higher friction and more grip. For faster knitting, metal dpns are better. So, maybe start with single needles and test a bit what you prefer most.",n
+572,3,p,,n
+573,572,text,I personally,n
+575,572,strong,love the Knitter’s Pride Karbonz,n
+576,572,text,"as they don’t end up crooked after a couple of hours of knitting, like many other metal needles in smaller sizes often do. They are by far my favorite dpns to date. You can buy them here .",n
+580,3,h3,Stitch Markers,y
+581,3,p,,n
+582,581,text,knitters employ stitch markers so they,n
+586,581,strong,a repeat or other significant turning points in a pattern,n
+587,581,text,. Stitch markers are basically simple loops you can add or remove from your project at will.,n
+588,3,p,,n
+589,588,text,"Some people use simple loops made from a contrasting yarn, others get very ornamental metal markers that look more like earrings. As you start out,",n
+591,588,strong,simple plastic markers will do the job,n
+592,588,text,as well. Here’s a link to Etsy with a great variety from cheap to fancy.,n
+603,3,h3,Yarn winder and swift,y
+604,3,p,,n
+605,604,text,"You can buy yarn in my forms. Most big brands sell their wares in skeins, but as soon as you want to buy more exclusive or hand-dyed yarn, you will begin your love-hate with yarn hanks. That’s because smaller lots of yarn are usually dyed in loose coils, and a hank is basically nothing else but a twisted form of these coils. This allows you to see the color of the product much better than a tightly wound ball or skein, but it also means",n
+607,604,strong,you have to re-wind it before you start knitting,n
+609,3,p,,n
+610,609,text,And that’s where yarn swifts come into play. It’s basically,n
+612,609,strong,a wooden frame where you can stretch out the hank so you can wind it up in a convenient way that doesn’t run the risk of creating a tangled mess,n
+622,3,p,There are two types,n
+623,3,ul,,n
+625,623,li,The umbrella swifts,n
+628,623,li,the Amish yarn swift,n
+631,3,p,,n
+632,631,text,"You can use the swift and wind up the yarn into balls by hand, or you",n
+634,631,strong,get a separate yarn winder,n
+635,631,text,that. This little contraption,n
+637,631,strong,allows you to wind up yarn cakes,n
+638,631,text,", which allows you to do a center pull. A ball will always move around as you pull out yarn from it. A yarn cake will sit where you put it and then you can pull out the yarn from the middle. A lot of knitters love it and the winding-up process is quite a bit faster on top of it.",n
+640,3,p,Here’s the link to the yarn winder I am currently using,n
+643,3,h3,Blocking Mats and Wires,y
+651,3,p,,n
+652,651,text,If you have ever washed a woolen sweater then you might already know that your garment might exit the washing machine in a less than desirable condition.,n
+654,651,strong,knitting in a dramatic way,n
+655,651,text,. That’s why most professionals will wash their finished projects once before they wear them the first time to get it into its final shape.,n
+656,3,p,,n
+657,656,text,"To facilitate the process, most will employ so-called blocking mats. These are basically foamed plastic mats.",n
+659,656,strong,You can use them to pin a wet project into shape.,n
+660,656,text,"Once it’s dry, it will retain that shape. The process also helps to even out stitches and the overall structure of a project.",n
+662,3,p,Here are the blocking mats I use,n
+664,3,p,"For lace shawls, which are quite a bit more delicate by nature, there are also blocking wires available that help you to achieve a uniform and straight edge you will not be able to achieve with needles.",n
+668,3,h3,Measuring Tape,y
+677,3,p,"Most people knit to produce wearables. Hats, scarfs, sweaters – you name it. One of the big advantages of hand-knitted items is the fact that you can customize the fit according to your own preferences. This is especially valuable for people who have trouble fitting into the molds of the standard sizes from S to XXL for whatever reason.",n
+678,3,p,,n
+679,678,text,"While trial and error is certainly a possibility, most advanced knitters will employ a measuring tape. First,",n
+681,678,strong,"you’ll take the measurements of the intended wearer to adust the pattern. And while you are working on the project, you can use it to check if you are succeeding",n
+684,3,p,A simple roll-up tape is all that is needed. I would get a retractable one- They are a bit easier to store. Here are some nice ones .,n
+688,3,h3,Stitch holders,y
+696,3,p,,n
+697,696,text,"A scarf has the same width from end to the beginning and there is little shaping in between. But if you want to knit gloves, sweaters or other more complicated constructions, you will often come to a point where",n
+699,696,strong,the stitches in a row.,n
+700,696,text,That’s because you want to create a large hole or cavity where you can continue knitting later on .,n
+701,3,p,,n
+702,701,text,"If you have got some spare knitting needles in the same size, you could obviously use these. But most knitters prefer to use stitch holders. They are much",n
+704,701,strong,more secure and easier to handle,n
+707,3,p,"Mine are quite old and don’t remember where I bought them, but here are some very affordable ones on Etsy .",n
+712,3,h3,Emery board,y
+720,3,p,,n
+721,720,text,"A lot of yarns are quite delicate. They are spun from multiple thin threads into a 4-ply or sometimes even 6-ply yarn for higher durability. But here’s the thing: If your fingernails are not totally smooth,",n
+723,720,strong,these single threads.,n
+724,720,text,That’s why I personally always have an emery board in my knitting knit.,n
+728,3,p,"I tend to do a lot of other DIY, am a rather outdoorsy person and then, of course, there is the household to take care of. So, my nails usually don’t look like straight from a high gloss photo shooting. So, when I notice a little rough edge that annoys me while knitting, I just pull out the emery board and smoothen it out. It’s certainly not your standard knitting tool, but still very helpful.",n
+730,3,h3,Crochet hook,y
+739,3,p,"There is an ongoing fight between knitters and crocheters trying to solve the question which is better. In reality, however, most knitters will end up crocheting at one point or the other in their knitting career . Crochet hooks are amazing tools and every knitter should have at least one. Here’s why:",n
+740,3,ul,,n
+741,740,li,,n
+742,741,text,You can use them to,n
+744,741,strong,fix dropped stitches,n
+745,741,text,in a very easy manner .,n
+746,740,li,,n
+747,746,text,You can use it to,n
+749,746,strong,pick up stitches,n
+750,746,text,.,n
+751,740,li,,n
+752,751,text,wearables are finished with a nice,n
+754,751,strong,crochet border,n
+755,751,text,"or you can use it to seam together a sweater, etc.",n
+757,3,p,"As a start, one hook in a medium-size is probably enough for those quick fixes. Later, you might want to invest in other sizes, if your pattern calls for a crochet edge, etc.",n
+766,3,p,Here are the ones I am usually using,n
+769,3,p,I wouldn’t get the cheapest ones available because you might need them for some serious crocheting at some time. But you don’t need to get the luxury rosewood set either if you get my meaning .,n
+773,3,h3,Row or stitch Counter,y
+775,3,p,"A lot of knitters will tell you that knitting feels a lot like meditation. It’s very calming and helps you to forget the stress. On the downside, it’s hard to keep track of your progress while you are “in the zone”. Counting straight is harder than you might actually think, lol.",n
+776,3,p,,n
+777,776,text,"For more complicated patterns, i",n
+779,776,strong,t’s fundamental to know which row you are currently in,n
+780,776,text,. That’s why a simple little counter will be a life safer.,n
+788,3,ul,,n
+790,788,li,There are special row counters that double function as a stitch marker.,n
+794,788,li,"Or, you could get one of the digital stitch counters you can also use as a row counter.",n
+798,3,p,"I would like to point out, that the row counters are more reliable for me. Why? Because they force you to use them at a specific point, whereas I often forget to count on the freely moveable stitch counters.",n
+800,3,h2,Needle gauge and gauge swatch ruler,y
+801,3,p,,n
+802,801,text,"Knitting needles come in many different sizes. Over the years, you will amass quite a collection of needles. Some of them have the sizes printed somewhere on the needles, but these",n
+804,801,strong,printings often rub off over the years,n
+805,801,text,". Now, you could employ a ruler to check out the size, but as there are 1.5mm needles and 1.75 mm needles, this is prone to making mistakes. Instead, get a simple needle gauge for a dollar or two",n
+815,3,p,,n
+816,815,text,Another very handy knitting tool are the gauge swatch rulers. These are essentially little square rulers that allow you to count your stitches per inch or centimeter in an easy and consistent way. Knitting a garment in a certain size from a pattern requires you to,n
+820,815,strong,the pattern.,n
+821,815,text,"Why? Well, the pattern will say knit 10 stitches, but if your 10 stitches are 5 inches and the creator had 4, your garment will end up in a different size.",n
+823,3,p,These swatch rulers will help you figure out how much looser or tighter you need to knit to meet the gauge.,n
+832,3,p,Here’s a nice one by ChiaoGoo that is both a needle and swatch gauge,n
+834,3,h3,Project bag,y
+835,3,p,,n
+836,835,text,"Most knitting projects aren’t finished in a day. Depending on how fast you knit and how big the project is, they can take up weeks and sometimes even months. This is why",n
+838,835,strong,it’s important to store your work in progress in a safe way,n
+839,835,text,". Even if you don’t have any cats, kids, or uncomprehending partners at home, you yourself might move it around or stumble over it.",n
+840,3,p,,n
+841,840,text,these bags will have,n
+843,840,strong,"little compartments where you can store scissors, stitch markers, and other knitting tools",n
+844,840,text,"you might need throughout your project, so it’s not only safer but also very practical.",n
+853,3,p,"I have a couple of these fantastic leather bags by a danish company called Muud. But as you start out, you can certainly opt for a cheaper version like this one here – but you will find plenty of big and nice ones on etsy as well.",n
+861,3,h3,Needle Case,y
+862,3,p,,n
+863,862,text,"And just like you need to store your WIPs I also recommend you find a nice solution for your knitting needles. Pencil holders work quite amazing for straight needles, but for circular needles, you might want to find a more suitable option. There are a lot of sellers on",n
+865,862,strong,Etsy who sell amazing hand-sewn needle cases to store your circulars,n
+866,862,text,and DPNs.,n
+868,3,p,Here’s the link to the one on the picture above .,n
+878,3,h3,Storage box,y
+879,3,p,,n
+880,879,text,Yarn also needs to be stored in a safe place.,n
+882,879,strong,Moths love wool,n
+883,879,text,"and you really don’t want to invest a fortune on providing them a nice meal, do you? If you look around on Amazon or your local hardware shop, you will be able to find cheap see-through and airtight storage boxes. Use them to store your stash and protect it from moths, mold, and direct sunlight .",n
+885,3,p,Here are the ones I am using.,n
+895,3,h3,Needle Stoppers,y
+896,3,p,,n
+897,896,text,"Most knitting beginners are scared of one thing the most: That they drop stitches and their projects start unraveling. And to be fair, this is a very real risk. Until you bound off all stitches ,",n
+901,896,strong,a knitting project can unravel at any time,n
+902,896,text,when the stitches fall of the working needle. The risk is even higher when you are working with double-pointed needles.,n
+904,3,p,"If you want to play it safe, you can invest in some needle caps . There are tons of really fun ones available on Etsy .",n
+908,3,h3,Wool Detergent,y
+916,3,p,,n
+917,916,text,"Sheep wool is quite a sturdy fiber. But as soon as it gets wet and warm, things change dramatically. Stir it once to often or heat it too much, and it will felt. That’s why it’s important to",n
+919,916,strong,take extra care whenever you wash a project.,n
+920,916,text,Most brands recommend hand-wash with lukewarm water or downright cold water.,n
+922,3,p,"A special wool detergent will help you a lot to find the balance between cleaning and protecting the knitted garment. I usually buy them on crafts markets, but there are certainly good choices available on Etsy as well.",n
+926,3,h3,Cable needles,y
+934,3,p,,n
+935,934,text,"There are many different knitting techniques, most one of the most popular is probably the cable stitch . With it, you can produce amazing things like my free hat pattern “Into the Wild” . But unlike so many other knitting stitches,",n
+941,934,strong,you actually need an extra cable needle,n
+942,934,text,to achieve these super structured and beautiful fabrics.,n
+944,3,p,cable needles.,n
+946,3,p,Note,n
+950,3,h3,Yarn bowl and Yarn holder,y
+951,3,p,,n
+952,951,text,"Unlike so many other hobbies, knitting isn’t limited to a specific workroom or environment. You can basically knit whenever you want, and in centuries past, a lot of farmers and helps did it while walking to, from, and during their job. There is just one problem: Your ball of",n
+954,951,strong,yarn tends to run away all the time or might even get dirty,n
+955,951,text,. A simple yarn bowl or yarn holder will easily remedy that .,n
+964,3,p,"I personally couldn’t knit without one. I love yarn balls. For me, they are the most reliable way to knit. But to keep them from running all over the place or attracting the attention of those kittens, you need a yarn bowl.",n
+966,3,p,"In case you were wondering where I’ve got mine – this is an heirloom from my great-grandmother. Again, Etsy has plenty of beautiful options .",n
+970,3,h3,Yarn Bobbins,y
+971,3,p,,n
+972,971,text,"Once you knitted for a bit of time, you will certainly start to notice those beautiful sweaters with fantastic pictures on the front . These are knit with the intarsia technique and it’s basically about knitting with many small amounts of yarns at the same time. To",n
+978,971,strong,help you stay organized,n
+979,971,text,", I recommend you to get some yarn bobbins or yarn winders. They are a lot more popular in embroidery and macrame, but knitters can also employ them to be a lot more efficient.",n
+988,3,p,"There are plenty of different bobbin options available for every budget (if you plan to do a lot of intarsia, weighted bobbins might be a better alternative.",n
+993,3,h3,Knitting thimble or yarn guide,y
+994,3,p,,n
+995,994,text,"Another popular knitting technique to produce multi-colored projects is Fair Isle . You basically knit with two colors at the same time, alternating between the different yarns as you go. A knitting thimble will",n
+999,994,strong,help you to keep these different yarns organized so they don’t get tangled,n
+1009,3,p,It’s also a great knitting tool for people who knit with very coarse or thin yarn . Here are the ones I am using .,n
+1013,3,h3,Pom Pom maker,y
+1014,3,p,,n
+1015,1014,text,Unpopular opinion,n
+1019,1014,strong,sturdy plastic templates,n
+1020,1014,text,"to help you create these wooly bobbles. Creating your own from cardboard works as well, but you can only reuse it so many times.",n
+1022,3,h2,Fuzz remover,y
+1023,3,p,,n
+1024,1023,text,Especially,n
+1026,1023,strong,sheep wool and cashmere tends to pill over time,n
+1027,1023,text,". Typically around the armpits and the cuffs, you’ll get these unsightly little yarn pills. The worst thing you can do is plucking them off. That way, you also pull out more lose fibers which are going to start pilling 5 seconds later. Instead, use a fuzz remove that cuts away the ends. This will lead to a lot less pilling over time.",n
+1036,3,p,You can buy them on Amazon,n
+1039,3,h2,Other knitting tools,n
+1040,3,p,,n
+1041,1040,text,As long as,n
+1043,1040,strong,"knitting tools was, it is far from being comprehensive",n
+1044,1040,text,". There are so many other items I could mention. Sock blockers would be one of them. In ancient times, knitting sheaths were very popular. Portuguese knitters will employ a special pin to hold the yarn, while many people use a yarn threader to help them with getting fuzzy yarn through the eye of a tapestry needle.",n
+1054,3,p,,n
+1055,1054,text,"listing all these somewhat exotic items, I tried to limit this list to tools",n
+1057,1054,strong,every knitter will probably use at one point or another,n
+1058,1054,text,". I could show you my collection of fantastic antique golden scissors or exotic knitting needles made of ebony, whale bones, etc. While I value them deeply, they are so far from being essential that it would be quite preposterous to even mention them here.",n
+1060,3,h4,"So, that’s it. That was my list of the most important knitting tools and materials. I hope I was able to inspire you. Feel free to ask your questions in the comments below!",n
+1072,0,div,,n
+1074,1072,h3,24 thoughts on “The best knitting tools and materials – 25 things every knitter needs”,n
+1075,1072,ol,,n
+1076,1075,li,,n
+1077,1076,article,,n
+1079,1077,div,,n
+1082,1079,div,Diana Murphy,n
+1085,1079,div,"September 13, 2020 at 12:16 am",n
+1088,1077,p,"after knitting for about 65 years I have all but the thimble, yarn bowl, and pom pom maker. I have no problem with fair isle. Instead of the bowl I use a ball sack , and a piece of cardboard to male a pom pom but it is on my to get next list",n
+1091,1076,ul,,n
+1093,1091,li,,n
+1101,1093,div,"September 13, 2020 at 7:17 am",n
+1102,1093,div,,n
+1104,1102,p,"Hey Diana,",n
+1105,1102,p,,n
+1106,1105,text,"65 years? that’s impressive and wonderful at the same time that you kept your hobby active for such a long time! I personally couldn’t live without a yarn bowl. But sometimes, a project bag does the job as well .",n
+1108,1105,br,As for the pom pom maker – actually I often use cardboard as well; for some diameters it’s much better.,n
+1111,1091,li,,n
+1112,1111,article,,n
+1114,1112,div,,n
+1117,1114,div,Priscella Livingston,n
+1120,1114,div,"December 2, 2020 at 6:28 pm",n
+1123,1112,p,"I love this article and it’s nice to know I have most of these knitting essentials in my possession. I live on a tight budget and I sew so I’ve made my own project bags of various sizes and needle organizers as well. I actually need to make a new one for my collection of recently acquired interchangeable circular needles. I also do beading work and make my own stitch markers which I love doing. I don’t own a ball keeper thing but I’ve always just used a big ziplock bag with a corner snipped off. It works so well and you can just toss it in a project bag. It’s a great way for me to reuse bags that come my way. I just might put on my Christmas list for a cute bowl though. Something I can leave for one of my granddaughter’s someday. I do want to purchase a yarn ring because I enjoy knitting with multiple colors at times. One thing you didn’t mention which I think is pretty essential is a book of knitting basics. I bought a nice little book “Knitting 200 Q and A” by Rita Taylor. It has been a great help to me over the years. Yes, I turn to the internet at times but this little book is a true gem. I didn’t learn to knit from a friend or relative. Everything I know about knitting I’ve learned from books and research. I started knitting after becoming disabled and loosing my career and life long love of oil painting. Knitting helped pulled me out of a deep dark depression. I’ve been blessed to teach a few people the beauty of knitting but I’m sure that there may be others like me who depend on books to help them grow in their knowledge of the art.",n
+1128,1111,li,,n
+1136,1128,div,"December 2, 2020 at 8:17 pm",n
+1137,1128,div,,n
+1139,1137,p,"Hey Priscella,",n
+1140,1137,p,,n
+1141,1140,text,thank you much for your feedback and for sharing your story. So glad knitting helped you as well to get out of a dark place!,n
+1143,1140,br,"Oh, and I agree, there’s no need to go on a shopping binge. You can add things one at a time, and there are just so many hacks that will amount to the same thing.",n
+1145,1140,br,"Personally, I prefer leather project bags because I travel a lot and I found them to be much sturdier and practical.",n
+1147,1140,br,"As for the books – I do have one article full of my favorite knitting books, but yours is indeed a nice suggestion!",n
+1150,1075,li,,n
+1151,1150,article,,n
+1153,1151,div,,n
+1156,1153,div,Sheila Peters,n
+1159,1153,div,"October 10, 2020 at 12:08 am",n
+1162,1151,p,I checked the whole list. I’ve been collecting for a lot of years. I’m always on the look out for a new knitting gadget. I also spin so I have fiber and a wheel.,n
+1167,1150,li,,n
+1175,1167,div,"October 10, 2020 at 7:10 am",n
+1176,1167,div,,n
+1178,1176,p,"Hey Sheila,",n
+1180,1176,p,"i always wanted to try myself at spinning but haven’t found the time yet. Maybe for the better, lol!",n
+1183,1075,li,,n
+1184,1183,article,,n
+1186,1184,div,,n
+1189,1186,div,Susan,n
+1192,1186,div,"October 23, 2020 at 1:23 pm",n
+1195,1184,p,Great list of items! I’ve been knitting off an on for over 40 years — and have many of these things That Bodolina needle holder is awesome! Haven’t seen source for them here in the US…saw one in the UK and of course Germany Might have to get one of those!,n
+1200,1183,li,,n
+1208,1200,div,"October 23, 2020 at 2:29 pm",n
+1209,1200,div,,n
+1211,1209,p,"Hey Susan,",n
+1213,1209,p,"thank you for saying hi. Yes, the Bodolina holders are awesome. They are the only ones I use these days. Nothing compares really!",n
+1217,1075,li,,n
+1219,1217,div,,n
+1222,1219,div,Shirley,n
+1225,1219,div,"October 25, 2020 at 11:27 pm",n
+1228,1217,p,"I’ve always felt like ‘just a person who can knit’, but after looking at this list of necessary tools, I realize that I’m more than that. Only a few things haven’t come my way, and they were not desired or needed for my vibe. Would love a swift if I ever got the nicer yarns that come in hanks. Thanks for the encouragement.",n
+1231,1075,li,,n
+1232,1231,article,,n
+1234,1232,div,,n
+1237,1234,div,Jeanne Reinisch,n
+1240,1234,div,"November 22, 2020 at 10:41 pm",n
+1243,1232,p,your suggestions are sold out or no longer available,n
+1248,1231,li,,n
+1256,1248,div,"November 23, 2020 at 8:20 am",n
+1257,1248,div,,n
+1259,1257,p,"Hey Jeanne,",n
+1261,1257,p,I will check again and see if there are other’s available. Thank you,n
+1265,1075,li,,n
+1267,1265,div,,n
+1270,1267,div,Lisa,n
+1273,1267,div,"October 8, 2021 at 1:55 am",n
+1275,1265,p,,n
+1276,1275,text,"Hi Norman,",n
+1278,1275,br,Well finally someone I can follow explaining instructions I have knitted 4 rows in the round of my cuff Woohoo! And it looks pretty good so thank you so much you are a great teacher.,n
+1280,1275,br,"Regards,",n
+1282,1275,br,Lisa.,n
+1285,1075,li,,n
+1286,1285,article,,n
+1288,1286,div,,n
+1291,1288,div,Cheryl,n
+1294,1288,div,"November 27, 2021 at 10:28 pm",n
+1297,1286,p,"In addition to an emery board for rough nails, I keep a non-greasy, unscented hand lotion in my knitting bag for when my hands are especially dry and feel like sandpaper. It really makes working with delicate yarns more enjoyable.",n
+1302,1285,li,,n
+1310,1302,div,"November 28, 2021 at 8:17 am",n
+1313,1302,p,That is a very nice additional Cheryl. I do that too but …i dunno..i don’t keep it in my knitting bag. ha! too risky,n
+1316,1075,li,,n
+1317,1316,article,,n
+1319,1317,div,,n
+1322,1319,div,Mariek,n
+1325,1319,div,"December 31, 2021 at 6:10 pm",n
+1326,1317,div,,n
+1328,1326,p,dear Norman!,n
+1329,1326,p,,n
+1330,1329,text,"instead of a crochet hook, i have another hook: but I don’t know the name. It is a handle with a hook like the ones on a knitting machine, only one hook. Great for unladdering, knit or purl side.",n
+1332,1329,br,it but i don’t know how and where to publish it.,n
+1334,1329,br,Thanks,n
+1336,1329,br,Mariek,n
+1341,1316,li,,n
+1349,1341,div,"January 1, 2022 at 8:35 am",n
+1352,1341,p,"Yeah, those knitting machine hook can be great",n
+1356,1075,li,,n
+1358,1356,div,,n
+1361,1358,div,atikul,n
+1364,1358,div,"January 30, 2022 at 3:09 am",n
+1367,1356,p,the best site,n
+1371,1075,li,,n
+1373,1371,div,,n
+1376,1373,div,Christina King,n
+1379,1373,div,"February 3, 2022 at 6:44 am",n
+1382,1371,p,"Love your videos. Anytime I need help, I look for one of your videos. They’re great and easy to follow. Keep up the good work. Thanks for all the help you’ve provided.",n
+1386,1075,li,,n
+1388,1386,div,,n
+1391,1388,div,Joanne,n
+1394,1388,div,"March 15, 2022 at 1:43 pm",n
+1397,1386,p,"Everything about your website is wonderful. Your instructions are clear and easy which have saved my sanity several times! An essential tool for me is using a music stand to hold patterns. I’ve customized mine with little pockets, clips, magnets and hooks for holding everything else needed. For keeping track of rows, I attached a mini abacus.",n
+1401,1075,li,,n
+1403,1401,div,,n
+1406,1403,div,Tianna,n
+1409,1403,div,"March 29, 2022 at 9:49 pm",n
+1412,1401,p,Hello- I am a new knitter and I excited to start collecting my stash!,n
+1415,1075,li,,n
+1416,1415,article,,n
+1418,1416,div,,n
+1421,1418,div,Toto,n
+1424,1418,div,"April 10, 2022 at 3:42 pm",n
+1425,1416,div,,n
+1427,1425,p,Hello Norman!,n
+1429,1425,p,"I wanted to join your patreon, but the entry level donation was a tad on the high side for my budget. If you are willing to lower it a bit, I will revisit and be able to support your work… Thanks for the free advice and insights in the meantime!",n
+1434,1415,li,,n
+1442,1434,div,"April 10, 2022 at 5:45 pm",n
+1444,1434,p,,n
+1445,1444,text,"Hey Toto,",n
+1447,1444,br,"thx for your feedback. The thing is, there are transaction fees etc involved. So if I lower the amount, hardly anything will reach my bank account. I started this patreon account so people can support me, not my bank or patreon. A 1-Dollar subscription just wouldn’t make any sense.",n
+1449,1444,br,Either way. Patreon is there so those who can afford it support my work so everyone can enjoy my tutorials. That’s why there is no paywall for all my tutorials. So all is good.,n
+1452,1075,li,,n
+1453,1452,article,,n
+1455,1453,div,,n
+1458,1455,div,Sophia,n
+1461,1455,div,"May 4, 2022 at 7:49 am",n
+1462,1453,div,,n
+1464,1462,p,"Hi Norman,",n
+1466,1462,p,Thanks for the very informational post above. Quick question. I can’t see the link for the scissors mentioned above. Could you please provide it?,n
+1471,1452,li,,n
+1479,1471,div,"May 4, 2022 at 5:13 pm",n
+1482,1471,p,"You mean on the picture? Quite of them are antique or rare fleamarket or ebay finds. So, nothing I can share with you guys, alas.",n
+1485,1072,div,,n
+1486,1485,h3,,n
+1487,1486,text,Leave a Comment,n
+1489,1486,small,Cancel reply,n
+1490,1485,form,,n
+1493,1490,p,Comment,n
+1496,1490,label,Name,n
+1499,1490,label,Email,n
+1502,1490,label,Website,n
+1507,1490,p,"Save my name, email, and website in this browser",n

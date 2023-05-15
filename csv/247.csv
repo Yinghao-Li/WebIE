@@ -1,0 +1,144 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+3,2,div,,n
+7,3,h1,10 Must-Have School Supplies,n
+9,3,p,by Bethany Braun-Silva,n
+11,2,div,,n
+14,11,div,,n
+16,14,h1,Shop The Story,n
+19,14,div,,n
+20,19,div,,n
+24,20,p,Mabel’s Labels,y
+26,20,p,$40.00,n
+27,19,div,,n
+31,27,p,Backpack,y
+33,27,p,$50.00,n
+38,19,p,Skip Hop Zoo Insulated Kids Lunch Bag,y
+45,19,p,Crayola Twistables Crayons Coloring Set,y
+52,19,p,Dinosaur-Era Primary Story Journal,y
+59,19,p,ZIPIT Monster Pencil Case,y
+62,19,div,,n
+66,62,p,Kids Hand Sanitizer Holder Keychain,y
+68,62,p,$20.00,n
+69,19,div,,n
+73,69,p,Old Navy Face Mask 5-Pack,y
+75,69,p,$13.00,n
+80,19,p,Contigo Kids Water Bottle,y
+83,19,div,,n
+87,83,p,Folding Nap Mat,y
+89,83,p,$42.00,n
+90,11,span,,n
+92,90,span,Hide Shop,n
+94,90,span,Show Shop,n
+100,2,div,Shop Story,n
+104,2,div,,n
+107,104,p,"Congrats! Your 4- or 5-year-old is getting ready to tackle kindergarten. We know it’s an exciting and emotional time for parents and kids, but there is one way to ease any potential anxiety, and that’s by being prepared.",n
+109,104,p,,n
+111,109,span,Our kindergarten,n
+113,109,span,school supply list,n
+115,109,span,"contains everything your child needs for a successful first year at school, including backpacks, lunch boxes, art supplies and more. It may be the first time your child has had to complete tasks independently, and the supplies on the list below will help them navigate the school year with ease and confidence. Julie Cole, co-founder of Mabel’s Labels and mom of six, suggests, “purchasing containers that are easy for little hands to work and practice using them to ensure a less stressful lunch and snack time at school.”",n
+119,104,p,,n
+121,119,span,"Cole also knows how stressful this time can be for parents and says that it’s just as important for parents to feel confident as it is for kids — even though this year comes with its own set of challenging circumstances. “Normally, children have visited the school and met with the teacher, so there is a level of familiarity,” Cole tells",n
+123,119,span,Parenting,n
+125,119,span,". “This is not the case for our little ones heading into Kindergarten this year.” Be sure to visit the school or schoolyard if possible, so kids are not overwhelmed on that first day, Cole recommends. You can also set up a Zoom call with their teacher to see each other and get to know one another a little more before the first day.",n
+129,104,p,There are also other small steps Cole suggests to prepare your child,n
+131,104,ul,,n
+134,131,li,Practice doing up their coats themselves,n
+135,131,li,,n
+137,135,span,Get shoes that are easy to take on and off,n
+139,135,span,", avoiding laces",n
+142,131,li,Practice getting themselves dressed,n
+145,131,li,Work on opening and closing their lunch boxes and snack containers,n
+146,131,li,,n
+148,146,span,Get on,n
+150,146,span,a good sleep schedule,n
+154,104,p,"Below, check out 10 must-have kindergarten supplies you should start shopping now to get prepared for the start of the 2020 school year.",n
+156,2,div,,n
+157,156,div,,n
+162,157,p,,n
+164,162,strong,10,n
+167,162,span,Mabel's Labels,n
+170,157,div,,n
+172,170,h2,Mabel’s Labels,n
+178,170,div,$40.00,n
+182,170,p,"Labeling is an essential task in prepping for the school year. These labels are customizable and come in various prints, designs and styles. The Ultimate Back-to-School Combo comes with 126 labels, including ones for shoes, lunch boxes, clothes and more.",n
+183,156,div,,n
+188,183,p,,n
+190,188,strong,10,n
+193,188,span,Pottery Barn Kids,n
+196,183,div,,n
+198,196,h2,Backpack,n
+204,196,div,$50.00,n
+208,196,p,"We love the Mackenzie backpack by Pottery Barn Kids because it comes in several different styles and designs. Kids can choose from Paw Patrol, Disney, and superhero prints and even personalize the backpack with their name or initials. Plus, because you can buy matching lunch boxes and water bottles, your kindergartner will always know which items are theirs.",n
+209,156,div,,n
+214,209,p,,n
+216,214,strong,10,n
+219,214,span,Skip Hop,n
+222,209,div,,n
+224,222,h2,Skip Hop Zoo Insulated Kids Lunch Bag,n
+230,222,div,$10.00,n
+234,222,p,"This lunch box comes in nine different animal prints, including sharks and flamingos. The clip-on carrying handle is perfect for little hands, and the side pocket conveniently carries your child’s water bottle. Feel free to mix and match with other items from Skip Hop’s Zoo line.",n
+235,156,div,,n
+244,235,p,10,n
+250,235,div,,n
+252,250,h2,Crayola Twistables Crayons Coloring Set,n
+259,250,div,$6.75,n
+263,250,p,Your kindergartner will be doing a lot of art projects — a lot! We love that these twistable crayons never need to be sharpened and come in 24 of Crayola’s most popular colors.,n
+264,156,div,,n
+271,264,p,10,n
+277,264,div,,n
+279,277,h2,Dinosaur-Era Primary Story Journal,n
+285,277,div,$6.00,n
+289,277,p,"This 100-page notebook is perfect for practicing letters, numbers and colors. Amazon shoppers love the high-quality paper and cute design.",n
+290,156,div,,n
+299,290,p,10,n
+305,290,div,,n
+307,305,h2,ZIPIT Monster Pencil Case,n
+314,305,div,$9.57,n
+318,305,p,"Give your child a handy place to store pencils, crayons and markers. This monster pencil case comes in over 20 colors and three different sizes.",n
+319,156,div,,n
+328,319,p,10,n
+334,319,div,,n
+336,334,h2,Kids Hand Sanitizer Holder Keychain,n
+337,334,div,,n
+339,337,span,54% Off,n
+343,337,span,$12.95,n
+345,337,span,$5.95,n
+349,334,p,Sending kids to school with hand sanitizer is more important than ever. These holders can be filled with the sanitizer of your choice and then easily attached to your child’s backpack. We have a feeling keychains like these will be very popular this year.,n
+350,156,div,,n
+355,350,p,,n
+357,355,strong,10,n
+360,355,span,Old Navy,n
+363,350,div,,n
+365,363,h2,Old Navy Face Mask 5-Pack,n
+371,363,div,$13.00,n
+375,363,p,"Should kids go back to school in person, they will likely be required to wear a face mask most of the time. This mask five-pack from Old Navy ensures kids will have a fresh mask to wear Monday through Friday, without parents having to scramble to do laundry.",n
+376,156,div,,n
+385,376,p,10,n
+391,376,div,,n
+393,391,h2,Contigo Kids Water Bottle,n
+400,391,div,$25.99,n
+404,391,p,Avoid trips to the water fountain by packing your kindergartner with their very own water bottle. The Contigo Kids water bottle is spill-proof and has a spout cover that helps prevent dirt and germs. We also love that it’s top-rack dishwasher safe and has a convenient carry loop.,n
+405,156,div,,n
+410,405,p,,n
+412,410,strong,10,n
+415,410,span,Wayfair,n
+418,405,div,,n
+420,418,h2,Folding Nap Mat,n
+426,418,div,$42.00,n
+430,418,p,"This padded and foldable nap mat is perfect for rest time, with a detachable pillow and a built-in blanket. The entire mat can be thrown in the washing machine to get it germ-free and ready for napping.",n
+431,2,section,,n
+433,431,h2,More Like This,n
+434,431,div,,n
+438,434,h3,The Best Diaper Bags,n
+442,434,h3,Your Pandemic Problems,n
+446,434,h3,The Snoo Smart Sleeper Has Had a Major Impact on My Mental Health,n
+450,434,h3,The Best Smartwatches,n
+451,2,section,,n
+453,451,h2,The Best Stories,n
+454,451,div,,n
+458,454,h3,The Best Hiking Backpack Carriers,n
+462,454,h3,These Hands-Free Pumping Bras Make My Life as a Labor and Delivery Nurse Easier,n
+466,454,h3,Kid,n
+470,454,h3,These Insanely Popular Face Masks,n

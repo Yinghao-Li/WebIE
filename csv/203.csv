@@ -1,0 +1,124 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+4,1,span,Close Banner,n
+6,1,div,,n
+11,6,div,,n
+14,11,div,July 01 at 12:00AM EDT,n
+16,11,div,Live on cntraveler.com,n
+18,6,div,,n
+20,18,div,,n
+23,20,p,02,n
+25,20,div,Days,n
+31,18,div,,n
+34,31,p,20,n
+36,31,div,Hours,n
+42,18,div,,n
+45,42,p,14,n
+47,42,div,Minutes,n
+53,18,div,,n
+56,53,p,00,n
+58,53,div,Seconds,n
+60,6,div,,n
+62,60,span,Vote Now,n
+63,60,text,Live on cntraveler.com,n
+67,0,div,,n
+72,67,p,"All products featured on Condé Nast Traveler are independently selected by our editors. However, when you buy something through our retail links, we may earn an affiliate commission.",n
+77,67,div,,n
+79,77,p,"Kayaking is a great way to get out in nature and enjoy the many beautiful lakes , rivers, and estuaries the U.S. has to offer. And thankfully, the activity's barrier to entry is pretty low. While buying a kayak might not be on the radar of first timers just yet, there are many national outfitters and outdoor sports shops— REI and Dick's Sporting Goods included—that offer kayaks for rent. Your local marina, park district, or gear shop may be a good place to rent, too. And many national parks, like Grand Teton National Park and Everglades National Park , have outfitters inside.",n
+103,77,div,,n
+105,103,div,Subscribe today,n
+107,103,div,Plus 2 free gifts,n
+112,77,p,"If you are looking to invest in a kayak, options abound: Choose from hard shell kayaks from Eddyline , inflatable kayaks from Advanced Elements or Sea Eagle , or Oru’s foldable kayaks . When you buy a kayak, you will need to buy paddles and a life jacket separately. When you rent a kayak, most rental places include these essentials in the price of rental—ideal for the beginner who doesn't have any paddling gear.",n
+128,77,div,,n
+131,128,h2,Oru Folding Inlet Kayak,n
+135,128,div,,n
+137,135,span,$899,n
+138,135,text,at Oru Kayak,n
+142,77,div,,n
+145,142,h2,Eddyline Rio kayak,n
+149,142,div,,n
+151,149,span,"$1,429",n
+152,149,text,at Eddyline,n
+154,77,p,"Beyond a kayak, the necessary gear list isn’t extensive, but there are a handful of accessories that will make your days on the water more fun, safe, and enjoyable. Below, seven pieces of kayaking gear to consider.",n
+156,77,h2,Water shoes,y
+158,77,p,"Apart from the kayak, paddles, and life jacket, a good pair of water shoes is key for a comfortable day on the water. Most kayaks will take on some water, especially the sit-on-top kind . Additionally, you will get your feet wet as you push off from the pier and when you come back as you step out to pull the kayak back to shore. Water shoes provide much needed grip as you step on the moss-slick pier or rocky river bottom.",n
+161,77,p,"These NRS Freestyle Wetshoes have a soft, fleece-like lining that repels water and dries quickly for warmth and comfort. They also have protective rubber on the toe and the heel to provide extra cushion and durability.",n
+167,77,div,,n
+170,167,h2,NRS Freestyle Wetshoes,n
+171,167,div,,n
+177,171,div,at NRS,n
+183,171,div,at Backcountry,n
+185,77,h2,Paddling-appropriate clothing,y
+187,77,p,"Clothing options for kayaking are similar to other outdoor activities like hiking or trekking. The key is to aim for breathability, comfort, and protection against cold and wet conditions. According to the U.S. Coast Guard, a good rule of thumb is to dress for water temperatures—which can generally be found by a quick Google search—not air temperatures. Apps like Water Temperature or Buoyweather Marine Forecasts can give you specific temperature details for oceans and lakes worldwide. This is even more important if you plan to spend the whole day out on the water. Dress in layers and wear clothing that is quick drying and is made with UPF-rated fabrics for optimal sun protection .",n
+196,77,div,Advertisement,n
+204,77,p,"Bathing suits and rash guards are great to wear for kayaking. For longer trips on the water, you can layer with long sleeves tops or even wet suits depending on expected water temperatures.",n
+213,77,div,,n
+216,213,h2,Lemorecn men's neoprene wetsuit,n
+220,213,div,,n
+222,220,span,$59,n
+223,220,text,at Amazon,n
+227,77,div,,n
+230,227,h2,Cynthia Rowley Sea Ombre Wetsuit,n
+234,227,div,,n
+236,234,span,$345,n
+237,234,text,at Cynthia Rowley,n
+239,77,h2,Dry bags,y
+241,77,p,"Dry bags are a must for any kind of water sport, especially kayaking. They keep valuables such as keys, cell phones, snacks, sunblock, cameras, and other essentials dry and safe . SealLine Gear’s durable bags come in a variety of sizes.",n
+248,77,div,,n
+251,248,h2,SealLine Baja dry bag,n
+255,248,div,,n
+257,255,span,$20,n
+258,255,text,at SealLine,n
+260,77,h2,Water bottle,y
+262,77,p,"You know the saying, “Water, water, everywhere but not a drop to drink!”—that is certainly true when you're kayaking. Even if you aren’t sea kayaking, it is never a good idea to drink water from lakes, rivers, or estuaries without any form of filtration . And as responsible travelers, opt for carrying a reusable water bottle whenever possible. From Hydro Flasks to S’well bottles , there are many options to choose from. If space is an issue, collapsible water bottles are a great idea to pack for a day of paddling—and bring along a SteriPen in case you need to refill on the water.",n
+278,77,div,,n
+281,278,h2,Hydro Flask Wide Mouth water bottle,n
+285,278,div,,n
+287,285,span,$38,n
+288,285,text,at Hydro Flask,n
+292,77,div,,n
+295,292,h2,S'well insulated water bottle,y
+299,292,div,,n
+301,299,del,$35,n
+303,299,span,$26,n
+304,299,text,at Nordstrom,n
+306,77,h2,Waterproof phone case,y
+308,77,p,"A day outdoors isn't complete without photos to document your outing, right? Plus, being out on the water adds a unique perspective to landmarks. Avoid splashes with a durable waterproof case . The AxisGo underwater camera and cell phone system from AquaTech is perfect for taking underwater photos to share with your family and friends. It even comes with an adjustable hand strap or pistol grip for easy access.",n
+316,77,div,,n
+319,316,h2,Aqua Tech AxisGo 11 Water Housing Kit,n
+323,316,div,,n
+325,323,span,$199,n
+326,323,text,at Aqua Tech,n
+328,77,h2,Sunscreen,y
+330,77,p,"Good sun protection is more important on the water where you don’t have tree cover or shade to help protect your skin. This sunscreen by Badger is made with organic ingredients and is reef safe. It goes on easily, stays on for at least 80 minutes, and is water resistant so it can work both in and out of the water.",n
+336,77,div,,n
+339,336,h2,Badger zinc oxide sport sunscreen,y
+343,336,div,,n
+345,343,span,$15,n
+346,343,text,at Target,n
+348,77,h2,Hat,y
+350,77,p,"In addition to wearing clothes made with UPF-rated fabrics as protection from the sun, consider wearing a sun hat to provide an added layer of cover. Wide brim bucket hats are best as they block your face and neck from ultraviolet rays and provide sun protection that doesn’t wear off. The North Face makes a bucket hat that is fast drying and has UPF 40+; for even more protection, this L.L. Bean hat offers UPF 50+.",n
+360,77,div,,n
+363,360,h2,The North Face Horizon Breeze Brimmer hat,n
+367,360,div,,n
+369,367,span,$35,n
+370,367,text,at Amazon,n
+374,77,div,,n
+377,374,h2,L.L. Bean Tropicwear Outback hat,n
+381,374,div,,n
+383,381,span,$45,n
+384,381,text,at L.L. Bean,n
+408,0,div,,n
+415,408,div,,n
+417,415,span,Topics,n
+419,415,span,Shopping,n
+421,415,span,outdoors,n
+423,415,span,Water Sports and Pursuits,n
+428,408,div,,n
+429,428,div,,n
+431,429,h3,The Daily,n
+433,429,div,"Our most popular newsletter for destination inspiration, travel tips, trip itineraries, and everything else you need to be an expert traveler in this beautiful world",n
+435,428,div,,n
+443,435,span,Sign up,n
+447,435,p,By subscribing to our newsletter you agree to our User Agreement and Privacy Policy and Cookie Statement .,n

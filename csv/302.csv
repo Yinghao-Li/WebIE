@@ -1,0 +1,172 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,,n
+5,4,article,,n
+6,5,div,,n
+10,6,h1,Hockey Equipment Guide,n
+13,6,p,All Hockey Equipment Required to play in a League,n
+14,6,ul,,n
+16,14,li,Hockey Equipment bag,y
+18,14,li,Jock,y
+20,14,li,Shin pads,y
+22,14,li,Hockey socks,y
+24,14,li,Hockey Pants,y
+26,14,li,Skates,y
+28,14,li,Shoulder Pads,y
+30,14,li,Elbow Pads,y
+32,14,li,Neck Guard,y
+34,14,li,Hockey Gloves,y
+36,14,li,Helmet with full cage,y
+40,14,li,Mouth Guard,y
+42,14,li,Jersey,y
+44,14,li,Hockey stick,y
+47,6,p,Other recommended accessories,n
+48,6,ul,,n
+50,48,li,Skate guards,y
+52,48,li,Water Bottle,y
+54,48,li,Stick tape,y
+56,48,li,Shin pad tape,y
+58,48,li,Pucks,y
+60,48,li,Stickhandling Ball,y
+62,6,p,Visit our 5 Essential hockey accessories article,n
+66,6,h1,Hockey Equipment Details,n
+69,6,h3,Hockey Equipment Bag,y
+72,6,p,Most kids prefer a hockey bag with wheels. The Grit bags are very popular,n
+74,6,p,The bag is used to carry all the items listed above. There are different sizes available and also wheeled hockey bags and non-wheeled hockey bags.,n
+77,6,p,Wheeled or Non-Wheeled,n
+79,6,p,From my experience most kids prefer wheeled hockey bags – more specifically the GRIT wheeled hockey bag towers. These tower bags have sections to organize the equipment.,n
+81,6,p,Older kids tend to prefer the non-wheeled hockey bags. Non-wheeled hockey bags take up less room and are easier to pack. Also most older kids with wheels on their bag will get teased for not being strong enough to carry their equipment.,n
+84,6,h3,Jock,y
+85,6,p,,n
+86,85,text,"A jock protects the important parts . There are a number of different jock styles available, the old style garter belt jock, and the newer style velcro shorts. When it comes to a",n
+88,85,strong,garter style jock vs a velcro compression short most players use the Velcro.,n
+89,85,text,I personally prefer the velcro short style jocks as well.,n
+92,6,h3,Shin Pads,y
+94,6,p,Shin pads will protect the legs from the top of the knees down to where the skates start. It’s important to have proper fitting shin pads so there are no gaps between the skates and the shin pads.,n
+96,6,p,Visit our detailed Shin pad fitting guide here,n
+100,6,h3,Hockey Socks,y
+102,6,p,"These go over the shin pads and then attach to the jock either via the new style velcro or the old style garter belt. Most players also use clear hockey tape to help keep the socks up, and hold the shin pads in place.",n
+105,6,h3,Hockey Pants,y
+107,6,p,"Yes they are called hockey pants, even though they look more like shorts. The Pants protect from the knees up to the belly. It’s important to get proper fitting hockey pants so they are not sagging or falling off, but also not too small that they leave a gap between the shin pads and bottom of the pants.",n
+109,6,p,See out detailed hockey pants fitting guide here,n
+113,6,h3,Hockey Skates,y
+114,6,p,,n
+115,114,text,the most important parts of hockey equipment.,n
+117,114,strong,skates is very important.,n
+118,114,text,Also make sure that the skates are properly sharpened before going on the ice for the first time. I recommend buying skates at a shop and getting them properly fitted.,n
+121,114,strong,Make sure skates are,n
+122,6,ul,,n
+124,122,li,The right size they usually fit a size or 2 smaller than shoes,n
+126,122,li,Comfortable,n
+128,122,li,Heat molded to fit the childs foot,n
+130,122,li,Sharpened,n
+132,6,p,See our detailed skate fitting guide here,n
+136,6,h3,Shoulder Pads,y
+138,6,p,"Shoulder pads protect the shoulders, biceps, chest, and upper part of the back. Some players prefer bulky shoulder pads while others prefer shoulder pads that barely protect anything . For younger players I recommend shoulder pads that offer good protection, but make sure they are not too big that it restricts the child from moving.",n
+140,6,p,See our detailed shoulder pad fitting guide here,n
+144,6,h3,Elbow pads,y
+146,6,p,"Elbow pads protect the elbows, as well as a bit of the forearm and triceps. The elbow pads are mainly for protection when the child falls, and also from slashes and hooks from other players.",n
+148,6,p,See our detailed elbow pad fitting guide here,n
+152,6,h3,Neck Guard,y
+154,6,p,The neck guard protects the neck from the very rare chance that a hockey stick or skate blade comes in contact with the throat.,n
+157,6,h3,Helmet with full cage,y
+159,6,p,"A helmet is also very important. I recommend spending some extra money to get a helmet that offers good protection, and most of all make sure the helmet fits properly. A full cage is also required to protect the face",n
+161,6,p,See our Helmet fitting guide and cage sizing guide here,n
+167,6,h3,Mouth Guard,y
+169,6,p,A mouth guard is required to protect from dental damage and concussions. Mouth guards vary from about $10 to a few hundred dollars if you get them from the dentist. If you buy your mouth guard at the store you will need to boil it and then bite it so that it will fit your teeth.,n
+172,6,h3,Jersey,y
+174,6,p,"A team will supply the player with a jersey, however it’s nice for a child to have their own practice jersey. This is a jersey they can wear when they are invited to play for fun with other players, or during practice",n
+177,6,h3,Hockey Stick,y
+179,6,p,"A hockey stick is another very important piece of equipment. A stick should be properly fitted with the right length, flex, and handedness.",n
+180,6,p,,n
+182,180,strong,the stick,n
+183,180,text,", so if a child is right hand they will shoot left, and if they are left handed they will shoot right. The dominant hand goes on top because the top hand does most of the movements during stickhandling.",n
+184,6,p,,n
+186,184,strong,the stick,n
+187,184,text,"I recommend cutting the stick just below the chin while the child is on skates. This allows good movement of the stick, and encourages the child to get a bit lower with their hockey stance.",n
+189,6,p,See our hockey stick guide here,n
+192,6,h2,One by One or Starter Kit?,n
+193,6,p,,n
+194,193,text,"Buying every piece of equipment individually can be expensive, if you go this route you are looking at spending $300-$700. The better the equipment you buy the more you are going to spend.",n
+196,193,strong,The good news is you can get hockey equipment starter kits at good prices,n
+198,6,p,There are some starter kits available that make getting a kid started in hockey very affordable. In fact Winnwell currently has a kit for only $123,n
+201,6,p,"The kit comes with gloves, shoulder pads, elbow pads, pants, shin pads, and a hockey bag. It’s almost everything you need to start a child in hockey.",n
+203,6,h1,Hockey Equipment,n
+206,6,h2,Should you buy new or used hockey equipment?,n
+208,6,p,"The problem with kids is that they are always growing. If you buy new hockey equipment for them every year or two it will get pretty expensive. The is no problem buying used hockey equipment, in fact I encourage it.",n
+210,6,p,Most hockey equipment for kids has only been used for one or two seasons and is perfectly fine. The trick is to find used hockey equipment that fits your child properly. Do not sacrifice protection or comfort to save a few dollars.,n
+211,6,p,,n
+213,211,strong,I recommend good skates and a good,n
+215,211,strong,helmet,n
+216,211,text,the equipment from there. Also getting a new jock is recommended.,n
+219,6,p,Where to find used hockey equipment,n
+220,6,ul,,n
+222,220,li,Stores like recycled sports and play it again sports,n
+224,220,li,"Online on sites like Kijiji, Craigslist, Ebay, or a local classified website",n
+226,220,li,In your arena or even check the lost and found,n
+228,220,li,older hockey players,n
+230,6,h2,Should you buy Hockey Equipment Online or in Stores?,n
+232,6,p,"There are good deals to be had online through stores like Hockey Monkey and Total Hockey, you can get brand new equipment at great prices, but remember you need to know if it will fit properly.",n
+234,6,p,"I recommended new hockey players go to a store and try things on first. That way you will have an idea of what fits you well and what doesn’t. You will get an idea of your sizes, and what brands you like. Then you can look around online and use the information from trying on in the store to possibly buy online.",n
+236,6,p,I recommend buying your skates and helmet in the store so you get a proper fit.,n
+238,6,h2,Hockey Equipment cost,n
+241,6,p,hockey equipment can cost from $300 – $700+,n
+243,6,p,,n
+244,243,text,"A full set will vary in price,",n
+246,243,strong,if you are buying new,n
+247,243,text,you will spend about $300-$500 to get your child on the ice. You can save by buying used equipment and looking for sales,n
+249,6,p,"A basic new starter kit of protective equipment for a youth hockey player will cost about $100, this kit will include a bag, shin pads, elbow pads, chest protector, gloves and pants. Then the major costs will be skates and a helmet.",n
+251,6,p,"Skates alone can cost up to $500 for kids, but there is no need to start with the most expensive pair of skates.",n
+254,6,p,hockey equipment will cost from $50 – $200,n
+256,6,p,"If you are very frugal you could likely get everything for your child for about $50. At $50 you would need to get some freebies and hand me downs from other hockey families, or find a great deal on a used set online.",n
+259,6,p,Do I need to buy all the Hockey Equipment at once?,n
+261,6,p,If you just want your child to try hockey you don’t have to buy anything. Most minor hockey associations will have hockey equipment on hand that your child can wear for a few ice sessions to see if they like the sport. If your child likes it then you can work on buying equipment,n
+263,6,p,"If your child will not be playing in a league then all you need is skates, a helmet, a stick and whatever protective equipment you think is necessary. The bare minimum will allow your child to play outdoor hockey , attend public skating, and attend stick and puck sessions .",n
+265,6,h1,Helpful Links,n
+266,6,ul,,n
+268,266,li,Hockey Monkey – Most popular online hockey store,n
+271,266,li,Pro Hockey Life,n
+274,266,li,Pure Hockey – Another online hockey store,n
+277,266,li,How To Hockey – Hockey training tips and training videos,n
+279,6,div,,n
+281,279,h3,Share and Enjoy !,n
+282,279,div,,n
+288,282,div,Shares,n
+293,282,div,0,n
+302,5,footer,,n
+304,302,span,Hockey Parent Tips,n
+306,302,span,"advice , helmets , skates , tips",n
+315,4,div,,n
+317,315,h3,Coach Jeremy,n
+320,315,div,More Posts,n
+321,4,nav,,n
+323,321,h1,Post navigation,n
+326,321,div,Shin Guard or Shin Pad Guide,n
+327,4,div,,n
+330,327,h3,One Comment,n
+333,327,li,,n
+334,333,footer,,n
+336,334,div,Reply,n
+337,334,div,,n
+340,337,div,"January 3, 2016",n
+342,337,cite,Kim Senne,n
+345,333,p,So my daughter is 3 1 or 2 and a size 2T. Are you aware of equipment that runs that small? She wants to do rookie camp in a few weeks.,n
+346,327,div,,n
+347,346,h3,,n
+348,347,text,Leave a Reply,n
+350,347,small,Cancel reply,n
+351,346,form,,n
+352,351,p,,n
+354,352,span,Your email address will not be published.,n
+355,352,text,Required fields are marked,n
+360,351,p,Comment,n
+364,351,p,Name,n
+370,351,p,Email,n
+376,351,p,Website,n
+381,351,p,"Save my name, email, and website in this browser",n
+387,351,p,,n
+388,387,text,Notice,n
+390,387,strong,5d7ad0600074dd24255ba591445ac0bc,n
+393,0,div,,n
+395,393,div,© 2022 New To Hockey. All rights reserved.,n
+397,393,div,Hiero by aThemes,n

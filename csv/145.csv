@@ -1,0 +1,71 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,form,,n
+122,4,h1,Website Manager,n
+124,4,div,,n
+138,124,div,,n
+140,138,span,Select Language,n
+142,138,span,​,n
+163,124,ul,,n
+168,163,li,About Us,n
+192,163,li,Programs,n
+225,163,li,Registration Info,n
+242,124,div,,n
+246,242,h2,Baseball or Softball Equipment,n
+252,242,p,,n
+253,252,text,"The following list is a summary of equipment needs for each of our leagues. There are mandatory items that are needed, optional items that are a suggestion and a listing of equipment that we have available to use if needed. For the items that available for shared use, MYAA keeps a supply of equipment at the fields for shared use. These are basic items for those that need them.",n
+255,252,br,For bats,y
+257,252,strong,baseball,n
+261,252,br,"For anyone that is having financial difficulty obtaining equipment, please contact us. We often have donated equipment at the building or can help figure something out for you and your child!",n
+265,252,span,8U Softball,n
+270,252,br,"Recommended - Helmet , cleats",y
+273,252,br,"Optional - Softball pants or socks, fielders face mask, bat. Anyone considering pitching may want to start off wearing a face mask.",n
+284,252,span,10U Softball,n
+292,252,br,"Optional - Softball pants or socks, slider shorts, fielders face mask. Anyone considering pitching may want to start off wearing a face mask.",n
+303,252,span,12U Softball,n
+322,252,span,16U Softball,n
+341,252,span,Tee Ball,n
+346,252,br,Recommended - Helmet,y
+349,252,br,"Optional - Bat, Cleats , baseball pants",y
+352,252,br,Available,n
+355,252,br,"MYAA Provides - Game jersey, hat, baseballs, tee",y
+360,252,span,Bantam Baseball,n
+365,252,br,"Recommended - Baseball pants, cleats , bat",y
+368,252,br,Available,n
+376,252,span,"Rookie, Minor and Major League Baseball",n
+378,252,br,"Mandatory - Baseball Glove, cleats , baseball pants",y
+381,252,br,"Recommended - Bat and helmet , protective cup",n
+384,252,br,Available,n
+394,252,br,"Mandatory - Baseball glove, cleats , baseball pants, bat",y
+392,252,span,Junior League,n
+396,252,br,"Recommended - Helmet , protective cup",y
+404,252,span,Adaptive League,n
+408,252,br,"Optional - cleats , bat, baseball pants",y
+439,124,div,< >,n
+443,124,div,,n
+444,443,div,,n
+446,444,h2,Contact,n
+447,444,div,,n
+448,447,p,,n
+449,448,text,Millcreek Youth Athletic Association,n
+451,448,br,2614 Colonial Avenue,n
+453,448,br,"Erie, Pennsylvania 16506",n
+454,447,p,,n
+455,454,text,Phone,n
+458,454,br,Email,n
+462,443,div,,n
+464,462,h2,Site Links,n
+466,462,ul,,n
+472,466,li,Program Fees,n
+474,466,li,Sponsorship Info,n
+476,466,li,Team Directory,n
+478,466,li,MYAA Fanwear Store,n
+498,124,div,,n
+500,498,span,Copyright © 2022 Millcreek Youth Athletic Association,n
+501,498,text,| Privacy Statement,n
+504,498,span,|,n
+505,498,text,Terms Of Use | License Agreement | Children's Privacy Policy Log In,n
+520,4,div,Our terms now include the License Agreement . By continuing to use our Services you agree to all terms.,n
+523,0,div,,n
+529,523,h1,Original text,n
+535,523,div,Contribute a better translation,n

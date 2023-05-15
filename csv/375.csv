@@ -1,0 +1,44 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+6,2,div,,n
+8,6,div,,n
+10,8,p,By The ARTnews Recommends Editors,n
+13,8,span,Plus Icon,n
+15,8,div,,n
+17,15,h3,The ARTnews Recommends Editors,n
+20,15,h4,More Stories by,n
+29,15,div,View All,n
+32,6,div,"June 10, 2022 7:30pm",n
+61,2,div,,n
+64,61,p,"Sketching is the most basic of any artist’s skill set. A good sketching set is essential for any artist, designer, or architect looking to maintain a drawing practice. Pencil sets are a portable, versatile must-have for the pro on the go. Whether you’re sketching en plein air, drafting a formal canvas, or brushing up on basics, a complete sketching set is necessary to everyone from the burgeoning artist to the expert draftsman. While we can’t promise that you’ll soon be cranking out masterpieces, practice does make perfect. Shop our picks below to find the right set for your needs.",n
+73,61,section,,n
+75,73,h2,Faber-Castell Creative Studio Art On-the-Go Graphite Sketch Set,y
+77,73,p,"Faber-Castell, whose pencils were beloved by van Gogh, offers a comprehensive and high-quality kit at a good price that’s sure to satisfy serious sketching needs. The set comes with 15 graphite pencils from its Goldfaber line ranging from 6B to 4H . These have high lightfastness ratings and have break-resistant cores. You also get a soft black pencil case, a pencil sharpener, and an eraser. If you’re serious about your graphite, invest in these pencils, and you can round them out with other sketching basics to suit their quality, like a good paper pad.",n
+80,73,div,,n
+84,80,span,Faber-Castell Creative Studio Art On-the-Go…,y
+86,80,span,$16.44,n
+90,61,section,,n
+92,90,h2,Prismacolor Premier Soft Core Pencils,y
+94,90,p,"Looking for a prismatic sketching set, whether for meditative coloring or your own vibrant sketches? Look no further than Prismacolor’s student-grade drawing bundle. The set includes 20 highly pigmented pencils with soft yet break-resistant cores. Lightfast and richly saturated, they are a favorite for adult coloring books, and this set even comes with a booklet with eight ready-to-color illustrations! Use this as inspiration, or dive right in to creating your own masterpieces with the included black illustration marker, kneaded eraser, sharpener, and blender.",n
+97,90,div,,n
+101,97,span,Prismacolor Premier Soft Core Pencils,y
+103,97,span,$21.99,n
+107,61,section,,n
+109,107,h2,Norberg and Linden Drawing Set,y
+111,107,p,"This option from Norberg and Linden is perfect for the beginner who wants to get all essential sketching supplies in one purchase. The set includes eight graphite pencils ranging from 8B to 5H and three charcoal pencils ranging from hard to soft. In addition, you get a 100-page wire-bound sketchbook, a vinyl and a kneaded eraser, two sharpeners, an all-graphite pencil, and two charcoal sticks: one soft, one medium. While this set includes no carrying case, a gift box makes for a polished presentation.",n
+114,107,div,,n
+118,114,span,Norberg and Linden Drawing Set,y
+120,114,span,$19.89,n
+124,61,section,,n
+126,124,h2,AmazonBasics Sketch and Drawing Art Pencil Kit,y
+128,124,p,"If you’re in the market for a slim and serviceable set, you might want to take a look at this drawing kit, which provides you with the fundamentals to explore your sketching abilities before investing in something higher-end. Choose from six graphite pencils in a range of thicknesses, and maintain your pencils with the included sharpener. The kit also contains both vinyl and soft gum erasers, three charcoal pencils, four charcoal sticks, and a blending stump.",n
+131,124,div,,n
+135,131,span,AmazonBasics Sketch and Drawing Art Pencil Kit,y
+137,131,span,$6.66,n
+141,61,section,,n
+143,141,h2,Studio 71 Portable Sketching Art Set,y
+145,141,p,"Want more than charcoal and graphite? Look no further than this set from Darice. While the kit includes 29 pieces of high-quality drawing materials, the best perk of this product is its slick carrying case. Keep your tools organized and carry them with ease via Darice’s hard silver trunk with a convenient handle and secure snap closures. Not only does the set include nine sketching pencils, three charcoal pencils, three blending stumps, both a gum and a vinyl eraser, a pencil sharpener, a sanding block, and a sketch pad, this set also provides eight soft pastels ranging from white to ochre to black to add dimension to your monochrome sketches.",n
+148,141,div,,n
+152,148,span,Studio 71 Portable Sketching Art Set,y
+154,148,span,$24.99,n

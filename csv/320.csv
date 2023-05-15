@@ -1,0 +1,91 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+35,0,div,,n
+37,35,h1,Outdoor Prep,n
+39,35,p,,n
+41,39,strong,Posted,n
+42,39,text,"March 20, 2018 |",n
+44,39,strong,Author,n
+45,39,text,Kevin Koontz |,n
+47,39,strong,Read Time,n
+48,39,text,1 minutes,n
+51,35,p,"Below is a packing list for those interested in sport climbing, different gear is needed for different kinds of climbing. Sport climbing is a form of rock climbing that relies on permanent anchors fixed to the rock for protection. Other types of the activity, like traditional climbing, require the climber to place removable protection as they climb.",n
+54,35,p,Gear,n
+55,35,ul,,n
+57,55,li,Rope,y
+59,55,li,Belay or rappel device,y
+61,55,li,Locking carabiners,y
+63,55,li,Non-locking carabiners,y
+65,55,li,PAS,y
+67,55,li,Quickdraws,y
+69,55,li,Daypack,y
+71,55,li,Helmet,y
+73,55,li,Harness,y
+75,55,li,Rock climbing shoes,y
+77,55,li,Chalk,y
+79,55,li,Tape or rappel gloves,y
+81,55,li,First Aid Kit,y
+83,55,li,Sunscreen,y
+85,55,li,Headlamp or flashlight,y
+87,55,li,Extra batteries,y
+89,55,li,Knife or multitool,y
+91,55,li,Water,y
+93,55,li,Snack,y
+96,35,p,Clothing,n
+97,35,ul,,n
+99,97,li,Wicking T-shirt,y
+101,97,li,"Shorts, pants, or tights",y
+103,97,li,Rain jacket,y
+105,97,li,Down or fleece jacket,y
+107,97,li,Hiking shoes or sandals - something to change into while belaying,y
+110,35,p,Optional Gear,n
+111,35,ul,,n
+113,111,li,Camera,y
+115,111,li,Hat,y
+116,35,text,Visit SUU Outdoors to pick up gear,n
+121,35,p,,n
+123,121,strong,Tags,n
+124,121,text,Outdoor Recreation Blog Outdoors SUU Outdoors,n
+129,35,h2,Related Posts,n
+130,35,div,,n
+134,130,div,Backpacking - Plan Ahead and Prepare,n
+138,130,div,Ten Outdoor Essentials to take on your Adventures,n
+142,130,div,10 Hot Springs Near Southern Utah University in Cedar City,n
+145,0,div,,n
+156,145,div,,n
+157,156,ul,,n
+159,157,li,Academic Calendar,n
+161,157,li,Bookstore,n
+163,157,li,Catalog,n
+165,157,li,Colleges,n
+166,157,li,,n
+167,166,text,Employment,n
+169,166,span,at SUU,n
+171,157,li,Library,n
+172,156,ul,,n
+174,172,li,Arts,n
+176,172,li,Athletics,n
+178,172,li,Blog,n
+180,172,li,Campus Map,n
+181,172,li,,n
+183,181,span,University,n
+184,181,text,Events,n
+186,172,li,Parents and Families,n
+187,156,ul,,n
+189,187,li,Campus Safety,n
+190,187,li,,n
+191,190,text,Report an,n
+193,190,br,Ethical Concern,n
+195,187,li,SUU Police,n
+197,187,li,Title IX,n
+198,156,ul,,n
+200,198,li,info@suu.edu,n
+202,198,li,-7700,n
+203,198,li,,n
+204,203,text,351 W University Blvd.,n
+206,203,br,"Cedar City Utah, 84720",n
+209,198,li,Give,n
+211,145,ul,,n
+215,211,li,Accessibility,n
+217,211,li,Nondiscrimination,n
+219,211,li,Privacy,n

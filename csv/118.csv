@@ -1,0 +1,131 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+56,0,div,,n
+73,56,h1,Bowling Equipment List,n
+74,56,div,,n
+78,74,h2,Contents,n
+81,74,ul,,n
+85,81,li,Accessories,n
+87,81,li,Essential Bowling Equipment,n
+89,81,li,List Of Bowling Equipment,n
+93,56,div,,n
+95,93,h2,Bowling Equipment,n
+97,93,p,"Since its inception in the 1930s, bowling has been a popular sport. Bowling can be played both casually and competitively, which is why it is popular among all age and experience levels. Although it's possible to set up a makeshift game of bowling with household items and a ball on any flat surface, a true game of bowling occurs in a bowling alley.",n
+101,93,p,"There are a lot of pieces that go into the preparation for a game of bowling, and knowing the basics like the reason for wearing bowling shoes and which size bowling ball you should choose is very important! Here is a checklist of equipment that is necessary to have a productive game of bowling.",n
+104,56,div,,n
+106,104,h2,Accessories,n
+108,104,p,"Bowling can be an expensive sport, with dozens of pieces of equipment available to enhance the experience of a bowler. However, some of this equipment is not mandatory in order to play a game of bowling. These pieces of equipment, known as accessories, can enhance the experience of a bowler and in most cases are a common part of any professional bowler's arsenal of equipment. Bowling accessories include:",n
+109,104,ul,,n
+111,109,li,Bowling Bags,y
+113,109,li,Bowling Ball Wipes,y
+115,109,li,Bowling Ramps,y
+117,109,li,Bowling Shirts,y
+127,104,h3,Bowling Bags,y
+129,104,p,"Bowling bags were created in order to make it easier for bowlers to carry around their personal, heavy bowling balls. Originally, a small leather bag with straps gave a better grip for holding the ball rather than having to lug around a slippery ball on its own. Bowling bags were first used around the 1920s when the sport became popular and were usually made out of strong and durable leather. The bowling bag quickly became the quintessential design for bags that continue to be created today.",n
+132,104,p,"As the sport became more popular, more designs were created for the bag, which would not only hold the ball but also shoes and other equipment that bowlers might need. An expensive bowling bag is not necessarily needed as long as it is able to hold the bowler's ball and other equipment that they need. The cost of a bowling bag depends on the material that the bag is made of. Basic bowling bags can cost around $15 to $50. However, if a bowler wants a leather bag they can cost upwards of hundreds of dollars.",n
+134,104,h3,Bowling Ball Wipes,y
+136,104,p,"Bowling ball wipes, or simply bowling wipes, are an important part of a serious bowler's game. When playing with a high-performance ball made to absorb oil, making sure to have a good bowling towel is important in order to make sure the ball is as clean as possible before rolling it down the lanes . Balls that do not get cleaned off can absorb dust which could cause it to lose its efficiency and its pop.",n
+142,104,p,"A bowling wipe is about the same size as a wash cloth towel that may be found in your house, but it is made of different materials that will absorb any unwanted material that is on the ball. Bowling towels can be made of many materials ranging from microfiber to leather as well as cotton. These materials are the best at absorbing any oil that may be left on the ball from rolling down the lanes.",n
+144,104,p,"Bowling towels can be found at any bowling alley that has a store that sells accessories or online. They can range anywhere from $7 to $20 depending on player preference. The only restriction on using a towel during play is if it has anything on it that may alter the surface of the ball. Basically, as long as the towel is dry at the time of use then bowlers are allowed to use it.",n
+146,104,h3,Bowling Ramps,y
+148,104,p,"While not featured in professional bowling, bowling ramps are a great way for kids or new bowlers to get involved in the sport and have fun. The ramps are typically made of metal, and sit at a height that allows the user to place a ball at the top and roll it down the ramp towards the pins. This takes the challenge of rolling the ball straight out of the equation, which can make the game of bowling far more accessible and fun for inexperienced bowlers. Oftentimes, local bowling alleys will have bowling ramps available for use. However, in the event you'd like to buy your own, they typically cost anywhere from $120 to upwards of $300.",n
+152,104,h3,Bowling Shirts,y
+154,104,p,Many professional bowlers wear a bowling shirt and pants if they are in a league . Usually competitive teams will wear matching shirts in order to have a consistent uniform among its members. There are different types of bowling shirts that teams can buy for their members that differ in price but not too greatly. Some teams may wear the stereotypical baggy shirt or they might choose to wear polo shirts for their uniform. Bowling uniforms can cost about $20 to $40 each depending on the type of shirt the team wants.,n
+162,104,h3,Gloves,y
+164,104,p,"Bowling gloves have a variety of uses that help to improve the game of the bowler who is using it. Many bowlers tend to use bowling gloves as a type of support for their hands and wrist in order to lessen the strain that constantly throwing a bowling ball may have. Gloves are mostly used for padding, increased grip, and assisting a bowler in their form when physically bowling the ball. Gloves give bowlers the assurance that they can bowl a ball worryfree of straining their hands or wrists.",n
+168,104,p,"There are different types of gloves that bowlers can use such as gloves that wrap around the wrist, ones that just wrap around the thumb, ones that just cover your hands, and ones that cover up to the elbow. Gloves can cost from $10 up to $60.",n
+170,104,h3,Powder Grip Sacks,y
+172,104,p,Bowling powder grip sacks are used by bowlers when their hands become too sweaty and it becomes hard to grip the ball properly. A bowling powder grip sack is a resin bag that helps to dry the hand of the bowler. This is the same type of product that is used by pitchers during a baseball game. In baseball they also have a resin bag that is left on the pitchers mound during games . A grip sack is about the size of a person's hand. They are not too expensive and will only cost around $10 to buy online.,n
+180,104,h3,Tape,y
+182,104,p,Bowling tape can be used by bowlers to reshape the holes of the ball and give a better grip when they are bowling. There are two types of bowling tape: textured white tape and smoother texture or smooth tape.,n
+185,104,p,"Sometimes when bowling, a ball may become loose and tape may help a bowler to regain the grip that they want. Sometimes, when using a ball a lot the inside of the thumb hole may wear away causing skin irritation, and tape may allow the bowler to fix the part of the thumb that is irritating. Bowling tape, or insert tape, is placed along the knuckle-side of the thumb where the irritation may occur. This gives the thumb a layer of protection from the ball. A roll of bowling tape will cost around $10 to buy.",n
+187,104,h3,Towels,y
+188,104,text,"Bowling towels are a good item to have while playing competitively. A bowling towel is a microfiber towel that players carry around in their bag in order to wipe off sweat during a match. This is a commonly forgotten item because it is not a vital piece of equipment for play, but it is useful when players have them. Players can buy any microfiber towel; it does not necessarily need to be for bowling.",n
+192,104,h3,Wrist Guards,y
+194,104,p,Bowling wrist guards or supports can be used to give the bowler a consistent and accurate delivery when bowling their ball. It helps to regulate the finger rotation when letting go of the ball during their bowl. A wrist guard will help to prevent the bowling hand from tilting or collapsing prior to releasing the ball which will give a bad bowl.,n
+197,104,p,"Limiting the wrist movement when bowling will keep the relationship between the thumb and the other fingers while bowling consistent to make sure the bowl is exactly how the bowler wants it. In order to find the best wrist guards, the bowler must experiment in order to get the best one. There are both adjustable and non-adjustable wrist guards that players could buy. Non adjustable wrist guards can cost anywhere between $15 to $50 while adjustable wrist guards can cost between $55 to $70.",n
+198,56,div,,n
+200,198,h2,Essential Bowling Equipment,n
+202,198,p,"Aside from accessories, there is certain bowling equipment that is mandatory in order to properly participate in a game of bowling. Professional bowlers regularly own some of this essential equipment, however each piece of equipment is almost always available to rent at a run of the mill bowling alley. Essential bowling equipment includes:",n
+205,198,ul,,n
+207,205,li,Bowling Alleys,y
+209,205,li,Bowling Balls,y
+211,205,li,Bowling Lanes,y
+215,205,li,Bowling Shoes,y
+217,198,h3,Bowling Alleys,y
+219,198,p,"Bowling alleys are where the sport of bowling is played, regardless if a player is involved in a high school, college, or professional league. They consist of lanes, which are long, narrow strips of wood where gameplay occurs. The objective is to roll the bowling ball down these lanes to knock over as many pins as possible.",n
+222,198,p,"The main difference between men's, women's, and children's games is that children are able to use a bowling assistance ramp to roll the ball down the lane. This makes it easier for children to bowl; they only have to push the ball down this ramp rather than use their strength to roll the ball down the lane. Oftentimes, you can raise a lane's bumpers so children can bowl with ease and refrain from getting gutter balls.",n
+224,198,p,The price of bowling at bowling alleys can change depending on where you go bowling. Some places can charge $5 a game while others will charge upwards of $40 a game.,n
+226,198,h3,Bowling Balls,y
+228,198,p,"A bowling ball is the main equipment that a player needs when bowling. The bowling ball is what players roll down the lanes in order to knock down as many pins as possible. It is also the equipment that a player can customize the most. Usually, bowling alleys provide balls that players can use when they are going to play recreationally. However, competitive players usually like to have their own ball suited specifically to them in order to play their best. Bowlers try to do their best to keep their balls in the best condition possible.",n
+232,198,p,"When looking into buying a personal bowling ball it is important to know exactly what you want. If you are looking for something to just throw around recreationally with some friends, then a polyester, or spare ball, would be great to purchase. Polyester balls are good when rolling the ball straight rather than adding a hook to it. A Polyester ball will usually cost you around $50 to $99. The other type of ball that is popular for players to buy are entry level performance bowling balls which are a step up from polyester balls. These balls are a good fit for players looking to learn how to properly hook the ball as these balls are made specifically for this purpose. These balls usually range from a price of about $70 to $130 since they are used for more competitive bowling rather than recreational.",n
+240,198,p,"For the best grip and weight of the ball, it is all up to personal preference of the bowler. The grip and weight should be chosen based on what feels the most comfortable to the bowler.",n
+242,198,h3,Bowling Lanes,y
+244,198,p,"The bowling lane is the main playing surface in the sport of bowling. Consisting of wood or synthetic planks and oil patterns, the lane is the path the ball travels down to knock down the ten pins positioned at the end of it. At one end of the lane is the set of pins that the bowler is trying to hit, and at the other end of the lane is the foul line which bowlers can not cross. The lanes are always 60 feet in distance from the foul line to the front of the first pin. By understanding exactly how the lane is structured, bowling becomes much easier! It is expensive to build a personal bowling lane. They can range anywhere from $18,000 for one consisting of used materials while it costs $45,000 for lanes consisting of completely new parts.",n
+250,198,h3,Bowling Pins,y
+252,198,p,"The pins in bowling are the white wooden structures that stand up at the end of the lane. In traditional ten-pin bowling, the pins are set up in a triangular formation, with four pins in the back, followed by three, two, then one at the front, making a point. The bowling pins are 15 inches tall and are composed of hard maple wood covered in plastic, which is what gives them a bright white appearance. Each pin weighs about 3 pounds, which is why you hear such a loud crash when the speeding bowling ball hits the pins! However, specifications of bowling pins vary based on the type of bowling being played. A set of bowling pins can range in prices depending on where you purchase them. Sets can range from $53 but an expensive set can cost upwards of $150 to $200.",n
+255,198,h3,Bowling Shoes,y
+257,198,p,One of the most important parts of preparing for a game of bowling is the shoes. Players cannot wear their own normal shoes; they are required to wear bowling shoes!,n
+259,198,p,"Bowling shoes are necessary for the safety of the players. The shoes are equipped with rubber to stop a player from sliding after he releases the ball. They are available for players of any age at the bowling alley and many avid bowlers bring their own shoes to the alley. If you're new to the sport, all you have to do is tell the staff members your shoe size!",n
+263,198,p,"At bowling alleys, the price to rent shoes will differ depending on where you go. However, if a bowler wants to purchase their own pair of bowling shoes, they will cost you around $50 to $250 depending on the brand and where you buy them.",n
+264,56,div,,n
+266,264,h2,List Of Bowling Equipment,n
+267,264,ul,,n
+269,267,li,Alleys,y
+271,267,li,Bags,y
+273,267,li,Balls,y
+275,267,li,Ball Wipes,y
+279,267,li,Lanes,y
+281,267,li,Pins,y
+285,267,li,Ramps,y
+287,267,li,Shirts,y
+289,267,li,Shoes,y
+295,267,li,Wrist Guards,y
+296,56,div,,n
+298,296,h2,FAQ,n
+299,296,div,,n
+300,299,div,,n
+303,300,h3,What equipment is needed,n
+307,300,p,"While there are many different pieces of equipment that can be used for bowling, only a few are required. The main pieces of equipment needed for bowling are a bowling ball, bowling pins, and a bowling lane. Almost always, bowlers are required to wear special bowling shoes as well. While other equipment like gloves and tape make it easier to bowl, these items are not necessary.",n
+310,299,div,,n
+313,310,h3,What equipment can you find at a bowling alley?,n
+317,310,p,"While many serious bowlers prefer to bring their own equipment, there are various pieces of equipment available at bowling alleys for bowlers who have yet to purchase their own equipment. At bowling alleys, bowling shoes, bowling balls, bowling ramps, bowling lanes, and bowling pins are all readily available for use. Shoes typically require a small additional fee to rent, however the rest of the aforementioned equipment is free with the price of entry.",n
+320,299,div,,n
+323,320,h3,Where is the best place to buy bowling equipment?,n
+327,320,p,"While there is no single best place to buy bowling equipment, a few places certainly stand above the rest. Generally, you can buy a majority of the equipment you'll need at your local bowling alley. However, there are other national retailers you can also acquire bowling gear through. Brunswick is the parent company to a variety of different bowling brands and has built a reputation for selling high quality equipment. Bowling.com is another reputable source that sells arguably the widest variety of bowling equipment on the internet. Other sports retail stores such as DICK'S Sporting Goods sell select bowling accessories that can be purchased in-store.",n
+341,56,div,,n
+343,341,h2,Pages Related to Bowling Equipment List,n
+344,341,ul,,n
+346,344,li,Bowling Ball Cleaner and Polishers,y
+352,344,li,Bowling Ball Bags,y
+354,344,li,Bowling Powder And Sacks,y
+356,344,li,Bowling Grip Tape,y
+360,56,footer,,n
+361,360,div,,n
+362,361,div,,n
+364,362,span,Company,n
+365,362,ul,,n
+367,365,li,About,n
+369,365,li,Careers,n
+371,365,li,Shop,n
+372,361,div,,n
+374,372,span,Contact,n
+377,372,li,Contact Us,n
+380,361,div,,n
+382,380,span,Legal,n
+383,380,ul,,n
+385,383,li,Terms,n
+387,383,li,Privacy,n
+388,361,nav,,n
+390,388,span,Social,n
+391,388,ul,,n
+393,391,li,Facebook,n
+395,391,li,Instagram,n
+397,391,li,LinkedIn,n
+399,391,li,Medium,n
+401,391,li,Pinterest,n
+403,391,li,Twitter,n
+405,391,li,YouTube,n
+406,360,div,,n
+408,406,span,Rookie Road may earn a commission when you buy through links on our site.,n
+410,406,span,Copyright ©Rookie Road Inc. All rights reserved.,n

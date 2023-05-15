@@ -1,0 +1,45 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+4,2,h4,Rentals or Guided,n
+6,2,h6,Single Day Trips,n
+7,2,ul,,n
+9,7,li,Swimsuit or Towel,y
+11,7,li,Sun glasses or Sun hat,y
+15,7,li,Warm top preferably thermal,y
+17,7,li,Windbreaker or Raincoat,y
+19,7,li,clothes and footwear,y
+23,7,li,Sandals or footwear that can get wet,y
+25,7,li,LUNCH,y
+27,2,h6,Winter Trips,n
+28,2,ul,,n
+30,28,li,Warm hat,y
+32,28,li,Gloves that can get wet,y
+34,28,li,Extra top preferably thermal,y
+36,28,li,thermal underwear,y
+38,2,h6,Suggested Equipment For Multi-day Trips,n
+39,2,ul,,n
+41,39,li,Waterproof raincoat or Waterproof trousers,y
+43,39,li,Tent,y
+45,39,li,Sleeping bag or Mat,y
+47,39,li,Woollen hat,y
+49,39,li,Sunglasses or Sun hat,y
+53,39,li,Towel,y
+55,39,li,Thermal top or Thermal jacket,y
+57,39,li,Woollen or Thermal gloves,y
+59,39,li,Shorts,y
+61,39,li,Comfortable Shoes,y
+63,39,li,Socks,y
+65,39,li,Swimwear,y
+67,39,li,Underwear,y
+69,39,li,Cooking or Eating equipment,y
+71,39,li,Plate or Mug,y
+73,39,li,Gas cooker,y
+75,39,li,Food,y
+79,39,li,Toilet gear or medication or first aid kit,y
+81,39,li,Torches or batteries,y
+83,39,li,Candle or matches or lighter,y
+85,39,li,Puritabs or water purification tablets,y
+87,39,li,Water bottles,y
+89,39,li,Large plastic bags or dry bags,y
+91,2,p,"Please contact us , if you have any questions.",n

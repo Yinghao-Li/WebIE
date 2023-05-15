@@ -1,0 +1,186 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+8,1,nav,,n
+28,8,div,,n
+32,28,div,Browse,n
+216,28,div,Search for,n
+240,8,li,,n
+242,240,span,Shop All Classes,n
+243,240,text,Shop All Classes,n
+424,1,div,,n
+425,424,section,,n
+428,425,p,"Marie Kondo would probably approve of knitting. After all, you only need three simple things to do it: needles, a ball of yarn, and a pair of scissors. So minimalist!",n
+430,425,p,"Of course, there are a few little “extras” that can make knitting a lot easier — and um, spark more joy. They can also help you master a new technique or create a next-level project that’s unlike any other you’ve ever stitched. And let’s be real: For the knitting obsessed, new knitting supplies are like new tech toys for the tech-head — hard to resist! Keep reading to see the 17 things every knitter needs.",n
+434,425,h2,Knitting Essentials,n
+436,425,h3,Needles,y
+438,425,p,knitting needles,y
+442,425,h4,Straight Needles,y
+445,425,p,Straight needles are used,n
+447,425,h4,Circular Needles,y
+449,425,p,"Circular needles are two needle heads connected to a cord. You need them for larger projects, like blankets, because they can hold more stitches than straight needles. They are also used for projects that are worked in the round, like hats or the body of a seamless sweater.",n
+451,425,p,"These needles vary by needle size and by cord length, from 9″ to 60.″ If you do a lot of knitting you might want to get a circular needle kit which will offer greater flexibility: Rather than buying a needle for each project, a kit allows you to mix and match the cord length and the needle size. Plus, if your project calls for changing needle size part way through, all you have to do is scrunch your stitches onto the cord and switch out the needle heads.",n
+453,425,h4,Double-Point Needles,y
+455,425,p,"Double-point needles are used for smaller projects joined in the round, like mittens or the crown of a hat. Often, you will start a project on circular needles, then switch to double points as you get close to binding off.",n
+457,425,h3,Yarn,y
+460,425,p,"Yarn, glorious yarn! There are so many types of it — different weights , different fibers, different colors. Too much to possibly catalog here, but suffice it say: yarn. Touch it, love it, shop it , hoard it.",n
+464,425,h3,Scissors,y
+466,425,p,"You’ll need a pair of scissors to cut the yarn when you finish your project or want to switch to switch colors. Really, whatever scissors you have on hand will do the trick! As you knit more, though, you may want to grab a smaller pair of snips that you can take with you on the go.",n
+468,425,h3,Tapestry Needle,y
+470,425,p,"The most basic tool in any knitter’s kit, a tapestry needle is a large sewing needle, with an eye big enough to accommodate bulky yarn. You’ll use the needle to weave in the tails of yarn left after you bind off your project.",n
+472,425,h3,Stitch Markers,y
+475,425,p,"These small, colorful rings slip on your needles to mark particular points in your pattern. Some markers can be clipped directly onto a stitch if you need to mark a spot on the project itself to come back to later in the pattern.",n
+477,425,h3,Stitch Holders,y
+480,425,p,"A stitch holder is like a large safety pin. When a pattern calls for you to set some stitches aside to come back to later, you simply slip those stitches onto a holder.",n
+482,425,h3,Measuring Tape,y
+484,425,p,"Some patterns call for a number of inches, rather than a number of rows. A flexible measuring tape will be indispensable, especially when making pairs of things, like mittens or sleeves. You don’t want to guess that your sleeves are the same length.",n
+486,425,h4,Special Extras,n
+488,425,p,"Try adding these to your collection over time, to make your knitting easier and more enjoyable.",n
+490,425,h3,Crochet Hook,y
+492,425,p,"Crochet hooks are not just for crochet! You can use them for many different tasks, from picking up dropped stitches to making a provisional cast-on.",n
+495,425,h3,Row Counter,y
+497,425,p,"Some patterns require you to keep track of exactly how many rows you have knit, and a row counter helps you keep an accurate count. Some row counters slip onto your needle and have a number dial you change after each row. Some have a simple button you click. And, yes, there are smart phone apps for that, too.",n
+499,425,h3,Swift and Winder,y
+502,425,p,Invest in one of these and you’ll never again have to stand around at the yarn store waiting for your 10 hanks of sweater yarn to be wound. Not familiar with these magical tools? Check out how they work here .,n
+506,425,h3,Washi Tape or Sticky Notes,y
+508,425,p,"It can be difficult to find your place on a chart, even if you’re keeping count of the rows. To solve that problem, just place washi tape or a sticky note right below the row of the chart that you’re working on to make reading that row much easier. Because you can lift and re-stick washi tape, you can just keep moving it up the chart as you stitch without damaging your pattern.",n
+510,425,h3,Yarn Guide,y
+513,425,p,"Yarn guides help you hold two colors at the same time without them getting all tangled. Plus, the tool helps you to keep an even tension as you knit.",n
+515,425,h3,Needle Gauge,y
+517,425,p,"Needle gauges are excellent for travel since few of us actually travel with a tape measure. Not only are these gauges good for figuring out the sizes of knitting needles that are unmarked, but they’re also awesome for checking gauge and measuring your work.",n
+519,425,h3,Yarn Bobbins,y
+521,425,p,"You could use these bobbins to make pulling the yarn easier, sure, or you can use them to store scrap yarn! If your scrap yarn is getting tangled in storage, consider separating each scrap with a bobbin. You can even tuck the scrap yarn label between the yarn and the bobbin so you won’t forget what the scrap is.",n
+523,425,h3,Yarn Threader,y
+525,425,p,"When working with tricky fibers like mohair, threading a tapestry needle is no easy feat. If you’re planning to work with lofty fibers or light lace-weight fibers, a yarn threader will save you time.",n
+527,425,h3,Needle Caps,y
+530,425,p,"Before you take a knitting break, place these adorable little caps on the end of your needles to ensure no stitches slip off while your project is in your knitting bag. In a pinch, they can also be used to turn a double-point needle into a straight needle.",n
+532,425,h3,Wool Wash Kit,y
+534,425,p,"Washing your knits for the first time can be scary, especially when you’re working with more expensive yarns. A wool wash kit takes all the guesswork out of it, giving you a mild soap and even a special basin just for knits. Beginners will just need to check out the yarn label to see the care instructions.",n
+536,424,p,,n
+538,536,span,Tags,n
+539,536,text,"about yarn , beginner , knit",n
+544,424,section,,n
+546,544,div,Comments,n
+549,544,p,Click here to cancel reply.,n
+551,544,ul,,n
+554,551,li,Name,n
+558,551,li,Mail,n
+564,551,li,Website,n
+582,424,h4,,n
+584,582,span,13,n
+585,582,text,Responses to “17 Things Every Knitter Needs”,n
+590,424,ol,,n
+595,590,li,quack quaack quack quaaaaaaaaaack,n
+601,590,li,I want to know how to knit,n
+607,590,li,Do you need so much to knit,n
+613,590,li,I need quortation in 15 min time to buy all knitting kit above,n
+619,590,li,hello,n
+625,590,li,"Great list of supplies or tips. I appreciate the brief explanation for each. I’m enjoying learning to knit. I’ve practiced making small squares in a variety of stitches. Now, I’d like to learn a bit more. Thank you!!",n
+631,590,li,Thanks for sharing. This is very helpful and useful materials. Can I use it as reference in my articles? Thanks.,n
+637,590,li,Help,n
+639,590,li,,n
+643,639,p,I am a Nigeria and I want to learn how to knit please help me.,n
+648,639,li,,n
+649,648,p,,n
+650,649,text,"Hello, my name’s Oluwatomi and I’m a Nigerian teen living in America. I learned to knit as a kid with pencils, yarn, and YouTube videos by a channel called “GoodKnitKisses.” The only things you need to learn to start out are the following:",n
+652,649,br,1 How to Cast On,n
+655,649,br,2) How to Knit with the basic Knit or Garter stitch: https: or or www.youtube.com or watch?v=x4kSztvq-vI,n
+658,649,br,3 How to Bind Off,n
+661,649,br,With that you’ll already know how to knit!,n
+663,648,p,"Learning the Purl stitch will help you to make cool patterns, but I don’t recommend doing it until perfecting all the basics: https: or or www.youtube.com or watch?v=lkb0YyrzPWA",n
+666,648,p,Reply me,n
+672,590,li,"I am 76 and ready to learn to knit, I think.",n
+674,590,li,,n
+678,674,p,Thank you,n
+685,674,li,Nice,n
+696,1,div,,n
+697,696,div,,n
+699,697,div,Sign up,n
+701,697,div,Stay connected to Craftsy experts.,n
+712,696,li,Email,n
+738,1,div,,n
+740,738,div,,n
+741,740,div,,n
+747,741,div,Making lives better through creativity,n
+748,741,ul,,n
+752,748,li,Craftsy Facebook,n
+756,748,li,Craftsy Instagram,n
+760,748,li,Craftsy Pinterest,n
+764,748,li,Craftsy Youtube,n
+768,748,li,Craftsy Twitter,n
+772,740,ul,,n
+775,772,li,,n
+777,775,li,Quilt,n
+779,775,li,Knit,n
+781,775,li,Sew,n
+783,775,li,Crochet,n
+785,775,li,Embroider,n
+789,775,li,Bake,n
+791,775,li,Cook,n
+794,772,li,,n
+796,794,li,Draw,n
+798,794,li,Paint,n
+804,794,li,Paper Crafts,n
+811,772,li,,n
+812,811,text,Popular Projects,n
+813,811,ul,,n
+815,813,li,Coffee-Shop Cakes,n
+817,813,li,Quick Quilted Gifts,n
+819,813,li,Fair Isle Fundamentals,n
+821,813,li,Sewing Wallets,n
+823,813,li,Crochet in the Round,n
+825,813,li,Asian Dumplings,n
+827,813,li,Thank-You Cards,n
+829,813,li,All FREE Classes,n
+831,813,li,LIVE Events,n
+832,772,li,,n
+833,832,text,Customer Service,n
+834,832,ul,,n
+836,834,li,About Us,n
+838,834,li,Contact Us,n
+840,834,li,Frequently Asked Questions,n
+842,834,li,How to Stream to Your TV,n
+844,834,li,Craftsy Membership Info,n
+846,834,li,Instructor Resource Center,n
+848,834,li,Corporate Subscriptions,n
+850,834,li,Spanish,n
+852,738,div,,n
+855,852,div,© 2022 Craftsy,n
+856,852,div,,n
+858,856,span,Service,n
+860,856,span,Privacy Policy,n
+862,856,span,Do Not Sell My Info,n
+866,0,div,,n
+870,866,p,Username or email,n
+895,866,p,Remember me,n
+897,866,p,Lost your password?,n
+900,866,p,Privacy Policy,n
+903,0,div,,n
+905,903,p,Enter in your email and password to create a FREE account,n
+908,903,p,Email address,n
+922,903,div,Anti-spam,n
+926,903,p,"Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our privacy policy .",n
+937,0,div,Chat,n
+941,0,div,,n
+944,941,div,"Access over 1,500 Premium classes",n
+946,941,div,BECOME A MEMBER,n
+951,0,div,,n
+952,951,div,,n
+954,952,h3,Premium Membership,n
+956,952,div,Sign up for the Premium Membership and get access to our best Craftsy videos and projects. Learn new craft techniques and tips from the experts. Anytime. Anywhere.,n
+957,951,div,,n
+958,957,div,,n
+959,958,div,,n
+961,959,div,Monthly Membership,n
+964,959,div,$8,n
+967,958,text,Monthly Membership,n
+968,957,div,,n
+969,968,div,,n
+971,969,div,Annual Membership,n
+974,969,div,$89,n
+978,968,div,Save $15.89 with our annual Plan,n
+979,968,text,Annual Membership,n
+983,0,p,Notifications,n
+988,0,div,,n
+993,988,span,Close,n
+1004,988,div,Maximize,n

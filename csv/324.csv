@@ -1,0 +1,110 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,section,,n
+377,3,div,,n
+378,377,div,,n
+379,378,div,,n
+385,379,h1,12 Essentials,n
+391,379,p,"Thinking about getting into rock climbing? With proper training, this gear will have you climbing the wall at the gym or local crag safely and in style.",n
+397,379,div,Keep in mind,n
+401,379,div,"July 26, 2019",n
+405,379,ul,,n
+409,405,li,Pinterest,n
+413,405,li,Facebook,n
+417,405,li,Twitter,n
+421,405,li,Email,n
+422,378,div,,n
+429,422,div,,n
+431,429,span,By,n
+434,429,span,Steve Larese,n
+445,422,div,more,n
+456,377,div,,n
+458,456,div,,n
+460,458,section,,n
+463,460,h2,Climbing Rope,y
+466,460,p,"Unless you're Alex Honnold , you'll need a rope for rock climbing. Specially designed climbing ropes attach to anchors, and extensive training should be had before building anchors and using ropes. Beginners will hear about two types of rope: dynamic and static. Both are designed to withstand many thousands of pounds of force. Static ropes have little stretch and are used mainly for rappelling and hauling. Dynamic ropes are designed to stretch up to 30 percent, which absorbs much of the shock of a fall. Dynamic ropes are used for rock climbing. Mammut's Eternity Protect Climbing Rope is an excellent choice for a variety of climbing after proper training.",n
+470,460,p,Buy It,n
+475,458,section,,n
+478,475,h2,Locking Carabiner,y
+481,475,p,"Carabiners come in a variety of designs for a variety of uses. Locking carabiners use a threaded or otherwise secured gate to prevent the gate from accidentally opening during use. They're used for critical situations, including attaching a belay device and rope to a belayer or a person rappelling. Gates should always be checked to make sure they are securely locked before use. The Petzl Spirit 3D Screw Lock is a solid example of a locking carabiner.",n
+483,475,p,Buy It,n
+488,458,section,,n
+491,488,h2,Belay Device,y
+494,488,p,"Typically, climbing is a two-person sport. There's the climber on the wall and the belayer on the ground whose job is to take up rope slack. Falls generate a great deal of force, so the belayer wears a harness and uses a belay device attached to the harness. The climbing rope passes through the belay device and the carabiner that connects it to the harness and can be used to control friction. The belayer lets out rope as her partner ascends and can quickly lock the rope with the device in the event of a fall. Belay devices are also used when rappelling. The Black Diamond ATC is a long-time climbing favorite.",n
+496,488,p,Buy It,n
+501,458,section,,n
+504,501,h2,Climbing Shoes,y
+507,501,p,"Climbing shoes are designed to grip rock and gym holds with their rubber soles, and the narrow toe allows for purchase in extremely thin features. They fit very tightly to prevent slipping. The Scarpa Origin shoes use Velcro fasteners to dial in the fit, and the pointed toe is great for millimeter-sized steps.",n
+509,501,p,Buy It,n
+514,458,section,,n
+517,514,h2,Climbing Helmet,y
+520,514,p,"Helmets are an essential piece of climbing safety equipment, even at the gym. They protect against rockfall at the crag and from slamming your head into the wall in the event of a fall. Stylish designs such as Mammut's El Cap helmets for men and women keep you looking good while keeping you safe.",n
+527,458,section,,n
+530,527,h2,Belay Gloves,y
+533,527,p,Belay gloves make long belays more comfortable and help prevent rope burn in the event of a fast-moving rope. Camp Axion leather belay gloves have rubber-reinforced knuckles insulated for cold-weather use.,n
+535,527,p,Buy It,n
+540,458,section,,n
+543,540,h2,Climbing Chalk,y
+546,540,p,Specially formulated climbing chalk is used to increase finger friction when climbing at gyms and outside. Friction Lab's Unicorn Dust can make magic happen on the wall.,n
+548,540,p,Buy It,n
+553,458,section,,n
+556,553,h2,Chalk Bag,y
+559,553,p,"Climbing chalk is carried in a chalk bag that attaches to the climber's harness, typically at the back where both hands can reach it. The Mammut Multi-Pitch Chalk Bag includes a zippered front pouch for storing keys and wallets.",n
+561,553,p,Buy It,n
+566,458,section,,n
+569,566,h2,Crag Bag,y
+572,566,p,"Crag Bags are duffel bags used for storing all of your climbing stuff and have straps for hiking to climbing locations. Black Diamond and Backcountry have created the new Stone Garden Crag Backpack that has a bottom compartment for dirty shoes, a full-length zipper for easy access to gear and a tuck-away waist belt for comfortable hikes.",n
+574,566,p,Buy It,n
+579,458,section,,n
+582,579,h2,Climbing Clothes,y
+585,579,p,Climbing-specific clothing is designed to allow full range of motion for big moves and prevent chafing. Many pieces use moisture-wicking fabric. Patagonia's Venga Rock Pants are lightweight and durable and incorporate Spandex to increase stretch. Zippered pockets keep small personal items secure.,n
+587,579,p,Buy It,n
+592,458,section,,n
+595,592,h2,Hangboard,y
+598,592,p,"Backcountry and So Ill's new All Chalk No Action hangboard allows climbers to stay in shape at home. The hangboard mounts to walls or over door jams and has various holds to practice finger grips and pull-ups, even in small spaces.",n
+600,592,p,Buy It,n
+605,456,section,,n
+614,605,div,,n
+618,614,div,View The Gallery,n
+680,614,div,,n
+682,680,span,1,n
+683,680,text,or,n
+685,680,span,12,n
+693,605,p,Advertisement,n
+695,456,div,,n
+698,695,h2,Climbing Harness,y
+701,695,p,"A harness is the most important piece of gear for climbers, whether you're at the climbing gym or out on a crag. Climbing harnesses are rated to withstand thousands of pounds of force in case the climber falls and should fit the user snuggly and comfortably. Sport harnesses such as the Mammut Ophir 4 Slide are perfect for a range of skill levels and climbing. Harnesses have a belay loop at the front that is rated to withstand force, and this is where the rope or belay device attaches.",n
+717,377,div,,n
+724,717,h3,Mountain Climbing,n
+731,717,h3,The World's Coolest Climbing Gyms,n
+740,717,h3,Stock Up on Essential Outdoor Apparel With Columbia’s Massive Online Sale Happening Now,n
+747,717,h3,12 Best Smart Watches,n
+754,717,h3,These Outdoor Gear Essentials Are Majorly on Sale,n
+761,717,h3,10 Reasons Why Seattle Should Be On Your 2020 Adventure List,n
+774,3,div,,n
+777,774,ul,,n
+779,777,li,Help,n
+781,777,li,Advertise,n
+783,777,li,About,n
+785,777,li,AdChoices,n
+787,777,li,Privacy Notice,n
+789,777,li,Visitor Agreement,n
+791,777,li,Site Map,n
+793,777,li,TV Ratings,n
+795,777,li,Online Closed Captioning,n
+797,777,li,California Privacy Notice,n
+799,777,li,CA Do Not Sell My Info,n
+801,777,li,Accessibility,n
+803,777,li,"Discovery, Inc.",n
+805,774,ul,,n
+806,805,li,,n
+807,806,text,Networks,n
+808,806,ul,,n
+810,808,li,Food Network,n
+812,808,li,HGTV.com,n
+814,808,li,Food.com,n
+816,808,li,Travel Channel,n
+818,808,li,Cooking Channel,n
+820,808,li,TLC.com,n
+822,808,li,Discovery.com,n
+824,805,li,"© 2022 Warner Bros. Discovery, Inc. or its subsidiaries and affiliates. All rights reserved.",n

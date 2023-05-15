@@ -1,0 +1,253 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+35,0,div,,n
+49,35,h1,Fencing Equipment List,n
+50,35,div,,n
+54,50,h2,Contents,n
+57,50,ul,,n
+59,57,li,Fencing Equipment,y
+61,57,li,Fencing Shoes,y
+63,57,li,Body Cord,y
+65,57,li,Blades,y
+67,57,li,Chest Protector,y
+69,57,li,Clothing,y
+73,57,li,Complete Electrical Foil,y
+75,57,li,Complete Electrical Saber,y
+77,57,li,Epee Equipment,y
+81,57,li,Epee Test Kit,y
+83,57,li,Fencing Masks,y
+85,57,li,Foil Test Kit,y
+87,57,li,Fencing Bag,y
+89,57,li,Fencing Pants,y
+91,57,li,Fencing Repair Kit,y
+93,57,li,Fencing Jacket,y
+95,57,li,Foil Electric Jacket or Lame,y
+103,57,li,Guards,y
+105,57,li,Grips,y
+107,57,li,Long Socks,y
+109,57,li,Plastron or Underarm Protector,y
+111,57,li,Saber Electrical Jacket or Lame,y
+115,57,li,Sabre Equipment,y
+117,57,li,Spare Parts For Epee,y
+119,57,li,Spare Parts For Foil,y
+123,35,div,,n
+125,123,h2,Fencing Equipment,y
+127,123,p,"Fencing is an ancient sport in which two people use sword-like weapons to try to touch each other, which leads to a point. If fencing sounds like something medieval, it's because it is! The sport evolved throughout time from medieval-time sword fighting to a beautiful and fast Olympic Sport that it is today.",n
+129,35,div,,n
+131,129,h2,Fencing Shoes,y
+133,129,p,"Fencing involves a lot of quick footwork, quick change of direction, and fast leg movements, which impacts the fencer's feet a lot. With that, it is important to have a good pair of shoes that allows you to fence safely and comfortably. Fencing shoes must have a good, rubbery sole, which makes it hard for fencers to slip on the piste. Also, fencing shoes must give the fencer good ankle support. There are many options of good shoes made specifically for fencing, but they are not mandatory. Ultimately, fencers must use the shoe they feel the most comfortable fencing in. Fencing shoes usually range from $70 to $175.",n
+134,35,div,,n
+136,134,h2,Body Cord,y
+138,134,p,"All fencing weapons make use of a body cord, which connects to the weapon, goes inside the fencer's uniform, and connects the other end on the fencing reel. The body cord is crucial for fencers when practicing and competing, as it is part of the electric scoring system, which signals to the referee when a fencer is touched. It is important to ensure your body cord is working; a malfunctioning one can be very annoying during a bout, and even prevent you from scoring points, as your touches might not be signaled to the referee. Body cords are essentially all the same, so there are no significant differences between equipment manufacturers. Body cords cost between $25 and $35.",n
+141,35,div,,n
+143,141,h2,Blades,y
+145,141,p,"The blade of a fencing weapon is the long metallic part to which all other components are attached. The blade is used to defend yourself from attacks and to attack your opponent as well. Foil, epee, and saber blades are all different from each other in shape, and each one of them is easily identifiable even without other components that make a weapon.",n
+147,141,p,"Fencing blades are made from low-carbon steel, and are made so that they can bend and not break, although with a lot of use they inevitably will. If you just broke your blade, don't worry, it happens to everybody! Fencing blades are also made in different sizes. Youth fencers are required to fence with a shorter blade up until a certain age, when they are allowed to use the full-size blades used by senior fencers.",n
+149,141,p,"Blades may also vary in weight, flexibility, and general feel depending on the manufacturer. Experienced fencers are usually pretty picky when buying blades; they try to choose the ones they feel the most comfortable with. As you get to know the sport better, you will be able to see the nuances between blades, and will also know which one is the right one.",n
+151,141,p,Fencing blades are also made in 3 different categories,n
+152,141,ul,,n
+154,152,li,Non-FIE Approved,n
+156,152,li,FIE Approved,n
+158,152,li,BF Blades,n
+160,141,p,"The FIE is the International Fencing Federation, the sport's governing body. Non-FIE approved blades are blades that were not approved by the Federation to be used in its competitions, because they are not resistant enough. Non-FIE blades are the cheapest ones, and can be used in youth competitions, where the fencing is less intense. FIE-Approved blades are those approved by the federation to be used in its competitions. They have gone through extensive testing and have been deemed safe enough to be used by athletes. FIE-Approved blades are also called Maraging blades, and they are a lot better than non-FIE blades.",n
+162,141,p,"The best blades are those called BF, that is, made in a well-known forge in France. BF are the best in performance and durability. While using BF blades can make a big difference in foil and epee, that is not the case in saber, and saberists rarely use BF blades.",n
+163,35,div,,n
+165,163,h2,Chest Protector,y
+167,163,p,"In fencing a chest protector is a piece of equipment made of a very resistant plastic, which protects the chest area, one of the main scoring areas in fencing. The rules regarding chest protectors are different for men and women. For female fencers, the chest protector is a mandatory piece of equipment for all ages. Before the start of any female fencing event, the referees will check to make sure athletes are all wearing an approved chest protector. Male fencers can also wear a chest protector, although it is not mandatory.",n
+171,163,p,"The chest protector used by foil fencers is different from that used by saber or epee athletes. For foil, the chest protector must be covered by some kind of soft material, such as E.V.A.. While the foil chest protector costs around $40, the ones used for other weapons cost around $25.",n
+172,35,div,,n
+174,172,h2,Clothing,y
+176,172,p,"Underneath all your fencing equipment, you will want to use some light and athletic clothes. Fencers do sweat a lot under their equipment, and so it is a good idea to wear breathable shirts and shorts, spandex, sports bras, and any other athletic and performance pieces of clothing used in other sports. However, there are no rules that dictate clothing in fencing, so it all comes down to what each fencer feels the most comfortable wearing when practicing the sport.",n
+179,35,div,,n
+181,179,h2,Complete Electrical Epee,y
+183,179,p,"If you are looking to practice epee, you will need a complete epee, with all the electrical components necessary to connect to the electric scoring system.",n
+185,179,p,the following:,n
+186,179,ul,,n
+190,186,li,Epee socket,y
+192,186,li,Epee guard pad,y
+194,186,li,Epee guard,y
+196,186,li,Wired Epee Blade,y
+198,186,li,Epee point,y
+200,179,p,"Before the start of every match, the referee will do some tests on both epees' points to make sure they are working and that both athletes have their weapons up to the standards set by the competition. The referee will also test the electric scoring system to make sure it's not malfunctioning and that no athlete will be harmed during the bout. The price of an epee varies depending on which components you chose to assemble your epee. The most expensive epees can go up to $200, while the cheapest ones cost around $60.",n
+201,35,div,,n
+203,201,h2,Complete Electrical Foil,y
+205,201,p,"If you are looking to fence foil, you'll need a fully functioning complete foil, with all the electrical components necessary to connect to the electrical scoring system. Other than the grip, epee parts cannot be used in foil, and both weapons' electrical components are very different.",n
+207,201,p,A complete foil is composed by the following parts,n
+208,201,ul,,n
+212,208,li,Pommel,y
+216,208,li,Foil guard pad,y
+218,208,li,Foil guard,y
+220,208,li,Wired foil blade,y
+224,208,li,Foil point,y
+226,201,p,"Just like in epee, referees will perform some tests on both athletes' foils before the start of every match, to make sure the equipment is working and up to standards.",n
+228,201,p,"Foilists will also touch each other's electric lames to make sure the scoring system is working. The price of your foil will vary depending on the types of components you chose, but mainly on what type of blade. The price of a complete electrical foil can vary from around $50 up to $170.",n
+229,35,div,,n
+231,229,h2,Complete Electrical Saber,y
+233,229,p,"A complete electrical saber is the simplest of all fencing weapons. While epees and foils are wired and have complex points, a saber uses a different electrical system, and thus it does not require a blade wire or a point. A saber is composed of the following equipment:",n
+234,229,ul,,n
+236,234,li,Saber grip,y
+238,234,li,Saber guard pad,y
+242,234,li,Saber guard,y
+244,234,li,Saber blade,y
+246,229,p,"Since a saber does not have a point, many of the tests required in foil and epee are not necessary in saber. so before a match starts, fencers will only touch each other's lame to make sure the scoring system is working. A saber is the cheapest of all fencing weapons, because saber blades are cheaper. Sabers cost between $40 and $120, a lot less than epees and foils.",n
+247,35,div,,n
+249,247,h2,Epee Equipment,y
+258,247,li,Foil or Epee Body Cord,n
+261,35,div,,n
+263,261,h2,Epee Body Cord,y
+265,261,p,"An epee body cord is a crucial piece of equipment to fence epee. The cord connects on the epee on one end, and on the fencing reel on the other. The epee body cord is crucial for fencers when practicing and competing in epee, as it is part of the electric scoring system, which signals to the referee when a fencer is touched. The epee body cord is only used when fencing epee, as foil and saber have a different cord. The epee cord is the same on both ends, with a set of three prongs, and so it doesn't really matter which side is connected to the weapon and which is connected to the reel.",n
+266,35,div,,n
+268,266,h2,Epee Test Kit,y
+270,266,p,"Before the beginning of every epee match, the referee will perform three tests on both athletes' epee's points. Referees will use a 750 gram weight and a shim set to make sure the point is working and that follows all the standards set by the competition. If a fencer's epee doesn't pass any of these three tests, he or she will be penalized with a yellow card before the match starts.Because of this, it is quite important to test your material before getting in the piste. It is best to have your own epee testing kit with a shim set, an epee testing weight, and a test box, which works like a small scoring system. An epee body cord is also needed, used to connect the epee to the test box. The test kit also serves to make sure the body cord is working properly, as if that is not the case the fencer also receives a yellow card. The test weight, the gauges, and the test box should cost between $50 and $60 in total.",n
+271,35,div,,n
+273,271,h2,Fencing Masks,y
+275,271,p,"The mask is one of the most important safety equipment in fencing, and it is mandatory that athletes wear a mask when fencing. The mask protects the fencer's face and head, and is naturally mandatory when fencing. Due to that sensitivity of those areas, fencing masks are held to a very high safety standard. Fencing masks include a metal net and a bib made of a very resistant fabric. Although fencing masks are typically painted black on the metal net, it is not unusual to see athletes paint it with a different color, or the flag of the country they represent. Saber, foil, and epee each have their own masks, which although are the same in shape and structure, have adaptations to fit each weapon's rules. The three different types of masks are:",n
+282,271,li,Foil Mask,n
+284,271,h3,Saber Mask,n
+286,271,p,"A saber mask is the easiest one to spot. The saber mask is silver and shiny, and so it looks very different from the foil and epee masks. Because in saber the mask is a valid target area, the mask must be covered in conductive material, so that the electrical scoring system can signal when a fencer is touched on the mask. That gives the mask its silver look. Saber masks tend to be more expensive than foil and epee masks, and also get worn out faster. A saber mask is the most expensive among all three, and should cost around $170, if the model is FIE approved.",n
+288,271,h3,Epee Mask,n
+290,271,p,"Although an epee mask has the same format and structure as a saber mask, the epee mask is not made of conductive material, and so looks different than a saber mask. While in both modalities the mask is a valid target area, the epee uses a different system of electric currents to have its touches signaled, and so there is no need for an epee mask to be covered in shiny material. An epee mask is composed by white fabric and its metal net painted with non-conductive paint. An epee-only mask costs around $140.",n
+292,271,h3,Foil Mask,n
+294,271,p,"A foil mask looks almost exactly as an epee mask, with the exception of its bib. In foil, fencers wear an electric jacket that determines the valid scoring area. Because the mask's bib covers part of that jacket, a foil mask needs to have an electric bib. Some fencers sometimes fence in both foil and epee, and so they buy masks with a removable electric bib, which can be used for both. It is also cheaper to replace just the bib than the whole mask, in case it malfunctions. While most foil masks sold today have a removable electric bib, they cost more than the regular epee mask, around $160.",n
+295,35,div,,n
+297,295,h2,Foil Test Kit,y
+299,295,p,"Similar to epee, before foil matches referees also test both athletes' points, to make sure they are fully working and up to standards. In foil, the referee will only perform the weight test, by placing a 250 gram weight on both fencers' foil points.",n
+301,295,p,"Because of that, a foil testing kit is only composed of a foil testing weight, a foil body cord, and a test box that simulates the electric scoring system. Fencers can test their foils and body cords before getting on the piste and avoid being penalized for malfunctioning equipment. A foil testing kit should cost you around $40.",n
+302,35,div,,n
+304,302,h2,Fencing Bag,y
+306,302,p,"Fencers usually travel a lot for competitions, and thus need the proper bags to keep their equipment safe. Fencing bags are long enough so that multiple weapons can be carried, and wide enough so that the fencing mask fits. The best fencing bags usually have two separate compartments and many smaller pockets. The best fencing bags also have wheels, as all the fencing equipment can be very heavy. Fencing bags' prices vary a lot depending on brand and on what they have. For example, the cheapest models with no wheels and space to carry just the basics can go for as low as $40, while the best models, with lots of space, countless pockets, and a resistant build can go up to $400.",n
+309,35,div,,n
+311,309,h2,Fencing Pants,y
+313,309,p,"Fencing pants, or knickers, are the part of the fencing uniform that protects the fencer's lower body. Fencing pants are always white and made of the same light and resistant fabric as fencing jackets. Leg work is a big part of fencing, and so when buying your fencing pants you have to be sure that they are very comfortable, and that they are not going to bother you during bouts.",n
+315,309,p,"The pants usually have some kind of suspensory straps that go over the fencer's shoulders, which keeps the pants from falling. Although you might see some people practicing without fencing pants, it is not recommended. While practice bouts are definitely less intense, you can still get hurt by fencing without the proper equipment in practice. The fencing uniform can be made of different types of fabric, so the price of fencing pants ranges from $40 all the way up to $250 for the best materials available.",n
+316,35,div,,n
+318,316,h2,Fencing Repair Kit,y
+320,316,p,"Fencing is full of small parts and electric components that are crucial for practicing the sport. Is not unusual for fencing material such as weapons, cords, cables and electric jackets to malfunction or break; it is part of the sport. People who practice fencing very often and very intensely, will likely need to repair their fencing equipment on a regular basis, and thus have their own repair kits.",n
+322,316,p,"Given the differences in equipment between all three fencing weapons, tool kits may be different for all three weapons. For example, while glue may be very important for foilists and epeeists, saberists do not use glue, and don't need it in their repair kit. Because of that, the cost to buy your own repair kit will vary depending on what you need to repair your specific equipment.",n
+324,316,p,"Here is a list of some tools and objects needed in repair kits, and for which weapons they might be useful:",n
+325,316,ul,,n
+327,325,li,Inside Allen Key,y
+329,325,li,Different Sizes,y
+331,325,li,Towel to Clean Blade,y
+333,325,li,Utility Knife,y
+335,325,li,Plier,y
+337,325,li,Extra Guard Pads,y
+339,325,li,Polishing Stone,y
+341,325,li,Rewiring Rig,y
+343,325,li,Extra Wires,y
+345,325,li,Wiring Glue,y
+347,325,li,Point Setter,y
+349,325,li,Extra Conducting Fabric Patches,y
+351,325,li,Point Tape,y
+353,325,li,Extra Foil Point Components,y
+355,325,li,Extra Epee Point Components,y
+356,35,div,,n
+358,356,h2,Fencing Jacket,y
+360,356,p,"A fencing jacket is one of the parts of the fencing uniform that is common to all fencers, regardless of their gender or the weapon they practice. A fencing jacket is what protects the fencer's upper body from touches in a match. While in foil and saber, fencers wear an electric lame over the fencing jacket, epee fencers don't need any electric lames, and thus only wear the fencing jacket.",n
+362,356,p,"The jacket is made of a white resistant fabric, and has the goal of protecting the fencer from strong hits. The specific types of fabric used in jackets varies between equipment manufacturers, but the best jackets are light, breathable, comfortable, and very resistant. It is dangerous to practice fencing without the proper jacket, as it can lead to injuries and painful bruises.",n
+364,356,p,"There are different types of fencing jackets, with different types of materials and protection. Some competitions require jackets with a minimum level of protection, so if your intention is to compete regularly in big competitions, it is a good idea to invest a little more money on a top-tier jacket. However, when buying your fencing material, choose the one that fits your needs and budget the best, as there is not always a need to buy the most expensive pieces of gear. The price of buying your fencing jacket will vary depending on what material your jacket is made of. That can go from the low $100 range up to the $300 range.",n
+365,35,div,,n
+367,365,h2,Foil Electric Jacket or Lame,y
+369,365,p,"A foil electric jacket, also known as a foil lame, is the piece of equipment that covers the athlete's valid target area which includes the torso but not the arms. The lame is made of a metallic, conductive fabric, which allows the electronic scoring system to detect whether a touch was made on target or off-target during a match. The electric jacket is a crucial piece of equipment when fencing foil.",n
+371,365,p,"Many competitions require fencers to have their last name printed on their back. So once you purchase your electric jacket , it is a good idea to ask the vendor if they can print your name on your new jacket. If you don't have your lame yet, don't worry, you can have a patch with your name attached to the back leg of your fencing pants, that will do the job just fine.",n
+373,365,p,"To be worn in competitions, foil lames must be fully functioning, with absolutely no dead spots in their conducting surface. You should store it away from sweaty clothes and other equipment. A foil lame costs around $100 for children sizes, and up to around $170 for adult sizes, not including the extra you may pay to add your name to the back.",n
+374,35,div,,n
+376,374,h2,Foil or Epee Glove,y
+378,374,p,"The glove is another piece of equipment necessary to practice fencing. Fencers wear gloves only on their dominant hand, that is, the hand with which they hold their weapons. The glove is important, as your hand may be hit by an opponent. There is no difference between the glove worn by epeeists and foilists, but saberists do need a special saber glove. There are many different types of gloves, as each equipment manufacturer comes out with its own model. Ultimately, it comes down to the fencer to choose which one is the best for him or her. Fencing gloves have a price range of $20-$40.",n
+379,35,div,,n
+381,379,h2,Foil or Saber Body Cord,y
+383,379,p,"The body cord is part of the electric system that makes it possible for touches to be signed electronically. In both foil and sabre fencers wear an electric jacket, and therefore use the same body cord. The foil and saber body cord has two different ends. The end that connects to the weapon has two prongs, and the side that connects to the reel has three prongs. In addition to that, an alligator clip comes out of the reel end and is clipped to the electric jackets. This clip conducts an electric current, allowing for the electronic scoring system to detect and signal touches made on the electric jackets as ""on-target."" A body cord shouldn't cost your more than $30.",n
+384,35,div,,n
+386,384,h2,Foil or Saber Mask Cord,y
+388,384,p,"In both saber and foil the mask has valid target areas, which are covered in conductive material. Touches on those areas need to signaled ""on-target"" so there needs to be an electric current running through those areas. That is exactly what the mask cord does; it provides an electric current to those areas. A mask cord is a short one, with an alligator clip on both ends. On end is clipped on a conducting part of either mask, and the other on the electric jacket. The mask cord is among the cheapest pieces of equipment in fencing, it shouldn't be more than $10.",n
+391,35,div,,n
+393,391,h2,Guards,y
+395,391,p,"A guard is one of the parts of the fencing weapon. The guard is always between the blade and the grip and it protects the fencer's hand. It is also used to help when doing a parry.Foil, epee, and saber are all different from each other, they have very different formats and sizes, making them easily recognizable.",n
+397,391,p,"Guards are always made of metal like aluminium, titanium, or steel. Some guards are lighter and have a slightly different format than others, it comes down to each fencer's personal preference when choosing the guard on your weapons. Of course, the most expensive ones are lighter and more resistant, made of titanium. Still, guards are not very expensive, a good guard costs between $10 and $20.",n
+398,35,div,,n
+400,398,h2,Grips,y
+402,398,p,"The grip in fencing is the part through which fencers hold their weapons. There are two types of grips, the pistol grip and the french grip. The pistol grip has an anatomical format, designed to fit the hand's natural holding position, which gives the fencer a firm grip and good point control. A french grip looks like a simple, longer rubber stick, with a slight downward curve where the arm is placed when holding. Pistol grips are not fit for saber, so all saberists use a french grip in their weapons. Both grips can be used in foil, but it is rare to see a foilist using a french grip. While in epee the majority of fencers still choose to use a pistol grip, it is not uncommon to see fencers use a french grip. A fencing grip costs around $15.",n
+403,35,div,,n
+405,403,h2,Long Socks,y
+407,403,p,"Wearing long socks is mandatory in competitions. Long socks protect the fencer's shin, and are especially important in epee, where the shins and surrounding area are a valid target area. Long socks in fencing must be white to match the rest of the fencing uniform, except for some colored details. In domestic competitions fencers have their clubs emblems on their socks as a way to show the club they represent. Long socks are not mandatory during training; it depends on the club and its master's decision. Some people chose to wear long socks on all practice sessions. You don't have to buy any specific long socks, and so should not expect to spend more than $10.",n
+408,35,div,,n
+410,408,h2,Plastron or Underarm Protector,y
+412,408,p,"A plastron, or under arm protector, is one of the most important safety items in fencing. It is worn underneath the fencing jacket. The plastron looks like half a t-shirt, which protects the fencer's dominant hand's side, mainly the shoulder, chest, and under the arm. Plastrons are made of kevlar, a very protective material, and are mandatory in both competitions and training. In competitions, before the start of a match, the referee will check to make sure that both fencers are wearing it. An FIE approved plastron, which is required on most senior competitions, will cost around $100, while cheaper versions will go as low as $40.",n
+413,35,div,,n
+415,413,h2,Saber Electrical Jacket or Lame,y
+417,413,p,"A saber electric jacket, also known as a saber lame, is the piece of equipment that covers the valid target area in saber, that is, the whole area above the waist. A saber jacket has long sleeves and goes up to the neck. The lame is made of a metallic, conductive fabric, which allows for the electronic scoring system to detect when there is a touch on target.",n
+419,413,p,"When buying your saber jacket, it is a good idea to have your last name printed on the back, as most competitions require fencers to have it, as a way to be identified by referees and fans. To be worn in competitions, saber lames must have all their surface working, with no dead spots at all. You need to take care of yours, storing it away from sweaty clothes and other equipment. In addition, saber lames are quite expensive, ranging from around $100 and getting up to $300, depending on the model you buy.",n
+420,35,div,,n
+422,420,h2,Saber Glove,y
+424,420,p,"Saber gloves are used only when practicing saber, they are different from foil or epee gloves. In saber, the arms up to the wrists are valid target areas. A regular fencing glove would only cover part of that target area, so saber gloves are made with a special cuff, covered in conductive fabric. In addition to that, saberists tend to get hit on their hands more often and stronger than foilists and epeeists. Saber gloves are made of kevlar and also have extra padding, in order to keep saber athletes from getting bruises on their hands. Saber gloves cost around $50, more than foil and epee gloves.",n
+425,35,div,,n
+427,425,h2,Sabre Equipment,y
+428,425,ul,,n
+432,428,li,Complete Saber,n
+438,428,li,Saber Electrical Jacket,n
+441,35,div,,n
+443,441,h2,Spare Parts For Epee,y
+445,441,p,"An epee is made of a lot of small parts working together to make the electronic scoring system work. If only one of those parts doesn't do its job, the whole system is compromised, and the fencers may have problems in scoring. It is not unusual for epees to malfunction, as they are always being hit and hitting things. It is important to have spare parts to fix any components that may malfunction. Those may include point screws, point tips, point springs, epee blade wires, and epee socket components. How much you'll spend depends on how often your equipment breaks, but be ready to invest around $50 a year on spare parts if you fence a lot.",n
+446,35,div,,n
+448,446,h2,Spare Parts For Foil,y
+450,446,p,"Just like epee, a foil is made of many small parts that are all crucial for the electronic scoring system to work properly. Foils can be even more likely than epees to have malfunctioning parts, so it is important to have spare foil parts on hand. To alway be prepared, you must have extras of:",n
+451,446,ul,,n
+453,451,li,point screws,y
+455,451,li,point tips,y
+457,451,li,point springs,y
+459,451,li,foil blade wires,y
+461,451,li,foil socket components,y
+465,446,p,"How much you spend on spare parts will depend on how often your equipment breaks, which depends on how often you practice. Those who fence more often can spend around $50 a year on spare parts.",n
+466,35,div,,n
+468,466,h2,FAQ,n
+469,466,div,,n
+470,469,div,,n
+473,470,h3,What Equipment do you Need,n
+477,470,p,weapons in fencing,n
+478,469,div,,n
+481,478,h3,What Makes Fencing Equipment Unique?,n
+485,478,p,"While for some sports a ball and general athletic equipment such as shorts and breathable shirts may be enough to practice the sport, that is not the case with fencing. Without the proper, fencing-specific gear, the sport can't be practiced. Also, specific safety requirements need to be followed for the participants not to get injured. While in practice sessions, athletes can use cheaper and less resistant equipment; in competitions, there are more rigorous rules. At times every single piece of an athlete's equipment will go through a checking process to be sure that they are up to the safety standards and fully functional.",n
+486,469,div,,n
+489,486,h3,What is the Most Important Fencing Equipment to Buy?,n
+493,486,p,"If you just started fencing or plan to do so, there is no need to buy all the equipment, as that can get very expensive. Most fencing clubs can lend their students all the equipment they need, especially beginners. However, if you are invested in the sport and want to purchase equipment, a full fencing uniform, which includes pants, a jacket, and an underarm protector, and a fencing mask would be an excellent way to start. All of these pieces of gear are very personal, and having your own can make you feel more comfortable. Over time, as you become better and more invested in the sport, it is a good idea to buy all of your equipment.",n
+494,469,div,,n
+497,494,h3,What is the Estimated Total Cost,n
+501,494,p,"There are various brands, levels, and types of fencing equipment. If you are a starter, there is no need to buy all of the most expensive equipment. You can get all the gear necessary for around $400. However, if you plan to start competing nationally and internationally, more high-end equipment will be needed, and in a larger quantity. If those are your plans, you can expect to spend around $1000 or even more to get all the best gear.",n
+505,35,div,,n
+507,505,h2,Pages Related to Fencing Equipment List,n
+508,505,ul,,n
+510,508,li,How Long Is A Fencing Match?,n
+512,508,li,5 Most Common Fencing Injuries,n
+514,508,li,Fencing 101,n
+516,508,li,Fencing,n
+518,508,li,Learn Fencing,n
+520,508,li,Fencing Terms List,n
+524,35,footer,,n
+525,524,div,,n
+526,525,div,,n
+528,526,span,Company,n
+529,526,ul,,n
+531,529,li,About,n
+533,529,li,Careers,n
+535,529,li,Shop,n
+536,525,div,,n
+538,536,span,Contact,n
+541,536,li,Contact Us,n
+544,525,div,,n
+546,544,span,Legal,n
+547,544,ul,,n
+549,547,li,Terms,n
+551,547,li,Privacy,n
+552,525,nav,,n
+554,552,span,Social,n
+555,552,ul,,n
+557,555,li,Facebook,n
+559,555,li,Instagram,n
+561,555,li,LinkedIn,n
+563,555,li,Medium,n
+565,555,li,Pinterest,n
+567,555,li,Twitter,n
+569,555,li,YouTube,n
+570,524,div,,n
+572,570,span,Rookie Road may earn a commission when you buy through links on our site.,n
+574,570,span,Copyright ©Rookie Road Inc. All rights reserved.,n

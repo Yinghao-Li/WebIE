@@ -1,0 +1,98 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+14,0,div,,n
+15,14,section,,n
+17,15,div,,n
+19,17,h1,Cleaning Essentials Every College Dorm and First Apartment Needs,n
+21,17,ul,,n
+23,21,li,"August 18, 2020",n
+25,21,li,Written by,n
+42,15,div,,n
+45,42,p,"Living at home, it may seem like the essentials were always magically stocked. Now that it’s time to move out of your parents’ home and into your first dorm or apartment, having those cleaning essentials are your responsibility.",n
+47,42,p,"Knowing what to buy may seem overwhelming, that’s why we’ve pulled together our essential list of cleaning supplies needed to maintain your college dorm or apartment.",n
+50,42,h2,What You’ll Need,n
+52,42,p,"Many cleaning products and tools can be used across several rooms. These basics of cleaning may seem obvious but are easily overlooked or forgotten. Below, we’ve compiled a list of these must-haves for maintaining a clean living space:",n
+53,42,ul,,n
+54,53,li,,n
+56,54,strong,Disinfectant wipes,y
+57,54,text,can be used on almost anything. They’re great for quickly wiping down your desk or other hard surfaces that collect dust over time.,n
+58,53,li,,n
+60,58,strong,Disinfectant spray.,y
+61,58,text,Having both the disinfectant wipes and spray is necessary because disinfectant wipes cannot be used on everything. Disinfectant spray will be helpful on things like shoes.,n
+62,53,li,,n
+64,62,strong,All-purpose cleaner,y
+65,62,text,"tells you everything you need to know in the name. This cleaner is well-versed in what it can clean. However, it’s important to know what cannot be cleaned with all-purpose cleaner to avoid damages.",n
+66,53,li,,n
+68,66,strong,Trash bags that are made to fit your trash can.,y
+69,66,text,The type of trash bag you’ll need will depend on what size trash can you have or are planning on purchasing.,n
+70,53,li,,n
+72,70,strong,Glass cleaner,y
+73,70,text,will come in handy,n
+74,53,li,,n
+76,74,strong,All-purpose scrubber,y
+77,74,text,"will help to eliminate hard to clean spots on flooring when a mop isn’t able to get the job done. They can also be used to clean other areas, like a shower or bathtub.",n
+78,53,li,,n
+80,78,strong,Wood cleaner,y
+81,78,text,is necessary if your living space has any wooden furniture. Wood should only be cleaned with products made specifically for wood.,n
+82,53,li,,n
+84,82,strong,A vacuum,y
+85,82,text,"is a great tool for cleaning, as it does most of the work to pick up hair, dust or anything else on your floors. Vacuums can be used on both carpeting and hard floors, meaning you can use it in any room. There are also many sizes available, this helps to provide solution for any sized living space. If you’re living in a smaller dorm or apartment a small or handheld vacuum may be best. Those living in a larger space may want a regular sized vacuum for cleaning, as they have more space to cover.",n
+86,53,li,,n
+88,86,strong,Broom and dustpan.,y
+89,86,text,"Brooms can help to pick up any dry-food spills, dust, dirt or hair on your floor. They are a simple tool to quickly sweep up anything from floors and take up less space than a vacuum.",n
+90,53,li,,n
+92,90,strong,"Paper towels, rags, dish towels and microfiber sweeper.",y
+93,90,text,"These tools will all help to clean your space by picking up or wiping away dirt, dust, and more. It's important to have separate towels for separate activities. Microfiber sweepers will help to pick up dust, rags can be used to spray any cleaning chemical onto for use, dish towels help to dry dishes and paper towels are a quick and disposable method to clean anything.",n
+94,53,li,,n
+96,94,strong,A mop,y
+97,94,text,will clean up any spills stuck on the floor or that are wet. Mops help to scrub up anything that a broom or vacuum cannot.,n
+98,53,li,,n
+100,98,strong,Sponges,y
+101,98,text,"will come in handy for cleaning your sink, bath or shower, and dishes. While they have several purposes, you should use a separate sponge on your shower, bath and sink versus your dishes.",n
+104,42,h2,Cleaning Each Room Like A Professional,n
+106,42,p,"The products and tools you use will depend on what you’re trying to clean. It’s important to follow the instructions on each product before using. However, we’ve made it a little easier with our quick guides on how to differentiate your cleaning.",n
+109,42,h3,Laundry,y
+111,42,p,"Keeping up with your laundry will ensure that your space stays clean. All your towels, clothes, bedding, blankets and rugs should be washed regularly. In order to do so there is a list of materials you’ll need, including the following:",n
+112,42,ul,,n
+114,112,li,Laundry detergent is required in order to wash anything. This is the soap that will do the cleaning in the machine for you.,y
+115,112,li,,n
+117,115,strong,Laundry basket and hamper.,y
+118,115,text,"If you’re slow moving on the process of putting your laundry away, you’ll need both the hamper and the basket. The basket is for clean clothes and where you’ll put your clothes when taking them out of the dryer. A hamper is where you’ll keep all your dirty clothes in.",n
+119,112,li,,n
+121,119,strong,Drying rack.,y
+122,119,text,"It’s tempting to put everything into the dryer, but certain clothes will be ruined by doing so. It’s important to check the tags and understand what can and cannot go into the dryer. Laundry that cannot go into the dryer should be left to hang dry on a drying rack. This may seem tedious but putting your wet laundry on your bed will leave you with damp bedding and balled up wet laundry will begin to smell.",n
+123,112,li,,n
+125,123,strong,Garment bag.,y
+126,123,text,"Having a garment bag isn’t completely necessary, but if you want to take proper care of items that are delicate, you’ll want to invest in one.",n
+129,42,h3,Bathroom,n
+131,42,p,"The responsibility of cleaning the bathroom may depend on where you live. Some dorms have shared bathrooms for the floors, leaving the cleaning up to any sanitary workers. If you do have a personal bathroom or live in an apartment, maintaining the bathroom will be up to you.",n
+132,42,ul,,n
+134,132,li,"Purchase sponges in packs rather than one at a time. Throughout the year, you’ll want to switch out sponges to keep your cleaning supplies, clean.",n
+135,132,li,,n
+137,135,strong,"Toilet cleaner, brush and plunger.",y
+138,135,text,"Toilets can get dirty, fast. In order to clean them regularly, use toilet cleaner and a brush to scrub. A plunger is essential to stopping any clogs and prevent overflow problems.",n
+140,42,p,"Use disinfectant bathroom cleaners on both the sink and the shower. Scrub each of them using the sponge, rinse with water, and dry with a rag towel. You’ll also want to clean the floors using a mop if they are tile and glass cleaner for any mirrors or glass shower walls.",n
+143,42,h3,Kitchen,n
+145,42,p,"Dorms usually consist of no kitchen and students will store snacks or make their way down to the cafeteria for meals. Once you’re in an apartment, you’ll have to maintain a kitchen of your own. The following includes some of the products you’ll need in order to keep it clean:",n
+146,42,ul,,n
+148,146,li,These sponges should be separate from the ones used within the bathroom and to clean the kitchen sink. Set aside specific sponges and scrubbers that will used on dishes only. These will be used to hand wash any pots or pans and to scrub off any stuck-on food before dishes are put in the dishwasher.,y
+149,146,li,,n
+151,149,strong,Dish soap,y
+152,149,text,"is what will be used in the sink to clean any dishes, pot and pans.",n
+153,146,li,,n
+155,153,strong,Dishwasher soap,y
+156,153,text,"is different from dish soap, do not mix up the two. This soap will be used only for your dishwasher. It’s specific soap that the dishwasher will use in order to clean everything put in your dishwasher.",n
+158,42,p,"To clean the rest of the kitchen, disinfectant products can be used on counters, refrigerators, and kitchen sink. If your appliances are stainless steel, there are specific cleaners to be used on those surfaces. Brooms, vacuums and mops can be used to clean the floors depending on the type of mess that needs to be cleaned. For regular cleaning, vacuum or sweep the floors first and mop after.",n
+161,42,h2,Tech that Will Clean,n
+163,42,p,"Many of you may be on a budget, but if you have room in the budget for upgrades, these cleaning gadgets may be for you.",n
+166,42,h3,Air Purifiers,y
+168,42,p,"Air purifiers filter the indoor air around you, for you. Indoor air contains many airborne pollutants including pollen, mold, and dust. TruSens Air Purifiers come in three sizes to fit your needs. TruSens Air Purifiers are designed to clean the air within a single room or space. We offer a recommended room size to guide the purchase decision: Small Z-1000 - Up to 250 sq ft, Medium Z-2000 and Z-2500 - Up to 375 sq ft, and Large Z-3000 and Z-3500 - Up to 750 sq ft. These ratings are based on how many times the air in a room gets turned over. Buying a larger air purifier means that it can turn the air in a smaller room more frequently. This may be especially helpful for people with higher sensitivities to air pollution. TruSens Air Purifiers are also equipped with a handle for room-to-room portability to move to any space.",n
+177,42,h3,Robot Vacuum,y
+179,42,p,"While vacuums do most of the work to capture unwanted dirt, dust, or crumbs from your floors, robot vacuums can be programmed to work on their own. Depending on the one you purchase, these vacuums can be set on a regular schedule to clean your floors each day.",n
+182,42,h2,Conclusion,n
+184,42,p,"There’s a lot more to cleaning than the occasional wipe down of the top of your desk. Regularly cleaning will make it easy to maintain an overall clean space throughout the year. The list of what you need may seem long, but there are many things you may need to buy initially and then not for a while after again like a vacuum or drying rack.",n
+200,14,section,,n
+202,200,h2,Featured Articles,n
+203,200,div,,n
+207,203,div,Spring Cleaning,n
+211,203,div,an Air Purifier,n

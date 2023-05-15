@@ -1,0 +1,152 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,"Keller Lacrosse's mission is to promote the growth of lacrosse in the KISD area while maintaining a positive, community spirit for our players and families.",n
+14,0,ul,,n
+16,14,li,Sign in,n
+18,14,li,Register,n
+23,0,div,,n
+26,23,td,Home,n
+30,23,div,Configuration,n
+33,23,div,,n
+35,33,br,Reports,n
+38,33,li,Dashboard,n
+42,23,div,Messaging,n
+47,23,div,Members,n
+52,23,div,Teams,n
+55,23,div,,n
+57,55,br,Facilities,n
+60,55,li,Facility Manager,n
+64,23,div,Scheduling,n
+71,23,div,Tools,n
+74,23,div,,n
+76,74,br,Support,n
+77,74,ul,,n
+79,77,li,Changelog,n
+81,77,li,Help Docs,n
+83,77,li,Coaches Help,n
+85,77,li,Video Help,n
+87,77,li,Help Forums,n
+90,77,li,Contact Support,n
+98,0,table,,n
+99,98,text,Sponsored By,n
+102,98,span,Klapprodt Pools,n
+108,0,div,,n
+118,108,tr,,n
+134,118,div,,n
+137,134,li,,n
+138,137,text,Home,n
+139,137,ul,,n
+141,139,li,Home,n
+142,139,li,,n
+144,142,div,Documents,n
+145,142,ul,,n
+147,145,li,Links,n
+155,145,li,Survey,n
+167,139,li,Golf Tournament,n
+169,139,li,Fields,n
+171,139,li,Team Contacts,n
+173,139,li,Sponsors,n
+175,139,li,Lacrosse Links,n
+177,139,li,Directions,n
+179,139,li,Feedback,n
+181,139,li,KLA Documents,n
+183,139,li,Edit My Account,n
+185,139,li,Contacts,n
+195,139,li,Online Forms,n
+198,134,li,,n
+199,198,text,Teams,n
+200,198,ul,,n
+203,200,li,Choose a Team,n
+205,200,li,Schedule,n
+207,200,li,Multi-Schedule,n
+210,134,li,,n
+211,210,text,About Us,n
+212,210,ul,,n
+214,212,li,Our Mission,n
+216,212,li,KLA FAQs,n
+218,212,li,KLA Player Highlights,n
+220,212,li,KLA Player videos,n
+222,212,li,KLA Board,n
+224,212,li,Our Coaches,n
+226,212,li,Board and Committee Openings,n
+228,212,li,Facilities,n
+230,212,li,Background Checks,n
+232,212,li,Documents,n
+234,212,li,Board or Committee Application,n
+236,212,li,Coaching Application,n
+238,212,li,Volunteer Application,n
+240,212,li,Online Form,n
+243,134,li,,n
+244,243,text,Calendar,n
+247,243,li,Events Calendar,n
+253,134,li,Programs,n
+265,134,li,,n
+266,265,text,Spirit Wear,n
+267,265,ul,,n
+269,267,li,Spirit Wear or Uniforms,n
+271,267,li,Spirit Wear,n
+273,267,li,Uniforms,n
+276,134,li,,n
+277,276,text,Sponsors,n
+280,276,li,KLA SPONSORS,n
+284,118,table,,n
+305,284,td,My my My my,n
+320,284,td,,n
+323,320,div,For full functionality of this site it is necessary to enable JavaScript. Here are the instructions how to enable JavaScript in your web browser .,n
+326,320,div,,n
+330,326,div,Equipment List,n
+332,326,ul,,n
+334,332,li,,n
+336,334,strong,Lacrosse Helmet,y
+337,334,text,"- All players are required to wear a Lacrosse Helmet at all times. Note: most helmets carry a 3 year certification, it is not a warranty.",n
+341,332,li,,n
+344,341,strong,La,n
+347,341,strong,crosse Stick,y
+348,341,span,,n
+349,348,text,"shapes, sizes, and costs.",n
+351,348,strong,Note,n
+352,348,text,"For Youth and New Players, we suggest you not purchase a Defensive ""Long Pole"" until your player is ready and coaches make the suggestion to do so as most younger and new players will use the standard lenght stick for defense.",n
+357,332,li,,n
+359,357,strong,Lacrosse Gloves,y
+360,357,text,"- All players are required to wear Lacrosse Gloves at all times. Again, other sporting gloves will not work.",n
+363,332,li,,n
+365,363,strong,Shoulder Pads,y
+366,363,text,"- All players are required to wear Lacrosse Shoulder Pads. Again, other sport pads will not work.",n
+369,332,li,,n
+371,369,strong,Arm Pads,y
+372,369,text,- All players are required to wear Lacrosse Arm Pads. This protects the forearms and elbows between the gloves and shoulder pads upper arms.,n
+375,332,li,,n
+377,375,strong,Protective Cup,y
+378,375,text,- Required,n
+381,332,li,,n
+383,381,strong,Mouth Guard,y
+384,381,text,- Required at all levels for play. We reccomend having several back ups in your bag as they tend to dissapear at game time and your player will not be allowed in the game without one.,n
+387,332,li,,n
+389,387,strong,Water Bottle,y
+390,387,text,- Water bottles are necessary at all levels and should be brought to every practice and game. Hydration is important!,n
+393,332,li,,n
+395,393,strong,Lacrosse Balls,y
+396,393,text,"- these are not required and will be provided for practices and games. However, your player will want some in his bag for play around, 'wall-ball' and pick up games. We suggest you have a couple as they tend to dissapear.",n
+399,332,li,,n
+401,399,strong,Lacrosse Bag,y
+402,399,text,"- However, a bag to keep your equipment organized and in one place is helpful. Many players have a duffel or backpack style bag.",n
+406,399,span,Each player will wear a practice pinny that they need to bring to ALL practices. All of this equipment is typically available at your nearest Dick's Sporitng Goods.,n
+410,399,span,Thanks you,n
+412,399,span,coach with any questions.,n
+419,108,div,,n
+420,419,text,Youth Sports and,n
+424,419,strong,Keller Lacrosse Association,n
+425,419,text,. All rights reserved.,n
+428,419,span,Visitor #,n
+431,419,span,623,n
+433,419,br,Server in . or or Privacy Policy or or Do Not Sell My Personal Information or or CA Notice or or Terms or or User Guide or or Legal or or Contact us or or Get the Mobile App,n
+436,419,strong,3,n
+438,419,strong,,n
+440,438,span,20,n
+441,438,text,s,n
+462,0,div,,n
+463,462,div,,n
+465,463,button,x,n
+467,463,p,New Privacy Policy,n
+469,462,div,We have made changes to our Privacy Policy . By using this site you agree to the Privacy Policy and Terms of Service .,n
+484,0,div,Close,n

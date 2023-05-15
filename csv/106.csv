@@ -1,0 +1,111 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+6,0,div,,n
+8,6,p,"As a coach, one of your duties is to make sure that the team is well equipped for games and practices. It can be overwhelming to source and organize the equipment. In order to make the most of the season, we want to help you prepare. Follow our baseball coach gear checklist to keep track of the team’s gear and get it organized.",n
+10,6,h2,Coaches Baseball Equipment,n
+13,6,h4,Baseballs,y
+15,6,p,"Baseballs are necessary to play baseball. You will most likely need a lot of them. Baseballs are without a doubt are the number one piece of equipment, closely followed by baseball bats. Make sure you have plenty of baseballs on hand .",n
+28,6,h4,Baseball Bats,y
+30,6,p,"The second piece of equipment that you should absolutely have as a baseball coach is a selection of baseball bats. Yes, players may use their own bats, but it never hurts to have some variety. You never know when a bat may break and part of being prepared means that you are prepared just in case that happens. If you are using the bats during game time, make sure that the bats are league certified . These are Baseball Tools top-recommended bats.",n
+40,6,h4,Extra Gloves and Mitts,y
+42,6,p,"Players will generally bring their own gloves but just in case one is broken or left at home, you want to make sure that you have extras. These are Baseball Tools top-recommended gloves.",n
+47,6,h4,Batting Helmets,y
+49,6,p,"Batting helmets are important for player safety. These are required to play, and you should always have a few on hand. These can also be fitted with faceguards and chin straps for better protection.",n
+57,6,h4,Catchers Gear,y
+59,6,p,"Catcher’s gear is required to play baseball safely. A full set of catcher’s gear consists of leg guards, a chest pad, a catcher’s helmet , and a catcher’s mitt .",n
+67,6,h4,Water,y
+69,6,p,"Hydration is important for players and yourself. Players should bring their own water or sports drinks but just in case it gets left behind, always have some on hand. You can even bring a 5-gallon water cooler .",n
+81,6,p,"The training aids that you choose are going to depend on a variety of different things like skill level, drill day, and practice location. These are some of the training aids that you may want to invest in and bring to practice:",n
+82,6,ul,,n
+84,82,li,quality tees can really improve practice drill efficiency.,y
+87,82,li,"Batting cage – If you want to get as many hits as possible into batting practice, a batting cage and a lot of baseballs can help you accomplish that.",y
+90,82,li,Pitching machine – Good pitching machines are usually considered an investment so make sure you do your research before buying one. A pitching machine is usually used at the intermediate to advanced level of baseball.,y
+93,82,li,"Practice balls – Balls come in a variety of different sizes, colors, and materials. Make sure that you have a variety of different practice balls for different drills.",y
+96,82,li,Cones or markers – Cones are useful,y
+99,82,li,"Swing trainers – Things such as an insider bat, bat donut, and breakaway straps can be used to train a player’s swing.",y
+102,82,li,L-Screen – An L-screen can ensure safety of the pitcher or stand-in pitcher while doing drills.,y
+105,82,li,"Practice Net – With a portable practice net, you can set up",y
+109,6,h4,First Aid Kit,y
+111,6,p,Safety first. Always make sure that you have a well-stocked first-aid kit on hand to take care of anything that might come up during practice or games.,n
+116,6,h4,Baseball Coach Binder and Kit,y
+118,6,p,"Your binder should consist of several sections. First, you should have files on all of your players including their emergency contact information. You should have a notepad with plenty of pencils for quickly jotting things down. Other things you might want to consider adding to your coach’s kit include a whistle, stopwatch, scorebook , lineup card, pitch-counter, and a velocity gun.",n
+123,6,h4,Cell Phone,y
+125,6,p,A reliable cell phone is necessary to ensure that you can contact a child’s parents in case of an emergency.,n
+132,6,h4,Transportation and Organization Equipment,n
+134,6,p,All this baseball equipment and gear can become quite heavy and cumbersome. These items can help you transport and organize the gear.,n
+135,6,ul,,n
+137,135,li,Rolling cart – Being able to roll the equipment to and from the field will really aid in transportation.,y
+140,135,li,Buckets and Ball Organizers – These are helpful,y
+143,135,li,Dugout organizers – These handy systems often clip to the fence and can be used to sort items at game time.,y
+146,135,li,Carabiner Clips – Never underestimate the usefulness of a sturdy carabiner clip. It can be clipped to a fence and used to hold just about anything.,y
+150,6,h4,Additional Accessories,n
+152,6,p,These items are optional but can be useful,n
+153,6,ul,,n
+155,153,li,Chewing gum – Big League Chew is considered the standard baseball chewing gum. This not only helps players look the part but also helps to relieve some anxiety.,y
+158,153,li,Sunflower seeds – Another staple of baseball is the sunflower seed. These can help players stay engaged while sitting on the bench.,y
+161,153,li,Athletic tape – Good,y
+164,153,li,the sun in a player’s eyes.,y
+167,153,li,Sunscreen – The sun can be brutal. The last thing you want is to have your star pitcher sitting out because of a bad sunburn. Make sure that the players always have good sun protection in the form of sunscreen and baseball caps.,y
+170,153,li,Portable shade structure – An Easy-Up or similar portable shade structure can offer a little bit of relief on hot summer days.,y
+173,6,h2,Conclusion,n
+175,6,p,"In order to help you prepare for the upcoming baseball season, we have put together a coach’s baseball gear checklist. This will help you get organized and make sure that you are well equipped.",n
+181,6,h2,Baseball Coach Equipment Checklist,n
+183,6,h4,Essentials,n
+184,6,ul,,n
+186,184,li,Baseballs,y
+188,184,li,Baseball Bats,y
+190,184,li,Baseball Gloves,y
+192,184,li,Batting Helmets,y
+194,184,li,Catcher’s Gear,y
+196,184,li,Water,y
+199,6,ul,,n
+201,199,li,Baseball Tees,y
+203,199,li,Batting Cage,y
+205,199,li,Pitching Machine,y
+207,199,li,Practice Balls,y
+209,199,li,Cones or Markers,y
+211,199,li,Swing Trainers,y
+213,199,li,L-Screen,y
+215,199,li,Practice Net,y
+217,6,h4,Safety Items,y
+218,6,ul,,n
+220,218,li,First-Aid Kit,y
+222,218,li,Cell Phone,y
+224,218,li,Baseball Coach Binder,y
+226,6,h4,Transportation and Organization,y
+227,6,ul,,n
+229,227,li,Rolling Cart,y
+231,227,li,Buckets and Ball Organizers,y
+233,227,li,Dugout Organizer,y
+235,227,li,Carabiner Clips,y
+236,6,div,,n
+242,236,span,,n
+243,242,div,,n
+245,243,div,Sponsored Content,n
+246,243,ul,,n
+247,246,li,,n
+253,247,span,A Cliff Collapsed In The Grand Canyon And Unearthed This,n
+255,247,span,Auto Inquirer,n
+279,246,li,,n
+285,279,span,Dental Implants For Seniors Are Paid By Medicare,n
+287,279,span,Dental Implants | Search Ads,n
+311,246,li,,n
+317,311,span,34 Shameless Vintage Ads That Were Once Socially Acceptable,n
+319,311,span,12Up,n
+343,243,ul,,n
+344,343,li,,n
+353,344,span,Learn More,n
+357,344,span,"Bone on Bone Knee Pain? Try This, Says Top Doc.",n
+359,344,span,getmrjoint.com,n
+383,343,li,,n
+389,383,span,Anyone With Type 2 Diabetes Should Watch This!,n
+391,383,span,healthgoodtop,n
+415,343,li,,n
+421,415,span,Season's new phones,n
+423,415,span,scoutanswers.com,n
+448,242,div,Recommended by,n
+452,236,h4,Related Content,n
+453,236,ol,,n
+456,453,li,Baseball Gear Checklist,n
+459,453,li,Gear Buying Guides,n
+462,453,li,Baseball Tryout Tips,n

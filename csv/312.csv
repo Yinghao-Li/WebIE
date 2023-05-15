@@ -1,0 +1,43 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+3,2,article,,n
+4,3,div,,n
+6,4,p,"During the process of starting your coffee shop, there are a lot of supplies and equipment you need. We're here to help! Here are all the coffee shop supplies you need to start your cafe.",n
+8,4,h2,Disposable Supplies,y
+11,4,p,"In your coffee shop, you'll need disposable supplies. These include hot paper cups , clear drink cups , hot paper cup lids , clear plastic lids , cup sleeves , stirrers , and straws .",n
+27,4,p,"For cold drinks, the best sizes for cups are 16 oz and 24 oz. For hot drinks, the best sizes are 8 oz, 12 oz, and 16 oz. You'll need lids in the correct sizes and the proper length of straws.",n
+29,4,h2,Drip Coffee Maker,y
+32,4,p,"Drip coffee is a staple of coffee shops. Many coffee drinks are made with espresso, but classic coffee drinks without any frills are made simply with drip coffee. Even at the fanciest coffee shop, you'll still be able to order a black coffee made with a drip coffee maker. A drip coffee maker is a majorly important part of your coffee shop supplies.",n
+35,4,h2,Espresso Machine,y
+38,4,p,Almost every coffee drink is made with shots of espresso. Having a good-quality espresso machine from the start gives you a leg up in your coffee shop supplies. You won't have to worry about constant machine repairs or not having enough machine power to handle your needs.,n
+40,4,h2,Industrial Blender,y
+43,4,p,"If you plan on making frappes, smoothies, or other blended drinks, you need more than just a home-use blender. You need an industrial blender in your coffee shop supplies. Industrial blenders can handle making 30+ blended drinks every day. Home-use blenders are only made for a few blended drinks each day.",n
+45,4,h2,Industrial Coffee Grinder,y
+48,4,p,"With the volume of coffee you'll brew every day you're open, you need a lot of coffee grounds. Grinding your own coffee is the best way to consistently have fresh coffee and espresso in your coffee shop.",n
+50,4,h2,Shelving,y
+53,4,p,"Outside of your countertops, you need space to store things. You'll need adequate shelving to store extra hot paper cups, flavoring syrups, coffee beans, and other important pieces of your shop. Depending on your cafe's space, you'll need varied amounts of shelving. Shelves work well in the back of house and the front of house. You can even be creative with it!",n
+55,4,h2,Edible Supplies,y
+58,4,p,The most important coffee shop supply is just that,n
+66,4,p,"Before you buy all your edible coffee shop supplies , don't forget to taste-test! It's your coffee shop, you should like your products.",n
+70,4,h2,Ice Machine,y
+73,4,p,"If you serve iced or blended drinks, you need ice! You can't rely on buying bags of ice or filling ice trays everyday. Buying an ice machine is your best way to consistently have enough ice for your cafe.",n
+75,4,h2,Water Filter,y
+77,4,p,Filtered water just tastes better. Making coffee and tea with filtered water will taste much better than unfiltered water. Filtering your water is a good investment for your coffee shop.,n
+79,4,p,Picking out coffee shop supplies is an important part of starting your cafe. This list should help you decide what supplies you need to start your cafe.,n
+81,3,div,,n
+83,81,span,Share,n
+85,81,span,Share on Facebook,n
+87,81,span,Pin it,n
+89,81,span,Pin on Pinterest,n
+92,2,div,Back to Blog,n
+95,0,div,,n
+103,95,div,,n
+106,103,div,"Jun 06, 2022",n
+107,103,text,6 Ways to Improve Efficiency and Productivity in Your Cafe,n
+115,95,div,,n
+118,115,div,"May 02, 2022",n
+119,115,text,How to Boost Profits Up to 15% By Reengineering Your Menu,n
+127,95,div,,n
+130,127,div,"Mar 16, 2022",n
+131,127,text,Coffee Shop Marketing Checklist Every Shop Owner Needs,n

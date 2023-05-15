@@ -1,0 +1,115 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+6,0,div,,n
+7,6,div,,n
+8,7,div,,n
+9,8,div,,n
+15,9,span,Favorites |,n
+18,9,text,« Back,n
+25,8,div,Add new set,n
+43,7,div,Cancel Next,n
+49,6,div,,n
+68,49,div,,n
+72,68,p,Enterprise Astronomy,n
+76,68,p,~Deep Space Images by Annie Morris~,n
+79,49,ul,,n
+81,79,li,Home,n
+95,79,li,,n
+97,95,li,All Deep Space Galleries,n
+99,95,li,Nebulae,n
+101,95,li,Galaxies,n
+103,95,li,Messier Objects,n
+105,95,li,Solar System or Star Cluster,n
+107,95,li,Total Solar Eclipse 2017,n
+109,95,li,STS-135 - Atlantis,n
+111,95,li,Equipment,n
+123,79,li,,n
+125,123,li,All Albums,n
+127,123,li,Landscapes,n
+129,123,li,Castles or Ruins,n
+131,123,li,Animals,n
+133,123,li,Waterfalls,n
+145,79,li,,n
+149,145,li,My Astronomy Equipment,n
+153,145,li,Write-ups and Documents,n
+155,79,li,About,n
+159,79,li,Contact Me,n
+163,49,div,,n
+165,163,div,,n
+169,165,p,Equipment currently being used,n
+171,165,table,,n
+172,171,tr,,n
+176,172,span,Large Telescope,y
+179,172,span,Celestron CPC 800 XLT withFeathertouch Microfocuser,n
+181,171,tr,,n
+185,181,span,Small Telescope,y
+188,181,span,Orion EON 80ED withMoonlite focuser,n
+190,171,tr,,n
+194,190,span,Additional Mount parts,y
+197,190,span,"Milburn Deluxe Wedge, JMI wheelie bars",n
+198,171,tr,,n
+202,198,span,Digital Cameras,y
+205,198,span,Nikon D7000,n
+206,171,tr,,n
+210,206,span,CCD Cameras,y
+213,206,span,ATIK 314L+,n
+214,171,tr,,n
+218,214,span,Guide Cameras,y
+221,214,span,Starlight XPress Lodestar,n
+222,171,tr,,n
+226,222,span,Planetary Webcam,y
+229,222,span,Philips SPC900NC,n
+230,171,tr,,n
+234,230,span,Filter Wheels,y
+237,230,span,Atik EFW2 USB Filter Wheel,n
+238,171,tr,,n
+242,238,span,RGB Filters,y
+245,238,span,"Astrodon LRGB 1.25"" Gen2 E-Series",n
+246,171,tr,,n
+250,246,span,Narrowband Filters,y
+253,246,span,"Astrodon 3nm Ha, 3nm OIII",n
+254,171,tr,,n
+258,254,span,Solar Filters,y
+261,254,span,Celestron CPC Solar Filter,n
+262,171,tr,,n
+266,262,span,Field Flatteners or Focal Reducers,y
+270,262,span,"AstroTech 2"" Field Flattener, Celestron f or 6.3 Focal Reducer",n
+272,171,tr,,n
+276,272,span,Telescope or Camera Control Software,y
+279,272,span,"Sequence Generator Pro, PHD2",n
+280,171,tr,,n
+284,280,span,Processing Software,y
+287,280,td,"PixInsight, Photoshop CC2020, Registar",n
+288,171,tr,,n
+292,288,span,Power,y
+295,288,span,AstroPig 140,n
+297,171,tr,,n
+301,297,span,Other frequently used,n
+304,297,span,"Geoptik Nikon Adapter, Atik OAG, PTC 15 m USB2.0 Active repeater or extension M or F cable , Televue 3x Barlow 1.25 inch",n
+308,171,tr,,n
+312,308,span,Telescope Control Computer,y
+315,308,span,Custom-built Desktop PC,n
+316,171,tr,,n
+320,316,span,Image Processing Computer,y
+323,316,span,"Apple MacBook Pro , Mac OS Catalina",n
+325,171,tr,,n
+329,325,span,Lenses,y
+332,325,span,"Nikon 50mm f or 1.8D AF Nikkor , Nikon 55-300mm f or 4.5-5.6G ED VR AF-S DX Nikkor , Nikon 12-24mm f or 4G ED IF Autofocus DX Nikkor , Nikon 35mm f or 1.8G AF-S DX Lens",n
+344,165,p,my astronomy equipment,n
+347,165,p,this equipment,n
+352,165,p,My current sky conditions,n
+362,163,div,"©2021, Annie Morris",n
+368,49,div,User Agreement,n
+373,0,div,,n
+380,373,div,Cancel,n
+388,373,div,Continue,n
+411,0,div,Close,n
+415,0,div,,n
+418,415,div,View Cart,n
+419,415,div,,n
+421,419,div,Register to save your cart before it expires.,n
+423,419,div,Register,n
+425,419,div,Have an account? Sign in,n
+429,0,div,,n
+432,429,h4,Loading...,n
+434,429,div,Go to Cart,n

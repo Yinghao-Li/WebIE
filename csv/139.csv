@@ -1,0 +1,86 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+18,0,div,,n
+30,18,div,,n
+32,30,h1,Billiards Equipment List,n
+34,30,p,"Billiards is a fun and easy game that requires various equipment for gameplay. The three main pieces of equipment needed to play billiards include a billiard table, balls, and cue sticks. Some other equipment used in the sport include chalk, cue cleaner, cue racks, table covers, and towels. Below is a basic list of what is needed to enjoy this group game.",n
+36,18,div,,n
+40,36,h2,Contents,n
+43,36,ul,,n
+45,43,li,Balls,y
+47,43,li,Bridge,y
+49,43,li,Chalk,y
+51,43,li,Cue Cleaner,y
+53,43,li,Cue Rack,y
+55,43,li,Cue Sticks,y
+57,43,li,Table,y
+59,43,li,Table Cover,y
+61,43,li,Towel,y
+63,18,div,,n
+65,63,h2,Balls,y
+67,63,p,"A typical game of billiards requires three balls, each with a diameter around 2.5 inches. Unlike pool, billiards uses two cue balls. One of the cue balls is white, while the other can be either white or yellow and has a red or black dot. Besides the cue balls, the third ball is red and is known as the object ball.",n
+68,18,div,,n
+70,68,h2,Bridge,y
+72,68,p,"A bridge is not required to play billiards but can be helpful for players when shooting. The bridge is placed under the cue stick and can help a player stabilize their cue when shooting. In addition, a bridge can help support the cue when a ball is too far away for a player to use their front hand to support the stick.",n
+75,18,div,,n
+77,75,h2,Chalk,y
+79,75,p,"Although not necessary to play, chalk is often used in billiards and is applied to the end of cue sticks, known as the stick's ferrule. The chalk helps to increase the friction between the stick and the ball, preventing the tip of the stick from sliding off the ball upon the shot and allowing for more direct contact. As a cue stick is used, the ferrule becomes smooth and worn out. This makes the stick less effective for shooting, so chalk helps to counteract this. Players usually apply chalk to their cue sticks after every other shot.",n
+80,18,div,,n
+82,80,h2,Cue Cleaner,y
+84,80,p,"Throughout gameplay, cues shafts may accumulate dirt and become sticky. This can negatively impact the performance of players, especially if cue sticks become excessively dirty. Therefore, it is helpful to keep a shaft cleaner on hand to clean cues as needed. A typical cleaner can range from around $5 to $25, depending on the size of the bottle.",n
+85,18,div,,n
+87,85,h2,Cue Rack,y
+89,85,p,"A cue rack is helpful to hold cue sticks and prevent them from becoming deformed. Rather than laying cues on the ground or leaning them up against the wall, a rack holds the cues in an upright position, keeping them in good condition. A typical cue rack will cost around $50.",n
+90,18,div,,n
+92,90,h2,Cue Sticks,y
+94,90,p,"An essential piece of equipment for billiards are cue sticks. These are used to shoot the balls on the billiards table. A typical cue stick measures about 58 inches in length. At the end of each cue stick is the ferrule, or the tip, which often has a diameter of about 0.5 inches. Depending on the type of stick along with the quality of the materials and the manufacturer, cues can range in price from less than $50 to over $1000.",n
+96,90,p,"Cue sticks can be made up of different materials including wood, fiberglass, or a hybrid of materials. The majority of cue sticks are made of wood. Some common woods used in the cues include ivory and pine while some cues are composed of exotic woods such as cocobolo and Brazilian rosewood. As the game has evolved, fiberglass has became a popular choice for cue sticks because it is less expensive than wood. Fiberglass cues are generally lightweight, durable, and are commonly used by players at the beginner or intermediate levels. Hybrid cue sticks are similar to fiberglass cues but have a unique production process with more cuts that makes the cues more durable.",n
+98,90,p,"Another type of stick is the English cue. These sticks usually measure around 57 inches in length and often have a brass tip that is 0.3 to 0.4 inches in diameter. They also have an extra butt at the back end of the stick and are often made up of ash wood. Another cue is the American cue. These cues have a typical length of 57 to 58 inches and are commonly composed of maple wood. The tips of American cues are unique in that they are made of plastic and are larger with a diameter of about 0.5 inches. The final type of cue sticks are custom cues. These are generally the most expensive cues since customers specify the materials, size, tip, and butt that they want. Customers also can order specific designs on their cues to make them unique. Depending on the producer and the demands of the customer, the price of the cue can vary significantly.",n
+99,18,div,,n
+101,99,h2,Table,y
+103,99,p,"The tables used for billiards are similar to the ones used for both pool and snooker . Tables have six pockets, including one in each of the four corners and two on each long side of the table. The top of the table is covered with a green cloth or felt that allows balls to glide smoothly across the surface.",n
+107,99,p,"A table can cost anywhere from $700 to $3000 depending on various factors, including the material of the table, size, and the style. The material underneath the felt on the table is usually made up of MDF or slate. MDF is a wood-based material that is lightweight and more affordable than slate. Slate is more durable than MDF and is more expensive to source. Therefore, tables made up of slate tend to be priced more highly. In addition, tables that are made up of higher quality materials in the legs, cabinet, and bumpers are usually more expensive and tend to last longer than lower priced tables.",n
+109,99,p,"A regulation table used in tournaments is 4.5 feet by 9 feet. However, billiards tables can vary in size to fit the needs of different customers and room sizes. Generally, smaller tables will be more inexpensive than larger tables because the larger the size, the higher the production costs and the more materials needed.",n
+111,99,p,"The style of the table also plays a role in its price. Basic tables that are often used in restaurants and bars are functional but are usually not as expensive. However, tables that are specially crafted with unique designs and serve as more than just a generic table will have a higher price tag .",n
+114,18,div,,n
+116,114,h2,Table Cover,y
+118,114,p,"A table cover is not a necessary piece of equipment but can be helpful in increasing the lifespan and quality of a billiards table. When not in use, a cover can protect the table from collecting dust and dirt on its surface. This will help to prevent wear on the felt and keep the table in good condition. A typical table cover can be expected to cost around $40.",n
+119,18,div,,n
+121,119,h2,Towel,y
+123,119,p,"Like cue cleaner, a hand towel is useful for cleaning and keeping performance at a high level. Throughout a game, players' hands may become dirty and sweaty. A towel can be used to wipe off the hands to keep the dirt and grime from getting on the cue stick. In addition, a hand towel can also be used to apply the cue cleaner to the stick to wipe off unwanted residue. Hand towels are usually inexpensive and only cost around $5.",n
+127,18,div,,n
+129,127,h2,Pages Related to Billiards Equipment List,n
+130,127,ul,,n
+132,130,li,What is Billiards?,n
+134,130,li,Billiards,n
+138,18,footer,,n
+139,138,div,,n
+140,139,div,,n
+142,140,span,Company,n
+143,140,ul,,n
+145,143,li,About,n
+147,143,li,Careers,n
+149,143,li,Shop,n
+150,139,div,,n
+152,150,span,Contact,n
+153,150,ul,,n
+155,153,li,Contact Us,n
+157,153,li,FAQ,n
+158,139,div,,n
+160,158,span,Legal,n
+161,158,ul,,n
+163,161,li,Terms,n
+165,161,li,Privacy,n
+166,139,nav,,n
+168,166,span,Social,n
+169,166,ul,,n
+171,169,li,Facebook,n
+173,169,li,Instagram,n
+175,169,li,LinkedIn,n
+177,169,li,Medium,n
+179,169,li,Pinterest,n
+181,169,li,Twitter,n
+183,169,li,YouTube,n
+184,138,div,,n
+186,184,span,Rookie Road may earn a commission when you buy through links on our site.,n
+188,184,span,Copyright ©Rookie Road Inc. All rights reserved.,n

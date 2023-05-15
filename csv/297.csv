@@ -1,0 +1,290 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+6,0,div,,n
+10,6,div,,n
+12,10,h1,Women’s Snowboarding Gear,n
+13,10,h4,,n
+14,13,text,Published by,n
+16,13,strong,Grace Austin,n
+17,13,text,on,n
+28,6,div,,n
+29,28,div,,n
+32,29,h2,Looking,n
+34,29,div,,n
+35,34,div,,n
+36,35,text,Content,n
+38,35,span,show,n
+40,34,div,,n
+41,40,div,,n
+43,41,span,1,n
+45,41,span,Looking,n
+46,40,div,,n
+48,46,span,2,n
+50,46,span,women’s snowboarding gear,n
+51,40,div,,n
+53,51,span,3,n
+55,51,span,Waterproof and breathability ratings in women’s snowboarding gear,n
+56,40,div,,n
+58,56,span,4,n
+60,56,span,Complete guide to choosing women’s snowboarding gear,n
+61,56,div,,n
+62,61,div,,n
+64,62,span,1,n
+66,62,span,Snowboarding jackets,y
+67,61,div,,n
+69,67,span,2,n
+71,67,span,Layers,y
+72,61,div,,n
+74,72,span,3,n
+76,72,span,Snow pants,y
+77,61,div,,n
+79,77,span,4,n
+81,77,span,Snowboarding goggles,y
+82,61,div,,n
+84,82,span,5,n
+86,82,span,Gloves,y
+87,61,div,,n
+89,87,span,6,n
+91,87,span,Headware,y
+92,61,div,,n
+94,92,span,7,n
+96,92,span,Snowboarding socks,y
+97,61,div,,n
+99,97,span,8,n
+101,97,span,Snowboarding boots,y
+102,61,div,,n
+104,102,span,9,n
+106,102,span,Bindings,y
+107,61,div,,n
+109,107,span,10,n
+111,107,span,Snowboards,y
+112,40,div,,n
+114,112,span,5,n
+116,112,span,Other places to buy snowboarding gear,n
+117,40,div,,n
+119,117,span,6,n
+121,117,span,Should I rent or buy women’s snowboarding gear?,n
+122,40,div,,n
+124,122,span,7,n
+126,122,span,In summary,n
+128,29,p,"It really doesn’t need to be confusing, guys; ya just need someone to tell you where to find it.",n
+131,29,p,When Jim suggested we go snowboarding together for the first time it was a resounding yes from my side.,n
+136,29,p,"It was one of those rare moments where we weren’t stone-broke, which was even more miraculous for the fact that it was ominously close to Christmas and we were spending it in a country that actually celebrates Christmas for the first time in years .",n
+141,29,p,"What my over-excited travel obsessed brain didn’t quite glean from that first discussion was that there are a hella lot more expenses involved in one’s first snowboarding trip than “just” the flights, awkward baggage charges from the airline , accommodation, ski passes, and what I sincerely hoped would be a super sexy snowboarding instructor who’d get Jim off the hook teaching a snow-inhibited Grace how to not die.",n
+144,29,p,"There’s also all the shit you gotta wear. Which, incidentally, is a lot.",n
+147,29,p,"I gotta admit, I had mini heart palpitations when I saw the price tags on new women’s snowboarding gear.",n
+150,29,p,"Because jeezus, there’s just so gaddam many things you’ve gotta have.",n
+153,29,p,"Snow pants, boots, goggles, a helmet, merino wool layers, a jacket — wait but there’s also like seventy-eight different kinds of jackets and you might need at least three of them?!",n
+158,29,p,Confusing doesn’t even begin to cover it.,n
+161,29,p,I became mildly terrified that we were going to have to cancel our trip and sit in the Irish rain and darkness without any hint of a break all winter .,n
+167,29,p,"I then went all in researching snowboarding gear for women and ended up learning a ton about women’s snowboarding gear, apparel, equipment, and where to score the best deals.",n
+170,29,p,"With all these golden nuggets of knowledge, I’ve put together the guide that I wish I’d had when I first started researching women’s snowboarding gear, in the hopes that it’ll help some of you ladies who are wondering what the hell you’re supposed to wear snowboarding and bring on your first trip to the slopes.",n
+173,29,p,this article you’ll know,n
+174,29,ul,,n
+176,174,li,Exactly what items you’ll need,n
+178,174,li,Which brands make awesome snowboarding gear,n
+180,174,li,Where to find budget and second-hand snowboarding gear,n
+182,174,li,How to decide whether to rent or buy certain items,n
+184,174,li,How not to accidentally send a pair of snow pants to your ex-boyfriend’s mother’s house when panic buying on eBay. Which is always a helpful thing to know how to not do.,n
+189,29,h2,women’s snowboarding gear,n
+191,29,p,A good quality snowboarding jacket,y
+193,29,p,Snow pants,y
+195,29,p,Layers,y
+197,29,p,Snowboarding goggles,y
+199,29,p,Gloves,y
+201,29,p,Headware,y
+203,29,p,Snowboarding socks,y
+205,29,p,Snowboarding boots,y
+207,29,p,Bindings,y
+209,29,p,"course, a snowboard.",y
+212,29,p,"Let’s dive into the details of each item; I’ll cover why you need them , where to buy them, which brands are worth knowing about, how much you should pay, and what factors you should consider for each one.",n
+215,29,p,"But first, an absolutely essential explanation of THE most important thing to know when buying women’s snowboarding gear:",n
+219,29,h2,Waterproof and breathability ratings in women’s snowboarding gear,n
+221,29,p,"These two numbers should be listed on any snowboarding gear that you buy, and they’re key in determining whether or not a piece of kit is going to be suitable for your specific needs.",n
+224,29,p,In short,n
+227,29,p,"You want snowboarding gear that’s waterproof enough that you won’t get wet when you’re riding, but also breathable enough that you won’t get overly sweaty OR too hot and uncomfortable.",n
+230,29,p,"The balance will tip depending on the style and level of your riding, as well as the conditions you plan to go snowboarding in.",n
+233,29,p,"For example, somebody who’s going to be riding in bad weather will need a higher waterproof rating than someone who tends to ride on sunny days in dry conditions.",n
+236,29,p,"Similarly, someone who spends a lot of time falling will also be putting the waterproof factor to the test more than someone who, well… who doesn’t spend so much time with their arse in the snow?",n
+239,29,p,"5,000mm is just about the minimum rating you should look for in women’s snowboarding gear; that’ll give you enough protection in light rain and dry snow. 5,000-10,000 is a decent rating for someone who plans to ride in nothing worse than light rain and average snow conditions. 15,000-20,000 is going to give you something super snuggly and fit for all the conditions, all the time — so wet snow, heavy rain, high winds kinda deal.",n
+242,29,p,"Higher breathability will be important for women who spend all day on the slopes, splitboarders, and off-piste shredders who exert themselves more with cardio-intensive riding. 10,000-15,000 is good, 20,000 is better.",n
+245,29,p,"If you’re going to be doing some light riding, taking lots of breaks, and avoiding high intensity snowboarding, then a lighter breathability will be plenty.",n
+248,29,p,"Waterproof and breathability ratings are usually represented next to each other and separated by a slash, like this: XXX mm or XXX mg2. The first number is the waterproof factor, the second is the breathability rating.",n
+251,29,p,"Okay, so just pop those tidbits in the back of your brain while you read through the list of women’s snowboarding gear you’ll need:",n
+255,29,h2,Complete guide to choosing women’s snowboarding gear,n
+258,29,h3,Snowboarding jackets,y
+260,29,p,kit.,n
+263,29,p,"A good snowboarding jacket for women will be lightweight yet warming, well-insulated but not bulky, and come with the appropriate level of water resistance and breathability for your needs .",n
+266,29,p,"During my search for the perfect snowboarding jacket this year, I reached out to Extreme Nomads’ awesome community of Instagram followers for advice on which women’s snowboarding jackets they love — and received some really helpful responses.",n
+270,29,p,,n
+271,270,text,The stand-out recommendations were for,n
+273,270,strong,"Dope Snow, Volcom, Adidas, North Face,",n
+274,270,text,and,n
+276,270,strong,Nikita,n
+277,270,text,.,n
+280,29,p,In summary,n
+283,29,p,"Dope Snow has really cool designs which are a mix of sporty and feminine . Adidas makes great snowboarding gear for women, though the designs are very athletic which might not be to everyone’s taste. North Face makes minimal, classic designs that are built to last. Nikita’s snowboarding gear is the prettiest or girliest of all — but not all of their stuff is girly. I adore Nikita’s Saga snowboarding jacket , which has a cool fitted boyfriend cut.",n
+292,29,p,"Volcom has an awesome range of snowboarding jackets for women, and they won my money in the end. I chose the shadow insulated boyfriend cut jacket in copper AND I HAVE NEVER LOVED A WINTER JACKET SO MUCH.",n
+299,29,p,"The thing I appreciate most about Volcom’s snowboarding jackets for women is how light they are compared with their warmth factor. When I first took mine out of the bag, I couldn’t believe it’d be warm enough for the snowy mountains in the Alps in the dead of January — but after having put it through rigorous testing I can say I am 200% delighted with my choice.",n
+302,29,p,The cut is flattering. It’s super functional. The colour is bomb. It’s warm AF .,n
+305,29,p,"Also, I adore the deep hood + wolf-y fur lining. No snow, rain, or hailstones getting near my head, noooo sirreeee. .",n
+309,29,h3,Layers,y
+311,29,p,Layers are key when it comes to staying comfortable on the slopes.,n
+314,29,p,"As you can imagine, there can be quite a lot of temperature adjusting that needs to happen throughout a day of charging around on the snow:",n
+317,29,p,"First it’s f*cking freezing when you get outside, then you start warming up as you ride, then you’re ROASTING from exerting yourself so much, then you need to start stripping down while you take a break and drink mulled wine at the lodge , then you get cold and need to start layering up again.",n
+320,29,p,Aaaaand from the top.,n
+323,29,p,"So yeah, layers are important. But so is the fabric that the layers are made out of.",n
+328,29,p,Here’s the secret,n
+331,29,p,You want to wear clothing that’s moisture wicking and breathable because getting all kinds of sweaty under your jacket is eventually going to make you wet and cold.,n
+334,29,p,"Merino wool is the primo choice here; it doesn’t absorb moisture like, say, cotton, yet it keeps you mega warm even in baltic conditions. Amazon has a really great selection of merino wool base layers which are ideal for snowboarding.",n
+339,29,p,That said,n
+342,29,p,"I didn’t fancy forking out on extra merino wool layers for our last snowboarding trip so instead I wore sports leggings and long sleeve rash guards that I had already for kitesurfing. Now, they worked perfectly for the conditions I was riding in but I can definitely see how this wouldn’t have been enough if I was in a harsher climate.",n
+346,29,h3,Snow pants,y
+348,29,p,"Snowboarding pants come in a couple of different styles, namely the overall kind and the ‘just the pants’ kind .",n
+351,29,p,The overall kinds are great if your snowboarding jacket only comes down to your waist since they’ll prevent snow from getting inside your clothes if you crash. The normal pants style is perfectly good if your jacket is cut a little lower like my boyfriend cut Volcom jacket .,n
+358,29,p,"A lot of snowboarding pants have a zip running across the top which, if you’re lucky, matches the zip at the bottom of your snowboarding jacket — which is another way of stopping snow from accidentally taking a trip to your nether regions.",n
+361,29,p,"For example, all of Volcom’s snowboarding pants have a zip that’s compatible with every snowboarding jacket in their range. If you want heavy-wearing snowboarding pants, check out their mega waterproof GoreTex snowboarding pants and the GoreTex overall bib .",n
+370,29,p,"For those of you on a budget, I’d recommend checking out the massively popular Arctix snowboarding pants for women ; they come at a fraction of the price of the high street snowboarding brands’ and have awesome customer reviews.",n
+375,29,p,"You might also get lucky with special deals in supermarkets — no wait listen, hey are you still listeni — because we got our for €17 in Lidl in their weekly bargain bins. Okay, so the top button popped off on both of ours the first time we wore them, but hey, 17 bucks. Whaddaya gonna do.",n
+382,29,h3,Snowboarding goggles,y
+384,29,p,"Just like any sports sunglasses , snowboarding goggles need to meet a pretty standard set of requirements in order for them to work for you:",n
+389,29,p,They need to,n
+390,29,ul,,n
+392,390,li,have UVA or UVB protection,n
+394,390,li,your face properly,n
+396,390,li,have a comfortable and functional retainer system,n
+398,390,li,be designed not to steam up when you’re active,n
+400,390,li,polarisation if you want to block out glare,n
+402,390,li,and a suitable VLT rating.,n
+404,29,p,"Wait, a VL what now?",n
+407,29,p,"VLT, which stands for visible light transmission, is the rating given to goggles to determine how much light they allow to pass through to your eyes. Or in other words, how transparent they are. The higher the VLT rating, the clearer the tint .",n
+412,29,p,Riding in super sunny conditions? Go for a lower VLT number. Riding in gloomy stormy weather? Go for a higher percentage.,n
+415,29,p,"Thing is, we usually don’t know what the weather is going to be like throughout the whole trip — or season — and buying two pairs of goggles to deal with varying conditions is kinda sucky because you’ll always have to stop your session to change them .",n
+420,29,p,"The solution? Photochromic lenses. They can adjust their VLT factor by up to 60% all on their ownsies. Oakley’s PRIZM lenses do the job nicely, look rad, and have spherical lenses for a wider field of vision.",n
+425,29,p,"I went for Smith’s Optics goggles which are fully UV protecting, have an ultra wide secure strap, anti-fog, and 2-layers of DriWix face foam which makes them really comfy to wear for longer sessions. I wore them on super sunny days AND in snowstorms and they performed faultlessly in both conditions. Smith also offers the coolest colour choices of any women’s snowboarding goggles I came across. Seriously go check out the colour palettes , they’re savage.",n
+435,29,p,"For the budget conscious, you might like Zionor’s super affordable snowboarding goggles with UV400 protection and anti-fog capabilities.",n
+441,29,h3,Gloves,y
+443,29,p,"When we were getting our gear together for the trip, Jim and I had it out over snowboarding gloves. I wasn’t sure I needed to fork out $25 on a pair of gloves to wear for one week when I had perfectly good sheepskin mittens. He did not agree.",n
+447,29,p,"Well, I’ll tell you. The sheepskin mittens worked out fine — but on days when the snow was really wet and I was practising my toeside turns they got pretty soggy.",n
+450,29,p,So my suggestion? Any comfortable waterproof gloves or mittens will do — but you want to really trust they’ll keep moisture out. Cold hands are the WORST.,n
+453,29,p,"You can find a good pair of women’s snowboarding gloves for really affordable prices online, like these lightweight thinsulate gloves which are waterproof on the outside and sweat wicking on the inside.",n
+458,29,p,"For the super hardwearing version, check out these indestructible GoreTex snowboarding gloves by legendary snow brand Burton .",n
+467,29,h3,Headware,y
+469,29,p,"For a lot of people, snowboarding headware means a beanie. If that’s you, then there isn’t much advice I can offer because a beanie is a beanie, right? The one suggestion I have is to look for a beanie that has a nice secure band on the inner rim, which’ll stop it flying off your head or the whole mountain if you take a dive.",n
+473,29,p,I’m a big fan of Burton’s Linden beanie in sangria and the double-knit Adidas pom-pom beanie .,n
+482,29,p,"Snoods and detachable hoods are another option and a really good way of protecting your face from excess wind chill and snow. This heavyweight balaclava hood is just about the warmest thing you can get, while the turtle fur neck warmer is a solid option if you prefer something more discreet .",n
+489,29,p,"But headware isn’t just about warmth in the snowboarding world; it’s also about protection. Wearing a helmet is a really good idea. I wore one for my whole week of beginner’s training and, after experiencing a few headfirst wipeouts, I was so glad I did.",n
+492,29,p,Check out Wildhorn’s snowboarding helmets for women ; their quality is second to none . Their helmets come with a clip system for securing your goggles and are available in a huge range of colours.,n
+499,29,h3,Snowboarding socks,y
+501,29,p,"After our first day of traipsing around the Alps, I genuinely held fears that my toes would turn into popsicles and drop off before the trip was through. My feet. Were. FREEZING.",n
+504,29,p,ENTER,n
+509,29,p,"Snowboarding socks are extra warm compression socks with a high cotton density to keep your tootsies snuggly in the snow. They’re also super thick to help prevent blisters, should your boots start rubbing on your ankles or heels .",n
+512,29,p,"Make sure you buy a pair of snowboarding socks that are high enough to reach over the top of your snowboarding boots, so the top of the boots don’t chafe against your calf .",n
+515,29,p,performance snowboarding socks are ideal.,n
+521,29,h3,Snowboarding boots,y
+523,29,p,"Snowboarding boots are right up there with the jacket when it comes to the great hierarchy of women’s snowboarding gear. An ill-fitting or uncomfortable pair of boots can really F-up your snowboarding trip, so this, if anywhere, is the place to splurge on something that really fits.",n
+526,29,p,"Women’s snowboarding boots vary in terms of flex and stiffness, lacing systems, footbeds and lining, and overall fit. The variations will be more suited to certain riding styles and conditions, and less so to others.",n
+529,29,p,"Stiffer boots are most suited to the hard chargers, for those that need to hold down a serious edge and maintain mobility and responsiveness at high speeds. Flexier boots, on the other hand, are going to suit people spending long days on the slopes, park riders, and beginner snowboarders.",n
+532,29,p,"Lacing systems come in varieties like quick pull, boa, and traditional lace-up. They largely won’t affect the performance of the boot, though you’ll just want to ensure you can effectively tighten the laces of whatever system you get .",n
+535,29,p,"For this reason, the boa system is awesome because it’s so easy to tighten and release.",n
+539,29,p,These soft flex boa boots by Burton are a solid bet,n
+544,29,p,"If you want to nerd out a little, here’s an informative video by REI on how to size your snowboard boots:",n
+547,29,p,Pssst,n
+551,29,h3,Bindings,y
+553,29,p,"Once you’ve got yourself a good-fitting pair of women’s snowboarding boots, bindings are the next piece of kit to tackle.",n
+556,29,p,Binding variations include the level of flex and height of the highback plate and the entry or close system.,n
+559,29,p,"Flexier and lower highback plates are more comfortable for beginner snowboarders and freestylers, while stiffer and higher bindings offer more maneuvrability and responsiveness for all-mountain riders charging through powder and at high speeds.",n
+562,29,p,As,n
+565,29,p,"The most common kind is strap bindings, but speed-entry bindings are another option. Strap bindings clip your boots to the board with 2 adjustable ratchet straps, while the highback plate stays in place. This is what I used on our last snowboarding trip.",n
+568,29,p,"Whereas with speed-entry bindings, the highback plate clips out to accommodate boots — which is what Jim uses.",n
+572,29,p,It’s super duper important to look for women-specific bindings that are designed to fit women’s feet and calf shape.,n
+576,29,p,"You’ll also want to ensure that the base plate and binding system is compatible both with your boots and your chosen snowboard. The Burton Citizen bindings are compatible with basically “any board out there” according to them, and they’re specifically designed for women’s calf or foot dimensions.",n
+582,29,h3,Snowboards,y
+584,29,p,Choosing a snowboard is a really personal thing; there are enough factors to consider that it’d merit an entire article on its own .,n
+587,29,p,We’re absolutely head over heels in love with Coalition Snow’s range of female-specific snowboards. They’re an all-women owned and run business creating high quality snowboards designed for us ladies.,n
+590,29,p,The graphics are original pieces of artwork created by artists they personally know and love. The quality of the boards is out of this world. Their brand ethos f*cking rocks . And they even offer a financing scheme if you can’t afford to buy your board outright.,n
+592,29,p,,n
+593,592,text,Check out,n
+595,592,ta,snowboards,n
+596,592,text,now — or head straight to their,n
+598,592,ta,Myth snowboard,n
+599,592,text,", which ambassador and mega shredder Charlotte reckons is the go-to snowboard",n
+602,29,p,"You can also read our review of Coalition Snow’s boards and find out why we think they’re the best snowboards for women, designed by actual women who shred .",n
+608,29,h2,Other places to buy snowboarding gear,n
+610,29,p,If you’re on a budget the second hand market is a great place to look. See what’s available on eBay or the Facebook marketplace — you might get lucky!,n
+613,29,p,Just don’t do what I did and panic-bid on a pair of snowboarding pants only to realise that your registered address on ebay is your ex-boyfriend’s mom’s house — who you haven’t spoken to in years. *smh* CANCEL CANCEL CANCEL!,n
+616,29,p,"Also, do some research and see if there are second-hand snowboarding gear facebook groups in the locality where you’re going to be riding. If it’s in a well-known snow sports destination, chances are there’s a healthy second hand gear market nearby.",n
+620,29,h2,Should I rent or buy women’s snowboarding gear?,n
+622,29,p,"If you’re a beginner heading for your first snowboarding trip, the question of whether to buy your gear outright or rent it at the resort can be a tricky one.",n
+625,29,p,What it comes down to? Budget and value over time.,n
+628,29,p,"Renting might be cheaper in the short term, and therefore a good choice if you’re not confident that you’ll pursue snowboarding as a long term hobby. As a point of reference, I rented by boots, bindings, snowboard, and helmet on our first snowboarding trip for a total of €150 or week. This was obviously a lot cheaper than buying all of those items new.",n
+631,29,p,"Plus, some gear is easy to rent at the spot — like boards, bindings, boots, and helmets. Apparel-based gear is usually more appropriate to buy beforehand.",n
+634,29,p,"BUT if you’re pretty sure snowboarding is your jam, then investing in your own gear will definitely save you money in the long term. Renting isn’t economical unless you’re doing so for a really short period of time.",n
+638,29,h2,In summary,n
+640,29,p,"Are you still with me? Congratulations if you made it this far! Jeez, that was a long one. Hopefully you now have a solid understanding of women’s snowboarding gear and how to pick the right items for your own needs.",n
+643,29,p,essential women’s snowboarding gear,n
+644,29,ul,,n
+646,644,li,Snowboarding jacket,y
+648,644,li,Snow pants,y
+650,644,li,Layers,y
+652,644,li,Snowboarding goggles,y
+654,644,li,Gloves,y
+656,644,li,Headware,y
+658,644,li,Snowboarding socks,y
+660,644,li,Snowboarding boots,y
+662,644,li,Bindings,y
+664,644,li,A snowboard,y
+666,29,p,"If you have any questions about picking snowboarding gear for women, drop me a comment down below and I’ll answer ASAP! You can also get in touch with me — and a community of like-minded action sports lovers — in our totally FREE Facebook group .",n
+671,29,p,,n
+673,671,strong,Liked this post?,n
+675,671,strong,Check out our other snowboarding articles,n
+677,671,strong,or read about our last snowboarding trip to the incredible,n
+679,671,strong,Serre Chevalier Valley in the French Alps,n
+681,671,strong,.,n
+683,28,div,,n
+686,683,div,,n
+687,686,text,Categories,n
+689,686,span,Gear,n
+691,686,span,Snowboarding,n
+697,683,div,,n
+699,697,h4,Grace Austin,n
+701,697,p,"Hi! I'm Grace -- freelance writer and content creator for the outdoor travel industry. I spent the past few years living in China, Vietnam, and Thailand working as a blogger, TV presenter, and documentarist. These days you can find me Europe side scouting out the best outdoor adventures Ireland has to offer -- and drinking ALL the wine. Obviously.",n
+704,683,div,,n
+707,704,h3,0 Comments,n
+709,704,div,,n
+710,709,h3,,n
+711,710,text,Leave a Reply,n
+713,710,small,Cancel reply,n
+716,709,form,,n
+717,716,p,,n
+719,717,span,Your email address will not be published.,n
+721,717,span,Required fields are marked,n
+724,716,div,,n
+728,724,div,Name,n
+736,724,div,Email,n
+744,724,div,Website,n
+749,716,div,What's on your mind?,n
+760,716,p,Δ,n
+766,6,div,,n
+768,766,div,,n
+770,768,div,,n
+772,770,h5,Monthly Newsletter,n
+773,770,form,,n
+779,773,p,Email address,n
+784,773,label,Leave this field empty if you're human,n
+791,768,div,,n
+793,791,h5,Disclaimer,n
+795,791,p,,n
+796,795,text,"This page may contain affiliate links. This means we may earn commissions from qualifying purchases, at no additional cost to you. Goes without saying, we only recommend products that we trust and or or use ourselves. For a full list of our product reviews, head to our",n
+798,795,strong,test and reviews,n
+799,795,text,category.,n
+801,768,div,,n
+803,801,h5,Note on languages,n
+805,801,div,"This site is originally written in english, and translations are done through AI powered DeepL tool . Although it is far from flawless, we hope to perfect these with the help of human translators very soon. If you speak english as a second language, you may find it better than the translation in your native language. Thank you for your patience.",n
+811,766,div,Hestia | Developed by ThemeIsle,n
+813,0,div,,n
+815,813,div,English,n
+818,813,div,Français Deutsch Nederlands Español Italiano Português do Brasil English,n
+828,0,div,,n
+830,828,span,We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.,n
+832,828,span,Ok Privacy policy,n

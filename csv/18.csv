@@ -1,0 +1,121 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,article,,n
+3,2,div,,n
+10,3,h1,Essential Safety Equipment,n
+12,3,h2,Prevent sports injuries with basic sports safety equipment,n
+14,3,div,,n
+15,14,div,,n
+16,15,div,,n
+17,16,div,,n
+19,17,span,By,n
+20,17,div,,n
+21,20,text,Elizabeth Quinn,n
+23,20,div,,n
+25,23,div,Elizabeth Quinn,n
+27,23,div,"Elizabeth Quinn is an exercise physiologist, sports medicine writer, and fitness consultant for corporate wellness and rehabilitation clinics.",n
+33,16,div,"Updated on April 27, 2022",n
+35,15,div,,n
+36,35,span,,n
+37,36,span,,n
+39,37,span,Fact checked,n
+42,37,div,"Verywell Fit content is rigorously reviewed by a team of qualified and experienced fact checkers. Fact checkers review articles for factual accuracy, relevance, and timeliness. We rely on the most current and reputable sources, which are cited in the text and listed at the bottom of each article. Content is fact checked after it has been edited and before publication. Learn more .",n
+45,36,text,by,n
+49,35,div,,n
+55,49,div,Fact checked by,n
+61,49,li,LinkedIn,n
+64,49,p,"Adah Chung is a fact checker, writer, researcher, and occupational therapist.",n
+73,14,div,Print,n
+81,2,div,,n
+82,81,div,,n
+84,82,span,Contents,n
+87,82,div,View All,n
+90,81,div,Contents,n
+91,81,ul,,n
+95,91,li,Protective Eyewear,y
+99,91,li,Helmets,y
+103,91,li,Mouth Guards,y
+107,91,li,Safety Pads and Guards,y
+111,91,li,Proper Footwear and Athletic Shoes,y
+112,2,div,,n
+113,112,div,,n
+115,113,p,"Sports safety equipment and gear may sometimes look odd or unfashionable, but using the right protective safety gear for your sport is essential for preventing serious injuries or reducing the severity of an injury you may receive. After all, the point of a sport is to enjoy participating, and getting injured can keep you off the playing field for weeks or more.",n
+120,113,p,the most critical pieces of safety gear,n
+124,113,div,6 Top Tips,n
+129,113,h2,Protective Eyewear,y
+130,113,p,,n
+131,130,text,"According to the American Academy of Ophthalmology , more than 90% of all sports-related eye injuries can be prevented by using appropriate protective eyewear .",n
+137,130,span,1,n
+138,130,text,This advice applies to athletes or anyone who participates in sports.,n
+145,113,p,"There are a variety of clear and tinted sunglasses and goggles for nearly every sport, so shop around for the ones that fit your style and your face and keep your eyes protected.",n
+150,113,h2,Helmets,y
+152,113,p,"If you play football or hockey , wearing a helmet is clearly a ""no-brainer,"" but many athletes who participate in sports with a high risk of head injury still see the helmet as optional. However, with the growing awareness of the dangers concussions can cause later in life, the necessity of proper head protection has become apparent.",n
+158,113,p,,n
+159,158,text,"If you cycle, ski, snowboard, skateboard, or inline skate, you need to consider a helmet as standard equipment. A properly fitted helmet, designed for the specific sport you play, significantly decreases your risk of suffering a severe head injury and even death.",n
+161,158,span,2,n
+166,113,h2,Mouth Guards,y
+167,113,p,,n
+168,167,text,"If you've ever been smacked in the jaw by a stray ball or flying elbow while playing sports, you probably know how essential a mouth guard is to keep your teeth where they should be—in your mouth. But mouthguards also help prevent tongue and lip injuries and help reduce the risk of suffering a concussion or fractured jaw.",n
+170,167,span,3,n
+173,113,p,"Mouthguards should be considered mandatory safety equipment during sports that risks injury to the face, jaw, or mouth. The most effective mouth guards fit well and are comfortable, but they also stay in place, are durable, easy to clean, and don't restrict speaking and breathing.",n
+178,113,h2,Safety Pads and Guards,y
+180,113,p,"Safety pads and guards are standard sports safety equipment in dozens of activities. If you play certain contact sports, such as football, hockey, or lacrosse, protective pads are required, but you should wear pads for any contact sport. The type and style of pads seem endless and include shin, knee, elbow, wrist, chest, neck, shoulder, hip, and thigh pads.",n
+183,113,p,"Some sports, such as inline skating and skateboarding, include the wrist, knee, and elbow guards as standard equipment. These rigid plastic guards prevent cuts, scrapes, and abrasions and reduce the odds of a significant sprain, strain, or even a fracture after a hard fall.",n
+186,113,p,"Knee pads and wrist guards can be a great advantage even in snowboarding. A wipeout on a snowboard usually involves you naturally reaching out with your arms to break your fall, and in the process, it's very easy to break a wrist.",n
+191,113,h2,Proper Footwear and Athletic Shoes,y
+193,113,p,shoe you wear during certain sports can easily be added to the safety equipment list.,n
+195,113,p,,n
+196,195,text,"Sports cleats are essential during field sports, such as football, baseball, and soccer. The right running shoes can decrease your risk of overuse injuries.",n
+201,195,span,4,n
+202,195,text,"Special cycling shoes can reduce foot pain and increase your pedaling efficiency. Court shoes with support and good traction are designed for basketball, tennis, and racquetball.",n
+207,113,h2,A Word From Verywell,y
+209,113,p,"Sports safety equipment is vital for protecting athletes from injuries ranging from mild to severe. Many parts of the body are susceptible to sprains, strains, breaks, and damage that can interfere with your activity or result in permanent issues.",n
+212,113,p,"When preparing to participate in any sport, determine what safety equipment may be needed to protect the athlete as much as possible. Be sure the equipment is properly sized and in good condition. Sports are an incredible way to improve your quality of life, but injuries can sideline you. Protect yourself for the best experience and least risk.",n
+214,112,div,,n
+215,214,div,,n
+218,215,div,Was this page helpful?,n
+221,215,div,,n
+223,221,div,Thanks,n
+226,221,div,,n
+229,226,p,Get exercise tips to make your workouts less work and more fun.,n
+230,226,div,,n
+234,230,div,Sign Up,n
+236,230,span,You're in!,n
+238,230,p,"Thank you, ,",n
+240,230,p,There was an error. Please try again.,n
+241,215,div,,n
+243,241,div,What are your concerns?,n
+245,241,button,Other,n
+247,241,button,Inaccurate,n
+249,241,button,Hard to Understand,n
+253,241,form,Submit,n
+256,214,div,,n
+260,256,div,4 Sources,n
+261,256,div,,n
+263,261,div,"Verywell Fit uses only high-quality sources, including peer-reviewed studies, to support the facts within our articles. Read our editorial process to learn more about how we fact-check and keep our content accurate, reliable, and trustworthy.",n
+267,261,div,,n
+270,267,li,Opthalmology. Eye Injury Prevention .,n
+275,267,li,"Bailly N, Laporte JD, Afquir S, et al. Effect of Helmet Use on Traumatic Brain Injuries and Other Head Injuries in Alpine Sport . Wilderness Environ Med . 2018;29:151-158. doi:10.1016 or j.wem.2017.11.007",n
+282,267,li,"Mantri SS, Mantri SP, Deogade S, Bhasin AS. Intra-oral Mouth-Guard In Sport Related Oro-Facial Injuries: Prevention is Better Than Cure ! J Clin Diagn Res . 2014;8:299-302. doi:10.7860 or JCDR or 2014 or 6470.3872",n
+289,267,li,"Relph N, Greaves H, Armstrong R, et al. Running shoes for preventing lower limb running injuries in adults . Cochrane Database Syst Rev . 2019;2019:CD013368. doi:10.1002 or 14651858.CD013368",n
+335,0,div,,n
+336,335,section,,n
+338,336,span,Related Articles,n
+340,336,ul,,n
+348,340,li,Top Foods,n
+357,340,li,How to Make Running a Lifelong Sport,n
+366,340,li,2022,n
+375,340,li,The Best Bike Helmets to Keep Your Little Cyclist Safe,n
+384,340,li,6 Top Tips,n
+393,340,li,"Sports Medicine Careers, Education, Training, and Salary",n
+402,340,li,What is Handball? Why the Sport Should be Your New Hobby,n
+411,340,li,How to Prevent and Treat Common Ice Hockey Injuries,n
+421,335,ul,,n
+429,421,li,How Boxing Can Cause Bodily Injuries,n
+438,421,li,The Right First Aid,n
+447,421,li,How to Prevent and Treat Wrestling Injuries,n
+456,421,li,How to Treat or Prevent Hip Pointer Injuries,n
+465,421,li,7 Best Rollerblades,n
+474,421,li,Essential Mountain Biking Gear,n
+483,421,li,How to Prevent Snowboarding Injuries,n
+492,421,li,Winter Sports Injury Treatment and Prevention,n

@@ -1,0 +1,67 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,article,,n
+5,1,div,,n
+7,5,h3,Email Newsletter,n
+9,5,p,"Get the newest photos, videos, stories and more.",n
+15,5,div,Get Updates,n
+18,1,div,,n
+20,18,h2,Every model railroader should have these 12 basic tools on his or her workbench,n
+22,18,p,"A basic tool kit is something many newcomers forget about during the initial excitement of buying their first train set. But as time goes by, they soon find out that model railroad equipment includes all sorts of small screws, nuts, and bolts hidden in the mechanisms.",n
+24,18,p,My Dad clued me in early on to get the best tools I could afford. So I look for high quality tools that have been heat-treated to prevent failures when they’re needed most. A broken tip can easily damage a screw head making it impossible to tighten or loosen again.,n
+26,18,p,"If you have trouble finding quality small tools locally, check out dealers like Micro-Mark ,Trainworld , and Wm. K. Walthers , which offer also printed catalogs and ship nationwide. You’ll also find a selection of model railroading and hobby tools and supplies at the online Kalmbach Hobby Store",n
+35,18,p,Specialty suppliers,n
+36,18,p,,n
+37,36,text,"Most railroad hobby dealers offer a selection of good quality modeling tools, and large hardware stores and home centers sell well-known brands. Just keep in mind that the top quality tools tend to be expensive, but they’ll last a long time.",n
+39,36,br,"The model railroad hobby has some specialty tool manufacturers that aren’t as well known as the major brands General Tools and Instruments makes a popular 12″ stainless steel model railroad reference rule with cleanly etched markings, and an extensive line of other precision tools .",n
+43,18,p,moderately-priced modeling tools that have been popular,n
+47,18,p,X-acto has been the primary source for cutting tools that are made for fine work. Many different blades are available for special tasks .,n
+51,18,p,"Xuron has established an excellent reputation for its extensive line of high quality modeler’s pliers, side cutters, and metal shears .",n
+55,18,p,"Wiha offers an extensive line of English and metric specialty screwdrivers, socket sets, and other drivers that have hardened tips and working surfaces .",n
+58,18,p,,n
+60,58,strong,What you’ll need,n
+62,58,br,a dozen tools I use the most and the manufacturers and sources,n
+63,18,p,,n
+66,63,strong,A foam cradle,y
+67,63,text,"provides a handy means of holding an inverted model without damaging its details or paint. This allows you to work on the underside to adjust or repair couplers, clean wheels, and check standard dimensions. HO and N scale sizes are sold by Bowser, Ribbonrail, and K.I.S.S. Method Inc.",n
+68,18,p,,n
+71,68,strong,Coupler height gauges,y
+72,68,text,"offer an easy way to measure this important standard dimension to ensure yourcouplers are aligned and will function properly with each other. Kadee makes these gauges for HO, HOn3, S, O, On3, On2½, No. 1, and G scales. Micro-Trains sells the N- and Z-scale versions.",n
+75,18,p,,n
+78,75,strong,Coupler trip-pin pliers,y
+79,75,text,have jaws specially shaped to adjust the metal trip pins that operate magnetic couplers. The jaws bend the uncoupling levers so they’ll just clear magnetic uncoupling ramps. They’re made by Kadee and readily available from Micro-Mark and local hobby dealers.,n
+80,18,p,,n
+83,80,strong,Hobby knives,y
+84,80,text,"combine a wide variety of handles and replaceable blades that make them extremely useful in model building. The blades have surgically sharp edges that will easily cut common modeling materials. Most hobby dealers carry good selections of blades, handles, and knife sets made by Excel, Mascot, and X-acto.",n
+85,18,p,,n
+88,85,strong,NMRA Standards gauges,y
+89,85,text,"are made of sheet metal and sold by the National Model Railroad Association in sizes for O, Sn3, HO, HOn3, and N scales. These tools make it easy to check the accuracy of track components and wheelsets on locomotives and cars. Most railroad hobby dealers sell them, and the gauges are also available from the NMRA at www.nmra.org .",n
+92,18,p,,n
+95,92,strong,Needle files,y
+96,92,text,"are thin files about 6″ long that come in handy for many small model-building jobs. The files are sold nearly everywhere in sets of 6 or 12 assorted files with prices ranging from $2.95 to $50 a set. I prefer the high-quality sets sold by Micro-Mark. They last longer, don’t load up with shavings, and are easy to clean with a brass brush.",n
+97,18,p,,n
+100,97,strong,Needlenose pliers,y
+101,97,text,"are offered in many different sizes and styles with either smooth or serrated jaws useful for gripping and holding small parts, spiking track, and bending wire. Xuron’s popular line of small modeling pliers and cutters offers many useful combinations that are extremely handy.",n
+102,18,p,,n
+105,102,strong,Precision screwdrivers,y
+106,102,text,"are sold in sets or as individual tools in many sizes with either straight, Phillips, or specialtyblade shapes. Some screwdrivers have reversible blades. Excel, General, and Mascot all sell them. Wiha is well known for its superb sets with hardened bits.",n
+107,18,p,,n
+110,107,strong,Rail-cutting pliers,y
+111,107,text,"are made to trim soft metal rails and strip styrene with a smooth, flush cut. However, they can’t be used to cut anything harder without risking severe damage to the specially ground, flush-cutting edges. They’re made by Micro Engineering and Xuron, and sold by Micro-Mark, Walthers, and most hobby dealers.",n
+112,18,p,,n
+115,112,strong,A scale rule,y
+116,112,text,"becomes more useful as you begin to customize models and need to measure specific dimensions in scale sizes. General Tools makes the hobby’s most popular no. 1251 stainless steel reference rule. This finely etched steel rule comes with markings for O, S, HO, and N scales, metric and English scales, plus a reference chart showing decimal and numbered drill bit sizes.",n
+117,18,p,,n
+120,117,strong,Sprue cutters,y
+121,117,text,"cleanly trim plastic parts from sprues. For ultra-fine work, one looks like a pair of tweezers with thin, sharp cutting edges mounted at about 80 degrees across the working end. A slightly heavier version looks like a pair of pliers with flat cutting edges almost parallel to the jaws. The last type also looks like a pair of pliers, but it has a powerful cam action to cut heavy sprues.",n
+122,18,p,,n
+125,122,strong,Tweezers,y
+126,122,text,"come in handy to pick up and position small parts or decals on models. They’re made in many sizes with smooth or serrated jaws to handle specific jobs. Most modelers start out with a pair with serrated jaws, but wind up with several sizes to reach into places fingers won’t fit. A pair with smooth jaws comes in handy to keep from marking the part.",n
+128,18,p,"This list provides a starting point to help newcomers find the specialized tools most modelers use in model railroading. As time goes on, you’ll probably find other tools that you may want to make specific jobs easier and more enjoyable.",n
+131,18,div,,n
+133,131,div,For more from Model Railroader subscribe today!,n
+135,131,div,Subscribe,n
+137,0,div,,n
+139,137,span,Comments,n
+141,137,span,+,n
+143,0,div,You must login to submit a comment,n

@@ -1,0 +1,325 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+8,0,div,,n
+17,8,div,,n
+54,17,div,,n
+57,54,div,,n
+60,57,h1,The Ultimate Bar Equipment Checklist,n
+63,57,div,,n
+65,63,ul,,n
+67,65,li,by Lightspeed,n
+71,65,li,-17,n
+73,63,p,,n
+75,73,span,5,n
+76,73,text,minute read,n
+90,54,div,,n
+93,90,p,"It’s no secret that opening a bar is easier when you have a detailed plan. Before you open your doors, it’s important to make sure you have all the right bar equipment to transform your vision into a reality.",n
+96,90,p,"Here is a complete bar equipment list that covers everything from cocktail supplies and software, to cleaning supplies.",n
+99,90,h2,What equipment should every bar have?,n
+102,90,p,"Keep in mind that the exact equipment on your list may vary based on the unique operations of your business. However, your supply list will likely include the following:",n
+103,90,ul,,n
+105,103,li,Cocktail and bartending equipment,y
+107,103,li,Beverages and beverage dispensing bar equipment,y
+109,103,li,A bar POS system,y
+111,103,li,Bar furniture and other equipment,y
+113,103,li,Food and kitchen supplies,y
+115,90,div,,n
+117,115,h4,Running your bar in 2021,n
+119,115,p,Our guide will walk you through the future-proof hospitality tactics that’ll add flexibility to your business—a key to thriving in the new world of hospitality.,n
+121,115,div,Download the guide,n
+124,90,h3,Cocktail and bartending equipment,y
+126,90,h4,Glasses,y
+127,90,ul,,n
+130,127,li,Rocks glasses,y
+136,127,li,Shot glasses,y
+139,127,li,Collins glasses,y
+145,127,li,Wine glasses,y
+148,127,li,Champagne glasses,y
+151,127,li,Martini glasses,y
+154,127,li,Brandy snifters,y
+157,127,li,Highball glasses,y
+160,127,li,Mixing glasses,y
+162,90,h4,Bartending tools and accessories,y
+163,90,ul,,n
+166,163,li,Jiggers,y
+169,163,li,Muddlers,y
+172,163,li,Cocktail shakers,y
+175,163,li,Cocktail spoon,y
+178,163,li,Citrus juicers,y
+181,163,li,Cap catchers,y
+184,163,li,Bottle and can openers,y
+187,163,li,Cocktail strainers,y
+190,163,li,Garnishing tools,y
+193,163,li,Muddling supplies,y
+196,163,li,Straws and stirrers,y
+199,163,li,Cutting boards,y
+202,163,li,Napkins and coasters,y
+205,163,li,Bar mats,y
+208,163,li,Bar towels,y
+211,163,li,Liquor bottle pourers,y
+214,163,li,Containers,y
+217,163,li,"Ice cube trays, ice molds and ice buckets",y
+220,163,li,Wine openers,y
+222,90,h3,Beverages and beverage dispensing bar equipment,y
+225,90,p,"Your bar equipment list should also include a good selection of well liquors and top-shelf liquors, as well as liqueurs and mixers for cocktails.",n
+227,90,h4,Alcoholic Beverages,y
+228,90,ul,,n
+231,228,li,Vodka,y
+234,228,li,Gin,y
+237,228,li,Tequila,y
+240,228,li,Whiskey,y
+243,228,li,Scotch,y
+246,228,li,Bourbon,y
+249,228,li,Rum,y
+251,90,h4,Basic liqueurs,y
+252,90,ul,,n
+255,252,li,Amaretto,y
+258,252,li,Coffee Liqueur,y
+261,252,li,Dry and sweet vermouth,y
+264,252,li,Irish cream liqueur,y
+267,252,li,Orange liqueur,y
+269,90,h4,Non-alcoholic mixers,y
+270,90,ul,,n
+273,270,li,Lemon and lime juice,y
+276,270,li,Orange juice,y
+279,270,li,Cranberry juice,y
+282,270,li,Grapefruit juice,y
+285,270,li,Pineapple juice,y
+288,270,li,Tomato juice,y
+291,270,li,Bitters,y
+294,270,li,Simple syrup,y
+297,270,li,Sour mix,y
+300,270,li,Grenadine,y
+303,270,li,"Milk, Half and Half or cream",y
+306,270,li,Tabasco sauce and Worcestershire sauce,y
+308,90,h4,Essential sodas,y
+309,90,ul,,n
+312,309,li,Club soda,y
+315,309,li,Tonic Water,y
+318,309,li,Ginger Ale,y
+321,309,li,Cola and Diet Cola,y
+324,309,li,Lemon-lime soda,y
+327,90,p,"You’ll also want to stock garnishes and those extra touches that take your cocktails up a notch, particularly if you’re running a higher-end establishment.",n
+329,90,h4,Fruit garnishes,y
+330,90,ul,,n
+333,330,li,Lemons,y
+336,330,li,Limes,y
+339,330,li,Oranges,y
+342,330,li,Maraschino cherries,y
+344,90,h4,Beverage nice-to-haves,y
+345,90,ul,,n
+348,345,li,Olives,y
+351,345,li,Cocktail onions,y
+354,345,li,Mint,y
+357,345,li,Salt and sugar,y
+360,345,li,Cinnamon,y
+363,345,li,Grated nutmeg,y
+366,345,li,Celery or pickles,y
+369,345,li,Whipped cream,y
+370,90,p,,n
+372,370,span,"Depending on local regulations, you might be able to offer",n
+374,370,span,to-go or off-premise drinks,n
+376,370,span,". If that’s the case, you’ll need to invest in supplies to make carryout orders a breeze.",n
+378,90,h4,Takeout supplies,y
+379,90,ul,,n
+382,379,li,Disposable cups and lids,y
+385,379,li,Straws,y
+388,379,li,Drink holders,y
+391,379,li,Bags,y
+394,379,li,Napkins,y
+396,90,h3,A bar POS system,y
+397,90,p,,n
+399,397,span,"While you can operate a bar using old-fashioned cash registers or heavy computers, a modern,",n
+401,397,span,bar POS system,n
+403,397,span,"can be a huge help to your business. Not only will this system give you a quick way to manage customer tabs and transactions, but modern POS software also gives you tools to manage the operations of your entire business right from the palm of your hand.",n
+405,90,h3,Bar furniture and other equipment,y
+406,90,p,,n
+408,406,span,"your space, you’ll have to figure out the number and style of the",n
+410,406,span,tables and chairs,y
+412,406,span,"you want in your business. If you don’t have a physical bar counter, you’ll want to have one built to fit the space. Other logistical needs will include decor, as well as TV monitors, cable and sound equipment.",n
+415,90,p,"Refrigeration and cold storage are also essential, even if you don’t serve food at your establishment. Here’s the full list of coolers to consider:",n
+417,90,h4,Coolers and refrigeration,y
+418,90,ul,,n
+421,418,li,Kegerators,y
+424,418,li,Beer coolers,y
+427,418,li,Wine coolers,y
+430,418,li,Additional cooler,y
+433,418,li,Horizontal bottle cooler,y
+436,418,li,Swing door back bar cooler,y
+439,418,li,Swing door merchandiser,y
+442,418,li,Storage cooler,y
+445,90,p,"Now more than ever, it’s crucial that you have strong cleaning tools and a streamlined process for disinfecting glassware and barware for the safety of your employees and customers. You’ll need a two or three sink setup for bar staff to wash dishes with specialized cleaning agents, as well as bathroom equipment, hand sanitizer and cleaning supplies.",n
+447,90,h4,Additional equipment,y
+448,90,ul,,n
+451,448,li,Speed rails,y
+454,448,li,Liquor dispensers,y
+457,448,li,Floor mats,y
+460,448,li,Ice wells,y
+463,448,li,Ice crusher,y
+466,448,li,Ice maker,y
+469,448,li,Blenders,y
+472,448,li,Waitress stalls,y
+475,448,li,Glass racks or holders,y
+477,90,h3,Food and kitchen supplies,y
+478,90,p,,n
+480,478,span,"If you’re going to serve food at your bar, you’ll need",n
+482,478,span,kitchen equipment,n
+484,478,span,"and supplies. Depending on the food you serve, you might need:",n
+485,90,ul,,n
+488,485,li,Grills,y
+491,485,li,Fryers,y
+494,485,li,Flat-top griddles,y
+497,485,li,Plates,y
+500,485,li,"Cutlery, and whatever else lets your staff execute your menu efficiently.",y
+503,90,p,Some bars are now mandated to serve food as a requirement for opening. Check your local guidelines to see if this applies to your business.,n
+505,90,h3,How and where can I get this equipment?,n
+506,90,p,,n
+508,506,span,"You need equipment that will last a long time, so it usually pays to buy new, high-quality equipment. While used bar equipment may save money at the time of purchase, it will likely wear down and need to be replaced sooner than brand-new bar supplies. You can find discount supplies at any restaurant supply retailer or order them from",n
+510,506,span,various specialized online retailers,n
+512,506,span,.,n
+513,90,p,,n
+515,513,span,"If your margins are tight, you can rent or lease some of the equipment you need to operate a bar. This is a good idea for any specialty equipment you either use for limited-time offerings or don’t use very often. Make sure that if you",n
+517,513,span,shop,n
+519,513,span,", you don’t compromise on quality.",n
+522,90,h2,Stocking up your new bar with the right equipment,n
+523,90,p,,n
+525,523,span,"Once you’ve finalized your bar equipment list, you’re free to focus on the other things that come with starting a business: like hiring employees, and building a recognizable brand. With the right tools and equipment in place, your bar will have a strong foundation. If you need help getting started finding the right POS equipment for your bar,",n
+527,523,span,let’s chat,n
+529,523,span,!,n
+538,54,div,,n
+539,538,div,,n
+542,539,h2,News you care about. Tips you can use.,n
+544,539,p,"Everything your business needs to grow, delivered straight to your inbox.",n
+549,538,div,,n
+562,549,div,,n
+564,562,p,"Sorry, there was an error with your submission.",n
+566,562,p,Errors,n
+568,562,text,< Back to form or Please contact us.,n
+574,549,p,Success! You are now signed up to our blog content updates.,n
+592,549,div,,n
+593,592,div,,n
+594,593,div,,n
+597,594,label,Email address,n
+600,594,span,Please enter a valid email address,n
+601,593,div,,n
+602,601,fieldset,,n
+608,602,p,Retail,n
+614,602,p,Restaurant,n
+620,602,p,Golf,n
+622,601,span,"To make sure we only send you the content you want, please select the subjects you’re interested in from the menu above.",n
+624,592,button,Sign up,n
+628,54,div,,n
+630,628,h5,this topic,n
+631,628,text,Management and Operations,n
+644,54,div,,n
+646,644,p,Written by,n
+648,644,h4,Lightspeed,n
+650,644,p,"Lightspeed is a cloud-based commerce platform powering small and medium-sized businesses in over 100 countries around the world. With smart, scalable and dependable point of sale systems, it's an all-in-one solution that helps restaurants and retailers sell across channels, manage operations, engage with consumers, accept payments and grow their business.",n
+654,17,div,,n
+656,654,h2,Related articles,n
+657,654,div,,n
+661,657,div,,n
+665,661,h2,The 16 Licenses and Permits Needed to Open a Restaurant,n
+667,661,ul,,n
+671,667,li,Theresa Navarra,n
+674,667,li,-23,n
+678,657,div,,n
+682,678,h2,10 Things Small Business Superheroes Should Know About Payment Processing,n
+691,678,li,-22,n
+695,657,div,,n
+699,695,h2,5 Ways to Accept Payments Anywhere in Your Restaurant,n
+708,695,li,-20,n
+709,17,div,,n
+712,709,h2,Browse more topics,n
+715,709,div,Beyond The Pass Customer Experience Finance and Operations Inspiration Inventory Management Labor Management and Operations Menu Engineering News and Updates Payments Reporting and Analytics Sales and Marketing Starting a Business Technology,n
+729,8,footer,,n
+730,729,div,,n
+735,730,div,,n
+736,735,div,,n
+738,736,p,POS system,n
+740,736,ul,,n
+742,740,li,POS software,n
+744,740,li,iPad POS system,n
+746,740,li,Cloud POS system,n
+748,740,li,POS cash register,n
+750,740,li,What is a POS system,n
+752,740,li,What is a commerce platform,n
+753,735,div,,n
+755,753,p,Retail POS system,n
+757,753,ul,,n
+765,757,li,eCommerce software,n
+767,757,li,Omnichannel retail,n
+769,757,li,Inventory management system,n
+771,757,li,Pre-loaded retail catalogs,n
+772,735,div,,n
+774,772,p,Restaurant POS system,n
+776,772,ul,,n
+784,776,li,eCommerce,n
+786,776,li,Order ahead,n
+788,776,li,Delivery POS system,n
+790,776,li,Loyalty,n
+792,776,li,Multi-location restaurant POS,n
+793,735,div,,n
+795,793,p,Golf POS system,n
+797,793,ul,,n
+799,797,li,Payments,n
+807,797,li,Free golf tools,n
+808,735,div,,n
+810,808,p,Resources,n
+812,808,ul,,n
+814,812,li,Blog,n
+816,812,li,Free retail tools,n
+818,812,li,Free restaurant tools,n
+820,812,li,Customers,n
+822,812,li,Community,n
+824,812,li,Help center,n
+826,812,li,Events,n
+828,812,li,Webinars,n
+829,735,div,,n
+831,829,p,Partners,n
+833,829,ul,,n
+837,833,li,Supplier network,n
+839,833,li,eCom customization,n
+841,833,li,Find an expert,n
+843,833,li,Become a partner,n
+845,833,li,Toolkit,n
+846,735,div,,n
+848,846,p,Company,n
+850,846,ul,,n
+852,850,li,Newsroom,n
+854,850,li,Reviews,n
+856,850,li,Contact us,n
+858,850,li,Careers,n
+860,850,li,Investor relations,n
+862,850,li,Sustainability,n
+864,850,li,Legal,n
+865,735,div,,n
+867,865,p,Latest resources,n
+871,865,li,the Retail Industry Report,n
+873,865,p,Latest blogs,n
+877,865,li,How to Start a Subscription Business,n
+879,730,div,,n
+881,879,div,,n
+884,881,div,-1801,n
+895,881,p,Lightspeed® 2022,n
+899,879,ul,,n
+901,899,li,,n
+904,901,div,US,n
+905,901,ul,,n
+907,905,li,UK,n
+909,905,li,CA,n
+911,905,li,AU,n
+913,905,li,CA,n
+915,905,li,NL,n
+917,905,li,BE,n
+919,905,li,BE,n
+921,905,li,DE,n
+923,905,li,MX,n
+925,905,li,FR,n
+927,905,li,CH,n
+929,905,li,CH,n
+931,905,li,NO,n
+933,899,li,Privacy policy,n
+937,729,div,,n
+939,937,p,Our website uses cookies as further described in our cookie statement . By using our website you accept the use of cookies.,n
+944,937,div,OK,n

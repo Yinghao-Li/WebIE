@@ -1,0 +1,32 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+57,0,div,,n
+59,57,h1,Softball - Equipment,n
+70,57,div,,n
+72,70,div,Previous Page,n
+74,70,div,Next Page,n
+77,57,p,"A number of equipment is required for playing softball. A helmet, chest protector, and shin guards are the main equipment required for safety and to play softball, we require a ball, a bat, gloves, and uniforms.",n
+79,57,h2,Bat,y
+81,57,p,"The batsmen use bat to hit the ball and score runs for team. The bat is made up of wood, aluminium or from metals. The shape of the bat is like a cylinder and its diameter is 6 inches. The length of the bat varies but it cannot be greater than 86 cm.",n
+83,57,p,"The diameter of the barrel is 2¼ inches. Normally, players prefer smaller barrel bat because they can swing the bat easily. Bats having smaller barrel also reduces weight. The weight of the bat is 1.2 kilograms.",n
+85,57,h2,Ball,y
+87,57,p,"As the name of the sport is softball, a ball is the centre of the game. But despite its name, the ball which is used is not soft. Softball is derived from the famous American sport baseball which is mainly played by men. But softball is meant for women. As this sport is mainly dominated by women, the name of the game is softball.",n
+89,57,h2,Gloves,y
+91,57,p,"In American Softball Association, the size of the gloves cannot exceed 36 centimetres. In softball matches, all defensive players wear fielding gloves. But there are normally different size of gloves available for players at different positions on the field.",n
+93,57,h2,Uniform,y
+95,57,p,"To increase bond among a players in a team, uniforms are provided. Each team wears different uniforms. Uniforms include helmets, head bands, visors, caps, shoes, shocks, shirt and pant, tight sliding undershorts etc.",n
+97,57,p,"For female players, uniforms like headbands and caps are optional. These are mandatory for male players but those who wear a helmet are not required to wear headbands or caps.",n
+99,57,h2,Important Facts about Softball,y
+101,57,p,We have listed here some important facts to note about softball −,n
+102,57,ul,,n
+105,102,li,Amateur Softball Association of America has the authority to check the size of bats of the players. They also have the power to reject if they find it illegal. If they find any performance enhancers in the bat then it is an illegal bat. These bats can give an unfair advantage to the batting team.,n
+106,102,li,,n
+108,106,p,"This sport is mainly of two types one is fast pitch and another one is slow pitch . In fast pitch game, the circumference of the ball is 12 inches and the mass of the ball is in between 178 gram and 194 gram. The circumference of the ball may increase or decrease by 0.125 inches.",n
+114,106,p,"In slow pitch game, the circumference of the ball is 11 inches and mass of the ball varies in between 166.5 gram to 173.6 gram. From 2004 onwards, high visibility yellow optic cover is being used for balls. For NAIA and NCAA softballs, yellow is the official colour.",n
+117,102,li,Yellow balls are becoming popular in this sport. The matches in softball are mainly played in yellow balls. White balls are also used in this sport but it is not as famous as yellow balls. White balls are mainly used in slow pitches rather than fast pitches.,n
+120,102,li,"Softball is invented in Chicago so one of its variants is called Chicago ball. It is played with the ball whose circumference is 16 inches. The fielders normally do not wear gloves. Chicago ball is also known as mush ball, cabbage ball, and blooper ball.",n
+123,102,li,"Between thumb and forefinger of the gloves, there is webbing which is known as pocket . The colouring on the gloves should be in such a way that no part is same as that of the ball.",n
+128,102,li,The pitchers are also not allowed to have any white colour on their gloves including seams as it may create problem for the batsmen in seeing the ball clearly.,n
+131,102,li,"Among all the equipment, helmets and sliding shorts are very important for the players. Helmets provide security to the head and sliding shorts to the upper thigh. The sliding shorts are basically shin guards that extend usually from the ankle to the knee of the player and it covers the leg. It protects ankle, knee, shin, calf and thigh from getting hurt or bruised while sliding. In fact, wearing sliding shorts helps the players to slide on the ground easily.",n
+134,102,li,the uniform player’s names are optional but Arabic numerals must be visible.,n
+136,57,div,Previous Page Print Page Next Page,n

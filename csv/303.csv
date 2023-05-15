@@ -1,0 +1,97 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+17,1,h1,Safety Tips,n
+21,1,div,Reviewed by,n
+26,1,div,,n
+28,26,ul,,n
+30,28,li,,n
+34,30,span,Listen,n
+37,30,div,,n
+40,37,span,Play,n
+43,37,span,Stop,n
+49,37,span,Volume,n
+54,37,span,mp3,n
+57,37,span,Settings,n
+60,37,span,Close Player,n
+63,28,li,,n
+66,63,span,Larger text size,n
+69,63,span,Large text size,n
+72,63,span,Regular text size,n
+76,28,li,Print,n
+78,26,div,,n
+80,78,span,en español,n
+82,78,span,Consejos de seguridad,n
+85,26,div,,n
+87,85,p,"The nonstop action and high-speed team play of hockey makes is a very popular sport. As fun as it is, though, hockey carries a very real risk of injury. To stay as safe as possible, follow these tips.",n
+89,85,h3,Safe Hockey Gear,n
+91,85,p,"Before playing hockey, it's very important to get all the right equipment and make sure you know how to put it on and use it correctly. Skates and a helmet are a good start, but there's a lot more you'll need to wear.",n
+93,85,p,Hockey players need,n
+94,85,ul,,n
+95,94,li,,n
+97,95,strong,Helmet.,y
+98,95,text,"When it comes to preventing serious injuries, this is the most important piece of equipment. Helmets should be certified by the Hockey Equipment Certification Council and should include a full facemask with a protective chin cup and a chin strap. Make sure your helmet fits properly, and keep the chin strap fastened and tightened to ensure the helmet stays in place.",n
+99,94,li,,n
+101,99,strong,Skates.,y
+102,99,text,"As with helmets, be sure to get skates that fit well. You'll lace them up tight, so the wrong size skates can really hurt your feet. Skates should offer plenty of ankle support and have a steel or hard plastic toe cup. Keep skates sharp so they perform better and are less likely to get caught in ruts in the ice.",n
+103,94,li,,n
+105,103,strong,"Shoulder pads, elbow pads, knee and shin pads.",y
+106,103,text,These are all specific to hockey. Soccer or lacrosse equipment won't give the protection needed. Lower leg pads should have a hard plastic exterior and reach the top of your skates.,n
+107,94,li,,n
+109,107,strong,Hockey pants.,y
+110,107,text,"Also called breezers, these should reach to the knee and offer padding in the front, rear, and sides of the upper legs and midsection.",n
+111,94,li,,n
+113,111,strong,Gloves.,y
+114,111,text,"Another sport-specific item, hockey gloves should allow",n
+115,94,li,,n
+117,115,strong,Athletic supporter and cup.,y
+118,115,text,hockey undershorts or separate.,n
+119,94,li,,n
+121,119,strong,Neck protector.,y
+122,119,text,"Although some leagues don't require them, these protect the neck from injury.",n
+123,94,li,,n
+125,123,strong,Mouthguard.,y
+126,123,text,"These protect the teeth, lips, cheeks, and tongue, and can help prevent jaw injuries.",n
+128,85,h4,Goalie Gear,y
+130,85,p,"Hockey goalies need a whole different set of equipment to keep themselves safe. They need a helmet, skates, neck protector, and athletic cup made for goalies. In addition, goalies should always wear:",n
+131,85,ul,,n
+132,131,li,,n
+134,132,strong,Leg pads.,y
+135,132,text,These should always be the correct length and thick enough to protect against even the hardest slapshot.,n
+136,131,li,,n
+138,136,strong,Arm pads and chest protector.,y
+139,136,text,Arm pads should reach all the way to the wrist. Chest protectors should wrap slightly around the sides to keep the entire front well protected.,n
+140,131,li,,n
+142,140,strong,Blocker glove.,y
+143,140,text,This glove should let the fingers grip the stick easily but be very thick and cover most of the forearm.,n
+144,131,li,,n
+146,144,strong,Catcher glove.,y
+147,144,text,"Similar to a first baseman's glove in baseball, catcher gloves should have thick padding over the wrist and palm and should come well up the forearm.",n
+149,85,h3,Safe Hockey Training,n
+151,85,p,"Players need to be comfortable on the ice before they can learn hockey skills. Take some skating lessons and practice how to stop, turn, fall, and get up from a fall. It's also helpful to know how to skate backward and to stop and turn while skating backward.",n
+153,85,p,"When you're ready for the ice, choose a team, league, and coach who emphasize safe, fair play . Find out whether the league allows checking. Checking is colliding with another player on purpose.",n
+157,85,p,"The coach should be at all practices and games, insist all players use the right protective gear, and enforce all league safety rules. General safety rules include:",n
+158,85,ul,,n
+160,158,li,Never hit another player on the head.,n
+162,158,li,Never check from behind.,n
+164,158,li,Never use the stick as a weapon.,n
+166,85,p,"To prevent injuries during practice, players should",n
+167,85,ul,,n
+169,167,li,Get a sports physical before starting any new sport.,n
+173,167,li,Always warm up and stretch before playing.,n
+177,167,li,"Learn and use proper techniques, including how to give and receive a check .",n
+179,167,li,"Stop training if they get hurt or feel pain. Hurt players must get checked by an athletic trainer, coach, doctor, or nurse before going back on the ice.",n
+181,167,li,"fluids before, during, and after games and practices.",n
+185,167,li,Know the team plan,n
+187,85,h3,Safe Play,n
+189,85,p,"During games, players should",n
+190,85,ul,,n
+192,190,li,Follow all safety rules used during practice.,n
+194,190,li,the game and follow them.,n
+196,190,li,the referees and not argue with their calls.,n
+198,190,li,"Stay calm if an opposing player seems to be trying to injure them on purpose. Let their coach and the referee know, and let them handle the situation.",n
+199,26,div,,n
+200,199,div,,n
+202,200,strong,Reviewed by,n
+203,200,text,"Amy W. Anzilotti, MD",n
+205,199,div,Date reviewed,n

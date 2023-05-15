@@ -1,0 +1,178 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,article,,n
+3,2,section,,n
+6,3,p,"Using the right home wine making supplies makes homemade wines of high quality. Whether you are making your first batch of dandelion wine or fruit wine , or you're an old pro, find out what you need for winemaking success.",n
+18,3,div,,n
+20,18,h2,Homemade Winemaking Supplies,n
+22,18,p,"All wine makers need a basic set of wine making supplies. These include ingredients and things you put in the wine, such as preservatives and fining agents as well as cleaning, bottling, and labeling supplies.",n
+37,3,div,,n
+38,37,cnx,,n
+40,38,cnx,,n
+46,40,cnx,PLAY,n
+47,40,cnx,,n
+127,47,cnx,Discover More,n
+167,47,cnx,,n
+175,167,cnx,Video Settings,n
+180,167,cnx,Full Screen,n
+181,167,cnx,,n
+184,181,cnx,About Connatix,n
+186,181,cnx,V167494,n
+339,38,cnx,,n
+341,339,cnx,Creative Mango Mocktail Drinks to Mix,n
+343,339,cnx,It Up | LoveToKnow,n
+346,37,cnx,,n
+347,346,cnx,,n
+353,347,cnx,1 or 1,n
+392,347,cnx,,n
+393,392,text,Skip,n
+395,392,cnx-span,Ad,n
+408,346,cnx,,n
+410,408,cnx,Continue watching,n
+413,408,cnx,after the ad,n
+415,346,cnx,,n
+419,415,cnx,Visit Advertiser website,n
+422,415,cnx,GO TO PAGE,n
+470,3,div,,n
+472,470,h3,Long Handled Bottle Brush,y
+474,470,p,"Clean, sanitized bottles are essential for safely making wines at home. Therefore, you'll need to be able to clean the bottle inside using a long-handled bottle brush .",n
+477,3,div,,n
+479,477,h3,No-Rinse Sanitizer,y
+481,477,p,"You'll also need a flavorless, odorless, non-toxic no-rinse sanitizer to remove bacteria from bottles and equipment before each batch of wine.",n
+484,3,div,,n
+486,484,h3,"Fruit, Juice, Concentrate, or a Winemaking Kit",y
+488,484,p,"Depending on the recipe you use , you'll need one of the above ingredients to create your wine. The fruit, juice, or concentrate contains sugar that reacts with yeast for natural fermentation.",n
+496,3,div,,n
+498,496,h3,Yeast,y
+500,496,p,"Yeast reacts with the sugar in your juice or concentrate to create fermentation, which is the basis of winemaking.",n
+502,3,div,,n
+504,502,h3,Yeast Nutrients,y
+506,502,p,"To assist the yeast in fermentation, yeast nutrient can help produce complete fermentation and speed up the process. Yeast nutrient contains nitrogen.",n
+509,3,div,,n
+511,509,h3,Pectic Enzyme,y
+513,509,p,"If you're making fruit wines you'll also also need pectic enzyme , which is used to clear up fruit haze that will make the wine cloudy. It can also help preserve the color of your juice.",n
+521,3,div,,n
+523,521,h3,Sulfur Dioxide,y
+525,521,p,"Campden tablets or potassium metabisulfite are used to preserve the wine, protecting it from oxidation.",n
+536,3,div,,n
+538,536,h3,pH Adjusters,y
+540,536,p,"For winces that can use a bit of acid, you may want to add tartaric acid. For wines with too much acid, calcium carbonate and potassium bicarbonate can be added. Wines typically need to have a pH of around 3 to 4.",n
+545,3,div,,n
+547,545,h3,Sweetener and Fermentation Inhibitor,y
+549,545,p,"If you're making a sweet wine or dessert wine , the best way to allow this to happen is to allow the wine to ferment fully and then reintroduce sweetness with a sugar solution and potassium sorbate. Potassium sorbate will keep the yeasts in the wine from fermenting the sugar you've added, but it won't stop the wine from fermenting if you add it earlier in the process.",n
+561,3,div,,n
+563,561,h3,Fining Agents or Filters,y
+565,561,p,"To create clear wines, you may need to filter the wine or use a fining agent . Bentonite and isinglass are both fining agents home winemakers might use to create clearer, better tasting wines.",n
+570,3,div,,n
+572,570,h3,Wine Barrels or Wood Chips,y
+574,570,p,"To give your wine toasty vanilla flavors, you'll need some type of wood. You can use wood barrels made for home winemaking or use wood chips to flavor your wines as they age.",n
+584,3,div,,n
+586,584,h3,Bottles,y
+588,584,p,"Use standard, sanitized 750 mL wine bottles to store your wine.",n
+596,3,div,,n
+598,596,h3,Corks,y
+600,596,p,Rubber corks are preferred over real corks because they are easy to clean and will not crumble in your batch of wine.,n
+605,3,div,,n
+607,605,h3,Wine Labels,y
+609,605,p,"You'll also want labels for your wine . Essential information for your label includes what the wine is, the bottling date, and the vintage along with any other information you'd like to add.",n
+619,3,div,,n
+621,619,h2,Homemade Wine Making Equipment List,y
+623,619,p,"Equipment includes all of the things you make the wine in, from airlocks to fermenters. Glass is always best for containers because it won't impart flavors to the wine. However, if you are new to winemaking and not sure if you'll enjoy the hobby, you can always start with plastic and move up into glass when you're sure it's a fit.",n
+624,3,div,,n
+626,624,h3,Crusher and Press,y
+628,624,p,"If you're starting with fresh fruit or grapes to make your wines, you'll need a fruit crusher and wine press . If you're working from juice or concentrate, this isn't necessary.",n
+636,3,div,,n
+638,636,h3,Fermenter or Carboys,y
+640,636,p,"Fermenters and carboys come in a variety of sizes. A 7.5 gallon fermenter will allow you to make 6 gallons of wine. Consider the size of the batch you plan to make to determine how big of a carboy or fermenter you'll need. It's best to have at least two containers, and possibly more depending on batch size.",n
+642,3,div,,n
+644,642,h3,Drilled Rubber Stoppers,y
+646,642,p,Drilled rubber stoppers called bungs stop the fermenter and carboys and allow you to attach an airlock.,n
+648,3,div,,n
+650,648,h3,Airlock,y
+652,648,p,the wine.,n
+659,3,div,,n
+661,659,h3,Hydrometer,y
+663,659,p,"Hydrometers measure the density of the wine, which is an essential measurement to determine where the wine is in its fermentation process and how much sugar remains.",n
+665,3,div,,n
+667,665,h3,Thermometer,y
+669,665,p,A thermometer is used while the wine ferments to ensure it is at the proper temperature,n
+677,3,div,,n
+679,677,h3,Racking Tubes and Siphons,y
+681,677,p,A racking tube with anti-sediment tip and siphon tube allows you to siphon the wine from one container to another while removing sediment.,n
+684,3,div,,n
+686,684,h3,Wine Bottle Filler,y
+688,684,p,"bottling your wines quick, efficient, and sanitary.",n
+691,3,div,,n
+693,691,h3,Wine Bottle Corker,y
+695,691,p,the wine.,n
+703,3,div,,n
+705,703,h2,Where to Find Home Winemaking Supplies,n
+707,703,p,Many towns and cities have wine making supplies nearby. You'll often find them in stores for home brewers or labeled as home brewing and wine making. There are plenty of online equipment suppliers as well.,n
+708,703,ul,,n
+710,708,li,HomeBrewIt.com has everything winemakers and home brewers need from wine making kits to chemicals and equipment.,n
+713,708,li,Label Peelers is a one-stop shop,n
+716,708,li,E.C. Kraus has ingredients and equipment for wine makers and home brewers. They also offer helpful wine making advice.,n
+719,708,li,Let's Do Wine and Buffalo Brew Shope offers equipment and advice,n
+722,708,li,"Midwest Supplies not only serves wine makers, but also brewers, kombucha makers, and hydroponics growers.",n
+729,3,div,,n
+731,729,h2,Wine Making Kits,n
+733,729,p,"A beginner wine maker may want to try their hand at making wine without purchasing a lot of wine making supplies. A wine making kit can help you do just that, usually for less than $50. If you are interested in trying your hand at this hobby without the investment, make a small batch with a kit. Kits are available where wine making supplies are sold. Most kits include everything you need to make a batch of wine including the containers, juice and yeast. All you need to supply is the time and a small area in a cool room in which to allow your brew to ferment.",n
+734,3,div,,n
+736,734,h2,Making Wine Is a Great Hobby,n
+738,734,p,"Once you have collected your wine making supplies, you'll want to try out a variety of wine recipes. Wine making can be a great hobby for people who love trying a variety of wines. The process is relatively simple and many people find that it gets even easier after they have made a few batches. After the initial investment of basic wine making supplies, this hobby is an inexpensive one. Why not get started by making a batch today and begin enjoying the fruits of your labor?",n
+739,2,footer,,n
+741,739,div,,n
+743,741,span,Was this page useful?,n
+746,741,label,Yes,n
+749,741,label,No,n
+751,741,div,,n
+753,751,div,Please help us improve. Why wasn't this page useful?,n
+756,751,label,It was not the topic I was looking for,n
+759,751,label,It didn't have enough information,n
+762,751,label,It had errors or incorrect information,n
+765,751,label,It didn't seem trustworthy,n
+768,751,label,Something else,n
+770,751,label,Additional details,n
+774,751,button,Cancel,n
+780,739,div,Copied!,n
+792,2,section,,n
+795,792,div,Related and Popular,n
+797,792,div,,n
+798,797,div,,n
+799,798,div,,n
+802,799,div,,n
+804,802,div,INK MEETS PAPER Is on a Mission to Spread Love Through the Written Word,n
+807,802,div,By LTK Studios,n
+810,799,div,,n
+812,810,div,Golde,n
+815,810,div,By LTK Studios,n
+816,798,div,,n
+821,816,div,50 Fun Wine Facts,n
+832,816,div,,n
+834,832,div,Fun Uses,n
+837,832,div,By Allison Freeman,n
+838,797,div,,n
+839,838,div,,n
+844,839,div,Guide to Hosting an Unforgettable Wine Tasting Party,n
+852,839,div,What Wines Can You Cook With? Best Red and White Options,n
+861,838,div,,n
+866,861,div,"How Long Does Boxed Wine Last, Opened or Unopened?",n
+874,861,div,How Much Champagne Should You Buy,n
+883,792,div,,n
+884,883,div,,n
+885,884,div,,n
+890,885,div,Wine in a Bottle,n
+903,885,div,What Is Dry Wine? The Science Behind It,n
+907,884,div,,n
+912,907,div,Guide to Sugar in Champagne and Sparkling Wine,n
+920,907,div,Alcohol Servings in a Bottle of Wine,n
+929,883,div,,n
+930,929,div,,n
+935,930,div,This Favorite Drink,n
+943,930,div,"Guide to Dom Pérignon, the Ultimate Champagne",n
+947,929,div,,n
+950,947,div,,n
+952,950,div,5 DIY Cellar Plans and Tips,n
+955,950,div,By Sue-Lynn Moses,n
+965,947,div,Beaujolais Nouveau Wine Guide,n
+975,2,div,© 2022 LoveToKnow Media. All rights reserved.,n

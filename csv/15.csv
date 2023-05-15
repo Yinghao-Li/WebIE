@@ -1,0 +1,43 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+7,0,div,,n
+9,7,p,"As summer closes in, its time to get your surf gear in order. Here’s our picks for this summer’s essential surfing gear.",n
+10,7,p,,n
+11,10,text,Oakley Blade Long Sleeve Compression Shirt,y
+14,10,br,"The Long Sleeve Blade Compression Top is designed to keep the avid surfer comfortable during high–performance surfing sessions. It features body-mapped seams and quick-drying stretch fabric that not only allows for full range of motion in the water, but also hugs the body to minimize drag when you’re on your board.",n
+15,7,p,,n
+16,15,text,Neil Diamond Shortboard – Rusty Surfboards,y
+19,15,br,"This high-performance shortboard by Rusty Surfboards features a full template, wide nose, a single concave design, and an angular diamond tail that gives the board a shorter feel for easier turns in knee high to head high surfing conditions.",n
+20,7,p,,n
+21,20,text,Sony Action Cam,y
+24,20,br,"If the GoPro Hero 3 is the Coca-Cola of action cameras, then Sony’s Action Cam is an ice cold Pepsi waiting to capture your best POV surf footage. It shoots in High definition 1080P and comes with an ultra-wide angle Zeiss Vario-Tessar lens, and built-in WiFi that allows you to connect to your smart device for transferring and sharing footage as well as controlling the camera remotely.",n
+25,7,p,,n
+26,25,text,Quiksilver Diffuse Bboardshorts,y
+29,25,br,"Designed for confort as well as performance, the Diffuse Boardshorts feature a quick-drying recycled polyester and spandex 4-way stretch construction, a yoke waistband, kissing welt side pockets, and stretch stitch bottom hems.",n
+30,7,p,,n
+31,30,text,Oakley Polarized Half Jacket 2.0 XL Sunglasses,y
+34,30,br,Frames,n
+36,30,br,Lenses,n
+37,7,p,,n
+38,37,text,Hurley Icon Triblend Tee,y
+41,37,br,"This premium fit polyester, cotton, and rayon tri-blend t-shirt from Hurley features the company’s icon loop label screen printed on the front. A classic look for hitting the beach that never goes out of style.",n
+42,7,p,,n
+43,42,text,Mr. Zogs Sex Wax,y
+46,42,br,"The preferred surfboard wax of many high-performance surfers for over three decades, Mr. Zogs Sex Wax goes on smooth and can be used for both base and top coats. Available in four different water temperatures and four different scents including coconut, strawberry, grape, and pineapple.",n
+47,7,p,,n
+48,47,text,Enduro Big Wave Surfboard Leash,y
+51,47,br,"When you wipe-out trying to rip a ten footer, this six foot leash will prevent the ocean from claiming your board.",n
+52,7,p,,n
+53,52,text,Surf Science,y
+56,52,br,"Surfing is a science. The best to ever conquer this sport know this. Surf Science is a surfer’s handbook that covers the science of waves, how to predict the surf, and effectively bridges the gap between surfing books and wave science.",n
+57,7,p,,n
+58,57,text,The Supertide Watch by Nixon,y
+61,57,br,"Nixon’s Supertide Watch was designed with the surfer in mind. Along with keeping time, The Supertide Watch syncs with with the rhythm of the tide you’re currently surfing, comes pre-programmed with tide charts and sunrise data for over 230 beaches, and provides future tide predictions 48 hours in advance—All on a high-resolution display screen.",n
+64,7,p,Disclosure,n
+78,7,div,,n
+83,78,p,Join The List.,n
+88,78,p,Subscribe and get the latest goods straight to your inbox.,n
+96,78,div,Subscribe,n
+106,0,div,,n
+108,106,h3,Related Posts,n
+115,106,button,More,n

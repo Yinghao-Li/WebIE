@@ -1,0 +1,103 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+6,5,ul,,n
+8,6,li,Departments and Offices,n
+9,6,li,,n
+11,9,button,…,n
+12,9,div,,n
+14,12,li,Residence Life,n
+16,12,li,Frequently Asked Questions,n
+19,6,li,Freshman,n
+21,6,li,Items to Bring,n
+22,5,nav,,n
+26,22,span,Page Menu,n
+29,22,div,,n
+31,29,span,Facebook,n
+33,29,span,Twitter,n
+35,29,span,YouTube,n
+37,29,span,Instagram,n
+41,5,h6,Linens,y
+42,5,ul,,n
+44,42,li,"bath, hand towels and washcloths",y
+46,42,li,twin sheets and pillow cases . We suggest twin extra long sheets,y
+48,42,li,mattress pad,y
+50,42,li,blankets or comforter,y
+52,42,li,pillow,y
+54,5,h6,Laundry and Clothing Care,y
+56,5,p,"We currently use high efficiency front loading washers in the residence halls. Manufacturer's guidelines recommend high efficiency liquid detergent instead of powdered detergent. Detergent ‘cakes' should not be used in these machines. Look for the ""he"" symbol.",n
+57,5,ul,,n
+59,57,li,fabric softener and stain remover,y
+61,57,li,laundry basket or laundry bag,y
+63,57,li,hangers,y
+65,57,li,quarters,y
+67,57,li,drying rack,y
+69,57,li,iron and ironing board,y
+71,5,h6,Personal Items,y
+72,5,ul,,n
+74,72,li,toothbrush and toothpaste,y
+76,72,li,brush and comb,y
+78,72,li,shaving items,y
+80,72,li,hair styling products or appliances,y
+82,72,li,shampoo and conditioner,y
+84,72,li,bath soap,y
+86,72,li,basket to carry toiletries,y
+88,72,li,shower shoes,y
+90,5,h6,Decorations,y
+91,5,ul,,n
+93,91,li,photos,y
+95,91,li,calendar,y
+97,91,li,plants,y
+99,91,li,small area rug,y
+101,91,li,"desk lamp, clip-on light",y
+103,5,h6,Kitchen Items,y
+106,5,ul,,n
+108,106,li,"plates, bowls",y
+110,106,li,"cups, glasses",y
+112,106,li,serving dishes,y
+114,106,li,"cookie sheet, cake pan",y
+116,106,li,cutting board,y
+118,106,li,can opener,y
+120,106,li,vegetable peeler,y
+122,106,li,spatula,y
+124,106,li,mixing bowl,y
+126,106,li,measuring cups and spoons,y
+128,106,li,dish towels,y
+130,106,li,pot holders,y
+132,106,li,thermostatically controlled coffee maker,y
+134,106,li,hand mixer,y
+136,106,li,toaster or toaster oven,y
+138,5,h6,Cleaning Supplies,y
+139,5,ul,,n
+141,139,li,bathroom cleaner,y
+143,139,li,dish soap,y
+145,139,li,dusting cloth,y
+147,139,li,"sponges, dish scrubber",y
+149,139,li,"mop, broom, dust pan",y
+151,139,li,dish-drying rack,y
+153,5,h6,Other items,y
+154,5,ul,,n
+156,154,li,flashlight and batteries,y
+158,154,li,A few basic tools,y
+160,154,li,surge protectors,y
+164,154,li,sewing kit,y
+166,154,li,first-aid supplies,y
+168,154,li,medicine,y
+170,154,li,alarm clock,y
+172,154,li,waste paper basket or trash can,y
+174,154,li,"mug, glass, plate, silverware, pan",y
+176,154,li,change,y
+178,154,li,television,y
+180,154,li,Blu-Ray or DVD player,y
+182,154,li,headphones,y
+184,154,li,small refrigerator no larger than 4.5 cubic feet and Energy Star rated. Microfrigerators may also be rented for the year by contacting Dorms Direct,y
+187,154,li,lofts may be rented,y
+190,154,li,microwave oven,y
+192,154,li,small vacuum,y
+194,154,li,DVDs or Blu-Rays,y
+196,154,li,printer,y
+198,154,li,bike and lock,y
+200,154,li,sleeping bag,y
+202,154,li,electric fan,y
+204,154,li,"floor, table lamps",y
+206,154,li,full-length mirror,y

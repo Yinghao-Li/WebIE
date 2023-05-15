@@ -1,0 +1,137 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+4,2,p,"When I have friends over for a mixing session, some of my mates are really into their music and always say to me “I’d love to know how to DJ”. Half the battle is knowing how to DJ, but there’s a decision that needs to be made alongside that. That is to know what equipment you need to be a DJ. With DJ equipment technology advancing over time it can become slightly challenging to know where to start.",n
+6,2,p,What Equipment Do You Need to Be a DJ?,n
+13,2,p,"A typical DJ setup consists of headphones, mixer, turntables or DJ controller, speakers and accessories including USB pens or external hard drives. Depending on the physical space available for equipment, budget to spend and format of music can influence the type of DJ equipment that is required.",n
+15,2,p,"Now let’s explore the different setups that you can adopt to get you underway with your mixing. My advice for DJ setups will be amazing for DJs just starting out, also equally as important for DJs looking to upgrade their DJ equipment setups. There’s a lot of different equipment types to consider but Beatmatch Guru is here to help.",n
+21,2,h2,a DJ Setup,n
+23,2,h3,Input Devices,n
+24,2,ul,,n
+26,24,li,Turntables,n
+28,24,li,DJ Controller,n
+30,24,li,CDJs or XDJs,n
+32,2,p,,n
+33,32,text,This is,n
+35,32,strong,decision number 1,n
+36,32,text,"for any DJ looking to start out. Let’s face it, the technology for DJing has become highly digital and analogue has become rather redundant in its pure form of DJing equipment. Having said that it’s possible to DJ with digital time-code vinyls for the same authentic analogue feel when mixing. We will touch more on Digital Vinyl System DJ equipment later in this article.",n
+41,2,p,,n
+43,41,strong,On a budget?,n
+44,41,text,a,n
+46,41,strong,DJ controller,n
+47,41,text,". This bit of DJ kit is remarkably cheap and a great bit of DJ equipment to break into DJing. The entry price for a DJ controller can cost as little as £80-£150, actually amazing for the price for entry level beginner DJ . Added noteworthy point here is that if you’re just looking to dabble in house parties etc then this is a great way to invest your money .",n
+52,2,p,,n
+54,52,strong,DJing as a career?,n
+55,52,text,Then I’d suggest to consider investing in a more sophisticated DJ setup and equipment that can help you understand your way around “industry standard” club DJ equipment.,n
+62,2,p,,n
+63,62,text,A note on your,n
+65,62,strong,DJing goals and portability,n
+66,62,text,"of DJ equipment. Really get to know your what you want to get out of your DJing. If your sole purpose is to DJ at home and no-where else, then the world is your oyster when it comes to DJ equipment. If you’re looking to become a mobile DJ, wedding DJ or club DJ, then your decision might need to sway towards specific equipment.",n
+67,2,ul,,n
+68,67,li,,n
+70,68,strong,CDJs,y
+71,68,text,"are very common in music venues as standard which are compatible with laptops, therefore not always relying on CDs to play music from. If buying second hand then look out for digital music inputs such as USB ports, these have nearly become industry standard for purchasing new CDJs.",n
+72,67,li,,n
+74,72,strong,XDJs,y
+75,72,text,"are the evolved format of CDJs that enable you to purely DJ with music stored on a laptop, USB drive or pen. Exactly the same layout as CDJs, just minus the CD input.",n
+76,67,li,,n
+78,76,strong,Advanced DJ Controllers,y
+79,76,text,can allow you to become a performer and more than just a mix and blend type DJ. The really great DJ controllers offer beat pads and FX buttons to add character to your DJ sets. Beat pads allow you to loop sections of songs giving that extra special edge to a mix e.g. playing samples of vocals. You’ll need a laptop to connect to with DJ software installed to DJ with a controller.,n
+80,67,li,,n
+82,80,strong,Turntables,y
+83,80,text,"Turntables can allow you to DJ with traditional record vinyls . To allow you to DJ with vinyls with digital music, you’ll need to get hold of a laptop and DVS equipment.",n
+89,2,h3,Mixers,y
+90,2,ul,,n
+92,90,li,2-Channel Mixer,y
+94,90,li,4-Channel Mixer,y
+96,90,li,DVS enabled Mixer,y
+98,2,p,"Mixers can be bought with 2-Channels, 4-Channels or more. Each channel allows more connections to be made to input devices, such as turntables, CDJ or XDJs, samplers etc. Generally when you’re starting out, a 2-Channel mixer can suffice as these mixers can be lowest in price. 4-Channel mixers are great if you’re looking to expand upon your DJ setup in the future. To be fair the price of some 4-Channel mixers can be very competitive at around £150.",n
+99,2,ul,,n
+100,99,li,,n
+102,100,strong,Basic mixers,y
+103,100,text,"usually include EQ filter knobs, crossfader, trim or gain controls and a master volume. This will do the job for connecting a couple of input devices, such as CDJs for example. A great way to get setup to learn the basics of mixing techniques and beat matching.",n
+106,99,li,,n
+108,106,strong,Advanced DJ mixers,y
+109,106,text,allow you to add FX to either the master sound being output or in some cases FX can be applied to each channel. USB inputs to allow you to access digital music or record your mixes. These are all great features to start DJing with more flair and performance.,n
+110,99,li,,n
+112,110,strong,DVS enabled mixers,y
+113,110,text,"contain an audio interface within the mixer. This allows DJs to connect to a laptop with DJ software, such as Serato . This negates the need for purchasing a separate audio interface, saving you space and you could argue more value for money as a mixer.",n
+117,2,h3,Audio Interface,y
+119,2,p,"Denon, Rane and Traktor are brands of audio interfaces. This type of DJ equipment allows you to connect your mixer to a laptop. This gives DJs control over mixing digital music from a laptop. As mentioned above, this setup gives your the option to DJ with record vinyl turntables, CDJs, XDJs all as input devices.",n
+121,2,p,NOTE,n
+126,2,h3,Laptop and DJ Software,y
+128,2,p,Laptops feature a lot in DJ setups these days. To allow you to DJ with a laptop you’ll need DJ software to be installed and be compatible with the DJ equipment that you are using.,n
+134,2,p,"For example, Serato DJ software is compatible with Rane audio interface, therefore allowing you to connect to DJ turntables and mixer. We will go into more example DJ setups that require a laptop and DJ software later in the article.",n
+136,2,p,My advice is to have a fast laptop with great RAM and processor speed. Otherwise you’re just going to get frustrated with a slow or delayed loading software.,n
+138,2,h3,Speakers,y
+140,2,p,"Speakers are really important to compliment your setup. If you want save some space then I would highly recommend looking to purchase pre-amp speakers. You won’t need to buy an amp to plug into from the mixer and speakers. Simply power up your speakers with a kettle power lead cable then connect your speakers to the mixer, job done!",n
+146,2,h3,Cables and Adaptors,y
+148,2,p,There are different types of cables that you’ll need to at least know about when looking to invest in different DJ setups. Examples of different cables to know about include:,n
+151,2,ul,,n
+152,151,li,,n
+154,152,strong,2 RCA Phono cables –,y
+155,152,text,to connect audio interface,n
+156,151,li,,n
+158,156,strong,2 RCA,y
+160,156,strong,Phono Plugs to Stereo Jack,y
+161,156,text,– connect mixer or controller to speakers,n
+162,151,li,,n
+164,162,strong,USB cable,y
+165,162,text,–,n
+166,151,li,,n
+168,166,strong,Power leads,y
+169,166,text,– to power up your equipment,n
+172,151,li,Headphone mini-jack adaptor,y
+174,2,p,In all fairness it’s a common occurrence that cables and some adaptors are included with the DJ equipment that you purchase. So there’s not too much to worry about in terms of extra purchasing for your setup. The point here is to know the definitions of different cables and where they come into play within certain DJ setups.,n
+176,2,h3,Headphones,y
+178,2,p,"Get some decent headphones that will stand the test of time. My advice here would be to go to a shop to test them out and see how you get on comfort wise. Get headphones that fit well on your head and that are not going to hurt your ears after a long period of time. Sennheiser, AKG and Pioneer all offer great options for DJ headphones.",n
+180,2,h2,DJ Equipment Setup Options,n
+182,2,h3,Pure vinyl “old school” option,n
+184,2,h4,Vinyl Turntables + Mixer,n
+215,2,h3,Hybrid Digital Analogue “DVS” Option,n
+220,2,ul,,n
+228,220,li,Audio Interface,n
+230,220,li,DJ Software + 2 x time-code vinyls,n
+244,2,p,The DVS audio interface allows for playing live at venues that will likely have turntables and mixer. All you’ll need to do is plug in the interface to the mixer giving control of music from DJ software on a laptop.,n
+246,2,h3,CDJ Turntable Lovers Digital DJ Option,n
+248,2,h4,[CDJs or XDJ + Mixer + Laptop,n
+257,2,ul,,n
+259,257,li,2 x CDJ or XDJ Turntables,n
+261,257,li,1 x Mixer,n
+274,2,h3,Digital DJ Controller Option,n
+276,2,h4,[DJ Controller + Laptop,n
+282,2,ul,,n
+284,282,li,1 x DJ Controller,n
+286,282,li,1 x Laptop,n
+290,282,li,DJ Software,n
+300,2,h2,DJ Setup Price Lists,n
+302,2,p,Note,n
+304,2,h3,Budget DJ Setup,n
+305,2,ul,,n
+307,305,li,£68 – DJ Controller,n
+310,305,li,£85 – Speakers,n
+313,305,li,£8 – Headphones,n
+316,305,li,£10 – Phono Cables,n
+320,2,h4,TOTAL,n
+324,2,h3,Advanced DJ Setup,n
+325,2,ul,,n
+327,325,li,"£1,349 – DJ Controller",n
+330,325,li,2 x £202 – Speakers,n
+333,325,li,£10 – Phono Cables or Phono to Jack,n
+335,325,li,£330 – Headphones,n
+340,2,h4,TOTAL,n
+343,2,h2,Related Questions,n
+346,2,p,Do you need a license to DJ?,n
+348,2,p,Music performance is usually covered by music venues such as clubs or bars and usually have PRS for Music and PPL which covers DJs to play music. In some cases where the venue such as an office or single events might require a license from PRS for Music and PPL. A ProDub licence to cover you for copyright when transferring music to different formats is required.,n
+351,2,p,How much does DJ equipment cost?,n
+357,2,p,"Basic beginner DJ equipment, including DJ Controller, DJ Mixer , or Headphones can be purchased for around priced £50 to £150 per item. Advanced DJ equipment can increase dramatically in price to around £1000 to £2000.",n
+363,2,p,How much should a DJ get paid?,n
+365,2,p,"Local DJs playing in a bar can earn as little as £25 to £100 per set. Wedding DJs can earn around £500 per DJ set . Junior level Club DJs can earn around £250-£2500 per DJ set depending on size of club and experience. Advanced level DJs around £2500 to £20,000 a DJ set, these DJs play festivals, stadium and large clubs.",n
+378,0,h3,Recent Posts,n
+379,0,div,,n
+380,379,article,,n
+383,380,span,link to How Do DJs Make Animated Visuals,n
+387,380,p,"Taking your DJing to the next level might be on your agenda right now. Using animated visuals for such things as live streaming , or supporting your live DJing can really...",n
+390,379,article,,n
+393,390,span,link to LALAL.AI Review - Vocal Removal and Instrumentals,n
+397,390,p,"Are you looking for a tool to get just the vocals or an instrumental of a music track? It might be the case there are no vocal tracks out there to purchase and DJ with, which is frustrating...",n

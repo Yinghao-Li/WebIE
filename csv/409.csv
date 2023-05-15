@@ -1,0 +1,94 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,article,,n
+3,2,div,,n
+9,3,h1,Basic Equipment You Need,n
+11,3,div,,n
+12,11,div,,n
+13,12,div,,n
+15,13,span,By,n
+16,13,div,,n
+17,16,text,Katherine Blocksdorf,n
+18,16,div,,n
+19,18,div,,n
+21,19,div,Katherine Blocksdorf,n
+23,19,div,"Kathy Blocksdorf is an equine expert and writer with over three decades of experience in training and riding horses. She was raised caring for horses, rehabilitated rescue horses, shows her own horses, and rides long distance.",n
+27,18,div,Editorial Process,n
+29,12,div,Updated on 12 or 02 or 19,n
+36,11,div,,n
+46,36,div,"Dr. Anna O'Brien, DVM, is an accomplished veterinarian and award-winning writer with more than a decade of experience treating livestock, domestic animals, and exotic animals. She has won the Maxwell Medallion from the Dog Writers Association of America. Dr. O'Brien is part of The Spruce Pets' veterinary review board.",n
+50,36,div,Veterinary Review Board,n
+55,2,div,,n
+57,55,p,"Once you get a horse , you'll need a few basic pieces of equipment so you can care for it properly, and of course, enjoy the activity that you bought it for, whether that be riding or driving. Many of the things you may already own if you have a country property. The pitchforks, wheelbarrows, and shovels used for cleaning up after horses are the same as you what you would buy in any hardware store for gardening or other yard work. There are some specialty items you'll need to pick up at your local tack shops, such as special brushes and the tack for riding and driving.",n
+62,55,p,"Although bits, bridles, and saddles might be something you're excited to acquire before you bring your horse home , it might be best to wait. That way, you'll be able to custom fit your horse, keeping it comfortable and happy. Other items like brushes, buckets, and lead ropes can be purchased well ahead of time, so they’re waiting for your horse when it arrives. You should also have several weeks' supply of hay and any supplements or grain you decide to feed your horse. Your fences and stable should be ready. You’ll need some type of bedding if your horse will be stabled at all, and of course, you’ll need a good supply of fresh water.",n
+70,55,div,,n
+72,70,h3,Warning,n
+75,70,p,"Some of the items, like feed and water troughs, can be made of re-purposed buckets and barrels. Just be sure no toxic substances were stored in them and that they're well cleaned out and have no sharp edges.",n
+77,55,p,Here are the items you will need if you plan to care for and use your horse for riding and driving.,n
+88,55,h2,Feeding Equipment,y
+89,55,ul,,n
+91,89,li,Feed pan,y
+93,89,li,Feed container to hold feed,y
+95,89,li,Water trough or large buckets,y
+97,89,li,Water heater or heated buckets if you live in an area that experiences freezing temperatures,y
+102,55,h2,Barn and Pasture Maintenance,y
+103,55,ul,,n
+105,103,li,Pitchfork,y
+107,103,li,Stable broom,y
+109,103,li,Wheelbarrow,y
+111,103,li,Manure fork,y
+113,103,li,Fire extinguisher,y
+115,103,li,Spare lightbulbs,y
+117,103,li,Extension cord,y
+119,103,li,"Secure, dry place to store hay or feed or tack or supplies",y
+124,55,h2,Handling and Grooming,y
+125,55,ul,,n
+127,125,li,Halter,y
+129,125,li,Lead ropes,y
+131,125,li,Hoof pick,y
+133,125,li,Curry comb,y
+135,125,li,Body brush,y
+137,125,li,Mane comb,y
+139,125,li,Cloth,y
+141,125,li,Fly repellent,y
+143,125,li,Blankets,y
+145,125,li,Sweat sheet if needed,y
+150,55,h2,Riding,n
+152,55,p,"You’ll probably decide to ride either English or western , and this will help you decide what type of tack to buy. To help with saddle fit, you should probably buy a saddle after you’ve brought your horse home, or had a chance to try any saddle you’re thinking of buying on the horse.",n
+156,55,ul,,n
+158,156,li,Saddle with girth or cinch,y
+160,156,li,A saddle pad or blanket,y
+162,156,li,Bridle and bit,y
+166,156,li,Stirrups and stirrup leathers,y
+168,156,li,Optional,n
+170,156,li,Optional,n
+175,55,h2,Driving,n
+177,55,p,"There are several types of harnesses, both light and heavy horse. You’ll need to learn which is the right type for the driving you wish to do.",n
+179,55,ul,,n
+181,179,li,Harness with bridle,y
+183,179,li,"Safe, sturdy vehicle",y
+185,179,li,Driving whip,y
+192,55,h2,Emergency Care,y
+194,55,p,Emergency information and gear should be posted or stored in a place that is easy to find if there is an emergency.,n
+196,55,ul,,n
+198,196,li,"emergency numbers, including veterinarian, farrier, local animal control",y
+200,196,li,First-aid kit,y
+243,0,div,,n
+244,243,ul,,n
+253,244,li,Wondered What Horse Tack Is? Here's a Definition,n
+263,244,li,Learn How to Identify and Treat Lice on Horses,n
+273,244,li,Identify and Treat Equine Mange,n
+283,244,li,Combating and Healing Your Horse's Saddle Sores,n
+293,244,li,How to Treat Papillomas in Horses,n
+303,244,li,6 Easy Steps,n
+313,244,li,"No, the Horse Doesn't Do All the Work in Horseback Riding",n
+323,244,li,What You Need to Know About Treeless Saddles,n
+327,243,ul,,n
+336,327,li,Have Fun Over the Long Haul with Long Distance Endurance Riding,n
+346,327,li,What You Need to Know About Curb Chains and Straps,n
+356,327,li,Tips For Choosing Between Leather or Synthetic Tack,n
+366,327,li,Design Your New Horse Stable,n
+376,327,li,How to Tie Your Horse or Pony Safely,n
+386,327,li,What are Cob Horses?,n
+396,327,li,English or Western,n
+406,327,li,How to Ride a Horse Safely,n

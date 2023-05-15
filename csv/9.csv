@@ -1,0 +1,431 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+17,0,div,,n
+36,17,h1,Home Theater and Stereo Systems,n
+38,17,div,,n
+46,38,div,,n
+48,46,div,Categories and Filters,n
+49,46,div,,n
+53,49,h3,Get it fast,n
+56,49,div,,n
+57,56,legend,,n
+59,57,strong,Store Pickup,n
+61,57,span,at,n
+64,57,span,Beaverton,n
+67,56,div,Same-day pickup,n
+70,49,div,,n
+71,70,legend,,n
+73,71,strong,Shipping,n
+75,71,span,to,n
+77,71,button,97201,n
+80,70,div,Same-day shipping,n
+84,46,div,,n
+87,84,div,,n
+90,87,strong,Availability,n
+95,87,li,Stock Items,n
+98,84,div,,n
+100,98,section,,n
+103,100,strong,Brand,n
+106,100,ul,,n
+110,106,li,Bose,n
+118,106,li,Yamaha,n
+126,106,li,Polk Audio,n
+134,106,li,Definitive Technology,n
+142,106,li,VIZIO,n
+150,106,li,MartinLogan,n
+158,106,li,Furrion,n
+166,106,li,Kaleidescape,n
+175,98,section,,n
+178,175,strong,Price,n
+183,175,div,to,n
+186,175,ul,,n
+190,186,li,$75 - $99.99,n
+198,186,li,$100 - $149.99,n
+206,186,li,$150 - $199.99,n
+214,186,li,$250 - $499.99,n
+222,186,li,$500 - $749.99,n
+230,186,li,$750 - $999.99,n
+238,186,li,$2000 - $2499.99,n
+246,186,li,$3000 and Up,n
+252,98,section,,n
+255,252,strong,Features,n
+256,252,ul,,n
+260,256,li,Dolby Atmos,n
+268,256,li,Bluetooth,n
+276,256,li,Wireless Subwoofer Connectivity,n
+284,256,li,Radio Tuner,n
+292,256,li,4K UHD Video Pass Through,n
+300,256,li,Remote Control Included,n
+308,256,li,Speaker Included,n
+325,98,section,,n
+328,325,strong,Channels,n
+329,325,ul,,n
+341,329,li,0,n
+349,329,li,2,n
+357,329,li,1,n
+373,329,li,1.2,n
+381,329,li,Not Available,n
+387,98,section,,n
+390,387,strong,Customers Rated Highly For,n
+394,387,ul,,n
+398,394,li,Surround sound,n
+406,394,li,Sound quality,n
+414,394,li,Subwoofer,n
+422,394,li,For music,n
+430,394,li,For tv,n
+438,394,li,Bass,n
+446,394,li,Movies,n
+454,394,li,use,n
+463,98,section,,n
+466,463,strong,Customer Rating,n
+470,463,ul,,n
+474,470,li,Top-Rated,n
+496,470,li,4 and Up,n
+507,470,li,3 and Up,n
+518,470,li,2 and Up,n
+529,470,li,1 and Up,n
+535,98,section,,n
+538,535,strong,Speakers,n
+543,535,li,1,n
+573,98,section,,n
+576,573,strong,Current Deals,n
+577,573,ul,,n
+581,577,li,On Sale,n
+589,577,li,Free Shipping Eligible,n
+595,98,section,,n
+598,595,strong,Color,n
+599,595,ul,,n
+603,599,li,White,n
+611,599,li,Black,n
+619,599,li,Gold,n
+625,98,section,,n
+628,625,strong,Discount,n
+633,625,li,All Discounted Items,n
+639,98,section,,n
+642,639,strong,Inputs Outputs,n
+643,639,ul,,n
+647,643,li,USB Port,n
+655,643,li,Headphone Jack,n
+663,643,li,USB Input,n
+671,643,li,Auxiliary Input,n
+677,98,section,,n
+680,677,strong,Subwoofer Size,n
+681,677,ul,,n
+685,681,li,98 inches,n
+693,681,li,3 inches,n
+701,681,li,5 inches,n
+709,681,li,5 inches,n
+717,681,li,8 inches,n
+725,681,li,10 inches,n
+731,98,section,,n
+734,731,strong,Included Components,n
+735,731,ul,,n
+739,735,li,Remote Control,y
+747,735,li,Wireless Subwoofer,y
+755,735,li,Cable,y
+763,735,li,Speaker,y
+777,98,section,,n
+780,777,strong,Works With,n
+784,777,ul,,n
+788,784,li,Amazon Alexa,n
+796,784,li,Google Assistant,n
+804,784,li,Siri,n
+812,784,li,Apple HomeKit,n
+820,784,li,SmartThings,n
+826,98,section,,n
+829,826,strong,Collection,n
+834,826,li,Magnolia,n
+840,98,section,,n
+843,840,strong,Speaker Design,n
+844,840,ul,,n
+848,844,li,In-Wall,n
+856,844,li,Bookshelf,n
+864,844,li,Floorstanding,n
+872,844,li,Center channel,n
+880,844,li,Landscape,n
+888,844,li,Satellite,n
+894,98,section,,n
+897,894,strong,Playback Format,n
+898,894,ul,,n
+902,898,li,MP3,n
+910,898,li,CD,n
+918,898,li,MP4,n
+924,98,section,,n
+927,924,strong,Condition,n
+928,924,ul,,n
+932,928,li,New,n
+940,928,li,Open-Box,n
+946,98,section,,n
+949,946,strong,Maximum RMS Power,n
+953,946,ul,,n
+957,953,li,Less than 50 Watts,n
+965,953,li,Watts,n
+973,953,li,75 Watts or More,n
+979,98,section,,n
+982,979,strong,Enclosure Type,n
+983,979,ul,,n
+987,983,li,Bass reflex,n
+995,983,li,Sealed,n
+1021,38,div,,n
+1023,1021,div,Results,n
+1030,1021,div,,n
+1032,1030,span,Sort By,n
+1034,1030,div,,n
+1036,1034,option,Best Selling,n
+1038,1034,option,Price Low to High,n
+1040,1034,option,Price High to Low,n
+1042,1034,option,Customer Rating,n
+1044,1034,option,New Arrivals,n
+1046,1034,option,Brand A-Z,n
+1048,1034,option,Brand Z-A,n
+1056,1021,p,"Oops, something went wrong.",n
+1057,1021,div,,n
+1059,1057,div,Main Results,n
+1060,1057,ol,,n
+1071,1060,li,,n
+1072,1071,div,,n
+1078,1072,h4,VIZIO - 2.1-Channel V-Series Home Theater Sound Bar with DTS Virtual:X and Wireless Subwoofer - Black,n
+1079,1072,div,,n
+1080,1079,div,,n
+1085,1080,div,V21t-J8,n
+1090,1080,div,6471428,n
+1094,1079,p,5 stars with 303 reviews,n
+1121,1072,p,Act Fast – Only 3 left at your store!,n
+1161,1071,div,,n
+1172,1161,div,,n
+1174,1172,span,$159.99,n
+1176,1172,span,Your price,n
+1207,1161,div,from $95.99,n
+1213,1060,li,,n
+1214,1213,div,,n
+1220,1214,h4,VIZIO - 2.0-Channel V-Series Home Theater Sound Bar with DTS Virtual:X - Black,n
+1221,1214,div,,n
+1222,1221,div,,n
+1227,1222,div,V20-J8,n
+1232,1222,div,6471427,n
+1236,1221,p,5 stars with 310 reviews,n
+1303,1213,div,,n
+1314,1303,div,,n
+1316,1314,span,$119.99,n
+1318,1314,span,Your price,n
+1349,1303,div,from $71.99,n
+1355,1060,li,,n
+1356,1355,div,,n
+1362,1356,h4,Yamaha - YHT-5960 Premium All-in-One Home Theater System with 8K HDMI and Wi-Fi - Black,n
+1363,1356,div,,n
+1364,1363,div,,n
+1369,1364,div,YHT-5960UBL,n
+1374,1364,div,6464936,n
+1378,1363,p,5 stars with 81 reviews,n
+1437,1355,div,,n
+1448,1437,div,,n
+1450,1448,span,$679.99,n
+1452,1448,span,Your price,n
+1483,1437,div,from $407.99,n
+1489,1060,li,,n
+1490,1489,div,,n
+1496,1490,h4,Yamaha - 5.1-Channel 4K Home Theater Speaker System with Powered Subwoofer and Bluetooth Streaming - Black,n
+1497,1490,div,,n
+1498,1497,div,,n
+1503,1498,div,YHT-4950UBL,n
+1508,1498,div,6352589,n
+1512,1497,p,5 stars with 871 reviews,n
+1526,1490,div,,n
+1529,1526,div,Get it today nearby,n
+1532,1526,div,,n
+1537,1532,p,Order now,n
+1539,1532,p,Available today at a location 11 miles away,n
+1551,1526,p,"Get it by Tue, Jun 28",n
+1571,1489,div,,n
+1582,1571,div,,n
+1584,1582,span,$549.99,n
+1586,1582,span,Your price,n
+1617,1571,div,from $433.99,n
+1624,1060,li,,n
+1630,1624,h4,Furrion - 70W 2.1 Outdoor Soundbar with Built-in Subwoofer - Black,n
+1631,1624,div,,n
+1632,1631,div,,n
+1637,1632,div,FSBNN30MSS-BL,n
+1642,1632,div,6483664,n
+1646,1631,p,5 stars with 6 reviews,n
+1660,1624,div,,n
+1663,1660,div,Get it in 7 days,n
+1683,1660,p,"Get it by Fri, Jul 1",n
+1748,1060,li,,n
+1749,1748,div,,n
+1757,1749,h4,"Definitive Technology - Descend DN8 8"" Sub, 3XR Architecture, 500W Peak Class D Amplifier and 8"" Bass Radiators - Black",n
+1758,1749,div,,n
+1788,1758,div,,n
+1793,1788,div,Descend DN8,n
+1798,1788,div,6467272,n
+1802,1758,p,5 stars with 11 reviews,n
+1835,1748,div,,n
+1837,1835,span,$499.98,n
+1839,1835,span,Your price,n
+1863,1060,li,,n
+1864,1863,div,,n
+1872,1864,h4,"Definitive Technology - Descend DN10 10"" Sub, 3XR Architecture, 500W Peak Class D Amplifier, 10"" Bass Radiators - Black",n
+1873,1864,div,,n
+1903,1873,div,,n
+1908,1903,div,Descend DN10,n
+1913,1903,div,6467273,n
+1917,1873,p,5 stars with 12 reviews,n
+1931,1864,div,,n
+1934,1931,div,Backordered,n
+1942,1931,p,Order now,n
+1985,1863,div,,n
+1987,1985,span,$799.98,n
+1989,1985,span,Your price,n
+2015,1060,li,,n
+2016,2015,div,,n
+2022,2016,h4,Logitech - Z906 5.1-Channel Satellite Surround Sound Speaker System - Black,n
+2023,2016,div,,n
+2034,2023,div,4580243,n
+2038,2023,p,5 stars with 118 reviews,n
+2069,2015,div,,n
+2071,2069,div,,n
+2073,2071,span,$373.99,n
+2075,2071,span,Your price,n
+2077,2069,div,,n
+2079,2077,div,Save $26,n
+2080,2077,span,,n
+2082,2080,div,Was $399.99,n
+2084,2080,div,The previous price was $399.99,n
+2108,1060,li,,n
+2114,2108,h4,beFree Sound - 5.1-Channel Bluetooth Speaker System - Black,n
+2115,2108,div,,n
+2151,2115,div,,n
+2156,2151,div,91592801M,n
+2161,2151,div,4723504,n
+2165,2115,p,5 stars with 1 reviewfalse,n
+2179,2108,div,,n
+2182,2179,div,Get it in 6 days,n
+2202,2179,p,"Get it by Thu, Jun 30",n
+2272,1060,li,advertisement,n
+2278,1060,li,,n
+2279,2278,div,,n
+2287,2279,h4,Bose - 5.1-Channel Lifestyle 650 Home Theater System - Black,n
+2288,2279,div,,n
+2289,2288,div,,n
+2294,2289,div,LIFESTYLE 650 SYSTEM BLACK,n
+2299,2289,div,5707608,n
+2303,2288,p,5 stars with 87 reviews,n
+2336,2278,div,,n
+2338,2336,span,"$3,999.98",n
+2340,2336,span,Your price,n
+2364,1060,li,,n
+2365,2364,div,,n
+2371,2365,h4,"MartinLogan - Statement 40XW In or On-Wall Line Source Loudspeaker Eight 6.5” Woofers, Sixteen 3.5” Midrange, and Sixteen FMT XT Tweeters - Black",n
+2372,2365,div,,n
+2373,2372,div,,n
+2378,2373,div,STATE40XW,n
+2383,2373,div,6508058,n
+2385,2372,div,,n
+2387,2385,p,Not Yet Reviewed,n
+2392,2385,span,Not Yet Reviewed,n
+2409,2364,div,,n
+2420,2409,div,,n
+2422,2420,span,"$17,499.99",n
+2424,2420,span,Your price,n
+2436,2409,div,In-Store Only,n
+2448,1060,li,,n
+2449,2448,div,,n
+2455,2449,h4,"Polk Audio - Signa S4 Ultra-Slim TV Sound Bar with Wireless Subwoofer, Dolby Atmos 3D Surround Sound, Works with 8K, 4K and HD TVs - Black",n
+2456,2449,div,,n
+2457,2456,div,,n
+2462,2457,div,Signa S4,n
+2467,2457,div,6488419,n
+2471,2456,p,5 stars with 28 reviews,n
+2504,2448,div,,n
+2506,2504,span,$399.99,n
+2508,2504,span,Your price,n
+2532,1060,li,,n
+2533,2532,div,,n
+2539,2533,h4,beFree Sound - 5.1-Channel Speaker System - Black or Blue,n
+2540,2533,div,,n
+2541,2540,div,,n
+2546,2541,div,91592793M,n
+2551,2541,div,4723506,n
+2555,2540,p,5 stars with 20 reviews,n
+2588,2532,div,,n
+2590,2588,span,$109.99,n
+2592,2588,span,Your price,n
+2616,1060,li,,n
+2624,2616,div,,n
+2625,2624,div,,n
+2630,2625,div,91595510M,n
+2635,2625,div,5507429,n
+2639,2624,p,5 stars with 21 reviews,n
+2672,2616,div,,n
+2674,2672,span,$115.99,n
+2676,2672,span,Your price,n
+2700,1060,li,,n
+2701,2700,div,,n
+2709,2701,h4,NAD - M10 Masters Series Stereo BluOS Powered Streaming Amplifier - Black,n
+2710,2701,div,,n
+2711,2710,div,,n
+2716,2711,div,M10,n
+2721,2711,div,6470079,n
+2725,2710,p,5 stars with 2 reviews,n
+2758,2700,div,,n
+2760,2758,span,"$2,499.00",n
+2762,2758,span,Your price,n
+2786,1060,li,,n
+2794,2786,div,,n
+2795,2794,div,,n
+2800,2795,div,91595500M,n
+2805,2795,div,5507431,n
+2809,2794,p,5 stars with 16 reviews,n
+2842,2786,div,,n
+2844,2842,span,$99.99,n
+2846,2842,span,Your price,n
+2870,1060,li,,n
+2871,2870,div,,n
+2877,2871,h4,"Polk Audio - Polk Reserve R200 Bookshelf Speaker, 1"" Pinnacle Ring Tweeter and 6.5"" Turbine Cone Woofer, Dolby Atmos and IMAX Enhanced - Black",n
+2878,2871,div,,n
+2879,2878,div,,n
+2884,2879,div,Reserve R200,n
+2889,2879,div,6465726,n
+2893,2878,p,5 stars with 5 reviews,n
+2926,2870,div,,n
+2928,2926,span,$749.99,n
+2930,2926,span,Your price,n
+2954,1060,li,,n
+2955,2954,div,,n
+2961,2955,h4,Innovative Technology - 50W Audio System - Rose Gold,n
+2962,2955,div,,n
+2963,2962,div,,n
+2968,2963,div,ITCDS-5000RG,n
+2973,2963,div,6168300,n
+2977,2962,p,5 stars with 1 reviewfalse,n
+2997,2954,div,,n
+3008,2997,div,,n
+3010,3008,span,$89.99,n
+3012,3008,span,Your price,n
+3023,2997,div,Sold Out,n
+3028,1021,div,,n
+3031,3028,div,of 26 items,n
+3037,3028,div,,n
+3039,3037,span,Previous,n
+3040,3037,ol,,n
+3041,3040,li,,n
+3043,3041,span,1,n
+3045,3041,span,Page 1. Selected.,n
+3047,3040,li,2,n
+3049,3037,span,Next,n
+3072,17,div,,n
+3075,3072,h2,Buying a home theater system.,n
+3077,3072,div,,n
+3080,3077,div,,n
+3082,3080,h4,Choosing the best home theater system,n
+3083,3080,div,,n
+3085,3083,p,"So, you’re building your home entertainment system because you want high-quality theater-like viewing, along with a sound experience that surrounds you and fills the room. You’ve got the big-screen television you want, but now what are you going to do about the home theater system sound? That’s where Best Buy comes in. We'll help you breathe life into your favorite movies and shows with a huge selection of top-quality audio options that fit the specs of your room.",n
+3087,3083,p,"Creating the best home theater system for you doesn’t have to be difficult or intimidating. It’s simply a matter of making some decisions regarding which components will work in your home theater system room. Perhaps your setup is best realized by a sleek soundbar that fits discretely under your wall-mounted television. Or maybe you’re better off with a speaker system with at least five speakers positioned strategically around the room. You can choose to go with a wired system, though increasingly home theater systems with wireless speakers are the preferred choice because there are no wires to connect from the front of the room to the back. You’ll also want to decide what other components you want as part of your home theater system setup – options include Blu-ray players, game consoles and streaming media players. You’ll likely want to use HDMI cables to connect your devices because they transmit both audio and video signals, and you may also want to get a universal remote control so your space isn't cluttered with remotes.",n
+3093,3077,div,,n
+3094,3093,div,,n
+3096,3094,h4,a wireless home theater system.,n
+3098,3094,div,"Along with the obvious benefit of creating the ideal atmosphere for enjoying movies, TV shows and games, you can also use your wireless home theater system as a hub to expand your music listening capabilities throughout your home. In that case, you may want to consider adding a Wi-Fi extender to your home network. These devices can greatly expand your coverage and eliminate dead spots. Once you get all your home theater system components in place, consider adding a surge protector to guard your gear against power surges due to lightning strikes or other catastrophic electrical spikes that could fry your equipment.",n
+3103,3093,div,,n
+3105,3103,h4,Setting up your home entertainment system.,n
+3107,3103,div,"In a basic home theater system, you’ll have a TV, an A or V receiver, a Blu-ray player, a streaming media player, a gaming console, and of course, speakers that include a sound bar, a set of speakers, or both. If the speakers are wired, the power and sound travels through the speaker cables from the amplifier. If the speakers are wireless, they will still need to be plugged into a power source, but you don’t have to run cables across the room. As part of your planning, you’ll want to determine optimal positioning for the speakers to provide the best true-to-life sound. Are you using shelf speakers? Will your speakers need to be wall-mounted? Or will speaker stands provide the perfect sound configuration? As always, you can count on Geek Squad to provide you with the home audio setup assistance you want to get your components connected, and wires and cables neatly dressed and out of the way.",n
+3127,0,h3,Best Buy,n

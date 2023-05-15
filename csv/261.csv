@@ -1,0 +1,63 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+3,1,div,,n
+11,3,div,Download Our Guide,n
+15,3,div,,n
+29,15,div,What's,n
+43,15,div,"Tags and Collars and Leads, Oh My",n
+57,15,div,Establish a Safe Zone,n
+61,3,div,,n
+75,61,div,Get Social,n
+89,61,div,Form a Routine,n
+103,61,div,Handle with Care,n
+122,3,div,Keep Them Occupied,n
+128,3,h2,the First 30 Days With Your New Dog or Puppy,n
+139,3,div,,n
+140,139,p,,n
+142,140,span,"If you can, find out what food your dog was eating and when. Sticking to the same food and feeding schedule for the first few days may help avoid digestion issues. If you do switch brands, slowly mix the old and new, following the instructions on the new food or from your vet.",n
+147,140,span,TIP,n
+151,139,ul,,n
+154,151,li,Puppy Food,y
+157,151,li,Food Storage Bins and Scoops,y
+160,151,li,Water and Food Bowls,y
+189,3,div,,n
+192,189,p,Keep them safe with a collar and most importantly an ID tag with your contact information.,n
+199,189,li,"Collar, Leash and ID Tags",y
+216,3,div,,n
+218,216,span,"Dogs need their own safe space just like we do, except for them instinctually it's a den. Crates not only provide a safe place for your pooch, but are a helpful tool in potty training since dogs always keep their den clean.",n
+223,216,span,TIP,n
+228,216,ul,,n
+231,228,li,Crates and Crate Mats,y
+234,228,li,Pet Gates,y
+237,228,li,Dog Beds,y
+270,3,div,,n
+272,270,span,"Introduce your pet to new people, pets, places and experiences slowly so they aren't overwhelmed. Dogs use their noses to figure out who's who, so expose them to blankets, towels or toys before family members. Establish ground rules with children - like no riding or pulling before you bring your new dog home.",n
+277,270,span,TIP,n
+285,270,li,Carriers,y
+302,3,div,,n
+304,302,span,"Establish a consistent routine for dinnertime, play time, quiet time - and most importantly - potty time. Also, be sure to set boundaries so you don't encourage bad behavior like jumping up or barking. What may be cute at 10 pounds won't be at 100 pounds!",n
+309,302,span,TIP,n
+314,302,ul,,n
+317,314,li,Stain and Odor Products,y
+320,314,li,Puppy Pads,y
+323,314,li,Dog Treats,y
+356,3,div,,n
+358,356,span,"Get your pet used to handling from day one - touch their feet, nails, tail, ears, snout, teeth and belly with love. If you have a shy rescue, go slow and introduce yourself and others through smells first.",n
+363,356,span,TIP,n
+368,356,ul,,n
+371,368,li,Dog Shampoo,y
+374,368,li,Brush and Nail Clippers,y
+377,368,li,Toothbrushes,y
+380,368,li,Flea and Tick Prevention,y
+405,3,div,,n
+407,405,span,Pique their interest by rotating toys. Letting them have a few at a time or a variety will help keep their teeth on the toys and not your belongings,n
+412,405,span,TIP,n
+417,405,ul,,n
+420,417,li,Chew Toys,y
+423,417,li,Treat-Dispensing Toys,y
+426,417,li,Plush Toys,y
+429,417,li,Fetch Toys,y
+456,1,div,,n
+462,456,h4,"Earn at least 1,750 points with this month’s bonus point opportunities!",n
+467,456,h4,"Earn at least 1,750 points !",n

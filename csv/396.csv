@@ -1,0 +1,129 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+41,0,div,,n
+42,41,tr,,n
+45,42,div,,n
+47,45,h1,House Cleaning Supplies and Equipment Checklist,n
+58,45,p,"Below is a house cleaning supplies and equipment checklist, with exactly what you need for your home, plus scroll down to the very bottom for a printable cleaning supply list.",n
+69,45,p,"This list includes the most basic supplies, products and equipment necessary to get the job done.",n
+71,45,p,"It attempts to list house cleaning supplies and tools that can be used in multiple places or ways, instead of specialty housekeeping supplies that can only be used one way.",n
+75,45,div,,n
+77,75,span,4K+,n
+78,75,text,Save,n
+80,45,p,"Of course, depending on what is in your home to clean all of the items listed may not be necessary, and other items that are vital to your cleaning efforts will not be listed because they are not typical.",n
+82,45,p,At the bottom I also have a link to get a printable version of this cleaning supply checklist. You can place this directly into your household notebook to refresh your recollection before shopping to see if you need to replenish any cleaning supplies for your home.,n
+86,45,h3,Cleaning Equipment,n
+87,45,ul,,n
+89,87,li,Dust mop,y
+91,87,li,Dust cloths and dusters,y
+93,87,li,"Rags, towels and soft cloths",y
+95,87,li,Indoor broom,y
+97,87,li,Outdoor broom,y
+99,87,li,Dust pan,y
+101,87,li,Vacuum,y
+103,87,li,Wet mop,y
+105,87,li,Toilet brush,y
+107,87,li,Plunger,y
+109,87,li,Spray bottles,y
+111,87,li,Squirt bottles,y
+113,87,li,Squeegee,y
+115,87,li,Sponges,y
+117,87,li,Scrub brush,y
+119,87,li,Scraper,y
+121,87,li,Toothbrush,y
+123,87,li,Buckets,y
+125,87,li,Rubber gloves,y
+127,87,li,Cleaning apron,y
+129,87,li,Cleaning caddy,y
+131,45,h3,Cleaning Products,n
+133,45,p,Here are some cleaning products you need for around you home. The links within the list below go to recipes for homemade versions of some of these products that you can make yourself.,n
+137,45,div,Photo by rubberglovelover from Flickr,n
+138,45,ul,,n
+140,138,li,All-purpose cleaner,y
+142,138,li,Disinfectant cleaner,y
+144,138,li,Glass cleaner,y
+146,138,li,varying intensity,y
+149,138,li,Mild detergent,y
+151,138,li,Household ammonia,y
+153,138,li,White vinegar,y
+155,138,li,Baking soda,y
+157,138,li,Chlorine bleach,y
+159,138,li,Metal polishes,y
+173,138,li,Furniture polishes,y
+175,138,li,Spot carpet cleaner,y
+182,45,h3,Here's Your Free Printable,n
+184,45,p,Get your free version of the cleaning supplies and equipment checklist here. Make sure you put it in your household notebook !,n
+191,45,p,Click here to get your printable,n
+195,45,h3,Do You Want More Cleaning Checklists?,n
+197,45,p,"Do you want more cleaing checklists? If so, check out this round up of 10 cleaning checklists all around your home here .",n
+219,45,h3,"Share Your Comments, Thoughts and Ideas",n
+224,45,h3,Related Pages You May Enjoy,n
+226,45,p,House Cleaning Tips And Household Hints,n
+228,45,p,Printables And Checklists For Your Household Notebook,n
+230,45,p,List Of Homemade Cleaning Supplies,n
+232,45,p,Typical Laundry Supplies For Your Household,n
+234,45,p,Go From House Cleaning Supplies To Home Page,n
+236,42,td,,n
+253,236,div,,n
+255,253,h2,Get Free Newsletter,n
+258,253,div,Email Address,n
+262,253,div,First Name,n
+270,236,h4,Let's Stay Connected!,n
+277,236,h3,Visit My Other Websites,n
+279,236,h3,Stain-Removal-101.com,n
+283,236,h3,Home-Storage-Solutions-101.com,n
+285,236,div,,n
+287,285,p,"Did I Miss Your Favorite Cleaning Supplies, Products Or Equipment?",n
+289,285,p,"Click here to share your favorites cleaning supplies , telling us what it is, and why you can't live without it.",n
+299,41,div,,n
+302,299,p,Home Page,n
+304,299,p,Search This Site,n
+307,299,div,The Basics,n
+310,299,p,Getting Started,n
+312,299,p,Schedules and Routines,n
+314,299,p,Household Notebook,n
+317,299,div,Cleaning,n
+320,299,p,House Cleaning Tips,n
+322,299,p,How To Clean Things,n
+324,299,p,Homemade Cleaners,n
+326,299,p,Laundry Tips,n
+329,299,div,Food,n
+332,299,p,Cooking 101 Basics,n
+334,299,p,Kid Friendly Recipes,n
+337,299,div,Finances,n
+340,299,p,Frugal Living Tips,n
+343,299,div,Health And Safety,n
+346,299,p,Health And Safety Tips,n
+349,299,div,Family and Kids,n
+352,299,p,School and Homework,n
+354,299,p,Holidays and Celebrations,n
+357,299,div,Your Thoughts,n
+360,299,p,Share Tips and Ideas,n
+362,299,p,Ask A Question,n
+365,299,div,Resources,n
+368,299,p,Recommended Reading,n
+370,299,p,How To Videos,n
+372,299,p,Printables and Checklists,n
+374,299,p,Helpful Links,n
+381,41,div,,n
+383,381,table,,n
+384,383,tr,,n
+385,384,td,,n
+387,385,strong,Share this page,n
+390,385,div,What’s this?,n
+393,384,span,Facebook,n
+396,384,span,Twitter,n
+399,383,tr,,n
+401,399,p,Have your own blog or website? Here's how to link to the page ...,n
+402,399,div,,n
+404,402,p,Would you prefer to share this page with others by linking to it?,n
+405,402,ol,,n
+407,405,li,Click on the HTML link code below.,n
+409,405,li,"Copy and paste it, adding a note of your own, into your blog, a Web page, forums, a blog comment, your Facebook account, or anywhere that someone would find this page valuable.",n
+413,402,div,"<a href=""https",n
+416,381,br,Return To Top | Home Page | Blog | Newsletter | Contact Me |,n
+427,381,br,About Me | Sitemap | Privacy Policy | Disclaimer | Disclosure,n
+440,41,div,"Copyright ©- Flanery Companies, LLC - All Rights Reserved",n
+443,0,div,,n
+445,443,p,which are required,n
+449,443,button,Agree and Continue,n

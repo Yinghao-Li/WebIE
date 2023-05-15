@@ -1,0 +1,78 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+8,0,div,,n
+18,8,div,,n
+21,18,div,,n
+24,21,h1,Kids' Guide to Scrapbooking,n
+26,21,strong,Written by,n
+27,21,text,Leslie Taylor,n
+30,18,div,,n
+34,30,p,"Scrapbooking is a creative activity that helps you record events and occasions so you can remember them later. Most scrapbook pages center around photographs, but you can also add other items to a scrapbook page, such as printed napkins, movie or concert ticket stubs, and recital programs. Choosing a theme for a scrapbook page helps you decide what colors and embellishments you're going to use. Once you're finished, you'll have a scrapbook page that you can look back on later to remember a special event.",n
+37,30,h2,Choose Your Photos,n
+39,30,p,"The first step in scrapbooking is choosing the photographs you want to put onto the page. The photos you choose could be all from the same day, event, or occasion, or they might also be just a collection of photos that you like. For a single page, you'll usually want to choose up to four photos. If you have more than four photos, make more than one scrapbook page. After choosing the photos you want to use, pick out your favorite one. This photo will become the focal point of the page, which means this will be the main photo that people look at first.",n
+42,30,h2,Choose the Background Paper and Coordinating Papers,n
+44,30,p,"The background and coordinating papers will help give your scrapbook page a theme and personality. If your page is about a holiday, choose papers with prints and colors that match with the holiday. If your page has birthday photos, pick papers with patterns that have balloons, cakes, or streamers. It's often fun to combine papers with different patterns and colors. Use the coordinating papers for layering mats under the photos, for places where you'll add notes and captions, and to make decorative shapes. Some people like to layer several different coordinating mats under photos for even more decoration.",n
+47,30,h2,Plan a Layout,n
+49,30,p,"The layout of the scrapbook page will include the photos, the mats under them, captions and other spaces for text, stickers, and other embellishments like cut-outs and tags. Experiment with a few different arrangements, placing the photos in different spots. Try tilting the photos in different directions, and overlap the mats and tags a little. Keep rearranging everything until you find a layout that you like. After you settle on a layout, leave it for a day and come back to it to see if you want to change anything.",n
+52,30,h2,Prepare the Photos,n
+54,30,p,Preparing the photos for the layout starts with matting them. Place each photo over a solid-colored paper to make the first mat. Trim around the photo so you can see about a quarter-inch of the paper around each edge of the photo. Stick the photo to the trimmed mat using an acid-free glue stick or photo tabs. Repeat this with a different colored or patterned piece of paper if you want a layered mat. Do this with every photo you'll be putting on the scrapbook page.,n
+57,30,h2,Write the Text,n
+59,30,p,"Scrapbook pages usually include captions with each photo that include the names of the people in the photos and what they are doing. Make sure you include names, locations, and the month and year the photos were taken in the captions. You can also write more text for your scrapbook pages if you want. Journaling boxes can include paragraphs of printing that include special details of the event, thoughts, and other things you want to remember. You can also create a title for the scrapbook page and center it at the top or the bottom of the page, if you want.",n
+62,30,h2,Glue Everything to the Page,n
+64,30,p,"After all of this preparation, it's time to glue everything down. Use acid-free glue so it won't damage the photographs over time. Glue the text boxes, captions, photos, and embellishments where you want them on the background paper. Slip the scrapbook page into a sheet protector to keep it safe, and put it in a three-ring binder or photo album.",n
+65,30,ul,,n
+67,65,li,Five Scrapbooking Ideas,n
+69,65,li,The Ultimate Beginner Guide to Learning to Scrapbook,n
+71,65,li,"Scrapbook Ideas, Supplies, and More",n
+73,65,li,New to Scrapbooking,n
+77,65,li,Scrapbook Ideas,n
+79,65,li,How to Scrapbook,n
+83,65,li,Ultimate Guide to Scrapbooking,n
+91,65,li,A Beginner's Guide to Scrapbooking,n
+95,65,li,The Ultimate Guide to Digital Scrapbooking,n
+97,65,li,Beginning Scrapbooking,n
+99,65,li,Acid,n
+101,65,li,"What Is Acid-Free, and Why Does it Matter?",n
+103,65,li,Storing Family Papers and Photographs,n
+106,65,li,Your Photographs,n
+118,8,div,,n
+121,118,span,FREE,n
+123,118,span,* Click here,n
+126,118,div,Download File,n
+127,0,footer,,n
+128,127,div,,n
+133,128,div,,n
+135,133,div,-9870,n
+137,133,span,customercare@nextdayflyers.com,n
+151,128,ul,,n
+154,151,li,Help Center,n
+157,151,li,Guarantee,n
+160,151,li,Turnaround Time Options,n
+163,151,li,Blog,n
+166,151,li,Articles,n
+169,151,li,Templates,n
+179,128,ul,,n
+182,179,li,Contact Us,n
+185,179,li,Request a Sample Pack,n
+188,179,li,Quality Checkpoints,n
+198,128,ul,,n
+201,198,li,About Us,n
+204,198,li,Locations,n
+207,198,li,Privacy Policy,n
+210,198,li,Accessibility,n
+213,198,li,Terms and Conditions,n
+216,198,li,Site Map,n
+224,128,div,,n
+225,224,ng-container,,n
+228,225,div,NEWSLETTER,n
+231,225,div,,n
+234,231,p,Sign up to receive special marketing tips and promotions.,n
+235,231,div,,n
+239,235,div,Please provide a valid email address.,n
+247,235,div,SIGN UP,n
+250,224,div,,n
+255,250,h4,You Have Been Successfully Subscribed,n
+258,250,p,Thank you,n
+259,127,div,,n
+261,259,span,Copyright © 2022 Next Day Flyers,n
+263,259,span,All International Rights Reserved,n

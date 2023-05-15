@@ -1,0 +1,160 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+8,0,div,Type keyword to search,n
+12,0,div,,n
+13,12,div,,n
+17,13,div,Today's Top Stories,n
+19,13,div,1,n
+22,13,div,The 10 Best Cheap Bikes,n
+23,12,div,,n
+26,23,div,2,n
+29,23,div,How to Charge an E-Bike,n
+30,12,div,,n
+33,30,div,3,n
+36,30,div,Everything You Need to Know About the CICO Diet,n
+37,12,div,,n
+40,37,div,4,n
+43,37,div,A Resistance Band Shoulder Workout,n
+44,12,div,,n
+47,44,div,5,n
+50,44,div,The UCI Changes Its Policy on Transgender Athletes,n
+55,0,div,,n
+66,55,div,Staff,n
+69,55,p,"Being a beginner cyclist is an exciting time—and an overwhelming one. With new skills to learn, fitness to gain, and tons of gear to choose from, it’s easy to feel lost. Luckily, with a few well-chosen items, you can help your favorite newbie be ready for almost any riding situation.",n
+77,55,div,,n
+78,77,div,,n
+82,78,div,Master Lock 8143D Combination Bike Lock,n
+91,78,div,,n
+95,91,div,Now 28% off,n
+96,91,div,,n
+98,96,span,$6 AT AMAZON,n
+100,96,span,$18 AT WALMART,n
+103,91,p,"This bike lock makes a great stocking stuffer, and it will help keep a rig safe on those midride coffee runs. While the single cable and four-digit combo isn’t super high security, it’s great for low-risk areas. And the vinyl coating will keep it from scuffing up the frame.",n
+104,77,div,,n
+108,104,div,Osprey Daylite Daypack,y
+117,104,div,,n
+122,117,div,$84 AT AMAZON,n
+125,117,p,"Whether your giftee plans on bikepacking, commuting, or heading our for a light hike, Osprey’s Daylite works. Case in point: Its interior sleeve can hold a tablet or a water bladder. Even so, the pack is lightweight and ergonomic, it will keep them comfortable while carrying 13 liters worth of gear.",n
+133,77,div,,n
+137,133,div,Pearl Izumi Men's Merino Thermal Base Layer,y
+146,133,div,,n
+149,146,div,,n
+151,149,span,$110 AT AMAZON,n
+153,149,span,$110 AT MOOSE JAW,n
+156,146,p,"Beginner stoke can run high, even in winter. The thick polyester-merino blend of this layer will keep the cyclist in your life warm enough so they can continue riding through the cold months. And stowaway thumb loops keep the sleeves in place under glove cuffs.",n
+157,77,div,,n
+161,157,div,Buff Unisex Gaiter,n
+170,157,div,,n
+174,170,div,Now 32% off,n
+175,170,div,,n
+179,175,span,$9 AT DICK'S SPORTING GOODS,n
+181,175,span,$20 AT MOOSE JAW,n
+184,170,p,"Few pieces of apparel are as versatile as a neck gaiter. Use it as a scarf, head cover, or even a hairband. But it’s especially helpful now that, while passing other riders or pedestrians, cyclists will want to have something quickly at hand that they can pull up over their mouths.",n
+192,77,div,,n
+196,192,div,Pearl Izumi Women's Convertible Jacket,y
+205,192,div,,n
+209,205,div,Now 23% off,n
+212,205,div,$69 AT AMAZON,n
+215,205,p,"Under rain, snow, or wind, the water-resistant Convertible keeps its wearer impressively shielded from the elements. Pearl worked in thoughtful touches like a full-length draft flap to prevent gusts from sneaking in through the zipper. But, as the name suggests, the piéce de résistance is the detachable sleeves, which turn the Convertible into a vest should some unseasonably warm weather arise.",n
+216,77,div,,n
+220,216,div,CamelBak Podium Bike Water Bottle,y
+229,216,div,,n
+232,229,div,,n
+234,232,span,$11 AT AMAZON,n
+238,232,span,$12 AT DICK'S SPORTING GOODS,n
+241,229,p,"At $11 a bottle, the Podium is reasonably priced. Sized to fit the average bike cage, it features an easy-to-drink squeeze design and self-sealing cap—only one hand required to get a sip.",n
+249,77,div,,n
+253,249,div,Giro Bronte MIPS Helmet,y
+262,249,div,,n
+265,262,div,,n
+267,265,span,$65 AT AMAZON,n
+269,265,span,$94 AT WALMART,n
+272,262,p,"Friends don’t let friends ride without a helmet. This noggin protector comes in nine different colors, and the MIPS system lets their head rotate inside the helmet some to dissipate impact forces should they fall.",n
+273,77,div,,n
+277,273,div,Tommaso Cycling Socks,y
+286,273,div,,n
+291,286,div,$15 AT AMAZON,n
+294,286,p,"This three-pack of moisture-wicking socks will let feet dry and blisters at bay. Credit that to the thin, nearly see-through sections at the top of the foot and tight fit that won’t slip around.",n
+302,77,div,,n
+306,302,div,Ascher USB Rechargeable Bike Light Set,y
+315,302,div,,n
+319,315,div,Now 20% off,n
+320,315,div,,n
+322,320,span,$16 AT AMAZON,n
+324,320,span,$24 AT WALMART,n
+327,315,p,"The days are getting shorter, and getting caught out unprepared with the sun going down is hardly conducive to creating fond memories of their first few times riding. These rechargeable, 80-lumen LEDs are handy insurance should the sun beat them home.",n
+328,77,div,,n
+332,328,div,A Bike Fit,n
+345,328,div,Shutterstock,y
+348,328,p,"A bike fit is one of the best gifts to get a cyclist. When properly done, it can help prevent injury, improve comfort, and boost efficiency. And it's not just for beginners: A rider’s fit will change with the ebbs and flows of fitness, weight, and age. Prices and fitting methods vary, so make sure you shop around some to find one that meets your budget and your friend’s riding style.",n
+355,77,div,,n
+359,355,div,Vibrelli Mini Bike Pump and Glueless Puncture Repair Kit,y
+368,355,div,,n
+372,368,div,Now 31% off,n
+378,368,p,"While it’s certainly something they’ll learn in time, most newbies aren’t necessarily familiar with changing a flat. Make the first time they encounter one a little easier with this kit. It includes a tiny pump that can attach to the frame and some puncture stickers to help them make it back home without taking apart their wheel.",n
+379,77,div,,n
+383,379,div,Tifosi Optics Aethon Sunglasses,y
+392,379,div,,n
+395,392,div,,n
+397,395,span,$80 AT AMAZON,n
+399,395,span,$59 AT CHAINREACTIONCYCLES.COM,n
+402,392,p,"These midrange glasses are a great choice for beginners and experienced cyclists alike. With a removable brow bar and vented lenses, they’re designed to keep stay cool and fog-free.",n
+408,77,div,,n
+412,408,div,Craft Siberian Split Finger Gloves,y
+421,408,div,,n
+426,421,div,$75 AT AMAZON,n
+429,421,p,"These lobster gloves are sure to keep hands warm, thanks to the design that lets fingers touch without robbing them of all dexterity like a mitten would. What’s more, they’re grippy and reflective.",n
+430,77,div,,n
+434,430,div,Shimano SH-RP1 Cycling Shoes,y
+443,430,div,,n
+448,443,div,$85 AT AMAZON,n
+451,443,p,"Most newer cyclists start with flat pedals. But once they get some experience under their belt, they’ll want to upgrade to clipless—which will require a pair of proper cycling shoes. This synthetic leather Shimano is a great place to start, with easily adjustable Velcro straps and compatibility with two- and three-hole cleats.",n
+457,77,div,,n
+461,457,div,Pearl Izumi Select Thermal Lite Arm Warmer,n
+478,457,p,"Ideal for shoulder season days that fall on the colder side, these arm warmers are a sleek way to keep their guns toasty. A lack of seams means there’s little to cause chafing, and a touch of spandex lends stretch.",n
+479,77,div,,n
+483,479,div,Vibrelli Bike Floor Pump with Gauge,y
+492,479,div,,n
+497,492,div,$35 AT AMAZON,n
+500,492,p,"Affordable and reliable, this pump is a great choice for any rider. It comes with a gauge that goes up to 160 psi, and switches easily between Schrader and Presta valves, making it compatible with every bike.",n
+506,77,div,,n
+510,506,div,Tekton Hex Key Wrench Set,y
+519,506,div,,n
+523,519,div,Now 10% off,n
+528,519,div,$34 AT WALMART,n
+531,519,p,"Whether to adjust the seat, handlebar, or change out pedals, a set of hex keys is invaluable. This set is highly rated, affordable, and comes in a small, portable case.",n
+532,77,div,,n
+536,532,div,BV Bike Bag Bicycle Panniers,y
+545,532,div,,n
+550,545,div,$30 AT AMAZON,n
+553,545,p,"This versatile bag can carry everything commuters, lunchtime riders, or light bikepackers need. While it isn’t the sportiest, it’s incredibly practical, with hooks that make it adjustable to most rigs and 600-denier polyester and 1,000-denier Cordura that can withstand abuse. And the large 26-liter capacity between the two bags make it a great choice for those of us who carry a lot when biking.",n
+559,77,div,,n
+563,559,div,Finish Line Dry Bicycle Chain Lube,y
+572,559,div,,n
+575,572,div,,n
+577,575,span,$9 AT AMAZON,n
+581,575,span,$15 AT DICK'S SPORTING GOODS,n
+584,572,p,"One of the most important and simplest bike maintenance practices is cleaning and lubing the chain. And this lubricant—particularly suited to dry, dusty, off-road conditions—will more than do the job. Follow this guide for tips on how to apply it correctly.",n
+587,77,div,,n
+591,587,div,Pearl Izumi Men's Escape Quest Cycling Bib Short,y
+600,587,div,,n
+605,600,div,$52 AT AMAZON,n
+608,600,p,"Any bike ride longer than 10 miles warrants some padding. This thin, breathable Pearl Izumi bib is designed to wick moisture and prevent chafing as its chamois cushions the rider’s rear. And we like the bib style for how it helps it stay up and in place.",n
+610,77,div,"This content is created and maintained by a third party, and imported onto this page to help users provide their email addresses. You may be able to find more information about this and similar content at piano.io",n
+616,77,div,"This commenting section is created and maintained by a third party, and imported onto this page. You may be able to find more information on their web site.",n
+620,77,h2,Watch Next,n
+639,0,div,,n
+641,639,div,,n
+643,641,span,More From,n
+644,641,text,Gift Guide,n
+645,639,div,,n
+649,645,div,The Best Mother’s Day Gifts,n
+653,645,div,The 15 Best Men’s and Women’s Cycling Shoes,n
+663,645,div,How to Gift Wrap a Bike,n
+668,645,div,Get the Shredder Something They’ll Be Stoked About,n
+673,645,div,35 Last-Minute Gifts,n
+677,645,div,45 Essential Cycling Gifts You Can Buy on Amazon,n
+683,645,div,Don’t Miss Competitive Cyclist’s Cyber Monday Sale,n
+687,645,div,Great Gear and Clothing,n
+692,645,div,July Deals,n
+697,645,div,The 30 Best Father’s Day Gifts,n

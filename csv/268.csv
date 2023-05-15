@@ -1,0 +1,84 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+4,2,p,"Have you decided to start playing rugby, or do you have a child who wants to start? Keep reading to find out what equipment you’re going to need.",n
+5,2,p,,n
+6,5,text,"So, what gear do you need to play rugby? These essentials will get you started.",n
+8,5,strong,"Rugby clothing which includes shorts, socks and a shirt; rugby boots and some vital protective equipment for adults in the form of a mouthguard. Kids won’t need protective equipment until they start playing contact rugby.",n
+10,2,p,"There’s more to the essential equipment than meets the eye and let’s face it, you’re going to need it to play rugby. So let’s run through it in more detail. Then we’ll take a look at some other gear that you’ll want from the start and as you progress on your rugby journey.",n
+12,2,h2,Essential rugby kit,n
+14,2,p,The equipment you need for playing rugby depends on who it is playing. So I’ve made the table below to clearly lay out whether the kit listed is essential or not for that age bracket.,n
+16,2,h4,Tags and belts,y
+18,2,p,"The contact game isn’t introduced until the under 10’s. Before this, the under 7’s, under 8’s and under 9’s will be learning to play tag rugby. To play tag rugby they’ll wear a velcro belt with two velcro tags attached to it.",n
+20,2,p,"Normally your child’s club, school or coaches will supply these belts and tags, so it’s not essential for you to get them.",n
+22,2,p,"You may want to though if your child is a keen player, as it’s a really fun way for them to improve their running skills. They don’t even need a ball to practise. Just the belt, the tags and someone to run at .",n
+24,2,p,The aim is,n
+26,2,p,"It’ll also mean they can play somewhere like the park or the garden with a small group of friends, a ball and not much supervision needed.",n
+28,2,h4,Rugby balls,y
+30,2,p,"As you’d imagine, the ball is a fairly essential piece of equipment when it comes to playing the game of rugby. There are different rugby ball sizes intended for specific age groups. Take a look at the table below to see what size ball is intended for what age bracket.",n
+31,2,p,,n
+32,31,text,"Once again, you don’t",n
+34,31,strong,have,n
+35,31,text,to get yourself a ball as they’ll be supplied at your training venue….. But it’s a great thing to have kicking about the house and it can only improve your ball skills.,n
+37,2,p,My son Arlo and I have spent hours spinning passes to each other and kicking out of hand for the other to catch.,n
+39,2,h4,Kicking tee,y
+41,2,p,"In rugby points can be earned by scoring a try, kicking a conversion, kicking a penalty at goal, or kicking a drop goal. To kick a penalty at goal, or to kick a conversion, players will place the ball in a kicking tee.",n
+43,2,p,"The kicking tee acts as a stand for the ball, so that it can be placed in an upright position without falling over.",n
+45,2,h4,Rugby boots,y
+47,2,p,"If you’re wanting to play rugby, then you’re going to need some boots. The studs mean that your feet will have a better grip on the ground, helping you change direction quickly without falling flat on your face.",n
+49,2,p,There’s a huge amount of choice out there and it’s a bit of a minefield when starting out. Eventually you’ll need to choose either forwards or backs boots depending on what position you’re going to play and either firm ground or soft ground boots depending on the type of ground you’re going to be playing on.,n
+51,2,p,"If you’ve got a pair of old soccer or football boots kicking about, it may be worth going to your first few rugby sessions in these until you’ve figured out what position you’re going to be playing on the field.",n
+53,2,p,"You can buy a set of rugby studs, take the soccer or football studs out and screw the rugby studs into the soccer or football boot instead.",n
+55,2,h4,Essential clothing,y
+57,2,p,"The basics you need when you’re playing the game are rugby shorts, rugby socks and a rugby shirt.",n
+59,2,p,"The shorts are shorter than football shorts and you can opt for the more traditional cotton drill shorts, or lighter weight polyester ones.",n
+61,2,p,"Rugby socks are long socks and are to be worn pulled up, just below the knee. They should be snug around the calves and feet.",n
+63,2,p,"The rugby shirt or jersey traditionally had a collar and was made from cotton. Nowadays you can get shirts with or without collars, made from either cotton, polyester, or a mix of the two.",n
+65,2,h4,Water bottle,y
+67,2,p,"Both playing rugby and rugby training is an intense cardiovascular workout and you’re going to need to take on water in order to stay hydrated. It’s not often you’ll find taps near a rugby pitch, so don’t forget to take a water bottle with you.",n
+69,2,h4,Mouthguard,y
+71,2,p,"The mouthguard is a vital piece of protective gear for your mouth that should be worn by anyone playing contact or full contact rugby. Also known as a gumshield, it is worn to protect the top row of your teeth.",n
+73,2,p,mouthguard:-,n
+74,2,ol,,n
+76,74,li,"Off the shelf stock mouthguards – the cheapest option, which you can’t adjust to fit your mouth. So they offer protection, but aren’t the most comfortable.",n
+78,74,li,Off the shelf boil and bite mouthguards – I suppose you’d class these as the mid-range option. You boil them and then fit them to the shape of your mouth by biting down and shaping with your fingers.,n
+80,74,li,"Custom fitted mouthguards – the most expensive option, individually made to fit the individual’s mouth.",n
+82,2,h2,Is there any other protective equipment you should get?,n
+84,2,p,"Ok, so we’ve covered the essentials. Now let’s take a look at the non-essential equipment that you could get to help protect yourself while playing the game.",n
+85,2,p,,n
+87,85,strong,Head guards or scrum caps,y
+88,85,text,"are becoming increasingly popular in the sport. They only used to be worn by the forwards, as the name scrum caps suggests. These days they’re worn by rugby players regardless of the position that they play on the field. Head guards are not designed to prevent concussion; they’re worn to protect your head from scrapes and cuts… and in the case of forwards, cauliflower ear.",n
+89,2,p,,n
+91,89,strong,Body armour,y
+92,89,text,", includes shoulder pads and protective under shorts, which cushion your body from the impact of the contact area. Shoulder pads for women also have protective padding around the chest area. Body armour is not essential and many players choose not to wear it.",n
+94,2,h2,Yet more rugby kit that’s worth thinking about.,n
+96,2,p,"The essential clothing that I wrote about earlier on in this post is enough to get you on the pitch and playing rugby, but if that’s all you’re wearing to a mid winter training session then you’ll be feeling it!",n
+98,2,p,Here are a few suggestions that might help make your training sessions a bit more comfortable:-,n
+99,2,p,,n
+101,99,strong,A base layer top,y
+102,99,text,"worn underneath your rugby shirt, or",n
+104,99,strong,base layer leggings,y
+105,99,text,worn underneath your rugby shorts will help to fight off the cold and keep you warm when training in those winter months.,n
+106,2,p,,n
+107,106,text,"For training sessions in a biting wind, wearing",n
+109,106,strong,a windbreaker,y
+110,106,text,is a no-brainer. Windbreakers are windproof training tops. Some of them are shower resistant and some are waterproof.,n
+111,2,p,,n
+113,111,strong,Half finger gloves,y
+114,111,text,"known as stick mits, will give you plenty of grip on the ball regardless of what the weather throws at you.",n
+116,111,strong,Full finger thermal gloves,y
+117,111,text,with a grip design on the palms will keep your hands warm and give you an all weather grip.,n
+118,2,p,,n
+119,118,text,"Lightweight, full length",n
+121,118,strong,training pants,y
+122,118,text,", worn over your rugby shorts for those brutally cold mid winter training sessions aren’t a bad idea either. They can be either water repellent or waterproof depending on which ones you get. Training pants or drill pants are lightweight in design with training in mind.",n
+129,0,h3,Recent Content,n
+130,0,div,,n
+131,130,article,,n
+134,131,span,link to Is It Difficult To Learn Rugby? Here's What You Need To Know,n
+137,131,p,,n
+138,137,text,The complex nature of rugby is likely one of the biggest barriers to entry for folks interested in giving the game a go. But is it actually so hard to learn? Here's my view.,n
+140,137,strong,Rugby is a...,n
+149,130,strong,,n
+152,149,span,link to What Is The Tape For That Rugby Players Wear,n
+156,149,p,"Ever watched a game of rugby and noticed that some of the players are wearing tape? Certain players will be wearing it on their thighs, others on their wrists, some will have it wrapped around their...",n

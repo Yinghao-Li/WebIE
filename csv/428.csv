@@ -1,0 +1,237 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,p,This post may contain affiliate links.,n
+4,0,article,,n
+5,4,div,,n
+16,5,h2,How to Make Soap,n
+18,5,p,"Homemade soap making is my number one passion, so if I have a day to do nothing, I’ll just make it all day.",n
+19,5,p,,n
+21,19,strong,"People always ask me how to make soap,",n
+22,19,text,so today I show you how I do it!,n
+24,5,h2,Master Soap Maker,n
+26,5,p,"In 1994 I came across a book on soap making and thought, “Well, gee, it can’t be too hard.” I remembered my great grandmother from Sweden had made it, and so had my mother when I was much younger.",n
+29,5,div,,n
+31,29,h3,Latest Videos,n
+35,29,div,,n
+49,35,div,,n
+51,49,div,How To Make A Natural Antibacterial Homemade Mouthwash,n
+53,49,div,"Our homemade mouthwash is natural, effective, and gentle, not harsh like the commercial stuff. This DIY mouthwash is simple and inexpensive!",n
+73,35,div,More Videos,n
+77,35,div,,n
+79,77,span,"1 minute, 2 seconds",n
+81,77,span,Volume 0%,n
+82,35,div,,n
+85,82,span,keyboard shortcuts,n
+86,82,div,,n
+87,86,div,,n
+89,87,span,Keyboard Shortcuts,n
+90,87,button,,n
+93,90,span,Enabled,n
+95,90,span,Disabled,n
+97,86,div,,n
+98,97,div,,n
+100,98,span,Play or Pause,n
+102,98,span,SPACE,n
+103,97,div,,n
+105,103,span,Increase Volume,n
+107,103,span,↑,n
+108,97,div,,n
+110,108,span,Decrease Volume,n
+112,108,span,↓,n
+113,97,div,,n
+115,113,span,Seek Forward,n
+117,113,span,→,n
+118,97,div,,n
+120,118,span,Seek Backward,n
+122,118,span,←,n
+123,97,div,,n
+125,123,span,Captions On or Off,n
+127,123,span,c,n
+128,97,div,,n
+130,128,span,Fullscreen or Exit Fullscreen,n
+132,128,span,f,n
+133,97,div,,n
+135,133,span,Mute or Unmute,n
+137,133,span,m,n
+140,97,div,Seek %,n
+143,35,div,,n
+157,143,div,,n
+159,157,div,Next Up,n
+161,157,div,Natural Homemade Carpet Cleaner,n
+163,157,div,00:56,n
+174,143,div,,n
+176,174,button,facebook,n
+178,174,button,twitter,n
+180,174,button,Email,n
+181,174,div,,n
+183,181,button,Link,n
+185,181,textarea,https,n
+189,174,div,,n
+191,189,button,Embed,n
+193,189,textarea,"<iframe src="" or or cdn.jwplayer.com or players or N968uTXm-9QpChCc9.html"" width=""640"" height=""360"" frameborder=""0"" scrolling=""auto"">< or iframe>",n
+210,143,div,,n
+240,210,div,Live,n
+242,210,div,00:00,n
+244,210,div,01:05,n
+246,210,div,01:02,n
+268,5,p,So I gathered my ingredients and set forth to make soap.,n
+270,5,h3,Homemade Soap,n
+275,5,p,"The first batch turned out great, then the next, but the next after that was a dismal failure. So what did I do wrong? I wasn’t sure, so I decided to take a class. I contacted the local adult education center and found the instructor had left the area. Would I be interested in teaching? I got talked into it and started the following January. I taught people how to make soap for a total of 11 years in Minnesota.",n
+277,5,p,"When I came to North Carolina in 2004, I had to hunt around a bit to find a venue, but ended up at a local college in 2007 and have been there ever since. I now teach classes on how to make soap, along with several other natural products. I also sell my soaps and other products online, at local tailgate markets, and at the state fair each year.",n
+279,5,h2,Soap Making,n
+281,5,p,Soap making can be very simple or you can make it as complicated as you like.,n
+283,5,p,"First, the beauty of making your own is that you can make it with the ingredients that you choose and the fragrances that you like. And adjustments aren’t hard but do take some practice. Further, most homemade soap recipes use ounces or grams and ingredients must be weighed to get good results. But I’ve found a way to simplify the process by converting the ingredients to cups and portions of cups. Consequently, it’s much easier and you get the same results time after time.",n
+288,5,h2,Lye Solutions in Homemade Soap,n
+289,5,p,,n
+290,289,text,The one thing in homemade soap you can’t substitute is lye.,n
+292,289,strong,"You should always use 100% sodium hydroxide, or lye in crystal form.",n
+293,289,text,Don’t substitute liquid lye or drain cleaners such as Drano. These may cause inaccurate measurements or have bits of metal in them. You don’t want either.,n
+294,5,p,,n
+296,294,strong,Lye is caustic.,n
+297,294,text,"It can eat holes in fabrics and cause burns on your skin. Always be extra careful when using lye. Use gloves and eye protection and a mask if desired. When you mix the lye with water, it will heat up and fume for about 30 seconds to a minute. It may cause a choking sensation in your throat. Don’t worry, it’s not permanent and will go away after a few minutes. Always add lye to the water , and start stirring right away. If allowed to clump on the bottom, it could heat up all at once and cause an explosion.",n
+301,5,h3,There is No Lye in Finished Soap,n
+305,5,p,,n
+306,305,text,"Even though lye is caustic and dangerous to work with, after it reacts with the oils in your soap ,",n
+308,305,strong,no lye will remain in the finished product.,n
+311,5,p,"The lye reacts with the oils, turning what starts out as a liquid into blocks of soap. When made properly, no lye remains in the finished product.",n
+317,5,h2,Homemade Soapmaking Equipment,n
+319,5,p,"When learning how to make soap, remember to use equipment that will not be used for cooking. While you could clean everything really well, it’s best not to take a chance.",n
+321,5,p,"Stainless steel, tempered glass, and enamel are all good choices for mixing bowls. Don’t use copper or aluminum, they will react with the lye. Some plastics may melt, so don’t use plastic bowls.",n
+327,5,p,"For spoons, use styrene plastic or silicone. For molds, you can get soap molds at your local craft store or online here , or use silicone baking pans . These are great because you can peel the mold right off. Other things you want to have are a pint and a quart canning jar, newspaper, a stainless steel thermometer that reads between 90° and 200° , an old towel, and any additions you want to add to the soap.",n
+335,5,h2,How to Make Bar Soap,n
+337,5,p,There are as many variations of soap as there are colors in the rainbow. You can literally do almost anything. Here are the basics of additives:,n
+339,5,h3,Herbs,y
+340,5,p,,n
+341,340,text,"All herbal material must be dried. Lavender is popular, as well as chamomile. I love lemongrass and oakmoss, though not together.",n
+343,340,strong,dried plant material per batch of this size.,n
+350,5,h3,Essential Oils,y
+351,5,p,,n
+352,351,text,"Essential oils are from plants. They come from the roots, stems, flowers, or seeds. Fragrance oils can be blends of essential oils or they can be artificially produced. Be sure you know what you have.",n
+354,351,strong,Most oils can be used at the rate of 15-20 drops or around a teaspoon per batch of this size.,n
+359,5,h3,Scents,y
+361,5,p,"Absolutes or floral concretes are your best bet for scenting your soap. Both are highly concentrated forms of essential oils. To dilute, mix 5% into jojoba oil. Purchasing these will help save considerable money in the long run.",n
+367,5,h3,Colors,y
+369,5,p,"Natural colors are easy. Use cinnamon or cocoa powder for brown soap, powdered chlorophyll for green, turmeric for yellow, and beetroot for orange. However, sometimes things change colors, like magenta beet powder turning yellowish-orange. I would avoid food colors since they don’t hold up well in soap. Check out our article, 44 Ways to Color Homemade Soap Naturally , for even more ideas.",n
+374,5,h3,"Aloe, Nut Butters, and Other Items",y
+376,5,p,"This would include aloe vera gel, nut butters , oatmeal, dry milk powder, clays, cornmeal, ground coffee, salt, and anything else you may want to use.",n
+380,5,div,,n
+387,380,div,Print,n
+392,380,div,,n
+394,392,h2,How to Make Soap,n
+401,392,div,,n
+404,401,text,from,n
+406,401,span,3,n
+407,401,text,votes,n
+411,392,div,,n
+412,411,dl,,n
+414,412,dt,Prep Time,n
+417,412,span,15,n
+420,411,dl,,n
+422,420,dt,Active Time,n
+425,420,span,45,n
+430,411,dl,Cooling Time,n
+436,411,dl,,n
+438,436,dt,Total Time,n
+447,436,span,hour,n
+448,392,div,,n
+449,448,dl,,n
+451,449,dt,Servings,n
+456,449,span,5 ounce bars,n
+457,448,dl,,n
+459,457,dt,Estimated Cost,n
+461,457,dd,$9,n
+462,380,div,,n
+464,462,h3,Equipment,n
+465,462,ul,,n
+468,465,li,silicone soap molds,y
+471,465,li,silicone baking pans,y
+474,465,li,stainless steel thermometer,y
+477,465,li,stick blender,y
+480,465,li,goggles,y
+483,465,li,Silicone spatula,y
+484,380,div,,n
+486,484,h3,Ingredients,n
+488,484,ul,,n
+498,488,li,unrefined coconut oil,y
+507,488,li,olive oil,y
+516,488,li,almond oil,y
+519,488,li,,n
+521,519,span,¼,n
+525,519,span,lye,n
+529,488,li,,n
+531,529,span,¾,n
+535,529,span,cool water,n
+538,380,div,,n
+540,538,h3,Instructions,n
+541,538,div,,n
+543,541,h4,Step 1,n
+551,541,li,"Cover your work area with a newspaper. Put your rubber gloves, goggles, and other protective safety gear on. Measure your water into the quart canning jar. Have a spoon ready. Measure your lye, making sure you have exactly ¼ cup. Slowly pour the lye into the water, stirring as you go. Stand back while you stir to avoid the fumes. When the water starts to clear, you can allow it to sit while you move to the next step.",n
+552,538,div,,n
+554,552,h4,Step 2,n
+558,552,li,,n
+559,558,text,"In the pint jar, add your three oils together. They should just make a pint. Heat in a microwave for about a minute, or place the jar of oils in a pan of water to heat. Check the temperature of your oils – it should be about 120° or so. Your lye should have come down by then to about 120°. Wait for both to cool somewhere",n
+561,558,strong,between 95° and 105°,n
+562,558,text,". This is critical for soapmaking. Too low and it’ll come together quickly, but be coarse and crumbly.",n
+565,538,div,,n
+567,565,h4,Step 3,n
+572,565,li,,n
+573,572,text,"When both the lye and oils are at the right temperature, pour the oils into a mixing bowl.",n
+575,572,strong,Slowly,n
+576,572,text,"add the lye, stirring until it’s all mixed.",n
+578,572,strong,Stir by hand,n
+579,572,text,"It’s very important to get as much of the lye in contact with as much of the soap as possible. After about 5 minutes, you can keep stirring or you can use an immersion blender . The soap mixture will lighten in color and become thick. When it looks like vanilla pudding it’s at “trace” and you’re good to go.",n
+584,538,div,,n
+586,584,h4,Step 4,n
+591,584,li,"Add your herbs, essential oils, or other additions at this point. Stir thoroughly to combine. Pour soap mixture into the silicone mold and cover with plastic wrap. Set in an old towel and wrap it up. This will keep the residual heat in and start the saponification process. Saponification is the process of the base ingredients becoming soap.",n
+592,538,div,,n
+594,592,h4,Step 5,n
+600,592,li,"After 24 hours, check your soap. If it’s still warm or soft, allow it to sit another 12-24 hours. When it’s cold and firm, turn it out onto a piece of parchment paper or baking rack. If using a loaf pan as your mold, cut into bars at this point. Allow soap to cure for 4 weeks or so. Be sure to turn it over once a week to expose all the sides to air . For a DIY soap drying rack, I took an old potato chip rack and slid cardboard fabric bolts through the rungs.",n
+601,538,div,,n
+603,601,h4,Step 6,n
+608,601,li,"When your soap is fully cured, wrap it in wax paper or keep it in an airtight container. Hand made soap creates its own glycerin, which is a humectant, pulling moisture from the air. It should be wrapped to keep it from attracting dust and debris along with the moisture.",n
+611,380,h3,Recipe Video,n
+613,380,div,,n
+615,613,h3,Notes,n
+617,613,p,"When you’re done making soap, always clean your equipment that has been exposed to lye. You can neutralize the lye with white vinegar, then wash the equipment well as you normally would. For the rest of it, let it sit for several days. Why? Because when you first make soap, it’s all fat and lye. You’ll be washing forever and you could burn your hands on the residual lye. If you wait, it becomes soap and all it takes to clean it is a soak in hot water.",n
+619,613,p,"For more information on cold process soaps and hot process soap making, check out our other soapmaking articles here .",n
+622,380,div,,n
+624,622,h5,Made this recipe?,n
+626,622,p,Mention @diynatural or tag it #diynatural !,n
+633,5,p,"Well, what are you waiting for? Now that you know how to make your own soap, GO MAKE SOME!",n
+636,5,p,soap.,n
+639,5,p,*******,n
+642,5,p,Sources,n
+645,5,li,Soap,n
+649,4,div,,n
+650,649,span,,n
+654,650,span,Shares,n
+656,650,span,10k,n
+660,649,span,Facebook,n
+664,649,span,Tweet,n
+672,649,span,Email,n
+676,649,span,Print,n
+677,0,section,,n
+679,677,h4,,n
+680,679,text,About,n
+682,679,span,Debra Maslowski,n
+684,677,p,,n
+686,684,strong,Debra,n
+687,684,text,"is a master gardener, a certified herbalist, a natural living instructor, and more. She taught Matt and Betsy how to make soap so they decided to bring her on as a staff writer! Debra recently started an organic herb farm in the mountains of Western North Carolina. You can even purchase her handmade products on Amazon !",n
+693,0,p,PAID ENDORSEMENT DISCLOSURE,n
+695,0,p,DISCLAIMER,n
+698,0,section,,n
+700,698,div,,n
+702,700,h3,Sugar Wax Recipe,n
+704,700,p,"A tutorial on homemade wax for legs. This sugar wax recipe is an inexpensive way to remove leg hair naturally, without all the chemicals!",n
+706,698,div,,n
+708,706,h3,Oatmeal Bath,n
+710,706,p,"Are you ready to try an oatmeal bath? Oatmeal baths help with diaper rash, eczema, psoriasis, dry skin, even body beautification, and more.",n
+712,698,div,,n
+714,712,h3,Homemade Ice Pack,n
+716,712,p,"This homemade ice pack is flexible and easy to make. Skip the commercial ice packs and make reusable, inexpensive, DIY ice packs instead!",n
+717,0,div,,n
+719,717,h3,Comments,n
+720,717,ol,,n
+725,720,li,I need a good organic formula,n
+730,720,li,Thank you so much for this Debra. Can you also infuse your herbs? instead of putting dried herbs? how does that work,n
+733,717,div,« Older Comments,n

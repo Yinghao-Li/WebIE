@@ -1,0 +1,41 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,font,Home > Wrestling > Wrestling Bag Contents,n
+7,0,font,,n
+10,7,p,What to Pack in Your Wrestling Bag,n
+12,7,p,Angela Gillaspie © 2010 All Rights Reserved,n
+13,7,font,,n
+15,13,p,What should the wrestler pack in his wrestler's bag? Here are a few things or ideas to pack.,n
+16,13,ul,,n
+18,16,li,Wrestling *shoes,y
+26,16,li,Spare shirt,y
+28,16,li,Running shoes,y
+30,16,li,Singlet,y
+32,16,li,Headgear - it's the rule,y
+34,16,li,"Warm-up suit - . You'll be required to wear the entire warm-up suit between matches, because warm muscles perform better",y
+36,16,li,Hand towel,y
+38,16,li,Deodorant,y
+40,16,li,Mouthguard - if you have braces,y
+42,16,li,Filled water bottle,y
+44,16,li,"Athletic tape, optional - you can use this stuff",y
+49,7,p,***PRACTICE REMINDERS***,n
+50,7,font,,n
+51,50,text,"With so much going on, it's easy to skip or forget important wrestling practice basics. Wrestlers should:",n
+52,50,ul,,n
+54,52,li,Mandatory equipment,n
+57,52,li,Wear appropriate gear including shorts and T-shirt or tight-fitting exercise shirt.,n
+59,52,li,Optional equipment,n
+61,52,li,ALWAYS shower with an antibacterial soap after each practice as soon as you get home if possible.,n
+64,52,li,"Bring a filled water bottle - sports drinks are okay, too.",n
+66,52,li,Report any injury or sickness that may affect health or performance to coaches.,n
+68,52,li,any prescription being taken.,n
+70,52,li,"Keep wrestling clothes clean - only wear clean clothing and gear to practice; shoes, kneepads and headgear should be sprayed or disinfected with Lysol often and washed WEEKLY . You can place the shoes into a pillow case and wash them in the washing machine.",n
+74,52,li,"Stay clean! For other important hygiene tips, read my Wrestling Hygiene page",n
+78,52,li,"Eat right, you're in training! For diet advice on carbs, protein, and other things that go bump in the kitchen, read my article on Wrestling Nutrition",n
+81,52,li,Always ask a coach about anything you're not sure about.,n
+88,7,p,Tell a friend about this site!,n
+96,7,font,,n
+97,96,text,Copyright © 2010 Angela Gillaspie,n
+99,96,br,Revised - 09 or 18 or 10,n
+101,96,br,URL,n
+104,96,br,E-mail,n

@@ -1,0 +1,128 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,p,,n
+4,3,text,Home or,n
+6,3,span,,n
+7,6,text,Special Occasions or,n
+9,6,span,,n
+10,9,text,Romantic Gifts or,n
+13,9,span,50 Ways to Make a DIY Spa Day At Home a Success,n
+14,0,article,,n
+15,14,div,,n
+18,15,text,Setting up your own at-home spa is easy! Get set to relax and unwind with these simple tips and ideas to make your own DIY spa day a total success! And the best part? Almost all of the tips and recipes included can be found in your home! Easy peasy!,n
+20,15,h2,5 Tips on How to Set up an at-Home Spa Day,n
+21,15,ol,,n
+22,21,li,,n
+24,22,strong,Set Up Your Space,n
+25,22,text,– Declutter the area you will be relaxing in. Make it a comfortable space for some relaxing to take place.,n
+29,21,li,,n
+31,29,strong,Gather Your Supplies,n
+32,29,text,– No one wants to interrupt their zen to go get a needed supply. Make sure to have all of your treatments and needed supplies close by and ready.,n
+33,21,li,,n
+35,33,strong,Adjust the lighting –,n
+36,33,text,Dim the lighting or add some candles to be surrounded by a soft glow.,n
+37,21,li,,n
+39,37,strong,Add some mood music –,n
+40,37,text,Ask Alexa to play a relaxing playlist. Music can really affect your mood!,n
+41,21,li,,n
+43,41,strong,Dress Comfortably –,n
+44,41,text,Put on your comfiest stretch pants or your softest robe. Trust us – this step is important!,n
+47,15,h6,Disclaimer,n
+50,15,text,"Now your environment is all set at the most relaxing at-home spa day you have ever had! Next, it is time to indulge on different treatments! To make browsing all of these home spa ideas even EASIER, click on each of these links to get what you’re looking for! DIY Facial Treatments , Hair Treatments , DIY Body Treatments , The Best Home Spa Products , and Spa-Themed Date Ideas .",n
+63,15,h2,DIY Spa Day Facial Treatments,n
+64,15,text,"1 . Edible “Mud” Mask – All I have to say is “chocolate!” So give your face a refreshing and yummy pampering session with this DIY facial recipe from Essentially Eclectic. 2. Oatmeal and Honey Facial Mask – This moisturizing mask from Somewhat Simple uses milk, honey, and oatmeal to certainly leave your skin super smooth and soft. Without a doubt, a staple! 3. Rose Water Toner – Boil some rose petals, and you’ve got the start to a rosewater toner for your face! This recipe by Noob Cook is an all-natural way to naturally balance your skin’s oil production. This one is a winner! 4. Tumeric Clay Face Mask",n
+76,15,text,"– Touted for its antioxidant and anti-inflammatory properties, turmeric is one DIY ingredient you don’t want to do without. 5. Brightening Mask – In this easy DIY mask, lemon and turmeric work to brighten and refine. So add this on the list for your DIY spa day! 6. Charcoal Facial Scrub – Charcoal takes center stage on this smoothing and exfoliating scrub. 7. Olive Oil Lip Scrub – Pucker up, princess! Unquestionably, this brown sugar + honey lip scrub will have you feeling extra kissable in no time at all. 8. Honey Face Wash – Tea tree oil and honey are all that’s needed for this clearing face wash! 9. Facial Toner – Tighten and tone those pores with this easy to create facial toner. Try using it after your facial. 10. Green Tea Exfoliator – This green tea scrub is super affordable and contains many ingredients you already have on hand.",n
+93,15,h2,DIY Spa Day Hair Treatments,n
+95,15,text,"1 . Banana Hair Mask – This potassium-packed hair mask will help give you the luscious locks you’ve always dreamed of. Evidently, many people have reaped the benefits of banana hair!",n
+101,15,text,"2. Lavender Coconut Oil Treatment - As relaxing as it is healing, this coconut oil-based treatment is just the ticket after a rough day. 3. Coconut Milk Conditioner – Rich in essential vitamins and nutrients, this DIY conditioner will put life back into your scalp and hair. So pencil this in alongside your other home spa treatments. 4. Apple Cider Vinegar Hair Rinse – Known for its PH balance restoring properties, this ACV rinse will make your hair far more manageable. 5. Moisturizing Hair Mask – Add this hair mask to your winter arsenal for some deep moisturization. 6. Hair Growth Stimulating Conditioner – Losing your locks? So give this hair growth stimulating conditioner a try! 7. Apple Cider Vinegar Scalp Scrub – Detox your scalp and help it breathe with this ACV based scalp scrub. So it’s a fantastic way to start your day. 8. Lemon Deep Hair Conditioner – Moisturize like never before with this citrus-infused deep conditioner. Without reservation, this should be added to your spa night ideas! 9. Detangling Spray – Say goodbye to snarls and snags! 10. Hair Repair Spray – From heat and styling products to everything in between, our hair sure does take a beating. Restore it with this repairing hair spray.",n
+125,15,h2,At-Home Spa Day Body Treatments,n
+127,15,text,The Perfect Pedicure,n
+145,15,text,"– Wanna know how to do the perfect at-home pedicure? Check out this post from The Dating Divas with step by step instructions! 2. Honey and Lemon Foot Soak – This moisturizing and antibacterial foot soak is the perfect remedy for a day on your feet. 3. Peppermint Foot Scrub – Now that you’ve soaked your tired feet, give ’em a good scrub with this foot scrub recipe from Blah Blah Magazine. Undoubtedly, peppermint is one of my favorite relaxing scents! 4. Sleepy Baby Scrub – This is one DIY body scrub I can’t wait to try! Smart School House uses only three ingredients including Baby Bedtime Wash to create a relaxing scrub perfect for any skin type. 5. Milk and Honey Sugar Scrub – Quick and easy to make, this milk and honey sugar scrub will leave you feeling soft and smooth after. 6. Eucalyptus Mint Foot Soak – Relax and unwind with this quick and easy to use foot soak. 7. Lavender Oatmeal Bath Soak – This lavender-scented bath soak will help you relax those cares away. So make a batch of your own. 8. Orange Green Tea Bath Salts – Refresh and replenish with orange and green tea ingredients. 9. Whipped Body Butter – This DIY body butter is the perfect addition to your home spa day- and makes an excellent gift! 10. DIY Pumpkin Spice Body Lotion – We love ANYTHING pumpkin spice, and this lotion is no exception!",n
+169,15,h2,Products,n
+170,15,text,"We collected tons of at-home spa day must-haves for you to peek at! These ideas will help you turn your home into a luxurious spa-like sanctuary. 1 . Microderm Glo – Exfoliate your dead skin cells through microdermabrasion. It is one of the most powerful and popular cosmetic skincare treatments. 2. Bath Neck Pill ow – Rest your neck on this made-for-the-bath pillow and soak your cares away. 3. Gel Eye Mask – Perfect for dry or puffy eyes; this soothing gel mask is an absolute fave of ours. 4. California Breeze Bath Salts – Containing skin-friendly minerals and scented with coconut, these bath salts are definitely worth trying. 5. Jasmine and Ylang Ylang Candle – Take aromatherapy to a whole new level with this long-burning candle that looks as good as it smells. 6. Electric Body Massager – Let this electric massager do all the work as you relax and unwind. 7. Foot Spa – Soak your cares away with this at home foot spa. It’s the perfect addition to any relaxing day. 8. Facial Headbands – Perfect for facial treatments, these headbands will keep your hair away and your face fresh. 9. Spa Slippers – This 12-pack of disposable spa slippers are the perfect addition to your at-home foot treatments. 10. Essential Oil Diffuser – Add in a little aromatherapy to your home-spa atmosphere with this diffuser.",n
+219,15,h2,At-Home Spa Night Ideas,n
+220,15,text,Cue the relaxing music and slip into some slippers and robes. A relaxing spa date night is a FANTASTIC at-home date night idea! Check out the following home spa ideas to help you and your spouse relax and unwind!,n
+222,15,text,"1 . Relaxing Date Night for 2 – A practically done-for-you kit, this idea will help the two of you relax and unwind. 2. Home Spa Ideas Date – If you love pampering and relaxing, you’ll love this date idea! 3. DIY Lube Recipes – Take your ideas to the next level with these sexy bedroom recipes! So make your day even tastier! 4. Foot Rub Kit – Give your ‘soul’ mate a little something special with this foot rub kit. So add it to your list of things to do on your DIY spa day. 5. Sexy Room Service – Nothing says a weekend at the spa-like a little room service. This one has some super spicy surprises! 6. Sensual Massage – Now that you’re all pampered and relaxed, why not indulge in a sensual massage with your spouse? Without a doubt, the perfect way to end your spa night! Certainly, this post from The Dating Divas gives you top-notch instructions on the art of massage–just the spa night ideas you need! 7. 7 Days of Spoiling – Keep the pampering going for a whole week with this gift idea. 8. 5 Senses Gift – Packed with pampering and something for every sense, we know your sweetie will love this one. 9. Blacklight Bath – Turn off the lights and add some serious glow-in-the-dark fun to your soak. Certainly, the most fun and cool spa night ideas we have! 10. Steamy Shower Games – Rinse your troubles away with these steamy shower games for two. Now you have everything to have a relaxing DIY spa day in the comfort of your own home! We have even more great ideas to help you relax:",n
+246,15,ul,,n
+248,246,li,Bubble Bath Kit,n
+250,246,li,"Fun, Relaxing Date Ideas",n
+252,246,li,Spa Night Ideas,n
+254,246,li,SpaDate,n
+256,246,li,Glow Bath Water,n
+258,246,li,Intimate Questions to Ask Your Husband,n
+260,246,li,How to Give a Sensual Massage,n
+262,246,li,Just Because Gifts,n
+264,246,li,Easy Romance Ideas,n
+266,246,li,Date Ideas,n
+268,14,div,,n
+272,268,span,Facebook,n
+276,268,span,Pin,n
+280,268,span,Email,n
+284,268,span,Print,n
+285,0,div,,n
+286,285,section,,n
+288,286,h4,Elizabeth,n
+293,286,p,"I'm a friendly gal who's obsessed with all things marriage and Hubby-related :). When I'm not having adventures with my sweetheart and baby boy, you can find me in photographer mode, deep in a Netflix binge, or crafting! I also enjoy treasure hunting , dark chocolate, and eating as much sushi as possible.",n
+294,286,text,Learn more about Elizabeth,n
+297,285,div,,n
+299,297,span,Free 7-day Program,n
+301,297,h4,One week to a better marriage.,n
+303,297,p,,n
+304,303,text,Sign up now and get our,n
+306,303,strong,Love Program,n
+307,303,text,absolutely free !,n
+315,297,div,,n
+316,315,fieldset,,n
+318,316,legend,Husbands or Wives,n
+320,316,div,,n
+324,320,div,Husbands,n
+328,320,div,Wives,n
+331,315,div,First Name,n
+339,315,div,Email,n
+342,315,div,,n
+344,342,label,Name,n
+348,342,div,This field is,n
+366,285,div,,n
+371,366,h3,“Our Love ShamROCKS” St. Patrick’s Day Gift Idea,n
+377,366,h3,10 Male-Approved Gift Baskets,n
+383,366,h3,Our Best and Most Popular Valentine’s Day Ideas,n
+385,0,div,,n
+386,385,div,,n
+387,386,h3,,n
+389,387,text,We love your comments,n
+391,387,small,Cancel reply,n
+393,386,p,We LOVE hearing from our readers! Thanks,n
+394,386,form,,n
+397,394,p,Name,n
+401,394,p,Email,n
+405,394,p,Comment,n
+419,385,h3,Recent Comments,n
+420,385,ol,,n
+421,420,li,,n
+422,421,article,,n
+423,422,footer,,n
+425,423,div,Charli,n
+430,423,div,"August 5, 2021 at 7:13 am",n
+433,422,p,Making plans for a home spa day with my mom since I’m not very close to her. These will really help!,n
+438,421,li,,n
+439,438,footer,,n
+441,439,div,Lexee,n
+446,439,div,"August 8, 2021 at 10:14 pm",n
+449,438,p,"YAY!! So glad you hear it, enjoy!",n
+453,420,li,,n
+454,453,footer,,n
+456,454,div,Alperen,n
+461,454,div,"February 3, 2021 at 1:27 pm",n
+464,453,p,Thanks,n
+467,420,li,,n
+468,467,article,,n
+469,468,footer,,n
+471,469,div,Hanna,n
+476,469,div,"October 4, 2020 at 1:20 pm",n
+479,468,p,them. Thanks ladies.,n
+484,467,li,,n
+485,484,footer,,n
+487,485,div,Sarina,n
+492,485,div,"October 15, 2020 at 5:09 pm",n
+495,484,p,Aren’t these great? Hope you enjoy!,n
+499,385,p,See More Comments,n

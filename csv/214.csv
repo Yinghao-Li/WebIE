@@ -1,0 +1,121 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+891,0,div,,n
+951,891,div,,n
+954,951,h1,Jerry's Online eCatalog Sale,n
+955,951,div,,n
+957,955,h1,JerrysArtarama.com 2016 Holiday Sale Online eCatalog Sale,n
+960,955,p,"Save More, Create More!",n
+961,955,p,,n
+962,961,text,You Can Download or Print anytime,n
+964,961,br,"Easily view all the pages of our ""2016 Holiday Sale"" online. Flip through the pages... Zoom in on the sale items... See the details...",n
+966,961,br,"See an item you want to learn more about or view online, Just click on the link provided ""Follow Link"" and a product or category page will open.",n
+970,961,br,Expires 12 or 31 or 2016 Midnight Est.,n
+978,955,table,,n
+980,978,span,Catalog Only,n
+981,978,p,,n
+983,981,strong,PLUS When you sign up now... Get a special thank you offer coupon today,n
+985,981,br,Click Here To Receive Digital Copy >,n
+988,978,span,Receive Our Printed Copy in the Mail,n
+989,978,p,,n
+990,989,text,Receive in mail,n
+992,989,br,Click Here To Receive Printed Copy >,n
+994,891,div,,n
+995,994,div,,n
+997,995,div,,n
+999,997,div,Where Artists Save on Art Supplies,n
+1001,997,div,Free and Fast Shipping @ $75+,n
+1003,997,div,Personalized and Expert Service,n
+1004,995,div,,n
+1005,1004,text,Call Us,n
+1007,1004,span,-8478,n
+1009,995,ul,,n
+1011,1009,li,#,n
+1013,1009,li,A,n
+1015,1009,li,B,n
+1017,1009,li,C,n
+1019,1009,li,D,n
+1021,1009,li,E,n
+1023,1009,li,F,n
+1025,1009,li,G,n
+1027,1009,li,H,n
+1029,1009,li,I,n
+1031,1009,li,J,n
+1033,1009,li,K,n
+1035,1009,li,L,n
+1037,1009,li,M,n
+1039,1009,li,N,n
+1041,1009,li,O,n
+1043,1009,li,P,n
+1045,1009,li,Q,n
+1047,1009,li,R,n
+1049,1009,li,S,n
+1051,1009,li,T,n
+1053,1009,li,U,n
+1055,1009,li,V,n
+1057,1009,li,W,n
+1059,1009,li,X,n
+1061,1009,li,Y,n
+1063,1009,li,Z,n
+1065,995,div,,n
+1066,1065,div,,n
+1068,1066,div,,n
+1071,1068,div,,n
+1073,1071,h3,Email Exclusive Club,n
+1075,1071,p,"Subscribe and receive coupon specials, great promos and VIP offers!",n
+1078,1071,p,FREE Gift + BONUS COUPON and Free Shipping,n
+1083,1068,div,Sign Up,n
+1088,1066,div,,n
+1091,1088,div,eGift Cards and Gift Cards,n
+1093,1088,p,Send One Now Check Your Balance,n
+1097,1065,h4,Connect With Us,n
+1105,1065,div,,n
+1107,1105,h4,Need Help?,n
+1108,1105,ul,,n
+1120,1108,li,Gift Card Balance,n
+1122,1108,li,"Product, Healthy and Safety Details",n
+1124,1108,li,Online Web Survey,n
+1126,1108,li,Accessibility Statement,n
+1128,1065,div,,n
+1130,1128,h4,Artist Resources,n
+1131,1128,ul,,n
+1133,1131,li,Jerry's LIVE,n
+1135,1131,li,Art Instruction Lessons,n
+1137,1131,li,Teacher Class Lists,n
+1139,1131,li,Art Class Resources,n
+1141,1131,li,Art Learning Center,n
+1143,1131,li,Artists in the Spotlight,n
+1145,1131,li,Art Contests,n
+1147,1131,li,Testimonials,n
+1149,1131,li,Brand Ambassador Program,n
+1150,1065,div,,n
+1152,1150,h4,More Shopping,n
+1153,1150,ul,,n
+1155,1153,li,Retail Store Locator,n
+1157,1153,li,Shop by Brands,n
+1159,1153,li,Digital Catalog,n
+1163,1153,li,Online Listing,n
+1165,1153,li,Trending Now,n
+1169,1065,li,,n
+1171,1169,span,Is Proprietary,n
+1175,1169,p,"Jerry's Artarama has been proudly serving artists since 1968 with only the finest art materials and supplies. We are dedicated to you, the artist! Shop online from a professional art supply store offering quality, selection and the best prices!",n
+1177,994,div,,n
+1180,1177,div,,n
+1181,1180,text,2022 JerrysArtarama.com All Right Reserved,n
+1182,1180,div,,n
+1185,1182,div,"Where Artists Shop For The Best Supplies, Values and Service!",n
+1187,1182,p,Site Map Privacy Policy About Jerry's Website Features,n
+1192,1182,div,,n
+1194,1192,strong,Contact Us,n
+1196,1192,br,-U-ARTIST,n
+1198,1192,br,Corporate,n
+1201,1182,div,Proudly Serving Artists,n
+1205,1177,div,,n
+1207,1205,div,Payment Options,n
+1215,1205,div,Safe and Secure Shopping,n
+1407,0,text,Quick View,n
+1423,0,div,,n
+1425,1423,h4,Welcome to Jerry's we have,n
+1427,1423,h3,a Gift For You,n
+1429,1423,p,"Get artist specials, THE BEST SALES and EXCLUSIVE DEALS delivered right to your inbox by signing up. We'll even send you a welcome offer as special thanks for joining!",n
+1436,1423,div,No Thank You or Already On List,n

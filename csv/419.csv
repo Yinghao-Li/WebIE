@@ -1,0 +1,477 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+5,3,div,,n
+6,5,div,,n
+40,6,p,"In response to my recent post on the 10 Important Items You Should Have, But Might Not Think Of Bringing On Your Bike Tour , BicycleTouringPro.com reader, Jim Dirlam sent me a checklist that he created to help bicycle travelers pack for their upcoming bicycle touring adventures.",n
+46,6,p,"The bicycle touring gear checklist is incredibly detailed and I’ve decided to share it with you , as I know it will help many of you who are currently in the process of planning and preparing for your upcoming trips by bike.",n
+48,6,p,"As Jim notes in his email to me, this is an updated list of everything one might need on a bike tour, but not necessarily everything one SHOULD bring.",n
+56,6,h3,Bicycle Accessories,n
+57,6,ul,,n
+59,57,li,Front + or – Rear Rack and Panniers —and or or — Trailer,n
+61,57,li,Handlebar Bag,y
+63,57,li,Rain Covers and or or Plastic Bags,y
+65,57,li,Trunk Bag or PVC Dry Bag*,y
+67,57,li,Seat or Frame Bag,y
+69,57,li,Comfortable Saddle,y
+71,57,li,Handlebar Extensions with Paddled Grip Tape,y
+73,57,li,Stem Riser or Adjustable Stem,y
+75,57,li,Water Bottles+Cages and or or Hydration Pack,y
+77,57,li,LCD Cycle Computer,y
+79,57,li,LED Flashing Tail Light,y
+81,57,li,LED Head Light,y
+83,57,li,Mirror,y
+85,57,li,Air Horn or Bell,y
+87,57,li,Multi-mount,y
+89,57,li,Front + Rear Fenders,y
+91,57,li,Bungie Cords or Webbing Straps,y
+93,57,li,Bike Lock,y
+95,57,li,Reflectors,y
+97,57,li,Dog or Bear Pepper Spray,y
+99,57,li,Bike Mojo —don’t ride without one!,y
+101,6,h3,Camping Gear,n
+102,6,ul,,n
+104,102,li,Tent + or,y
+106,102,li,Camping Hammock or Tarp + Tyvek or Poly Ground Sheet,y
+108,102,li,Sleeping Bag + Compression Sack,y
+110,102,li,Sleeping Bag Liner,y
+112,102,li,Air Mattress or Pad+Stuff Sack,y
+114,102,li,Air Pillow,y
+116,102,li,Nylon Stuff Sacks,y
+118,102,li,Backpacking Stove,y
+120,102,li,Fuel Bottle,y
+122,102,li,Cook Pot,y
+124,102,li,Utensils,y
+126,102,li,Insulated Travel Mug,y
+128,102,li,Water Filter or UV Purifier or Aqua Mira,y
+130,102,li,Water Tank,y
+132,102,li,*PVC Dry Bag,y
+134,102,li,Portable Camp Chair,y
+136,102,li,Light Backpack or Daypack or Hydrationpack,y
+138,102,li,Bike Cover coated nylon or poly tarp—cut to fit your bike and gear,y
+140,102,li,Clothes Pins,y
+142,102,li,Mosquito Head Net,y
+144,6,h3,Cycling Clothes,n
+145,6,ul,,n
+147,145,li,Helmet + optional Visor,y
+149,145,li,Cycling Jersey or Synthetic T-Shirt,y
+151,145,li,Cycling Shorts,y
+153,145,li,Cycling or Synthetic Underwear,y
+155,145,li,Cycling Gloves,y
+157,145,li,Cycling Socks,y
+159,145,li,Clipless Cycling Shoes,y
+161,6,h3,Foul-Weather Cycling Clothes,n
+162,6,ul,,n
+164,162,li,Long-Sleeve Jersey or Light-Mid Synthetic or Wool Zip Shirt,y
+166,162,li,Cycling Long-Tights or Insulated Windpants,y
+168,162,li,Rain Jacket + Pants,y
+170,162,li,Fall or Winter Gloves or Mittens+Liners,y
+172,162,li,Synthetic Helmet Liner or Sweat Bands or Bandana,y
+174,162,li,Helmet Liner or Skull Cap or Fleece or Wool Hat,y
+176,162,li,Balaclava or Neoprene Face Mask,y
+178,162,li,Arm + Leg Warmers,y
+180,162,li,Waterproof Socks,y
+182,162,li,Waterproof Rain Booties or Gaiters,y
+184,162,li,Helmet Cover,y
+186,6,h3,Camp + Town Clothes,n
+187,6,ul,,n
+189,187,li,Clean Synthetic or Cotton T-Shirt or Collared Travel Shirt,y
+191,187,li,Fleece Jacket or Vest or Mid or Heavy L or S Pullover,y
+193,187,li,Synthetic Hiking or Running or Swim Shorts,y
+195,187,li,Synthetic Pants or Convertable Pants or Shorts with elastic+belt,y
+197,187,li,Synthetic Underwear,y
+199,187,li,Base Layer,y
+201,187,li,Synthetic or Wool Socks,y
+203,187,li,Baseball Cap or Visor or Sun Hat,y
+205,187,li,Sandals or Rubber Clogs or Flip-Flops or Running Shoes,y
+207,6,h3,Food Bag,n
+208,6,ul,,n
+210,208,li,50′ Nylon Cord,y
+212,208,li,Meals + Snacks,y
+214,208,li,Multi-Spice or Individual Spices,y
+216,208,li,Sports or Energy Drink Mixes,y
+218,6,h3,Documents,n
+219,6,ul,,n
+221,219,li,Drivers License,y
+223,219,li,Passport,y
+225,219,li,ATM or Debit Card,y
+227,219,li,Credit Card,y
+229,219,li,Cash,y
+231,219,li,Personal or Traveler’s Checks,y
+233,219,li,Travel Tickets,y
+235,219,li,Photocopies,y
+237,219,li,Emergency Contact Info,y
+239,219,li,Health + or – Travel Insurance Card,y
+241,219,li,Student ID Card or Youth Hostel Card,y
+243,219,li,Phone Calling Card,y
+245,219,li,Contacts List + Stamps,y
+247,219,li,Biz Cards,y
+249,6,h3,Personal Items,n
+250,6,ul,,n
+252,250,li,Watch,y
+254,250,li,Sunglasses,y
+256,250,li,Contact Lenses,y
+258,250,li,Eyeglasses,y
+260,250,li,Sunscreen,y
+262,250,li,Insect Repellent,y
+264,250,li,Lip Balm,y
+266,6,h3,Gadgets + Travel Items,n
+267,6,ul,,n
+269,267,li,Cell Phone + Charger,y
+271,267,li,LED Headlamp + Batteries,y
+273,267,li,Digital Camera; Memory Cards; Charger; Case,y
+275,267,li,Extra Battery; Card Reader; Mini Tripod; Screen Shield; Lens,y
+277,267,li,iPod or mp3 Player,y
+279,267,li,GPS,y
+281,267,li,USB Flash Drive,y
+283,267,li,USB mini cable,y
+285,267,li,PDA or Pocket-Mail Device,y
+287,267,li,Laptop Computer,y
+289,267,li,NOAA Weather Radio,y
+291,267,li,2-Way Radio,y
+293,267,li,Maps,y
+295,267,li,Guidebook,y
+297,267,li,Pen + Sharpie + Highlighter,y
+299,267,li,Journal,y
+301,267,li,Reading Book or Magazine,y
+303,267,li,Small Padlock,y
+305,267,li,Binoculars,y
+307,6,h3,Bike Tools + Spare Parts,n
+308,6,ul,,n
+310,308,li,Air Pump,y
+312,308,li,Patch Kit + Tire Levers,y
+314,308,li,Spare Tubes,y
+316,308,li,Presta or Schrader Valve Adapter,y
+318,308,li,Tire Pressure Gauge,y
+320,308,li,Degreaser,y
+322,308,li,Chain Lube,y
+324,308,li,Spokes,y
+326,308,li,QR Axle,y
+328,308,li,Trailer QR Axle + Retaining Pins,y
+330,308,li,Brake Pads,y
+332,308,li,Spare Tire,y
+334,308,li,Brake or Shift Cable,y
+336,308,li,Nuts + Bolts + Bailing Wire,y
+338,308,li,Hose Clamps + Carriage Bolts,y
+340,308,li,Replacement Cleats + Hardware,y
+342,308,li,Shop Rag,y
+344,308,li,Bicycle Multi-Tool —or indiv tools below,y
+346,308,li,Screwdrivers; Wrenches,y
+348,308,li,Chain Tool + Spare Link,y
+350,308,li,Cassette or Freewheel Removal Tool,y
+352,308,li,Bike Repair,y
+354,6,h3,Additional Repair Items,n
+355,6,ul,,n
+357,355,li,Multi-Tool or Pocket Knife,y
+359,355,li,Duct Tape and Electrical Tape,y
+361,355,li,Plastic Zip Ties,y
+363,355,li,Glue or Liquid Thread Lock,y
+365,355,li,Batteries,y
+367,355,li,Plastic Bags,y
+369,355,li,Bite or Flow Valve,y
+371,355,li,Air Mattress Patch Kit,y
+373,355,li,Sewing Kit,y
+375,355,li,Folding Sewing Scissors,y
+377,355,li,Safety Pins,y
+379,355,li,Shoe Laces,y
+381,355,li,Zipper Pulls,y
+383,355,li,Rubber Bands,y
+385,355,li,Seam Sealer,y
+387,6,h3,Toiletries,n
+388,6,ul,,n
+390,388,li,Travel Towel,y
+392,388,li,Washcloth,y
+394,388,li,Soap or Shampoo;,y
+396,388,li,Deodorant,y
+398,388,li,Toothbrush + Toothpaste + Floss or Floss-Sticks,y
+400,388,li,Toilet Paper or Handy or Baby Wipes,y
+402,388,li,Hand Sanitizer,y
+404,388,li,Skin Cream —good,y
+406,388,li,Nail Clippers + Nail File,y
+408,388,li,Tweezers,y
+410,388,li,Hair Brush or Comb,y
+412,388,li,Hair Ties ‘Scrunchies’,y
+414,388,li,Disposible Razor —or substitute,y
+416,388,li,Compact Mirror —or use bike mirror,y
+418,388,li,Woman’s Hygiene Products,y
+420,388,li,Ear Plugs,y
+422,388,li,Prophylactic —maybe you’ll get lucky!,y
+424,388,li,Prescription Medication,y
+426,388,li,Multi-Vitamins,y
+428,6,h3,First-Aid or Other Toiltries,n
+429,6,ul,,n
+431,429,li,Band-Aids,y
+433,429,li,First-Aid Ointment,y
+435,429,li,Adhesive First-Aid Tape,y
+437,429,li,Moleskin or Blister Bandages,y
+439,429,li,Alcohol Wipes,y
+441,429,li,Cotton Swabs,y
+443,429,li,Compress or Gause Pads,y
+445,429,li,Ibroprophen or Aspirin,y
+447,429,li,Anti-Chafing Balm,y
+449,429,li,Anti-Itch Cream,y
+451,429,li,Muscle Relief Cream,y
+453,429,li,Foot Powder,y
+455,429,li,Anti-Diahearreal Tabs,y
+457,429,li,Antihistimine Tablets,y
+459,429,li,Zinc Tablets —cold prevention,y
+461,429,li,Sports Injury Cloth Bandage,y
+463,429,li,Neoprene Knee or Ankle Wrap,y
+465,6,h3,Survival Items,n
+466,6,ul,,n
+468,466,li,Lighter + Storm Matches,y
+470,466,li,Compass,y
+472,466,li,Whistle,y
+474,466,li,Emergency Space Blanket,y
+476,466,li,Personal Locator Beacon,y
+515,5,h5,Jim Dirlam,n
+518,3,div,,n
+520,518,div,,n
+525,520,div,,n
+529,525,div,Ascher Ultra Bright USB Rechargeable Bike…,n
+532,525,div,,n
+534,532,span,$18.99,n
+536,532,span,$26.99,n
+545,520,div,,n
+549,545,div,ALLEN Tension Bar Bicycle Cross-Bar…,n
+552,545,div,,n
+554,552,span,$12.88,n
+556,552,span,$19.99,n
+565,520,div,,n
+569,565,div,Domestique,n
+574,565,div,$2.99,n
+583,518,div,Ads by Amazon,n
+585,3,div,,n
+586,585,h3,,n
+587,586,text,43 thoughts on “,n
+589,586,span,Your Complete Bicycle Touring Gear Checklist,n
+590,586,text,”,n
+591,585,ol,,n
+597,591,li,,n
+599,597,cite,Jim Dirlam,n
+602,597,div,,n
+604,602,p,"Darren, thanks for posting. Just wanted to point out that the gear list that is posted above is actually version 4, but that’s OK, as you have the most recent PDF list available for download via the hyperlink… v4 and v5 are nearly identical, as I corrected a few errors",n
+606,602,p,"There’s many “gear lists” out there, but they always seemed to be missing something or weren’t specific to bike touring. With that said, unless one is embarking on a world tour or to remote regions, not everything on the list is needed, and many times might be overkill… Your legs will thank you with a “less is more” attitude! Also, I listed some specific product brands as examples, although I’m not endorsing those products in any way. If anyone thinks I missed anything on this list, let me or Darren know… Happy Touring!",n
+609,597,div,"July 28, 2009 at 12:05 pm",n
+616,591,li,,n
+623,616,p,Thanks again Jim!,n
+626,616,div,"July 28, 2009 at 12:20 pm",n
+628,591,li,,n
+633,628,div,,n
+640,633,p,"Darren, I just saw your Twitter post asking for questions. Hopefully this gear checklist is relevant to my situation. I’m planning my first tour and I don’t know how much storage space I’m really going to need, so I don’t want to overbuy . I’m trying to go ultralight and minimalist and still keep the cost down while using quality goods. The only item I have so far is a Marmot synthetic baselayer, which weighs under 6 oz. I have a wish list for the rest of the gear, but am still flexible on what exactly I’ll be using. When a pannier is described by its volume in liters, all I can think of is “how many 2 liters of Coke will I have in gear?” Is there a better way to figure out how much space you really need without already having the gear or doing crazy measuring? My trip will be from Kansas City to Washington, DC and then over to the Atlantic Ocean and take place in June. My 1980’s Bianchi Grizzly has fender or rack eyelets on the front and back. Thanks.",n
+643,633,div,"January 13, 2010 at 9:23 pm",n
+651,628,li,,n
+653,651,cite,Pat,n
+656,651,div,,n
+657,656,p,,n
+658,657,text,For “Ultra minimalist touring”,n
+660,657,br,"1. you wouldn’t use panniers or a rack, and stick with a backpacking set up. But I know this question was asked in 2010.",n
+662,657,br,"2. Buy a reasonable to small size pannier. This will force you to only pack as much as you can fit inside. The more storage capacity you have the more things you will pack, but when your limited then you get creative.",n
+664,657,br,3. There is also room for a full size tent or large bag on the handle bars. Just gotta figure out how you want to strap it.,n
+666,656,p,"4. Now adays there are A TON of affordable options. But when I first started, I threw on an aluminum rack, zip ties, bungiee cords and just used whatever backpack or bag I had laying around and strapped her on the rack. I even read of people using kitty litter tubs. Bungee cord bag onto the handlebar and your set.",n
+667,656,p,,n
+668,667,text,"5. How to pack ultra light? Only bring what you can wear and have to use. I think underwear and socks are the only clothing you would need 2 pairs of. Otherwise no need to double up on shirts, shorts or pants. only 1 of each if you have to bring it. Just wash your clothes a lot, thats life on the road.",n
+670,667,br,Camping set up is probably the largest volume and weight.,n
+672,667,br,"Food, go no stove only cold foods",n
+674,667,br,Tech or camera- this can weigh the most. between gear and batterys. Just make sure you use if you bring it. I bring 2x Bat of each and bring a battery + solar to charge.,n
+676,667,br,"bike tools- dont cheap out on weight on tubes, patches and neccessary tools for your loaction. Better safe than sorry, but beyond basics. at most a chain breaker, but idk how to put a chain back together so I’m not sure why i bring one.",n
+678,667,br,Dish wash soap,n
+680,656,p,Clothes and camp set up is probably the biggest weight. I still pack to be comfortable and extra warm in case. Id rather be warm and heavy than the alternative. BUT you can always BUY more layers so bring the minimum to below average.,n
+682,656,p,BUT MORE IMPORTANTLY ORGANIZE YOUR GEAR SO YOU CAN FIND IT.,n
+685,651,div,"January 28, 2021 at 2:25 am",n
+692,591,li,,n
+697,692,div,,n
+699,697,p,"Jaron, that’s a good question. I think the best way to know what size panniers to get is to pack up all the stuff you think you are going to need for your trip and bundle it all together. Remember how big that pile looks. Then try and find some panniers at your local REI or sporting goods store and see which panniers you think will hold all the stuff you have packed. Remember though that you need to have some extra space inside your panniers for extra food and water you might pick up along the way, as well as an additional items or souvenirs you might acquire while on your travels.",n
+701,697,p,When I bought my first set of panniers I just got the largest set Lone Peak made because I knew that I could always ride with less stuff than the panniers held… and I knew I’d have the room needed if I did want to pick up some additional stuff along the way. Does that make sense?,n
+704,692,div,"January 14, 2010 at 3:33 pm",n
+711,591,li,,n
+716,711,div,,n
+718,716,p,"Jaron, Darren’s suggestion is a wise idea assuming you find a local store, before buying them. If you cannot find any to test fit, I would be more concerned with getting quality bags, rather then too concerned with size. Volume runs from about 600cu to well over 3,000 cu inches. Most pairs are approx 1,500-3,000 cu in. Jandd Expeditions are enormous. Since I don’t know how much gear you’re hauling, and if I had to guess, I’d get at least 1,500cu bags up front and at least 2,500cu on rear.",n
+720,716,p,"On 2 tours, I used Lone Peaks P-400s on the rear rack, LP bar bag, but no front panniers, as I didn’t have any. I thought the P-400s were small; had to bungee my tent, sleeping bag and foam pad above the rack, plus a small daypack above all that which made for a back heavy ride. I don’t recommend touring with a “rear only” setup as it put a lot of stress on your back wheel. Since then I’ve been using a BOB trailer , but I recently got some Axiom Champlain and Lasalle panniers. I haven’t tried the Lasalles yet, but they are 40L or 2440 cubic inches and intend to use them up front. I’ve used the Champlains over a weekend ride—huge, but still needed a little room for a tent and food bag Remember, you can always haul less stuff in larger panniers; you’ll be strapping extra shit over your bike if you get small bags. As Darren said, you want to leave some spare room for food, water, and gifts. I recommend you go with front + rear panniers + handlebar bag setup, which allow you to carry everything in panniers, and you may still have room inside your panniers, if you go light as you said.",n
+722,716,p,"As for brands, Axiom or Lone Peaks are a solid choice for budget buyers. to be a steal and they are way better quality than Nashbar or Performance bike brands I can vouch for either, although I haven’t done a long tour with the Axioms yet. If you have the scratch and want to make an investment in the best gear, go for Arkels, but they are very $$$. I recently got fed up with a Nashbar bag and got an Arkel bar bag—the best! If you want high quality AND want or need waterproof, get Ortliebs. They’re world popular for a reason, although you give up organizing convenience of pockets.",n
+724,716,p,"If you have time or patience, you might find some killer gear deals on Craigslist or ebay. Otherwise, check out bikebagshop.com or treefortbikes.com or thetouringstore.com . Also REI, EMS, or your LBS…",n
+727,711,div,"January 14, 2010 at 10:46 pm",n
+734,591,li,,n
+741,734,p,PS,n
+744,734,div,"January 14, 2010 at 10:57 pm",n
+751,591,li,,n
+758,751,p,Thanks,n
+761,751,div,"January 19, 2010 at 9:26 pm",n
+768,591,li,,n
+770,768,cite,JohannP,n
+775,768,p,An excellent guide !!!!!!,n
+778,768,div,"March 15, 2010 at 9:18 am",n
+785,591,li,,n
+792,785,p,"Thanks Johann. If it helps just one rider, than it was worth compiling this list…",n
+795,785,div,"March 15, 2010 at 6:48 pm",n
+802,591,li,,n
+809,802,p,One more thing I have found essential,n
+812,802,div,"January 29, 2011 at 7:41 pm",n
+819,591,li,,n
+821,819,cite,Ian Tavendale,n
+824,819,div,,n
+825,824,p,,n
+826,825,text,Any idea what weight is average for carrying on a bike my wife and I plan on cycling from Singapore as far through Asia as we can get in 2 years and have no idea what weight is normal to carry day after day.,n
+828,825,br,Any assistance would be appreciated.,n
+830,824,p,Cheers,n
+833,819,div,"January 31, 2011 at 2:01 am",n
+840,591,li,,n
+847,840,p,"Ian, when it comes to weight, the less – the better. There is no RULE per say. For more advice on the weight of your bike, watch this video: http: or or bicycletouringpro.com or overcome-travel-hurdles-bicycle-touring or",n
+851,840,div,"February 1, 2011 at 8:56 am",n
+858,591,li,,n
+865,858,p,"Good idea, Jack. I needed to use many repair shops on my tours, and used to collect biz cards from them even though I probably never be back to them. I also suppose if one uses one the newer cell phones, they could get that kind of info on demand…assuming you had cell service…",n
+868,858,div,"February 1, 2011 at 8:02 pm",n
+870,591,li,,n
+875,870,div,,n
+877,875,cite,Siavash,n
+882,875,p,"thanks for informations!…my friend gave me a tent but i think it’s small, Do you think it’s good for a long trip or I should by a new one?",n
+885,875,div,"February 20, 2011 at 2:13 am",n
+893,870,li,,n
+898,893,div,,n
+900,898,p,"The tent looks good, but if you think it’s too small, it very well might be. In other words: if you are uncomfortable inside it…. and you think you’ll be uncomfortable inside the tent for days on end, then yes, you might want to get another or larger tent.",n
+902,898,p,"This sort of tent can be used for long hauls, but small tents like this are usually meant just as back-up tents in the case of an emergency, foul weather, etc.",n
+905,893,div,"February 20, 2011 at 12:55 pm",n
+907,591,li,,n
+912,907,div,,n
+919,912,p,"In my experience and opinion, a bivy type tent is better for long-distance hiking and backpacking than for bike touring. The size and weight of a bivy are obviously attractive features, but in day-to-day application for bike touring, you’ll appreciate a tent with a bit more elbow room. Ever set up a bivy in a rainstorm, then try to wrestle out of wet clothes without touching the tent walls? It’s not fun! And sometimes the ground is too hard to stake down in. Assuming you’re going solo, I recommend a 2-man, freestanding tent you can sit up in. Little chance you’ll notice the extra 2-3 pounds of weight as long as you keep your overall gear weight down to a reasonable total.",n
+922,912,div,"February 20, 2011 at 5:36 pm",n
+930,907,li,,n
+937,930,p,"I agree with you Jimbo. When it comes to longer tours, I feel it is more important to be comfortable than it is to worry about a couple extra pounds of weight on your bike. This sort of small bivy tent can work fine for shorter trips. But for a longer tour you are going to want a tent that feels a bit more like home.",n
+940,930,div,"February 20, 2011 at 7:47 pm",n
+947,591,li,,n
+949,947,cite,Dalton Winslow,n
+953,947,p,,n
+954,953,text,"Great list– really not a lot of fluff. With the newest fabrics it’s easy to travel very light and launder stuff easily. Cotton is just too heavy, bulky, and takes too long to dry.",n
+956,953,br,"A few tips from many, many summers on tour. A small folding umbrella can get you out of your tent vestibule dry and back in dry. It can roll into your pad or whatever is over your back rack while riding. I’ve actually stopped and “deployed” the umbrella in a downpour when no cover was in sight and stayed relatively dry.",n
+958,953,br,"A large but very worn beach towel will cover you out of the shower, dry easily, and even allow a parking lot wardrobe alteration in a pinch. Go for low-bulk, large area.",n
+961,947,div,"May 7, 2011 at 6:17 pm",n
+968,591,li,,n
+970,968,cite,A,n
+973,968,div,,n
+975,973,p,"Do not store cooking spices in film cannisters! They are filled with nasty chemicals! This goes for medicine, food, or anything you plan on ingesting.",n
+977,973,p,Happy pedaling,n
+980,968,div,"July 28, 2011 at 5:43 pm",n
+987,591,li,,n
+994,987,p,"Point taken, A. Now I bring “Mrs. Dash” in her own container…",n
+997,987,div,"August 13, 2011 at 2:40 pm",n
+1004,591,li,,n
+1006,1004,cite,Tia,n
+1011,1004,p,"excellent resource, thanks Jim!",n
+1014,1004,div,"March 17, 2013 at 2:30 pm",n
+1016,591,li,,n
+1021,1016,div,,n
+1023,1021,cite,Cody,n
+1028,1021,p,How much should my bike and trailer weigh fully loaded? I am planning on biking from Minnesota to Washington State. I weigh around 150 lbs and don’t want to bring to much or curse myself for not enough.,n
+1031,1021,div,"April 8, 2013 at 1:17 pm",n
+1039,1016,li,,n
+1046,1039,p,That’s too much! Less than 90 lbs is ideal.,n
+1049,1039,div,"April 11, 2013 at 1:34 pm",n
+1056,591,li,,n
+1058,1056,cite,Yannick McLeod,n
+1062,1056,p,,n
+1063,1062,text,"Hey guys,",n
+1065,1062,br,"I am about to undertake my first big bike trip in August across the entirety of Japan . It’ll take me about 50-60 days. It’s been good reading through the comments and browsing through the list of essentials just to get a rough idea of what I might need, but I am still pretty clueless as to what exactly to bring and what size panniers to get. I’m hearing 2500 cu. is good for size, but I can’t get my head around what that can actually physically pack. I am most definitely a beginner, and any help or advice would be well appreciated!",n
+1072,1056,div,"June 13, 2013 at 7:42 pm",n
+1079,591,li,,n
+1081,1079,cite,Roman,n
+1084,1079,div,,n
+1086,1084,p,"Yannick,",n
+1088,1084,p,You don’t need much… pretty much 90% of all bike tourers pack way too much and go super slow on the road. Your vacation will be better the lighter you go. You will ride faster and have more time to explore places.,n
+1089,1084,p,,n
+1090,1089,text,"Buy yourself medium-sized rear bags and a handlebar bag. Don’t overpack. If you need extra clothing on the trip, buy it in Japan as needed. If you need extra repairs on your bike, take it to a shop. The list posted in the article by Jim is simply overkill. An extra tire? Is he biking in Siberia?",n
+1092,1089,br,"Pedal wrench? That weighs over 1 or 2 pound! You can buy one cheaply at a hardware store if and when you need it. To summarize tools, you shouldn’t need more than a compact allen wrench set, tire irons, a spare tube + patch kit, and a pump. Don’t forget you’ll be in the birthplace of Shimano! Don’t over think the problem of what to take. Be light, be fast, and bring your credit card.",n
+1093,1084,p,,n
+1094,1093,text,–,n
+1096,1093,br,Roman,n
+1099,1079,div,"June 21, 2013 at 11:24 am",n
+1106,591,li,,n
+1108,1106,cite,Happy bill,n
+1111,1106,div,,n
+1112,1111,p,,n
+1113,1112,text,Thanks,n
+1115,1112,br,"One thing I will add is that sometimes people start looking at the distance of the trip and start thinking “omg, what might happen in 500 miles” I often ask how many miles they have trained? 2-3 thousand is a round answer. To which I ask how many mechanicals have you had in that time.",n
+1117,1112,br,Pack lighter.,n
+1119,1111,p,Bill,n
+1122,1106,div,"July 26, 2013 at 11:56 am",n
+1129,591,li,,n
+1134,1129,div,,n
+1136,1134,p,Jim,n
+1138,1134,p,Could i use your list on my website? I’m trying to pool extensive resources on cycle touring info in one place free of charge to everyone. Your list is by far the most thorough and user friendly i’ve found!,n
+1140,1134,p,Jack,n
+1143,1129,div,"July 27, 2013 at 2:26 am",n
+1145,591,li,,n
+1150,1145,div,,n
+1152,1150,cite,Martin James,n
+1155,1150,div,,n
+1156,1155,p,,n
+1157,1156,text,"Hi Darren,",n
+1159,1156,br,Any feedback on the Thule racks? I have no braze on’s for racks or guards. I am hoping to do a trip through Slovenia and Italy – Light!…. These look ideal as the racks and luggage should remove the need for ‘Fenders’ and hold enough weight for what I need.,n
+1161,1155,p,Looking Good!,n
+1165,1155,p,M,n
+1168,1150,div,"November 30, 2013 at 8:20 am",n
+1176,1145,li,,n
+1183,1176,p,"This is the review I wrote about the Thule racks http: or or bicycletouringpro.com or freeload-rack-reviewith I liked them. I think they are one of the best new cycling products I have used in years and years. They are expensive, but they work very well.",n
+1188,1176,div,"January 17, 2014 at 2:22 pm",n
+1195,591,li,,n
+1197,1195,cite,John Roukes,n
+1200,1195,div,,n
+1201,1200,p,,n
+1202,1201,text,great info.,n
+1204,1201,br,"I am just starting to get ready to tour Maine, if it ever stops snowing, and need all the help I can get.",n
+1208,1200,p,John,n
+1211,1195,div,"February 17, 2014 at 12:07 pm",n
+1218,591,li,,n
+1220,1218,cite,Trevor,n
+1224,1218,p,,n
+1225,1224,text,"Everybody wants to take too much stuff, the whole point of this is to get away from it all, leave the junk behind, relax enjoy, unless your in the middle of no where and will be for a long time you will be fine with less.",n
+1227,1224,br,"Stuff is what kills us all! Take what you will use and leave the rest, if need be you can always check back into to so called reality and hit a store. Other wise chill everybody with all the stff.",n
+1229,1224,br,The FlyingFletchmam,n
+1232,1218,div,"February 28, 2014 at 3:56 pm",n
+1239,591,li,,n
+1241,1239,cite,troublemonkey,n
+1246,1239,p,"Trevor and Yannick are right, what is the point of an adventure if you’re not testing your comfort zone? Having an exhaustive list is marvellous to work from, but less really is more. I tour on an outdated folding bike with racks I’ve cobbled together myself and panniers from a dodgy dutch company that cost me a tenner. I get the ‘oh I have the best kit therefore I’m having a better experience than you’ thing, but a month, nay 3 days in and you wont give a toss about all that elitist stuff.",n
+1249,1239,div,"August 28, 2014 at 10:26 am",n
+1256,591,li,,n
+1262,1256,p,,n
+1263,1262,text,"If you get a decent tent, sleeping bag and pad, and ditch the U lock, I have found that clothing by comparison weighs a lot. Synthetics and wool offer a lot of warmth and drying ability for the weight.",n
+1265,1262,br,"In regards to locks, think about how you will ensure security. If you carry a heavy three to four pound U lock, you’ll still have to take all of your stuff off the bike or risk it being lifted.",n
+1267,1262,br,"On the other hand, I use a medium thickness three foot cable with an aluminum lock . Then I never leave the bike unsupervised for more than a few minutes . I park in front of the window where I eat, take it in to markets , and sometimes park and lock briefly in front of a market. Add some security by threading your helmet straps through rear wheel spokes.",n
+1269,1262,br,security are,n
+1271,1262,br,Keep it with you.,n
+1273,1262,br,Keep it in your sight.,n
+1275,1262,br,3. Leave it with someone you trust. Ask those in a nearby outside dining table to “please tackle anyone who takes my bike”. They love it.,n
+1277,1262,br,Leave locked,n
+1280,1256,div,"September 7, 2014 at 12:54 pm",n
+1287,591,li,,n
+1289,1287,cite,Isa,n
+1294,1287,p,This is awesome!! thanks a lot!,n
+1297,1287,div,"July 30, 2015 at 6:30 am",n
+1299,591,li,,n
+1304,1299,div,,n
+1306,1304,cite,Kadim,n
+1311,1304,p,"Hi Darren. I am wanting to take on a 3-4 month bicycle tour beginning early April. It will be from NYC-Montreal-Toronto-Chicago-Minneapolis-Winnipeg-Calgary-and-Vancouver. I have a Giant Anyroad1 Also, my front fork is carbon-fiber, what kind of front rack would you recommend to use with the Ortlieb panniers? And my last question, the list in this post is pretty comprehensive, thanks for the share or it’s really helpful, but would you be able to list the top ten items that are absolutely essential for the trip other than the basics?",n
+1314,1304,div,"December 1, 2015 at 3:50 am",n
+1322,1299,li,,n
+1327,1322,div,,n
+1329,1327,p,"Hi Kadim,",n
+1331,1327,p,"1. I don’t think any bike with a carbon fork is a good idea for a bike tour as long as the one you are planning. I’ve had other Bicycle Touring Pro readers try to tour with carbon frames, forks, etc… and it doesn’t end well much of the time. Carbon bikes are not made for touring – they are made to carry you and nothing else. I suggest you read “ The Essential Guide To Touring Bicycles ” and pick up a copy of “ The Bicycle Touring Blueprint .” Those two books will teach you everything you need to know for your upcoming trip – which bike to use, what gear you need, which items are essential and which are not, how to plan a safe and enjoyable route, how to find safe places to sleep each night, etc, etc, etc. That’s where I would start!",n
+1338,1322,div,"December 1, 2015 at 4:26 pm",n
+1345,591,li,,n
+1347,1345,cite,Austin,n
+1352,1345,p,My wife and I will be embarking on our cross country ride when I’m retired. We will be using a pull behind and panniers. We will be packing on the heavy side because we don’t have a timeline. If we only get 30 miles in a day then so what and if we really like a place we might stay for a few days. We will be riding bikes with pedal assist to make sure our retirement cruise is more enjoyable than grueling but we will make sure to pack a wine key and buy local wine when we get to California. All of the insight on this page has helped us pack but everyone’s journey is different. We know we are going to pack and haul a lot but this is our retirement and we want to enjoy it at our place with our luxuries.,n
+1355,1345,div,"July 29, 2018 at 7:11 pm",n
+1362,591,li,,n
+1364,1362,cite,Gina Goldie,n
+1369,1362,p,"Thanks for such a thorough list. I’ve done lots of backpacking and multiple day river trips, but I’m embarking on my first long-distance road bike trip. This is a fantastic list… not everyone will need or want to bring everything, but what a great tool you’ve provided to customize my own list from! Thank-you!!!",n
+1372,1362,div,"September 8, 2018 at 9:55 am",n
+1379,591,li,,n
+1381,1379,cite,Rod barratt,n
+1386,1379,p,"Hi Jim, I used to do a ton of tripping on bike and I don’t anymore. A friend of mine is doing the long one. She asked me about what I would bring. She had all the main stuff. One thing I suggested which I found to be a big help for its size was a ‘wheel lock’, small gizmo that fits on tube just behind front wheel, and when you lean your bike a giant something you click it into position against the tire and it ‘locks’ the front wheel to stop it from the inevitable wheel twist and subsequent crashing down of the loaded bike. She hadn’t heard of this and when I have looked it up I cannot find this . Wondering if you know about these and if you know if source or at least what it is being referred to as currently. I’m pretty sure the one I have I got either through mountain equipment in the early days or Bloor cycle in Toronto Ont.",n
+1389,1379,div,"January 16, 2019 at 11:03 am",n
+1393,591,li,Pingback,n
+1397,591,li,Pingback,n
+1404,591,li,,n
+1406,1404,cite,james williams,n
+1411,1404,p,"My plan is to travel the world on bike and foot and camp where ever i can safely, is there any information on groups that do it, and i need to know the legality of this",n
+1414,1404,div,"February 4, 2021 at 9:21 pm",n
+1417,585,p,Comments are closed.,n

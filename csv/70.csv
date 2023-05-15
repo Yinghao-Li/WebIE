@@ -1,0 +1,166 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+3,1,div,,n
+4,3,div,,n
+6,4,p,Sharing is caring!,n
+7,4,div,,n
+8,7,div,,n
+11,8,span,6909,n
+13,8,span,shares,n
+14,7,ul,,n
+15,14,li,,n
+19,15,span,Share,n
+21,15,span,32,n
+26,14,li,Tweet,n
+28,14,li,,n
+32,28,span,Pin,n
+34,28,span,6877,n
+43,4,div,,n
+59,43,div,Washington's Official Waterfall - Palouse Falls!,n
+80,43,div,More Videos,n
+84,43,div,,n
+86,84,span,45 seconds,n
+88,84,span,Volume 0%,n
+89,43,div,,n
+92,89,span,keyboard shortcuts,n
+93,89,div,,n
+94,93,div,,n
+96,94,span,Keyboard Shortcuts,n
+97,94,button,,n
+100,97,span,Enabled,n
+102,97,span,Disabled,n
+104,93,div,,n
+105,104,div,,n
+107,105,span,Play or Pause,n
+109,105,span,SPACE,n
+110,104,div,,n
+112,110,span,Increase Volume,n
+114,110,span,↑,n
+115,104,div,,n
+117,115,span,Decrease Volume,n
+119,115,span,↓,n
+120,104,div,,n
+122,120,span,Seek Forward,n
+124,120,span,→,n
+125,104,div,,n
+127,125,span,Seek Backward,n
+129,125,span,←,n
+130,104,div,,n
+132,130,span,Captions On or Off,n
+134,130,span,c,n
+135,104,div,,n
+137,135,span,Fullscreen or Exit Fullscreen,n
+139,135,span,f,n
+140,104,div,,n
+142,140,span,Mute or Unmute,n
+144,140,span,m,n
+147,104,div,Seek %,n
+150,43,div,,n
+164,150,div,,n
+166,164,div,Next Up,n
+168,164,div,Easy Broccoli Salad,n
+170,164,div,01:00,n
+181,150,div,,n
+182,181,button,,n
+183,182,text,Auto,n
+185,182,span,180p,n
+187,181,button,1080p,n
+189,181,button,720p,n
+191,181,button,540p,n
+193,181,button,360p,n
+195,181,button,270p,n
+197,181,button,180p,n
+211,150,div,,n
+241,211,div,Live,n
+243,211,div,00:00,n
+268,4,h2,Camping Gear List For Families – Make Getting Set Up,n
+274,4,div,"Want to start camping, but not sure of what to pack? We have a camping gear list here, that you can use to make sure you have everything you might need to make your camping trip great! In case you do not have all the items on hand, here are some great ones you can grab from Amazon, and save yourself a trip to the store!",n
+276,4,div,,n
+277,276,text,"If you want to save time researching, we have put together a list of everything you will need from the basics like tents and cooking supplies, to some extras and comfort items like beds and games. Everything on the list should have 4 star or above reviews, and by a number of reviewers, so they are well loved items by campers! We also have a",n
+279,276,strong,free tent camping packing list,n
+280,276,text,"you can download here, to make sure you have packed what you need",n
+282,4,div,,n
+283,282,text,Be sure to check out our,n
+285,282,strong,camping page,n
+286,282,text,"s, including free and low cost Camping sites throughout the Northwest and beyond, tips for camping with kids, and lots more information that might come in handy to plan your camping trip.",n
+292,4,h3,Camping Gear List,n
+294,4,p,Here are some items that will keep you comfortable and safe while camping.,n
+301,4,div,"1. Camp Soap Sheets – these are great because you just get them wet, and they are biodegradable .",y
+305,4,div,"2.Camping Microfiber Towels – these are awesome, as they pack away nice, are absorbent and dry much faster then regular bath towels – no more soggy towels around camp!",y
+309,4,div,"3. Mosquito repellent bracelets . I love these for kids. They just put them on to keep the bugs away. No having to remember to spray them down, or complaints from the kids for that process. Super easy to use!",y
+312,4,div,Lifestraw – LifeStraw Personal Water Filter,n
+320,4,div,,n
+322,320,h3,Shelter and Furniture,n
+324,320,p,the things you will need to set up your camp site.,n
+325,320,div,,n
+326,325,ol,,n
+328,326,li,OmniCore Moon Phase Folding Double Camp Chair,y
+330,326,li,"TooghPerson Backpacking Tent, or this 6 person Coleman Tent if you need something bigger",y
+334,326,li,"Coleman 10×10 Sun Shelter or I prefer this screened in one to keep bugs out , it is a great spot to set your eating area up in.",y
+339,326,li,Coleman Queen Airbed Folding Cot,y
+344,326,li,Alps Mountaineer Eclipse Table,y
+346,326,li,"Disc-O-Bunk Beds for kids , are highly rated and great for campers or tent camping to keep kids comfy.",y
+351,325,h3,Comfort Items,n
+353,325,p,"Here are some items that will keep you more comfortable during your camping trip The sleeping bag is a necessity, but the rest of these items are all bonus items if you want to stay powered up, have your own shower and those kinds of things.",n
+355,325,div,,n
+357,355,li,lanterns so there are more to go around!,y
+362,355,li,Texsport Outdoor Shower Shelter,y
+364,355,li,Outdoor Tech Portable Waterproof Sleeping Bag,y
+366,355,li,Mr. Heater Portable Propane Heater,y
+368,355,li,Ayyie Solar Cell Charger Powerbank,y
+370,355,li,First Aid Kit,y
+372,355,li,Pop Up Trash Can,y
+374,355,li,Mosquito repellent bracelets !,y
+379,325,h2,Cooking,n
+381,325,p,"If you plan to cook while tent camping, verses eating out or snacking, here are some items that will come in handy.",n
+383,325,p,"One tip that I love to use for my cooking items, is that I keep a “Kitchen Bin” packed. That way I do not have to pack and re-pack regularly ! For the Kitchen Bin I get a plastic bin, and add in the items you see below , and then add things like plastic zip lock bags, and anything else I might need to prepare food while cooking. in that bin. Then I can grab and go when its time to get to camping!",n
+385,325,div,,n
+387,385,li,Coleman Propane Camping Stove – I have this stove and it has held up well and performed well for many years for us.,y
+390,385,li,"Bruntmor Pre-Seasoned Cast-Iron Cooking Set – I love to cook with cast iron, as it holds up well over the fire if you plan to do any cooking that way.",y
+393,385,li,"Life 2 Go 9-Piece Camping Utensil Set – this should be most of what you need in one set, keeping things simple.",y
+396,385,li,gear4U Camping Mess Kit,y
+398,385,li,Cooler to store food,y
+400,385,li,Coleman Pack-Away Portable Kitchen,y
+402,385,li,Camping dish soap sheets – you can use these to wash hands and dishes,y
+405,385,li,Biodegradable and reusable towels,y
+409,325,div,Fun and Games,n
+410,320,div,,n
+411,410,ol,,n
+413,411,li,UNO Wilderness Card Game,y
+415,411,li,GoSport Portable Cornhole Toss Game,y
+417,411,li,Champion Sports Rubber Horseshoe Set,y
+419,411,li,Go Find It Outdoor Nature Scavenger Hunt Game,y
+421,411,li,8 Telescoping Roasting Sticks\,y
+426,410,li,Mini projector,y
+428,410,h2,More camping articles you might like,n
+432,410,p,Camping Packing List,n
+436,410,p,Free Camping in Washington and Oregon,n
+440,410,p,Easy Meal Planning when Camping,n
+444,410,p,Camping Recipe Ideas,n
+451,3,div,,n
+453,451,span,Post Tags,n
+455,451,span,#,n
+456,451,text,camping,n
+457,1,nav,,n
+459,457,h2,Post navigation,n
+460,457,div,,n
+461,460,div,,n
+465,461,div,Previous,n
+466,461,text,Ultimate Dalgona Coffee Recipe – with Pumpkin Spice and Caramel,n
+467,460,div,,n
+470,467,div,Next,n
+472,467,text,Pulled Pork Spicy Smothered French Fries in a Cone – Food Truck Style!,n
+474,1,div,,n
+475,474,h3,,n
+476,475,text,Leave a Reply,n
+478,475,small,Cancel reply,n
+479,474,form,,n
+480,479,p,,n
+482,480,span,Your email address will not be published.,n
+484,480,span,Required fields are marked,n
+491,479,p,Comment,n
+494,479,div,,n
+498,494,p,Name,n
+504,494,p,Email,n
+510,494,p,Website,n

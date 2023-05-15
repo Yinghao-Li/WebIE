@@ -1,0 +1,75 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+23,0,div,,n
+38,23,h1,Boating Pre-Trip Checklist,n
+42,23,div,,n
+44,42,span,https,n
+47,42,div,,n
+48,47,span,,n
+49,48,text,By,n
+51,48,span,Russ Thetonia,n
+53,47,span,"or September 30, 2005",n
+54,42,div,,n
+58,54,div,Image,n
+62,54,p,Rou-tine,n
+64,54,p,"We are creatures of habit so molding a positive habit when dealing with the water is a survival essential, and a good lesson to be passed on. Include your kids in safety checks!! Keep them involved and explain what each thing does, and why it needs to be checked each and every time it's used.",n
+66,54,p,"This is the collective list. Below this is a list for the ""night before"" as many of the items on the primary list will be stowed aboard for the season.",n
+67,54,ul,,n
+69,67,li,Alternate propulsion,y
+71,67,li,Anchors and Line,y
+73,67,li,Batteries,y
+75,67,li,Bilge device,y
+77,67,li,Boat lights,y
+79,67,li,Bright flashlight or searchlight,y
+81,67,li,"Boat and trailer registration, permits, licenses",y
+83,67,li,Bug repellant,y
+85,67,li,Clothing,y
+87,67,li,Compass,y
+89,67,li,Drinking water,y
+91,67,li,Fire extinguisher,y
+93,67,li,"First aid kit i.e. Band-Aids, first-aid Cream, Campo-Phenique , Tums, lip balm.",y
+95,67,li,Food,y
+97,67,li,Fuel,y
+99,67,li,Kill switch,y
+101,67,li,Map or Charts,y
+103,67,li,Matches or fire starter,y
+105,67,li,Navigation lights and spare bulbs,y
+107,67,li,Boat plug,y
+109,67,li,Pocket knife,y
+111,67,li,Sound producing device,y
+113,67,li,Spare trailer tire,y
+115,67,li,Toilet paper,y
+117,67,li,Trailer lights,y
+119,67,li,Sunglasses,y
+121,67,li,Sunscreen,y
+123,67,li,Spare prop and lock-nut or shear pin,y
+125,67,li,Weather radio,y
+127,67,li,Tools,y
+129,67,li,Visual distress signals,y
+131,67,li,Watch or clock,y
+133,54,p,Night before list-,n
+134,54,ul,,n
+136,134,li,Hook up trailer and check lights and brakes,n
+138,134,li,Charge batteries,n
+140,134,li,Check fuel,n
+142,134,li,Check boat lights,n
+144,134,li,"Turn on batteries, ""check 1, 2, all switch"" make sure it is functioning",n
+146,134,li,Turn on and check all electronics,n
+148,134,li,Check boat plug,n
+150,134,li,Secure straps and tie downs,n
+152,54,p,"Feel free to modify these lists according to your needs. I encourage you to laminate them and keep them in a consistent place. Adding another list of your own to this is also helpful if you often find yourself without the spinnerbait bag that is sitting in the garage, or the hot thermos of coffee on the kitchen counter.",n
+154,54,p,"I hope these basic lists help you to enhance your boating experience and aid in maintaining the safety of you, your family and friends. Catch 'em up!",n
+161,0,div,,n
+163,161,h4,Keep reading,n
+165,161,div,,n
+171,165,div,,n
+173,171,h3,Boating Deaths Reduced,n
+180,171,div,"or December 25, 1999",n
+186,165,div,,n
+188,186,h3,60 Point Boat Checklist,n
+195,186,div,"or June 12, 2009",n
+201,165,div,,n
+203,201,h3,"Safety First, Fishing Second",n
+204,201,div,,n
+208,204,span,or Mark Lassagne,n
+210,204,span,"or June 13, 2009",n

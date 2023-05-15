@@ -1,0 +1,182 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+6,1,div,,n
+7,6,div,,n
+9,7,h1,What Every Makeup Artist Needs in Their Kit,n
+42,7,div,,n
+44,42,p,"You know you want to devote your career and artistic abilities to becoming a makeup artist, but how to start?",n
+46,42,p,"The first thing you need is the proper makeup kit. Your makeup supply essentials depend on two factors: the kind of clients you plan to work with, and state licensing requirements you may have to meet to work professionally.",n
+48,42,p,Before you know it you could be the next Rolf Keppler. He was on the makeup team for Twilight as well as Terminator Salvation and the TV series ER .,n
+56,42,p,Or what about Vivian Orgill. She didn’t do the makeup for just any old nuptial agreement; she was the key makeup artist for My Big Fat Greek Wedding 2 .,n
+60,42,p,"Maybe you’ll follow in the vein of Dunia Rivero. She runs her own makeup business in Miami and specializes in weddings, runway events, and music videos.",n
+62,42,p,"Maybe, just maybe, you will be the next Mario Dedivanovic. You know, the man behind Kim Kardashian’s signature look. It all starts with the right supplies in your makeup kit.",n
+64,42,h2,What the Pros Have in Their Makeup Kits,n
+66,42,p,You’ve been doing your own makeup – and probably your friends’ too – for years so you already have a basic idea of what you need in a makeup kit. Things change though once you start doing makeup professionally. As you gain more experience in this artistic field you are going to learn a lot more about what you’re going to need to pack in your kit.,n
+68,42,p,As you develop your own career in this field you can talk to your colleagues to see what they recommend for a general makeup kit. Here is what a few well-known makeup artists advise:,n
+70,42,p,"Kim Kardashian’s makeup man Mario Dedivanovic was featured in a Harper’s Bazaar article talking about what products he buys when he goes to the store. While you probably aren’t prepared to spend $1,700 for the products that are in Kardashian’s bag, Dedivanovic provides advice on items that you can get from everyday beauty stores:",n
+73,42,ul,,n
+75,73,li,Demi wispy eyelashes,y
+77,73,li,Voluminous mascara,y
+79,73,li,Cosmetic wedges,y
+81,73,li,Face wedges,y
+83,73,li,Eye shadow,y
+85,73,li,Hairspray,y
+87,42,p,"Professional makeup artist Keri Hatfield , who works in the entertainment industry and has a list of credits that include commercials for Gold’s Gym, Microsoft, United Airlines, MasterCard, and clients that include Courtney Love, recommends the following basics:",n
+90,42,ul,,n
+92,90,li,Concealer brush with a curved tip,y
+94,90,li,Powdered concealer,y
+96,90,li,Foundation brush – full and coarse,y
+98,90,li,Mineral powder,y
+100,90,li,Translucent powder brush – full and fluffy,y
+102,90,li,Bronzer,y
+104,90,li,Eyeliner,y
+106,90,li,Lip gloss,y
+108,90,li,Spatula,y
+110,90,li,Lipstick and applicator,y
+112,90,li,Tool belt,y
+114,42,p,"Lyric Rochester , a makeup artist who is a graduate of The Face Place, one of Jamaica’s best beauty schools, recommends the following:",n
+116,42,ul,,n
+118,116,li,Brushes,y
+120,116,li,Face hydrating cream,y
+124,116,li,Eyebrow pencil,y
+126,116,li,Foundation,y
+128,116,li,Skin pore lotion,y
+130,116,li,Primer and applicator,y
+132,116,li,Oil-absorbing pressed powder,y
+134,116,li,Concealer,y
+136,116,li,Translucent face powder,y
+138,116,li,Face contouring powder,y
+140,116,li,Dabbing towels,y
+142,116,li,Eyeshadow,y
+144,116,li,Eyeliner pencil,y
+146,116,li,Blush,y
+148,116,li,Lipstick,y
+150,116,li,Lip liner,y
+152,42,p,You may opt to pursue a specific niche of makeup artistry. You’ll therefore want to tailor your makeup kit supplies to fit your unique line of work:,n
+153,42,ul,,n
+155,153,li,Television broadcast and commercial filming sets,y
+157,153,li,Movie and film production,y
+159,153,li,"Theatre, opera, ballet, and other performing arts",y
+161,153,li,"Weddings, graduations, and other special occasions",y
+163,153,li,Spas and beauty salons,y
+165,153,li,Resorts and five-star hotels,y
+167,153,li,Cruise ships,y
+169,153,li,Mobile house and business calls,y
+171,42,h2,Essential General Supplies,n
+173,42,p,"Sanitation, disinfection, hygiene, client protection, and your protection. You must have general supplies that address all of these issues. Doing makeup on yourself or informally on your friends, you’re probably not used to practicing the absolute best hygiene techniques, so the sooner you get in the habit the better. While the following supplies aren’t glamorous they will ensure your makeup artistry practice is clean and safe – two essential qualities that are key in determining your long-term success:",n
+174,42,ul,,n
+178,174,li,Disposable tissues,y
+180,174,li,Antibacterial brush cleaner spray,y
+182,174,li,Hair drape or cover,y
+188,174,li,Eye protection,y
+190,174,li,Rubber or latex gloves,y
+192,174,li,First aid kit,y
+200,42,h2,Makeup Artist Kit Requirements,n
+202,42,p,The regulations regarding makeup artist licensing vary significantly from state to state. Check with your state’s board of cosmetology to see if you need a license to work as a makeup artist. The requirements for makeup artistry licensure typically fall into one of these categories:,n
+203,42,ul,,n
+205,203,li,No state licensing requirements,n
+207,203,li,State licensing requirement to become a licensed esthetician,n
+209,203,li,State licensing requirement to become a licensed cosmetologist,n
+211,203,li,State licensing requirement to become a licensed esthetician or cosmetologist only if you are going to be working as a makeup artist in a beauty spa or salon; if you travel or work on-set with clients then you may not be required to be licensed,n
+213,203,li,"State makeup permit required – Louisiana is currently the only state to offer a specific license or permit for makeup artists, and you are not required to pass an examination for this credential",n
+215,42,p,"If you are in a state that requires an esthetician or cosmetology license to work as a makeup artist, that means you’ll need to pass a licensing examination. These examinations typically require you to bring a kit with you to demonstrate your practical abilities. Knowing the general kit content requirements for these exams can therefore help you to plan what materials you want to purchase for your makeup kit.",n
+217,42,p,"Once again, check with your state’s board of cosmetology to know the specific kit contents you need for an exam. Cosmetology boards and testing companies usually provide candidate information bulletins that detail the specific kit requirements for your exam.",n
+219,42,h2,NIC Esthetician and Cosmetologist Kit Requirements,n
+221,42,p,"The National-Interstate Council of State Boards of Cosmetology has developed esthetician and cosmetology exams that are the closest things to a nationalized standard. Around half of all states use these as the licensure examinations for estheticians and cosmetologists, and a significant number of additional states base their own exams on the NIC’s models.",n
+224,42,p,If Your State Requires an Esthetician License to Be a Makeup Artist,n
+226,42,p,The NIC’s esthetician practical examination requires you to have the following supplies in your kit:,n
+229,42,ul,,n
+231,229,li,Mannequin hand and a table clamp – depending on your state you may be required to use a live model,y
+233,229,li,Cleansing face cream,y
+235,229,li,Spatulas,y
+237,229,li,Astringent or toner,y
+239,229,li,Thermos or container,y
+241,229,li,Massage cream,y
+243,229,li,Tweezers,y
+245,229,li,Fabric strips,y
+247,229,li,Soft wax product,y
+249,229,li,Hard wax product,y
+251,229,li,Wax heater,y
+253,229,li,Facial mask product,y
+255,229,li,Moisturizer,y
+257,229,li,"Foundation, blush, and powder",y
+259,229,li,"Mascara, eye shadow, and eye liner",y
+261,229,li,Lip color and lip liner,y
+265,42,p,You also need these general hygiene and safety supplies,n
+266,42,ul,,n
+268,266,li,Dry storage container,y
+272,266,li,Antiseptic,y
+276,266,li,Hair drape or cover,y
+278,266,li,"EPA-grade disinfectant that kills bacteria, fungi, and viruses",y
+280,266,li,Cloth and paper towels,y
+282,266,li,Tissues and cotton,y
+286,266,li,Tape,y
+288,266,li,Eye protection,y
+290,266,li,Gloves,y
+292,266,li,"First aid kit – check with your state for the specific requirements for this, usually band aids, antiseptic, latex gloves, and first aid tape",y
+301,42,p,If Your State Requires a Cosmetology License to Be a Makeup Artist,n
+303,42,p,The NIC’s cosmetology practical examination requires you to have all the materials listed above for the esthetician examination as well as these additional items:,n
+306,42,ul,,n
+308,306,li,Mannequin head and table clamp – depending on your state you may be required to use a live model,y
+310,306,li,Hair clamp,y
+312,306,li,Comb,y
+314,306,li,Hair brush,y
+316,306,li,Spray bottle,y
+318,306,li,Thermal curling iron with material to test the iron’s temperature,y
+320,306,li,Haircutting shears,y
+322,306,li,Razor,y
+324,306,li,Chemical wave rods and end papers,y
+326,306,li,Chemical applicator bottle with simulated waving lotion,y
+328,306,li,Tint brush and bowl or bottle applicator,y
+330,306,li,Thick tinting gel or colored cholesterol,y
+332,306,li,Blow dryer,y
+334,306,li,Hair clippies,y
+336,306,li,Hair rollers,y
+338,306,li,Cuticle cream or remover,y
+340,306,li,Nail filing and buffing tools,y
+342,306,li,Cuticle pusher,y
+344,306,li,Nail brush,y
+346,306,li,Cuticle oil,y
+348,306,li,Nail polish and polish remover,y
+350,306,li,Sculptured nail products,y
+352,306,li,Neck sanitation strips,y
+354,42,p,Back to Top,n
+357,6,div,,n
+360,357,ul,,n
+362,360,li,Career Resources,n
+364,360,li,Makeup Artist Careers,n
+366,360,li,Makeup Artist License Requirements,n
+368,360,li,Makeup Artist Salaries,n
+370,360,li,Permanent Makeup Training,n
+372,360,li,Renting a Booth Vs Being Hired as a Makeup Artist,n
+374,360,li,The Booth Rental Business Model,n
+376,360,li,What Every Makeup Artist Needs to Know About Going Into Business,n
+408,357,ul,,n
+410,408,li,Student Resources,n
+412,408,li,What is a Makeup Artist?,n
+414,408,li,Makeup Artist Schools,n
+416,408,li,Makeup Artist Apprenticeships,n
+418,408,li,Makeup Artist Kit Essentials,n
+420,408,li,Licensing Exam Requirements When Becoming a Makeup Artist,n
+423,357,ul,,n
+425,423,li,Makeup Artist Services,n
+427,423,li,Contouring and Highlighting,n
+429,423,li,"Correcting, Concealing and Camouflaging",n
+431,423,li,Custom Blend Foundation,n
+433,423,li,Daytime Makeup,n
+435,423,li,Eye Makeup,n
+437,423,li,Lash Application,n
+439,423,li,Makeup Consultations,n
+441,423,li,Photo Makeup,n
+443,423,li,Smokey Eye,n
+445,423,li,Theatrical Makeup,n
+447,423,li,Wedding Makeup,n
+450,1,footer,,n
+452,450,div,"Our site does not feature every educational option available on the market. We encourage you to perform your own independent research before making any education decisions. Many listings are from partners who compensate us, which may influence which programs we write about. Learn more about us .",n
+456,450,ul,,n
+458,456,li,Home,n
+462,456,li,Contact Us,n
+466,456,li,Privacy Policy,n
+470,456,li,Use,n
+474,450,br,©2022 https,n

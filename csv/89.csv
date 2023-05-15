@@ -1,0 +1,199 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+7,1,div,,n
+11,7,h1,The CrossFit Open 2021,n
+22,7,p,,n
+25,22,span,Written By,n
+26,22,span,,n
+28,26,span,Ben,n
+29,26,text,|,n
+31,22,span,"CrossFit , The Open",n
+36,7,div,,n
+37,36,div,,n
+39,37,p,"We haven’t had an Open since 2019 so you can imagine how pumped we are at WODprep HQ to welcome the 2021 CrossFit Open this week! Before it kicks off, we thought we’d do a run down of everything you need to know.",n
+41,37,p,"There’s been a LOT of changes since Eric Roza took over as CEO of CrossFit, on top of the adjustments they’ve had to make as a result of the Covid pandemic. So let’s dig into it…",n
+43,37,p,If you haven’t signed up,n
+46,37,h2,"Workouts, Dates and Leaderboard Changes;",n
+47,37,ul,,n
+48,47,li,,n
+49,48,text,"The last Open took place in later in the year, but it’s been",n
+51,48,strong,moved back to March,n
+52,48,text,which we think is a good move.,n
+53,47,li,,n
+54,53,text,This year’s Open has been,n
+56,53,strong,workouts to just 3,n
+57,53,text,. Even more reason to give them your best shot.,n
+58,47,li,,n
+59,58,text,We have a,n
+61,58,strong,new division this year - Foundations.,n
+62,58,text,It seems ideal for complete beginners and those not sure if they are capable of completing Scaled workouts. You’ll need some equipment to enter this division.,n
+63,47,li,,n
+64,63,text,Another,n
+66,63,strong,new division - Equipment Free,n
+67,63,text,"! As the name suggests, you won’t need any kit for this one and can complete it from home - ideal if your box is closed or you’re having to isolate.",n
+68,47,li,,n
+69,68,text,Each,n
+71,68,strong,category will have its own leaderboard,n
+72,68,text,", and while you’re allowed to skip between divisions, you’ll only feature on those specific leaderboards if you complete all the workouts in the same one.",n
+74,37,h3,The CrossFit Open Schedule,n
+76,37,p,The first workout will be released at 5 p.m. Pacific Time on the CrossFit Games website . You’ll then have until the following Monday at 5 p.m. PT every week to submit your scores on games.crossfit.com.,n
+80,37,h2,Equipment List,n
+83,36,div,,n
+85,83,h3,Make sure you have the items below if you're planning on competing in a division that requires equipment:,n
+86,83,ul,,n
+88,86,li,Barbell and Olympic style plates,y
+90,86,li,Jump Rope,y
+92,86,li,Pull-up Bar,y
+94,86,li,Plyo Box,y
+96,86,li,Dumbbell,y
+100,83,p,"See the graphic below from CrossFit detailing which division requires equipment and which kind of athlete is best suited to each one. You don’t have to decide just yet though, wait until each workout is released before you make your mind up.",n
+105,83,h2,Judging and Scores,n
+108,36,div,,n
+110,108,p,There are a few ways you can have your scores validated on or before submission;,n
+111,108,ul,,n
+113,111,li,"At an affiliate, with a judge",n
+117,111,li,"At home, judged via video call by a CrossFit Judge from your affiliate",n
+119,111,li,your workout when you submit your scores,n
+123,108,p,You can read more about this process in CrossFit’s Rulebook.,n
+126,108,h2,WODprep’s Movement Predictions,n
+129,36,div,,n
+130,129,h3,,n
+132,130,strong,The Red List,n
+133,130,text,Movements that we’re fairly certain won’t be showing up:,n
+134,129,ul,,n
+136,134,li,Wall Balls,y
+138,134,li,Ring Muscle-ups,y
+140,134,li,Rowing,y
+145,36,div,,n
+146,145,h3,,n
+148,146,strong,The Amber List,n
+149,146,text,We won’t completely rule these out but we might not see due to them not being practical for most at home:,n
+150,145,ul,,n
+152,150,li,Handstand Walks,y
+154,150,li,Bar Muscle Ups,y
+159,36,div,,n
+160,159,h3,,n
+162,160,strong,The Green List,n
+163,160,text,This list is the one to focus on - the ones we think WILL be making an appearance;,n
+164,159,ul,,n
+170,164,li,Handstand Push-ups,y
+172,164,li,Chest to Bar Pull-ups,y
+174,164,li,Thrusters,y
+176,164,li,Single Dumbbell Movements,y
+178,164,li,Burpees,y
+180,164,li,Push-ups,y
+182,164,li,Pistols,y
+184,164,li,Burpee Box Jump Over,y
+186,164,li,Power Snatch,y
+188,164,li,Deadlift,y
+190,164,li,Snatch or Power Snatch,y
+192,164,li,Clean and Jerk or Power,y
+194,164,li,Box jump or Step Up,y
+196,164,li,Dumbbell Overhead or Front Rack Lunge,y
+200,159,h4,Useful Links,n
+202,159,p,YouTube Video - CrossFit Open Workout 21.2 - Full Strategy Guide,n
+205,159,p,Blog Post - CrossFit Open Workout 21.2 Announced,n
+208,159,p,Blog Post - 3 Dynamite Strategies,n
+211,159,p,Blog Post - 4 Steps to Nail Your Open Workout 21.2 Video Submission,n
+214,159,p,Blog Post - CrossFit Open Workout 21.1 Blog Post - 3 Killer Strategies,n
+219,159,p,Blog Post - Tips and Strategies to Master the Wall Walk in CrossFit Open 21.1,n
+222,159,p,YouTube Video - CrossFit Open Workout 21.1 - Full Strategy Guide,n
+225,159,p,Get my FREE Strategy Guides delivered to your inbox every week!,n
+229,159,p,2020 CrossFit Open details,n
+232,159,p,WODprep's Open Practice Workouts,n
+235,159,p,Blog Post - 5 Reasons You Don't Want to Miss The 2021 CrossFit Open,n
+244,7,div,,n
+254,244,div,Previous,n
+264,244,div,Next,n
+273,7,div,,n
+275,273,div,,n
+278,275,div,0 comments,n
+279,275,div,,n
+281,279,div,,n
+283,281,span,Oldest,n
+285,281,div,,n
+287,285,div,Newest,n
+289,285,div,Oldest,n
+291,285,div,Top rated,n
+293,279,label,comments first,n
+307,273,div,,n
+309,307,p,Comment as a guest,n
+315,307,button,Submit comment,n
+326,273,p,Load more comments,n
+335,1,div,,n
+338,335,h3,Related Posts,n
+339,335,div,,n
+340,339,article,,n
+353,340,h2,Top 5 Workout Movements,n
+362,340,div,Top 5 Workout Movements,n
+363,339,article,,n
+376,363,h2,CrossFit Benchmark Workouts Jackie,n
+385,363,div,CrossFit Benchmark Workouts Jackie,n
+386,339,article,,n
+399,386,h2,The Ultimate Checklist,n
+408,386,div,The Ultimate Checklist,n
+409,339,article,,n
+422,409,h2,How To Prepare For Your First CrossFit Competition,n
+431,409,div,How To Prepare For Your First CrossFit Competition,n
+432,339,article,,n
+445,432,h2,"CrossFit Open 22.3 Strategy, Tips And Tricks",n
+454,432,div,"CrossFit Open 22.3 Strategy, Tips And Tricks",n
+455,339,article,,n
+468,455,h2,CrossFit Open Announcement 22.3 Workout and Standards,n
+477,455,div,CrossFit Open Announcement 22.3 Workout and Standards,n
+478,339,article,,n
+491,478,h2,Top CrossFit Open 22.2 Strategies and Tips,n
+500,478,div,Top CrossFit Open 22.2 Strategies and Tips,n
+501,339,article,,n
+514,501,h2,CrossFit Open Announcement 22.2 Workout and Standards,n
+523,501,div,CrossFit Open Announcement 22.2 Workout and Standards,n
+524,1,footer,,n
+527,524,div,,n
+529,527,div,,n
+531,529,div,,n
+536,531,p,"WODprep is here to help athletes from all over the world break through their sticking points, hit new PR’s, and learn to RX every workout.",n
+539,531,div,"__CONFIG_colors_palette__,""f2bba"":,""trewq"":,""poiuy"":,""f83d7"":,""frty6"":,""flktr"":},""gradients"":},""palettes"":""},""f2bba"":"",""hsl_parent_dependency"":},""trewq"":"",""hsl_parent_dependency"":},""poiuy"":"",""hsl_parent_dependency"":},""f83d7"":"",""hsl_parent_dependency"":},""frty6"":"",""hsl_parent_dependency"":},""flktr"":"",""hsl_parent_dependency"":}},""gradients"":},""original"":"",""hsl"":},""f2bba"":"",""hsl_parent_dependency"":},""trewq"":"",""hsl_parent_dependency"":},""poiuy"":"",""hsl_parent_dependency"":},""f83d7"":"",""hsl_parent_dependency"":},""frty6"":"",""hsl_parent_dependency"":},""flktr"":"",""hsl_parent_dependency"":}},""gradients"":}}]}__CONFIG_colors_palette__",n
+548,529,div,,n
+551,548,h6,Free Guides,n
+558,548,ul,,n
+570,558,li,Snatch Drills,n
+576,558,li,Bar Muscle-Ups,n
+588,558,li,Strict Pull-Ups,n
+594,558,li,Handstand Push-Ups,n
+596,529,div,,n
+599,596,h6,Improve Your Performance,n
+606,596,ul,,n
+612,606,li,Courses,n
+618,606,li,WODprep Academy,n
+624,606,li,WODprep Masters,n
+630,606,li,WP60 Private Track,n
+636,606,li,1:1 Coaching,n
+642,606,li,1:1 Rehab,n
+644,529,div,,n
+647,644,h6,Get Free Coaching Tips Weekly,n
+648,644,div,,n
+650,648,div,"__CONFIG_colors_palette__},""gradients"":},""palettes"":""}},""gradients"":},""original"":"",""hsl"":}},""gradients"":}}]}__CONFIG_colors_palette__",n
+659,648,div,,n
+661,659,div,"__CONFIG_colors_palette__},""gradients"":},""palettes"":""}},""gradients"":},""original"":"",""hsl"":}},""gradients"":}}]}__CONFIG_colors_palette__",n
+664,659,span,"Yes, send me AWESOME content!",n
+675,527,div,,n
+679,675,p,,n
+680,679,text,Copyright ©,n
+682,679,span,2022,n
+683,679,text,All rights reserved WODprep.com,n
+693,675,ul,,n
+699,693,li,Payments,n
+705,693,li,Privacy Policy,n
+711,693,li,Terms and Conditions,n
+713,524,div,Mediavine Food,n
+716,0,div,,n
+719,716,span,Close dialog,n
+721,716,div,,n
+723,721,p,Session expired,n
+725,721,p,Please log in again. The login page will open in a new tab. After logging in you can close it and return to this page.,n
+743,0,div,,n
+757,743,div,are viewing this site,n
+772,743,div,,n
+780,772,div,viewed this page,n
+782,772,div,in the last,n

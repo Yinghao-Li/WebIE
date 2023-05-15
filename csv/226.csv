@@ -1,0 +1,58 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+5,3,div,,n
+8,5,li,Home,n
+11,5,li,Buying Guides,n
+13,3,div,We are reader supported and may earn a commission when you buy through links on our site. Learn more,n
+15,3,section,,n
+17,15,p,"There are some must-have crafter bits and pieces out there that you may not even realize exist. Thankfully, we’ve done some of the shopping around for you. Through Amazon, you can purchase some of the best crafting tools every crafter MUST HAVE and they can all be found below. At amazing price points and easy shipping options, grab your necessities within the click of a button and make all of those DIY projects a little easier to tackle.",n
+19,15,h3,Fancii Precision Craft Knife,y
+25,15,p,"Every true crafter needs a Fancii Precision Craft Knife. This particular kit comes with 16-pieces that will span the breath of every kind of craft project you may conjure up. It’s affordable, the carbon steel blades are durable, and it’s extremely lightweight and easy to store as well.",n
+29,15,p,"It takes about 5 seconds to change the blade and works for both left and right-hand users. There are various blades included: general purpose, chiseling, stencil, scoring, carving and deburring blades.",n
+34,15,h3,Fiskars Rotary Sewing Set,y
+40,15,p,"Fiskars Rotary Sewing Set features a classic stick rotary cutter, an extra-large cutting mat, and a lifetime warranty. With this tool in your back pocket you’ll be able to easily cut multiple layers of fabric while holding it flat for the most accurate of edges. The mat also helps with measuring thanks to its self-guided markings.",n
+43,15,p,"This purchase includes a lifetime warranty, a self-healing double siding surface, and a clear, acrylic ruler. It’s one of the best sets for those just starting out in the sewing world as well as a new piece for veterans of the hobby.",n
+48,15,h3,Paxcoo Jewelry Making Tool Kit,y
+54,15,p,"The Paxcoo Jewelry Making Tool Kit has everything you need to both make jewelry and repair it! The set includes 19 pieces of jewelry making supplies such as needles, pliers, thread scissors and more-coming in a zipper pouch for easy storage and organization.",n
+58,15,p,"It’s a purchase for both newbies in this realm as well as professional creators-with reviews to back up the quality of the tools. At this price point, it’s really a purchase that can’t steer you in the wrong direction.",n
+63,15,h3,General Tools Precision Tool Kit,y
+69,15,p,"Here’s another tool kit that crafters will want to have in their back pockets. The General Tools Precision Tool Kit is a must-have for anyone wanting to dabble in jewelry making or small home projects. The set includes 11 pieces such as mini pliers, tweezers, scissors, and screwdrivers.",n
+73,15,p,"For those with various hobbies in various realms like electronics or model-making, these pieces will definitely come in handy. It too has a really accessible price point and customer reviews that back up the purchase.",n
+78,15,h3,Scotch Thermal Laminator-Combo Pack,y
+84,15,p,A laminator is always a great piece to have as well – especially if you’re a teacher. You can make your own bits and bobbles for class right at home. With Scotch Thermal Laminator-Combo Pack you’ll be able to laminate pieces up to 9 inches wide and includes 2 temperature settings-and according to customers it heats up rather quickly.,n
+88,15,p,"Storage is easy as the cord wraps up underneath with ease its small enough to put away out of sight when you’re finished with it. For the price, you’re getting really great quality with this one!",n
+93,15,h3,Scotch Thermal Laminator 2-Roller System,y
+99,15,p,"Another laminator that we recommend is the Scotch Thermal Laminator 2-Roller System . It will work with pieces up to 9 inches wide and easily works with photos producing high-quality lamination. Users can feel good about getting their recipe cards, important documents, school projects, and more laminated.",n
+103,15,p,"It’s a really compact machine as well making storage during non-use really easy. And finally, it’s also extremely user-friendly so even if you have no experience working with one of these machines-you won’t have any trouble with the selection.",n
+108,15,h3,Cricut Explore Air 2,y
+114,15,p,"Cricut Explore Air 2 is your personal DIY cutting machine-just like the description details. With one of these in the house, you can literally make all your crafting dreams come to fruition. It cuts over 100 difference materials in a nearly endless amount of ways.",n
+117,15,p,"Stickers, T-shirts, home decor, party favors, and more can be created with some help from a Cricut machine. There’s a space online that you’ll be able to take the time to create some of your own designs and watch them come to life with Cricut’s free design software Design Space. And this particular model comes in a variety of shades including mint , cherry blossom, and twilight.",n
+122,15,h3,Mod Podge Smoothing Tool,y
+128,15,p,"If you’re into mod lodge designs, then you’ll definitely want to grab one of these Mod Podge Smoothing Tools . Within this piece you’ll have a brayer and a squeegee; the brayer is for rolling out bubbles while the squeegee is for the harder to reach corners.",n
+132,15,p,"It’s a low price point for those who want to make their crafts a bit easier to finish up. Whenever you want to decoupage, it can come in handy finishing off the project with smoothness and crispness. The kiddos can use it quite easily as well.",n
+137,15,h3,Dorhui Leather Working Tools Kit,y
+143,15,p,"Here we have a Dorhui Leather Working Tools Kit that you can snag on Amazon for a great price as well. Within the set you’ll be receiving 92 pieces of must-have items such as snaps, rivets, an edge cutter, stamping punch tools, and much more.",n
+147,15,p,"With the kit you’ll be able to handle leather, color, sew, stamp, and repair too. This is a great place to start if you’re diving into the leather working world and have the want to make professional level items.",n
+152,15,h3,Plaid Wood Burning and Steel Cutting Tool,y
+158,15,p,"Are you interested in wood burning and stenciling? If so, you’ll definitely want to add this Plaid Wood Burning and Steel Cutting Tool to your Amazon cart. It’s a wood burning tool that takes care of two crafting technique in one and comes with a tool stand as well.",n
+164,15,p,You’ll also receive a plastic case to hold all the various tips ensuring nothing gets lost in the mix of creating. There’s just so many wonderful projects that can come out of its use!,n
+169,15,h3,Cobiz Full-Size Hot Glue Gun,y
+175,15,p,"Every crafter needs a hot glue gun and we prefer the Cobiz Full-Size Hot Glue Gun . With purchase, you’ll receive two finger protectors and a steel rasper-as well as a 45-day refund guarantee. This particular model has heavy duty working power so we know that you’ll be able to get whatever creation you want made with its help.",n
+179,15,p,It heats up quick and will come with 10 premium sticks-so you may want to get some extra glue ahead of time. It’s also a full-size gun-instead of the mini version- making it a comfortable fit in your hands.,n
+184,15,h3,Dremel 3-Tool Craft and Hobby Maker Kit,y
+190,15,p,"Whether you’re a beginner or a pro, this Dremel 3-Tool Craft and Hobby Maker Kit is great for crafters all around. This rotary tool will be able to cut, rout, sand, and polish with ease. And the engraving piece will allow you to put your mark on glass, metal, stone, and various other materials of your choice.",n
+194,15,p,"Don’t forget that this kit also comes with a soldering torch for more detailed work. And with all three of these options, you’ll be able to complete some of the more sophisticated of DIY projects around.",n
+199,15,h3,SIMPZIA Leather Hand Stitching Tools Kit,y
+205,15,p,The SIMPZIA Leather Hand Stitching Tools Kit is another buy you may want to snag if you’re thinking about diving into some leather projects. It includes 22 pieces you’ll need for some simple custom leather work including a natural wooden hammer and sewing needles.,n
+209,15,p,There’s a punch prong for punching through materials with ease. And the stitching tools were made for the thicker materials as well. It’s a great buy for beginners who are interested in getting their hands dirty for the first time.,n
+214,15,h3,Bememo 400-Piece Metal Grommet Set,y
+220,15,p,"For our veteran makers, we have something that you’ll want to snag. This Bememo 400-Piece Metal Grommet Set includes 400 sets of multi-color grommets with installation tools for a price that just cannot be beaten.",n
+224,15,p,"They come in a clear box for easy storage and organization-which is always helpful. Create gift tags, favors, top off shoes or jeans, and all other bits and bobbles by having these in your back pocket .",n
+229,15,h3,Revolving Leather Hole Punch,y
+235,15,p,"For those already in knee-deep in the leather working world, you’ll want to get you one of these Revolving Leather Hole Punches . With his purchase you’ll get three punches including a heavy duty adjustable steel punch press, a heavy duty steel stud pliers, and a heavy duty steel eyelet pliers.",n
+239,15,p,"You’ll get various punch sizes included and each tool comes with a non-slip grip handle. And you don’t have to use them with leather only, they’re also suitable for use with other materials such as nylon, cardboard, canvas, or even rubber.",n
+244,15,h3,Bubble Buster Tool,y
+250,15,p,"Finally, are you into making some of your own glitter tumblers? If so, you’ll absolutely want to grab you a Bubble Buster Tool ! It will help you clear any of those air bubbles quickly while you’re in the process of creating the drink holder.",n
+257,15,h2,Conclusion,n
+259,15,p,"It’s a compact design so you can put in out of sight when you’re not using it, it’s a really affordable price point, and it had the option of hands free operation. Just make sure you keep this one out of reach of the little ones of the house-it gets hot!",n

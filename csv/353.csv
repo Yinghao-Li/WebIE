@@ -1,0 +1,137 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,article,,n
+3,2,div,,n
+8,3,div,,n
+10,8,h1,12 Essential Gardening Tools That Gardeners Should Have,n
+12,8,h2,A Checklist,n
+14,3,div,,n
+15,14,div,,n
+16,15,div,,n
+18,16,span,By,n
+19,16,div,,n
+20,19,text,Nadia Hassani,n
+21,19,div,,n
+22,21,div,,n
+27,22,div,Nadia Hassani,n
+29,22,ul,,n
+32,29,li,Instagram,n
+35,29,li,Website,n
+37,22,div,"Nadia Hassani is a gardening expert with nearly 20 years of experience in landscaping, garden design, and vegetable and fruit gardening. She became a Penn State Master Gardener in 2006 and is a regular contributor to Penn State Master Gardener publications. She gives gardening talks about growing specialty produce for ethnic cuisines, authors two gardening and growing blogs, and created the taxonomy for the plant encyclopedia for Better Homes and Gardens.",n
+41,21,div,Editorial Process,n
+43,15,div,Updated on 08 or 13 or 21,n
+50,14,div,,n
+60,50,div,"Kathleen Miller is a highly-regarded Master Gardener and Horticulturist who shares her knowledge of sustainable living, organic gardening, farming, and landscape design. She founded Gaia's Farm and Gardens, a working sustainable permaculture farm, and writes for Gaia Grows, a local newspaper column. She has over 30 years of experience in gardening and sustainable farming.",n
+64,50,div,Review Board,n
+67,2,div,,n
+69,67,div,,n
+71,69,p,"Whether you have potted plants on your balcony, a patio, or a whole yard for gardening, using the right tools for gardening makes a tremendous difference. The many choices for gardening tools can be a bit overwhelming, and there are lots of unnecessary tools on the market that aren't worth taking up valuable storage space.",n
+75,69,p,"Here’s a list of must-haves, broken down into two parts: the first five tools every gardener should have, and the remaining seven are essentials for people with backyard gardens. The larger your garden, the more important it is that you have quality tools.",n
+76,69,div,,n
+78,76,h3,Tip,n
+81,76,p,"An important criterion for buying gardening tools is whether they feel comfortable in your hand, which is a matter of personal preference.",n
+82,67,div,,n
+83,82,ul,,n
+85,83,li,,n
+89,85,div,01,n
+92,85,div,,n
+96,92,h2,Hand trowel,y
+98,92,p,"A hand trowel is a must-have multi-purpose tool for digging, scooping soil, removing weeds , and planting. Trowels come in different blade shades, with long or short handles, measuring gauges for seed and bulb depth, hanging holes, and various other features.",n
+104,92,p,"A good trowel is strong, sturdy, made of steel with an ergonomic anti-slip rubber handle. Depending on your personal strength, a heavier trowel is better because the heft will make it easier for you to break up compacted soil.",n
+107,83,li,,n
+111,107,div,02,n
+114,107,div,,n
+118,114,h2,Gloves,y
+120,114,p,"For container gardening, a pair of light, all-purpose gardening gloves with nitrile coating is usually sufficient. Backyard gardeners should have both thinner planting gloves as well as a pair of gloves for heavy-duty tasks such as digging and pruning as a layer of protection against blisters, abrasion, thorns, etc.",n
+124,114,p,"These gloves should be long enough that the cuffs cover your wrists. Leather gloves are the most durable, and some come with extra foam padding or cushioning for comfort.",n
+127,114,div,The Best Gardening Shoes to Keep Your Feet Dry and Protected,n
+130,83,li,,n
+134,130,div,03,n
+137,130,div,,n
+141,137,h2,Bypass pruners,y
+143,137,p,Bypass pruners are indispensable for cutting living plant parts such as flower stems and vegetables. They are pricier than carbon steel bypass pruners but stay sharp longer. There are different models for lefties and righties so make sure you purchase the right one.,n
+148,137,p,Search,n
+150,83,li,,n
+151,150,div,,n
+155,151,div,04,n
+158,151,div,,n
+162,158,h2,Watering can,y
+164,158,p,A sturdy watering can with at least one gallon capacity should be made of heavy-duty plastic or galvanized steel.,n
+168,158,p,Choose one with a detachable rose so that when you detach the rose you can reach the soil around plants without getting them wet.,n
+173,150,div,12 below.,n
+178,83,li,,n
+182,178,div,05,n
+185,178,div,,n
+189,185,h2,Spray bottle,y
+191,185,p,"For moistening containers with freshly planted seeds and watering the seedlings, a spray bottle comes in handy, because the heavier flow from a watering can or a hose can wash out the soil or topple over tender young plants. Spray bottles are also great for plants that prefer humid environments.",n
+195,185,p,"The bottle should be clear so you can see its contents. Spray bottles are often cheaply made and break easily, so spending a few dollars more for a heavier-duty handle and nozzle pays off in the long term.",n
+198,83,li,,n
+202,198,div,06,n
+205,198,div,,n
+209,205,h2,Anvil pruners,y
+211,205,p,"Those with a yard or large container plants will want something more heavy duty than bypass shears. To cut through thicker materials such as to prune dead twigs and branches, you’ll need anvil pruners .",n
+217,205,p,"High-end models have replaceable blades. Similar to bypass pruners, there are different models for lefties and righties.",n
+220,83,li,,n
+224,220,div,07,n
+227,220,div,,n
+231,227,h2,Loppers,y
+233,227,p,"up to two inches in diameter, you will need a pair of loppers .",n
+239,227,p,They come in different handle lengths. 18 to 24 inches works,n
+241,83,li,,n
+242,241,div,,n
+246,242,div,08,n
+249,242,div,,n
+253,249,h2,Shovel,y
+255,249,p,"A shovel gives you more flexibility than a spade. It has a concave, broad blade with a curved sharp tip so you can also scoop up soil whereas a spade has a flat and square blade.",n
+259,249,p,"Shovels with a forged blade are more expensive but also more durable. A long-handled shovel, typically between 44 and 48 inches, gives you more leverage making it easier on your back than a short-handled shovel. As for the handle material, fiberglass shovel handles are generally more durable than wooden handles, but either material works fine.",n
+264,241,div,12 below.,n
+269,83,li,,n
+273,269,div,09,n
+276,269,div,,n
+280,276,h2,Rake,y
+282,276,p,"To move and level soil and prepare your garden bed, you a need metal bow rake, also called a soil or landscape rake. It is different from a leaf or lawn rake; its short, sturdy, forged steel tines are spaced one or two inches apart. These rakes come in different widths.",n
+286,276,p,24 inches works well,n
+289,83,li,,n
+293,289,div,10,n
+296,289,div,,n
+300,296,h2,Cultivator,y
+302,296,p,"The other long-handled tool essential in backyard gardening is a cultivator that loosens and breaks up crusty soil, and prepares it for watering and incorporating fertilizer. It also helps you remove weeds. The standard handle length is 54 inches, which works well for most gardeners.",n
+306,296,p,Cultivators come in several styles; models with a curved hook and narrow sharp pointy end give you the most flexibility when working around plants.,n
+309,83,li,,n
+313,309,div,11,n
+316,309,div,,n
+320,316,h2,Garden hose with watering wand,y
+322,316,p,"Having a garden hose lets you reach any corner of your back yards without having to lug a watering can around. Gardening hoses can be made of rubber, vinyl, or a combination of the two. The hose strength is determined by the number of layers; an 8-ply hose is less likely to collapse and kink than a weaker hose. Likewise, fittings made of brass or heavy aluminum or alloy make a good fit and do not leak.",n
+324,316,p,The watering wand is important to get water into hard-to-reach places. It should give you multiple choices for watering patterns. Make sure that the watering wand fits the hose.,n
+328,316,p,"When buying a gardening hose, it boils down to how much money you are willing to spend, but investing in good quality usually pays off.",n
+331,83,li,,n
+335,331,div,12,n
+338,331,div,,n
+342,338,h2,Wheelbarrow,y
+344,338,p,"A wheelbarrow that holds four to six cubic feet is a good size for most yards to haul around soil, plants, and other gardening materials. Models made of molded plastic for the tub and one front wheel are adequate to carry average weights of 60 to 90 pounds.",n
+350,338,p,"Inflated rubber tires give a nicer roll and ride, but a solid rubber tire means you don’t have to worry about keeping the tire inflated.",n
+352,82,div,,n
+354,352,p,"Having the right gardening tools helps you get the job done quicker and more efficiently, with less physical effort and strain on your most valuable and indispensable gardening tools—your hands and back!",n
+357,352,div,The 7 Best Gardening Tools to Help Your Garden Thrive,n
+361,82,nav,,n
+364,361,div,Related Topics,n
+368,361,li,Houseplant Care,n
+416,0,div,,n
+417,416,ul,,n
+426,417,li,"2022, According to a Master Gardener",n
+436,417,li,Try These Gardening Pros' 11 Favorite Yard and Plant Products,n
+446,417,li,The 11 Best Watering Tools,n
+456,417,li,The 7 Best Gardening Tools to Help Your Garden Thrive,n
+466,417,li,The Best Gardening Gifts to Give to the Gardener in Your Life,n
+476,417,li,2022,n
+486,417,li,"The Best Tree Loppers, According to a Master Gardener",n
+496,417,li,The Essential Tool You Need,n
+500,416,ul,,n
+509,500,li,"The Best Garden Hoses, Tested by The Spruce",n
+519,500,li,How to Use a Drain Cleaning Bladder,n
+529,500,li,Here Are the Best Garden Stools to Work in Comfort,n
+539,500,li,The 20 Best Gardening Gifts,n
+549,500,li,2022,n
+559,500,li,How to Use a Pressure Washer,n
+569,500,li,Learn How to Prune Your Herb Garden,n
+579,500,li,2022,n

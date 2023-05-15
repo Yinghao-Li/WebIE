@@ -1,0 +1,168 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+2,1,div,,n
+5,2,div,,n
+9,5,h1,Softball Gear - Everything You Need to Know,n
+11,5,div,"February 10, 2020",n
+12,5,div,,n
+14,12,div,,n
+17,14,h1,What Equipment Do You Need For Softball?,n
+21,14,p,"It’s that time of the year – time to welcome back spring season and dust off your softball gear! The season is starting and you should be ready to play with the right gear. In softball, the ball travels at high speeds so it is imperative for the players to protect themselves. Depending on which position you play, you will have different gear that protects what needs to be protected and allows you to still move freely, while being comfortable. We compiled a list of the basic gear you need for softball in order to be at your best game!",n
+28,14,h2,Softball Gear List,n
+32,14,h3,Ball,y
+35,14,p,"The ball used for softball is round and about 11-12 inches in circumference. Unlike what its name implies, the ball is not soft! It is made out of hard leather, usually white or yellow, and is filled with cork, rubber and synthetic materials.",n
+39,14,h3,Bat,y
+42,14,p,"Right after the ball, the most essential piece of equipment is the bat. The best bats consist of one solid piece, or two pieces joined together at the center. They are around 34 inches long, on average, and are made of aluminum or composite materials, with a diameter of around 2.5 inches. If you are a casual player, you can choose any solid bat to use. However, if you’re playing in a league, your bat has to display the Amateur Softball Association of America certification mark. Compared to baseball bats, softball bats have much thinner and more tapered handles. Make sure you are picking the right bat for your sport!",n
+46,14,h3,Glove,y
+49,14,p,"There are two types of gloves in softball. The first type of gloves are the regular gloves, which have individual fingers and not a lot of padding. Outfielders and most infielders wear this type of glove. The other glove used is the mitt. These are gloves made specifically for catchers and first baseman. They are larger with extra padding and protect the hand from catching balls being thrown at high speeds.",n
+53,14,h3,Cleats,y
+56,14,p,"Every softball player has to have a pair of cleats, no matter which position they play in. Cleats help prevent slipping and sliding in the muddy grass and clay. They have metal or molded studs which help players run, jump, and slide without any issues.",n
+60,14,h3,Facemask,y
+63,14,p,"Facemasks protect your eyes, nose, mouth and teeth from any serious injuries. Some players choose to wear them because they witnessed their teammates being hit in the face by a fast ball and have bad injuries, concussions, or temporary blindness. The only player that is required to wear a mask while playing defense is the catcher, who has a specific mask for their position. All other players can choose if they want to wear it or not.",n
+67,14,h3,Helmet,y
+70,14,p,"Another very important piece of equipment is the helmet. Unlike the facemask, the helmet is required since it protects players from serious or even fatal injuries. It is made out of durable plastic and foam, which helps distribute the forces of any ball hit to the head.",n
+74,14,h3,Catcher’s Gear,y
+77,14,p,"The players that are most likely to get hit by the ball are the catchers, which is why they have special and extra equipment for protection. They are required to wear helmets with face guards and throat protectors. They also have to have full body protection with chest guards and shin guards that reach above their knees.",n
+81,14,h3,Sunglasses,y
+82,14,p,,n
+84,82,span,"The last piece of gear you want on the field are the sunglasses. No matter what position you play, prescription sunglasses are critical for upping your game. If you want to know all the critical components that involve finding that perfect pair check out our",n
+86,82,span,Buyer’s Guide,n
+88,82,span,", and if you already know what you’re looking for, check out",n
+90,82,span,2019,n
+92,82,span,top performing frames.,n
+98,14,h2,Prescription Softball Sunglasses Online at SportRx,n
+100,14,p,,n
+102,100,span,"Need prescription softball sunglasses? Done. When you shop with us, you’ll find video guides and tooltips throughout the build process as you customize the perfect pair. An answer to all your questions is at your fingertips, and if you want to chat with an expert,",n
+104,100,span,Contact Us,n
+106,100,span,. We’ll put you in touch with one of our friendly in-house opticians who can help you build your prescription softball sunglasses.,n
+107,14,p,,n
+109,107,span,Ditch risky online shopping with the,n
+111,107,span,See Better Guarantee,n
+113,107,span,". Try your sunglasses for 45 days. If you’re not satisfied, send them back. Get a full refund, exchange, or credit towards a better pair. And return shipping? Covered. Get your pair of prescription softball sunglasses at SportRx today!",n
+124,12,div,,n
+128,124,div,,n
+130,128,strong,SportRx,n
+131,128,text,Optician,n
+132,124,div,,n
+134,132,strong,Tags,n
+135,132,text,"Prescription Softball Sunglasses , Softball sunglasses , gear , softball",n
+144,5,div,,n
+147,144,fieldset,,n
+149,147,h4,Leave a Reply,n
+152,147,div,Name,n
+157,147,div,Email,n
+162,147,div,Website,n
+167,147,div,Comment,n
+170,144,div,,n
+174,170,div,Leave a comment,n
+176,170,span,Please wait...,n
+178,2,h3,You Might Also Like,n
+180,2,div,,n
+186,180,h3,How to Choose Softball Sunglasses | Softball Buyer’s Guide,n
+192,180,h3,2022 | Best Sunglasses,n
+198,180,h3,Best Lens Colors,n
+200,1,div,,n
+209,200,div,Search,n
+210,200,div,,n
+213,210,div,Explore,n
+215,210,ul,,n
+216,215,li,,n
+219,216,text,SPORT or ACTIVITY,n
+220,216,ul,,n
+222,220,li,Athleisure,n
+224,220,li,Baseball,n
+226,220,li,Basketball,n
+228,220,li,Boating or Sailing,n
+230,220,li,Casual Lifestyle,n
+232,220,li,Cycling,n
+234,220,li,Computer,n
+236,220,li,Driving,n
+238,220,li,Fishing,n
+240,220,li,Football,n
+242,220,li,Gaming,n
+244,220,li,Golf,n
+246,220,li,Hiking,n
+248,220,li,Military or Tactical,n
+250,220,li,Motocross or ATV,n
+252,220,li,Motorcycle,n
+254,220,li,Mountain Bike,n
+256,220,li,Mountaineering,n
+258,220,li,Pickleball,n
+260,220,li,Racquetball or Squash,n
+262,220,li,Running,n
+266,220,li,Scuba Diving,n
+268,220,li,Shooting,n
+270,220,li,Ski or Snowboard,n
+272,220,li,Skydiving,n
+274,220,li,Soccer,n
+276,220,li,Softball,n
+278,220,li,Swimming,n
+280,220,li,Tennis,n
+282,220,li,Triathlon,n
+284,220,li,Volleyball,n
+285,215,li,,n
+288,285,text,BRAND,n
+289,285,ul,,n
+291,289,li,100%,n
+293,289,li,7eye,n
+295,289,li,Anon,n
+297,289,li,ArmouRx,n
+299,289,li,Bobster,n
+301,289,li,Bolle,n
+303,289,li,Costa,n
+305,289,li,Dragon,n
+307,289,li,Giro,n
+309,289,li,Heat Wave,n
+311,289,li,Hilco,n
+313,289,li,Julbo,n
+315,289,li,Kaenon,n
+317,289,li,Kate Spade,n
+319,289,li,Maui Jim,n
+321,289,li,Native Eyewear,n
+323,289,li,Nike,n
+325,289,li,Oakley,n
+327,289,li,Progear,n
+329,289,li,Raen,n
+331,289,li,Randolph Engineering,n
+333,289,li,Ray-Ban,n
+335,289,li,Rec Specs,n
+337,289,li,Revo,n
+339,289,li,Rudy Project,n
+341,289,li,Sea Vision,n
+343,289,li,Smith,n
+345,289,li,SportRx,n
+347,289,li,SPY Optic,n
+349,289,li,Tifosi,n
+351,289,li,Under Armour,n
+353,289,li,Wiley X,n
+355,289,li,Zeal Optics,n
+356,215,li,,n
+359,356,text,PRODUCT TYPE,n
+360,356,ul,,n
+362,360,li,Sunglasses,n
+364,360,li,Eyeglasses,n
+366,360,li,Blue Light Glasses,n
+370,360,li,Snow Goggles,n
+372,360,li,MX Goggles,n
+374,360,li,Rx Inserts,n
+375,215,li,,n
+378,375,text,CONTENT TYPE,n
+379,375,ul,,n
+381,379,li,Lists,n
+383,379,li,Buyer's Guides,n
+385,379,li,Lens Guides,n
+387,379,li,Size Guides,n
+389,379,li,Product Comparisons,n
+391,379,li,FSA or HSA,n
+393,379,li,Optics FAQs,n
+395,379,li,Reviews or Overviews,n
+396,215,li,,n
+399,396,text,Size,n
+400,396,ul,,n
+402,400,li,Big Heads,n
+404,400,li,Small Faces,n
+406,400,li,Asian Fit,n
+408,400,li,Men,n
+410,400,li,Women,n
+412,400,li,Kids,n

@@ -1,0 +1,240 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+77,0,div,,n
+94,77,h1,Tennis Equipment List,n
+95,77,div,,n
+99,95,h2,Contents,n
+102,95,ul,,n
+104,102,li,Tennis Equipment,n
+106,102,li,Accessories,n
+108,102,li,Arm Sleeves,y
+110,102,li,Ball Clips,y
+112,102,li,Ball Hoppers,y
+114,102,li,Ball Machines,y
+116,102,li,Bandanas,y
+118,102,li,Balls,y
+120,102,li,Carts,y
+122,102,li,Clay Court Shoes,y
+124,102,li,Elbow Brace,y
+126,102,li,First Aid Kit,y
+128,102,li,Hard Court Shoes,y
+130,102,li,Hats,y
+132,102,li,Headbands,y
+134,102,li,Knee Brace,y
+136,102,li,Nets,y
+138,102,li,Rosin,y
+140,102,li,Snacks,y
+142,102,li,Squeegees,y
+144,102,li,Strings,y
+146,102,li,String Savers,y
+148,102,li,Sunscreen,y
+150,102,li,Sweat Bands,y
+154,102,li,Tennis Balls,y
+156,102,li,Tennis Courts,y
+158,102,li,Tennis Dress,y
+160,102,li,Tennis Leggings,y
+164,102,li,Tennis racket Overgrips,y
+166,102,li,Tennis rackets,y
+168,102,li,Tennis Shoes,y
+170,102,li,Tennis Shorts,y
+172,102,li,Tennis Skirt,y
+174,102,li,Tennis Socks,y
+176,102,li,Tennis T-Shirts,y
+178,102,li,Towels,y
+180,102,li,Vibration Dampeners,y
+182,102,li,Visors,y
+184,102,li,Water Bottles,y
+188,77,div,,n
+190,188,h2,Tennis Equipment,n
+192,188,p,"Tennis is a popular sport because it does not require much equipment for players. It also does not require a whole team of players. The sport can be played with anywhere from two to four people. Only the racket, balls, shoes, and net are mandatory for a match. The sport requires high levels of hand-eye coordination and cardio from all parties involved. While any ordinary individual can pick up a racket and hit a ball back and forth with someone over a net, it takes the proper training and the right workouts to truly be competitive and highly skilled at the sport.",n
+194,77,div,,n
+196,194,h2,Accessories,n
+198,194,p,"Accessories include a tennis bandana, tennis visor, grip tape, tennis racket strings, sunglasses, and of course tennis shoes. Each accessory has its own specific role that aids a player in numerous ways.",n
+200,194,h3,Bandana,y
+202,194,p,"A tennis bandana or visor is worn to block out the sun from a player's eyes, or to prevent sweat from dripping into a player's eyes while playing.",n
+204,194,h3,Grip Tape,y
+206,194,p,"Grip tape is often used by tennis players to tape the handle of their racket. Grip tape is typically more expensive than a normal roll of clear or colored tape. It is about $5 to $10. A player may use grip tape because it feels more comfortable inside their hand, letting them hold and move around their racket with more ease.",n
+210,194,h3,Sunglasses,y
+212,194,p,"Tennis sunglasses are expensive and typically sold in the price range of $75 to $250. A popular brand of sunglasses often worn in tennis is the Oakley Brand. Tennis glasses shield a player's eyes from the sun while hitting the ball back and forth during gameplay. A lot of professionals choose not to wear sunglasses as they can become uncomfortable; however, many amatuers wear tennis sunglasses to have the ability to see the court clearly.",n
+213,77,div,,n
+215,213,h2,Arm Sleeves,y
+217,213,p,A tennis arm sleeve is also commonly referred to as a tennis compression sleeve. A player can wear an arm sleeve on either just their dominant arm or on both arms. An arm sleeve in tennis helps the muscles from tightening and provides support for the arm. Tennis arm sleeves are similar to the arm sleeves worn by basketball players . They are not expensive to purchase.,n
+220,77,div,,n
+222,220,h2,Ball Clips,y
+224,220,p,"Tennis ball clips are like any typical clip or holder. Tennis ball clips allow a ball to clip onto a player's shorts or pants while playing tennis. Ball clips are not expensive and cost anywhere from $1 to $5 to purchase. They fit right around the spherical ball, and can easily attach to a person's waist or garments.",n
+225,77,div,,n
+227,225,h2,Ball Hoppers,y
+229,225,p,"A tennis ball hopper is one of the most popular ways to transport balls around a tennis court. A tennis ball hopper is usually made with wheels, so a player can wheel the hopper around the court when collecting or using balls. The hopper stands up straight either on two legs or flat to the ground. A player often uses the hopper during a tennis practice or while playing for fun. Tennis ball hoppers are in the price range of $25 to $150 depending on how many balls it can fit and if it has wheels to make transport easier.",n
+230,77,div,,n
+232,230,h2,Ball Machines,y
+234,230,p,"Tennis ball machines are a lofty purchase and are in the price range of $500 to $5000. Tennis ball machines are able to hold a certain amount of balls, and act as a trainer and as a server. A tennis ball machine releases balls to help a player practice returning them. For example, if a player has trouble returning the ball when it has a lot of topspin on it, a player can calibrate the tennis ball machine to shoot out balls one by one each being released and let go with topspin. A tennis ball machine is a good way for a tennis player to improve their game without needing others to assist them.",n
+235,77,div,,n
+237,235,h2,Bandanas,y
+239,235,p,"Tennis bandanas range in price from $10 to $20. Just as a tennis sweatband catches sweat and halts it from affecting a player's performance, a tennis bandana does the same. A tennis bandana wraps around a player's head, and absorbs the sweat, keeping it from entering their eyes. Roger Federer and Maria Sharapova are two of the main superstars that wear tennis bandanas while they play.",n
+244,77,div,,n
+246,244,h2,Balls,y
+248,244,p,"A tennis can of balls is how tennis balls can be purchased in any type of retail store. Normally, individual tennis balls are not sold, and instead, the balls are solid in cans with three balls together. A tennis can of balls is normally about $5 to purchase, and the balls remain in their best condition for 2-3 hours. However, a player may use the same set of tennis balls for weeks. Although they can still be used after this time frame, the balls will not be as fresh and bouncy for the player.",n
+251,77,div,,n
+253,251,h2,Carts,y
+255,251,p,"A tennis ball cart is similar to a tennis ball hopper. However, a tennis ball cart always contains wheels with a handle and normally costs more in the price range of $100 to $200. A tennis ball cart is similar to a typical shopping cart, but instead of being designed to carry groceries or household items, it is specially designed to carry tennis balls.",n
+256,77,div,,n
+258,256,h2,Clay Court Shoes,y
+260,256,p,"Clay court tennis shoes usually feature the most amount of traction compared to the other types of tennis shoes a player may wear. Clay court shoes have a herringbone outsole that allow a player to move side to side easier and to have more control on the court when sliding back and forth. Clay court shoes are similar in price to hard court tennis shoes, around $50 to $100.",n
+261,77,div,,n
+263,261,h2,Elbow Brace,y
+265,261,p,"Unlike hockey where an elbow brace or pad is used for protection, in tennis, an elbow brace is used to reduce pain and to improve grip strength of a player. A tennis elbow brace has two velcro straps that wrap around the elbow and provides a lot of cold pressure onto the surface which is in pain. A golf player uses the same type of elbow brace. Most tennis elbow braces range from $15 to $30.",n
+268,77,div,,n
+270,268,h2,First Aid Kit,y
+272,268,p,A tennis first aid kit is like any other first aid kid. A tennis first aid kit is used when a player is in pain or injured. A first aid kit may different depending on the surface of the court on which the match is played. Some components of an ordinary kit include:,n
+273,268,ul,,n
+275,273,li,Gloves,y
+277,273,li,Eye Protection,y
+279,273,li,CPR Mask,y
+281,273,li,Tourniquet,y
+283,273,li,Gauze,y
+285,273,li,Gauze Pads,y
+287,273,li,Medical Tape,y
+289,273,li,Triangular Bandages,y
+291,273,li,Sam Splint,y
+292,77,div,,n
+294,292,h2,Hard Court Shoes,y
+296,292,p,"The shoes for hard court tennis players are usually made to be more durable, since the surface these athletes play on is far more abrasive than that of a grass or clay court. These shoes have more cushion which allows the player to receive less of the shock from the playing surface. Although hard court shoes can be slippery at times, they are easy to maneuver in and light on the feet. Hard court tennis shoes normally cost anywhere from $50 to $100.",n
+297,77,div,,n
+299,297,h2,Hats,y
+301,297,p,"A tennis hat is commonly referred to as a visor. A tennis hat is lighter than most types of hats and is made with the top of the hat being left open. In some cases, a tennis hat is made to be lighter and is constructed like a typical baseball cap. The main job of a tennis hat is to protect a player's face from the sun during gameplay. A tennis hat is typically around $30 to $40.",n
+304,77,div,,n
+306,304,h2,Headbands,y
+308,304,p,"A tennis headband has the same role as a tennis bandana. Wearing a tennis headband or tennis bandana is a personal preference, as each item does the same trick and costs the same amount of money. A tennis headband wraps around a player's head and absorbs the sweat, keeping it from entering their eyes. If a tennis headband is not worn, a player's vision may be negatively affected because of the sweat entering and burning their eyes. A tennis headband can also keep a player's hair from moving around all over the place.",n
+309,77,div,,n
+311,309,h2,Knee Brace,y
+313,309,p,"A tennis knee brace is often worn by a player who suffers or who has suffered in the past from knee problems. A tennis knee brace does not make a player's knee stronger than it really is. If their knee muscles and ligaments are weak, the brace does not change that. However a tennis knee brace can protect the knee from being damaged further if a player takes a weird turn or falls to the court.",n
+314,77,div,,n
+316,314,h2,Nets,y
+318,314,p,"The net is the most vital piece of equipment on the tennis court. This is required to be a certain height agreed by both players in order to start a match. An umpire tower is used for high-level matches, where an umpire can sit and make calls. The scoreboard is used to keep track of the score during the game. A regulation tennis net will be 3 feet 6 inches tall at the posts and 3 feet tall in the middle.",n
+319,77,div,,n
+321,319,h2,Rosin,y
+323,319,p,Tennis rosin is a sticky substance extracted from the sap of fir trees that allows a player to improve their grip on their racket and to keep their hands drier. It is similar to the chalk used by a basketball player before a game and can be bought in bags or in containers for a few dollars.,n
+326,77,div,,n
+328,326,h2,Snacks,y
+330,326,p,"Some preferable or healthy options of snacks to eat before a tennis workout or or match include the following: protein, carbohydrates, and vitamins. Snacks that contain these vital ingredients include:",n
+331,326,ul,,n
+333,331,li,A wrap with chicken and salad,y
+335,331,li,Fruit salad or smoothies,y
+337,331,li,Yogurt,y
+339,331,li,Carbohydrates,y
+341,331,li,Bananas,y
+343,331,li,nuts or cashews,y
+344,77,div,,n
+346,344,h2,Squeegees,y
+348,344,p,"Tennis squeegees are used to dry an outdoor court. They are often used when a court has been rained on and needs to dry quickly before a match. The squeegee absorbs and takes in all of the water. To use a squeegee most effectively, they should be rolled back and forth on a court. Squeegees usually cost anywhere from $60 to $130 to purchase.",n
+349,77,div,,n
+351,349,h2,Strings,y
+353,349,p,A racket needs tightly strung strings in order to properly hit a ball. Strings can be made of multiple types of material such as:,n
+354,349,ul,,n
+356,354,li,Gut,y
+358,354,li,Fiber,y
+360,354,li,Polyesters,y
+362,354,li,Fibers,y
+364,349,p,"An open string pattern provides more power but makes for less control and a shorter string lifespan. On the other hand, a closed pattern allows for more control but doesn't produce as much power on your swing. String patterns can also have a large effect on ball spin. A wider pattern creates more opportunity for a sharp topspin.",n
+366,349,p,Players can also combine different string material on a single racket. Not all players string their own rackets. Most players and professionals hire qualified individuals who string rackets for a living.,n
+367,77,div,,n
+369,367,h2,String Savers,y
+371,367,p,"String savers are small pieces of material that are placed between the main strings and cross strings of a tennis racket. They are normally plastic or another form of composite. They can be added anywhere on the racket, but they're primarily used in high wear areas in the middle of the string bed. Their purpose is to increase the life of the strings.",n
+372,77,div,,n
+374,372,h2,Sunscreen,y
+376,372,p,"The role of sunscreen is to protect a player from the sun. A typical tennis match lasts anywhere from 1 to 5 hours depending on the number of games and sets it takes. When the sun is beating down on a player for that long, it causes them to feel uncomfortable and become sunburnt. Therefore, to prevent this from happening, a player can apply sunscreen before the contest to shield their sensitive skin from sun exposure.",n
+379,77,div,,n
+381,379,h2,Sweat Bands,y
+383,379,p,"Tennis players can use sweat bands to wipe sweat off their forehead. Tennis sweat bands are worn on a player's wrist. This helps to improve vision during gameplay. The bands also help to prevent sweat from flowing to the palms of the hand. They can also be used as promotions for sporting companies and are not expensive to purchase. Often, these sweat bands may also be used as items to create an awareness and a focus about a certain cause.",n
+384,77,div,,n
+386,384,h2,Tennis Bags,y
+388,384,p,"A tennis bag is the method of transport for carrying a player's tennis rackets. When travelling from game to game, a tennis bag protects the rackets from being cracked or broken, while also giving the player an easy way to hold the rackets with the strap on the side of the bag. Tennis bags are not expensive and can typically hold anywhere between 1 and 4 rackets in each of them.",n
+389,77,div,,n
+391,389,h2,Tennis Balls,y
+393,389,p,"The ball is the most important piece of equipment other than a racket in order to start a match. A tennis ball is made from rubber and nylon to provide bounce and resistance on impact. Both players should have at least three or more balls on their person at all times during a match. This is to make the game run smoothly when a player serves. During serves, a player can use their extra tennis balls in order to complete a serve.",n
+394,77,div,,n
+396,394,h2,Tennis Courts,y
+398,394,p,"A match can only be played on a tennis court. Courts can be located at parks, clubs and recreational areas. The material used on tennis courts can be concrete, clay or grass. Professional courts vary depending on the location of their matches. A court also must have a net, benches, umpire tower, and scoreboard.",n
+401,77,div,,n
+403,401,h2,Tennis Dress,y
+405,401,p,"A tennis dress is often worn by women during a tennis match. A tennis dress is loose and comfortable to wear, and often has built in tights, pockets, or shorts within them. Tennis dresses typically are in the price range of $60 to $120. Women often want to wear a light color tennis dress, so they are not as hot with the sun beating down on them.",n
+406,77,div,,n
+408,406,h2,Tennis Leggings,y
+410,406,p,"Tennis leggings often come in a tennis dress. However, if not, tennis leggings can be bought separately. Tennis leggings are not so different from a typical pair of leggings that an individual may wear throughout the course of an ordinary day. The leggings should be comfortable, easy to move around a lot in, and able to absorb sweat well.",n
+411,77,div,,n
+413,411,h2,Tennis racket Grips,y
+415,411,p,racket grips,n
+416,77,div,,n
+418,416,h2,Tennis racket Overgrips,y
+420,416,p,"A tennis racket overgrip is a wrapping made of cloth that is added onto the grip of the racket to provide more stickiness, softness, and cushion for the player. Tennis racket overgrips also absorb sweat quite well and can be customized in various colors.",n
+421,77,div,,n
+423,421,h2,Tennis rackets,y
+425,421,p,"A racket is needed in order to serve, hit, and receive in a match. A racket can have different weight depending on the user and lead can be used to alter the weight. The standard length for a racket is 29 inches long and 12 inches wide. A racket cannot be larger than these dimensions. Another rule about rackets is that a player will be given a warning or violation if they break their racket willingly during a match. Rackets can cost anywhere from $20 to over $200 depending on quality and brand.",n
+426,77,div,,n
+428,426,h2,Tennis Shoes,y
+430,426,p,The shoes should have a flat or athletic sole in order to provide support for a player. Tennis players run around the court and make quick stops in order to make a hit. A proper shoe can protect a player's foot from injury during a match. A tennis player can choose between clay court shoes or hard court shoes depending on where they will be playing.,n
+431,77,div,,n
+433,431,h2,Tennis Shorts,y
+435,431,p,"Tennis shorts are like any other ordinary pair of gym shorts. It is important that tennis shorts are loose, comfortable, and easy to move around the court in. Tennis shorts may sometimes be lighter than a typical pair of gym shorts, and one pair usually costs around $30 to purchase.",n
+436,77,div,,n
+438,436,h2,Tennis Skirt,y
+440,436,p,A tennis skirt often ranges in price anywhere from $30 to $75. A tennis skirt and tennis shirt are an alternative to wearing a tennis dress. A tennis skirt has pockets which allow a player to hold an extra ball in. Tennis skirts should be comfortable and easy to run around the court in.,n
+441,77,div,,n
+443,441,h2,Tennis Socks,y
+445,441,p,"Tennis socks are another part of a player's uniform. Depending on the brand, tennis socks can be made out of top quality fabrics, which allows the player to feel comfortable on their feet when running around the court . They are typically about $10 a pair.",n
+448,77,div,,n
+450,448,h2,Tennis T-Shirts,y
+451,448,text,"A tennis shirt is often referred to as a polo shirt or golf shirt. These shirts are often made of a certain type of knitted cloth: pique cotton, silk, or wool. The collar on these shirts are thicker in order to protect the player from the sun. This tennis attire comes in a variety of colors.",n
+452,77,div,,n
+454,452,h2,Towels,y
+456,452,p,"A tennis towel is used by a player to wash the sweat off their face and off their hands during the course of a game. A tennis towel is similar to a hand towel used in any other sport, like basketball, hockey, or soccer . A towel absorbs the sweat and can be bought in any store that sells sporting equipment or clothing.",n
+459,77,div,,n
+461,459,h2,Vibration Dampeners,y
+463,459,p,"The purpose of a vibration dampener is to decrease the amount of vibration that happens when the tennis ball hits your racket. As a result, the vibration dampener lowers or eliminates the ping sound that you hear when the ball makes contact with your racket. This makes the game a lot more fun for the player and eliminates the annoying element of hearing and feeling the vibrations of the strings after the racket and ball make contact.",n
+464,77,div,,n
+466,464,h2,Visors,y
+468,464,p,A tennis visor is commonly referred to as a tennis hat. A tennis visor is lighter than most types of hats and is made with the top of the hat left open. The main job of a tennis visor is to protect a player's face from the sun during gameplay. A tennis visor is typically around $30 to $40. Lots of individuals wear a visor for style as well.,n
+469,77,div,,n
+471,469,h2,Water Bottles,y
+473,469,p,"Tennis water bottles are like any typical water bottle for a soccer, ice hockey , or football player. A player brings a water bottle to their bench and to their respective side of the court, and a player squirts water from the straw or opening into their mouths from a few inches away. A Gatorade bottle is a perfect example.",n
+478,77,div,,n
+480,478,h2,FAQ,n
+482,478,div,,n
+485,482,h3,What equipment is used in Tennis?,n
+489,482,p,"For tennis you'll need a shirt, balls, sunscreen, racket, snacks, sunglasses, and tennis shoes. Each piece of equipment has a unique role, whether it be the racket or whether it be snacks that help refuel the body after an intense training session or match.",n
+493,77,div,,n
+495,493,h2,Pages Related to Tennis Equipment List,n
+496,493,ul,,n
+498,496,li,Tennis Nets,y
+502,496,li,Tennis Ball Hoppers,y
+504,496,li,Tennis Headbands,y
+506,496,li,Tennis Ball Holders and Clips,y
+512,77,footer,,n
+513,512,div,,n
+514,513,div,,n
+516,514,span,Company,n
+517,514,ul,,n
+519,517,li,About,n
+521,517,li,Careers,n
+523,517,li,Shop,n
+524,513,div,,n
+526,524,span,Contact,n
+529,524,li,Contact Us,n
+532,513,div,,n
+534,532,span,Legal,n
+535,532,ul,,n
+537,535,li,Terms,n
+539,535,li,Privacy,n
+540,513,nav,,n
+542,540,span,Social,n
+543,540,ul,,n
+545,543,li,Facebook,n
+547,543,li,Instagram,n
+549,543,li,LinkedIn,n
+551,543,li,Medium,n
+553,543,li,Pinterest,n
+555,543,li,Twitter,n
+557,543,li,YouTube,n
+558,512,div,,n
+560,558,span,Rookie Road may earn a commission when you buy through links on our site.,n
+562,558,span,Copyright ©Rookie Road Inc. All rights reserved.,n

@@ -1,0 +1,116 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+97,0,div,,n
+108,97,h1,Supply Lists,n
+109,97,div,,n
+112,109,span,School Supplies,n
+115,109,br,Click your child's grade level below to see what school supplies your child will need. Please note that our PTA typically offers a service to families each spring to facilitate school supply shopping for the next year. See the PTA section of the website for details each spring.,n
+119,109,span,School Year,n
+122,109,ul,,n
+124,122,li,Kindergarten,n
+126,122,li,Grade 1,n
+128,122,li,Grade 2,n
+130,122,li,Grade 3,n
+132,122,li,Grade 4,n
+134,0,div,,n
+136,134,div,Country Parkway EL Dodge EL Forest EL Heim EL Maple East EL Maple West EL Casey Middle Heim Middle Mill Middle Transit Middle East High North High South High,n
+150,134,ul,,n
+151,150,li,,n
+152,151,text,About Dodge Elementary,n
+153,151,ul,,n
+155,153,li,Principal's Page,n
+157,153,li,Dodge Newsletter,n
+159,153,li,Title 1 Program,n
+161,153,li,Dodge School Song,n
+163,153,li,Faculty List,n
+165,153,li,PBIS,n
+169,153,li,Multimedia,n
+170,150,li,,n
+171,170,text,School Offices,n
+172,170,ul,,n
+174,172,li,Child Nutrition,n
+175,172,li,,n
+176,175,text,Health Office,n
+177,175,ul,,n
+179,177,li,Concussion Management,n
+181,177,li,Food Allergies,n
+183,177,li,Forms,n
+187,177,li,Immunization Requirements,n
+189,177,li,Medication Guidelines,n
+191,177,li,Physical Exams and Screenings,n
+193,177,li,Prevent Head Lice!,n
+195,172,li,Library,n
+197,172,li,Main Office,n
+223,150,li,,n
+224,223,text,Transportation,n
+225,223,ul,,n
+227,225,li,Lost and Found,n
+229,225,li,MyStop,n
+231,225,li,Policies and Procedures,n
+233,225,li,Safety,n
+234,150,li,,n
+235,234,text,Resources,n
+236,234,ul,,n
+238,236,li,Common Core Resources,n
+240,236,li,Dignity,n
+242,236,li,District Staff List,n
+244,236,li,Internet Safety,n
+246,236,li,Music Boosters,n
+248,236,li,Pre-Kindergarten,n
+250,236,li,Response to Intervention,n
+254,236,li,Virtual Backpack,n
+255,236,li,,n
+256,255,text,Youth Wellness,n
+259,255,li,Drug-Free Action Alliance,n
+260,150,li,,n
+261,260,text,I Want To...,n
+262,260,ul,,n
+263,262,li,,n
+264,263,text,Apply for,n
+265,263,ul,,n
+267,265,li,Building-Use Permit,n
+269,265,li,Daycare Transportation,n
+271,265,li,Free and Reduced Lunch Program,n
+273,265,li,Universal Pre-Kindergarten,n
+275,265,li,Virtual Backpack Submission,n
+276,262,li,,n
+277,276,text,Find,n
+280,276,li,Emergency Closing Procedures,n
+285,262,li,,n
+286,285,text,Get a copy of,n
+287,285,ul,,n
+291,287,li,Information Form,n
+295,287,li,School Supply Lists,n
+297,287,li,State Report Cards,n
+298,262,li,,n
+299,298,text,Register For,n
+300,298,ul,,n
+302,300,li,School,n
+304,300,li,Emergency Alerts,n
+306,300,li,MySchoolBucks,n
+308,300,li,MyStop Bus Info,n
+310,300,li,WITS Parent Portal,n
+311,262,li,,n
+312,311,text,Contact,n
+313,311,ul,,n
+315,313,li,Education,n
+317,313,li,Bus Transportation,n
+319,313,li,Community Education,n
+321,313,li,District Office,n
+323,313,li,Dodge PTA,n
+325,313,li,School Principal,n
+327,313,li,SEPTSA,n
+329,313,li,Superintendent,n
+331,150,li,Reopening Information,n
+333,150,li,COVID-19 Education,n
+334,134,div,,n
+336,334,p,"© 2016 Williamsville Central School District 105 Casey Rd. East Amherst, New York 14051-5000 District Office Reception: 716-626-8000 District Office Fax Number: 716-626-8089",n
+341,334,p,,n
+342,341,text,"External links to other web sites are provided for the user’s convenience. The Williamsville Central School District does not exercise any editorial control over the information you may find at these locations and is not responsible for any facts or opinions contained on these web sites, or the accessibility of the material posted.",n
+345,341,br,Accessibility,n
+346,334,span,,n
+348,346,span,Powered By Revize,n
+350,346,text,Login,n
+352,0,div,,n
+358,352,h1,Original text,n
+364,352,div,Contribute a better translation,n

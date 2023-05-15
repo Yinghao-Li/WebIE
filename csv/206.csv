@@ -1,0 +1,227 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+3,2,div,,n
+4,3,div,,n
+5,4,div,,n
+8,5,span,0,n
+10,5,span,shares,n
+11,4,ul,,n
+16,11,li,Share,n
+21,11,li,Tweet,n
+27,11,li,Pin,n
+28,3,p,,n
+29,28,text,"Getting started in golf can be intimidating. From the tricky rules and swing techniques to the unique etiquette and golf terminology , it’s",n
+39,28,strong,those new to the game can feel a little lost.,n
+42,3,p,. . . And that’s without even mentioning all the golf equipment out there.,n
+43,3,p,,n
+45,43,strong,There are few sports that require as much gear as golf,n
+47,43,strong,does.,n
+48,43,text,From clothing to carts to clubs and more – it’s enough to leave even the most seasoned golfers a little disorientated.,n
+49,3,p,,n
+50,49,text,"golf equipment is pretty essential to play and enjoy the game,",n
+52,49,strong,other items are more optional,n
+53,49,text,and only worth investing in,n
+55,3,p,And that’s what we’re here to help with.,n
+58,3,p,"In the following article, we’ll be breaking the golf equipment down into three categories: must-haves, nice-to-haves, and optional .",n
+60,3,h2,8 Absolutely Essential Golf Equipment Items,n
+61,3,p,,n
+62,61,text,We are going to start with our “must-have” category.,n
+64,61,strong,golf.,n
+66,3,p,,n
+67,66,text,"Use this list to build out your golf equipment inventory. But remember,",n
+69,66,strong,there is no reason to break the bank as a beginner.,n
+70,3,p,,n
+71,70,text,Looking to start golf on a super,n
+73,70,strong,limited budget,n
+74,70,text,"? Beg, borrow and steal. Ok, don’t steal – but",n
+78,70,text,do,n
+80,70,strong,talk to your golfing family or friends,n
+81,70,text,to see if they have any equipment they can lend you.,n
+82,3,p,,n
+83,82,text,"Alternatively,",n
+85,82,strong,used golf equipment is a great way,n
+86,82,text,to acquire high-quality products,n
+90,3,h3,Golf Balls,y
+91,3,p,,n
+92,91,text,"You don’t need to rush out and buy the most expensive golf balls on the market . At the beginning of your golf journey, you need more quantity over quality –",n
+98,91,strong,you’ll lose a few golf balls as you are learning the game!,n
+102,3,h3,Golf Tees,y
+103,3,p,,n
+104,103,text,golf equipment.,n
+107,103,strong,Some golf courses give them away,n
+108,103,text,. Always keep plenty in your golf bag.,n
+112,3,h3,Golf Clubs,y
+113,3,p,,n
+114,113,text,This will be a true investment in the game. Start simple.,n
+116,113,strong,used clubs or borrow a “starter set” from friends or family.,n
+117,113,text,Learn the game and develop your swing before purchasing a new set.,n
+122,3,div,Check Golf Clubs Here >>>,n
+126,3,h3,Golf Bag,y
+127,3,p,,n
+128,127,text,"Yes,",n
+130,127,strong,your golf equipment,n
+131,127,text,. We recommend a carry bag that allows you to easily walk when you play.,n
+135,3,h3,Golf Towel,y
+136,3,p,,n
+137,136,text,"Your golf ball and golf clubs will constantly have dirt, sand, and moisture on them. Attach a golf towel to your golf bag and",n
+139,136,strong,keep your golf equipment clean.,n
+143,3,h3,Ball Marker,y
+144,3,p,,n
+145,144,text,"It may take you a few strokes, but you will eventually reach the green. Once there, you need to",n
+147,144,strong,mark your ball,n
+148,144,text,while others putt so you know who’s is who’s.,n
+151,3,p,,n
+154,151,strong,Tip,n
+155,151,text,You can also use a coin if you don’t have a ball marker.,n
+157,3,h3,#7,n
+158,3,p,,n
+159,158,text,"When your ball lands on the green, it will create a hole . It is golf etiquette to fix this mark to",n
+165,158,strong,keep the greens in good shape,n
+166,158,text,for the golfers behind you.,n
+167,3,p,,n
+168,167,text,golf equipment,n
+170,167,strong,that some courses give away,n
+174,3,p,Golf Divots,y
+176,3,h3,#8,n
+177,3,p,,n
+178,177,text,The sun’s harmful rays can be the most dangerous hazard to golfers on the course.,n
+180,177,strong,Always protect yourself,n
+183,3,h2,‘Nice To Have’ Items You’ll Eventually Need,n
+184,3,p,,n
+185,184,text,"You can play the game without these “nice to have” items, but",n
+187,184,strong,as you fall in love with golf they are going to quickly make your shopping list.,n
+189,3,p,Buy or acquire these items over time. You don’t have to rush out and buy them today.,n
+193,3,h3,Golf Shoes,y
+194,3,p,,n
+195,194,text,"You can play golf in tennis or running shoes, but most golfers end up buying a pair of shoes designed for golf.",n
+196,194,strong,,n
+197,196,text,The biggest advantage is that golf shoes are,n
+199,196,mark,waterproof,n
+204,3,h3,Golf Glove,y
+205,3,p,,n
+206,205,text,Golf gloves do wonders to,n
+208,205,strong,improve your grip,n
+210,205,text,". Playing with bare hands can lead to the club turning during your swing, as they become clammy or slippery. There’s a reason most PGA and LPGA professionals use a glove when they play.",n
+217,3,div,Buy Golf Gloves Here >>>,n
+221,3,h3,Club Brush,y
+222,3,p,,n
+223,222,text,"You invested money in your clubs, keep them clean, and performing well with a club brush .",n
+226,222,strong,,n
+227,226,text,A quick wipe-down between shots will,n
+229,226,mark,help you hold the green on approach shots.,n
+233,3,h3,Golf Hat,y
+235,3,p,Protect your face from the sun and look the part. Several styles are available .,n
+239,3,h3,Golf Umbrella,y
+240,3,p,,n
+241,240,text,Golf umbrellas are designed to handle the wind and protect you from the surprise shower on your back 9. Lightweight and easy to carry.,n
+243,240,strong,Don’t let a little rain ruin your day.,n
+247,3,h3,Pushcart,y
+248,3,p,,n
+249,248,text,Walking when you play golf is a great way to get exercise but can be tough on the back. A pushcart is a perfect way to,n
+251,248,strong,comfortably stroll the fairways.,n
+254,3,div,Buy Pushcarts Here >>>,n
+258,3,h3,Golf Handicap,y
+260,3,p,"golf equipment, but something you will want to establish.",n
+261,3,p,,n
+262,261,text,all skill levels and,n
+266,261,strong,provide you with a metric to measure improvement .,n
+272,3,h3,Golf Lessons,n
+273,3,p,,n
+274,273,text,"You can teach yourself the game, but at some point, it may make sense to get a professional opinion.",n
+276,273,strong,Find a certified instructor and schedule a lesson.,n
+277,3,p,,n
+279,277,strong,"golf equipment, but why deprive yourself?",n
+280,277,text,Be smart about your budget and select items that improve your experience on the course.,n
+282,3,h2,"Golf Equipment Items You Don’t Need, But . . .",n
+283,3,p,,n
+285,283,strong,Now the fun stuff!,n
+286,283,text,As you improve and play more you are going to want the golf equipment highlighted below.,n
+288,3,p,"If you know a scratch golfer , they most likely have all of these products. While they are optional, they will help you play more and better golf.",n
+291,3,p,,n
+292,291,text,You will notice that several items on this list are related to playing golf in poor weather.,n
+294,291,strong,It doesn’t need to be a perfect day,n
+298,3,h3,Rangefinder,y
+299,3,p,,n
+300,299,text,"Instead of calculating your yardage simply point and shoot your target. With a golf rangefinder, you will quickly know how far you need to hit the ball.",n
+303,299,strong,The next best thing to a personal caddie .,n
+308,3,div,Buy Rangefinders Here >>>,n
+311,3,p,Related Article,n
+315,3,h3,#2,n
+317,3,p,Never let rain impact your score again. Rain gloves are designed to get tackier the wetter they get. Your golf club will never slip again due to moisture.,n
+323,3,h3,Winter Gloves,y
+324,3,p,,n
+325,324,text,Don’t leave your clubs in the garage collecting dust due to cold weather. Winter golf gloves are designed to be worn while you swing and will,n
+329,324,strong,keep your hands nice and warm.,n
+333,3,h3,Golf Rain Suit,y
+334,3,p,,n
+336,334,strong,the conditions,n
+337,334,text,in a golf rain suit. Get the pants and the jacket,n
+341,3,h3,Golf Fashion,y
+343,3,p,"Even if you don’t play like a pro, you can look like one. Dress like your favorite player or represent your favorite golf brand.",n
+344,3,p,,n
+345,344,text,Sometimes,n
+347,344,strong,looking the part can help you feel the part –,n
+348,344,text,increasing your confidence and performance.,n
+352,3,h3,Golf Club Membership,y
+353,3,p,,n
+354,353,text,"Not golf equipment, but something you should consider. Being a member of a club makes it easier to get tee times and",n
+356,353,strong,golfers that share your passion,n
+360,3,h3,Golf Cart Heater,y
+361,3,p,,n
+362,361,text,Do you,n
+364,361,strong,the temperature,n
+365,361,text,? A golf cart heater will make you more comfortable on cold days.,n
+368,3,p,,n
+369,368,text,"They are portable, easy to use, and help you maximize the use of your other equipment and club memberships as",n
+371,368,strong,the weather.,n
+375,3,h3,Practice Putting Green,y
+376,3,p,,n
+377,376,text,These little machines allow you to,n
+379,376,strong,your own home,n
+380,376,text,or office. You could even hit a few putts between conference calls!,n
+383,3,div,Buy Putting Greens Here >>>,n
+387,3,p,7 Putting Tips To Help You Save Strokes On The Green,n
+389,3,h2,Select Golf Equipment Based on How You Play The Game,n
+393,3,p,The best golf equipment will vary by player. The key is to pick products that will improve your on-course experience.,n
+395,3,p,"For example, if you hate playing in cold weather just skip those days. You don’t need to spend money on winter gloves or golf cart heaters.",n
+396,3,p,,n
+397,396,text,"On the other hand,",n
+399,396,strong,"if you have planned a golf trip to Scotland , you need to be prepared.",n
+402,396,text,Don’t show up without a rain suit and a golf umbrella.,n
+403,3,p,,n
+405,403,strong,Don’t be in a rush to build out your golf equipment inventory,n
+406,403,text,. Golf is a game that you can enjoy playing for decades. You can take just as long to buy all of your golf equipment.,n
+407,3,p,,n
+408,407,text,Start with the basics and learn your preferences.,n
+410,407,strong,Pay attention to the golf equipment used by other players.,n
+412,3,p,Which products look helpful versus which ones seem like a waste of money? Be selective and use the money you save for green fees or other passions in your life.,n
+414,3,h2,"So You’ve Got The Equipment, But Do You Know How To Use It?",n
+415,3,p,,n
+416,415,text,You know what golf equipment you need to enjoy the game. The next question –,n
+418,415,strong,do you know how to use it?,n
+420,3,p,How else can we improve your golf experience? Do you fight a snap hook or struggle with a wicked slice ?,n
+426,3,p,Check out these tips,n
+436,3,div,,n
+439,436,h4,Ray Dingledine,n
+441,436,div,Ray has played golf for over 30 years and competed at the collegiate level. He enjoys growing the game of golf through coaching PGA Jr. and High School golf teams. Ray continues to play in local amateur golf events and currently has a +1 handicap.,n
+442,2,footer,,n
+443,442,span,,n
+446,443,span,Categories,n
+447,443,text,"Beginners Advice , General Golf Tips , Golf Gear Reviews , Golf Practice",n
+454,442,nav,,n
+456,454,span,Post navigation,n
+460,454,div,7 Tricks To Improve Your Golf Course Management,n
+464,454,div,8 Putting Tips To Help You Save Strokes On The Green,n
+466,0,div,,n
+467,466,div,,n
+468,467,h3,,n
+469,468,text,Leave a Comment,n
+471,468,small,Cancel reply,n
+472,467,form,,n
+475,472,p,Comment,n
+478,472,label,Name,n
+481,472,label,Email,n
+484,472,label,Website,n
+494,472,p,Δ,n
+498,466,p,This site uses Akismet to reduce spam. Learn how your comment data is processed .,n

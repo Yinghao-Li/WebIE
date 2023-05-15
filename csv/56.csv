@@ -1,0 +1,145 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,article,,n
+3,1,h1,Gymnastics Vocabulary,n
+5,1,div,This page covers the vocabulary and language of gymnastics by explaining its history and the events you can see at the Olympic Games.,n
+8,1,p,,n
+9,8,text,"Gymnastics is a sport that tests strength,",n
+11,8,strong,balance,n
+12,8,text,and the ability to bend your body and perform,n
+14,8,strong,acrobatic,n
+15,8,text,"movements. Like athletics and wrestling, it originated in ancient Greece as part of military training. By the 19th century physical education for boys in Europe included gymnastics, and several gymnastics events for men were included in the first modern Olympic Games in 1896. Old-fashioned attitudes kept women and girls out of gymnastics until the 1920s, and the Olympic Games didn’t include events for women until 1928.",n
+16,1,p,,n
+17,16,text,"Gymnastics is now part of physical education for boys and girls in nearly every country, and gymnastics has become one of the most popular sports at the Olympic Games. The Games feature three competitions; rhythmic gymnastics for women only and artistic gymnastics and",n
+19,16,strong,trampolining,n
+20,16,text,for both men and women.,n
+22,1,h2,Rhythmic Gymnastics,n
+25,1,p,South Korea's Son Yeon Jae performing with the hoop at the 2012 London Olympics. Photo: Korean Olympic Committee,n
+29,1,p,"Rhythmic gymnastics combines elements of ballet, artistic gymnastics and rhythmic dance performed on a large mat. There are five events and each is performed with a different",n
+33,1,ul,,n
+35,33,li,rope,y
+37,33,li,hoop,y
+39,33,li,ball,y
+41,33,li,clubs,y
+43,33,li,ribbon,y
+45,1,p,"Competitors are judged for leaps, balances, pirouettes , apparatus handling and execution. Even though rhythmic gymnastics is becoming more popular among men and boys, the Olympic Games only includes events for women.",n
+46,1,div,,n
+48,46,strong,FREE Podcasts,n
+50,46,text,"these listening exercises have transcripts, vocabulary notes and comprehension questions .",n
+54,1,h2,Artistic Gymnastics,n
+57,1,p,Top,n
+61,1,p,Artistic gymnastics includes six events,n
+62,1,ul,,n
+66,62,li,pommel horse,y
+68,62,li,rings,y
+72,62,li,parallel bars,y
+74,62,li,horizontal bar,y
+75,1,p,,n
+76,75,text,Floor exercise events are held on a 12m x 12m square mat on which competitors perform,n
+78,75,strong,handstands,n
+79,75,text,and complex,n
+81,75,strong,tumbling lines,n
+82,75,text,"with handsprings,",n
+84,75,strong,somersaults,n
+85,75,text,", and mid-air",n
+87,75,strong,twists,n
+88,75,text,". In the pommel horse event, gymnasts mount a",n
+90,75,strong,pommel horse,n
+91,75,text,"and perform handstands and support their weight on their arms while swinging their legs. In the rings event, gymnasts are lifted up so they can reach two rings suspended from a wire, and then perform swings, handstands and other difficult positions before doing a spectacular",n
+93,75,strong,dismount,n
+94,75,text,". In the event called vault, competitors hurdle onto a",n
+96,75,strong,springboard,n
+97,75,text,and,n
+99,75,strong,vault,n
+100,75,text,over the vaulting horse and perform mid-air twists or somersaults before,n
+102,75,strong,landing,n
+103,75,text,". In parallel bars and horizontal bar, gymnasts perform a series of acrobatic swings and turns before performing a spectacular dismount. Like all events that include a dismount, a solid landing without losing one's balance is very important.",n
+105,1,p,The four artistic gymnastics events,n
+106,1,ul,,n
+112,106,li,uneven bars,y
+114,106,li,balance beam,y
+115,1,p,,n
+116,115,text,"Floor exercise and vault are similar to the men's events of the same name, and uneven bars is similar to the men's parallel bars. The",n
+119,115,text,"used in the balance beam is a narrow padded beam on which competitors perform leaps, somersaults, turns and dance steps before finishing with a dismount.",n
+121,1,h2,Trampolining,n
+122,1,p,,n
+123,122,text,The Olympic Games also includes trampolining events for men and women. Competitors begin with a build-up during which they jump higher and higher on the,n
+125,122,strong,trampoline,n
+126,122,text,very high,n
+128,122,strong,bounces,n
+129,122,text,during which they perform spectacular mid-air somersaults and twists.,n
+131,1,h2,Gymnastics Vocabulary List,n
+132,1,table,,n
+134,132,thead,,n
+136,134,th,word,n
+138,134,th,example sentence,n
+140,134,th,meaning,n
+141,132,tbody,,n
+142,141,tr,,n
+144,142,td,acrobatic,n
+146,142,td,Gymnasts have to learn acrobatic skills like somersaulting.,n
+148,142,td,"involving highly-skilled balancing, jumping, somersaulting, etc",n
+149,141,tr,,n
+151,149,td,apparatus,n
+153,149,td,"Before a competition begins, all the apparatus has to be set up and tested.",n
+155,149,td,"equipment, such as horizontal bars, trampolines or the balls and ribbons used in rhythmic gymnastics",n
+156,141,tr,,n
+158,156,td,balance,n
+160,156,td,How do you keep your balance when you're standing on that narrow beam?,n
+162,156,td,the ability to keep your body steady and upright,n
+163,141,tr,,n
+165,163,td,bounce,n
+167,163,td,"When his bounces are high enough, he can begin his routine.",n
+169,163,td,a trampolinist's body from the trampoline into the air,n
+170,141,tr,,n
+172,170,td,dismount,n
+174,170,td,"If she does a perfect dismount, she should win!",n
+176,170,td,jumping off an apparatus like the uneven bars at the end of a routine,n
+177,141,tr,,n
+179,177,td,gymnastics,n
+181,177,td,"If you want to get fit and strong, you could do gymnastics.",n
+183,177,td,exercise routines that develop strength and the ability to bend and balance,n
+184,141,tr,,n
+186,184,td,handstand,n
+188,184,td,Can you do a handstand without falling over?,n
+190,184,td,a position with your hands on the ground while your body and legs are upright in the air,n
+191,141,tr,,n
+193,191,td,landing,n
+195,191,td,"His work on the rings was good, but his landing wasn't great.",n
+197,191,td,a dismount when your feet hit the ground,n
+198,141,tr,,n
+200,198,td,pommel horse,n
+202,198,td,"He fell off the pommel horse, so his score was low.",n
+204,198,td,an apparatus that has a thick beam with two handles on top that are used while performing,n
+205,141,tr,,n
+207,205,td,somersault,n
+209,205,td,I love doing somersaults on the trampoline.,n
+211,205,td,a movement in which the body forms a ball and rolls forwards or backwards,n
+212,141,tr,,n
+214,212,td,springboard,n
+216,212,td,the springboard.,n
+218,212,td,a strong board used in gymnastics and diving that helps you jump higher than usual,n
+219,141,tr,,n
+221,219,td,trampoline,n
+223,219,td,Our kids love playing on the trampoline.,n
+225,219,td,a frame with material stretched across that you can bounce on,n
+226,141,tr,,n
+228,226,td,trampolining,n
+230,226,td,I can't believe how high they bounce in the trampolining events.,n
+232,226,td,a sport in which acrobatic movements are performed while bouncing on a trampoline,n
+233,141,tr,,n
+235,233,td,tumbling line,n
+237,233,td,handstands.,n
+239,233,td,a floor exercise in which you run across the mat and do handsprings or leaps with somersaults and twists,n
+240,141,tr,,n
+242,240,td,twist,n
+244,240,td,How many twists did she do in her dismount?,n
+246,240,td,"the body, or the whole body, turns round",n
+247,141,tr,,n
+249,247,td,vault,n
+251,247,td,"I have no trouble vaulting, but I'm not very good on the rings yet.",n
+253,247,td,to perform an acrobatic jump over a vaulting horse or a vaulting platform,n
+255,1,div,Contributor,n
+267,0,nav,Gymnastics Vocabulary Quiz,n
+269,0,nav,Gymnastics Comprehension Quiz,n
+271,0,nav,EnglishClub,n

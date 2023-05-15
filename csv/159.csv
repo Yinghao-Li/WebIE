@@ -1,0 +1,229 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+4,2,p,"One of the great things about soccer is that it can be played by almost anyone in any place. Whether it’s just to go out and start kicking a ball around with your friends or to take part in a competitive game, there really are only a few pieces of equipment that you really need.",n
+6,2,p,Let’s have a look at what the items needed are.,n
+9,2,p,equipment you need to play soccer are,n
+18,2,div,,n
+34,18,div,Your Soccer Home,n
+50,18,div,,n
+52,50,span,30 seconds,n
+54,50,span,Volume 0%,n
+55,18,div,,n
+58,55,span,keyboard shortcuts,n
+59,55,div,,n
+60,59,div,,n
+62,60,span,Keyboard Shortcuts,n
+63,60,button,,n
+66,63,span,Enabled,n
+68,63,span,Disabled,n
+70,59,div,,n
+71,70,div,,n
+73,71,span,Play or Pause,n
+75,71,span,SPACE,n
+76,70,div,,n
+78,76,span,Increase Volume,n
+80,76,span,↑,n
+81,70,div,,n
+83,81,span,Decrease Volume,n
+85,81,span,↓,n
+86,70,div,,n
+88,86,span,Seek Forward,n
+90,86,span,→,n
+91,70,div,,n
+93,91,span,Seek Backward,n
+95,91,span,←,n
+96,70,div,,n
+98,96,span,Captions On or Off,n
+100,96,span,c,n
+101,70,div,,n
+103,101,span,Fullscreen or Exit Fullscreen,n
+105,101,span,f,n
+106,70,div,,n
+108,106,span,Mute or Unmute,n
+110,106,span,m,n
+113,70,div,Seek %,n
+116,18,div,,n
+144,116,div,,n
+146,144,button,Auto,n
+149,144,button,1080p,n
+151,144,button,720p,n
+153,144,button,540p,n
+155,144,button,360p,n
+157,144,button,270p,n
+159,144,button,180p,n
+173,116,div,,n
+203,173,div,Live,n
+205,173,div,00:00,n
+224,2,ol,,n
+227,224,li,A Soccer Jersey,y
+230,224,li,Shorts,y
+233,224,li,Long Socks,y
+236,224,li,Shin Guards,y
+239,224,li,Footwear,y
+242,224,li,A Soccer ball,y
+247,2,p,The first 5 items on this list are required by Law 4 in the FIFA Rules of the Game. .,n
+250,2,p,,n
+251,250,text,Item number 6 on our list-,n
+253,250,strong,the soccer ball,y
+254,250,text,– I put it there because no one can play soccer without a ball!,n
+257,2,p,"If you can get hold of, or already have these 6 items then you will be good to go.",n
+259,2,p,"However, there are also some other optional items that you may want to consider getting as well, which we will talk about at the end of this post.",n
+261,2,p,"But first, let’s go through this list in a bit more detail, so you know more specifically what’s needed.",n
+262,2,p,,n
+263,262,text,If you are interested in knowing not only what equipment is,n
+265,262,strong,needed,n
+266,262,text,in a game but,n
+268,262,strong,equipment that are used,n
+269,262,text,in every soccer game then this article I wrote all about it will give you the answers you’re looking for.,n
+276,2,h2,A Soccer Jersey,y
+277,2,p,,n
+278,277,text,the main identifiers of which team the player is playing for.,n
+280,277,strong,"Every player on a team, except the goalkeeper, wears the same jersey.",n
+282,2,p,"When you are going to play an official game of soccer, it is often the case that a jersey, shorts, and socks will be provided for you to ensure every player is wearing the same thing.",n
+284,2,p,"But on those occasions where you are just going to play an informal game with friends, it may be worth checking with them beforehand what color your team will all be wearing. That way you will be prepared to play as a team.",n
+292,2,p,"If you are the one deciding on the choice of jersey for a team there is one specific thing that you do need to know. According to the FIFA Rules of the Game, the jersey must have sleeves. The sleeves can be short or long but they must be there.",n
+293,2,p,,n
+294,293,text,A soccer jersey will often have,n
+296,293,strong,a number on the back,n
+297,293,text,of it to identify the specific player who is wearing it.,n
+298,2,p,,n
+300,298,strong,I recently put together,n
+302,298,strong,a complete guide to buying a soccer jersey,n
+303,298,text,"as it’s too easy to buy one that’s the wrong size or one you’re not sure about. If you’re thinking of getting one, then I recommend you check out the guide first. You can find it by clicking this link .",n
+306,2,p,,n
+307,306,text,And if you’re looking to buy a soccer jersey the online soccer retailer,n
+309,306,strong,soccer.com,n
+310,306,text,has a great range of jerseys to choose from. Click here to go to their website and see if they have the jersey you’re looking for.,n
+320,2,h2,Shorts,y
+322,2,p,Each outfield player in a soccer team has to wear shorts.,n
+324,2,p,And as with the jersey’s all the outfield players on a team must be wearing matching shorts.,n
+326,2,p,"The reason for all wearing the same uniform in soccer is to help both the referee and any spectators identify who is on which team, but it is also extremely helpful as a player to know everyone on your team is wearing the same uniform.",n
+328,2,p,In the fast pace of the game you sometimes only have a split second to make a decision on who you will pass the ball to.,n
+333,2,p,"You will find that, no matter how well you know the other players on your team, you will notice a flash of color ahead of you a lot quicker than trying to identify another player’s face while they are also moving around at speed.",n
+335,2,p,A goalkeeper is the only player on the team who is allowed to wear long pants if he or she wants to. You will sometimes see this in the colder months of the year.,n
+339,2,p,While we’re talking about shorts you may also be interested in discovering if soccer players wear a cup . Check out my article for more info.,n
+343,2,h2,Long Socks,y
+344,2,p,,n
+345,344,text,You will also have noticed if you have spent any time at all watching soccer that,n
+347,344,strong,all the players wear long socks,n
+352,2,p,,n
+353,352,text,"Some players pull their socks up to just below the knee while others completely cover their knees with their socks. If you want more information about this, have a look at my article –",n
+355,352,strong,How to wear soccer socks,n
+358,2,p,"Again, as we’ve talked about above, all the outfield players on a team must wear matching socks.",n
+360,2,p,The reason players wear long socks rather than just ankle length or any other length is mainly to do with the fact that the shin guards must be covered by the socks.,n
+362,2,p,Sometimes you may find it necessary to use tape or some other material to keep your socks up. It is perfectly fine to do this. Just make sure that whatever you are using is the same color as the part of the sock you are covering.,n
+367,2,h2,Shin Guards,y
+369,2,p,Shin guards have been worn in soccer since the year 1874 and are designed to protect the front lower part of the leg below the knee.,n
+372,2,p,,n
+373,372,text,Every soccer player,n
+375,372,strong,must wear shin guards,n
+378,2,p,I can tell you from experience that when someone kicks or knocks your shin and it doesn’t have any protection it can be extremely painful! There’s very little protecting the bone there.,n
+380,2,p,There are a couple of different types of shin guards you can get. Depending on how and what position in the team you will play can affect your choice of shin guard.,n
+383,2,p,,n
+384,383,text,"For example,",n
+386,383,strong,a defender,n
+387,383,text,who is expected,n
+389,383,strong,to make tackles,n
+390,383,text,"and come into contact with other players often may need stronger, more protective shin guards than a striker who does not normally make so many tackles.",n
+392,2,p,"Because of this, a defender may choose bigger shin guards that also have ankle support and protection, whereas another player may prefer smaller, lighter shin guards that offer a greater range of movement.",n
+394,2,p,One important thing to be aware of is that the shin guards must be covered by socks at all times.,n
+395,2,p,,n
+396,395,text,Have a look at my guide on,n
+398,395,strong,how to wear shin guards,n
+399,395,text,if you have any questions about this.,n
+400,2,p,,n
+401,400,text,"Find out more about why shin guards are used in soccer, in",n
+403,400,strong,this article,n
+404,400,text,I recently wrote.,n
+408,2,h2,Footwear,y
+410,2,p,Most soccer games are played on grass. Because of this most soccer players will wear cleats to play soccer.,n
+411,2,p,,n
+413,411,strong,Cleats on soccer shoes,n
+414,411,text,can come in all sorts of designs and styles. Some are permanently attached or molded onto the shoe and some are detachable. You do have to be careful with the detachable ones though as there have been many times at the end of a game where I have look at my shoes and realized some of my cleats are missing!,n
+416,2,p,The reason,n
+418,2,p,,n
+419,418,text,"This is useful for any game, but particularly beneficial when playing in bad weather. Especially in the rain when the grass can quickly become wet and slippery.",n
+421,418,strong,Having good cleats,n
+422,418,text,at this time is hugely important.,n
+424,2,p,"There is no requirement to wear cleats even at an official level, but you will very rarely see a soccer player not wearing cleats. This would be considered a significant disadvantage.",n
+426,2,p,"If you are planning on playing indoor soccer you will not need cleats. In fact, it would probably be a fairly big disadvantage.",n
+428,2,p,"For indoor soccer, you are looking for footwear that is flat but also offers a good grip to make those quick turns and movements.",n
+432,2,p,,n
+433,432,text,My recommendation,n
+435,432,strong,Adidas Nemeziz 19.2,n
+436,432,text,cleats. They are lightweight and created for agility and fast movement while also being strong enough to comfortably protect your feet.,n
+438,2,p,Click here to check them out on soccer.com or click here to check out their price on Amazon.,n
+442,2,p,,n
+443,442,text,"If you’re interested in discovering more about soccer cleats, click on this link to go to my article",n
+447,442,strong,What are Soccer Cleats?,n
+448,442,text,which will tell you all you need to know about them.,n
+451,2,h2,Soccer ball,y
+453,2,p,How disappointing would it be to go and play a game of soccer and realize you don’t have a ball! Every game of soccer whether played in your backyard or in the largest stadium in the country needs a ball.,n
+455,2,p,Now when it comes to soccer balls there are literally thousands of different types of balls out there that you could use. If you are playing in an official game there are specific quality and measurement criteria that the ball has to meet. .,n
+459,2,p,If you are just playing a more casual game or a game with children there are some things you may want to consider.,n
+461,2,p,,n
+462,461,text,"One is the size of the ball. A size 5 soccer ball is considered best for adults and anyone over the age of 12. For those aged around 8 to 12, it is probably best to use a size 4 soccer ball. And for those under age 8,",n
+464,461,strong,a size 3 ball would be best,n
+467,2,p,"Another thing to consider is what surface you will be playing on. Do you need a ball designed for grass, for playing indoors, or even for beach soccer? Take time to take all these things into account before choosing your soccer ball.",n
+470,2,p,,n
+471,470,text,My favorite soccer ball is the,n
+473,470,strong,Adidas MLS Pro Official Match Soccer Ball,n
+476,2,p,It’s at the higher price range,n
+482,2,p,If you’re looking for something a bit cheaper but still great to use check out this one on soccer.com.,n
+486,2,h2,Soccer Equipment,y
+489,2,h3,Goalkeeper gloves,y
+491,2,p,If you are planning to play the position of goalkeeper on your team then I would highly recommend you get yourself some goalkeeper gloves.,n
+493,2,p,There is no requirement in the rules that a goalkeeper has to wear gloves but since 1948 when the Argentinian goalkeeper Amadeo Carrizo started wearing gloves almost every goalkeeper does.,n
+495,2,p,Wearing a pair of gloves while in goal not only protects your hands from the sting of a ball being kicked at up to 60mph directly at you but also gives much more grip than you would have with nothing on your hands.,n
+497,2,p,This is clearly an advantage,n
+498,2,p,,n
+499,498,text,The,n
+501,498,strong,Nike Vapor Grip 3 Goalkeeper Gloves,n
+502,498,text,"are my choice of goalie gloves to play in. They are comfortable to wear while still being flexible, and padded enough to protect your hands and stop a ball at the same time.",n
+504,2,p,You can find them here on soccer.com or click here to find them on Amazon.,n
+510,2,h3,Water Bottle,y
+512,2,p,It goes without saying that in any sport you are taking part in you need to stay hydrated.,n
+514,2,p,"Running around for any period of time will cause your body temperature to rise, which means you will start to sweat and lose the necessary fluid from your body. This fluid needs to be replaced.",n
+516,2,p,"Having a water bottle close by, filled either with water or some sort of isotonic drink, is a great idea.",n
+518,2,p,Staying hydrated throughout the game will not only help your in-game performance but also speed up your post-game recovery time as well.,n
+520,2,h3,Soccer bag,y
+522,2,p,equipment.,n
+524,2,p,"It not only keeps everything together in one place but the reality is that after a game of soccer most of your uniform is going to be sweaty and possibly smelly, and the rest of the equipment could be muddy.",n
+526,2,p,"Rather than using a general bag, you own to put all this in every time you finish playing you may prefer to only have one dedicated bag that you regularly use to carry all this equipment around in.",n
+528,2,p,I would definitely recommend getting a soccer bag for this reason and this one on Amazon checks all the boxes for everything you want from a soccer bag.,n
+532,2,h3,Mouthguard,y
+534,2,p,"It’s fairly rare to need or see a soccer player wearing a mouth guard, but it does occasionally happen.",n
+536,2,p,"When I was a teenager I actually had to wear a mouth guard for a while while I played soccer, or any other sport, as I was having some work done on my teeth at the time and my dentist insisted that it was a necessary precaution that I needed to take.",n
+538,2,p,I have also seen another player’s tooth accidentally knocked out by an opponent during a game.,n
+540,2,p,If you feel it would be beneficial to you to wear a mouth guard to play soccer then go for it. There is nothing in the rules to stop you and it could make the difference of whether you end the game with all the teeth you started with or not!,n
+542,2,p,,n
+543,542,text,"If you have a toddler and you are looking to get some soccer equipment for them, check out my guide –",n
+545,542,strong,Soccer Equipment,n
+548,2,h2,Related Questions,n
+549,2,p,,n
+551,549,strong,Can a goalkeeper wear short sleeves?,n
+552,549,text,"In a game of soccer, it is completely acceptable and within the rules of the game for a goalkeeper to wear short sleeves if he or she chooses to.",n
+553,2,p,,n
+555,553,strong,How do you dress,n
+556,553,text,"When playing soccer a player should be wearing a jersey, shorts, long socks, shin guards, and appropriate footwear. Each player will also need to be wearing a uniform that matches the rest of their team.",n
+558,2,h2,Conclusion and Recommendations,n
+560,2,p,"Hopefully, you now feel like you have a better understanding of what equipment is needed in soccer and some extra items that it’s often worth getting hold of.",n
+561,2,p,,n
+562,561,text,If you are looking,n
+564,561,strong,recommended soccer equipment page,n
+565,561,text,. I’ve put together what I think are some of the best options out there to consider. Head on over and have a look.,n
+566,2,p,,n
+567,566,text,"If you want to carry on reading about soccer, my",n
+569,566,strong,Soccer,n
+570,566,text,will hopefully be helpful to you as you learn more about this beautiful game.,n
+573,2,p,*Check out the next post – “ Does Soccer have a Salary Cap? ”*,n
+582,0,p,"Hi! My name's Ben. I've played, watched, read about, and enjoyed soccer throughout my life. I really enjoy finding out more about the game I love and sharing it with you all. Find out more about me here - Ben Clayfield",n
+585,0,h3,Recent Posts,n
+586,0,div,,n
+587,586,article,,n
+590,587,span,link to How Soccer Cleats Should Fit,n
+594,587,p,"As a soccer player, you need to be comfortable in your cleats during a game. You do not want any form of irritation obstructing your focus on the game. Knowing how your cleats should fit will help...",n
+597,586,article,,n
+600,597,span,link to How to Shoot a Soccer Ball,n
+604,597,p,"The thrill of seeing the ball hit the back of the net in soccer is second to none. But before the excitement of a goal, a lot of work and practice goes into kicking the ball properly. I have taken...",n

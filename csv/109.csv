@@ -1,0 +1,112 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,h1,Baseball Equipment List,n
+8,0,div,,n
+13,8,div,,n
+21,13,div,,n
+22,21,div,,n
+24,22,span,Posted,n
+26,22,span,"June 16, 2021",n
+27,21,div,,n
+29,27,span,Categories,n
+30,27,text,Baseball Gear Guides,n
+31,21,div,,n
+33,31,span,Views,n
+35,31,span,5842,n
+41,13,div,,n
+42,41,div,,n
+45,42,p,"Making sure you have the essential equipment is a pretty important part of playing any sport. It helps prevent or minimize injury while making sure you have the tools to perform. What equipment you’ll need to have can depend on the league level and competitiveness. After all, to play at your best, you'll want to have everything you need.",n
+49,42,p,"Most adult leagues require players to bring most if not all their equipment, such as bats, gloves, or helmets. For youth leagues, the necessary equipment may be far less than an adult league, so it's always best to check what equipment is essential for playing T Ball or Little League. Despite what your league requires, our list breaks down all the essential equipment you’ll need to get in place before heading out to the field.",n
+52,42,p,Batting and Fielding Equipment,n
+53,42,ul,,n
+56,53,li,Bat,y
+59,53,li,Batting Helmet,y
+62,53,li,Fielding Glove,y
+65,53,li,"Protective Gear Elbow, Ankle or Leg Guards, Mouthguard, Athletic Cup",y
+68,42,p,Catcher's Equipment,n
+80,42,li,Shin Guard,y
+85,42,p,Apparel,n
+87,42,ul,,n
+94,87,li,Pants,y
+98,87,li,Batting Gloves,y
+106,87,li,Baseball Socks,y
+114,87,li,Baseball Belt,y
+118,87,li,Compression Arm or Leg Sleeves,y
+123,42,p,Accessories,n
+125,42,ul,,n
+128,125,li,Sunglasses,y
+132,125,li,Baseball Bag,y
+136,125,li,Athletic Tape and Wrist Braces,y
+140,125,li,Bat and Grip Accessories,y
+144,125,li,Eye Black,y
+148,125,li,Backup Cleat Laces,y
+152,125,li,Sport Drinks,y
+156,125,li,Water Bottle,y
+160,125,li,Sunscreen,y
+165,42,p,Training Gear,n
+167,42,ul,,n
+170,167,li,Batting Tee,y
+174,167,li,Hitting Net,y
+178,167,li,Baseballs and Weighted Training Baseballs,y
+182,167,li,Pitching Machine,y
+184,41,h2,What should baseball players wear and bring to practice?,n
+185,41,div,,n
+188,185,p,"For baseball practice, players typically don’t need to bring everything they would for a game day. You'll still need some protective equipment, so you aren't injured or miss out on a big game. No one wants to be hurt and miss out on a big game.",n
+192,185,p,"What you'll need to wear or bring to practice depends on your position and the league you play in, but most players can get by with a few essential items. We've broken down what you should wear or bring to practice by category.",n
+196,185,p,Apparel to Wear to Practice,n
+197,185,ul,,n
+203,197,li,Tee-Shirt or Practice Jersey,y
+206,197,li,Baseball Pants,y
+212,197,li,Baseball or Regular Socks,y
+219,185,p,Batting and Fielding Equipment to Bring to Practice,n
+220,185,ul,,n
+223,220,li,Batting Glove,y
+226,220,li,Baseball Glove,y
+229,220,li,Athletic Cup,y
+233,185,p,Catchers Equipment to Bring to Practice,n
+243,185,li,Leg or Shin Guards,y
+245,41,h2,Do leagues provide equipment,n
+249,41,p,"A number of leagues do provide players equipment to use during practice and games. This varies from league to league. Youth leagues typically provide shared equipment such as bats and helmets. If you're curious about what the league you're participating in provides, it's always best to check with them first.",n
+251,41,h2,baseball gear at BaseballMonkey,n
+253,41,p,,n
+255,253,span,"Whether you’re new to playing baseball or are a league veteran, you’ll need to equip yourself with the necessary equipment. BaseballMonkey is your one-stop-shop for baseball equipment. Find everything from shoes to gloves and bats to cleats. Check out",n
+257,253,span,BaseballMonkey,n
+259,253,span,today to find the best baseball gear,n
+261,13,div,,n
+263,261,div,← Previous Next →,n
+265,261,div,,n
+268,265,div,Related Posts,n
+270,265,div,,n
+276,270,h3,The Best Catcher’s Gear,n
+282,270,h3,Best Batting Gloves,n
+288,270,h3,Best Baseball Bags,n
+294,270,h3,The 55 Best Baseball Gifts,n
+297,8,div,,n
+298,297,div,,n
+301,298,div,My Wish Lists,n
+302,298,div,,n
+304,302,strong,Last Added Items,n
+306,302,div,You have no items in your wish list.,n
+320,297,div,,n
+323,320,div,Categories,n
+324,320,ul,,n
+326,324,li,Baseball Gear Guides,n
+329,324,li,Baseball Product Reviews,n
+332,324,li,the Game,n
+335,324,li,Baseball Skills and Training,n
+338,324,li,Baseball Blog,n
+341,324,li,BaseballMonkey Podcasts Episodes,n
+343,297,div,,n
+346,343,div,Recent Posts,n
+347,343,div,,n
+348,347,div,,n
+350,348,text,The 55 Best Baseball Gifts,n
+353,348,div,"November 10, 2021",n
+354,347,div,,n
+356,354,text,The Best Catcher’s Gear,n
+359,354,div,"November 03, 2021",n
+362,347,div,Baseball Equipment List,n
+368,347,div,Lightest Baseball Cleats,n
+372,347,div,,n
+374,372,text,Best Baseball Bat,n
+377,372,div,"June 15, 2021",n

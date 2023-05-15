@@ -1,0 +1,724 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+4,2,p,whether you’re a total newbie…,n
+6,2,p,Or you’ve had a decent home studio,n
+8,2,p,your mind:,n
+11,2,p,What’s the next step?,n
+13,2,p,pro studios on the internet…,n
+14,2,p,,n
+15,14,text,And you compare,n
+17,14,span,that,n
+18,14,text,to where you are right now…,n
+19,2,p,,n
+20,19,text,It’s only natural to want that,n
+22,19,span,the puzzle,n
+23,19,text,which gets you a step closer to where you someday want to be.,n
+25,2,p,Which is why,n
+26,2,p,,n
+27,26,text,Which we will accomplish by covering a list of,n
+29,26,span,33 items,n
+30,26,text,you can eventually add to your studio…from beginner to advanced.,n
+31,2,p,,n
+32,31,text,But first …let’s determine exactly,n
+36,31,span,what level,n
+37,31,text,you’re at right now…,n
+44,2,h2,of Growth,n
+45,2,p,,n
+46,45,text,Starting from,n
+48,45,span,day one,n
+50,2,p,,n
+51,50,text,Studios go through,n
+54,50,span,4 KEY stages,n
+55,50,text,in their evolution,n
+56,2,ol,,n
+57,56,li,,n
+60,57,strong,Bedroom Studio,n
+61,57,text,"– which is typically a small setup next to your bedside, and is the absolute minimum you need to record sound into your computer.",n
+62,56,li,,n
+65,62,strong,Dedicated Home Studio,n
+66,62,text,"– which is typically a room in your house used solely for recording, that includes both studio furniture, and acoustic treatment.",n
+69,56,li,,n
+72,69,strong,Semi-Pro Studio,n
+73,69,text,"– which can be either at your home, or a different location, and typically includes the equipment necessary to record multiple musicians simultaneously.",n
+74,56,li,,n
+77,74,strong,Pro Studio,n
+78,74,text,"– which is typically located at a commercial facility, and includes whatever tools necessary to produce professional results in the most efficient way possible.",n
+80,2,p,these,n
+85,2,p,"If you’re new to this website, go through them in order, so you don’t miss anything.",n
+90,2,p,,n
+91,90,text,"the site,",n
+94,90,span,STAGES 1 and 2,n
+95,90,text,will be refresher content…,n
+97,2,p,"So if you want, CLICK HERE to skip straight to STAGE 3 .",n
+101,2,p,"If you’re still here, let’s continue…",n
+108,2,p,"While beginners always have that natural desire to want to learn everything , right away …",n
+114,2,p,The truth is…you really only need a few items to get started.,n
+116,2,p,And anything more will probably just confuse you.,n
+120,2,p,"So if you don’t have a studio yet, a simple bedroom studio is the first milestone to aim for.",n
+122,2,p,And,n
+123,2,ol,,n
+126,123,li,Computer,y
+129,123,li,DAW,y
+132,123,li,Audio Interface,y
+135,123,li,Microphones,y
+138,123,li,Headphones,y
+141,123,li,Studio Monitors,y
+144,123,li,Cables,y
+147,123,li,Microphone Stands,y
+150,123,li,Pop Filter,y
+154,2,h3,Computer,y
+156,2,p,"These days, since recording studios are almost ALL digital…",n
+158,2,p,The first thing you obviously need is a computer.,n
+159,2,p,,n
+160,159,text,"And while you can just use any old computer,",n
+162,159,span,at-first,n
+165,2,p,You should eventually invest in the best one you can afford.,n
+167,2,p,Because today’s DAW’s can be EXTREMELY hard on processing resources.,n
+169,2,p,"And making full-use of its features requires a blazing-fast computer. So when you’re ready to upgrade, here’s what I recommend:",n
+173,2,li,The Best Computers or Laptops,n
+182,2,li,Macbook Pro,n
+189,2,h3,Digital Audio Workstation,y
+190,2,p,,n
+194,190,span,digital audio workstation,n
+195,190,text,is the primary software used to,n
+197,190,span,record,n
+200,190,span,edit,n
+203,190,span,mix,n
+204,190,text,music on your computer.,n
+206,2,p,analog mixing boards from the pre-digital era…,n
+208,2,p,Their visual design has remained basically the same ever since.,n
+209,2,p,,n
+212,209,strong,Pro Tools,n
+213,209,text,", which has long-been the most famous DAW, great for studios of all levels…but it is by no means the",n
+215,209,span,only,n
+216,209,text,option.,n
+217,2,p,,n
+218,217,text,Depending on your,n
+220,217,span,budget,n
+223,217,span,music,n
+224,217,text,", the best one",n
+226,2,p,"To learn more about each one, check out this article:",n
+230,2,li,The Ultimate Guide,n
+239,2,li,Avid Pro Tools,n
+248,2,h3,Audio Interface,y
+249,2,p,,n
+250,249,text,"Once you’ve got the software, the next thing you’ll need is an",n
+253,249,strong,audio interface,y
+256,2,p,providing all the necessary connections to send your music:,n
+257,2,ul,,n
+259,257,li,,n
+261,259,span,INTO,n
+262,259,text,"the computer when recording, and…",n
+264,257,li,,n
+266,264,span,OUT,n
+267,264,text,the computer during playback.,n
+269,2,p,"Originally, this was pretty much all they did…",n
+272,2,p,,n
+273,272,text,But today’s modern interfaces have evolved into incorporate many other features as well.,n
+275,272,span,Those include,n
+277,2,ul,,n
+280,277,li,digital conversion,n
+283,277,li,mic preamps,n
+286,277,li,DI boxes,n
+289,277,li,headphone amps,n
+293,2,p,,n
+297,293,strong,pro studios,n
+298,293,text,", each of these items normally exist as high-end stand-alone units, organized within a rack.",n
+299,2,p,,n
+303,299,span,home studios,n
+304,299,text,"though, these “all-in-one” budget interfaces can be a great way to save money, and still get exactly what you need.",n
+310,2,li,The Ultimate Guide to Audio Interfaces,n
+319,2,li,Focusrite Scarlett 2i4,n
+328,2,h3,Microphones,y
+330,2,p,The oldest item on this list by far…,n
+332,2,p,Microphones have been around since long before recording studios ever existed.,n
+334,2,p,"Yet ironically, in all those years, very little about them has changed.",n
+336,2,p,And many of the top models from a half-century ago are still among the industry standards of today.,n
+338,2,p,"That’s not to say that microphones are a simple topic, because it’s actually quite the opposite .",n
+342,2,p,Recording studios typically carry several-dozen mics or more…each one used to achieve:,n
+343,2,ul,,n
+346,343,li,a different sound,n
+351,343,li,from different instruments,n
+356,343,li,in different situations,n
+360,2,p,"And in the following post, I give you the complete run-down on everything you should know about the topic:",n
+364,2,li,The Beginner’s Guide to Recording Studio Microphones,n
+368,2,p,Classic Examples,n
+370,2,ul,,n
+371,370,li,,n
+374,371,strong,Dynamic Mic,y
+378,371,li,Shure SM57,n
+386,370,li,,n
+389,386,span,Large Diaphragm Condenser,n
+393,386,li,Rode NT1A,n
+401,370,li,,n
+404,401,span,Small Diaphragm Condenser,n
+408,401,li,AKG P170,n
+417,2,h3,Headphones,y
+419,2,p,"Unlike most studio gear, headphones are one item that we’re all thoroughly familiar with.",n
+421,2,p,At least…that’s what most people assume.,n
+423,2,p,“consumer” headphones…,n
+424,2,p,,n
+425,424,text,"For pro audio, there are 2 special types of",n
+428,424,span,studio headphones,y
+429,424,text,intended,n
+432,2,ol,,n
+435,432,li,closed back headphones,n
+438,432,li,open back headphones,n
+440,2,p,"And in this post, I reveal what they are , what they do , and which ones I recommend :",n
+450,2,li,The Ultimate Guide to Studio Headphones,n
+459,2,li,Sennheiser HD280,n
+468,2,h3,Studio Monitors,y
+470,2,p,,n
+471,470,text,"In the pro audio world, we call them either",n
+474,470,span,studio monitors,n
+475,470,text,", or",n
+478,470,span,nearfield monitors,n
+481,2,p,And while they might look similar to plain old speakers…THEY’RE NOT.,n
+483,2,p,"Compared to consumer speakers, which typically accentuate certain frequency bands in order to improve the listening experience for certain audiences…",n
+487,2,p,"Studio monitors are designed with the opposite goal of providing a perfectly FLAT frequency response, so engineers can hear a mix as it truly is, flaws and all…so they can adjust accordingly.",n
+493,2,p,"In pro studios, these monitors can often cost 10 grand or more .",n
+497,2,p,"But luckily for the rest of us, there are plenty of great affordable options as well. To see which ones I recommend, check out this article:",n
+501,2,li,The 10 Best Studio Monitors,n
+510,2,li,KRK Rokit5 G3,n
+519,2,h3,Cables,y
+521,2,p,cables…,y
+523,2,p,connectors that you’ve probably never even heard of.,n
+525,2,p,And the time will come when you own more cables than you can count.,n
+527,2,p,"The good news is…in the beginning, all you need is 3:",n
+528,2,ul,,n
+529,528,li,,n
+531,529,strong,One XLR cable to connect a mic to your audio interface,n
+533,529,strong,.,n
+536,528,li,And two more to connect the interface to your monitors.,n
+538,2,p,"For help finding these , check out this article",n
+544,2,li,The Ultimate Guide to XLR Mic Cables,n
+552,2,li,Mogami Silver,n
+557,2,p,"studio cables as well, check out this article:",n
+561,2,li,The Ultimate Guide to Audio Cables,n
+563,2,h3,Microphone Stands,y
+565,2,p,The same concept applies with microphone stands as with studio cables.,n
+567,2,p,Eventually you’ll have many.,n
+569,2,p,But,n
+571,2,p,And while you might assume that all stands are pretty much the same…,n
+573,2,p,"They actually come in many shapes and sizes, each designed",n
+575,2,p,"To learn more about each type and what they’re for, check out this article:",n
+579,2,li,The Ultimate Guide to Microphone Stands,n
+588,2,li,DR Pro Boom,n
+593,2,h3,Pop Filter,y
+595,2,p,Despite the fact that pop filters are in no way “essential” to a bedroom studio…,n
+597,2,p,"For some strange reason, all newbies seem to want one.",n
+599,2,p,And most probably don’t even know what they’re for.,n
+601,2,p,So let me explain…,n
+603,2,p,One peculiar fact about your mouth is that it expels a strong burst of air whenever you pronounce “p” or “b” sounds.,n
+605,2,p,"In normal conversation, you don’t even notice it.",n
+606,2,p,,n
+607,606,text,"But when singing into a microphone, that blast of air is heard as a low frequency “thump” known as",n
+610,606,strong,popping,n
+611,606,text,", which is both unpleasant to the ears, and unacceptable on a recording.",n
+612,2,p,,n
+615,612,span,Pop filters,y
+616,612,text,are designed to solve this problem by catching the blast of air before it hits the diaphragm of the mic.,n
+618,2,p,"If you’re interested in trying one out, here are the ones I recommend:",n
+622,2,li,The 7 Best Pop Filters,n
+631,2,li,Stedman Proscreen XL,n
+635,2,p,,n
+636,635,text,"Now at this point, we’ve concluded",n
+640,635,text,". Once you’ve got everything we just covered, you should be fully equipped to record audio in your little bedroom studio.",n
+641,2,p,,n
+642,641,text,And while many people will be more than satisfied to remain at this stage…,n
+645,641,text,of you will want,n
+648,641,text,thing better at,n
+651,641,text,point.,n
+653,2,p,"In which case, it’s time to graduate to…",n
+659,2,p,After recording music in a simple bedroom studio,n
+661,2,p,you.,n
+663,2,p,Besides the fact that your workspace is extremely cramped…,n
+664,2,p,,n
+665,664,text,Your biggest problem is probably that all your music sounds like it was recorded…well…,n
+667,664,span,in a bedroom,n
+668,664,text,!,n
+670,2,p,And after doing some research to figure out what’s going wrong…,n
+671,2,p,,n
+672,671,text,You will undoubtedly come to the conclusion that you now need a,n
+674,671,span,dedicated room,n
+675,671,text,for your studio…,n
+676,2,p,,n
+677,676,text,Where you can cultivate both a,n
+679,676,span,creative environment,n
+680,676,text,"that will improve your workflow, and an",n
+682,676,span,acoustic environment,n
+683,676,text,that will allow your recordings to at least sound semi-decent.,n
+685,2,p,"So when that time comes, here are the 8 KEY items you need:",n
+686,2,ol,,n
+688,686,li,Desk or Workstation,y
+691,686,li,Studio Chairs,y
+694,686,li,Bass Traps,y
+697,686,li,Acoustic Panels,y
+700,686,li,Diffusers,y
+703,686,li,Reflection Filters,y
+706,686,li,Monitor Isolation Pads,y
+709,686,li,Studio Monitor Stands,y
+711,2,p,Now let’s take a closer look at each one…,n
+713,2,h3,Desk or Workstation,y
+715,2,p,size or purpose…,n
+717,2,p,the room will undoubtedly be the desk.,n
+719,2,p,"So it makes sense then, that it be the very first item you add to your new room.",n
+721,2,p,"But don’t go overboard here. Because in the beginning, any desk you already have in your house can work just fine.",n
+723,2,p,So you don’t have to spend a fortune on a custom mixing desk if you don’t want to.,n
+727,2,p,"The truth is, at some point, you will want something better. And if that day is today, check out this post to see which ones I recommend:",n
+733,2,li,The 6 Best Studio Mixing Desks,n
+741,2,li,Studio RTA Producer –,n
+748,2,h3,Studio Chairs,y
+750,2,p,"Just like with your desk…a high-end studio chair, while nice to have, is not a necessity.",n
+752,2,p,"Truthfully, a folding chair works just fine.",n
+754,2,p,For a while…,n
+756,2,p,consuming your entire life…,n
+758,2,p,"And it’s quite possible that at some point, you will spend more hours in that chair than you do in your bed.",n
+760,2,p,comfort and back support may not be a bad idea.,n
+762,2,p,"So to see which ones I recommend, check out this post:",n
+766,2,li,The 6 Best Studio Chairs,n
+768,2,h3,Bass Traps,y
+770,2,p,The fact is…that without some acoustic treatment in your room…,n
+772,2,p,Chances are slim-to-none that you will have any chance at recording decent sound.,n
+773,2,p,,n
+774,773,text,acoustic treatment to add is…,n
+777,773,strong,bass traps,y
+780,2,p,acoustic foam…,n
+782,2,p,"Bass traps offer broadband absorption across the entire frequency spectrum, and are particularly good at absorbing lower frequencies…which cause the majority of problems in any studio, especially in smaller rooms.",n
+783,2,p,,n
+784,783,text,And since it’s the,n
+786,783,span,most-important,n
+787,783,text,"item, it makes sense to check it off your list first .",n
+791,2,p,"To learn more about bass traps, and see which ones I recommend, check out this post:",n
+795,2,li,The Ultimate Guide to Bass Traps,n
+804,2,li,Auralex LENRD,n
+813,2,h3,Acoustic Panels,y
+815,2,p,While they don’t absorb bass frequencies very well…,n
+816,2,p,,n
+818,816,strong,Acoustic panels,y
+819,816,text,are great at absorbing frequencies in the low-mid to high range.,n
+821,2,p,More importantly though…,n
+822,2,p,,n
+823,822,text,They are particularly good at taming,n
+825,822,span,standing waves,n
+828,2,p,"Which have a tendency to cause major acoustic problems in rooms with parallel walls, where sound reflections bounce back-and-forth in the same spot.",n
+830,2,p,"In typical home studios, where the room is likely to be cubical, standing waves are especially problematic, which is why acoustic panels are a must-have.",n
+832,2,p,"To see which ones I recommend, and how to put them up, check out this post:",n
+836,2,li,The Ultimate Guide to Acoustic Foam Panels,n
+845,2,li,Auralex Studiofoam,n
+854,2,h3,Diffusers,y
+855,2,p,,n
+856,855,text,The final item to add to add to your room is…,n
+859,855,span,diffusers,y
+862,2,p,"In pro studios, with big budgets and big rooms…",n
+864,2,p,Diffusion is an important element of their acoustic treatment plan because creates a nice natural ambience without removing too much of the “liveliness” from the room.,n
+866,2,p,Diffusers do this by scattering whatever sound energy exists in the room…,n
+868,2,p,"Allowing all frequencies to disperse randomly, rather than build up unnaturally in certain spots.",n
+870,2,p,"Common wisdom states though, that diffusion is significantly less effective in smaller rooms.",n
+872,2,p,"And since diffusers can get quite expensive, most home studios will elect to not use them. However, the choice is completely up to you.",n
+880,2,li,Auralex T’Fusor,n
+889,2,h3,Reflection Filters,y
+891,2,p,While “ real ” acoustic treatment will always be ideal…,n
+895,2,p,"Often times, it’s simply too expensive",n
+896,2,p,,n
+897,896,text,"In which case,",n
+900,896,span,reflection filters,y
+901,896,text,offer a workable alternative.,n
+903,2,p,Intended mainly,n
+904,2,p,,n
+905,904,text,By instead,n
+907,904,span,capturing,n
+908,904,text,sound reflections before they ever enter the room.,n
+910,2,p,"While noticeably less effective than “proper” acoustic treatment, they’re still way better than nothing-at-all…",n
+912,2,p,And they can even be ideal,n
+918,2,li,The 6 Best Reflection Filters,n
+927,2,li,sE Electronics Reflexion Filter PRO,n
+936,2,h3,Monitor Isolation Pads,y
+938,2,p,the way…,n
+939,2,p,,n
+940,939,text,You can still improve your sound one step further with,n
+943,939,span,monitor isolation pads,n
+946,2,p,"You see…by placing your studio monitors directly on the desk, sound vibrations transfer through the surface of the desk…",n
+948,2,p,"Which decreases the accuracy of the monitors themselves, and can even create new and unpredictable resonances from any other objects receiving those vibrations.",n
+950,2,p,"Monitor isolations pads solve this problem by creating a buffer of acoustic isolation between your monitors and desk, preventing any vibration from transferring.",n
+952,2,p,"Plus, some models even provide added options for positioning your monitors, by allowing you to tilt them at various angles.",n
+958,2,li,The 6 Best Monitor Isolation Pads to Improve Your Sound,n
+967,2,li,Auralex Mopads,n
+976,2,h3,Studio Monitor Stands,y
+978,2,p,To take monitor positioning one step further…,n
+979,2,p,,n
+980,979,text,A better option might be to use,n
+983,979,strong,studio monitor stands,y
+984,979,text,instead.,n
+986,2,p,your desk…,n
+987,2,p,,n
+988,987,text,With stands…,n
+990,987,span,distance,n
+993,987,span,height,n
+996,987,span,angle,n
+997,987,text,"are fully adjustable, so you can move them wherever you like.",n
+999,2,p,"And they’re a big help, because to get the most accurate sound from your monitors, they need to be in very specific locations in relation to your ears.",n
+1001,2,p,"the top stands I recommend, check out this article:",n
+1005,2,li,The 7 Best Studio Monitor Stands,n
+1014,2,li,Ultimate Support MS90,n
+1023,2,p,So that concludes,n
+1029,2,p,"With the items we just covered, you should have a pretty awesome home studio by now.",n
+1030,2,p,,n
+1031,1030,text,"And if you only plan on working by yourself in your studio, this",n
+1033,1030,span,may,n
+1034,1030,text,be all you ever need.,n
+1036,2,p,"But when the day comes when you want to want to record other people, and possibly even charge them for your services, it’s time to graduate to…",n
+1042,2,p,The biggest problem with the studio we just set up…,n
+1043,2,p,,n
+1044,1043,text,Is that it only offers a,n
+1046,1043,span,input channels,n
+1049,2,p,What this means is…it will be very difficult to record more than one person at a time…,n
+1051,2,p,"And you certainly can’t record acoustic drums, which can easily require 8 or more mics depending on the size of the kit.",n
+1053,2,p,"A studio of this caliber is fine for yourself and maybe one other person, but anything more and you’ll need some new gear.",n
+1054,2,p,,n
+1055,1054,text,The other issue with our current studio is,n
+1057,1054,span,speed or efficiency,n
+1060,2,p,"If you’re recording a lot, or you expect to charge clients by the hour…you should be able to work a relatively time-efficient manner. Which is harder to do without certain tools.",n
+1062,2,p,equipment:,n
+1063,2,ol,,n
+1066,1063,li,Rack Mount,y
+1069,1063,li,Power Conditioner,y
+1072,1063,li,Microphone Preamp,y
+1075,1063,li,Headphone Amp,y
+1081,1063,li,Virtual Instruments,y
+1084,1063,li,MIDI Controller,y
+1087,1063,li,Electronic Drum Kit,y
+1090,1063,li,Control Surface,y
+1093,1063,li,Software or Plugins,y
+1096,1063,li,Snake Cable,y
+1099,1063,li,Uninterruptible Power Supply,y
+1102,1063,li,Direct Box,y
+1106,2,h3,Studio Rack Mounts,y
+1108,2,p,your home studio…,n
+1109,2,p,,n
+1110,1109,text,your first,n
+1113,1109,span,rack-mounted setup,n
+1116,2,p,"Because prior to this step, the simple desktop gear you’ve been using can only record a small number of simultaneous tracks.",n
+1120,2,p,And if you want to record bands you need more channels.,n
+1122,2,p,"The beauty of the “rack system” is…it allows you to mix-n-match your equipment, so you can customize your routing and signal flow however you like.",n
+1124,2,p,That way it can always do exactly what you need it to.,n
+1126,2,p,"Of course, the first step in building any rack to buy the case itself. So check out this article to see which ones I recommend:",n
+1130,2,li,The Beginner’s Guide to Studio Rack Mounts,n
+1139,2,li,Raxxess Economy Rack,n
+1146,2,h3,Power Conditioner,y
+1148,2,p,While every person’s rack setup will be entirely unique…,n
+1149,2,p,,n
+1150,1149,text,The one item common to virtually every rack is a,n
+1153,1149,span,power conditioner,y
+1156,2,p,Because rather than having a half-dozen power cables sticking out the back of your rack from each unit…,n
+1158,2,p,A power conditioner consolidates power,n
+1162,2,p,"And as a HUGE side-benefit, it also filters the power using various technologies such as:",n
+1163,2,ul,,n
+1166,1163,li,surge protection,n
+1169,1163,li,voltage regulation,n
+1172,1163,li,noise filtration,n
+1174,2,p,"your gear, and allows it to always perform at its best.",n
+1180,2,li,The 7 Best Power Conditioners to Safeguard Your Equipment,n
+1189,2,li,Furman M-8×2,n
+1196,2,h3,Microphone Preamp,y
+1198,2,p,Now that the rack and the power is taken care of…,n
+1200,2,p,You’re finally ready,n
+1201,2,p,,n
+1202,1201,text,Which you will get by adding a multi-channel,n
+1205,1201,span,microphone preamp,y
+1206,1201,text,to your setup.,n
+1207,2,p,,n
+1208,1207,text,this device is the high-end,n
+1210,1207,span,"single-channel mic preamp,",n
+1211,1207,text,which studios often use on vocals or any other particularly important track in a mix.,n
+1213,2,p,To see which models I recommend,n
+1217,2,li,The 9 Best Microphone Preamps,n
+1226,2,li,Presonus Digimax D8,n
+1234,2,p,NOTE,n
+1237,2,p,If yours doesn’t…check out the audio interface post again to find one that does.,n
+1241,2,h3,Headphone Amp,y
+1243,2,p,input channels to work with…,n
+1245,2,p,The next thing you’ll need is a few more OUTPUT channels.,n
+1249,2,p,"First, so that when you work with multiple musicians…",n
+1251,2,p,Each person can monitor themselves as they perform.,n
+1252,2,p,,n
+1253,1252,text,Since most audio interfaces have onlyheadphone outputs…you’ll need a,n
+1256,1252,strong,headphone amp,y
+1257,1252,text,if you want more.,n
+1258,2,p,,n
+1259,1258,text,Typical headphone amps offer,n
+1261,1258,span,stereo outs,n
+1262,1258,text,headphones.,n
+1263,2,p,,n
+1264,1263,text,audio to,n
+1267,1263,span,personal mixers,n
+1268,1263,text,"for each musician, allowing them to individually control exactly what they want to hear, without affecting what is heard by everyone else.",n
+1270,2,p,"And in studios that can afford one, this added functionality can make the entire recording process much easier for everyone involved.",n
+1276,2,li,The 7 Best Headphone Amps,n
+1285,2,li,Presonus HP4,n
+1294,2,h3,Monitor Management,y
+1296,2,p,output channels,n
+1298,2,p,The next thing you may want to add is some extra outputs,n
+1301,2,p,And here’s why,n
+1304,2,p,playback devices.,n
+1306,2,p,"That way, when their work is heard through cheaper “consumer” speakers…",n
+1308,2,p,They can be confident that it sounds just as awesome as it does in the studio.,n
+1309,2,p,,n
+1310,1309,text,"To accomplish this task, a tool known as a",n
+1313,1309,strong,monitor management system,y
+1314,1309,text,is used…,n
+1316,2,p,a button.,n
+1318,2,p,"If and when you ever need this in your studio, check out this article to see which ones I recommend:",n
+1322,2,li,The 6 Best Monitor Management Systems,n
+1331,2,li,Mackie Big Knob,n
+1340,2,h3,Virtual Instruments,y
+1343,2,p,If you record mainly by yourself…,n
+1344,2,p,,n
+1345,1344,text,“,n
+1347,1344,span,multi-instrumentalist,n
+1348,1344,text,“.,n
+1350,2,p,different instruments…,n
+1352,2,p,those instruments as well.,n
+1354,2,p,"Which for many of us, is simply not possible. Home recording is expensive enough without having to buy a dozens of instruments as well.",n
+1355,2,p,,n
+1356,1355,text,course…,n
+1359,1355,span,virtual instruments,n
+1362,2,p,"With a single software bundle, you get access to hundreds of instrument sounds for less than the price of a single “real” instrument.",n
+1363,2,p,,n
+1364,1363,text,And while they can’t replicate every instrument like,n
+1368,1363,span,guitar,n
+1369,1363,text,", they can sound surprisingly realistic on certain instruments such as",n
+1371,1363,span,piano,n
+1374,1363,span,drums,n
+1375,1363,text,.,n
+1377,2,p,Which is why,n
+1378,2,ul,,n
+1381,1378,li,"one good drum program, and…",n
+1384,1378,li,one good keyboard or synth program.,n
+1386,2,p,"And using just those two, you can accomplish a hell-of-a-lot .",n
+1389,2,ul,,n
+1390,1389,li,,n
+1392,1390,strong,Classic Example,n
+1396,1390,span,Toontrack EZ Drummer,n
+1404,1389,li,,n
+1406,1404,strong,Classic Example,n
+1410,1404,span,Spectrasonics Omnisphere,n
+1417,2,h3,MIDI Controller,y
+1419,2,p,The biggest problem with virtual instruments is…,n
+1420,2,p,,n
+1421,1420,text,It SUCKS to play them on a,n
+1423,1420,span,computer keyboard,n
+1426,1420,span,mouse,n
+1427,1420,text,. Not only is it no-fun …,n
+1430,2,ul,,n
+1433,1430,li,"it takes forever to program even a simple rhythm or melody, and…",n
+1436,1430,li,“feel” you can inject into a performance is minimal.,n
+1438,2,p,"Because to truly add your own expressive touch, you need an actual “ physical ” instrument to control your “ virtual ” instrument.",n
+1443,2,p,,n
+1444,1443,text,And that’s where,n
+1447,1443,strong,MIDI controllers,y
+1448,1443,text,come in…,n
+1450,2,p,"While they aren’t perfect , they allow for at least some degree of expression, by giving you something real to touch with your hands.",n
+1458,2,li,The 8 Best MIDI Controllers,n
+1467,2,li,M-Audio Axiom AIR mini,n
+1476,2,h3,Electronic Drum Kit,y
+1478,2,p,While virtual instrument drums might be good enough,n
+1479,2,p,,n
+1480,1479,text,For,n
+1482,1479,span,drummers,n
+1483,1479,text,", probably not.",n
+1485,2,p,"The problem is…while acoustic drums might be ideal, they simply aren’t practical for 99% of home studios.",n
+1487,2,p,But there’s good news…,n
+1488,2,p,,n
+1489,1488,text,Because,n
+1492,1488,strong,electronic drum kits,y
+1493,1488,text,provide an excellent compromise between the “ real ” and the “ virtual “.,n
+1499,2,p,"Now if you haven’t played one in a few years, you may have a negative opinion of them based off the ones you might remember back in the 80’s.",n
+1501,2,p,"However, in theyears since, they’ve gotten MUCH better.",n
+1503,2,p,"Today, they can sound almost as good, and in some cases even better than a real acoustic kit. And for the home recording musician, that’s wonderful news.",n
+1505,2,p,"If you’re interested, check out this article to see which ones I recommend:",n
+1509,2,li,The 8 Best Electronic Drum Kits,n
+1517,2,li,Roland TD11 KV –,n
+1526,2,h3,Control Surface,y
+1528,2,p,recording is…,n
+1529,2,ul,,n
+1532,1529,li,you …,n
+1537,1529,li,in the control room…,n
+1539,2,p,your million dollar studio.,n
+1541,2,p,"Of course, it doesn’t take long to discover that the actual world of home recording is far less glamourous.",n
+1545,2,p,"Because in this reality, mixing is usually done on a computer keyboard and mouse. Which to be honest…kinda sucks .",n
+1551,2,p,And not only does it look lame…,n
+1553,2,p,"More importantly, it slows down your workflow, and makes it much harder to perform some of the more advanced mixing techniques, such as automation.",n
+1554,2,p,,n
+1555,1554,text,"course, a",n
+1558,1554,span,control surface,y
+1559,1554,text,", which is essentially a MIDI controller designed to mimic the look and feel of the analog boards from decades-past.",n
+1561,2,p,Only…in a much smaller package.,n
+1563,2,p,"And while they aren’t a must-have item, they’re still pretty awesome. To see which ones I recommend, check out this post:",n
+1569,2,li,The 7 Best Control Surfaces,n
+1578,2,li,Avid Artist Mix,n
+1587,2,h3,Software or Plugins,y
+1589,2,p,free software plugins as part of their package.,n
+1591,2,p,them aren’t half bad.,n
+1592,2,p,,n
+1593,1592,text,dollars on,n
+1595,1592,span,premium,n
+1596,1592,text,plugins…,n
+1597,2,p,,n
+1598,1597,text,Which are,n
+1600,1597,span,somehow,n
+1601,1597,text,better than the free ones.,n
+1603,2,p,And while beginners often make the mistake of believing that these premium plugins are a “magic pill” that will solve all their problems…,n
+1605,2,p,"The truth is…that if your skills aren’t up to par, then no plugin in the world is gonna help.",n
+1608,2,p,,n
+1609,1608,text,If you,n
+1611,1608,span,do,n
+1612,1608,text,"have some skills, they can make a BIG difference. And I won’t even have to explain how…",n
+1613,2,p,,n
+1614,1613,text,Because you will,n
+1616,1613,span,hear it,n
+1617,1613,text,yourself.,n
+1619,2,p,"software plugins available, check out this post:",n
+1623,2,li,The Ultimate Beginner’s Guide to Music Production Software,n
+1632,2,li,Waves Gold Bundle,n
+1641,2,h3,Snake Cables,y
+1643,2,p,"At this stage in the game, with the gear you now own…",n
+1645,2,p,It’s quite likely that your studio is looking pretty cluttered.,n
+1647,2,p,Cables everywhere… right ?,n
+1650,2,p,,n
+1651,1650,text,"Well once you reach this point, the standard solution to turn to is a",n
+1654,1650,span,snake cable,n
+1655,1650,text,like the one shown in the picture.,n
+1657,2,p,"By combining several individual cables into one, snake cables allow you to dramatically clean up the look of your studio, and more importantly…",n
+1659,2,p,"They keep your cables permanently organized, so never-again will you need to trace-back an entire length of cable through a tangled web just to find out where it leads.",n
+1661,2,p,"The only problem is…most snakes are designed for much larger rigs than a typical home studio, and it can be difficult for beginners to find the right one for their purpose.",n
+1665,2,p,So,n
+1669,2,li,The Beginner’s Guide to Snake Cables,n
+1678,2,li,Hosa Little Bro,n
+1685,2,h3,Uninterruptible Power Supply,y
+1687,2,p,Do you know what can happen during a recording session when the power goes out?,n
+1689,2,p,"If your studio uses a desktop computer , and the computer SHUTS OFF improperly…",n
+1693,2,p,your work can potentially be LOST.,n
+1694,2,p,,n
+1695,1694,text,"Which is why anytime a computer holds important data, it makes sense to use an",n
+1698,1694,span,uninturruptible power supply,y
+1701,2,p,"Essentially functioning as a back-up battery, a UPS gives you several minutes of power to shut down your computer safely in the event of a blackout.",n
+1702,2,p,,n
+1703,1702,text,"Now unlike every other item on this list, which should be added in sequence…a",n
+1705,1702,span,UPS,n
+1706,1702,text,those items you can add at virtually any time.,n
+1708,2,p,Some people get them early-on. Others never get them at all.,n
+1710,2,p,But here’s when I suggest you get one,n
+1712,2,p,"Once you’re at a point where you’re creating work you’re actually proud of, and that you’d be devastated if you’d lost…",n
+1714,2,p,It makes sense to buy a little “insurance” so you’re protected.,n
+1716,2,p,"To learn more about UPS’s, check out this post:",n
+1720,2,li,The Average Joe’s Guide to Uninterruptible Power Supplies,n
+1729,2,li,APC BR700G,n
+1736,2,h3,Direct Boxes,y
+1738,2,p,"In the studio, where cables sometimes extend as long as a hundred feet to reach their destinations…",n
+1740,2,p,Guitar cables are especially susceptible to excessive signal noise.,n
+1741,2,p,,n
+1744,1741,strong,direct boxes,y
+1745,1741,text,solve this problem by taking an,n
+1748,1741,strong,instrument level signal,n
+1749,1741,text,", and converting it to a",n
+1752,1741,strong,mic level signal,n
+1755,2,p,"Which can then be sent for several hundreds of feet if necessary, while gathering virtually no noise at all.",n
+1756,2,p,,n
+1757,1756,text,the fact that most,n
+1759,1756,span,audio interfaces,n
+1762,1756,span,microphone preamps,n
+1763,1756,text,have at least 1 or 2 direct box channels built-in…,n
+1765,2,p,It’s possible you may never need a direct box.,n
+1766,2,p,,n
+1767,1766,text,"However, if you need more DI inputs,",n
+1769,1766,span,or,n
+1770,1766,text,…if would like to add a guitar jack to a new location in your room…a stand-alone DI box could be exactly what you’re looking for.,n
+1772,2,p,"To see which ones I recommend and why, check out this post:",n
+1776,2,li,The Ultimate Guide to Direct Boxes,n
+1785,2,li,Radial J48,n
+1793,2,p,,n
+1794,1793,text,So we’ve finally reached the end of,n
+1797,1793,text,". At this point with the new additions we just covered, your studio should be good enough to record bands and possibly even charge clients for your services.",n
+1801,2,p,"If you aspire to actually turn your hobby into something resembling a full-time career, there’s still one more set of upgrades that remain…",n
+1808,2,p,"us, STAGE 3 will have been the final level of our journey.",n
+1810,2,p,Because the truth is…it’s extremely tough to be successful in the pro audio business.,n
+1812,2,p,us aren’t really looking to be professionals anyway.,n
+1814,2,p,"But since many of you are at least curious about it, I might as well give you a few examples of how pro studios differ from amateur ones.",n
+1816,2,p,equipment for,n
+1820,2,ol,,n
+1823,1820,li,Digital Converters,y
+1826,1820,li,Master Clocks,y
+1829,1820,li,Analog Hardware,y
+1831,2,p,And here’s more about each one…,n
+1833,2,h3,Digital Converters,y
+1834,2,p,,n
+1835,1834,text,Hidden within your,n
+1837,1834,span,audio interface,n
+1838,1834,text,", and many other devices in your studio…",n
+1840,2,p,"Is a device known as a digital converter, that has 2 simple jobs:",n
+1841,2,ul,,n
+1850,1841,li,", and…",n
+1859,1841,li,.,n
+1860,2,p,,n
+1861,1860,text,"The reason you may not have heard of it is…in 99% of cases, digital converters exist as a side-feature within",n
+1863,1860,span,some other,n
+1864,1860,text,device.,n
+1870,2,p,,n
+1871,1870,text,In pro,n
+1873,1870,span,studios,n
+1874,1870,text,with,n
+1876,1870,span,big budgets,n
+1877,1870,text,", it’s common to find high-end stand-alone digital converters costing several thousand dollars each…",n
+1879,2,p,Which have no other function than to deliver the absolute best digital conversion money can buy.,n
+1881,2,p,Will it be the difference between a good mix and a bad one? Probably not.,n
+1883,2,p,But,n
+1892,2,li,Lynx Aurora,n
+1901,2,h3,Master Clocks,y
+1903,2,p,Another little-known device hidden within virtually every digital recording device is…,n
+1904,2,p,,n
+1908,1904,span,master clock,y
+1909,1904,text,.,n
+1911,2,p,Whenever you connect digital signals from two or more devices…,n
+1913,2,p,The individual digital “samples” must align perfectly in sync.,n
+1914,2,p,,n
+1915,1914,text,Otherwise the resulting audio will be filled with annoying “,n
+1917,1914,span,clicks,n
+1918,1914,text,” and “,n
+1920,1914,span,pops,n
+1921,1914,text,” from the misaligned samples.,n
+1922,2,p,,n
+1923,1922,text,"In most setups, the audio interface clock defaults as the",n
+1926,1922,strong,master,n
+1927,1922,text,", and the others as",n
+1930,1922,strong,slaves,n
+1931,1922,text,". Meaning one clock leads, and the others follow.",n
+1933,2,p,"However with more complex systems, it’s much easier to use a stand-alone digital master clock to lead the entire system.",n
+1934,2,p,,n
+1935,1934,text,And while there’s much debate about their impact on,n
+1937,1934,span,sound quality,n
+1938,1934,text,", some sources will tell you that a high-end master clock makes a noticeable difference.",n
+1949,2,h3,Analog Hardware,y
+1951,2,p,Long before the days when mixing was done with software plugins…,n
+1953,2,p,Common tools like EQ and compression existed only as stand-alone hardware in a rack.,n
+1955,2,p,"those units cost several thousand dollars each, and offer only 1 or 2 channels.",n
+1964,2,li,Universal Audio LA-2A,n
+1971,2,p,Now you might be wondering…,n
+1974,2,p,those things just to mix a song?,n
+1975,2,p,,n
+1976,1975,text,Well the answer is…,n
+1978,1975,span,yes you would,n
+1981,2,p,"Luckily for us, we now live in an age where the modeled “digital versions” of these tools make our jobs both cheaper and easier…",n
+1983,2,p,Yet surprisingly…,n
+1985,2,p,Many of the world’s top studios still rely mainly on these ancient tools to get the job done. Because according to many of the best ears in the business…analog gear still sounds better than any plugin.,n
+1987,2,p,"As such, many of us “normal” guys blow absurd amounts of cash on a single purchase that may be that one missing ingredient we’ve been searching for.",n
+1989,2,p,Would I recommend it in most cases? Not really. But I promise I won’t judge you if you buy one anyway.,n
+1991,2,h3,Anything else?,n
+1993,2,p,"Now obviously, there’s way more to a pro studio than just these 3 additional items.",n
+1995,2,p,"In fact, much of what makes a recording studio “professional” has more to do with the rooms themselves than the actual gear.",n
+1996,2,p,,n
+1997,1996,text,both,n
+1999,1996,span,this article,n
+2002,1996,span,this website,n
+2005,2,p,So,n

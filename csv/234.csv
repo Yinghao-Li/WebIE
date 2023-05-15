@@ -1,0 +1,79 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,,n
+5,4,div,,n
+6,5,article,,n
+8,6,div,,n
+9,8,div,,n
+11,9,p,"There are hundreds of marine accessories available in the market that are necessary to keep on board. Some of them are just an add-up to your sailboat’s design or some extra features but others are must-haves and provide you with safety and comfort. Remember that over time, you can gather many accessories in your sailboat without even noticing! Sailboats are comprised of different parts so you might find yourself buying or even finding some of these parts before realizing that you actually needed them. Let’s now see the detailed list with some useful “must-haves” accessories to equip your sailboat with!",n
+13,9,h2,Household Accessories,n
+14,9,ul,,n
+17,14,li,Refrigerator,y
+21,14,li,Cooker,y
+24,9,h2,Safety Accessories,n
+25,9,ul,,n
+28,25,li,Boarding Ladder,y
+32,25,li,Storm Sails and a Sails Repair Kit,y
+36,25,li,First Aid Kit,y
+40,25,li,Patching Materials,y
+43,9,h2,Safety Equipment,n
+44,9,ul,,n
+47,44,li,EPIRB,y
+51,44,li,Radar Reflector,y
+55,44,li,SOLAS Grade Signals,y
+59,44,li,Portable Fire Extinguisher,y
+63,44,li,Life Raft,y
+70,9,p,>>Also Read,n
+73,9,h2,Electronic Accessories,n
+74,9,ul,,n
+77,74,li,VHF Marine Radio,y
+81,74,li,Depth Sounder and Knot Log,y
+85,74,li,Compass and an Extra Antenna,y
+89,74,li,Solar Panel,y
+92,9,h2,Personal Accessories,n
+93,9,ul,,n
+96,93,li,Sanitation System,y
+100,93,li,Inflatable Life Jackets and Tethers,y
+104,93,li,"Gloves, Shoes, Hats",y
+108,93,li,Dock Lines and Fenders,y
+111,9,h2,Cruising Sailboat Equipment Essentials – Conclusion,n
+112,9,p,,n
+113,112,text,Traveling overseas with your sailboat is a great adventure and a lifetime’s experience! But always remember that preparation is the key for this type of voyage and that there are essential gears to keep on board.,n
+115,112,strong,"Accessories such as life jackets, first-aid kits, and safety equipment are a must-have in any sailboat, but there are other must-have items that you should consider buying before setting off. The most important ones are a refrigerator, a compass, a VHF Radio, patching materials, a sails repair kit, and others. As listed above, this equipment is a must-have while you’re cruising.",n
+121,9,p,"However, this is not an all-encompassing list but a general list. Accessories and equipment are based on your needs, your course, and your sailboat. A good way to understand the needs of your sailboat and its maintenance is to check its manual. The manuals normally contain a list of the basic tools and additional equipment needed if a problem arises. If you’re well-prepared you can assure that you’ll safely enjoy your sea voyage and deal with any possible difficulties.",n
+123,8,div,Safety Equipment Sailing Gear,n
+126,6,div,,n
+128,126,span,0,n
+130,126,span,comments,n
+133,5,div,,n
+135,133,h4,Peter,n
+137,133,p,"Peter is the editor of Better Sailing. He has sailed for countless hours and has maintained his own boats and sailboats for years. After years of trial and error, he decided to start this website to share the knowledge.",n
+141,5,div,,n
+142,141,div,,n
+144,142,div,Prev Post,n
+146,142,h5,How to Charge a Sailboat Battery,n
+147,141,div,,n
+149,147,div,Next Post,n
+151,147,h5,How Much Money Can You Make Renting Your Sailboat? A Realistic Guide,n
+152,5,div,,n
+154,152,h2,Related Posts,n
+157,152,div,,n
+186,157,div,,n
+188,186,div,Buyer's Guide,n
+190,186,h2,Best Sailing Clothing Brands in 2022,n
+197,157,div,,n
+199,197,div,"Sailing , Tips",n
+203,197,h2,Top 10 Tips,n
+234,4,div,,n
+239,234,div,Search for,n
+241,234,div,,n
+251,241,h3,Categories,n
+252,241,ul,,n
+254,252,li,Buyer's Guide,n
+256,252,li,Destinations,n
+258,252,li,Facts,n
+260,252,li,Maintenance,n
+262,252,li,Sailing,n
+264,252,li,Sailing Info,n
+266,252,li,Tips,n
+268,252,li,Travel,n

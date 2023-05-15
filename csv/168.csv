@@ -1,0 +1,243 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+7,0,div,,n
+11,7,h1,The Wine Making Process,n
+15,7,div,,n
+16,15,div,,n
+18,16,div,share,n
+21,16,div,,n
+23,21,span,AddThis Sharing Buttons,n
+24,21,div,,n
+26,24,span,Share to Twitter,n
+29,24,span,Share to LinkedIn,n
+32,24,span,Share to Facebook,n
+35,24,span,Share to Email,n
+37,15,div,,n
+39,37,h3,Simple modern wine investing,n
+41,37,h3,Wine consistently outperforms other alternative assets. Vinovest makes wine investment easy.,n
+45,37,form,Get Started,n
+46,7,div,,n
+48,46,div,,n
+50,48,p,"From growing the best quality grapes to vinifying them into luscious beverages - wine making requires a lot of precision , perseverance, and passion!",n
+54,48,p,how a perfect wine is made - from grape harvesting to fermentation and aging .,n
+58,48,p,"Plus, we’ll share a creative wine recipe for homebrewing your own wine using home winemaker kits. Also find a super-easy way to buy the best wines from across the globe.",n
+65,46,div,,n
+67,65,h3,Further reading,n
+68,65,div,,n
+71,68,li,"Diversity your investment portfolio by Investing in Fine, Rare Wines .",n
+74,68,ul,,n
+76,74,li,Mouthwatering Riesling wine.,n
+80,74,li,Want to impress your friends with the perfect cocktail? Try out a Fruity Sangria or a Tangy Mimosa recipe.,n
+87,46,div,,n
+89,87,h2,This Article Contains,n
+92,87,li,A Quick Intro To Wine Making,n
+94,87,li,,n
+96,94,p,Wine Making,n
+97,94,ol,,n
+99,97,li,Harvest,n
+101,97,li,Destemming And Crushing,n
+103,97,li,Pressing,n
+105,97,li,Fermentation,n
+107,97,li,Clarification,n
+109,97,li,Aging And Bottling,n
+110,87,ul,,n
+112,110,li,Variations In The Wine Making Process,n
+114,110,li,Making Wine At Home,n
+116,110,li,Buy The Best Wines From Across The Globe Through Vinovest,n
+118,110,li,Sit Back And Enjoy A Glass Of Mouthwatering Wine,n
+119,46,div,,n
+122,119,h2,A Quick Intro To Wine Making,n
+124,119,p,You might be tempted to think that winemaking originated in a renowned wine region like France or Italy.,n
+126,119,p,"In fact, the first wine was first made in Georgia around 6000 BC. Early archaeological evidence of wine has also been found in China, Iran, Greece, Armenia, and Sicily.",n
+130,119,p,An ancient Persian tale has it that the first wine was an accidental union between wild yeasts and wine grapes. It was discovered by a princess who decided to take her life by eating some rotten grapes.,n
+132,119,p,"killing the princess, the fruit made her giddy and joyful!",n
+134,119,p,"Cut to today, you’ll find a dizzying array of wines from all over the world - each having a unique wine making process, thanks to innovating winemaking practices.",n
+136,119,p,Let’s dive into the winemaking process and discover how grapes are converted into a delicious drink.,n
+140,119,h2,The Six Steps Of Wine Making,n
+142,119,p,"The wine making method used to make red wine is slightly different from white wine, rose wine, or sparkling wine.",n
+144,119,p,"But, in general, almost every wine goes through basic steps like harvesting, pressing the grape, fermentation, and aging on it’s journey from grapes to your glass!",n
+146,119,h3,Harvest,n
+148,119,p,the fruit It is affected by:,n
+149,119,ul,,n
+152,149,li,The weather during the growing season,n
+155,149,li,Soil minerals and acidity,n
+158,149,li,harvest,n
+161,149,li,The pruning process,n
+163,119,p,"Harvesting is usually done between early September to early November and from mid-February to early May , based on the grape variety, type of wine, and climatic conditions.",n
+165,119,p,"For example, for dessert wine, grapes need to be highly concentrated, so they’re harvested at the end of the harvesting season.",n
+167,119,p,Some factors that determine the fruit harvesting period are,n
+168,119,ul,,n
+171,168,li,Grape acidity,n
+174,168,li,Sugar levels,n
+177,168,li,the grape,n
+179,119,p,The grapes can be either picked by hand or by using mechanical harvesters. Picking by hand avoids grape skin breakage and helps the winemaker select the best fruit for the winery.,n
+181,119,p,The fruit,n
+183,119,p,"The most common type of wine grape is Vitis Vinifera which includes most of the European grape varieties. Some common Vitis Vinifera red grape varieties are Pinot Noir , Tempranillo , and Cabernet Sauvignon.",n
+189,119,p,Did you know? In cooler climate regions like Northern America and Scandinavia fruit wine is quite common. One of the most popular fruit wines is blackberry wine.,n
+192,119,h3,Destemming And Crushing,n
+194,119,p,"Once high-quality grapes are selected, the winemaker then proceeds to destem them. Destemming is separating the grapes from the stem to reduce tannin development in the wine.",n
+196,119,p,"The destemmed grapes are then gently squeezed to release the juice. Traditionally , the grapes were crushed by foot, but today, mechanical crushers have replaced manual workers.",n
+198,119,p,"However, there are slight variations in this step.",n
+199,119,ul,,n
+201,199,li,"For white wine , the crushed grapes are placed in the press with the stems. This helps the juice to flow past the flattened skins that accumulate at the edge of the press.",n
+205,199,li,"For red wine , the red grapes are usually destemmed before fermentation, giving the wine high tannins and a vegetal aroma. The winemaker can even leave them in if they desire higher tannins. But, this is only done if the stems have started to turn brown.",n
+209,119,p,"In the case of a delicate red wine like Syrah , the grapes are usually not crushed. This helps in maintaining the aromas of the fruit.",n
+213,119,p,"Once the grapes are destemmed and crushed, the red and rose wine grapes are left to macerate to help the wine gain color and tannins.",n
+215,119,h3,Pressing,n
+217,119,p,"After crushing, the pomace is pressed to separate the grape skins from the juice.",n
+219,119,p,"When the grapes are pressed, the pomace releases a considerable amount of juice called free-run juice. What is left is called the pressed juice.",n
+221,119,p,The free-run grape juice is usually of higher quality than the pressed juice - and this is what most winemakers use for winemaking.,n
+223,119,p,Some winemakers use press grape juice to produce commercial wine. It is more tannic and has stronger herbal notes.,n
+225,119,p,"Depending on the style, the pressing can take place at different times during wine making.",n
+226,119,ul,,n
+228,226,li,"For red wine, the must is pressed after the primary fermentation to help the red wine extract tannins from the red grape skins.",n
+230,226,li,the grape takes place before fermentation.,n
+234,119,h3,Fermentation,n
+236,119,p,using natural yeast to convert grape juice to wine.,n
+238,119,p,The fermentation process takes place in three steps.,n
+240,119,h4,A. Primary Fermentation,n
+242,119,p,Primary or alcoholic fermentation is when the wine yeast eats the sugar in the grape juice and releases carbon dioxide and alcohol.,n
+244,119,p,"Most of the time, the primary fermentation begins naturally in crushed grapes - thanks to the wild yeast present on the grape skin.",n
+246,119,p,"But wild yeast yields unpredictable results, leading to incomplete fermentation and a vinegar-like odor. That’s why most winemakers use cultured yeast.",n
+248,119,p,how alcoholic fermentation works in wine making:,n
+249,119,ul,,n
+251,249,li,The yeast cells multiply and start to feed on the sugars in the fruit juice.,n
+253,249,li,The winemaker maintains a temperature ofoC andoC,n
+255,249,li,"The alcohol levels of the wine depend on the sugar content. In general, around 16-19 grams of sugar per liter produces wine with 1% ABV.",n
+257,119,p,"If the wine doesn’t reach the desired sugar level, the winemaker can add sugar to the juice to help increase the alcohol levels.",n
+259,119,p,"Yeast cannot survive in high alcohol levels. So, as the alcohol levels rise, the yeast becomes dormant, and the fermentation stops.",n
+261,119,p,"For a dry wine, most of the sugar is fermented, while for sweet wines, the wine is left with residual sugar.",n
+263,119,h4,B. Cold Stabilization,n
+265,119,p,"After alcoholic fermentation, the winemaker performs cold stabilization.",n
+267,119,p,It is a process that reduces tartrate crystals in the wine. They appear as sediment in the wine.,n
+269,119,p,"The wine is chilled for 1-2 weeks. As a result, the crystals separate and stick to the edges of the fermentation vessel. Then, the wine is drained, leaving the crystals behind.",n
+271,119,h4,C. Malolactic Fermentation,n
+273,119,p,Malic acid can be harsh and bitter on the palate - which makes the wine unpleasant to drink.,n
+275,119,p,Malolactic fermentation is the process of converting malic acid to lactic acid and carbon dioxide. It also helps to reduce the acidity of the wine. Here’s how it works:,n
+276,119,ul,,n
+278,276,li,The wine is stored in an airlock fermentation tank to avoid contact with air to prevent oxidation.,n
+280,276,li,"Proteins in the grapes break down, and the yeast cells and other fine particles settle down at the bottom of the fermentation vessel - resulting in a clear wine.",n
+282,119,p,This fermentation process takesmonths.,n
+284,119,p,"While red wine goes through malolactic fermentation to loosen the acid, not all white wines are subjected to this process.",n
+286,119,p,"Lighter and aromatic white wines like Riesling generally don’t go through malolactic fermentation. But for fuller whites like Chardonnay , malolactic fermentation helps them gain buttery textures.",n
+293,119,h3,Clarification,n
+295,119,p,"After the fermentation process, the wine is left in the fermentation tank with precipitates that settle at the bottom of the fermenting vessel.",n
+297,119,p,"To get rid of these sediments, the winemaker performs clarification, where the wine is transferred from one barrel to another. Some winemakers use filters to clarify the wine, but it can affect the flavors of the wine.",n
+299,119,p,"Winemakers also perform fining to clear their wines. In this process, substances like egg whites and clay are used to precipitate the solids and help them settle at the bottom of the vessel.",n
+302,119,h3,Aging And Bottling,n
+304,119,p,"Next, the winemaker can either bottle the wine immediately , or age it to let the wine gain its natural flavors",n
+310,119,p,the following:,n
+311,119,ul,,n
+317,311,li,Stainless steel tanks,n
+320,311,li,Large wooden ovals,n
+323,311,li,Small oak barrels,n
+325,119,p,"The choice is made based on the type of wine, its tannin structure, and the winemaker’s preferences.",n
+327,119,p,"For example, if the wine maker wants the wine to have wooden and earthy notes, they would age the wine in new oak barrels.",n
+329,119,p,"Also, some wines like Tawny Port are aged in wooden barrels",n
+333,119,p,"Not only this, the wine maker can also add additives like sulfites before bottling. Potassium sorbate is especially useful for sweet wines as it prevents fungal growth.",n
+335,119,p,"The wine goes through continuous checks during the winemaking process including pH, acidity, residual sugar, sulfur , and alcohol percentage. It helps the winemaker monitor the quality of wine and make the best wine making decisions.",n
+337,119,p,But it’s important to note that the winemaking process tends to differ for different types of wines. A sparkling wine making process can vary from a dessert wine making process.,n
+340,119,h2,Variations In The Wine Making Process,n
+342,119,p,different wines differ:,n
+345,119,li,"For sparkling wine like Champagne , the wine goes through a secondary fermentation in the bottle. This produces extensive carbon dioxide that gets trapped in the wine, giving it a sparkling appearance.",n
+351,119,p,"Additionally, these sparklers spend around six months on the riddling table to settle the sediment at the bottom of the bottle.",n
+352,119,ul,,n
+354,352,li,"For sparkling wine like Prosecco , secondary fermentation takes place in stainless steel tanks.",n
+358,352,li,"In the winemaking process of dessert wine, the fermentation is halted before all the sugar is converted into alcohol. This residual sugar gives the wine a sweet flavor.",n
+360,119,p,It can also be done by,n
+361,119,ul,,n
+363,361,li,Adding sulfur to the wine,n
+365,361,li,Through sterile filtration,n
+367,361,li,Freezing the grapes to concentrate the sugar,n
+371,361,li,noble rot that dehydrates the grapes,n
+373,361,li,By drying the grapes on a straw mat.,n
+376,119,li,"In fortified wines like Port , the winemaker adds spirit to stop the fermentation of the wine at the desired sugar level.",n
+380,119,p,"Now, how about making some wine at home?",n
+382,119,p,"Here’s how you can emulate the elaborate winemaking process at home, easily.",n
+385,119,h2,Making Wine At Home,n
+387,119,p,Get ready for some fun and adventure by making your own wine at home! All you need for your home wine is some wine making equipment like a fermenting bucket or glass carboy and a hydrometer.,n
+389,119,h3,15 Things You’ll Need to Make Wine At Home,n
+391,119,p,winemaking equipment you’ll need:,n
+392,119,ul,,n
+394,392,li,A fermenting bucket or a carboy,y
+396,392,li,A gallon jug,y
+398,392,li,A funnel,y
+400,392,li,Fermentation lock,y
+402,392,li,A cork or wine stopper,y
+404,392,li,Large straining mesh sack,y
+406,392,li,Hand corker,y
+408,392,li,About 6 feet plastic tube,y
+412,392,li,Pre-sanitized corks,y
+414,392,li,A hydrometer,y
+416,392,li,Wine grapes,y
+418,392,li,Granulated sugar,y
+420,392,li,Filtered water,y
+422,392,li,wine yeast,y
+424,119,p,You can buy a wine kit to get your hands on all these ingredients. Home winemaker kits contain all the necessary wine making equipment and ingredients we mentioned above.,n
+426,119,p,You can easily buy a good wine kit online.,n
+428,119,p,"Besides a winemaking kit, you can also get hold of Campden tablets , enzymes, and yeast nutrient for your home wine to enhance its flavors and help it last longer.",n
+430,119,p,"Now that you have everything you need, let’s start making homemade wine.",n
+432,119,h3,Steps To Make Wine At Home,n
+434,119,p,The home winemaking process involves the following steps. Make sure to use a sanitizer before using any equipment.,n
+435,119,ul,,n
+437,435,li,the winemaking process is to wash the wine grapes and remove the stems.,n
+439,435,li,"Now, add them to the fermenter and, getting your hands dirty, crush the grapes to release the juice.",n
+441,435,li,"To this must, add the wine yeast.",n
+443,435,li,"Then, insert the hydrometer into the must. If the reading falls below 1.010, add sugar into the must. For this, dissolve around 900 grams of sugar in filtered water and add it into the must.",n
+445,435,li,Cover the fermenter with a cloth and let the must ferment,n
+447,435,li,"When the sediment settles down, slowly strain the fruit juice to remove the residue.",n
+449,435,li,"Next, add the grape juice to a gallon jug for the secondary fermentation process. Fill the container to the top to reduce air contact and fit it with a fermentation lock.",n
+451,435,li,Now comes the long wait! Let the wine ferment,n
+453,435,li,Use the clear pipe to siphon the wine into clean glass containers as the sediment collects at the bottom,n
+455,435,li,"Once the wine is clear, pour it into wine bottles using the funnel. Make sure not to fill the bottle entirely.",n
+457,435,li,"Now, insert the cork and let your wine shine on your wine rack or at the dinner table!",n
+459,119,p,"To get the best of your wine’s flavors, store your homemade wine at about 55oF and drink it after a year or six months",n
+461,119,p,You can also go a step further and experiment with your homemade wine by using other fruit varieties. A brilliant fruit wine to try is blackberry wine.,n
+463,119,p,"Making wine at home is super-fun, but if you don’t want to wait for months or years to enjoy great wine, you can always buy some delicious beverages from the world’s best wineries.",n
+464,119,p,,n
+465,464,text,"Also, if you’re looking",n
+467,464,strong,store,n
+468,464,text,and maybe even,n
+470,464,strong,sell,n
+471,464,text,", then you’ve got to look",n
+473,119,p,"However, finding the right one, getting it shipped, and arranging proper storage can be cumbersome.",n
+474,119,p,,n
+475,474,text,But what if we tell you there’s a,n
+477,474,strong,much,n
+479,474,strong,easier way to add exotic wines to your collection right from your home,n
+480,474,text,without having to sweat it out?,n
+483,119,h2,Buy The Best Wines From Across The Globe Through Vinovest,n
+485,119,p,,n
+486,485,text,Vinovest is,n
+489,485,strong,an online wine investment firm,n
+490,485,text,"that helps you buy the greatest wines from around the world with just a few clicks of your mouse - be it from California, Burgundy or Bordeaux .",n
+493,119,p,,n
+494,493,text,Vinovest will also help you,n
+496,493,strong,store,n
+497,493,text,your wine in,n
+499,493,strong,temperature-controlled warehouses,n
+500,493,text,",",n
+502,493,strong,deliver,n
+503,493,text,"it at your doorstep , and help you",n
+505,493,strong,sell,n
+506,493,text,it to the right buyer so you gain the maximum returns.,n
+508,119,p,The best part?,n
+510,119,p,Every bottle you buy through Vinovest is covered,n
+512,119,p,"And all of this for an annual fee of a mere 2.85%, which is reduced to 2.5% for a portfolio of $50,000.",n
+514,119,p,All you need to do is sign up on the Vinovest website and enter your investment preferences!,n
+519,119,h2,Build a Stellar Wine Collection Easily,n
+521,119,p,"The art of wine making has been perfected through centuries of experimentation, passion, and sheer love for the drink.",n
+523,119,p,You can recreate this intricate wine-making process at home using the steps we showed you.,n
+525,119,p,"And, if you want to build a fine portfolio of wines for long-term investing, just sign up with Vinovest right away!",n
+530,46,div,,n
+532,530,h4,Written by,n
+534,530,h2,Hunter Robillard,n
+536,530,div,"Portfolio Advisor at Vinovest with experience in both the fine wine and high end spirits industry. Previously helped wineries, distilleries, and breweries around the world with their production equipment needs. Avid kayaker, skier and a self proclaimed BBQ expert.",n
+538,0,div,,n
+540,538,h3,Related articles,n
+541,538,div,,n
+544,541,h2,Harlan Estate,n
+547,541,div,,n
+549,547,h2,Asti Spumante,n
+551,547,div,BY David Butler,n
+554,541,h2,How To Build A Wine Collection,n

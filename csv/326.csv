@@ -1,0 +1,106 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+98,1,div,,n
+100,98,div,,n
+105,100,h1,The Best Swim Equipment,n
+106,100,div,,n
+108,106,span,No Comments,n
+110,106,span,9 Mins Read,n
+115,98,div,,n
+118,115,div,,n
+120,118,p,"If you’re new to swimming, all of the gear can be overwhelming! Do you need a fancy pair of goggles? Which swimsuit is best? What about fins?",n
+124,118,p,"To help you sift through all the options and find the best swim equipment, we put together a list of our top 3 essentials, plus 6 more optional items you can add to your swim bag to improve technique, build strength and swim faster. Check out our favorite equipment on Amazon >",n
+130,118,h4,Swim Gear,y
+132,118,p,"For beginners, we recommend that you start with these 3 items, at a minimum:",n
+135,118,h4,Swimsuit,y
+137,118,p,"Your suit should be form fitting, comfortable and easy to swim in. That could mean a variety of things:",n
+139,118,p,"For women, one-piece suits or two-piece bikinis are popular, but you could also make a sports bra and shorts work in a pinch.",n
+145,118,p,Get Discounts on Our Favorite Brands!,n
+147,118,p,"For men, a speedo, jammer , or classic swim trunks work well. If you choose to wear swim trunks, make sure they are snug around the waist.",n
+152,118,h4,Swim Cap,y
+154,118,p,"A cap is optional, but we highly recommend one for people with long hair. Wearing a cap keeps your hair out of your face, and reduces drag to help you swim faster.",n
+156,118,p,"If you have short hair, a cap is still a great option! Take advantage of those drag-reducing benefits.",n
+162,118,p,Why You Should Wear a Swim Cap,n
+164,118,p,"It’s important to note that swim caps do not keep your hair dry — most caps are designed to just keep your hair out of your face, so your hair will still get wet.",n
+166,118,p,"When you wear a swim cap, make sure the seam at the top of the cap goes across the center of your head, from forehead to neck, rather than from ear to ear. If there’s a logo on the side of the cap, it should be on the side of your head!",n
+169,118,h4,Goggles,y
+171,118,p,"Most swimmers didn’t wear goggles back in the day, but nowadays they are a must for swimmers of all levels. Goggles protect your eyes from chlorine and make it easier to see while you swim.",n
+174,118,p,"Goggles come in a variety of sizes and varieties, so make sure to test out a few pairs to find the ones you like best. Your goggles should fit snug to your face, and should not fall off when you dive in or push off the wall. Most brands come with various nose piece sizes to help you customize the fit. If you wear glasses or contacts, check out prescription goggles!",n
+177,118,h4,6 More Swim Equipment Essentials,y
+179,118,p,"Once you have your suit, cap and goggles, consider adding some extra equipment to your swim bag to take your training to the next level.",n
+181,118,p,"The following items are all optional to use in your training, but can have a huge impact your speed and performance. If you’re unsure about how to use equipment in your swim training, check out the MySwimPro app ! Our Guided Workouts include equipment suggestions to help you incorporate the gear you have and maximize your time in the water. Start your Personalized Training Plan with a subscription of MySwimPro Coach.",n
+187,118,h4,Fins,y
+189,118,p,"Fins are a fantastic piece of equipment for beginner, intermediate, advanced and even elite swimmers. They come in a lot of different sizes, shapes, colors and flexibilities, but there are two main kinds of fins: short and long fins.",n
+191,118,p,Short fins are only a few centimeters longer than your foot. Long fins are more like scuba fins and they might be half a meter longer than your foot.,n
+197,118,p,Swimming with Fins,n
+199,118,p,"Longer fins are designed to help develop your underwater dolphin kick, or to be used when scuba diving or snorkeling. If you’re in the pool and you’re more focused on improving your technique, go with shorter fins because they more closely mimic how you would actually swim.",n
+201,118,p,"Short fins give you a little bit of extra propulsion and keep your body higher in the water, which can help you swim faster and develop your technique.",n
+205,118,p,Related,n
+208,118,p,"When shopping for your first pair of fins, get a pair that is flexible and comfortable. The more flexible the fin, the more beginner friendly it is. You might not go quite as fast with a flexible fin as you would with a stiffer one, but you’ll definitely go faster and will be able to work on drills and kicking.",n
+211,118,h4,Kickboard,y
+213,118,p,"Kickboards aren’t required to do kick sets, but they can be a great option to vary how you kick and to practice certain drills.",n
+216,118,p,"If you’re on the fence about which equipment to buy first, we recommend starting with a pair of fins, and then getting a kickboard later on. You can do streamline kick on the stomach or back to incorporate kick without a board!",n
+219,118,h4,Pull Buoy,y
+221,118,p,"Many beginner swimmers struggle with sinking legs — and that creates tons of drag! A pull buoy helps fix that so you can swim faster and learn proper body position. When you use a pull buoy between your legs, it floats your hips up to the surface, allowing you to move through the water more efficiently.",n
+224,118,p,"Some swimmers, especially beginners, can swim a lot faster with the help of a pull buoy. While you don’t want to rely on it all the time, a buoy is a great tool to help you work on technique and body position. We highly recommend a pull buoy after you’ve gotten a pair of fins.",n
+227,118,h4,Snorkel,y
+229,118,p,"We’re not talking about your usual beachside snorkel here…a swimming snorkel goes in front of your face rather than to the side, and is a great addition to technique and drill sets.",n
+233,118,p,Related,n
+236,118,p,"Stick the snorkel in your mouth, secure the straps on your head and swim normally, breathing through the tube!",n
+238,118,p,"When you swim with a snorkel, you don’t have to worry about turning or lifting your head to breathe. This gives you the opportunity to focus on head position, body position, catch and rotation. It’s super valuable to work on these aspects of technique without interruption from the breath.",n
+240,118,p,"When used regularly, a snorkel can also help increase your aerobic capacity. Breathing through a tube for an extended period is more difficult than breathing normally, which helps you develop more stamina and breath control in the water.",n
+243,118,p,"You’ll feel this immediately the first time that you swim with a snorkel. We recommend doing 4×25 freestyle or 8×25 freestyle to get started. Eventually you’ll work your way up to doing turns or maybe doing 50s or 75s, but start small at first!",n
+245,118,p,"To really get the full aerobic benefits of a snorkel you have to use it for a good amount of your workout, ideally between 30 and 50%.",n
+248,118,h4,Paddles,y
+250,118,p,"Next up we have paddles. Paddles come in all shapes and sizes, and slide onto your hands to help increase the surface area of your hand when you pull. Think of paddles like fins for your hands!",n
+252,118,p,"Paddles help you swim faster due to that increased surface area, but they also add resistance which will help you get stronger over time.",n
+258,118,p,3 Ways to Improve Your Swimming Pull,n
+260,118,p,"We don’t recommend paddles if you’re an absolute beginner, because you’re still working on your technique. Fins are your best bet before getting paddles.",n
+262,118,p,"Once you’ve gotten into the rhythm of things and you’re trying to take it to the next level, then we recommend getting a small pair of paddles.",n
+264,118,p,"Ideally, you’ll start smaller rather than larger, because paddles introduce a lot of stress on your shoulders. If you don’t have the right technique, using paddles that are too big could put you at risk for injury.",n
+266,118,p,"It’s important to note that paddle size has nothing to do with how big your hands are. It’s all about how strong you are! As you get stronger you can work your way up to larger paddles that are maybe the size of your full hand, or slightly larger.",n
+269,118,h4,Smartwatch,y
+271,118,p,"Last on our list is a smartwatch! As you start to get more into swimming, a smartwatch can help you track your laps and see your heart rate, but there’s more to it. You can also get guided workouts, and that’s really when you take your swimming to the next level.",n
+274,118,p,You’re not just swimming back and forth — you’re following a series of sets that help you progress toward your goals and maximize your time in the water.,n
+276,118,p,"Time is the most valuable thing we have, and we want to make sure we’re really taking advantage of every minute in the pool. If you’re looking to take your swimming to that next level, check out the MySwimPro app on for iPhone and Android!",n
+280,118,p,"You can continue doing the same workout routine over and over hoping to swim faster, or you can swim with MySwimPro Coach and follow a structured Training Plan that is 100% specific to you with personalized Workouts, technical instruction and support every step of the way.",n
+284,118,p,And it all costs less than your pool membership!,n
+286,118,p,"If this sounds like the program you’ve been looking for to swim faster, improve your technique, and take your swimming to the next level, download the MySwimPro app and get started! Use code SWIM35 to save $35 on your first year of MySwimPro Coach .",n
+292,118,p,smartwatches that are compatible with the MySwimPro app >,n
+294,118,p,equipment during your swims? Share in the comments!,n
+297,115,div,,n
+299,297,span,Share.,n
+300,297,span,,n
+302,300,span,WhatsApp,n
+304,300,span,Email,n
+314,300,span,Reddit,n
+315,115,section,,n
+316,315,div,,n
+318,316,span,Previous Article,n
+320,316,span,Meet Carol Caldas | MySwimPro Video Editor,n
+321,315,div,,n
+323,321,span,Next Article,n
+325,321,span,4 Ways to Swim Faster with Less Effort,n
+326,115,section,,n
+328,326,h4,,n
+329,328,text,Related,n
+331,328,span,Posts,n
+334,326,div,,n
+341,334,h2,6 Reasons Swimming is the Best Lifelong Sport,n
+352,334,h2,5 Swimming Mistakes Triathletes Make,n
+361,334,div,,n
+363,361,h2,"Try This 1,500m USRPT Swim Workout",n
+366,361,div,2 Mins Read,n
+371,115,p,Comments are closed.,n
+391,1,div,SoundCloud,n
+395,0,div,,n
+398,395,button,Submit,n
+400,395,p,Type above and press Enter to search. Press Esc to cancel.,n
+406,0,div,Go to mobile version,n
+409,0,span,Sumo,n
+419,0,div,,n
+430,419,div,Sign Me Up!,n
+435,419,p,Sign up and get $35 off!,n
+440,419,p,swim training with MySwimPro Coach!,n
+453,419,p,POWERED BY,n

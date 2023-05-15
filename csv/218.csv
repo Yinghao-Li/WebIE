@@ -1,0 +1,45 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+4,2,div,Home ARTS Visual Art Supply Lists,n
+9,2,div,,n
+11,9,span,Calendar,n
+13,9,span,Tickets,n
+15,9,span,Powerschool,n
+17,9,span,Directory,n
+19,9,span,Agenda,n
+21,9,span,Report an Absence,n
+23,9,span,Donate,n
+25,9,span,COVID-19,n
+26,0,div,,n
+27,26,div,,n
+32,27,h3,Grade Level Supply Lists,n
+39,27,div,,n
+41,39,div,We expect all students to handle their supplies and materials with respect. They are responsible for setting up and cleaning up materials and tools every day. Waste and misuse are unacceptable. Please review the lists below to see what your student should bring to class.,n
+43,39,div,,n
+45,43,strong,Note,n
+46,43,text,"Although comprehensive as possible, some supplies may have to be replenished throughout the school year, purchased through the department, or added to the list if requested by an instructor.",n
+47,39,ul,,n
+49,47,li,6th Grade Art Supply List,n
+51,47,li,7th Grade Art Supply List,n
+53,47,li,8th Grade Art Supply List,n
+55,47,li,9th Grade Art Supply List,n
+57,47,li,10th Grade Art Supply List,n
+59,47,li,11th Grade Art Supply List,n
+61,47,li,12th Grade Art Supply List,n
+74,26,li,,n
+76,74,text,ARTS,n
+77,74,ul,,n
+79,77,li,Dance,n
+81,77,li,Digital Media,n
+83,77,li,Fashion Design,n
+85,77,li,Instrumental Music,n
+87,77,li,Literary Arts,n
+89,77,li,Production Design,n
+91,77,li,Theatre,n
+92,77,li,,n
+94,92,text,Visual Art,n
+95,92,ul,,n
+97,95,li,Courses,n
+99,95,li,Supply Lists,n
+101,77,li,Vocal Music,n

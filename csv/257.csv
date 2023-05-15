@@ -1,0 +1,100 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+9,2,h2,These are the essential paint supplies you need to paint any room in your home and a couple tips to make it even easier!,n
+24,2,p,"From college rentals to downtown condos, I’ve painted my share of rooms. All of our bedrooms and bathrooms have been painted in the last couple years. Needless to say I’m a fan. It’s an easy and affordable way to spruce up a space. While I’ve hired painters from time to time, I’ve found that with the right supplies, I can pull off a pretty good paint job all on my own. There’s such a wide variety of paint supplies out on the market so it can be confusing to know what’s necessary and what’s not. After years of testing out some great products and some why did I buy that ones, I’ve really slimmed down my paint supplies to the tried and true essentials.",n
+28,2,p,"Here’s a list of items that I use for pretty much every paint job that I do. The links in each row will take you to the exact product that I use. While I often don’t splurge on items, I’ve found the hard way that not all paint products are created equal. Oh and for a nice bottle of wine, I’m for hire #kiddingnotkidding",n
+57,2,h2,My Favorite Paint Supplies,n
+58,2,p,,n
+60,58,strong,1,n
+61,58,text,Paper Towels | I always like to have some on hand,y
+63,2,p,,n
+65,63,strong,2,n
+66,63,text,Paint Tray | Essential for using wall rollers. No need for pricey ones as the cheap ones do the trick just as well.,y
+68,2,p,,n
+70,68,strong,3,n
+71,68,text,Paint Can Opener | I used to use a butter knife to open my paint cans. A cheap paint can opener is WAY better .,y
+74,2,p,,n
+76,74,strong,4,n
+77,74,text,"Tiny brushes | If you’re painting a space that has some small areas or tricky edges , use a tiny paint brush for touch ups.",y
+91,2,p,,n
+93,91,strong,5,n
+94,91,text,Painter Tape | I typically don’t use painters tape for edges as I never remember to pull the tape off before the paint dries . But when I painted my bathroom I did put tape around our shower and sink counters to protect the spaces.,y
+96,2,p,,n
+98,96,strong,6,n
+99,96,text,"Paint Edger | Hands down my favorite item. Since I don’t use painters tape all the time, this is my go-to item to paint edges. I was skeptical at first, scared to try anything outside of painters tape. Since we have orange peel walls throughout our home, I’ve found that a paint edger ends up working MUCH better.",y
+101,2,p,,n
+103,101,strong,7,n
+104,101,text,"Drop Cloth | No matter how hard I try to not spill any paint, it always happens. I used to simply put down garbage bags, but soon realized that a drop cloth, even a cheap one, was a worthwhile purchase.",y
+109,2,p,,n
+111,109,strong,8,n
+112,109,text,"Ladder | No matter how tall you are, a ladder is helpful for those hard to reach high corners and edging.",y
+115,2,p,"9 Paint Roller Frame | After painting the edges with a paint edger and corners with a small brush, I always use a paint roller on the walls no matter how small the space. Paint application will look much more even and it takes a fraction of the time than using a paintbrush.",y
+118,2,p,,n
+120,118,strong,10,n
+121,118,text,"Roller Refills | I splurge on paint roller refills. Too many times I’ve purchased cheap ones only to find the fuzz from the roller permanently ending up on my walls. Semi-smooth work best for textured walls , while smooth are best for flat walls.",y
+129,2,p,,n
+131,129,strong,11,n
+132,129,text,Paint Can Lid | This was a game changer for me. It prevents paint from dripping all along the side of the can when pouring paint into the paint tray. Thus preventing the inevitable paint mess all over the floor.,y
+134,2,p,,n
+136,134,strong,12,n
+137,134,text,"Paint Roller Extension Pole | I resisted from purchasing one of these for way too long. Once I finally bit the bullet and bought one, my painting time cut down significantly. As well as the mess I was making. If you have an extension pole, there’s also less need for a ladder.",y
+139,2,p,,n
+141,139,strong,13,n
+142,139,text,Small Angled Brush | Your roller and edger won’t get into the crevasses so a small brush is needed. I always get one that’s angled as it makes the job much easier.,y
+146,2,p,,n
+148,146,strong,14,n
+149,146,text,"Paint Pail | When painting corners or touching up tiny spaces with a paint brush, lugging a can of paint is not only heavy, but often messy. Having a smaller bucket to pour a portion of paint in makes the job significantly easier.",y
+155,2,div,,n
+157,155,button,<,n
+189,155,button,>,n
+194,2,h2,Painting Tips,n
+196,2,p,Use a hammer AND an old towel when closing up a paint can. Place the lid on top of the can and put a towel over the lid. Then place the towel over top. Softly hammer the sides of the lid closed. The towel will prevent extra paint from splattering everywhere .,n
+198,2,p,Smart paint storage is important after you finish painting a room. You’ll want to make sure you remember which paint can goes with which room and ensure you know the exact color used. Earlier in the year I got my paint cans all organized and labeled .,n
+202,2,p,"Use a ziplock bag to put outlet covers and screws in before you start painting. Between the drop cloth and all the paint supplies scattered throughout the room, it can be tricky to find tiny pieces. Plus it’s super annoying to search a room for a tiny screw!",n
+204,2,p,"If your walls are dirty or in a high traffic area, it’s a good idea to clean them before painting. No matter how much I clean our home, we end up with lots of dog hair throughout the house. I didn’t think Reagan spent a lot of time in our bathroom , but sure enough dog hair finds its way there. A quick wipe down with a damp rag and a little time to dry did the trick.",n
+208,2,p,"For most paint jobs, you’ll need two coats. While waiting for the first coat to dry, I put my roller and paint brushes inside a ziplock bag that’s placed in the freezer. This prevents the paint from drying and the brushes from getting damaged. Ten minutes before I’m ready to paint the second coat, I take the brushes out of the freezer to thaw.",n
+210,2,p,Prevent layers of paint from drying on to your paint tray by lining with aluminum foil before pouring in the paint. Once you’re done painting simply let the remaining paint dry on to the aluminum and then throw it away!,n
+213,2,p,Any paint supplies that you love?,n
+220,2,div,,n
+235,220,div,Subscribe,n
+238,220,div,,n
+240,238,h4,ALMOST Finished!,n
+242,238,p,,n
+243,242,text,We sent you a quick email to confirm that you want to join. Head over to your email,n
+245,242,strong,NOW,n
+246,242,text,to get your free organizational printables.,n
+252,238,p,Follow along on social media,n
+254,238,p,,n
+256,254,strong,Facebook,n
+258,254,strong,Instagram,n
+260,254,strong,Twitter Pinterest,n
+266,2,ul,,n
+268,266,li,Labeling Paint Cans,n
+270,266,li,Toiletry Organizing Secret,n
+272,266,li,4 Easy Room Update Ideas without a Complete Remodel + GIVEAWAY!,n
+274,266,li,Spray Painted Coffee Mugs,n
+276,0,div,,n
+277,276,div,,n
+279,277,span,Previous Post,n
+281,277,span,« Favorite Apps,n
+282,276,div,,n
+284,282,span,Next Post,n
+286,282,span,10 Things People Do Who Always Arrive On Time »,n
+288,0,h2,Reader Interactions,n
+289,0,div,,n
+291,289,h3,Comments,n
+294,289,li,,n
+297,294,p,"Paint roller tape is what I’ve been trying to find through the internet, but I just can’t remember the name. Thanks for the reminder of what’s it’s called and some few tips! I especially like how you mentioned about paint roller extension poles are worth the money since it can cut down the painting time and mess significantly. That’s perfect since my wife and I are planning to repaint our garage this weekend. I’ll go buy the supplies later so that we’ll be ready.",n
+299,294,div,Reply,n
+300,0,div,,n
+301,300,h3,,n
+302,301,text,Leave a Reply,n
+304,301,small,Cancel reply,n
+305,300,form,,n
+308,305,p,Your email address will not be published.,n
+311,305,p,Recipe Rating,n
+321,305,p,Comment,n
+325,305,p,Name,n
+329,305,p,Email,n
+333,305,p,Website,n

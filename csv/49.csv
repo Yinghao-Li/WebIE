@@ -1,0 +1,63 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,h1,Welcome to the University Lowbrow Astronomers.,n
+4,0,h3,Use the following links to find out more about us.,n
+5,0,ul,,n
+6,5,li,,n
+8,6,strong,Follow us on Facebook,n
+10,6,text,"Get information about the club, events, photos, and more.",n
+11,5,li,,n
+13,11,strong,Follow us on Twitter @LowbrowAstro,n
+15,11,text,"Get updates from the Lowbrow blog, event status, and more.",n
+18,5,li,Request an Event,n
+21,5,li,,n
+23,21,strong,Open Houses and Announcements,n
+24,21,text,"open houses, other events and general announcements.",n
+25,5,li,,n
+27,25,strong,The Lowbrow Blog,n
+28,25,text,astronomy written by club members.,n
+29,5,li,,n
+31,29,strong,The Club,n
+32,29,text,club activities and how to join the club or renew your membership.,n
+33,5,li,,n
+35,33,strong,Astrophotos,n
+36,33,text,Photographs and sketches from club members.,n
+40,5,li,Club Activities.,n
+44,5,li,Club Members.,n
+45,5,li,,n
+47,45,strong,The Telescope,n
+48,45,text,Information about Peach Mountain Observatory and the 24” McMath telescope .,n
+49,5,li,,n
+51,49,strong,Attention School Teachers,n
+52,49,text,We are available to assist with astronomy events at your school!,n
+53,5,li,,n
+55,53,strong,Can’t See Many Stars From Your Neighborhood?,n
+56,53,text,Find out why.,n
+57,5,li,,n
+59,57,strong,Observer’s Guide,n
+60,57,text,Just starting with astronomy and want to know how to find your way around the night sky? Or have you been observing for a while and want some suggestions for new things to look at? Read the University Lowbrow Astronomer’s Observer’s Guide.,n
+61,5,li,,n
+63,61,strong,Newsletter,n
+64,61,text,"Read selected articles from Reflections of the University Lowbrow Astronomers . Articles include discussions of astronomy equipment, observing tips and other astronomical topics.",n
+67,5,li,,n
+69,67,strong,Book List,n
+70,67,text,astronomy books.,n
+71,5,li,,n
+73,71,strong,Members Only,n
+74,71,text,"Members only section, requires an id and password.",n
+75,5,li,,n
+77,75,strong,Search,n
+78,75,text,Use the lowbrow search engine to find materials on this site.,n
+79,5,li,,n
+81,79,strong,Other Links,n
+82,79,text,Links to other astronomy resources .,n
+84,0,h3,Night Sky Network,n
+87,0,p,The University Lowbrow Astronomers has been selected by NASA to be a member of the Night Sky Network. More information about the Night Sky Network.,n
+90,0,h3,Club Motto,n
+93,0,h5,"Before you can see the light, you have to deal with the darkness.",n
+95,0,h3,Copyright Info,n
+97,0,h5,"Copyright © 2018, the University Lowbrow Astronomers. .",n
+99,0,h5,University Lowbrow Astronomers Privacy Policy,n
+101,0,h5,"This page revised Friday, December 20, 2019 4:48 PM .",n
+105,0,h5,This web server is provided by the University of Michigan; the University of Michigan does not permit profit making activity on this web server.,n
+107,0,h5,Do you have comments about this page or want more information about the club? Contact Us.,n

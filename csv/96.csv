@@ -1,0 +1,45 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+7,5,div,Blog Menu,n
+9,5,div,,n
+12,9,section,,n
+13,12,div,,n
+15,13,p,Unsure what cricket gear your child will need,n
+17,13,p,cricket equipment with images to help you know what's what.,n
+19,13,p,"Required equipment depends on the cricket club. They will let you know what is compulsory. Some clubs lend out cricket gear, while others require that the player has their own.",n
+21,13,h2,Cricket Equipment Checklist,n
+23,13,p,We've put together a cricket equipment shopping list so that you won't forget anything! Download a printable PDF of our free cricket equipment checklist .,n
+28,13,h2,Clothing,y
+30,13,p,"Cricket players wear white collared shirts and long trousers, a sun hat and rubber or spiked cricket shoes.",n
+32,13,h2,Batsman Gear,y
+34,13,p,"The essential gear for a batsman are a helmet, bat, batting gloves, leg pads and abdominal guard . Your child may also want to wear a forearm guard, mouth guard and or or thigh guard, which is highly recommended.",n
+36,13,h2,Wicket Keeper Gear,y
+38,13,p,The main gear,n
+40,13,h2,Cricket Bags,y
+42,13,p,They may also want a cricket bag to carry all of their equipment in. These come with straps and or or wheels to make it easy to transport gear to and from training and cricket matches.,n
+44,13,h2,Cricket Equipment Name Diagram,n
+47,13,h2,How To Choose A Cricket Bat,n
+49,13,p,"To work out how to choose a cricket bat, see our cricket bat size guide .",n
+52,12,div,,n
+53,52,text,0 comments,n
+54,52,ul,,n
+56,54,li,Tags,n
+58,54,li,Cricket,n
+60,54,li,Kids Cricket,n
+61,9,footer,,n
+69,61,li,,n
+71,69,span,6,n
+72,69,text,Save,n
+77,61,ul,,n
+79,77,li,← Older Post,n
+81,77,li,Newer Post →,n
+82,61,div,,n
+84,82,h3,0 comments,n
+87,82,div,,n
+91,87,h3,Leave a comment,n
+93,87,div,,n
+96,93,div,Name,n
+100,93,div,Email,n
+104,93,div,Message,n
+107,93,p,"Please note, comments must be approved before they are published",n

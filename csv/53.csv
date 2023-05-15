@@ -1,0 +1,69 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,article,,n
+3,1,div,,n
+4,3,div,,n
+15,4,div,,n
+17,15,h1,Choose your rhythmic gymnastics apparatus,n
+22,15,div,"New,",n
+31,4,div,,n
+32,31,text,By,n
+35,31,span,Seth Rosenthal,n
+38,31,span,"Aug 19, 2016, 2:12pm EDT",n
+46,31,span,,n
+47,46,text,or,n
+51,46,span,new,n
+56,3,div,,n
+58,56,h2,Share this story,n
+59,56,ul,,n
+62,59,li,Share this on Facebook,n
+65,59,li,Share this on Twitter,n
+66,59,li,,n
+68,66,span,Share,n
+70,66,span,All sharing options,n
+71,56,div,,n
+73,71,h3,,n
+75,73,strong,Share,n
+77,73,span,All sharing options for,n
+79,73,span,Choose your rhythmic gymnastics apparatus,n
+81,71,ul,,n
+84,81,li,Reddit,n
+89,81,li,Pocket,n
+94,81,li,Flipboard,n
+99,81,li,Email,n
+110,1,div,,n
+112,110,p,"I'm ashamed to admit that I knew little about rhythmic gymnastics before about 20 minutes ago, but now I know at least a Wikipedia page's worth of information about rhythmic gymnastics and wish to discuss it.",n
+114,110,p,"Okay, so rhythmic gymnastics is similar in setup to the floor routine you saw Simone Biles and friends do in artistic gymnastics, with some crucial differences. One is that it can incorporate multiple people at once -- there are both individual and group formats. Another is that the routine incorporates more dance elements than artistic floor exercise. My favorite difference: Rhythmic gymnastics includes the manipulation of one of five apparatuses: ball, rope, clubs, hoop or ribbon. Four of those five apparatuses are sanctioned at a time, and each competitor chooses which one to perform with. It's like an extremely athletic game of Clue .",n
+118,110,p,"Now's the part when we choose. You and I. There will come a future in which each of us must battle on the streets in rhythmic gymnastics, and much like Ninja Turtles, we each must select a weapon. I mean apparatus.",n
+120,110,h3,BALL,y
+124,110,p,"It's a rubber ball about the size of a soccer ball. You spin and flip and jump around while holding it, you do some contact-juggling type stuff with it, you roll it, you bounce it, you throw it super high and catch it .",n
+126,110,p,"If you've got a really nice basketball handle or soccer skills, this is probably",n
+128,110,h3,CLUBS,y
+130,110,p,"These are basically juggling clubs, and you basically juggle them. While doing gymnastics. LOOK AT THIS:",n
+139,110,p,"those tricks get incorporated, too.",n
+143,110,p,"Also, I see no rule specifying they can't be on fire. Just saying.",n
+145,110,h3,HOOP,y
+147,110,p,"Pretty much a hula hoop, and you use it just like a hula hoop on all parts of your body. Again, while doing gymnastics. This is not an easy sport.",n
+153,110,p,"If you've ever gobbled a whole bunch of molly and gotten rowdy at a Disco Biscuits concert, this is for you. I'm not saying you'd be good at it. I just think you might like it. Mimi on the Hoops *would* be good at this.",n
+157,110,h3,RIBBON,y
+159,110,p,"I think of this as the signature rhythmic gymnastics apparatus. This is what Will Ferrell played with in Old School . It's at least 20 feet long and attached to the end of a stick. You have to keep the ribbon moving at all times -- in loops, flicks, snakes, throws and whatnot -- and you can't let it knot or rest on the floor. It looks awesome:",n
+170,110,h3,ROPE,y
+172,110,p,"This one isn't included in the 2016 Olympics, because for some reason competitions can only incorporate four of the five apparatuses:",n
+176,110,p,"If you're really good at jumping rope, I guess this is for you. But I cannot stress enough that you're going to have to dance and perform brilliant gymnastic feats while jumping said rope.",n
+178,110,p,"Okay, time to choose. What's it gonna be?",n
+195,1,div,,n
+200,195,div,Sponsored Content,n
+205,195,div,,n
+213,205,div,,n
+215,213,span,This is the best way to avoid a bad date,n
+217,213,span,Instant Checkmate,n
+248,205,div,,n
+250,248,span,If you're over 40 - this game is a must!,n
+252,248,span,raid,n
+283,205,div,,n
+285,283,span,Most American Chrome Users Didn't Know This,n
+287,283,span,guard.io,n
+318,205,div,,n
+320,318,span,Famous Urologist Says This Pill Can Help Men With Prostate Problems,n
+322,318,span,Prostate Supplement Investigation,n
+354,1,h4,Loading comments...,n

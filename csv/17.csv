@@ -1,0 +1,99 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+7,0,div,,n
+10,7,h1,What To Pack,n
+14,7,p,Surfing,n
+19,0,h6,Home Surfing Packing List,n
+23,0,div,,n
+26,23,p,The packing list below is a general overview of appropriate clothing for your surfing adventures with First Descents. Outfitters will provide all gear and safety equipment including surfboards with ankle straps and wetsuits. Never been surfing? No problem! Our guides will teach you the surfing basics so you’ll be prepared for every wave! Be sure to look at your personal page for packing details specific to your program. Please contact First Descents if you have any questions regarding this packing list.,n
+28,23,h3,Must Haves,n
+29,23,ul,,n
+31,29,li,Water Bottle – 32 oz preferably – no glass,y
+33,29,li,Daypack or Backpack – normal school backpack works fine,y
+41,0,div,,n
+44,41,h3,Clothing,n
+45,41,ul,,n
+47,45,li,"Women – Secure, comfortable swimsuit",y
+49,45,li,"Men – Secure, Swimming Trunks or Board Shorts",y
+51,45,li,Flip Flops or Sandals,y
+53,45,li,Sun Hat,y
+55,45,li,Sunglass with retention strap,y
+57,45,li,Beach Towel,y
+59,45,li,"*Sunscreen* – First Descents will provide some sunscreen, but please bring your own if possible.",y
+60,45,li,,n
+62,60,strong,NO COTTON,n
+63,60,text,on the water – bathing suits should only be synthetic materials,n
+65,41,h3,Why no cotton?,n
+67,41,p,"Cotton is a poor choice for outdoors activities due to its high thermal conductivity . When it gets wet, cotton allows the moisture to sit on your skin, in turn cooling you instead of keeping you warm. In other words, you don’t stay very warm or dry with cotton!",n
+75,0,div,,n
+78,75,h3,Clothing not,n
+79,75,ul,,n
+81,79,li,"Warm, comfortable clothes nights at the lodge may be chilly. Cotton is acceptable.",y
+83,79,li,Comfortable Shoes,y
+85,79,li,Rain Jacket,y
+87,79,li,Headlamp or Flashlight,y
+89,75,h3,Gear,n
+91,75,p,"the necessary surfing gear, which will include",n
+92,75,ul,,n
+94,92,li,Wetsuit,y
+96,92,li,Surf Board with board strap,y
+98,75,h3,Also to consider,n
+99,75,ul,,n
+101,99,li,Camera,y
+103,99,li,Book or Journal,y
+105,99,li,Stocking Hat or Beanie,y
+107,99,li,"Personal hygiene items, sunscreen, instant hand sanitizer, insect repellent",y
+109,99,li,Spending money,y
+111,75,h3,Other info,n
+113,75,p,"All linens – sheets, pillow, blankets, and towels are provided.",n
+115,75,p,"All food will be provided – breakfast, lunch, dinner, dessert, drinks, snacks, snacks and more snacks!",n
+119,0,div,,n
+122,119,div,,n
+124,122,h3,Out Living It Blog,n
+125,122,text,READ THE BLOG,n
+128,119,div,,n
+130,128,h3,Find Your Program,n
+131,128,text,Get Started,n
+132,0,footer,,n
+133,132,div,,n
+134,133,div,,n
+137,134,h5,Our Mission,n
+139,134,h5,First Descents provides life-changing outdoor adventures for young adults impacted by cancer and other serious health conditions.,n
+152,134,h5,,n
+154,152,strong,Address,n
+155,152,text,"3827 Lafayette St. Ste 161, Denver, CO 80205",n
+158,134,h5,EIN,n
+165,133,div,,n
+167,165,h6,Site Links,n
+170,165,ul,,n
+172,170,li,Our Team,n
+174,170,li,Shop Our Store,n
+176,170,li,Blog,n
+178,170,li,Conduct,n
+180,170,li,Media,n
+182,170,li,Site Map,n
+184,170,li,Financials,n
+186,170,li,Contact Us,n
+188,170,li,Privacy Policy,n
+190,170,li,Terms and Conditions,n
+191,133,div,,n
+193,191,h6,Upcoming Events,n
+194,191,div,,n
+197,194,p,2022 TransRockies Run,n
+199,194,p,"Buena Vista, US - Aug 1, 2022",n
+200,191,div,,n
+203,200,p,2022 Leadville 100 MTB,n
+205,200,p,"Leadville, CO - Aug 13, 2022",n
+206,191,div,,n
+209,206,p,2022 Leadville Trail 100 Run,n
+211,206,p,"Leadville, CO - Aug 20, 2022",n
+229,133,h5,"3827 Lafayette St. Ste 161, Denver, CO 80205",n
+230,133,div,,n
+232,230,h3,Sign Up,n
+234,230,div,,n
+235,234,form,,n
+238,235,div,First Name,n
+244,235,div,Last Name,n
+250,235,div,Email Address,n
+258,234,div,Thanks,n
+272,132,p,© First Descents 2022.,n

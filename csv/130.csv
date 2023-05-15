@@ -1,0 +1,328 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+3,1,div,,n
+4,3,div,,n
+6,4,p,"You can homeschool on a dime. It doesn’t take too much to begin. When we first started, we had some basic office supplies and a few things I picked up in the back-to-school section at Target.",n
+9,4,p,We were fine.,n
+10,4,p,,n
+12,10,strong,"However, having a comprehensive list to look over before each school each year is always nice.",n
+13,10,text,"You can be reminded of what you need to stock up on, as well as, mark the things you might like to purchase in the future.",n
+28,4,p,DOWNLOAD PRINTABLE SUPPLY LIST HERE,n
+32,4,h2,Office Supplies,y
+33,4,ul,,n
+34,33,li,,n
+36,34,strong,Laminator,y
+37,34,text,I put this first on my list because I have not regretted this purchase at all. Well worth the $25!,n
+38,33,li,,n
+40,38,strong,Laminating pouches,y
+41,38,text,a must,n
+42,33,li,,n
+44,42,strong,Copier or Printer,y
+45,42,text,"We had an inkjet for the longest time, and we finally upgraded to a laser printer or copier, because we use it so often.",n
+46,33,li,,n
+48,46,strong,Paper cutter,y
+49,46,text,"honestly, a small paper cutter is where it’s at",n
+50,33,li,,n
+52,50,strong,Electric pencil sharpener,y
+53,50,text,your life.,n
+54,33,li,,n
+56,54,strong,3 whole punch,y
+57,54,text,for everything you will put into binders…,n
+58,33,li,,n
+60,58,strong,Single whole punch,y
+61,58,text,yep,n
+62,33,li,,n
+64,62,strong,Ruler,y
+65,62,text,a math essential in grade school,n
+66,33,li,,n
+68,66,strong,Yard stick,y
+69,66,text,another math essential I had to run out last minute for,n
+70,33,li,,n
+72,70,strong,Tape measure,y
+73,70,text,very useful,n
+74,33,li,,n
+76,74,strong,Scissors,y
+77,74,text,goes without saying,n
+78,33,li,,n
+80,78,strong,Stapler,y
+81,78,text,same,n
+82,33,li,,n
+84,82,strong,Spiral binding machine,y
+85,82,text,"I have yet to purchase this, but its on my list. With all the projects we do I think it would be most helpful.",n
+86,33,li,,n
+88,86,strong,Chalk or white board,y
+89,86,text,you can find these at a craft store or even a thrift store,n
+90,33,li,,n
+92,90,strong,Protractor,y
+93,90,text,possibly needed,n
+96,4,h2,Consumable Supplies,n
+97,4,ul,,n
+99,97,li,Pencils or erasers,y
+101,97,li,Crayons,y
+103,97,li,Markers,y
+105,97,li,Colored Pencils,y
+106,97,li,,n
+108,106,strong,Dry Erase Markers,y
+109,106,text,"we use these all the time for our wipe-off resources as well as, our white board. (I’ve heard you can use Crayola markers for wipe-off too, but I haven’t tried it.",n
+110,97,li,,n
+112,110,strong,Highlighters,y
+113,110,text,are great,n
+114,97,li,,n
+116,114,strong,Notebooks,y
+117,114,text,having some spiral notebooks on hand are great,n
+118,97,li,,n
+120,118,strong,Writing paper,y
+121,118,text,loose leaf writing paper,n
+122,97,li,,n
+124,122,strong,Graph paper,y
+125,122,text,great,n
+126,97,li,,n
+128,126,strong,Copy paper,y
+129,126,text,this more than I want to admit.,n
+130,97,li,,n
+132,130,strong,Composition Notebook,y
+133,130,text,great,n
+134,97,li,,n
+136,134,strong,Cardstock,y
+137,134,text,great,n
+138,97,li,,n
+140,138,strong,Glue sticks,y
+141,138,text,these you actually need.,n
+142,97,li,,n
+144,142,strong,Tape,y
+145,142,text,"scotch, washi, double-ed… it all comes in handy.",n
+146,97,li,,n
+148,146,strong,Thank you cards,y
+149,146,text,"cards, its good to stay stocked.",n
+150,97,li,,n
+152,150,strong,Rubber bands,y
+153,150,text,great,n
+154,97,li,,n
+156,154,strong,3-Ring binders,y
+157,154,text,I always try to have a few on hand,n
+158,97,li,,n
+160,158,strong,Stickers,y
+161,158,text,because every teacher should have a little stash.,n
+162,97,li,,n
+164,162,strong,Clear page protectors,y
+165,162,text,are so handy,n
+166,97,li,,n
+167,166,strong,,n
+168,167,text,Wipe-off,n
+170,167,text,pouch,y
+171,166,text,a sturdier wipe-off option.,n
+172,97,li,,n
+174,172,strong,Paperclips,y
+175,172,text,little but important,n
+185,4,h2,Craft or Art Supplies,y
+186,4,ul,,n
+187,186,li,,n
+189,187,strong,Watercolors,y
+190,187,text,I’m a little bit of an art snob. I like to splurge and get the good stuff. Here is a pallet we like .,n
+193,186,li,,n
+195,193,strong,Washable Paint,y
+196,193,text,"having some Tempera paint around, is great",n
+199,186,li,,n
+201,199,strong,Oil Pastels,y
+202,199,text,super fun medium to work with,n
+203,186,li,,n
+205,203,strong,Chalk,y
+206,203,text,"great to use with your chalkboard, artwork, or sidewalk",n
+207,186,li,,n
+209,207,strong,Yarn,y
+210,207,text,an inevitable need,n
+211,186,li,,n
+213,211,strong,Paint Brushes,y
+214,211,text,a must,n
+215,186,li,,n
+217,215,strong,Clothespins,y
+218,215,text,these are great,n
+219,186,li,,n
+221,219,strong,Brads,y
+223,219,span,I can never find one when I need one.,n
+224,186,li,,n
+226,224,strong,Construction Paper,y
+227,224,text,so many projects all,n
+230,4,h2,Organizational Supplies,y
+241,4,ul,,n
+242,241,li,,n
+244,242,strong,Book Shelves,y
+245,242,text,because piling books on the floor is not ideal.?,n
+246,241,li,,n
+248,246,strong,Art Cart,y
+249,246,text,homeschool families organizing in this way.,n
+250,241,li,,n
+252,250,strong,Caddy,y
+253,250,text,the basics.,n
+255,241,li,Bins,y
+256,241,li,,n
+258,256,strong,Book Pouches,y
+259,256,text,we use these for our subjects that have moving pieces that I am trying to keep all in one place. I bought these pouches from Lakeshore Learning .,n
+262,241,li,,n
+264,262,strong,Workboxes,y
+266,262,span,great if you are working to keep your subjects separated and organized.,n
+267,241,li,,n
+269,267,strong,Family Calendar,y
+270,267,text,we have a magnetic whiteboard calendar that is on our fridge. It’s very helpful to see the big picture so we stay on track with our time and events.,n
+273,241,li,Homeschool Planner,y
+275,241,li,,n
+277,275,strong,Pencil case,y
+278,275,text,a little box or bag to keep them all together works nice.,n
+281,4,h2,Student Supplies,n
+282,4,ul,,n
+285,282,li,Student Planner,y
+287,282,li,,n
+289,287,strong,iPad or tablet,y
+290,287,text,we use an iPad,n
+291,282,li,,n
+293,291,strong,Backpack,y
+294,291,text,"for those days you want to take school to the park, grandma’s, or a local coffee shop",n
+295,282,li,,n
+297,295,strong,Personal white board,y
+298,295,text,we use ours everyday,n
+302,4,h2,Misc. Tools,n
+303,4,ul,,n
+304,303,li,,n
+306,304,strong,Balance Scale,y
+307,304,text,great,n
+308,303,li,,n
+310,308,strong,Thermometer,y
+311,308,text,another tool I was running out the night before the next day’s math lesson to get.,n
+312,303,li,,n
+314,312,strong,Compass,y
+315,312,text,great,n
+316,303,li,,n
+318,316,strong,Binoculars,y
+319,316,text,are so useful,n
+320,303,li,,n
+322,320,strong,Magnifying Glass,y
+323,320,text,we purchased one to use when we did a butterfly kit and have used it many times since.,n
+324,303,li,,n
+326,324,strong,Calculator,y
+327,324,text,I’m sure it will come in handy at some point.,n
+328,303,li,,n
+330,328,strong,Timer,y
+331,328,text,Great,n
+336,4,p,*This post contains Amazon Affiliate Links.,n
+348,4,div,,n
+351,348,div,My Amazon Picks,n
+359,348,div,,n
+361,359,div,,n
+367,361,div,"Crayola Colored Pencil Set, School Supplies, Assorted Colors, 36 Count,…",n
+369,361,div,,n
+371,369,span,$5.97,n
+373,369,span,$8.29,n
+417,359,div,"Arteza Kids Tempera Paint, Set of 24 Colors Includes Flourescent, Glow in The Dark, Glitter, Metallic and Ne…",n
+462,348,div,,n
+466,462,div,Video On Demand,n
+468,462,div,Clothing and Accessories,n
+470,462,div,Major Appliances,n
+472,462,div,"Arts, Crafts and Sewing",n
+474,462,div,Automotive,n
+476,462,div,Baby and Nursery,n
+478,462,div,Beauty and Grooming,n
+480,462,div,Books and Textbooks,n
+482,462,div,Collectible Coins,n
+484,462,div,Camera and Photo,n
+486,462,div,Cell Phones and Accessories,n
+488,462,div,Classical Music,n
+490,462,div,"Computers, Tablets and Components",n
+492,462,div,Blu-Ray and DVD,n
+494,462,div,Electronic Components and Home Audio,n
+496,462,div,Entertainment Collectibles,n
+500,462,div,Other Gift Card Brands,n
+502,462,div,Grocery and Gourmet Food,n
+506,462,div,Health and Household,n
+508,462,div,Business and Industrial Supplies,n
+510,462,div,Jewelry,n
+512,462,div,Kindle Store,n
+514,462,div,Kitchen and Dining,n
+516,462,div,Magazines,n
+518,462,div,Miscellaneous,n
+520,462,div,Digital Music,n
+522,462,div,CDs and Vinyl,n
+524,462,div,Musical Instruments,n
+526,462,div,Office and School Supplies,n
+528,462,div,Pet Food and Supplies,n
+532,462,div,"Shoes, Handbags, Wallets, Sunglasses",n
+534,462,div,Software,n
+536,462,div,Sports Collectibles,n
+538,462,div,Sports and Fitness,n
+540,462,div,Home Improvement,n
+542,462,div,Toys and Games,n
+544,462,div,VHS,n
+548,462,div,Watches,n
+632,4,ul,,n
+637,632,li,Facebook,n
+642,632,li,Twitter,n
+648,632,li,Pinterest,n
+652,3,div,,n
+654,652,span,Post Tags,n
+657,652,text,Homeschool,n
+660,652,text,list,n
+663,652,text,Supplies,n
+664,1,nav,,n
+666,664,h2,Post navigation,n
+667,664,div,,n
+668,667,div,,n
+672,668,div,Previous,n
+673,668,text,Comprehension Bookmarks and Teacher Narration Guides,n
+674,667,div,,n
+677,674,div,Next,n
+679,674,text,Printable Autumn Busy Book,n
+682,1,div,,n
+684,682,h2,Similar Posts,n
+685,682,div,,n
+686,685,div,,n
+687,686,text,Posts,n
+689,686,span,1 to 2,n
+690,686,text,of 6,n
+693,685,div,,n
+696,693,div,,n
+699,696,p,"Play dough mats are the perfect thing to pull out for an easy activity. They are also an awesome tool for teaching because they engage the hands, as well as, the mind.",n
+705,696,p,Printable NumbersWINTER Play Dough Mats,n
+709,693,div,,n
+712,709,p,Today I’m sharing some picture books about snow. Snow is a real treat where we live. It usually only snows a couple times a year and doesn’t stick around for very long.,n
+718,709,p,Picture Books about Snow,n
+726,693,div,,n
+729,726,p,Spelling doesn’t have to be a monotonous chore. It’s simply allowing your students to create a relationship with the words. One of the best ways to do this is to have them interact with each word using their senses. Here is a list of 50 sensory spelling activities for kids to try.,n
+735,726,p,50 Sensory Spelling Activities,n
+739,693,div,,n
+742,739,p,"Our family is a couple weeks out from officially starting school back up, but I’m am getting some of our resources together. Today I will be sharing the first day of school signs we will be using.",n
+748,739,p,School Signs,n
+752,693,div,,n
+755,752,p,our favorite picture books about gardening.,n
+761,752,p,Picture Books about Gardening,n
+765,693,div,,n
+768,765,p,This Winter Activities Pack for my Pre-k or Kindergarten students is prepped and ready to go. The content is simply a reinforcement of what we are already working on for the year.,n
+774,765,p,HUGE Winter Activities No-Prep Pack,n
+783,685,div,,n
+785,783,button,Previous,n
+787,783,button,Next,n
+788,1,div,,n
+790,788,h2,2 Comments,n
+792,788,li,,n
+793,792,article,,n
+794,793,footer,,n
+796,794,div,June Doran,n
+801,794,div,"May 19, 2020 at 12:57 pm",n
+804,793,p,Where did you get your art caddy in the photo? I love it!,n
+809,792,li,,n
+810,809,footer,,n
+812,810,div,inspirethemom,n
+817,810,div,"June 3, 2020 at 6:20 pm",n
+820,809,p,Hobby Lobby:,n
+823,788,div,,n
+824,823,h3,,n
+825,824,text,Leave a Reply,n
+827,824,small,Cancel reply,n
+828,823,form,,n
+829,828,p,,n
+831,829,span,Your email address will not be published.,n
+833,829,span,Required fields are marked,n
+839,828,p,Comment,n
+842,828,div,,n
+846,842,p,Name,n
+852,842,p,Email,n
+858,842,p,Website,n

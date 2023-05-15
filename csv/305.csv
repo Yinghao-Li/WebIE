@@ -1,0 +1,24 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+25,2,div,,n
+28,25,div,,n
+33,28,h1,Hockey Equipment Buyers Guide,n
+38,28,p,"One of the first things you’re going to have to do when taking up hockey is get the proper hockey equipment. Having proper fitting equipment is essential for the safety and enjoyment of your player. The diagram below outlines all required equipment. Below that, you will find a detailed breakdown on each piece of gear and how to properly fit and select for your player.",n
+43,25,div,,n
+51,43,div,HELMET,y
+59,43,div,NECK GUARD,y
+67,43,div,SHOULDER PADS,y
+75,43,div,ELBOW PADS,y
+83,43,div,HOCKEY PANTS,y
+84,25,div,,n
+92,84,div,GLOVES,y
+100,84,div,SHIN PADS,y
+108,84,div,SKATES,y
+116,84,div,PRACTICE JERSEY,y
+117,25,div,,n
+125,117,div,JOCK,y
+133,117,div,HOCKEY SOCKS,y
+141,117,div,HOCKEY BAG,y
+149,117,div,STICKS,y
+169,2,div,-8492 •,n

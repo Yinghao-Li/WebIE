@@ -1,0 +1,268 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,article,,n
+2,1,div,,n
+5,2,h5,Outdoor Gear Guide,n
+7,2,p,"Learn how to pack for a successful overnight backpacking or trekking adventure with lightweight gear essentials like a tent, stove, and clothing. My backpacking checklist!",n
+8,2,p,,n
+9,8,text,As you’re about to see with my,n
+11,8,strong,personal backpacking checklist,n
+12,8,text,here — I’m a total gear nerd!,n
+22,2,p,"From backpacking in Greenland , trekking in Afghanistan , or hill-walking in Ireland , I’m always searching for the lightest and most comfortable hiking and camping equipment. Updating my gear guides on a regular basis.",n
+32,2,p,"Fortunately, you get to benefit from my expensive hobby of collecting and testing outdoor backpacking gear by learning from my experiences using it during adventures around the world.",n
+34,2,p,"At the end of this guide, you’ll find a FREE printable backpacking checklist that you can download and use for your next trip!",n
+49,2,div,,n
+52,49,div,"Why listen to me? Experience! I’ve been trekking around the world for ten years through mountains, deserts, forests, jungles and National Parks in multiple countries.",n
+57,49,div,,n
+59,57,span,Matthew Karsten,n
+61,57,span,The Expert Vagabond,n
+63,2,p,Here’s everything we’re going to cover .,n
+65,2,div,,n
+68,65,div,Table Of Contents,n
+71,65,div,,n
+73,71,li,Favorite Backpacking Gear For 2021,n
+75,71,li,Backpacking VS Trekking,n
+77,71,li,Lightweight Backpacking Checklist,n
+79,71,li,Choosing A Hiking Backpack,n
+81,71,li,Color-Coded Stuff Sacks,n
+83,71,li,Tents and Overnight Shelters,n
+85,71,li,Warm Sleeping Bag,n
+87,71,li,Comfortable Sleeping Pad,n
+89,71,li,Backpacker Kitchen,n
+91,71,li,Hiking and Trekking Clothing,n
+93,71,li,Backpacking Outerwear,n
+95,71,li,Hiking Shoes Or Boots,n
+97,71,li,Backpacking Food,n
+99,71,li,Personal Hygiene Items,n
+101,71,li,The 10 Backpacking Essentials,n
+103,71,li,My Favorite Luxury Items,n
+105,71,li,Backpacking With Camera Gear,n
+107,71,li,FREE DOWNLOAD,n
+118,2,h2,Favorite Backpacking Gear For 2021,n
+121,2,h2,Backpacking VS Trekking,n
+123,2,p,"First off, I want to define the difference between backpacking, trekking, and hiking. These words are sometimes used interchangeably — but they can also have different meanings depending on who you ask.",n
+124,2,p,,n
+126,124,strong,Backpacking,n
+127,124,text,is a hiking trip that includes overnight camping. Packing everything you need to be self-sufficient in the wilderness on your back. Like my 10-day solo backpacking trip on Greenland’s Arctic Circle Trail .,n
+130,2,p,,n
+132,130,strong,Trekking,n
+133,130,text,"is hiking long-distance, for days or weeks at a time. You might pack everything in yourself, but more likely you’ll have a guide and pack animal or human porter to help you. You may or may not need to bring your own shelter. Like my trek in the mountains of Afghanistan with a local guide and pack horse.",n
+136,2,p,,n
+138,136,strong,Hiking,n
+139,136,text,"is just walking on a wilderness trail through the mountains, forest, desert, or even the countryside. Generally, this is used to define day hikes that don’t require an overnight stay. Like my day hike up Ireland’s highest mountain .",n
+143,2,p,"I’m going to focus on a typical 2-5 day backpacking trip, packing in your own food, water, and camping gear. But much of this will also work as a trekking packing list.",n
+155,2,h2,Lightweight Backpacking Checklist,n
+158,2,p,Backpacking checklists and packing lists can be a controversial subject. Everyone has an opinion about what’s the best hiking and camping gear to bring on a trip!,n
+160,2,p,"You have your traditional backpackers , lightweight backpackers , and even ultra light thru-hikers who all do things differently.",n
+167,2,p,,n
+168,167,text,"For this backpacking gear checklist, I’m sharing my personal setup, which is considered “lightweight” with a",n
+170,167,strong,20 lbs base-weight.,n
+180,2,p,"Backpack base-weight is the weight of all your gear except for food, water, and fuel — which varies depending on the length and location of your trip.",n
+185,2,h2,Choosing A Hiking Backpack,n
+188,2,h3,Overnight Backpacks,y
+190,2,p,"For multi-day hiking and backpacking, where you’ll need to carry everything in on your back, I recommend choosing a 40-65 liter backpack that will hold your tent, sleeping bag, food, water, and other backpacking essentials.",n
+198,2,ul,,n
+200,198,li,"Gregory Mountain Zulu 55 – This is the backpack I take with me on most 2-3 day trips. It’s super lightweight , comfortable, and well designed. The front-loading pannel makes it a great travel backpack too.",n
+205,198,li,"Arc’teryx Bora 50 – For long-distance treks with the potential for more extreme weather, or more weight , I prefer this for superior weather resistance and a more comfortable hip-belt.",n
+208,2,h3,Day Hiking Backpacks,y
+210,2,p,"You may or may not want a day pack — it depends on the type of trip. Other than a traditional day-hike that doesn’t require camping, you might also want a day pack to wear during a guided trek, for easy access to certain items while the rest of your gear is with a porter or pack animal.",n
+212,2,p,I do not bring a day pack on independent overnight hiking and camping trips.,n
+213,2,ul,,n
+215,213,li,Osprey Stratos 24,n
+217,213,li,Arc’teryx Alpha AR 35,n
+219,2,h3,Waterproofing Your Pack,y
+221,2,p,"What if it rains during your backpacking trip? Most hikers bring a waterproof rain cover for their backpack, and I used to as well. Until I discovered the magic of using a trash compactor bag to line the INSIDE of my pack.",n
+225,2,p,"Why? First of all, they are much cheaper. Second, they are multi-use items. Finally, they are much more effective. Sure, the outside of your backpack will still get wet, but everything inside will be bone-dry. Even if you fall into a river.",n
+235,2,h2,Color-Coded Stuff Sacks,n
+238,2,p,"To keep your backpack organized during your hiking adventure, I recommend using a few lightweight stuff sacks and or or packing cubes, in different colors, so it’s easy to grab important gear quickly.",n
+246,2,ul,,n
+248,246,li,"Sea To Summit Ultra-Sil Stuff Sack – I use a few of these in different sizes and colors for my spare clothing, cold weather gear, and more.",n
+251,246,li,"Eagle Creek Specter Sacks – I also have a few of these for smaller items, like my repair kit and to store my microfiber towel.",n
+255,2,h2,Tents and Overnight Shelters,y
+265,2,p,"If you plan to sleep outside in the wilderness, you’re going to need a quality shelter to pack with you. Traditionally this would mean using a tent, but a camping hammock or bivy bag are other possible options. While I own and use all three types of shelters, generally I think most people should start with a tent.",n
+267,2,h3,Lightweight Tents,y
+269,2,p,"This is one of your most important pieces of backpacking gear. You want to find a tent that is a good combination of lightweight, spacious, waterproof, and easy to set up. It’s basically where you’ll be living during your trip!",n
+270,2,ul,,n
+272,270,li,"Nemo Equipment Hornet 2P – My current favorite lightweight backpacking tent if I’m on my own. Perfect for one person plus some gear, but a bit tight with two people. I use this 75% of the time.",n
+275,270,li,Big Agnes Copper Spur UL2 – Another great tent I own. Slightly more room if I’m going to be sharing it with someone else.,n
+280,2,p,REI Quarter Dome 2 Tent,n
+282,2,h3,Camping Hammocks,y
+284,2,p,"If you’re going to be camping in a forest or jungle, it might make sense to hang a hammock for your backpacking shelter. A camping hammock keeps you off the ground, away from bugs and wet conditions, but is also easy to pack with no aluminum poles. Some people prefer sleeping in them to tents also.",n
+287,2,li,"Hennessy Hammock Jungle Explorer – I’ve used this camping hammock on many adventures. From hitchhiking America , canoeing the BWCA , and even exploring the jungle in Panama’s Darien Gap .",n
+304,2,h2,Warm Sleeping Bag,y
+306,2,p,,n
+307,306,text,"For a good night’s sleep, you need a warm sleeping bag. They key is to pick a bag rated warm enough for the weather you’ll encounter on your backpacking trip. I own two sleeping bags , but if you can only get one,",n
+309,306,strong,I’d probably recommend something around 15F degrees.,n
+318,2,p,"Down sleeping bags are warmer with less weight, but also more expensive. Synthetic bags weigh a bit more, but are more affordable. For extreme cold weather conditions , layering two sleeping bags is ideal.",n
+321,2,ul,,n
+323,321,li,"Nemo Riff Down 15F or -1C – An amazing 3-season down fill bag that packs up super small, with zipper air vents for those warmer nights. Spoon shape for comfortable side sleeping. I own the 30F version of this.",n
+326,321,li,Nemo Sonic Down 0F or -18C – A fantastic winter mummy sleeping bag for staying warm in very cold conditions. They also make a -20F version.,n
+331,2,p,Marmot Trestles 15F Synthetic,n
+334,2,h2,Comfortable Sleeping Pad,y
+336,2,p,"Sleeping pads have come a long way over the years. From bulky rolled pieces of foam, to lightweight inflatable versions with high-tech baffles that take up far less room in your pack. A good sleeping pad can make a huge difference in how much you enjoy camping outside.",n
+339,2,li,"Sea to Summit Ether Light XT – I’ve tried countless sleeping pads over the years, and this is my favorite by far. Weighs only 15 ounces, but is insulated and inflates to 4-inches thick. I’ve never slept better in the backcountry!",n
+343,2,h2,Backpacker Kitchen,y
+353,2,p,You don’t need to lug a ton of pots and pans into the wilderness anymore. A lightweight backpacker kitchen allows you to boil water for cooking simple dehydrated meals on the go.,n
+355,2,h3,Camp Stove and Fuel,y
+357,2,p,"MSR WindBurner Backpacking Stove – After years of using a JetBoil, I made the switch to MSR’s new system due to better cooking in windy conditions and faster boil times.",n
+360,2,h3,Mug or Bowl or Spoon,y
+362,2,p,"GSI Infinity Mug – While I could technically use the thin “cup” included with my MSR Windburner stove, I prefer a proper insulated mug that keeps coffee warm longer, with a spill-proof cap.",n
+372,2,p,GSI Essential Spoon – Awesome long-handled camping spoon that can reach deep into a dehydrated food bag.,n
+376,2,h2,Hiking and Trekking Clothing,n
+378,2,h3,Base Layers,y
+380,2,p,"Arc’teryx Velox SS Crew – Lightweight, breathable, synthetic t-shirt. I wear one, and pack a spare. They weigh nothing.",n
+383,2,p,"Smartwool Merino 150 Top and Smartwool Merino 150 Pants – I always bring one pair of thermals to sleep in, or wear under my clothes in cold weather.",n
+388,2,h3,Mid-Layers,y
+390,2,p,Arc’teryx Konseal Hoody – Lightweight fleece pullover,n
+393,2,p,"Fjällräven Vidda Pro – My favorite trekking pants. Lightweight but tough. You can add wax to them for increased waterproofing. For warm weather, I prefer the Abisko Lite .",n
+400,2,h3,Down or Synthetic Puffy,y
+402,2,p,"Arc’teryx Cerium LT Hoody – Lightweight, packable down jacket with a hood. For extra cold conditions, or under a waterproof shell jacket.",n
+407,2,p,Mountain Hardwear Ghost Jacket,n
+409,2,h3,Socks and Underwear,y
+411,2,p,I generally pack 3 pairs of socks on my backpacking trips. Two pairs to alternate for hiking and some thick wool socks for sleeping. One spare set of underwear.,n
+420,2,p,"Darn Tough Socks – My favorite brand of hiking socks. As the name implies, they last a long time!",n
+423,2,p,"SAXX Boxer Briefs – Expensive, but sooooo comfortable. Quick drying very breathable. I also use them for travel.",n
+427,2,h2,Backpacking Outerwear,y
+437,2,p,"These are the outer layers that protect you from nature’s wrath — the wind, rain, and snow. You should always pack some sort of rain gear on any backpacking adventure.",n
+439,2,h3,Waterproof Shell Jacket,y
+441,2,p,Arc’teryx Zeta SL Jacket – Super lightweight waterproof and packable rain shell,n
+446,2,p,Mountain Hardwear Ozonic Jacket,n
+448,2,h3,Waterproof Shell Pants,y
+450,2,p,Arc’teryx Zeta SL Pant – Super lightweight waterproof and packable rain pants,n
+455,2,p,Mountain Hardwear Ozonic Pants,n
+457,2,h3,Warm Gloves and Hat,y
+459,2,p,"Obviously this is going to depend on the season, but I usually bring something to keep my head and hands warm just in case the weather turns bad, or it’s colder than expected at night.",n
+461,2,p,Smartwool Sport 150 Hat – Lightweight merino-wool hat to help keep my ears and head warm when it gets cold or windy.,n
+464,2,p,Arc’teryx Rivet Gloves – Thin but wind-resistant gloves that are comfortable for accessing the controls on my camera.,n
+468,2,h2,Hiking Shoes Or Boots,y
+478,2,p,"There is an ongoing discussion in the backpacking world about the benefits of using hiking shoes over heavy hiking boots. I own a pair of each, and use them for different situations.",n
+479,2,ul,,n
+481,479,li,La Sportiva Akyra – Lightweight mountain running shoes that I use,n
+484,479,li,"Scarpa SL Active Boot – My heavy-duty backpacking boots, that I break out for long-distance trekking in more extreme environments.",n
+487,479,li,Scarpa Mont Blanc Pro – Insulated winter mountaineering boots,n
+491,2,h2,Backpacking Food,y
+493,2,p,Here’s the deal. I’m not a backpacker gormet cook like some people are. Food is just fuel to me. So I keep my diet simple and fast to prepare.,n
+502,2,h3,Trail Mix and Snacks,y
+504,2,p,Usually bags of trail mix and some energy bars. I prefer Lara Bars and Clif Protein Bars . These act as both snacks and my lunch. Maybe some Sour Patch Kids or chocolate as an extra treat.,n
+512,2,h3,Dinner,y
+514,2,p,Good-To-Go Backpacker Meals – Tasty dehydrated bags of food that just need some hot water to prepare. You can eat right out of the bag too!,n
+517,2,h3,Breakfast,y
+519,2,p,Quaker Protein Oatmeal – Instant oatmeal packets with some extra protein in different flavors. I usually add some dried berries too.,n
+522,2,h3,Coffee!,y
+524,2,p,Starbucks Via Instant Coffee – I’ll be the first to tell you I’m not a big Starbucks fan in person. But their instant coffee packets are pretty damn good.,n
+527,2,h3,Bear Proof Container,y
+529,2,p,"Ursack Major Bear Bag – Easier to pack than a hard-sided container, this Kevlar bag keeps bears and rodents out of your food.",n
+540,2,h2,Personal Hygiene Items,y
+542,2,p,Wilderness Wash – Biodegradable soap that’s safe,n
+545,2,p,Quick-Dry Towel – To dry off after a cold-water dip in lakes or rivers!,n
+548,2,p,Bamboo Toothbrush – Cut it in half,n
+551,2,h3,Shaving Kit!,y
+553,2,p,"Ok, this isn’t a backpacking essential. But a simple shaving kit is part of my own personal hygiene routine. So I thought I’d include it for entertainment value!",n
+555,2,p,"I pack a razor, small tube of environmentally friendly shaving cream, and a camp mirror. Generally shaving my head and face every 2-3 days during a trip.",n
+557,2,h3,Pooping Kit,y
+559,2,p,Everybody poops. But there’s a particular way to poop in the backcountry that minimizes your impact on nature in the spirit of Leave No Trace principles.,n
+562,2,ul,,n
+564,562,li,Deuce Potty Trowel – Lightweight aluminum backpacking trowel,n
+566,562,li,,n
+568,566,strong,Toilet Paper,n
+569,566,text,– Self-explanatory. You probably don’t need a full roll. Take out the cardboard center core to minimize weight and make it easier to pack.,n
+571,562,li,Biodegradable Wet Wipes – For a fresh and clean finish!,n
+574,562,li,any left-over germs.,n
+576,562,li,,n
+578,576,strong,ZipLock Freezer Bag,n
+579,576,text,– To safely store and pack out your used paper products when possible.,n
+591,2,h2,The 10 Backpacking Essentials,n
+594,2,p,These are the 10 most essential items to take with you on any backpacking adventure. From long-distance trekking to simple day hikes. They will help you survive in the wilderness during normal conditions or in an emergency situation.,n
+603,2,h3,Navigation,y
+605,2,p,"Getting lost in the wilderness can turn dangerous quickly. Knowing where you are, and where you need to go, is an essential part of safe backpacking.",n
+606,2,ul,,n
+608,606,li,"Paper Map and Compass – Old school, but the most reliable .",n
+611,606,li,"Gaia GPS App – Amazing iPhone and Android GPS hiking trail app that works offline, even if you don’t have cell service.",n
+614,606,li,"Garmin InReach Mini – Personal locator beacon and or or satellite communicator device. Alert authorities in an emergency, plus send and receive text messages via satellite.",n
+617,2,h3,Headlamp,y
+619,2,p,Always pack a light to find your way back down the trail after an epic summit sunset! Or overnight camping trips. Plus a set of spare batteries.,n
+622,2,li,"Black Diamond Revolt – Powerful, lightweight, rechargeable and waterproof headlamp that has a great locking feature so it won’t turn on inside your bag.",n
+625,2,h3,Sun Protection,y
+627,2,p,"Many people underestimate the power of the sun, and a bad sunburn or sun-blindness can quickly ruin a great trip. I always pack a combination of wilderness-friendly sunscreen , sunglasses, a hat, and a lightweight Buff .",n
+633,2,h3,First Aid Kit,y
+635,2,p,"Some kind of first aid kit is a must on any outdoor adventure. You can buy a pre-made one like the one below, or create your own custom kit, which is what I do.",n
+644,2,p,"Adventure Medical Kits 7 – Covers all the basics. Bandages, pills, tweezers, blister care, etc.",n
+647,2,h3,Water and Filtration System,y
+649,2,p,"Hydrate, hydrate, hydrate! Always research how much water you need to bring on a hike to stay properly hydrated, and bring a water purification system too. There are many ways to do this, my setup for long-distance hiking is:",n
+650,2,ul,,n
+652,650,li,Nalgene 32oz Bottle – I still prefer a wide-mouth Nalgene bottle so I can add re-hydration salt packets to it.,n
+657,650,li,"Sawyer Mini Water Filter – Tiny water filter. With the included straw, I can drink dirty water out of my Nalgene, or attach directly to a water bag .",n
+660,650,li,"Evernew Hydration Bags – Lightweight and fold-able water bladders that screw into the Sawyer Mini, plus they can stand on their own.",n
+663,650,li,Aquatabs – Emergency backup water purification system.,n
+666,2,h3,Sharp Knife,y
+668,2,p,"A key piece of survival equipment for hiking and backpacking trips. My favorite wilderness knife is the Enzo Trapper , but you’ll also get along fine with something less fancy like a Swiss Army pocket knife .",n
+674,2,h3,Fire Kit,y
+676,2,p,"To help you cook food, boil water, and stay warm in an emergency situation. You don’t need to go crazy. I usually bring a pair of Bic Lighters, some cotton balls in a tiny zip-lock bag for tinder, and a few water or wind-proof matches .",n
+687,2,h3,Emergency Shelter,y
+689,2,p,"If you’re on an overnight backpacking trip, you’ll already have a tent as I mentioned earlier. But I also recommend bringing an emergency shelter . It’s also wise to pack a shelter on long day hikes, in case you get injured or lost and need to spend the night.",n
+691,2,p,SOL Emergency Bivy Bag – This heat reflective and breathable bivy bag will keep you warm in an emergency.,n
+694,2,h3,Extra Food,y
+696,2,p,"Always bring at least an extra half-day’s worth of food with you on day hikes, and a full extra day’s worth of food on longer multi-day backpacking trips for unexpected situations.",n
+698,2,h3,Extra Clothing,y
+700,2,p,"Pack a few warm layers to help you stay warm and dry if the weather turns bad, you fall into a river, or have to spend an unexpected night in the wilderness.",n
+703,2,h2,My Favorite Luxury Items,n
+713,2,p,"While you could pack ultra-light and reduce all unnecessary luxuries from your backpacking gear checklist, sometimes a little extra weight is worth the comfort. Here are my personal favorite hiking and camping extras!",n
+714,2,ul,,n
+716,714,li,"Trekology Inflatable Pillow – I’ve tried many backpacking pillows over the years, this has the best combination of comfort mixed with lightweight pack-ability. It really improved my sleep quality!",n
+719,714,li,Black Diamond Trekking Poles – Trust me on this one. Your knees will thank you. Especially on steep descents — and if you’re over 30 years old…,n
+722,714,li,"Anker Portable Battery – For recharging my iPhone, GoPro, or satelite beacon. Small but powerful. Recharges a phone up to 3 times.",n
+725,714,li,LuminAide Packlite – Lightweight inflatable solar lantern for lighting up your tent or campsite area. Nice backup light to a headlamp.,n
+728,714,li,"Earplugs – They weigh nothing, and are very helpful if you want to sleep through thunderstorms, owls, insects, bears walking around your tent , snoring friends, and other nature sounds that are louder than expected.",n
+732,714,li,,n
+734,732,strong,Repair Kit,y
+735,732,text,"– Miscellaneous repair gear with 50 feet of paracord , sleeping pad puncture kit, Tenacious Tape , safety pins, zip-ties, sewing kit, etc.",n
+741,714,li,"OR Hiking Gaiters – For those especially wet, muddy, snowy, or rough backpacking trips. Helps keep your feet and pants dry and protected.",n
+744,714,li,Camp Shoes or Sandals – Something lightweight and comfortable to wear when you’re done hiking for the day. Can also be used for river crossings.,n
+748,2,h2,Backpacking With Camera Gear,n
+758,2,p,"Ok, what about hiking with camera gear? I could probably write a whole article about this subject too. For a photography-heavy day hike, I usually bring my LowePro Whistler 350 Camera Backpack .",n
+762,2,p,"On longer multi-day backpacking or trekking adventures, I tend to bring much less photo gear, attaching LowePro Toploader Pro Bag to the front of my shoulder straps.",n
+766,2,p,"I might also use a Peak Design Camera Clip and a Peak Design Rain Cover , if I want to travel super light in regards to camera equipment.",n
+779,2,p,You can check out all my photography equipment here .,n
+784,2,h2,FREE DOWNLOAD,n
+786,2,p,"If you’d like a simple, one-page backpacking checklist that you can print out to help plan future trips, you can download it for free below. Enjoy!",n
+789,2,div,DOWNLOAD THE FREE CHECKLIST NOW →,n
+792,2,div,,n
+793,792,h3,,n
+795,793,span,Video Version,n
+796,793,text,My Backpacking Gear,n
+799,792,p,Subscribe to my YouTube Channel,n
+815,2,div,,n
+818,815,h4,Enjoy This Article? Pin It!,n
+821,815,div,,n
+823,821,h4,READ MORE BACKPACKING STORIES,n
+825,821,p,I hope you enjoyed my backpacking checklist and gear guide! Hopefully you found it useful. Here are a few more wanderlust-inducing articles that I recommend you read next:,n
+826,821,ul,,n
+828,826,li,Hiking Italy’s Tre Cime di Lavaredo,n
+830,826,li,Climbing Ireland’s Highest Mountain,n
+832,826,li,Kerlingarfjöll Geothermal Area In Iceland,n
+834,826,li,Backpacking Through Afghanistan,n
+836,826,li,Trekking Greenland’s Arctic Circle Trail,n
+839,821,p,Have any questions about backpacking gear or packing for a trek? Any other suggestions? Let me know in the comments below!,n
+842,2,ul,,n
+847,842,li,SHARE,n
+852,842,li,TWEET,n
+858,842,li,PIN,n
+860,1,footer,,n
+861,860,div,,n
+863,861,p,,n
+865,863,span,Categories,n
+866,863,text,"Backpacking , Gear Guides , Outdoor Gear",n
+873,861,p,,n
+874,873,text,Home »,n
+876,873,span,,n
+877,876,text,Gear Guides »,n
+880,876,span,My Backpacking Gear Checklist,n
+881,860,span,,n
+883,881,span,Tags,n
+885,881,p,Tags,n
+886,881,text,hiking and camping outdoors packing lists,n
+889,0,nav,,n
+892,889,h2,Post navigation,n
+893,889,div,,n
+898,893,p,Hiking Mount Whitney,n
+903,893,p,Best Travel Gear,n

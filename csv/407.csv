@@ -1,0 +1,95 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+6,0,text,back to top,n
+14,0,div,,n
+15,14,div,,n
+17,15,div,,n
+19,17,h2,Buy-Rite Essentials,n
+20,17,p,,n
+22,20,span,"March 1, 2020",n
+23,20,text,| Posted by Buy-Rite Beauty,n
+26,15,div,,n
+29,26,div,,n
+31,29,p,Photo,n
+33,29,p,"Looking for an essential esthetician equipment list? Look no further! Our team of experts at Buy-Rite put together an esthetician equipment list so you can check off all your boxes, whether you are just beginning your business or are a seasoned esthetician entrepreneur!",n
+36,29,h4,Facial Bed,y
+38,29,p,"First and foremost, you’ll want to find the perfect facial bed to fit the unique needs of you and your clients. Consider the services you plan to offer – if you’re planning on offering a variety of services, such waxing or massages, a multi-purpose bed may be right for you. You have the option of hydraulic, electric, manual, and stationary facial chairs. Every esthetician has their own preference, so take your time and find which is the ideal fit for you.",n
+44,29,h4,Facial Steamer,y
+46,29,p,"Facial steamers are essential when giving clients a full-service, professional, and relaxing experience. Don’t forget this fundamental piece of equipment for one of your most popular services. No matter to facial steamer you choose – make sure it offers an ozone function, which helps steam and sterilize the face. All legitimate facial steamers have this option.",n
+51,29,p,Photo,n
+54,29,h4,Magnifying Lamp,y
+56,29,p,"Magnifying lamps are a must-have for all esthetitians, as you will need it to perform almost all of your services. Before purchasing a magnifying lamp , make sure the diopter lens is – at a minimum – 5x. Also consider the light bulb, warrenty, and for the best functionality, get one with a rolling base and a fully adjustable arm. The better, more functional mag lamp you have, the more flexibility in services that you’re able to offer. Often, estheticians prefer a 2-in-1 magnifying lamp and facial steamer , which saves space and allows them to have two of their most essential pieces of equipment in one machine.",n
+63,29,h4,High Frequency Unit,y
+65,29,p,"High frequency units are an important piece of equipment for all estheticians. Tone, soothe, and stimulate the blood circulation in your client’s skin with a high-quality high frequency unit .It’s important to consider when, where, and how you plan to offer this service to your clients in order to properly choose what type is best for you. High frequency units come as small, portable units, or as part of a larger machine. No matter the style you choose, make sure the power is adjustable – and a variety of electrodes are a plus!",n
+70,29,h4,Microdermabrasion Machine,y
+72,29,p,"Freshen and rejuvenate your clients’ skin with a reliable microdermabrasion machine . Microdermabrasian machines are a more advanced piece of equipment for estheticians looking to offer specialized services at a high profit. To get a long-lasting machine, confirm it comes with a quality-made compressor from a reputable brand.",n
+78,29,h4,All-in-One Skin Care Machine,y
+80,29,p,"If you perform a variety of services, consider a purchase that will give you everything you need in one machine. There is an 8-in-1 skin care machine option that features a magnifying lamp, high frequency, galvanic, brush, vacuum, spray, woods lamp, and an aromatic vaporizer. Check out the 10-in-1 skin care machine for everything the 8-in-1 provides, plus a steamer and hot towel cabinet! Choosing an all-inclusive unit gives estheticians the ability to offer a wide variety of services in the most cost-effective and efficient manner.",n
+87,29,p,Photo,n
+90,29,h4,Ultraviolet Sterile Cabinet,y
+92,29,p,Safety and sanitation are key in any successful esthetician’s business! Promote cleanliness in your salon or spa with a UV sanitizer cabinet .,n
+97,29,h4,Hot Towel Cabinet,y
+99,29,p,"A hot towel cabinet is essential in providing your clients a soothing, relaxing facial. If you’re interested in having dry heat and moist heat items separate, consider a double unit hot towel cabinet !",n
+106,29,h4,Technician Stool,y
+108,29,p,Don’t forget about your comfort! Pick out a comfortable technician stool with an ergonomic design so you stay comfortable all day.,n
+113,29,p,Photo,n
+116,29,h4,Work Cart,y
+118,29,p,"Last but definitely not least on our esthetician equipment list: find a work cart that will hold all of your supplies and keep your workspace tidy and clean. There are a variety of utility carts to choose from, so take your time in finding which has the right features and style for you!",n
+124,29,p,Looking for more information or assistance beyond our esthetician equipment list? Contact one of our salon and spa experts today!,n
+127,29,div,,n
+129,127,p,Share,n
+139,127,li,Save,n
+142,26,div,,n
+144,142,p,Subscribe to Our Newsletter,n
+148,142,form,Join Now,n
+149,14,text,Back to all posts,n
+151,14,div,,n
+154,151,h2,Call Us Today!,n
+158,151,p,your questions.,n
+163,0,footer,,n
+165,163,div,,n
+167,165,div,,n
+169,167,h4,Get in Touch,n
+172,167,p,Call Us Today,n
+177,167,p,Buy-Rite Showrooms,n
+180,167,p,"Atlanta, GA Showroom",n
+181,167,ul,,n
+183,181,li,3070 Business Park Drive,n
+185,181,li,Suite H-I,n
+187,181,li,"Norcross, GA 30071",n
+190,167,p,"Dallas, TX Showroom",n
+191,167,ul,,n
+193,191,li,15026 Beltway Drive,n
+195,191,li,"Addison, TX 75001",n
+197,165,div,,n
+199,197,h4,More Info,n
+200,197,ul,,n
+202,200,li,Contact Us,n
+204,200,li,FAQ or Support,n
+206,200,li,Shipping and Delivery,n
+208,200,li,Returns,n
+210,200,li,Warranty,n
+212,200,li,Request a Sales Consultation,n
+214,200,li,Showrooms,n
+216,200,li,Request a catalog,n
+218,200,li,Sitemap,n
+220,165,div,,n
+222,220,h4,Subscribe to our newsletter,n
+226,220,form,Subscribe now,n
+230,165,h4,Connect on Social,n
+245,163,p,COPYRIGHT © 2022 buy-rite beauty. ALL RIGHTS RESERVED.,n
+254,0,div,,n
+257,254,div,,n
+259,257,div,,n
+261,259,h2,Email Us Today!,n
+263,259,p,Email us,n
+269,257,div,,n
+271,269,p,* indicates a required field,n
+274,269,div,Name*,n
+279,269,div,Email*,n
+284,269,div,Phone*,n
+288,269,button,Next,n
+289,257,div,,n
+291,289,span,powered,n
+293,289,span,by,n
+299,254,div,Chat Now!,n

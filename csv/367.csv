@@ -1,0 +1,532 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+9,5,div,,n
+61,9,div,,n
+63,61,h1,What Order Should I Follow,n
+81,61,div,,n
+83,81,ul,,n
+85,83,li,Quick guide,n
+87,83,li,Morning routine,n
+89,83,li,Night routine,n
+91,83,li,FAQs,n
+93,83,li,Takeaway,n
+94,81,article,,n
+98,94,p,"We include products we think are useful for our readers. If you buy through links on this page, we may earn a small commission. Here’s our process.",n
+100,94,div,,n
+103,100,p,"Whether you want a simple 3-step routine for the morning or have time for a full 10-step regimen at night, the order in which you apply your products matters.",n
+105,100,p,Why? There isn’t much point in having a skin care routine if your products don’t get a chance to penetrate your skin.,n
+107,100,p,"Read on to learn more about how to layer for maximum impact, which steps you can skip, what products to try, and more.",n
+112,100,div,,n
+113,112,p,,n
+114,113,text,"Whether it’s a tried-and-true skin care regimen, how often you wash your hair, or the cosmetics you’re curious about, beauty is personal.",n
+117,113,br,"That’s why we rely on a diverse group of writers, educators, and other experts to share their tips on everything from the way product application varies to the best sheet mask for your individual needs.",n
+119,112,p,"We only recommend something we genuinely love, so if you see a shop link to a specific product or brand, know that it’s been thoroughly researched by our team.",n
+126,94,h2,Quick guide,n
+129,94,div,,n
+133,129,h2,What should I use in the morning?,n
+135,129,p,"Morning skin care routines are all about prevention and protection. Your face is going to be exposed to the outside environment, so necessary steps include moisturizer and sunscreen.",n
+139,129,div,,n
+141,139,h3,Basic morning routine,n
+143,139,div,,n
+147,143,li,Use it to remove grime and residue that’s built up overnight.,n
+148,143,li,,n
+150,148,strong,Moisturizer.,y
+151,148,text,"creams, gels, or balms.",n
+152,143,li,,n
+154,152,strong,Sunscreen.,y
+155,152,text,It’s essential,n
+158,129,h3,Step 1,n
+159,129,ul,,n
+163,159,li,Cleansers come in two forms,n
+167,159,li,Some oil-based cleansers are designed to work their magic on wet skin. Others are best on dry skin. Read the instructions before applying a small amount to your skin. Massage in and rinse thoroughly with water before drying with a clean towel.,n
+173,159,li,Your cleanser only contains oil — instead of a blend of oil and surfactants and emulsifiers — and you have combination or oily skin. Cleansing oils may cause an increase in oiliness.,n
+174,159,li,,n
+178,174,text,Deviant Enzymatic Cleansing Oil removes makeup and impurities but is gentle on skin.,n
+180,174,span,,n
+181,180,text,"For an olive oil option,",n
+183,180,text,DHC Deep Cleansing Oil is suitable,n
+188,159,li,"Do a patch test in a small area on your skin for a few days and monitor how your skin reacts. If you experience cystic acne, talk with your dermatologist before switching to an oil-based cleanser.",n
+189,159,li,,n
+192,189,text,Oil cleansers can have a,n
+194,189,hl-trusted-source,higher cleansing ability,n
+199,189,text,. They can unclog pores and remove even waterproof makeup. A,n
+201,189,hl-trusted-source,small 2019 study,n
+206,189,text,suggests that oil cleansers may do a better job at removing waterproof sunblock compared to other methods.,n
+210,159,li,Anecdotal evidence suggests that there may be an initial 1- to 2-week “purging” period where you may experience breakouts as old oil on your skin is cleansed.,n
+213,129,ul,,n
+217,213,li,"These cleansers primarily contain surfactants, which are ingredients that allow water to rinse away dirt and sweat. They can also remove the oils collected by an oil-based cleanser.",n
+221,213,li,Massage into wet skin and rinse with water before drying.,n
+225,213,li,You don’t want to double cleanse or if your oil-based cleanser contains surfactants that sufficiently remove dirt and debris.,n
+226,213,li,,n
+230,226,span,"For a soothing oil-free experience, try",n
+232,226,text,La Roche-Posay Toleriane Hydrating Gentle Cleanser .,n
+235,226,text,COSRX Low pH Good Morning Gel Cleanser is designed to help balance and protect your skin.,n
+240,213,li,"Look for a cleanser with a neutral or low pH, as a 2017 study suggests they may be less irritating to your skin.",n
+246,213,li,Mild water-based cleansers may help prevent breakouts in those with acne-prone or oily skin.,n
+250,213,li,Harsher surfactants can dry out your skin and may damage your skin’s natural barrier.,n
+252,129,h3,Step 3,n
+253,129,ul,,n
+257,253,li,Toners are designed to replenish skin through hydration and remove dead cells and dirt left behind after cleansing. An astringent is an alcohol-based product used to remove excess oil.,n
+264,253,li,"Straight after cleansing, either tap directly onto the skin or onto a cotton pad and swipe over the face in an outward motion.",n
+265,253,li,,n
+267,265,strong,Skip the astringent if,n
+268,265,text,You have dry skin.,n
+270,253,li,,n
+274,270,text,"Thayers Rose Petal Witch Hazel Facial Toner is an alcohol-free cult classic, while",n
+277,270,text,Neutrogena Clear Pore Oil-Eliminating Astringent is designed to fight breakouts.,n
+282,253,li,Avoid toners high in alcohol as they can irritate your skin.,n
+286,253,li,pores and remove impurities left behind after cleansing.,n
+290,253,li,alcohol-based toners can cause irritation.,n
+292,129,h3,Step 4,n
+293,129,ul,,n
+297,293,li,"Serums contain a high concentration of certain ingredients. An antioxidant-based serum will protect skin against damage caused by unstable molecules known as free radicals. Vitamins C and E are common antioxidants used to improve texture and firmness. Others to look out for include green tea, resveratrol, and caffeine.",n
+305,293,li,Pat a few drops onto your face and neck.,n
+307,293,li,,n
+310,307,text,A bottle of,n
+312,307,text,"Skinceuticals Phloretin CF with Ferulic Acid doesn’t come cheap, but promises to protect against ultraviolet A and ultraviolet B rays and lessen signs of aging. For a more affordable alternative, try",n
+315,307,text,Avene Hydrance Intense Rehydrating Serum .,n
+320,293,li,Test a new product in a small area to see how it works on your skin and with the other products in your routine.,n
+324,293,li,"Antioxidant serums can help reduce redness, wrinkles, and damage to your skin.",n
+328,293,li,"Some serums, such as those that contain acids, may cause irritation when combined with other acid-containing skin care products.",n
+330,129,h3,Step 5,n
+331,129,ul,,n
+335,331,li,"If you have a blemish with a head, first look for an anti-inflammatory product to remove it, then turn to a spot-drying treatment to clear up the rest. Anything under the skin is classified as a cyst and will require a product that targets the infection on the inside.",n
+341,331,li,Use a damp cotton swab to remove any skin care products from the spot. Apply a small amount of the treatment and leave to dry.,n
+345,331,li,You have no spots or want to let nature take its course.,n
+347,331,li,,n
+351,347,text,Kate Somerville EradiKate Acne Treatment has a high sulfur content to reduce spots and prevent new pimples.,n
+354,347,text,"Murad Rapid Relief Acne Spot Treatment is also great for the day. Drying clear, it can speed up the healing process and assist with leftover discoloration.",n
+359,331,li,Avoid using spot treatment on open blemishes.,n
+363,331,li,"Acne treatments can reduce inflammation, redness, and pain.",n
+367,331,li,"Skin reactions may occur, especially with products with stronger ingredients. Always introduce a new product slowly and monitor your skin.",n
+369,129,h3,Step 6,n
+370,129,ul,,n
+374,370,li,"The skin around your eyes tends to be thinner and more sensitive. It’s also prone to signs of aging, including fine lines, puffiness, and darkness. A good eye cream can brighten, smooth, and firm up the area, but it won’t completely eliminate issues.",n
+380,370,li,Dab a small amount onto the eye area using your ring finger.,n
+384,370,li,"Your moisturizer and serum are suitable for the eye area, contain an effective formula, and are fragrance-free.",n
+385,370,li,,n
+390,385,span,SkinCeuticals A.G.E. Eye Complex,n
+391,385,span,,n
+392,391,text,can reduce under-eye circles while reinforcing firmness.,n
+394,391,text,Clinique Moisture Surge Eye 96-Hour Hydro-Filler Concentrate is a gel that aims to help the eye area replenish its own moisture.,n
+399,370,li,Use only a small amount and cleanse properly. Not removing product buildup from this gentle area may clog pores.,n
+403,370,li,"Eye creams are designed for the sensitive skin around your eyes and can help reduce signs of aging, such as wrinkles and discoloration.",n
+407,370,li,"If your eye cream gets into your eye, it may cause irritation.",n
+409,129,h3,Step 7,n
+410,129,ul,,n
+414,410,li,"The lighter the product, the earlier you should apply it. Easily absorbable oils are lightweight and should therefore come before moisturizer. They’re especially useful if your skin’s showing signs of dryness, flakiness, or dehydration.",n
+418,410,li,Squeeze a few drops onto your fingertips. Rub them together gently to warm the oil before lightly dabbing onto your face.,n
+422,410,li,"You prefer a maintenance routine. More often than not, you’ll have to try different oils to see which works best for your skin.",n
+424,410,li,,n
+428,424,text,"Aspen Kay Glow Face Oil can treat dry skin, while",n
+431,424,text,photoaging.,n
+436,410,li,Let your oil sink in fully before applying sunscreen. Some face oils may dissolve your sunscreen.,n
+440,410,li,"Face oils help lock in hydration, keeping your skin moisturized.",n
+444,410,li,Oils may cause breakouts in people with oily skin.,n
+446,129,h3,Step 8,n
+447,129,ul,,n
+451,447,li,"A moisturizer will soothe and soften skin. If you have a dry skin type, opt for a cream or balm. Thicker creams work best on normal or combination skin, and fluids and gels are recommended for oilier types. Effective ingredients include glycerine, ceramides , antioxidants, and peptides.",n
+459,447,li,"Take a slightly bigger than pea-size amount and warm it in your hands. Apply to cheeks first, then to the rest of the face using upward strokes.",n
+463,447,li,Your toner or serum gives you enough moisture. This is especially true,n
+465,447,li,,n
+469,465,text,"CeraVe Ultra-Light Moisturizing Lotion is a lightweight SPF 30 formula that should work well on oily skin. For those with dry skin, look to",n
+472,465,text,Neutrogena Hydro Boost Gel-Cream Extra-Dry .,n
+477,447,li,"Apply moisturizer with clean hands — especially if you’re using it from a jar that you dip your fingers into. If you use dirty hands, you may be adding dirt and even bacteria into your moisturizer.",n
+481,447,li,Regular moisturizing can help prevent blemishes and other skin issues by protecting your skin’s barrier.,n
+485,447,li,Using a moisturizer that’s too heavy without proper cleansing may result in developing milia — small white bumps — on your skin.,n
+489,129,h3,Step 9,n
+490,129,ul,,n
+494,490,li,"Oils that take some time to absorb or simply feel thick fall into the heavy category. Best suited for dry skin types, these should be applied after moisturizer to seal in all the goodness.",n
+498,490,li,Follow the same process as the lighter oil.,n
+502,490,li,"You don’t want to run the risk of clogging your pores. Again, trial and error is key here.",n
+508,490,li,Supergoop! Glow Oil SPF 50 is a fragrance-free face oil that also contains SPF.,n
+513,490,li,"Fully cleanse your face at the end of the day, as heavier face oils can contribute to clogging pores.",n
+517,490,li,These oils moisturize your skin and seal in hydration from other steps in your skin care routine.,n
+521,490,li,Heavier oils may contribute to breakouts in people with acne-prone skin.,n
+523,129,h3,Step 10,n
+524,129,ul,,n
+525,524,li,,n
+528,525,text,"Sunscreen is a critical final step in your morning skin care routine. Not only can it lower your risk of skin cancer, but it can also reduce signs of aging by blocking damaging UV light. The",n
+531,525,hl-trusted-source,American Cancer Society,n
+536,525,text,recommends choosing a broad spectrum sunblock rated SPF 30 or higher that protects against UVA and UVB light.,n
+540,524,li,"Spread liberally over your face and massage in. Make sure to apply it 15 to 30 minutes before you go outside. Never apply skin care products on top, as this can dilute the sunscreen.",n
+542,524,li,,n
+545,542,text,"If you don’t like sunscreen’s usual texture,",n
+547,542,text,Glossier Invisible Shield may be the one,n
+550,542,text,La Roche-Posay Anthelios Ultra-Light Mineral Sunscreen SPF 50 absorbs fast with a matte finish.,n
+555,524,li,Reapply sunblock to your face and body every 2 hours while spending time in the sun.,n
+559,524,li,Using sunblock along with taking other precautions like wearing a hat and being in the shade can help lower your risk for skin cancer.,n
+563,524,li,"Some sunscreens may cause skin reactions, so it is important to test in a small area prior to applying over the body. Other formulas may not be safe for marine life, such as the coral reef, if you will be swimming in ocean water. Be sure to read the label to determine the best product for your needs.",n
+565,129,h3,Step 11,n
+566,129,ul,,n
+570,566,li,"If you want to wear makeup, a base layer will give you a smooth, even complexion. Opt for foundation — which comes in a cream, liquid, or powder form — or a lightweight tinted moisturizer or BB cream.",n
+574,566,li,"Use a brush or sponge to apply makeup. Start at the center of the face and blend outward. To seamlessly blend the edges, use a damp sponge.",n
+578,566,li,"Whether you prefer powered or liquid formulas, try hypoallergenic foundations or natural foundations that are environmentally friendly and nontoxic.",n
+586,566,li,You prefer to go au naturel.,n
+590,566,li,Check your foundation’s expiration date. Many last for 6 to 12 months from the date you first open them.,n
+594,566,li,Foundations provide light to heavy coverage,n
+598,566,li,Covering your skin with makeup can cause breakouts in some people.,n
+600,94,div,,n
+604,600,h2,What should I use at night?,n
+606,600,p,"Focus on repairing the damage done during the day with thicker products at night. This is also the time to use anything that makes skin sensitive to sunlight, including physical exfoliants and chemical peels.",n
+610,600,div,,n
+612,610,h3,Basic evening routine,n
+614,610,div,,n
+615,614,li,,n
+617,615,strong,Makeup remover.,y
+618,615,text,"It does what it says on the tin, even removing the makeup residue you can’t see.",n
+622,614,li,any lingering dirt.,n
+623,614,li,,n
+625,623,strong,Spot treatment.,y
+626,623,text,You can effectively treat breakouts at night with anti-inflammatory and drying products.,n
+627,614,li,,n
+629,627,strong,Night cream or sleep mask.,y
+630,627,text,A richer moisturizer assists with skin repair.,n
+633,600,h3,Step 1,n
+634,600,ul,,n
+638,634,li,"As well as dissolving the natural oils produced by your skin, an oil-based cleanser can break down oily ingredients found in makeup.",n
+642,634,li,"Follow the specific product instructions. They may advise you to apply the makeup remover on wet or dry skin. Once applied, massage in until skin is clean, then rinse with water.",n
+643,634,li,,n
+646,643,text,Deviant Enzymatic Cleansing Oil and,n
+649,643,text,"DHC Deep Cleansing Oil were our choices for daytime cleansing, and they’re our choices for nighttime cleansing too.",n
+654,634,li,"You don’t wear makeup, have oily skin, or would prefer to use a water-based product.",n
+658,634,li,"Read the instructions on your oil-based makeup remover, as some may direct you to follow this step with another type of cleanser or micellar water to remove residue.",n
+662,634,li,Using a makeup remover helps remove makeup residue and impurities from your skin.,n
+666,634,li,Not fully removing excess oil from your skin may clog pores.,n
+669,600,ul,,n
+673,669,li,Water-based cleansers react with makeup and dirt on the skin in a way that allows everything to be rinsed away with water.,n
+677,669,li,"Follow the instructions. Usually, you’ll apply it to wet skin, massage in, and rinse off.",n
+681,669,li,Double cleansing isn’t,n
+682,669,li,,n
+687,682,span,TULA Super Calm Gentle Milk Cleanser,n
+688,682,text,"can remove makeup and impurities and is hypoallergenic, fragrance-free, and sulfate-free.",n
+689,682,span,,n
+690,689,text,"For those with normal to dry skin,",n
+692,689,text,CeraVe Hydrating Facial Cleanser may help restore moisture while gently cleansing.,n
+697,669,li,Choose a gentle formula with a low or neutral pH. These help maintain the health of your skin’s natural barrier. Avoid scrubbing your face too hard when cleansing. Using too much force can irritate your skin.,n
+701,669,li,Double cleansing can help remove any residue left behind by your makeup remover or oil cleanser.,n
+706,669,li,"Some formulas may have ingredients that can dry out your skin. If you experience dryness or irritation, switch to another product.",n
+708,600,h3,Step 3,n
+709,600,ul,,n
+713,709,li,"Exfoliation removes dead skin cells while clearing pores. Clay masks work to unclog pores, but can also absorb excess oil. These masks are best applied at night to remove leftover dirt and help the skin soak up other products.",n
+719,709,li,"Exfoliators have different application methods , so follow product instructions. For clay masks, once or twice per week, apply the mask all over or to specific problem areas. Leave on for the recommended time, then rinse with warm water and pat dry.",n
+722,709,li,,n
+724,722,strong,Skip exfoliating if,n
+725,722,text,Your skin is already irritated.,n
+726,709,li,,n
+727,726,span,,n
+731,727,text,Paula’s Choice Skin Perfecting 2% BHA Liquid Exfoliant uses beta hydroxy acid to even texture and tone.,n
+736,727,text,Peter Thomas Roth Therapeutic Sulfur Mask,n
+737,726,text,contains bentonite and kaolin clays and can help purify clogged pores.,n
+741,709,li,"Avoid overuse of physical and chemical exfoliators, according to the American Academy of Dermatology , especially if you have sensitive skin. Stop use if any irritation occurs. Exfoliators may affect your sun sensitivity, so be sure to wear sunblock during the day after exfoliating.",n
+747,709,li,Exfoliation removes dead skin cells from the surface of your skin. Some chemical exfoliators can also remove impurities from deeper within your skin and prevent breakouts.,n
+751,709,li,"Some physical exfoliators, such as those containing coarse sugar or salt, may be abrasive on sensitive skin and cause irritation. If a product leaves your skin irritated, stop use and swap it out for another option once your skin has healed.",n
+753,600,h3,Step 4,n
+754,600,ul,,n
+758,754,li,"A hydrating mist or toner marks the end of your nighttime cleansing routine. DermNet NZ says you should look out for humectant ingredients — lactic acid, hyaluronic acid , and glycerine — to really give skin a moisture boost.",n
+768,754,li,"Spritz mists over your face. For toners, apply the product to a cotton pad and swipe over the skin.",n
+769,754,li,,n
+775,769,span,Mario Badescu,n
+776,769,text,"Facial Spray with Aloe, Cucumber and Green Tea",n
+778,769,span,can be sprayed at any time of day or night. Dry and sensitive skin types may find Tower 28 SOS Daily Rescue Facial Spray,n
+781,769,span,worthwhile.,n
+785,754,li,"Avoid overuse of toners with high levels of alcohols, as they may cause irritation or damage to your skin’s barrier.",n
+789,754,li,Toners can help remove leftover residue from other steps in your routine and balance your skin’s pH.,n
+793,754,li,Alcohol-based products may cause irritation in individuals with sensitive skin.,n
+795,600,h3,Step 5,n
+796,600,ul,,n
+800,796,li,"Dousing your face in acid may sound scary, but this skin care treatment can encourage cell turnover. Beginners may want to try glycolic acid. Other options include acne-busting salicylic acid and moisturizing hyaluronic acid . Over time, you should notice a brighter and more even complexion.",n
+810,796,li,Start once per week with the goal of using every night. Do a patch test at least 24 hours before first use. Add a few drops of the solution to a cotton pad and sweep across the face. Make sure to avoid the eye area.,n
+814,796,li,You have particularly sensitive skin or experience a reaction to a particular acid.,n
+816,796,li,,n
+819,816,text,Glycolic acid can be found in,n
+821,816,text,"Alpha-H Liquid Gold . For hydration, choose",n
+824,816,text,Peter Thomas Roth Water Drench Hyaluronic Cloud Serum . People with oily skin types may safely layer acids. Apply thinner products and lower pH levels first.,n
+829,796,li,Choose an acid treatment that fits your skin’s needs.,n
+834,796,li,"According to 2021 research , acids can help reduce signs of aging, scarring, and acne, and even out your skin tone.",n
+840,796,li,Acids may make your skin more sensitive to the sun. Be sure to use sunblock during the day following application of an acid treatment.,n
+842,600,h3,Step 6,n
+843,600,ul,,n
+847,843,li,"Serums deliver powerful ingredients directly to the skin. An essence is simply a watered-down version. Vitamin E is great for dry skin, while antioxidants like green tea extract can be used on dull complexions. If you’re prone to breakouts, try retinol or vitamin C.",n
+853,843,li,"Carry out a patch test 24 hours before using a new serum or essence. If skin looks good, dispense the product into your hand and press into your skin. You can layer multiple products. Just apply water-based ones before oil-based and wait around 30 seconds between each.",n
+854,843,li,,n
+858,854,span,"skin, try",n
+860,854,text,La Roche-Posay Retinol B3 Serum,n
+861,854,span,,n
+862,861,text,". If a brightening effect is what you’re after,",n
+864,861,text,Sunday Riley C.E.O. Brightening Serum contains 15 percent vitamin C.,n
+869,843,li,"Choose a serum that delivers benefits your skin needs, whether it’s one that focuses on pro-aging support, moisturizing, brightening, or spot reduction.",n
+874,843,li,"Serums deliver highly concentrated skin benefits. Because of their formula type, more of the product penetrates your skin’s surface.",n
+878,843,li,"Some serums can be pricey — but you don’t need to spend a fortune to reap the benefits. And remember, compared to moisturizer, you only use a small amount of serum, so a little goes a long way.",n
+880,600,h3,Step 7,n
+881,600,ul,,n
+885,881,li,Anti-inflammatory products are for blemishes with a head. Follow with a spot-drying treatment. Ones that dry visibly are great for nighttime use.,n
+889,881,li,product and leave to dry.,n
+893,881,li,You’re spot-free.,n
+895,881,li,,n
+899,895,text,"Mario Badescu Drying Lotion uses salicylic acid to dry up spots overnight. Alternatively, stick a pus-absorbing",n
+902,895,text,COSRX Acne Pimple Master Patch on before bed.,n
+907,881,li,"Avoid popping pimples, blemishes, and whiteheads yourself. The AAD says that this can cause scarring, introduce bacteria, and push pus further under the skin. If you don’t see improvement in 4 to 6 weeks , consider talking with a dermatologist.",n
+915,881,li,"Healing products can make a noticeable difference, sometimes even overnight.",n
+919,881,li,"Sometimes, peeling, redness, or irritation can occur, especially if you have sensitive skin.",n
+921,600,h3,Step 8,n
+922,600,ul,,n
+926,922,li,"Some products can clog pores, but hydrating serums aren’t one of them. With the ability to pack a real moisture punch, they’re wonderful for dry skin.",n
+932,922,li,"These powerful hydrators can come in various forms. Some are serums. Others are thicker masks. And some are even designed to be left on overnight. If this is the case, apply it at the end of your routine. Just follow the instructions on the pack and you’re good to go.",n
+933,922,li,,n
+934,933,span,,n
+937,934,text,"Designed to deliver long lasting moisture, the ingredients list of",n
+939,934,text,The Ordinary Hyaluronic Acid 2% + B5,n
+941,933,span,hyaluronic acid with different molecular weights to penetrate the skin.,n
+942,933,text,"If you’re more into sheet masks,",n
+943,933,span,,n
+944,943,text,K-beauty brand TONYMOLY offers their,n
+946,943,text,different sheet masks with different hydrating ingredients.,n
+948,933,text,"If you’re applying a sheet mask, make sure to use it earlier in your routine — just after toner. Otherwise, when you take it off, it may remove your other products as well.",n
+952,922,li,Try refrigerating a sheet mask before using it and enjoy some additional anti-inflammatory benefits.,n
+956,922,li,A mask keeps beneficial and hydrating ingredients in close contact with your skin and can remove excess sebum.,n
+960,922,li,"As with all new skin care products, test masks on a small area of skin before applying, as they may contain ingredients that irritate your skin.",n
+962,600,h3,Step 9,n
+963,600,ul,,n
+967,963,li,"A richer nighttime eye cream can help improve appearance-related issues, like tiredness and fine lines. Look for a high concentration of peptides and antioxidants.",n
+973,963,li,cream to the eye area and dab in.,n
+977,963,li,Your moisturizer or serum can be safely and effectively used under your eyes.,n
+978,963,li,,n
+983,978,text,La Roche-Posay Redermic Retinol Eye Crea,n
+986,978,span,,n
+987,986,text,"aims to refresh the eye area, while",n
+989,986,text,Olay Regenerist Eye Lifting Serum is packed with those all-important peptides.,n
+994,963,li,"Apply eye cream with clean hands or a clean applicator and gently pat into skin, rather than rubbing — which can contribute to skin aging and damage.",n
+998,963,li,"Applying overnight gives the product a chance to penetrate your skin. Plus, certain formulas can help boost collagen production and delay the signs of aging.",n
+1002,963,li,Dedicated eye creams can be expensive. But there are affordable options that can also make a difference for your skin.,n
+1004,600,h3,Step 10,n
+1005,600,ul,,n
+1009,1005,li,A nighttime oil is great for dry or dehydrated skin. The evening is the best time to apply thicker oils that may result in an unwanted shiny complexion.,n
+1013,1005,li,Pat a few drops into the skin. Make sure no other product is applied on top for the best results.,n
+1014,1005,li,,n
+1019,1014,text,"Dermalogica Retinol Clearing Oil features argan, rosehip, and jojoba oils to nourish the skin.",n
+1022,1014,text,"Dr. Wang Herbal Skincare Radiance Facial Oil contains ginseng, which may help reduce signs of aging, and licorice root, which has anti-inflammatory properties.",n
+1027,1005,li,Cleanse thoroughly the following morning to remove residue from heavier products.,n
+1031,1005,li,"Oils may change the effectiveness of your sunscreen during the day, so nighttime application may be best for certain products.",n
+1035,1005,li,"A heavier oil may not be the best fit for those with oily skin or acne. Everyone’s skin is different, so find a product that works for you.",n
+1037,600,h3,Step 11,n
+1038,600,ul,,n
+1042,1038,li,"Night creams are a totally optional last step, but they can be worthwhile. While day creams are designed to protect the skin, these rich moisturizers help cell repair. Sleep masks , on the other hand, seal in all your other products and contain hydrating ingredients mild enough to be kept on overnight.",n
+1049,1038,li,product in your hands before distributing it evenly across your face.,n
+1053,1038,li,Your skin already looks and feels its best.,n
+1055,1038,li,,n
+1058,1055,text,"For pro-aging support, apply",n
+1060,1055,text,"Elemis Pro-Collagen Overnight Matrix . For an affordable, hydrating mask,",n
+1063,1055,text,extra moisture.,n
+1068,1038,li,Test a small amount before an overnight application to see how your skin reacts.,n
+1072,1038,li,Applying a night cream or sleep mask allows the product time to penetrate the skin barrier.,n
+1076,1038,li,"Some people may not like the feel of sleeping with heavier products on. If that’s the case, you can still take advantage of a more lightweight formula.",n
+1077,94,div,,n
+1081,1077,h2,Frequently asked questions,n
+1083,1077,h3,What routine should I follow,n
+1085,1077,p,"If your skin is dry, focus your routine on hydration and building a healthy skin barrier . Follow the steps above but swap out products that may be too harsh or acidic for those that add moisture to your skin and help it retain that moisture.",n
+1089,1077,h3,What is a basic skin care routine?,n
+1091,1077,p,"A basic skin care routine has fewer steps than an expanded one but keeps your skin clean and healthy. The steps can depend on your needs and the amount of time you have. Usually, a basic routine includes removing makeup, cleansing your face, applying a spot treatment for any blemishes, using sunblock during the day, and putting on moisturizer.",n
+1095,1077,h3,At what age should you start a skin care routine?,n
+1097,1077,p,It’s never too early — or late — to start a skin care routine. Even kids can practice taking care of their skin by washing their faces when they wake up and before bed and applying sunscreen during the day.,n
+1099,1077,p,"But, choose the steps and specific products in your routine for your skin concerns and age. Adolescents, for example, may need a routine built on products to help manage blemishes and oily skin. Adults may focus more on products that support their skin as it ages. Build a routine that’s right for you.",n
+1111,1077,div,,n
+1113,1111,div,HEALTHLINE CHALLENGE,n
+1114,1111,div,,n
+1116,1114,div,Get Your Best Skin from Within,n
+1118,1114,p,Your skin is affected by more than what you put on it. Our 10-day newsletter challenge will show you the healthy habits to improve your skin from the inside.,n
+1121,1111,div,,n
+1125,1121,div,Enter your email,n
+1130,1121,span,SIGN ME UP!,n
+1136,94,div,,n
+1140,1136,h2,The bottom line,n
+1142,1136,p,"Not everyone loves a 10-step routine, so don’t feel pressured to include every step in the above lists.",n
+1144,1136,p,"For many people, a good rule of thumb is to apply products thinnest to thickest — for however many products that may be — as they move through their skin care routines.",n
+1146,1136,p,"The most important thing is finding a skin care routine that works for you and that you’ll follow. Whether that involves the whole shebang or a simplified ritual, have fun experimenting.",n
+1147,94,div,,n
+1151,1147,h2,Food Fix,n
+1159,1147,div,,n
+1173,1159,div,,n
+1175,1173,div,Food Fix,n
+1177,1173,div,"In this video, learn the best foods to eat",n
+1192,1159,div,,n
+1194,1192,span,"2 minutes, 27 seconds",n
+1196,1192,span,Volume 0%,n
+1197,1159,div,,n
+1200,1197,span,keyboard shortcuts,n
+1201,1197,div,,n
+1202,1201,div,,n
+1204,1202,span,Keyboard Shortcuts,n
+1205,1202,button,,n
+1208,1205,span,Enabled,n
+1210,1205,span,Disabled,n
+1212,1201,div,,n
+1213,1212,div,,n
+1215,1213,span,Play or Pause,n
+1217,1213,span,SPACE,n
+1218,1212,div,,n
+1220,1218,span,Increase Volume,n
+1222,1218,span,↑,n
+1223,1212,div,,n
+1225,1223,span,Decrease Volume,n
+1227,1223,span,↓,n
+1228,1212,div,,n
+1230,1228,span,Seek Forward,n
+1232,1228,span,→,n
+1233,1212,div,,n
+1235,1233,span,Seek Backward,n
+1237,1233,span,←,n
+1238,1212,div,,n
+1240,1238,span,Captions On or Off,n
+1242,1238,span,c,n
+1243,1212,div,,n
+1245,1243,span,Fullscreen or Exit Fullscreen,n
+1247,1243,span,f,n
+1250,1212,div,Mute or Unmute,n
+1255,1212,div,Seek %,n
+1261,1159,div,,n
+1280,1261,div,,n
+1292,1280,div,,n
+1294,1292,button,facebook,n
+1296,1292,button,twitter,n
+1298,1292,button,Email,n
+1299,1292,div,,n
+1301,1299,button,Link,n
+1303,1299,textarea,https,n
+1307,1292,div,,n
+1309,1307,button,Embed,n
+1311,1307,textarea,"<iframe src="" or or cdn.jwplayer.com or players or eS1Dr7rL-6sho9Wyf.html"" width=""640"" height=""360"" frameborder=""0"" scrolling=""auto"">< or iframe>",n
+1316,1280,div,,n
+1317,1316,button,,n
+1318,1317,text,Auto,n
+1320,1317,span,180p,n
+1322,1316,button,1080p,n
+1324,1316,button,720p,n
+1326,1316,button,406p,n
+1328,1316,button,270p,n
+1330,1316,button,180p,n
+1344,1261,div,,n
+1374,1344,div,Live,n
+1376,1344,div,00:00,n
+1408,81,div,,n
+1410,1408,div,ADVERTISEMENT,n
+1415,1408,div,,n
+1417,1415,div,Free delivery,n
+1419,1415,p,"Skip the waiting rooms and pharmacy lines. Order through the app and join the 1 million+ people cared for by Nurx, your online pharmacy.",n
+1424,1408,div,LEARN MORE,n
+1428,61,p,"Last medically reviewed on December 20, 2021",n
+1429,61,div,,n
+1430,1429,div,,n
+1432,1430,p,,n
+1436,1432,span,16 sources,n
+1438,1432,span,collapsed,n
+1439,1430,div,,n
+1441,1439,div,"Healthline has strict sourcing guidelines and relies on peer-reviewed studies, academic research institutions, and medical associations. We avoid using tertiary references. You can learn more about how we ensure our content is accurate and current by reading our editorial policy .",n
+1444,1439,ul,,n
+1446,1444,li,,n
+1448,1446,span,Bilodeau K. . Skin serum,n
+1450,1446,br,health.harvard.edu or blog or skin-serum-what-it-can-and-cant-do-2018061214029,n
+1452,1444,li,,n
+1454,1452,span,acne scars.,n
+1456,1452,br,idoj.in or article.asp?issn=;year=2015;volume=6;issue=2;spage=84;epage=88;aulast=Chandrashekar,n
+1458,1444,li,,n
+1460,1458,span,"Chen W, et al. . The optimal cleansing method for the removal of sunscreen: Water, cleanser or cleansing oil?",n
+1462,1458,br,onlinelibrary.wiley.com or doi or abs or 10.1111 or jocd.12995,n
+1464,1444,li,,n
+1466,1464,span,Dermatologists’ top tips,n
+1468,1464,br,aad.org or public or skin-hair-nails or skin-care or dry-skin,n
+1470,1444,li,,n
+1472,1470,span,"Draelos Z, et al. . Novel retinoid ester in combination with salicylic acid for the treatment of acne.",n
+1474,1470,br,onlinelibrary.wiley.com or doi or 10.1111 or jocd.12190,n
+1476,1444,li,,n
+1478,1476,span,Dry skin relief. .,n
+1480,1476,br,aad.org or public or skin-hair-nails or skin-care or dry-skin-relief,n
+1482,1444,li,,n
+1484,1482,span,cleanser pH on maintaining a healthy skin barrier.,n
+1486,1482,br,jaad.org or article or S-X or fulltext,n
+1488,1444,li,,n
+1490,1488,span,"Hosokawa K, et al. . Rubbing the skin when removing makeup cosmetics is a major factor that worsens skin conditions in atopic dermatitis patients.",n
+1492,1488,br,onlinelibrary.wiley.com or doi or 10.1111 or jocd.13777,n
+1494,1444,li,,n
+1496,1494,span,How to safely exfoliate at home. .,n
+1498,1494,br,aad.org or public or skin-hair-nails or skin-care or exfoliation,n
+1500,1444,li,,n
+1502,1500,span,Nicol M. . Barrier cream.,n
+1504,1500,br,dermnetnz.org or topics or barrier-cream or,n
+1506,1444,li,,n
+1508,1506,span,"Nilforoushzadeh MA, et al. . Skin care and rejuvenation by cosmeceutical facial mask.",n
+1510,1506,br,pubmed.ncbi.nlm.nih.gov or 30133135 or,n
+1512,1444,li,,n
+1514,1512,span,Pimple popping,n
+1516,1512,br,aad.org or public or diseases or acne or skin-care or popping,n
+1518,1444,li,,n
+1520,1518,span,Romanowski P. . An introduction to cosmetic technology.,n
+1522,1518,br,aocs.org or stay-informed or inform-magazine or featured-articles or an-introduction-to-cosmetic-technology-april-2015,n
+1524,1444,li,,n
+1526,1524,span,Samargandy S. . Skin resurfacing chemical peels.,n
+1528,1524,br,statpearls.com or ArticleLibrary or viewarticle or 29107,n
+1530,1444,li,,n
+1532,1530,span,Should I apply my skin care products in a certain order? .,n
+1534,1530,br,aad.org or public or skin-hair-nails or skin-care or skin-care-products,n
+1536,1444,li,,n
+1538,1536,span,Simon S. . Choose the right sunscreen.,n
+1540,1536,br,cancer.org or latest-news or choose-the-right-sunscreen.html,n
+1551,1429,div,FEEDBACK,n
+1580,9,div,,n
+1585,1580,h3,Read this next,n
+1587,1580,ul,,n
+1593,1587,li,,n
+1594,1593,text,"I Followed the #60SecondRule, and My Skin Has Never Been Better",n
+1604,1593,p,"For any kind of cleanser to work its best magic, you need to be gently washing your skin for 60 seconds. Sixty seconds every day might be all your…",n
+1616,1587,li,,n
+1617,1616,text,"How to Get Better Skin with Less Effort, According to Experts",n
+1627,1616,p,"Skip trying to maintain a 10-step routine every day and break down your regimen into daily, weekly, and monthly tasks. By pairing the right steps with…",n
+1636,1587,li,,n
+1637,1636,text,What Does It Mean to Exfoliate? Why You Should and How to Start,n
+1647,1636,p,"Your skin naturally sheds dead skin cells to make room for new cells every 30 or so days. If dead cells don’t shed completely, it can result in dry…",n
+1659,1587,li,,n
+1660,1659,text,Face-Steaming and How to Do It at Home,n
+1670,1659,p,"Looking for a way to step up your skin care game without breaking the bank? Face steaming is a DIY skin treatment that cleanses, nourishes, and feels…",n
+1679,1587,li,,n
+1680,1679,text,How to Wash Your Face,n
+1682,1679,p,Here are 12 do’s and don’ts,n
+1691,1587,li,,n
+1692,1691,text,4 Reasons Your Skin Care Stopped Working and 5 Alternatives to Try,n
+1702,1691,p,Are hyped ingredients falling short when you apply them on your skin? Here’s what it means when the product fails and what you can try instead for…,n
+1711,1587,li,,n
+1712,1711,text,Hydrating and Moisturizing Aren’t the Same,n
+1722,1711,p,"The key to happy skin is moisturizing it correctly, but what’s the difference between the products out there and how do they work? We lay it out for…",n
+1731,1587,li,,n
+1732,1731,text,The Effortless Man’s Guide to Basic Skin Care,n
+1742,1731,p,"As skin care is getting more and more popular for men, it’s time to lay down the foundation of a good routine. We cover everything from the three…",n
+1751,1587,li,,n
+1752,1751,text,I Swear by This 4-Step Nighttime Skin Routine,n
+1762,1751,p,"For a skin care enthusiast, there’s nothing better than unwinding after a long day and pampering your skin. And because our skin cells regenerate in…",n
+1771,5,footer,,n
+1780,1771,div,,n
+1783,1780,div,,n
+1785,1783,h2,Get our wellness newsletter,n
+1787,1783,p,Filter out the noise and nurture your inbox with health and wellness advice that’s inclusive and rooted in medical expertise.,n
+1795,1783,div,SIGN UP,n
+1802,1780,div,,n
+1803,1802,ul,,n
+1805,1803,li,About Us,n
+1807,1803,li,Contact Us,n
+1809,1803,li,Use,n
+1811,1803,li,Privacy Policy,n
+1813,1803,li,Privacy Settings,n
+1815,1803,li,Advertising Policy,n
+1816,1802,ul,,n
+1818,1816,li,Health Topics,n
+1820,1816,li,Medical Affairs,n
+1822,1816,li,Content Integrity,n
+1824,1816,li,Newsletters,n
+1826,1816,li,Do Not Sell My Info,n
+1829,1816,li,"© 2005-2022 Healthline Media a Red Ventures Company. All rights reserved. Our website services, content, and products are for informational purposes only. Healthline Media does not provide medical advice, diagnosis, or treatment. See additional information .",n
+1833,1802,div,"© 2005-2022 Healthline Media a Red Ventures Company. All rights reserved. Our website services, content, and products are for informational purposes only. Healthline Media does not provide medical advice, diagnosis, or treatment. See additional information .",n
+1838,1771,div,,n
+1840,1838,div,About Careers Advertise with us,n
+1843,1838,div,,n
+1845,1843,p,OUR BRANDS,n
+1846,1843,text,Healthline Medical News Today Greatist Psych Central,n

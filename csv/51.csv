@@ -1,0 +1,338 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+8,0,div,,n
+11,8,p,Space.com in your inbox,n
+13,8,div,,n
+15,13,p,"Sign up below to get the latest from Space.com, plus exclusive special offers, direct to your inbox!",n
+16,13,form,,n
+22,16,div,"At Future, we have many other great brands you might like - are you happy for us to contact you with news and offers from our other brands?",n
+26,16,div,We also work with some great partners - are you happy for us to email you from time to time on behalf of these partners?,n
+35,13,p,Thank you,n
+38,13,p,There was a problem. Please refresh the page and try again.,n
+41,13,footer,By submitting your information you agree to the Terms and Conditions and Privacy Policy and are aged 16 or over.,n
+46,0,text,Skip to main content,n
+90,0,ul,,n
+94,90,li,News,n
+97,90,li,Astronomy,n
+100,90,li,Spaceflight,n
+103,90,li,The Moon,n
+106,90,li,Our Solar System,n
+109,90,li,Skywatching,n
+110,90,li,,n
+112,110,span,More,n
+113,110,ul,,n
+115,113,li,Videos,n
+117,113,li,Search,n
+119,113,li,Technology,n
+121,113,li,Entertainment,n
+123,113,li,Reference,n
+125,113,li,SpaceX,n
+127,113,li,Expert Voices,n
+129,113,li,Forums,n
+131,113,li,All Topics,n
+133,113,li,"Subscribe to ""All About Space"" Magazine!",n
+135,113,li,Space.com Store,n
+137,113,li,About Us,n
+139,113,li,Web Notifications,n
+143,0,div,Skip advert,n
+153,0,div,,n
+156,153,div,,n
+158,156,span,Trending,n
+159,156,ul,,n
+161,159,li,Best Telescopes,n
+163,159,li,Best Star Projectors,n
+165,159,li,Best Binoculars,n
+167,159,li,Lego Star Wars deals,n
+169,159,li,Best Drones,n
+171,159,li,Full Moon Calendar,n
+173,159,li,Russia-Ukraine war space impacts,n
+175,159,li,Webb Space Telescope,n
+177,159,li,Solar System Planets,n
+179,159,li,Night Sky Tonight,n
+181,159,li,Calendar,n
+184,153,article,,n
+185,184,section,,n
+195,185,div,"For the most fun under the stars, make sure you gear-up properly in advance. Here, a well-equipped amateur astronomy club sets up for a fun star party in Santa Cruz, CA",n
+199,185,div,,n
+201,199,p,,n
+203,201,strong,*Editor's Note,n
+206,201,text,"Get up to 15% cash back and exclusive deals on gadgets, gear, electronics, computers and more through Purch, Space.com's parent company. And check out our picks for the",n
+208,201,strong,Best Space Gifts,n
+209,201,text,and,n
+211,201,strong,Best Kids' Space Gifts and Toys,n
+212,201,text,for more ideas.,n
+214,201,strong,*,n
+225,199,p,"It's out there calling you. You wouldn't be reading this page if you didn't feel it: The universe is pleading to be seen and understood. If you can get away from city lights on a moonless night, you'll get much closer to the cosmos. But looking up – whenever you can, from wherever you are, even for a moment – can make a huge difference in how you think about things.",n
+228,199,p,"Experienced stargazers have found what works for them, often through expensive trial and error. Let's save you some time and money. .",n
+271,199,h2,Get out and look up,n
+274,199,p,"""If you're just getting started in astronomy, the best thing to do is to first spend some time under the stars with just your eyes and get acquainted with the brighter stars and constellations,"" says Space.com skywatching columnist Joe Rao.",n
+279,199,div,,n
+281,279,div,RECOMMENDED VIDEOS FOR YOU...,n
+284,279,div,Click here,n
+285,279,div,,n
+287,285,div,,n
+303,287,div,OTD in Space – June 23,n
+325,287,div,More Videos,n
+329,287,div,,n
+331,329,span,42 seconds,n
+333,329,span,Volume 0%,n
+334,287,div,,n
+337,334,span,keyboard shortcuts,n
+338,334,div,,n
+339,338,div,,n
+341,339,span,Keyboard Shortcuts,n
+342,339,button,,n
+345,342,span,Enabled,n
+347,342,span,Disabled,n
+349,338,div,,n
+352,349,div,Play or Pause,n
+355,349,div,,n
+357,355,span,Increase Volume,n
+359,355,span,↑,n
+360,349,div,,n
+362,360,span,Decrease Volume,n
+364,360,span,↓,n
+365,349,div,,n
+367,365,span,Seek Forward,n
+369,365,span,→,n
+370,349,div,,n
+372,370,span,Seek Backward,n
+374,370,span,←,n
+375,349,div,,n
+377,375,span,Captions On or Off,n
+379,375,span,c,n
+380,349,div,,n
+382,380,span,Fullscreen or Exit Fullscreen,n
+384,380,span,f,n
+385,349,div,,n
+387,385,span,Mute or Unmute,n
+389,385,span,m,n
+392,349,div,Seek %,n
+395,287,div,,n
+409,395,div,,n
+411,409,div,Next Up,n
+413,409,div,OTD in Space – June 22,n
+415,409,div,00:55,n
+417,395,div,,n
+429,417,div,,n
+432,429,div,Settings,n
+433,429,div,,n
+435,433,button,Off,n
+437,433,button,Automated Captions - en-US,n
+439,417,div,,n
+440,439,button,,n
+441,440,text,Font Color,n
+444,440,div,White,n
+447,439,button,Font Opacity,n
+453,439,button,Font Size,n
+458,439,button,,n
+459,458,text,Font Family,n
+462,458,div,Arial,n
+464,439,button,,n
+465,464,text,Character Edge,n
+468,464,div,None,n
+471,439,button,Background Color,n
+476,439,button,,n
+477,476,text,Background Opacity,n
+480,476,div,50%,n
+483,439,button,Window Color,n
+488,439,button,,n
+489,488,text,Window Opacity,n
+492,488,div,0%,n
+495,439,button,Reset,n
+525,417,div,,n
+527,525,button,200%,n
+529,525,button,175%,n
+531,525,button,150%,n
+533,525,button,125%,n
+541,417,div,,n
+543,541,button,Arial,n
+545,541,button,Courier,n
+547,541,button,Georgia,n
+549,541,button,Impact,n
+551,541,button,Lucida Console,n
+553,541,button,Tahoma,n
+555,541,button,Times New Roman,n
+557,541,button,Trebuchet MS,n
+559,541,button,Verdana,n
+561,417,div,,n
+563,561,button,None,n
+565,561,button,Raised,n
+567,561,button,Depressed,n
+569,561,button,Uniform,n
+571,561,button,Drop Shadow,n
+633,417,div,,n
+635,633,button,facebook,n
+637,633,button,twitter,n
+639,633,button,Email,n
+640,633,div,,n
+642,640,button,Link,n
+644,640,textarea,https,n
+647,640,div,Copied,n
+661,395,div,,n
+691,661,div,Live,n
+693,661,div,00:00,n
+719,285,div,PLAY SOUND,n
+723,199,p,"A good astronomy app can really help you get oriented. Check out our Space.com Mobile Stargazing page to understand what they can do. Reading books, watching documentaries, or listening to podcasts on how the cosmos works can whet your appetite for seeing these phenomena for yourself.",n
+736,199,p,"At some point, you'll probably want to go deeper than your unassisted eye can take you. The next step may be binoculars or a telescope.",n
+738,199,h2,Telescopes,y
+741,199,p,Choosing a quality telescope is like picking the right vehicle to drive. Do you need a compact instrument to zip around to observing sites easily? Or a big truck to haul in loads of photons from distant galaxies? Do you want to investigate planets in our own star system? Or cities of stars far away?,n
+744,199,p,"Beginning skywatchers will need to choose between four kinds of telescopes : reflectors , refractors , hybrid and Dobsonian . Space.com's Best Telescopes for the Money can help. Be aware that a new breed of telescopes has come to market, which are driven entirely from your mobile device. Amateur astronomy is about to get very interesting!",n
+758,199,p,,n
+761,758,strong,Celestron SkyProdigy 130,n
+764,758,text,"is a fine example of a mid-market reflector. It sports an onboard computer to make your sky-sailing easy and fun. It aligns itself on the sky in under 4 minutes, so you don't really have to know star names to get up and running. The 5-inch aperture is big enough to capture galaxies.",n
+766,199,p,,n
+768,766,strong,Orion's SkyQuest XT8i IntelliScope,n
+771,766,text,"is a wonderful mid-price Dobsonian, best suited to those who like to drive around the sky manually. This big ""light bucket"" really hauls in the photons from the depths of the cosmos.",n
+773,199,p,,n
+776,773,strong,Levenhuk SkyMatic 105 GT Mak-Cas,n
+779,773,text,"is a great hybrid , using both lenses and mirrors to make a compact, highly portable telescope. It's SynScan computer can get you to nearly 43,000 objects under very dark skies. As an added bonus, you can use the scope to spot daylight sights – like animals or sporting events – as well.",n
+781,199,p,,n
+783,781,strong,Celestron's AstroFi 90 WiFi,n
+786,781,text,is a classic refractor with a digital twist,n
+790,199,p,,n
+791,790,text,"Just make sure to buy an ""image-erecting"" prism diagonal (like Orion's ""Correct Image"" diagonal",n
+795,790,text,) to make sure your images are right-side up and not reversed left-to-right.Space.com editors have come up with a list of some of the best telescopes for beginners.,n
+798,199,p,"Whichever you chose, please do yourself a favor and don't buy a cheap scope from a department store. Poor optics and flimsy hardware will turn you off to the beauty and majesty of the sky before you've really seen it.",n
+800,199,h2,Astronomy Binoculars,y
+812,199,p,"If you want to start small and portable – or feel intimidated by the idea of lugging around a big telescope – good skywatching binoculars can help. For not much money and comparatively little weight binoculars can reveal night-sky sights unavailable to the naked eye. And, of course, you can use binoculars in daylight for birding, sports, people-watching, nautical navigation and more.",n
+814,199,p,,n
+815,814,text,"Most astronomy binoculars use ""porro prisms"" rather than the ""roof prisms"" common to smaller sports optics. To pick the best binoculars for your particular needs, try Space.com's handy binocular buyer's guide:",n
+817,814,strong,How to Choose Binoculars,n
+820,199,p,"One of my favorite binoculars is the relatively small Oberwerk Mariner 8x40 . It has an extremely sharp focus, boasts great light-transmission properties and draws in a wide field. At just 5.5 inches in length, the rugged pair of binoculars makes for a good ""grab-and-go"" option. I use them at the telescope to spot interesting swaths of sky that I may want to investigate in fine detail.",n
+824,199,p,,n
+825,824,text,"You may not need a telescope at all if you go with ""large"" binoculars, like the Celestron SkyMaster 25x100 . You will need a tripod, and perhaps a counterweighted arm to manage these in comfort. The eyepieces of these binoculars each focus separately – it's like working two telescopes sitting side by side. Some people find this too much to deal with. You may want to look into binoculars that use a center focus knob, like Orion's 20x80 Astronomy",n
+831,824,text,model.,n
+833,199,p,,n
+834,833,text,You can find out which binoculars we recommend,n
+836,833,strong,Best Astronomy Binoculars,n
+838,199,h2,Skywatching software,y
+841,199,p,"Many skywatching experts swear by digital planetarium software to map out the night sky. Whether you take your laptop or tablet out with you or print out paper star charts in advance, you'll save a huge amount of time navigating to prime targets for your location and time of year.",n
+844,199,p,"""A planetarium program such as Starry Night Pro can prove to be invaluable, displaying on monitors any number of sky objects that you might want to look at for any hour of the night,"" Rao told Space.com.",n
+849,199,p,"Starry Night , a Space.com partner, makes software that lets skywatchers at all experience levels find constellations, planets and various other night-sky objects. There are also a number of Android and iOS apps for smartphones and tablets. It's very important to pick one that has a red-screen mode to preserve your dark adaptation.",n
+852,199,h2,Stargazing Accessories,y
+855,199,p,"Now that you've got your main skywatching instrument and have some idea of what's up there for you, we need to make you comfortable out there. These aren't absolutely essential, but they each can contribute a lot to your enjoyment.",n
+857,199,h2,Observing chair,y
+860,199,p,"If you're going with binoculars, bring a lightweight reclining lawn chair —a ""lounger.""Your arms will thank you. Your back will thank you. Many a meteor shower has been won or lost based upon chair comfort!",n
+864,199,p,,n
+865,864,text,Telescope-jockeying skywatchers should seriously consider a purpose-built astronomy chair,n
+869,864,text,", especially if you own a refractor . The sliding seat can get low to the ground, or as high as your eye would be when standing. The best ones have a padded backrest.",n
+871,199,h2,Folding camp table,y
+874,199,p,"Where are you going to put your binoculars? How are you planning to read those star charts? When you put the iPad down, can you find it again easily? How about that coffee? Your box of colored filters? Your sandwich?",n
+879,199,p,My favorite table for skywatching rolls up when the night is done and stuffs into my telescope bag's outer compartment.,n
+881,199,h2,Red-light Flashlight,y
+883,199,p,,n
+884,883,text,"When you're observing at night, you're going to need to read a star chart or a planet finder or your telescope markings. You will need to find items like eyepieces or your coffee mug. An astronomy tool like this Celestron Astro Night Vision Flashlight",n
+888,883,text,goes,n
+893,199,p,"It takes at least 20 minutes to become dark-adapted. Some experienced observers say their eyesight doesn't peak until after more than an hour of complete darkness. A 10-millisecond flash of white light from a cellphone or car headlight can reset your eyes back to ""do over.""",n
+897,199,p,,n
+898,897,text,My red-lens flashlight goes around my forehead,n
+902,897,text,on an elastic band.,n
+905,199,p,You don't even have to buy such a tool. You could make your own. It's popular among maker or DIY folks to modify an old Maglite with a bit of deep red lighting gel to suit your stargazing needs.,n
+909,199,h2,Portable Power,y
+912,199,p,It's an unwritten rule,n
+914,199,p,,n
+915,914,text,Units like the Orion Dynamo Pro 17 AH Rechargeable 12V DC Power Station or the Celestron Power Tank,n
+919,914,text,"are basically bigrechargeable batteries with ""lighter-style"" power sockets.",n
+921,199,h2,Orion Dynamo Power Tank,n
+928,199,p,"Some have 12VDC to 120AC inverters. Run your laptop, telescope, phone and other gadgets. A few boxes have USB charge ports, red and white flashlights and blinkers. Some have weather radios. They are heavy, but totally ""worth the weight.""",n
+930,199,h2,Undo the Dew,n
+941,199,h2,Orion Dew Zapper,n
+943,199,p,,n
+944,943,text,Something else to plug in,n
+948,943,text,"Pro-4 Channel Prevention System fit around four areas of the telescope. I wrap heat strips around the front objective , or the primary mirror , or both . Other heat strips go around the focuser area where the eyepieces go and the finder scope. These buy me fog-free observing time after the dew point has descended to ground level. Eventually, dew will end the night. But I can usually get at least 30 extra minutes of observing by plugging in the old Dew Zapper.",n
+950,199,h2,Cloaking Device,y
+953,199,p,"Yeah, I said ""cloaking device"" . But a wrap of fabric, with a drawstring around the open bottom, really helps. The best ones are reversible, with a silver reflective side and a dark absorptive side. Good observing nights start in the daylight with a thorough setup and check of the telescope. Then it sits — for hours — equilibrating to the lowering temperatures as the sun sets. Meanwhile, dust of all kinds has been kicked up by friends stopping by, cars pulling into the star party site, campers erecting tents; your optics will stay protected from all of that.",n
+955,199,h2,Telescope Dust Cloak,y
+961,199,h2,More Equipment,n
+964,199,p,And here are a few other major pieces of equipment you might want to look into for all your skywatching needs:,n
+965,199,h2,,n
+966,965,text,Warm socks,n
+969,965,text,!,n
+972,199,p,Can't tell you how many nights of great observing have been shanghaied by discomfort. Don't be that dude. I've heard electric socks work; I've used chemical toe warmers. Best for me: A thin silk sock liner inside a properly engineered mountaineering sock within an insulated rubber-sole boot . You can pretty much stand anything if your feet are warm and dry.,n
+974,199,h2,Cell phone with music player and recorder,y
+977,199,p,"Your cellphone may save your life out there in an emergency. So keep its battery charged. But we hope nothing more than a great night of skywatching lies in store for you. A music player can keep you company; you'll find amazing correlations between what you hear and what you see in the sky. I sometimes take audio notes during particularly good observing. It keeps my hands free and my eye at the eyepiece. Even if you never transcribe them, you can listen later and relive the cold awesome night in your warm cozy bed.",n
+979,199,h2,Shooting gloves,y
+984,199,p,"I'm skinny. I have bony fingers. They get cold; especially on metal telescope surfaces. But I need manual dexterity to run the cameras, futz with the focuser knob, change eyepieces and fiddle with the laptop. My solution came from an Army or Navy store: fingerless gloves with a fold-back, mitten-top covering. The guy with the black tattoos said his black-ops sniper buddies used them on cold-weather jobs. I didn't ask any more questions.",n
+986,199,h2,Belt pack,y
+991,199,p,"OK, it's actually a fanny pack I wear backward to give me a large kangaroo pouch. Stylish, yeah, I know. Buy hey, it's dark and the only ones around are other astronomers; very few fashionistas among us. I keep certain items close at hand; easier to access than rooting around inside a pocket.",n
+993,199,h2,Thermos,y
+999,199,p,"The clearest observing nights are often the coldest. Insulate your outside and warm your insides! I’m a tea drinker . Coffee works, too. Máte? Kava-kava? Hot Red Bull? Consume at your own risk. Hot chocolate makes my eyes sleepy.",n
+1001,199,p,,n
+1002,1001,text,NOTE,n
+1004,1001,strong,Alcohol is dangerous,n
+1005,1001,text,". Adult drinks can give you a false sense of warmth while actually cooling your core. Plus, you may be driving away from your dark-sky observing site when your night is over. Just say no to booze at the telescope.",n
+1007,199,h2,Let the light in,n
+1010,199,p,"The universe is alive with energy. If you're comfortable, safe and properly equipped, you have established the boundary conditions for deep personal enlightenment. Have a great time, out there! May the photons be with you.",n
+1013,199,p,this guide @DavidSkyBrody and @MiriKramer .,n
+1027,185,p,"Join our Space Forums to keep talking space on the latest missions, night sky and more! And if you have a news tip, correction or comment, let us know at: community@space.com.",n
+1030,185,div,,n
+1037,1030,div,Miriam Kramer,n
+1049,1030,p,"Miriam Kramer joined Space.com as a Staff Writer in December 2012. Since then, she has floated in weightlessness on a zero-gravity flight, felt the pull of 4-Gs in a trainer aircraft and watched rockets soar into space from Florida and Virginia. She also served as Space.com's lead space entertainment reporter, and enjoys all aspects of space news, astronomy and commercial spaceflight. Miriam has also presented space stories during live interviews with Fox News and other TV and radio outlets. She originally hails from Knoxville, Tennessee where she and her family would take trips to dark spots on the outskirts of town to watch meteor showers every year. She loves to travel and one day hopes to see the northern lights in person. Miriam is currently a space reporter with Axios, writing the Axios Space newsletter. You can follow Miriam on Twitter.",n
+1051,185,div,,n
+1054,1051,div,More about...,n
+1061,1051,div,,n
+1063,1061,div,Latest,n
+1067,1061,div,,n
+1069,1067,span,See,n
+1070,1067,text,more latest,n
+1284,184,p,Most Popular,n
+1357,0,div,,n
+1358,1357,p,,n
+1359,1358,text,"Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site",n
+1363,1358,text,.,n
+1365,1357,ul,,n
+1367,1365,li,About Us,n
+1371,1365,li,Terms and conditions,n
+1375,1365,li,Privacy policy,n
+1379,1365,li,Cookies policy,n
+1383,1365,li,Accessibility Statement,n
+1387,1365,li,Topics,n
+1391,1365,li,Advertise with us,n
+1395,1365,li,Web notifications,n
+1399,1365,li,Careers,n
+1403,1365,li,Do not sell my info,n
+1405,1357,p,"© Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.",n
+1432,0,div,,n
+1469,1432,div,,n
+1472,1469,div,More stories to check out before you go,n
+1477,1469,div,Keep on reading,n
+1481,1432,div,,n
+1491,1481,div,,n
+1517,1491,div,,n
+1519,1517,span,Flat-Earther Blasts Himself into the Sky on Homemade Rocket,n
+1521,1517,span,"A flat-Earth conspiracy theorist named Mike Hughes finally lifted off our spherical planet's surface into the skies aboard a self-made, steam-powered rocket Saturday .",n
+1536,1491,div,,n
+1538,1536,span,Watch China's Chang'e 5 spacecraft land on the moon in this amazing video,n
+1540,1536,span,A spectacular video from China's Chang'e 5 lander reveals its successful touchdown on the moon as it softly set down to collect the first lunar samples in 44 years.,n
+1555,1491,div,,n
+1557,1555,span,"Soyuz Launch Abort, Release Dramatic Rocket Video",n
+1559,1555,span,"A deformed sensor caused the harrowing Soyuz rocket launch abort that forced its American and Russian crew to perform a emergency landing last month, Russia's space agency Roscosmos announced Thursday .",n
+1596,1481,div,,n
+1598,1596,span,Watch SpaceX's Starship SN8 do a wild landing flip and then explode in this awesome video,n
+1600,1596,span,"Video footage from a tracking camera on the landing pad captured the final moments of the Starship prototype SN8 test flight on Dec. 9, during which the rocket performed a belly flop-like maneuver before making its descent and exploding upon landing.",n
+1617,1432,div,,n
+1623,1617,div,,n
+1625,1623,span,Here's What NASA's 'Toasty' Camera Saw As It Melted After a SpaceX Launch,n
+1627,1623,span,Watch how a SpaceX rocket launch melted a NASA photographer's camera in a this animated photo clip by photographer Bill Ingalls.,n
+1639,1617,div,,n
+1641,1639,span,"Astronaut’s Arrest Spotlights Differences in NASA, Navy Policies",n
+1643,1639,span,The bizarre arrest of NASA astronaut Lisa Nowak Monday cast in sharp relief the guidelines governing civilian and military spaceflyers.,n
+1655,1617,div,,n
+1657,1655,span,Superfast Military Aircraft Lost in Test Flight,n
+1659,1655,span,"DARPA and the Air Force launched a hypersonic glider tests from California. The Falcon HTV-2 hypersonic glider was expected to reach Mach 20, about 13,000 mph.",n
+1739,1432,div,,n
+1747,1739,div,"Object Bigger than Pluto Discovered, Called 10th Planet",n
+1761,1739,div,Watch a SpaceX Rocket Generate 2 Sonic Booms and Land in This Amazing Video,n
+1804,1432,div,,n
+1809,1804,div,Raid Shadow Legends,n
+1812,1804,span,,n
+1814,1812,span,Play this game,n
+1817,1812,span,Raid Shadow Legends,n
+1839,1432,div,,n
+1845,1839,div,,n
+1847,1845,span,"Neil Armstrong, First Man to Walk on Moon, Dies at 82",n
+1849,1845,span,"Neil Armstrong, commander of Apollo 11 and the first man to walk on the moon, has died, NBC News reports.",n
+1861,1839,div,,n
+1863,1861,span,Dead Spacecraft on Mars Spotted in New Photos,n
+1865,1861,span,A NASA spacecraft in orbit around Mars has captured fascinating color images of the remains of two defunct spacecraft in their final resting places on the surface of the Red Planet.,n

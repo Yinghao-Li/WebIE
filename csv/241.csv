@@ -1,0 +1,161 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,Skip to main content,n
+9,0,div,,n
+11,9,span,OREGON STATE UNIVERSITY,n
+12,9,div,,n
+14,12,span,Business,n
+16,12,span,Toggle menu,n
+18,12,span,Go to search page,n
+19,9,div,,n
+21,19,div,Business,n
+24,19,h2,You are here,n
+26,19,div,Programs » Undergraduate,n
+29,19,div,,n
+31,29,div,News Events Give Start Now,n
+40,29,div,Search Field,n
+47,0,div,,n
+48,47,text,Business,n
+51,47,text,Undergraduate Programs,n
+56,0,div,,n
+1071,56,li,,n
+1074,1071,li,Calendar,n
+1077,1071,li,Library,n
+1080,1071,li,Maps,n
+1083,1071,li,Online Services,n
+1086,1071,li,Make a Gift,n
+2128,56,div,,n
+2133,2128,div,,n
+2136,2133,div,,n
+2146,2136,p,"Influence how spaces look, feel, and function.",n
+2154,2136,div,,n
+2156,2154,h3,Overview,n
+2158,2154,h2,Interior Design,n
+2160,2154,div,,n
+2162,2160,p,"Our interior design program explores how spaces look, feel, and function. Using a human-centered approach, students learn how the design of the built environment impacts our productivity, health, and emotions. We prepare critical thinkers who can work both independently and as effective members of design teams.",n
+2164,2160,p,"Shared coursework with other design majors during the first two years focuses on color theory, textiles, drawing, and design software. Upper level design studios emphasize space planning, identifying clients’ needs and functional requirements, preparing working drawings, and specifying materials and finishes. Additional coursework provides experience in sustainability, lighting, building construction, design history, and accessibility.",n
+2166,2160,p,"Experiential learning is offered through guest speakers, community design projects, design charettes, study abroad, and clubs.",n
+2168,2160,p,study offered in Corvallis.,n
+2169,2154,div,,n
+2171,2169,h3,Options,n
+2173,2169,p,"Once you enroll in the interior design program, you can select an area of focus from the following options:",n
+2174,2169,div,,n
+2176,2174,button,Dean's Academy,n
+2182,2174,p,"The Dean’s Academy is an academic forum for high-achieving first-year students, transfer students, and current undergraduate students who wish to maximize the educational and experiential aspects of their college experience. Invitation to this option is restricted to those who meet eligibility requirements.",n
+2186,2174,button,Sports Business,n
+2192,2174,p,"The sports business option provides students with an understanding of the fundamentals of the business of sport, including sports finance, marketing, analytics and sponsorship. The program builds on core business knowledge acquired in business and design programs, and prepares students for careers in sports-related organizations.",n
+2196,2154,div,,n
+2197,2196,div,,n
+2198,2197,p,,n
+2199,2198,text,28,n
+2201,2198,span,+,n
+2203,2197,p,focus,n
+2207,2196,p,of classes have fewer than 50 students,n
+2208,2196,div,,n
+2210,2208,p,450,n
+2212,2208,p,companies recruit our students each year,n
+2214,2154,div,,n
+2216,2214,h2,Interior Design Opportunities,n
+2219,2214,div,,n
+2221,2219,h3,Study Abroad,n
+2223,2219,p,"Florence, Italy",n
+2225,2219,p,"London, England",n
+2227,2219,p,"Seoul, South Korea",n
+2229,2219,p,Explore study abroad opportunities >,n
+2232,2214,div,,n
+2234,2232,h3,Associated Clubs,n
+2236,2232,p,16XOSU,n
+2238,2232,p,National Retail Foundation,n
+2240,2232,p,International Interior Design Association,n
+2242,2232,p,See all clubs >,n
+2245,2214,div,,n
+2247,2245,h3,Scholarships,n
+2249,2245,p,Cecelia T. Shuttleworth,n
+2251,2245,p,Columbia HEHC Scholarship,n
+2253,2245,p,Gladys Whipple Goode Scholarship,n
+2255,2245,p,N Marie Ledbetter Memorial Scholarship,n
+2257,2245,p,See all scholarship opportunities >,n
+2260,2214,div,,n
+2262,2260,h3,Possible Careers,n
+2264,2260,p,Health care facility designer,n
+2266,2260,p,Hospitality designer,n
+2268,2260,p,Residential or contract interior designer,n
+2270,2260,p,Sales manager,n
+2273,2154,div,,n
+2275,2273,h2,Design microbusinesses,n
+2277,2273,p,"Inspired by the needs of their clients, teams of first-year design students have worked on interior spaces throughout Austin Hall and Weatherford Hall, working with College of Business faculty and staff to invigorate office spaces, common spaces and student classrooms. Some of the teams turn to projects around campus and off-campus, bringing their creativity to spaces across OSU and around Corvallis.",n
+2279,2273,p,"This is how the microbusinesses work for our interior design majors, helping them build their portfolios and sound work experience before graduation.",n
+2281,2273,p,"Oregon is a state for small businesses, sole proprietors, and startups as much as it is for global operations like Nike. That's why every first-year student works together in a team to start their own company — with their money, with their budget, and with their own sales goals. We want you to work seamlessly on a big design team, or have the foundational skills to start your own business when you are ready.",n
+2283,2154,div,,n
+2285,2283,h2,design and business,n
+2287,2283,p,"As an active, connected and talented design student, Molly Switzer, AKBD, B.S., Interior Design and B.S., Housing Studies, was ecstatic to land her first job out of college with a reputable design firm in the Portland area. The year, however, was 2008, and Switzer watched wide-eyed as the established business — like many businesses large and small or wealth holdings worldwide — dissolved into ether, impacted by the Great Recession.",n
+2289,2283,p,"“That was a lesson, my first lesson about running your own business. There are no guarantees,” said the proprietor of Molly N Switzer Designs LLC, specialized to full residential interiors and kitchen and bath design and remodel.",n
+2291,2283,p,"Mindful of what she saw as the economic condition of the industry and the need for survival, Switzer worked a few positions after that first job collapsed. All brought necessary tools to her toolbox to eventually build her own business.",n
+2293,2283,p,"In time, the designer was ready for her own thing. Leaving the safety and security of a steady post; Switzer brought everything — including the luxury kitchen sink — to her new business.",n
+2295,2283,p,Read More,n
+2298,2154,div,,n
+2299,2298,div,,n
+2301,2299,p,"""",n
+2303,2299,p,Business,n
+2304,2299,p,,n
+2305,2304,text,Sarah Moore ‘09,n
+2307,2304,br,Columbia Sportswear,n
+2308,2298,div,,n
+2310,2308,h2,Where our graduates work,n
+2312,2308,p,"Graduates from the college's interior design program have become residential or contract interior designers, sales managers, hospitality designers, health care facility designers, fixtures, furnishings and finishes specifiers, and more.",n
+2314,2308,ul,,n
+2316,2314,li,Ankrom Moisan,n
+2318,2314,li,Bora,n
+2320,2314,li,Garrison Hullinger,n
+2322,2314,li,Hyphn,n
+2324,2314,li,Koroseal,n
+2326,2314,li,Mackenzie,n
+2328,2308,ul,,n
+2330,2328,li,Neil Kelly,n
+2332,2328,li,Nike,n
+2334,2328,li,Pottery Barn,n
+2336,2328,li,Restoration Hardware,n
+2338,2328,li,SERA Architects,n
+2340,2328,li,ZGF,n
+2343,2154,div,,n
+2345,2343,h2,Business student,n
+2347,2343,p,A success plan,n
+2349,2343,p,"Professional, personal and leadership skills form the backbone of successful careers. Blueprint, our award-winning series of classes, is focused on professional and leadership development and financial literacy. With Blueprint, you’re on track to graduate on time, with the skills and network to choose your career, and the savvy to make the big decisions at the right time.",n
+2351,2343,p,We're not just business; we're family,n
+2353,2343,p,"Our first-year students live in one of our business-themed residence halls. This learning-focused, student-first, open-door culture makes the big Oregon State campus feel like the supportive place it is – and feel a lot smaller and easier to navigate than you might think.",n
+2355,2343,p,"We’re the only college at OSU that has a dedicated Career Success Center for our students. We help you find an internship, write a resume and find a job.",n
+2357,2343,p,Ranked and accredited,n
+2359,2343,p,"Oregon State is ranked in the top five for online education with U.S. News and World Report. The College of Business overall, as well as our accounting program, is accredited by AACSB International – the Association to Advance Collegiate Schools of Business. AACSB International is the premier accrediting agency for degree programs in business and accounting.",n
+2361,2343,p,Discover the OSU difference,n
+2375,2133,div,Interior Design > ›,n
+2379,2128,div,REQUEST INFO APPLY NOW,n
+2384,0,div,,n
+2385,2384,div,,n
+2388,2385,p,,n
+2390,2388,strong,Oregon State University,n
+2393,2388,strong,Business,n
+2395,2388,br,2751 SW Jefferson Way,n
+2397,2388,br,"Corvallis, Oregon 97331",n
+2399,2388,br,Phone,n
+2401,2388,br,Fax,n
+2402,2385,div,,n
+2404,2402,h2,Staff and Students,n
+2405,2402,ul,,n
+2407,2405,li,My COB,n
+2409,2405,li,MyDegrees,n
+2411,2405,li,Canvas,n
+2413,2385,div,,n
+2415,2413,h2,Follow Us,n
+2416,2413,text,Facebook LinkedIn Twitter Instagram,n
+2421,2385,div,,n
+2423,2421,h2,SUBSCRIBE,n
+2425,2421,p,Business.,n
+2440,2421,div,>,n
+2478,2384,div,,n
+2479,2478,text,Copyright © 2022 Oregon State University,n
+2482,2478,br,Disclaimer,n
+2496,0,div,,n
+2501,2496,span,Previous,n
+2504,2496,span,Next,n
+2507,2496,span,Slideshow,n
+2528,0,span,Sumo,n

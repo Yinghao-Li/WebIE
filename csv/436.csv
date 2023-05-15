@@ -1,0 +1,89 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,article,,n
+2,1,div,,n
+4,2,p,"National Scrapbooking Day is this Saturday! People around the world are taking the time to celebrate their love for memory-keeping and life-documenting. As someone who scrapbooks for a living, National Scrapbooking Day is always blocked off on my calendar. There are a bunch of cool events going on around the web — check out the hashtag #NSD2016 on your favorite social media platform to check them out.",n
+6,2,p,"This year, to celebrate National Scrapbooking Day, I’ll be debuting my new product line, Awesome Ladies by rukristin , as well as information on the release date and our launch party scrapbook sleepover event! I’m super excited for this and I can’t wait to share it with the entire world. I’ve been sharing some sneaks on instagram throughout the week, and photos of the whole line, and the pre-sale will be available Saturday morning.",n
+12,2,p,"In the physical world, I’ll be spending the day scrapbooking with two of my favorite people — J and Becky. Neither of them have much scrapbooking experience, so it will be fun to go back over basic techniques like choosing coordinating papers, picking matching embellishments, and figuring out what to journal. I want to make everything as easy as possible, so I’m making sure they have everything they need to get started. I want to be able to spend our time scrapbooking, not searching for supplies.",n
+14,2,p,"Because I’m a huge list maker, I made a list of the scrapbooking supplies needed for a day of scrapbooking. It’s available as a printable PDF download, and you can pick yours up by clicking here or scrolling down to the bottom of this post.",n
+16,2,h2,Scrapbook Supply Checklist,n
+18,2,li,,n
+20,18,strong,Scrapbook Basics,n
+21,18,ul,,n
+23,21,li,Photographs,y
+25,21,li,Adhesive,y
+27,21,li,Memorabilia,y
+29,21,li,Album*,y
+31,21,li,Page Protectors*,y
+33,2,li,,n
+35,33,strong,Paper,y
+36,33,ul,,n
+38,36,li,Cardstock,y
+40,36,li,Patterned Paper,y
+42,36,li,Journaling Cards,y
+44,36,li,Other Paper Supplies,y
+46,2,li,,n
+48,46,strong,Embellishments,y
+49,46,ul,,n
+51,49,li,Alphabet Stickers,y
+53,49,li,Label or Word Stickers,y
+55,49,li,Washi Tape,y
+57,49,li,Other Embellishments,y
+59,2,li,,n
+61,59,strong,Stamps or Art Supplies,y
+62,59,ul,,n
+64,62,li,Clear Stamps,y
+66,62,li,Wood Stamps,y
+68,62,li,Inks or Paints,y
+70,62,li,Cleaner or Rag,y
+72,62,li,Other Art Supplies,y
+74,2,li,,n
+76,74,strong,Tools,n
+77,74,ul,,n
+79,77,li,Scissors,y
+81,77,li,Paper Trimmer,y
+83,77,li,Journaling Pen,y
+85,77,li,Stapler,y
+87,77,li,Hole Punch,y
+89,77,li,Other Tools,y
+92,2,p,"* Albums and Page Protectors are definitely essentials, but you might be able to leave them at home if you’re planning a scrapbook day out and don’t want to lug everything around.",n
+95,2,p,This is just a generic list to get me thinking about what supplies I want to have ready for a day of scrapbooking. There’s plenty of room on the printable version of this list for you to write notes in the margins about anything specific you want. I’ll definitely be adding my tiny attacher and some watercolors to my list.,n
+97,2,p,This list is perfect if you’re just learning how to scrapbook and want to make sure you have everything you need. It’s also perfect if you’re planning a scrapbook day trip away from home or out with friends and you want a packing list for all of your must-have scrapbook supplies. You can download it and print it out for this Saturday to celebrate National Scrapbooking Day and again as often as you need.,n
+105,1,footer,,n
+110,105,div,free printable lists national scrapbooking day organization scrapbooking scrapbooking list,n
+116,105,div,,n
+118,116,h3,Related Posts,n
+121,116,div,Lists,n
+124,116,div,Less or More,n
+127,116,div,Crafty Ass Female Podcast EP 10 or or Why We Scrapbook,n
+130,116,div,rukristin introduces the ALP Story Journal,n
+131,0,nav,,n
+133,131,h2,Post navigation,n
+134,131,div,,n
+136,134,div,Scrapbooking with a Kit,n
+138,134,div,Scrapbooking with a Kit | Freckled Fawn,n
+139,0,div,,n
+141,139,h2,One comment,n
+144,139,li,,n
+145,144,footer,,n
+146,145,div,,n
+147,146,text,roseaurora29,n
+149,146,span,says,n
+152,145,div,"September 28, 2016 at 2:34 am",n
+154,144,p,,n
+155,154,text,"Invaluable commentary , my husband yesterday happened across",n
+157,154,code,https,n
+158,154,text,to arrange pdf . It’s really easy to try and it’s practically peanuts .,n
+160,144,div,Reply,n
+161,139,div,,n
+162,161,h3,,n
+163,162,text,Leave a Reply,n
+165,162,small,Cancel reply,n
+166,161,form,,n
+167,166,p,,n
+169,167,span,Your email address will not be published.,n
+171,167,span,Required fields are marked,n
+176,166,p,Comment,n
+182,166,p,Name,n
+188,166,p,Email,n
+194,166,p,Website,n

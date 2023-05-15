@@ -1,0 +1,115 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+38,0,div,,n
+49,38,h1,Badminton Equipment List Names,n
+56,38,p,equipment needed to play badminton will help move you to the next level.,n
+58,38,p,Find out what gear and accessories you need to enjoy playing the game and meet Badminton World Federation guidelines.,n
+67,38,p,EQUIPMENT OF BADMINTON,n
+70,38,p,"Buying the gears for some sports is expensive. But, you can get the basic badminton kit and parts you need to play at the cheaper stores.",n
+72,38,p,"Even so, you do need some essential hardware. You will need it to take part in competitions or professional tournaments.",n
+73,38,p,,n
+74,73,text,The comprehensive catalog of badminton equipment list and gears get listed below. You can also click on the menu item to,n
+76,73,strong,jump down fast,n
+77,73,text,- that technique sounds like the badminton smash shot .,n
+81,38,h2,Links to Badminton Equipment List Regulations,n
+82,38,p,,n
+83,82,text,Shuttlecock,n
+86,82,br,Rackets,n
+89,82,br,Court Shoes,n
+92,82,br,Accessories,n
+95,82,br,Badminton Net,n
+98,38,h2,Shuttlecock Regulations,n
+101,38,p,Most people play badminton with a natural shuttlecock. But you can also get feathered shuttles or the synthetic type. You will need a collection of shuttlecocks that meet the regulations.,n
+103,38,p,"Modern badminton equipment has improved a lot since it originated as ' Battledore and Shuttlecock '. That occurred in Greece around 2,000 years ago.",n
+107,38,p,"Nowadays, shuttles get graded according to their speed. Experts say the best feathered examples get made from the left wing of a goose.",n
+109,38,p,The Badminton World Federation is the governing body. They oversee the laws and specifications on equipment of badminton and its definition. Their equipment regulations govern championships and tournament competitions.,n
+111,38,p,"The BWF governance also relates to the shuttlecocks used in the game. Shuttles must meet certain criteria and stipulations. Nonetheless, a variation of up to 10% gets accepted for non-feathered shuttles.",n
+113,38,h3,Feathered Shuttlecock Regulations,n
+114,38,ul,,n
+116,114,li,The shuttle should have 16 feathers fixed in a cork base and covered in kid leather.,n
+118,114,li,The feathers must have a uniform length between 62 to 70mm when measured from the tip to the top of the base.,n
+120,114,li,the feathers should lie on a circle with a diameter from 58 to 68mm.,n
+122,114,li,The feathers must get fastened firmly with thread or other suitable material.,n
+124,114,li,The base must be 25 to 28mm in diameter and rounded on the bottom.,n
+126,114,li,The shuttle should weigh between 4.74 and 5.50 grams.,n
+134,38,h3,Badminton Shuttlecock Speed,n
+135,38,p,,n
+136,135,text,You will be sending a ',n
+138,135,strong,birdie,n
+139,135,text,"' to your opponent's baseline. So, you need to consider the speed at which it travels through the air. The weather, altitude, and temperature affect its speed.",n
+141,38,p,"As a rule, a shuttle flies faster when the weather is hot and it will travel slower when the air temperature is cold.",n
+143,38,p,"Thus, you might prefer to use a faster speed shuttle if you are playing in an air-conditioned hall. Whereas, a slower one is best if you play at high altitude.",n
+145,38,p,There are simple ways to test the flight speed. It should land closer than one meter short of the badminton court back boundary line. Use this test method during your practice strokes.,n
+149,38,p,Try tipping the shuttlecock feather inwards or outward to change the speed. Tip them outwards to slow it down and inwards to speed up the flight.,n
+155,38,h2,Equipment,n
+158,38,p,"The main parts of a modern badminton racket frame are the handle, the shaft, and the head section. These are all terminologies used in badminton by players and umpires.",n
+162,38,h3,Badminton Rackets Regulations,n
+164,38,p,The stringed hitting area must have a flat surface with overlapping strings. The head gets attached to the thin shaft by a connecting piece called a throat.,n
+166,38,h3,Badminton Racket Sizes and Materials,n
+168,38,p,The BWF regulates the official codified laws of badminton game. They also relate to the size and integrity of rackets used by the players.,n
+171,38,ul,,n
+173,171,li,The racket stringed section should not exceed 27.94 cm in length or 20.9 cm in width.,n
+175,171,li,The overall length should not exceed 68 cm or 23 cm in width .,n
+177,171,li,Badminton rackets regulations do not allow them to exceed 22.86 cm in width at the widest point.,n
+179,38,p,Badminton racket frames were traditionally made from wood in the early days.,n
+181,38,p,"Nowadays manufacturers use a wide range and combination of composite materials. They include steel, graphite carbon fiber, titanium, aluminium alloy, ceramic, and boron.",n
+183,38,p,"These composite materials produce lightweight and sturdy frames. In most cases, the best badminton rackets weigh less than 100 grams.",n
+185,38,h3,Manufacturer Weight Grading,n
+187,38,p,"The vast majority of racket manufacturers use a grading system. They use it to identify the weight of the racket. The format starts at 1U for the heaviest and moves through 2U, then 3U, with 4U being the lightest.",n
+189,38,h3,Grip Sizes,n
+191,38,p,Racket manufacturers provide four different grip sizes. They range from G2 to G5 where G2 is the biggest size and the smallest grip size is G5.,n
+192,38,p,,n
+193,192,text,"Nonetheless, the opposite grading applies in some countries. Many brands use a simple '",n
+195,192,strong,"small, medium, and big",n
+196,192,text,' to differentiate different grip sizes.,n
+198,38,p,You should always choose a comfortable grip size. For some players that may be a towel grip. Whereas the synthetic version may suit other players better.,n
+205,38,p,"Both grips absorb sweat and provide you a firm drier feel on the handle. Even so, badminton health and safety rules recommended changing the grips on a regular basis for hygienic reasons.",n
+209,38,h3,Badminton Racket String,y
+211,38,p,There are two types of badminton racket strings. One type of string uses natural guts material. The second type is usually made from less expensive synthetic material.,n
+213,38,p,"Natural guts strings are often preferred by professional players. That is because it provides more feel, control, and power. It also creates less vibration during play but they tend to be less durable and more expensive.",n
+215,38,h3,String Gauge,y
+217,38,p,Badminton racket strings have different gauge numbers of identification. They show the thickness or diameter of the string material.,n
+218,38,p,,n
+219,218,text,"Thicker strings are more durable and have a lower gauge number, as a rule. So",n
+221,218,strong,A 20 gauge string,n
+222,218,text,' is thicker than ',n
+224,218,strong,A 22 gauge,n
+225,218,text,'.,n
+227,38,p,"Try to test your selection of equipment in badminton before you buy. If possible, you want to practice serving the shuttle a few times over a net. Even so, there is no common manufacturer or model which suits every player.",n
+236,38,h2,Badminton Court Shoes,y
+239,38,p,"The best pair of badminton shoes provide good grip or traction on court. No doubt you will be aiming to have good badminton footwork skills. Thus, you need cushioning, support, and some flexibility around the forefoot area.",n
+243,38,p,There is a serious point to this. You should never wear jogging shoes to play badminton. Jogging shoes have thicker soles and lack stability on the court surface. This can increase the likelihood of twisting your ankle.,n
+245,38,p,Experts have a rule of thumb to size a shoe for proper fit. Leave a space about one thumb's width from the tip of your big toe to the tip of the shoes.,n
+247,38,p,"Even when you wear sports socks, this still allows a little space for your feet to move inside your shoes.",n
+249,38,p,Heel cups may be a good investment to help protect your heels too. They can also extend the lifespan of your badminton shoes.,n
+251,38,h2,Badminton Accessories List,n
+254,38,p,"This section covers the most common items found in the badminton accessories list. As a rule, they are used for extra comfort and to enhance the experience.",n
+256,38,h3,Equipment,n
+258,38,p,"Badminton clothing should be comfortable. That means loose, so it does not hinder your movements. A cotton round-neck or t-shirt with a pair of light shorts will be ideal.",n
+260,38,p,Similar clothing for badminton officials is also recommended. The cardiovascular activity in badminton means your body will produce a lot of sweat.,n
+264,38,p,"Wearing a normal cotton t-shirt will help to absorb your sweat. But, a trendy or fancy shirt may perform even better. Bring a track suit along too so you can warm up before you start to play and make a gradual cool down after the game.",n
+268,38,h3,Socks,y
+270,38,p,A thick pair of padded cotton socks help to cushion your feet and absorb sweat. Wearing quality socks also prevents your feet from slipping inside your shoes.,n
+274,38,p,Remember,n
+279,38,h3,Wrist Band,y
+281,38,p,The top players wear a wristband to help prevent sweat dripping down on to their racket handle.,n
+283,38,h3,Head Band,y
+285,38,p,Wearing a cool and trendy headband reduces sweat running into your eyes. Head bands also prevent your lenses from getting wet if you wear spectacles.,n
+287,38,h2,Badminton Net,y
+290,38,p,"The Badminton World Federation enforces the rules for the net. They include the height, width, and construction of the net used in match games.",n
+292,38,p,Official badminton nets must measure 5 feet from the ground to the highest point in the center. The net must measure a maximum height of 5 feet 1 inch at the sides.,n
+294,38,p,The net attaches to a vertical post positioned on either side of the court. The net itself should be 30 inches from the top down to the bottom edge.,n
+296,38,p,The mesh material must be uniform and dark in color with white tape running along the top edge. The tape makes the full height visible to all players and the match officials.,n
+298,38,p,badminton equipment. Why not improve your knowledge even further?,n
+300,38,p,You can check out the frequently asked questions page and raise your game to a new level.,n
+304,38,p,Go one step further and try out some of the most common badminton terminologies . It is an interesting section listing all the official terms and playing definitions.,n
+307,38,div,,n
+309,307,h4,Advanced Help Guides,n
+310,307,ul,,n
+312,310,li,General health and safety rules in badminton .,n
+315,310,li,officials in badminton .,n
+318,310,li,What is the badminton court size in feet?,n
+330,38,blockquote,,n
+332,330,strong,Equipment Needed,n
+335,330,time,Last Updated 2022,n
+337,38,p,© 2022 | ALL RULES | CONTACT | PRIVACY | SITEMAP,n

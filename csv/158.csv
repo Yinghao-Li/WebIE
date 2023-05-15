@@ -1,0 +1,257 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+4,3,text,Home »,n
+6,3,span,,n
+7,6,text,Family »,n
+9,6,span,,n
+10,9,text,Parenting Tips »,n
+13,9,strong,What to Pack in Your Soccer Bag,n
+14,0,article,,n
+15,14,div,,n
+18,15,p,,n
+19,18,text,Inside,n
+21,18,strong,what to pack in your soccer bag on game day,n
+22,18,text,". Plus, grab a free printable packing list!",n
+33,15,div,,n
+35,33,h3,MY LATEST VIDEOS,n
+39,33,div,,n
+53,39,div,The Salt Shaker Snow Globe Ornaments are a uniquely beautiful handmade Christmas ornament and holiday keepsake. This DIY picture snow globe ornament is perfect to make in the classroom as a take-home gift for parents or at crafting parties!,n
+73,39,div,More Videos,n
+77,39,div,,n
+79,77,span,30 seconds,n
+81,77,span,Volume 0%,n
+83,39,div,,n
+86,83,span,keyboard shortcuts,n
+87,83,div,,n
+88,87,div,,n
+90,88,span,Keyboard Shortcuts,n
+91,88,button,,n
+94,91,span,Enabled,n
+96,91,span,Disabled,n
+98,87,div,,n
+99,98,div,,n
+101,99,span,Play or Pause,n
+103,99,span,SPACE,n
+104,98,div,,n
+106,104,span,Increase Volume,n
+108,104,span,↑,n
+109,98,div,,n
+111,109,span,Decrease Volume,n
+113,109,span,↓,n
+114,98,div,,n
+116,114,span,Seek Forward,n
+118,114,span,→,n
+119,98,div,,n
+121,119,span,Seek Backward,n
+123,119,span,←,n
+124,98,div,,n
+126,124,span,Captions On or Off,n
+128,124,span,c,n
+129,98,div,,n
+131,129,span,Fullscreen or Exit Fullscreen,n
+133,129,span,f,n
+134,98,div,,n
+136,134,span,Mute or Unmute,n
+138,134,span,m,n
+141,98,div,Seek %,n
+145,39,div,,n
+159,145,div,,n
+161,159,div,Next Up,n
+163,159,div,Nativity-Scene-LOW,n
+165,159,div,00:55,n
+167,145,div,,n
+176,167,div,,n
+179,176,div,Settings,n
+180,176,div,,n
+182,180,button,Off,n
+184,180,button,On,n
+186,167,div,,n
+187,186,button,,n
+188,187,text,Font Color,n
+191,187,div,White,n
+194,186,button,Font Opacity,n
+200,186,button,Font Size,n
+205,186,button,,n
+206,205,text,Font Family,n
+209,205,div,Arial,n
+211,186,button,,n
+212,211,text,Character Edge,n
+215,211,div,None,n
+218,186,button,Background Color,n
+223,186,button,,n
+224,223,text,Background Opacity,n
+227,223,div,50%,n
+230,186,button,Window Color,n
+235,186,button,,n
+236,235,text,Window Opacity,n
+239,235,div,0%,n
+242,186,button,Reset,n
+272,167,div,,n
+274,272,button,200%,n
+276,272,button,175%,n
+278,272,button,150%,n
+280,272,button,125%,n
+288,167,div,,n
+290,288,button,Arial,n
+292,288,button,Courier,n
+294,288,button,Georgia,n
+296,288,button,Impact,n
+298,288,button,Lucida Console,n
+300,288,button,Tahoma,n
+302,288,button,Times New Roman,n
+304,288,button,Trebuchet MS,n
+306,288,button,Verdana,n
+308,167,div,,n
+310,308,button,None,n
+312,308,button,Raised,n
+314,308,button,Depressed,n
+316,308,button,Uniform,n
+318,308,button,Drop Shadow,n
+392,145,div,,n
+421,392,span,This ad will end in 29,n
+423,392,div,Live,n
+425,392,div,00:00,n
+427,392,div,00:29,n
+429,392,div,00:30,n
+451,15,h2,“Help! I’m a first-time soccer mom…,n
+453,15,p,…and I have NO idea what my kid needs to get started!!”,n
+455,15,p,"This is one of the most common questions I get from readers, and I’m 99% sure it’s from my blog name.",n
+457,15,p,"As my name suggests, I am indeed a “soccer mom.” I grew up playing the sport all the way through high school, and my oldest daughter started last spring.",n
+462,15,p,"I love soccer and I actually do have a pretty good idea of what gear kids need to play the sport. It’s been some years since I last hit the field, but the basic needs for soccer haven’t changed much.",n
+466,15,p,Keep reading to find out what to pack in your soccer bag if you’re a first time soccer mom or dad!,n
+468,15,h2,What to Pack in Your Soccer Bag,n
+470,15,p,"The first thing I want to emphasize is that you probably don’t need as much as you think. Soccer doesn’t require a lot of expensive equipment, so it’s a very accessible sport.",n
+478,15,p,"Your team or league might have specific requirements, but the following are the basics that you need to get started playing recreational youth soccer.",n
+482,15,p,How to be more involved in your child’s sports team,n
+484,15,p,the post!,n
+486,15,h3,Water bottle,y
+488,15,p,"Hydration is the most important thing to take care of on game day! A soccer game is basically non-stop running, and if it’s warm outside your child will sweat and expend a LOT of moisture.",n
+493,15,p,"Some teams might provide a water cooler, but it’s best to bring your own bottle just in case. Pack a water bottle for your player, as well as a bottle for every spectator in the family.",n
+495,15,p,"Look for an insulated stainless steel water bottle — not only are they reusable, but they keep water cold for hours, even in the hot sun!",n
+502,15,p,As,n
+504,15,p,"It’s ok to treat your budding soccer star to a sports drink at halftime or after the game, but remember that those drinks usually contain a lot of sugar. The majority of kids’ daily hydration should come from water.",n
+506,15,h3,Soccer Ball,y
+508,15,p,"When purchasing a new soccer ball, be sure to choose the correct size soccer ball for your child’s age. Here are the standard requirements for soccer ball sizes :",n
+513,15,ul,,n
+514,513,li,,n
+516,514,strong,Size 3,n
+517,514,text,Under 8 years old,n
+518,513,li,,n
+520,518,strong,Size 4,n
+521,518,text,Ages 8 – 12,n
+522,513,li,,n
+524,522,strong,Size 5,n
+525,522,text,Ages 13+,n
+531,15,p,Check with the coach to see if your child needs to bring their ball to games or just practices.,n
+533,15,h3,Cleats,y
+535,15,p,"While some fun leagues allow kids to play in tennis shoes, flats don’t provide much grip or support for running on grass. A good pair of soccer cleats provides traction for the fast-paced play and all weather conditions .",n
+539,15,p,"Make sure you choose footwear specifically designed for soccer play Some other sports use metal cleats, but many soccer leagues don’t allow them because metal cleats tear up the field and are dangerous if a child gets kicked by them. .",n
+546,15,p,"A good pair of cleats should last your child until they outgrow them, plus they offer more stability and foot protection. This is one item that is worth the splurge.",n
+547,15,p,,n
+550,547,text,Check out the latest selection of,n
+552,547,strong,kids soccer shoes,n
+553,547,text,"unique colors and styles, like the Nike Mercurial Superfly shown above.",n
+555,15,h3,Shin Guards,y
+557,15,p,This is the most important piece of protective equipment your child wears during practice and games. It’s usually required by your league.,n
+560,15,p,"Don’t skimp on coverage – look for shin guards that offer as much leg and ankle protection as possible, while still being flexible.",n
+562,15,h3,Bug Spray and Sunscreen,y
+564,15,p,"Soccer games generally last a couple hours, so sun protection is key. Always apply sunscreen to your child before they dress for the game, and reapply as needed at halftime.",n
+566,15,p,"If you live in an area where mosquitos and other pests are common, bring the bug spray too! You’ll also appreciate having it on the sidelines.",n
+571,15,p,Click here to see what else we pack in our soccer first aid kit!,n
+573,15,h3,clothes or shoes,y
+575,15,p,"Having extra clothes on hand for after the game keeps your player dry and more comfortable, plus protects the interior of your car.",n
+577,15,h3,Post-Game Snack,y
+579,15,p,"Some teams encourage healthy options, like fruit. However, I’ve seen some that pass out candy and other treats.",n
+582,15,p,"Kids have spent a lot of energy during a soccer match, so it’s best to refuel with high-protein options, like these chocolate coconut protein balls .",n
+588,15,h3,More handy items to pack,n
+589,15,ul,,n
+591,589,li,Plastic bags,y
+593,589,li,Towels,y
+595,589,li,Compact umbrella on rainy days,y
+597,589,li,Folding chairs to sit on the sidelines,y
+599,589,li,Cooler,y
+601,589,li,Soccer first aid kit,y
+607,15,h2,Free Printable Soccer Bag Packing List,n
+609,15,p,Make sure you never forget the essentials with our free printable soccer bag packing list ! There’s even a couple blank spaces to write in your own must-have items.,n
+614,15,p,CLICK HERE to grab your free printable soccer bag packing list,n
+617,15,h3,Where to get the best soccer gear online,n
+620,15,p,"I don’t know about you, but I do a lot of my shopping online! With school, practices, games, and everything else our family is into during the year, it’s tricky to find extra time to go shopping in person.",n
+622,15,p,"soccerloco is our top choice for finding soccer equipment online — founded in 1997, they offer 20 years of experience in the industry. soccerloco offers premium brands like Nike, adidas, and Puma, as well as gear from MLS and European leagues.",n
+624,15,p,"The “loco” in their name comes from a crazy dedication to the sport of soccer. That dedication is obvious in all the details soccerloco put into their site, as well as the top-notch customer care.",n
+628,15,p,CLICK HERE to shop,n
+630,15,p,This post about what to pack in your soccer bag is graciously sponsored by soccerloco — thank you for supporting the brands our family loves.,n
+632,15,h3,Check out our favorite soccer crafts and recipes,n
+638,15,p,Healthy Soccer Bento Lunch,n
+644,15,p,Chocolate Dipped Soccer Oreos,n
+646,15,h3,Our Favorite Posts,n
+651,15,p,Are Contact Sports Safe,n
+654,15,div,,n
+655,654,ul,,n
+657,655,li,Author,n
+659,655,li,Recent Posts,n
+660,654,div,,n
+665,660,div,,n
+667,665,div,Stacey aka the Soccer Mom,n
+670,665,div,"Stacey is the creator of The Soccer Mom Blog, a Houston Texas mom blog that focuses on positive living for women and families. She loves to share real food recipes, money-saving tips, parenting encouragement, kids activities, DIY tutorials, home hacks, fitness, and so much more! To get to know Stacey even better, click here.",n
+678,660,div,,n
+680,678,div,Latest posts by Stacey aka the Soccer Mom,n
+686,678,ul,,n
+687,686,li,,n
+688,687,text,Easy Refrigerator Dill Pickles,n
+690,687,span,"- June 22, 2022",n
+691,686,li,,n
+692,691,text,Scooby Snack Jello Shots,n
+694,691,span,"- June 21, 2022",n
+695,686,li,,n
+696,695,text,Peanut Butter Edible Cookie Dough,n
+698,695,span,"- June 20, 2022",n
+701,14,p,Share this post,n
+702,14,div,,n
+703,702,div,,n
+706,703,span,177,n
+708,703,span,shares,n
+709,702,ul,,n
+710,709,li,,n
+714,710,span,Share,n
+716,710,span,12,n
+721,709,li,Tweet,n
+723,709,li,,n
+727,723,span,Pin,n
+729,723,span,165,n
+734,709,li,Email,n
+736,0,div,,n
+737,736,div,,n
+739,737,span,Previous Post,n
+741,737,span,"« Buttery Baked Ham, Apple, and Cheddar Sliders",n
+742,736,div,,n
+744,742,span,Next Post,n
+746,742,span,Halloween Bento Lunch,n
+748,0,h2,Reader Interactions,n
+749,0,div,,n
+751,749,h3,Comments,n
+752,749,ol,,n
+756,752,li,,n
+757,756,text,I love the tips!,n
+759,756,br,Thanks!,n
+762,752,li,,n
+766,762,p,"Great tips! Having quality cleats makes a difference as well. I didnt understand the difference between the cheap and the quality until we went to a conference with the Madrid soccer team and more then one player mentioned having good foot wear, so I made the switch for my kids and husband who also plays and they have all mentioned the difference! Happy playing!",n
+774,762,li,"Very true! I splurged on a pair of quality cleats in high school – they were kind of expensive, but they helped get rid of my shin splints because they offered better support. They also lasted longer!",n
+781,752,li,I have noticed a huge difference in durability and support going with better cleats! I tried the Walmart grab and then looking for higher quality shoes and boy I will never go back!!!,n
+788,752,li,"I just love your website! I am a new soccer mom and wife, I married an amazing man who has 3 boys who play soccer and I am still trying to catch up on how to do this all. I love all the tips and information. I don’t know if I can be that crafty but hey I’ll try anything once! Thanks again.",n
+791,0,div,,n
+792,791,h3,,n
+793,792,text,Leave a Reply,n
+795,792,small,Cancel reply,n
+796,791,form,,n
+797,796,p,,n
+799,797,span,Your email address will not be published.,n
+801,797,span,Required fields are marked,n
+804,796,div,,n
+806,804,label,Recipe Rating,n
+810,804,span,Recipe Rating,n
+830,796,p,Comment,n
+836,796,p,Name,n
+842,796,p,Email,n
+848,796,p,Website,n
+858,796,p,Δ,n

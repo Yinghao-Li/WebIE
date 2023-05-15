@@ -1,0 +1,109 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+6,0,div,,n
+63,6,div,,n
+69,63,h1,Scuba Gear FAQ,n
+75,63,div,,n
+77,75,h5,What is scuba gear?,n
+79,75,p,"Scuba diving equipment allows you to visit the underwater world by making it possible to breathe, see and move comfortably while below the surface. Gear helps you change from being a land-dweller to somewhat of an aquatic being – if only for a little while. A mask lets you see clearly. A scuba regulator and tank provide the air you need. Fins allow you to swim efficiently, and a wetsuit helps you stay warm. Whether you’re just starting as a scuba diver or you’re an experienced diver looking for new equipment, you’ll find helpful suggestions and tips in this section. Keep in mind that fit, comfort and suitability are the three most important considerations when choosing gear, but you don’t have to sacrifice color coordination and looking good. Your local PADI dive shop is a great place to get more information and assistance in finding the best scuba equipment for you.",n
+81,75,p,Learn more about scuba gear and how to choose equipment best suited,n
+85,75,h5,Where will you use your scuba gear?,n
+87,75,p,"You can dive almost anywhere there’s water, and the scuba gear you use will vary slightly based on the dive environment. There are four general categories for dive equipment, but some gear fits in all categories – for example, the same mask is fine for all environments.",n
+88,75,ul,,n
+89,88,li,,n
+91,89,strong,Tropical Scuba Equipment -,n
+92,89,text,"In warm, clear water, you only need minimal exposure protection and can choose light-weight, streamlined scuba components. Use this scuba gear when diving in water that is 24ºC or 75ºF or warmer.",n
+93,88,li,,n
+95,93,strong,Temperate Scuba Equipment -,n
+96,93,text,When you’re equipped for temperate climates you have maximum versatility because you can dive in the tropics and also in water that’s a bit cooler. Use this scuba gear in water that is 15-24ºC or 60-75ºF.,n
+97,88,li,,n
+99,97,strong,Cold-water Scuba Equipment -,n
+100,97,text,"Cool climates often have spectacular diving. With good exposure protection and the right equipment, you can scuba dive in cold water in comfort. Use this scuba gear in water that is cooler than 15ºC or 60ºF.",n
+102,75,h5,technical scuba equipment should you use?,n
+104,75,p,"Technical diving involves diving beyond normal recreational scuba diving limits. Participating in tec diving requires additional experience, training and equipment. In recreational diving you use one scuba tank, but tec divers typically wear twin cylinders or closed-circuit rebreathers , plus one or more additional tanks, each with different gas blends. They usually have two or more completely independent regulators and dive computers, as well as other dive gear backups. Visit your PADI Dive Center or Resort to get advice about tec diving gear, but here is what a typical tec diver might use:",n
+107,75,ul,,n
+108,107,li,,n
+110,108,strong,Primary mask and backup mask -,y
+111,108,text,"Although any scuba mask is adequate, tec divers prefer compact masks for minimum resistance in the water. A backup mask is carried in a pocket in case of loss or damage to the primary mask.",n
+114,107,li,,n
+116,114,strong,Fins -,y
+117,114,text,"Tec divers often use dry suits, requiring large style, open-heel adjustable fins.",n
+118,107,li,,n
+120,118,strong,Wing-typed BCD and harness -,y
+121,118,text,"A high capacity BCD with a backup gas bladder mounts between the harness and cylinder. The backup bladder is required because a tec diver may be too heavy to swim to the surface if the main BCD fails. The harness is a shoulder, waist and crotch strap assembly that holds tanks to the tec diver’s back, with D-rings mounted on the shoulders and at the waist for clipping equipment.",n
+124,107,li,,n
+126,124,strong,Primary and secondary regulator -,y
+127,124,text,The primary regulator has a two-metre or seven-foot hose for sharing gas with a teammate in an emergency. The secondary regulator is independent for use in case of malfunction in the primary regulator. The secondary is also used when sharing gas with a teammate via the primary regulator.,n
+130,107,li,,n
+132,130,strong,"Twin cylinders, decompression cylinders or stage bottles -",y
+133,130,text,"High-capacity cylinders hold high-pressure compressed air, enriched air or trimix depending upon dive requirements. An independent decompression cylinder and regulator is clipped to a harness on the side. Extra tanks are used to extend dive time and or or to carry a gas for optimizing decompression. Often, two cylinders are carried.",n
+136,107,li,,n
+138,136,strong,Multigas dive computers and submersible pressure gauge -,y
+139,136,text,"Dive computers , one primary and one backup, track and display decompression requirements, and allow tec divers to switch to different kinds of gas blends to optimize decompression. If not integrated into the dive computers, SPGs constantly display how much air remains in the cylinders.",n
+143,107,li,,n
+145,143,strong,Dry suit -,y
+146,143,text,Provides insulation,n
+149,107,li,,n
+151,149,strong,Other equipment -,n
+152,149,text,"Compass, slate, delayed surface marker buoy , emergency signaling devices, backup dive tables, Z-knife, shears, safety reel, and lift bag.",n
+171,6,footer,,n
+175,171,div,,n
+177,175,div,,n
+179,177,h2,Email Updates,n
+181,177,p,"Get 10% off eLearning online! Sign up and get the latest updates, offers and more.",n
+183,177,p,Sign Up,n
+195,175,nav,,n
+197,195,h2,Padi Services,n
+198,195,ul,,n
+200,198,li,Find a Dive Center or Resort,n
+204,198,li,Get Dive Insurance,n
+206,198,li,Book a Scuba Vacation,n
+208,198,li,Buy Branded Merchandise,n
+210,198,li,Download the Mobile App,n
+211,175,nav,,n
+213,211,h2,Inside Padi,n
+215,211,li,,n
+216,215,text,Inside Padi,n
+219,215,ul,,n
+221,219,li,Who We Are,n
+223,219,li,The PADI Difference,n
+225,219,li,Our History,n
+227,219,li,Corporate Responsibility,n
+229,219,li,Working at PADI,n
+230,175,nav,,n
+232,230,h2,Corporate Information,n
+234,230,li,,n
+235,234,text,Corporate Information,n
+238,234,ul,,n
+240,238,li,Company Statistics,n
+242,238,li,Press,n
+244,238,li,Our Partners,n
+246,238,li,Advertise with Us,n
+248,238,li,PADI Aware,n
+250,238,li,AWARE Foundation,n
+252,238,li,PADI AWARE FAQs,n
+254,238,li,History and Impact,n
+256,238,li,Donate,n
+257,175,nav,,n
+259,257,h2,Padi Dive Center and Resorts,n
+261,257,li,,n
+262,261,text,Padi Dive Centers and Resorts,n
+265,261,ul,,n
+267,265,li,Why Partner with PADI?,n
+269,265,li,Dive Center and Resort Levels,n
+271,265,li,Starting Your Own Scuba Business,n
+273,265,li,Business Planning Help,n
+275,265,li,How Long Does It Take?,n
+277,265,li,Become a Retailer or Resort,n
+279,265,li,Regional Support,n
+286,171,div,,n
+288,286,div,© PADI 2022,n
+290,286,div,Privacy Policy,n
+292,286,div,Accessibility,n
+294,286,div,Copyright,n
+296,286,div,Forms Center,n
+298,286,div,Contact,n
+300,286,div,Cookie Preferences,n
+308,0,div,,n
+310,308,div,cookies. Read our Cookie Policy,n
+314,308,div,I consent to cookies,n

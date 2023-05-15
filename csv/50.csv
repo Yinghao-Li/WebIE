@@ -1,0 +1,91 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+59,0,div,,n
+77,59,div,,n
+79,77,div,,n
+81,79,h1,AstronomyConnect,n
+83,79,p,A new platform,n
+87,77,div,,n
+89,87,h2,Improved Review System,n
+91,87,p,Share your thoughts and experiences. Write your product reviews,n
+94,77,div,,n
+96,94,h2,Community Forums,n
+98,94,p,"Discuss, share, and ask questions in our ever growing community forums.",n
+101,77,div,,n
+103,101,h2,Product Database,n
+105,101,p,"Search, filter, and sort products. Read reviews, find discussions, and resources from our ever growing product database.",n
+108,77,div,,n
+110,108,h2,Featured Articles and Reviews,n
+112,108,p,"Get access to featured reviews, exclusive articles and helpful tutorials.",n
+114,77,div,,n
+117,114,h2,Coming Soon...,n
+119,114,div,,n
+121,119,div,,n
+123,121,span,Astronomy Gear List,n
+124,121,ul,,n
+126,124,li,"Track gear you currently own, have previously owned, or want to acquire",n
+128,124,li,Share your personalized gear list with other members if you want,n
+130,124,li,Get alerts,n
+133,119,div,,n
+135,133,span,Product Specification Tables,n
+136,133,ul,,n
+138,136,li,Access data lists compiled by Agena and AstronomyConnect Users not available elsewhere,n
+140,136,li,Examples include,n
+143,119,div,,n
+145,143,span,Media Sharing,n
+146,143,ul,,n
+148,146,li,Share your astronomy photos with the AC community.,n
+150,146,li,Seek and offer advice to improve your imaging skills,n
+152,146,li,Share your how-to and product review videos,n
+155,119,div,,n
+157,155,span,Astronomy Classifieds,n
+158,155,ul,,n
+160,158,li,Buy and sell your used astronomy gear,n
+162,158,li,Integrated with your gear list to alert you about products you want,n
+164,158,li,"Linked to AC product database to quickly view reviews, specs, and sales history when you buy or sell",n
+167,119,div,,n
+169,167,span,Industry Directory,n
+170,167,ul,,n
+172,170,li,astronomy equipment manufacturers and dealers,n
+174,170,li,"astronomy clubs, places to visit, useful websites, etc.",n
+177,119,div,,n
+179,177,span,And a Whole Lot More...,n
+180,177,ul,,n
+182,180,li,Astronomy and Space News RSS Feeds,n
+184,180,li,"Podcasts, Polls, and Blogs",n
+186,180,li,Calendars,n
+190,59,div,,n
+193,190,div,AstronomyConnect,n
+197,190,span,Home,n
+200,0,footer,,n
+203,200,div,,n
+204,203,dl,,n
+206,204,dt,Language,n
+208,204,dd,English,n
+209,203,ul,,n
+211,209,li,Contact Us,n
+213,209,li,Help,n
+215,209,li,Home,n
+217,209,li,Top,n
+219,209,li,RSS,n
+223,200,div,,n
+226,223,li,Terms and Rules,n
+227,223,div,,n
+228,227,text,Forum software by XenForo™,n
+230,227,span,©XenForo Ltd.,n
+232,227,div,Some XenForo functionality crafted by Audentio Design .,n
+236,0,div,,n
+237,236,div,,n
+238,237,text,←,n
+240,237,text,→,n
+242,236,div,,n
+244,242,span,Sun,n
+246,242,span,Mon,n
+248,242,span,Tue,n
+250,242,span,Wed,n
+252,242,span,Thu,n
+254,242,span,Fri,n
+256,242,span,Sat,n
+258,0,div,,n
+261,258,h3,Useful Searches,n
+264,258,li,Recent Posts,n

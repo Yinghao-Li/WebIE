@@ -1,0 +1,77 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,article,,n
+3,2,div,,n
+4,3,ul,,n
+9,4,li,Share,n
+14,4,li,Tweet,n
+19,4,li,Pin,n
+20,3,div,,n
+23,20,span,470,n
+25,20,span,shares,n
+27,2,p,"Crafters know that they must have a good supply on hand any time the creative bug strikes. They also need the right tools to make the creative magic happen. I haven’t come across a crafting “minimalist”. You might say most crafters keep themselves well-stocked, and getting more crafty items is part of the craft itself. Here are 10 items most crafters have on hand in their craft room.",n
+34,2,p,,n
+36,34,strong,Hot Glue Gun,y
+38,34,br,"A mini or a regular size will do, but it seems like no matter what craft you’re into, a hot glue gun is a must have. I don’t use the glue gun too regularly, but I have this mini hot glue gun just in case.",n
+47,2,p,,n
+49,47,strong,Scissors or X acto Knife or Pen Blade,y
+51,47,br,"In essence, something to cut with. Crafters will designate a pair of scissors or craft knife as specifically for crafts and nothing else. These pen blades are affordable and handy to use.",n
+58,2,p,,n
+60,58,strong,Cutting Mat,y
+62,58,br,"With cutting, comes the need for a cutting mat so you don’t damage your work surface. A good cutting mat will last you years. I have this cutting mat and it’s still going strong.",n
+66,2,p,,n
+68,66,strong,Rulers,y
+70,66,br,"Measure twice, cut once applies to the world of crafting as well. I have multiple rulers: a T-ruler , a long metal ruler for bigger projects and a tape measure for to measure things that aren’t a flat surface.",n
+77,2,p,,n
+79,77,strong,Paint or paint brushes,y
+81,77,br,"There are so many paints to choose from. I prefer watercolors so I have some watercolor sets in my craft stash. Once you have your preferred paints that you get the paint accessories such as brushes, pans, canvas, etc.",n
+85,2,p,,n
+87,85,strong,Fabric or thread or sewing machine,y
+89,85,br,"Fabric can be added to almost any craft project, so crafters might have a roll or two on hand. Sewing machines like this one are more and more compact so it’s not a surprise to see one in a craft room.",n
+96,2,p,,n
+98,96,strong,Paper,y
+100,96,br,"There’s lot of options of paper to choose from: cardstock, construction, scrapbook, etc. There are also different sizes, colors, patters, thickness, transparencies. Paper is generally affordable, so you’ll see crafters having a rainbow collection of it .",n
+104,2,p,,n
+106,104,strong,Electronic or Manual Cutting Machine,y
+108,104,br,"With the popularity of custom made projects with vinyl, more and more crafters have their own electronic die cutting machines. I have this silhouette cameo personally and it’s been one of my favorite tools. You’ll also see some crafters with good old manual die cutting machines and a collection of dies since machines like this one are a fraction of the price.",n
+117,2,p,,n
+119,117,strong,Ribbon,y
+121,117,br,There’s a reason the ribbon aisle in the craft store takes up both sides. It can be added to virtually any craft projects and it’s super affordable .,n
+125,2,p,,n
+127,125,strong,Washi Tape,y
+129,125,br,"Some crafters use it for decorative purposes. Others use it for functional purposes. Washi tape, like this affordable set , comes in many different shapes and sizes and the fact that it has some adhesive on the back is a plus.",n
+136,2,p,,n
+138,136,strong,Embellishments,y
+140,136,br,"This is that extra “something something” for your craft project. Embellishments in your craft room may be stickers, sequins, acrylic pieces, chipboard, the list goes on and on.",n
+144,2,p,,n
+146,144,strong,Adhesives or Glue or Tape Runner,y
+148,144,br,"Basically anything that makes things stick. From tape runners, to mod podge , to glue, you’ll see a variety of adhesives in a craft room for different projects.",n
+155,2,p,,n
+157,155,strong,Coloring mediums,y
+159,155,br,These range from markers to colored pencils to sharpies. I prefer copic markers or colored pencils like this set . It’s up to you what you prefer. Coloring can be therapeutic for any crafter.,n
+163,2,p,,n
+165,163,strong,Storage,y
+167,163,br,"You have to have something to store your crafty treasures. For example, I have these containers for cardstock , this container for sequins , this container for stamps . I could go one and one. It saves time for me to be organized so I can find things easier and have more time for crafting.",n
+178,2,p,,n
+180,178,strong,Cleaning Items,y
+182,178,br,"Once the project is done, it’s time to clean up. I always keep these baby wipes close by as well as this craft sheet as to not stain my work surface.",n
+189,2,p,Feature Photo Credits,n
+190,2,p,,n
+191,190,text,Watercolors,n
+194,190,br,Craft Pegboard and Thread,n
+197,190,br,Yarn,n
+200,190,br,Craft Room Monogram,n
+204,2,p,RELATED,n
+205,2,ul,,n
+207,205,li,12 Must-Have Supplies,n
+211,205,li,Die Cutting Essentials,n
+212,2,footer,,n
+213,212,ul,,n
+215,213,li,« Die Cutting Essentials,n
+218,213,li,20 Gorgeous Handmade Christmas Cards Ideas That Are Easy to Make »,n
+221,212,h5,You may also like,n
+222,212,ul,,n
+226,222,li,$200 vs $20 Card Making Supplies,n
+228,222,li,How to Heat Emboss,n
+230,222,li,20 Gorgeous Handmade Christmas Cards Ideas That Are Easy to Make,n
+232,222,li,11 Time Saving Hacks For Making Cards,n

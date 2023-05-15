@@ -1,0 +1,274 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+171,0,div,,n
+175,171,h1,Women's Hockey Gear,n
+179,171,p,"Not all hockey gear is made the same, which is why we carry as much women's specific gear as possible. While most components are gender-neutral, there are key pieces that are tailored to the female hockey player.",n
+183,171,h2,WOMEN'S HOCKEY PROTECTIVE GEAR,n
+188,171,div,Hockey Shoulder Pads and Ice Hockey Pants are the two main categories of protective gear that were specifically developed for the female body. The shape and fit profile for both pieces offer more flexibility and adjustability so players can find the perfect fit for their own body.,n
+215,171,div,,n
+219,215,div,0,n
+220,215,span,,n
+221,220,text,1,n
+223,220,span,Review,n
+247,171,div,SHOP ALL PROTECTIVE,n
+252,171,h2,WOMEN'S HOCKEY BASELAYER,n
+257,171,div,"Women's Baselayer gear is essential to hockey of all levels of play and is available in a variety of different options. Mesh Loose Shorts are the most traditional and affordable choice while the Compression Shorts provide a closer-to-the-body fit. Regardless of the selection, all will come with a Jill pelvic protector.",n
+264,171,div,,n
+268,264,div,Shock Doctor Loose,n
+274,264,div,,n
+277,274,div,Shock Doctor Compression,n
+280,274,div,,n
+282,280,span,$34.99 - $44.99,n
+285,280,div,$44.99 - $49.99,n
+290,264,div,Bauer Mesh,n
+297,264,div,,n
+300,297,div,CCM Women's Mesh,n
+302,297,div,Hockey Jill Short,n
+303,297,div,,n
+305,303,span,$24.99,n
+308,303,span,$29.99,n
+320,264,div,,n
+323,320,div,CCM Women's Compression,n
+326,320,div,,n
+328,326,span,$49.99,n
+331,326,span,$59.99,n
+333,264,div,,n
+338,333,div,Hockey Jill Pants - Women's,n
+341,333,div,$64.99,n
+343,264,div,,n
+346,343,div,CCM Compression Grip,n
+348,343,div,Hockey Jill Pant - Women's,n
+349,343,div,,n
+351,349,span,$59.99,n
+354,349,span,$69.99,n
+356,264,div,,n
+359,356,div,Bauer NG Women's Jill Pelvic Protector,n
+363,356,div,$13.99,n
+364,264,div,,n
+368,364,div,CCM Pro,n
+370,364,div,Goalie Jill,n
+373,364,div,$34.99 - $44.99,n
+376,171,div,SHOP ALL BASELAYER,n
+381,171,h2,WOMEN'S HOCKEY APPAREL,n
+386,171,div,"From casual hoodies, to warmup suits and everything in-between; we offer a wide selection of all kinds of Women's Hockey Apparel. If you are shopping for an entire team, start with our Team Sales page that will save you serious time and money!",n
+395,171,div,,n
+420,395,div,Long Sleeve Shirt - Women's,n
+424,395,div,,n
+432,424,div,"Under Armour Team 4""",n
+434,424,div,Compression Shorty - Women's,n
+438,395,div,,n
+446,438,div,Under Armour Loose Knit,n
+448,438,div,Short - Women's,n
+452,395,div,,n
+460,452,div,Under Armour Heatgear,n
+462,452,div,Leggings - Women's,n
+466,395,div,,n
+470,466,div,Bauer Vapor Fleece Jogger,n
+472,466,div,Sweatpants - Women's,n
+480,395,div,Bauer Vapor Team Tech,n
+486,395,div,,n
+490,486,div,Bauer Vapor Fleece,n
+495,486,div,$59.99,n
+496,395,div,,n
+500,496,div,Clearance -33%,n
+502,496,div,Under Armour Tech 1 or 2 Zip,n
+504,496,div,Pullover Women's,n
+505,496,div,,n
+509,505,span,97,n
+512,505,span,$44.99,n
+514,395,div,,n
+524,514,div,Team Jacket - Women's,n
+525,514,div,,n
+529,525,span,97,n
+532,525,span,$63.99,n
+538,395,div,CCM Pullover,n
+544,395,div,,n
+550,544,div,CCM Training,n
+552,544,div,Tech Shirt - Women's,n
+555,544,div,$23.99,n
+556,395,div,,n
+562,556,div,CCM Tri-Blend,n
+567,556,div,$19.99,n
+568,395,div,,n
+574,568,div,Clearance -60%,n
+576,568,div,Reebok Cotton V-Neck Short Sleeve Shirt Women's,n
+582,568,div,97,n
+589,395,div,,n
+597,589,div,Under Armour Zone Shirt Women's,n
+599,589,div,,n
+603,599,span,97,n
+606,599,span,$30.00,n
+612,395,div,Under Armour Tech Twist Tank,n
+626,395,div,Under Armour Tech Tank,n
+636,395,div,,n
+640,636,div,Clearance -51%,n
+642,636,div,Under Armour Sport Strappy Tank,n
+645,636,div,,n
+649,645,span,97,n
+652,645,span,$34.99,n
+654,395,div,,n
+664,654,div,Team Pants - Women's,n
+665,654,div,,n
+669,665,span,97,n
+672,665,span,$43.99,n
+674,395,div,,n
+680,674,div,Under Armour Breathelux Crop,n
+682,674,div,Women's Capris,n
+683,674,div,,n
+687,683,span,97,n
+690,683,span,$89.99,n
+692,395,div,,n
+696,692,div,"Reebok 4"" Core Woven Skate Shorts Women's",n
+700,692,div,$10.97,n
+705,171,div,,n
+707,705,div,SHOP ALL APPAREL,n
+709,705,div,HOME,n
+711,0,footer,,n
+715,711,p,*Price comparisons are based on the Manufacturer's Suggested Retail Price or Original Selling Price. Actual sales may not have occurred at this price.,n
+718,711,div,,n
+720,718,div,,n
+722,720,div,Join Our Mailing List,n
+724,720,div,Exclusive Offers Sent Right to Your Inbox,n
+726,718,div,,n
+730,726,div,Enter Email Address,n
+732,726,button,Sign Up,n
+734,711,div,,n
+735,734,div,,n
+737,735,div,,n
+739,737,div,Free Ground Shipping,n
+741,737,p,Orders over $99 will ship,n
+744,735,div,,n
+746,744,div,$15 2-Day Air Shipping,n
+748,744,p,On all orders over $99! Some Restrictions Apply.,n
+751,735,div,,n
+753,751,div,Free Returns,n
+755,751,p,"Order with confidence. If you don't like it, return it",n
+758,735,div,,n
+760,758,div,Guaranteed Lowest Prices,n
+762,758,p,We will match or beat any posted price advertised in-store.,n
+764,734,div,,n
+766,764,div,Need Some Assistance?,n
+768,764,div,Our Experts Can Help You,n
+769,764,div,,n
+770,769,div,,n
+771,770,text,Call,n
+773,770,span,800.366.3070,n
+774,769,div,,n
+775,774,text,Email,n
+777,774,span,info@icewarehouse.com,n
+779,769,ul,,n
+781,779,li,Facebook,n
+783,779,li,Twitter,n
+785,779,li,Instagram,n
+787,779,li,Youtube,n
+788,734,div,,n
+812,788,div,,n
+814,812,div,Support,n
+815,812,div,,n
+817,815,ul,,n
+823,817,li,Shipping,n
+827,817,li,International,n
+829,817,li,FAQ,n
+831,817,li,Pricing Info,n
+832,815,div,,n
+835,832,li,Wishlist,n
+844,832,li,Careers at IW,n
+845,788,div,,n
+847,845,div,Shop,n
+850,845,ul,,n
+852,850,li,Skates,n
+854,850,li,Sticks,n
+856,850,li,Protective,n
+858,850,li,Bags,n
+860,850,li,Game Apparel,n
+864,850,li,More...,n
+871,734,div,,n
+872,871,text,Careers,n
+875,871,div,,n
+877,875,button,Support,n
+882,875,ul,,n
+888,882,li,Shipping Information,n
+892,882,li,Warranty,n
+894,882,li,FAQs,n
+896,882,li,International Shipping,n
+897,871,text,Shop,n
+926,734,div,,n
+928,926,div,,n
+930,928,span,Ice Warehouse,n
+931,928,text,Copyright © Ice Warehouse. All rights Reserved.,n
+933,926,ul,,n
+935,933,li,Terms,n
+937,933,li,Privacy,n
+939,933,li,CCPA,n
+941,933,li,Accessibility,n
+943,933,li,Site Map,n
+945,711,div,,n
+946,945,div,,n
+948,946,h4,Other Sports Warehouse Websites,n
+950,946,p,Tennis Warehouse • Tennis Warehouse Europe • Tennis Only • Running Warehouse • Running Warehouse Europe • Running Warehouse Australia,n
+962,946,p,Tackle Warehouse • Skate Warehouse • Riding Warehouse • Racquetball Warehouse • Total Pickleball,n
+971,945,div,,n
+973,971,button,Other Sports Warehouse Websites,n
+977,971,ul,,n
+979,977,li,Tennis Warehouse,n
+981,977,li,Tennis Warehouse Europe,n
+983,977,li,Tennis Only,n
+985,977,li,Running Warehouse,n
+987,977,li,Running Warehouse Europe,n
+989,977,li,Running Warehouse Australia,n
+991,977,li,Tackle Warehouse,n
+993,977,li,Skate Warehouse,n
+995,977,li,Riding Warehouse,n
+997,977,li,Racquetball Warehouse,n
+999,977,li,Total Pickleball,n
+1006,0,div,Close Cart,n
+1010,0,noscript,"Chat with us , powered by LiveChat",n
+1015,0,div,,n
+1017,1015,div,,n
+1021,1017,div,,n
+1023,1021,h2,Privacy Preference Center,n
+1024,1021,div,,n
+1025,1024,text,"When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.",n
+1027,1024,br,More information,n
+1029,1021,button,Allow All,n
+1030,1021,section,,n
+1032,1030,h3,Manage Consent Preferences,n
+1033,1030,div,,n
+1035,1033,div,,n
+1040,1035,h4,Strictly Necessary Cookies,n
+1042,1035,div,Always Active,n
+1045,1033,p,"These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.",n
+1046,1030,div,,n
+1048,1046,div,,n
+1053,1048,h4,Performance Cookies,n
+1059,1048,div,Performance Cookies,n
+1062,1046,p,"These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.",n
+1063,1030,div,,n
+1065,1063,div,,n
+1070,1065,h4,Functional Cookies,n
+1076,1065,div,Functional Cookies,n
+1079,1063,p,These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.,n
+1080,1030,div,,n
+1082,1080,div,,n
+1087,1082,h4,Targeting Cookies,n
+1093,1082,div,Targeting Cookies,n
+1096,1080,p,"These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.",n
+1097,1017,section,,n
+1098,1097,div,,n
+1102,1098,h3,Performance Cookies,n
+1103,1098,div,,n
+1107,1103,div,Vendor Search,n
+1113,1103,div,,n
+1115,1113,button,Clear,n
+1126,1113,div,,n
+1128,1126,button,Apply,n
+1130,1126,button,Cancel,n
+1134,1097,div,,n
+1136,1134,span,Consent,n
+1138,1134,span,Leg.Interest,n
+1168,1017,div,Confirm My Choices,n
+1175,1015,div,,n
+1180,1175,p,"By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.",n
+1182,1175,div,,n
+1184,1182,button,Cookies Settings,n
+1188,1182,button,Accept All Cookies,n

@@ -1,0 +1,271 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+8,3,h1,Boxing training,n
+9,3,div,,n
+11,9,div,"From Wikipedia, the free encyclopedia",n
+15,9,text,Jump to navigation Jump to search,n
+17,9,div,,n
+18,17,div,,n
+25,18,div,,n
+26,25,text,This article needs additional citations,n
+30,25,span,,n
+31,30,text,Please help improve this article by adding citations to reliable sources . Unsourced material may be challenged and removed.,n
+39,30,span,Find sources,n
+65,18,div,"Lt. Cmdr. Philip Creider , demonstrates the use of a Speed bag , a tool prominently used in training for boxing.",n
+71,18,p,Boxing training is the training method that boxers use in order to get more fit,n
+73,18,div,,n
+77,73,h2,Contents,n
+80,73,ul,,n
+81,80,li,,n
+83,81,span,1,n
+86,81,ul,,n
+89,86,li,1,n
+94,86,li,2,n
+97,80,li,,n
+99,97,span,2,n
+102,97,ul,,n
+105,102,li,1,n
+110,102,li,2,n
+115,80,li,3,n
+120,80,li,4,n
+125,80,li,5,n
+138,18,p,"A boxer 's training depends largely on the point in their career at which he or she is situated. If the boxer is just a beginner, a minimal training routine might consist of learning how to hit a heavy bag , a speed bag , or a double end bag as well as doing shadowboxing in front of a mirror, skipping rope , calisthenics and jogging every day, as well as an occasional practice bout inside the ring . Most beginning boxers will spend most of their early careers conditioning and establishing the fundamentals. For the amateur or professional boxer preparing for a competition or bout, however, training is much more stringent. Boxing is widely considered one of the most physically demanding sports in the world.",n
+170,18,p,"Boxing, like several other fighting sports, categorizes its competitors into weight classes. Some fighters try to take advantage of this by dieting before weigh-in so that they can be bumped down a weight class. In extreme cases, a fighter may forgo solid food before the official weigh-in ceremony, and eat a lot afterward to compensate. In some very extreme cases, boxers have been forced to stop eating solid food up to three days before the weigh-in ceremony, in order to make weight for the fight. Sometimes, if a boxer doesn't make the weight agreed for on the first weight-in, he or she might go to a sauna or to jog with a jacket to sweat and lose the extra pounds, however this is mainly water that the body holds. After weigh ins, competitors will in general add on weight before the fight, resulting in them weighing anywhere from 5 to 25 lbs above the weight class.",n
+177,18,p,"A boxer will generally try to have the maximum weight possible within the Boxing weight classes he is fighting in, as a good boxer will be able to use his weight to his advantage.",n
+190,18,div,Main article,n
+192,18,p,,n
+193,192,text,"Sparring is ""practice fighting"" with the aim of training skills and fitness, not to determine a winner. Sparring should always involve use of a mouth-guard, head-guard and groin-guard.",n
+198,192,text,Sparring gloves are often more padded than gloves used in actual bouts. Sparring partners sometimes agree to practice particular types of punches or defense moves to focus their training.,n
+214,18,div,,n
+215,214,text,This section does not cite any sources .,n
+222,214,span,Please help improve this section by adding citations to reliable sources . Unsourced material may be challenged and removed .,n
+240,18,p,Basic boxing training equipment includes,n
+250,18,ul,,n
+252,250,li,Hand wraps,y
+255,250,li,Speed Bag Gloves,y
+257,250,li,Heavy Bag Gloves,y
+259,250,li,Sparring Gloves,y
+261,250,li,Headgear,y
+264,250,li,Groin Guard,y
+267,250,li,Mouthpiece,y
+280,18,ul,,n
+282,280,li,Jump Rope,y
+285,280,li,Focus mitts,y
+288,280,li,The Heavy Bag,y
+292,280,li,The Speed Bag,y
+296,280,li,The Double End Bag,y
+306,280,li,The Maize Bag,y
+308,280,li,The Slam Man,y
+312,280,li,Medicine Ball,y
+317,280,li,Mirror,y
+321,280,li,Boxing Ring,y
+324,280,li,Automated Boxing Scoring System,y
+335,18,ul,,n
+337,335,li,Boxercise,y
+339,335,li,Sports training,y
+341,335,li,Aliveness,y
+343,335,li,Combat sport,y
+345,335,li,Punching bag,y
+357,18,div,,n
+362,357,li,,n
+363,362,text,"""Boxing HeadGears"" . Hellofighter.com. Archived from the original on 20 December 2016",n
+367,362,span,,n
+368,367,text,. Retrieved,n
+370,367,span,9 December,n
+371,367,text,2016,n
+377,357,li,,n
+380,377,cite,"""Boxing Equipment Guide"" .",n
+383,377,text,"Friday, 23 April 2021",n
+393,18,ul,,n
+395,393,li,Boxing Speed Training and Fitness Written,n
+397,393,li,The Inhuman 40 Round Floyd Mayweather Training Routine,n
+401,18,div,,n
+403,401,tr,,n
+405,403,span,hide,n
+407,403,ul,,n
+410,407,li,v,n
+413,407,li,t,n
+416,407,li,e,n
+418,403,div,Boxing,n
+422,401,ul,,n
+424,422,li,Professional boxing,n
+426,422,li,Semi-professional boxing,n
+428,422,li,Olympic boxing,n
+430,422,li,Amateur boxing,n
+432,422,li,Women's boxing,n
+434,422,li,White-collar boxing,n
+436,422,li,Kickboxing,n
+437,401,tr,,n
+439,437,th,Rules,n
+442,437,ul,,n
+444,442,li,London Prize Ring Rules,n
+446,442,li,Queensberry Rules,n
+449,401,tr,,n
+451,449,th,Terms,n
+454,449,ul,,n
+456,454,li,The distance,n
+458,454,li,Weight class,n
+460,454,li,Pound,n
+462,454,li,Lineal championship,n
+464,454,li,Cutman,n
+466,454,li,Gatekeeper,n
+468,454,li,Journeyman,n
+470,454,li,Tomato can,n
+472,454,li,Knockout,n
+474,454,li,Corner retirement,n
+476,454,li,Club fighter,n
+478,454,li,Long count,n
+480,454,li,Outpoint,n
+482,454,li,Punching power,n
+483,401,tr,,n
+485,483,th,Punches,n
+488,483,ul,,n
+490,488,li,Jab,n
+492,488,li,Cross,n
+494,488,li,Hook,n
+499,488,li,Uppercut,n
+501,488,li,Overhand,n
+503,488,li,Counterpunch,n
+508,488,li,Bolo punch,n
+510,488,li,Short straight-punch,n
+512,488,li,Rabbit punch,n
+514,488,li,Liver shot,n
+516,488,li,Below the belt,n
+517,401,tr,,n
+518,517,th,,n
+519,518,text,Styles and,n
+521,518,br,technique,n
+524,517,ul,,n
+526,524,li,Bob and weave,n
+528,524,li,Bobbing,n
+530,524,li,Head fake,n
+532,524,li,Slipping,n
+534,524,li,One-two combo,n
+536,524,li,Check hook,n
+538,524,li,Peek-a-Boo,n
+540,524,li,Rope-a-dope,n
+542,524,li,Footwork,n
+544,524,li,Orthodox stance,n
+546,524,li,Southpaw stance,n
+547,401,tr,,n
+549,547,th,Related,n
+552,547,ul,,n
+554,552,li,Ancient Greek boxing,n
+556,552,li,Boxing glove,n
+558,552,li,Boxing rankings,n
+560,552,li,Boxing ring,n
+562,552,li,Boxing training,n
+564,552,li,BoxRec,n
+566,552,li,Championship belt,n
+568,552,li,Compubox,n
+570,552,li,Chess boxing,n
+572,552,li,Fame,n
+574,552,li,Fame,n
+576,552,li,boxing families,n
+578,552,li,Tent boxing,n
+580,552,li,Dementia pugilistica,n
+582,552,li,Muhammad Ali Boxing Reform Act,n
+584,552,li,Bare-knuckle boxing,n
+586,552,li,Slapboxing,n
+588,552,li,Women Boxing Archive Network,n
+590,552,li,boxing films,n
+592,552,li,deaths due to injuries sustained in boxing,n
+594,552,li,Chivarreto boxing,n
+596,552,li,Boxeo de Primera,n
+598,552,li,HBO World Championship Boxing,n
+602,401,ul,,n
+604,602,li,Category,n
+606,602,li,Commons,n
+608,602,li,Wikiquote,n
+611,17,div,"Retrieved from "" https",n
+614,9,div,,n
+615,614,div,,n
+616,615,text,Categories,n
+618,615,ul,,n
+620,618,li,Boxing,n
+622,618,li,Combat sports,n
+624,618,li,Sports education and training,n
+625,614,div,,n
+626,625,text,Hidden categories,n
+627,625,ul,,n
+629,627,li,Articles needing additional references from October 2020,n
+631,627,li,All articles needing additional references,n
+633,627,li,All articles with unsourced statements,n
+635,627,li,Articles with unsourced statements from March 2014,n
+637,627,li,Articles with unsourced statements from May 2013,n
+638,0,div,,n
+640,638,h2,Navigation menu,n
+641,638,div,,n
+642,641,nav,,n
+645,642,h3,Personal tools,n
+647,642,ul,,n
+650,647,li,Not logged in,n
+656,647,li,Contributions,n
+659,647,li,Create account,n
+662,647,li,Log in,n
+663,641,div,,n
+664,663,nav,,n
+667,664,h3,Namespaces,n
+672,664,li,Article,n
+680,663,span,English,n
+683,641,div,,n
+684,683,nav,,n
+687,684,h3,Views,n
+689,684,ul,,n
+692,689,li,Read,n
+695,689,li,Edit,n
+698,689,li,View history,n
+703,683,span,More,n
+710,683,h3,Search,n
+717,638,div,,n
+719,717,nav,,n
+722,719,h3,Navigation,n
+724,719,ul,,n
+727,724,li,Main page,n
+730,724,li,Contents,n
+733,724,li,Current events,n
+736,724,li,Random article,n
+742,724,li,Contact us,n
+745,724,li,Donate,n
+746,717,nav,,n
+749,746,h3,Contribute,n
+751,746,ul,,n
+754,751,li,Help,n
+757,751,li,Learn to edit,n
+760,751,li,Community portal,n
+763,751,li,Recent changes,n
+767,717,nav,,n
+770,767,h3,Tools,n
+772,767,ul,,n
+775,772,li,What links here,n
+778,772,li,Related changes,n
+784,772,li,Special pages,n
+787,772,li,Permanent link,n
+790,772,li,Page information,n
+793,772,li,Cite this page,n
+796,772,li,Wikidata item,n
+797,717,nav,,n
+800,797,h3,Print or export,n
+802,797,ul,,n
+805,802,li,Download as PDF,n
+808,802,li,Printable version,n
+809,717,nav,,n
+812,809,h3,In other projects,n
+817,809,li,Wikimedia Commons,n
+818,717,nav,,n
+821,818,h3,Languages,n
+827,818,div,Add links,n
+828,0,footer,,n
+829,828,ul,,n
+831,829,li,"This page was last edited on 5 December 2021, at 14:54",n
+836,829,li,"Text is available under the Creative Commons Attribution-ShareAlike License 3.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.",n
+845,828,ul,,n
+847,845,li,Privacy policy,n
+851,845,li,Disclaimers,n
+853,845,li,Contact Wikipedia,n
+855,845,li,Mobile view,n
+857,845,li,Developers,n
+859,845,li,Statistics,n
+861,845,li,Cookie statement,n
+863,845,li,Edit preview settings,n

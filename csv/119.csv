@@ -1,0 +1,156 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,article,,n
+3,2,div,,n
+5,3,div,,n
+8,5,span,Share on Facebook,n
+11,5,span,Share on Twitter,n
+13,5,span,Share via E-mail,n
+16,5,span,More share options,n
+19,5,span,Share on Pinterest,n
+22,5,span,Share on Flipboard,n
+25,5,span,Share on Reddit,n
+27,5,span,Share on WhatsApp,n
+30,3,li,,n
+32,30,span,15,n
+33,30,text,Shares,n
+39,3,li,,n
+40,39,text,By,n
+42,39,span,Craig Bennett,n
+45,3,li,,n
+47,45,span,Updated,n
+49,45,time,"Jan 20, 2022 at 4:51pm",n
+50,2,div,,n
+51,50,div,,n
+53,51,p,There is no shortage of bowling accessories out there designed to keep your equipment maintained so they can continue performing at a high level for years to come. And there are plenty of necessary items you’ll need for every day play.,n
+55,51,p,So we’ve compiled a list below of some of the more popular must-have accessories that every player should be carrying around in their bowling bags . Take a look below and see which of these bowling accessories are right for you.,n
+72,50,ul,,n
+73,72,li,,n
+82,73,h2,bowlingball.com Microfiber Bowling Ball Polisher,n
+88,73,div,,n
+90,88,p,"Keep your bowling balls clean, shiny, and effective with this bowlingball.com Microfiber Polisher, which is oversized and is machine washable.",n
+94,88,p,"Much stronger than cotton, the microfiber construction takes the dirt, grime, and moisture off the ball and absorbs it into the towel itself. The polisher can also act as a protective cover for your ball while storing it in a bag or locker.",n
+96,88,p,It measures 19.5 inches by 9.5 inches.,n
+98,72,li,,n
+99,98,article,,n
+104,99,span,$19.95,n
+107,99,h2,Storm Bowling Ball Cleaning Pad,y
+113,98,div,,n
+115,113,p,The Storm Bowling Bowl Cleaning Pad Shammy is designed to remove oil from your ball and return the tacky feel to it for better performance.,n
+117,113,p,"Compatible with all types of bowling balls, the cleaning pad is durably made and designed to last you a long time. It’s big enough to fit people with larger hands.",n
+119,113,p,Check out more Bowling Bowl Cleaning Pads,n
+124,72,li,,n
+125,124,article,,n
+130,125,span,$17.99,n
+133,125,h2,Pyramid Monster Tac Bowling Ball Cleaner,y
+139,124,div,,n
+141,139,p,"When it comes to bowling accessories, ball cleaner is pretty important item. And the Pyramid Monster Tac Bowling Ball Cleaner is one of the more popular products on the market.",n
+143,139,p,"Approved to be used on all bowling ball covers, the cleaner will help restore the tack to your ball’s surface to improve the overall performance.",n
+145,139,p,"Pyramid also makes Monster Foam , Monster Gel , and Monster Shine .",n
+153,139,p,Bowling Ball Cleaners from all the top brands.,n
+157,72,li,,n
+158,157,article,,n
+163,158,span,$63.19,n
+166,158,h2,Brunswick TZone Deep Space Bowling Ball,y
+172,157,div,,n
+174,172,p,"Bowling balls count as bowling accessories, right? Sure, they do.",n
+176,172,p,And one of the most popular balls — especially for beginners and those who need a cheap spare — is the Brunswick TZone Deep Space.,n
+178,172,p,"Best on dry lanes, the ball has a polyester coverstock, which is perfect for newbies since it offers minimal friction so you’ll have a better chance to keep it straight. The symmetric Bullet core is also recommended for beginners as the weight is equally distributed so you’ll have better control.",n
+180,172,p,"The high polish finish will help keep scratches to a minimum, but the ball also comes with a 1-year warranty. The ball comes intact, so you’ll need to get holes drilled in, but that way you’ll get a custom finger fit. This can be done at most bowling alleys.",n
+182,172,p,"Available in 10 vibrant, stylish color schemes, the TZone ball can be had in a variety of weights from 6 to 16 pounds. Another cool aspect is the ball will glow when put under a black light, so it’s great for alleys that have Cosmic Bowling.",n
+184,172,p,Check out more Brunswick Bowling Balls,n
+188,72,li,,n
+189,188,article,,n
+194,189,span,$13.99,n
+197,189,h2,Anti-Skid Bowling Gloves,y
+203,188,div,,n
+205,203,p,"These bowling gloves from Mumian are designed to give you a better grip, reduce skidding, and get an overall more consistent roll.",n
+207,203,p,"The gloves feature a non-slip silicone palm and a flexible, breathable lycra outer. You can bet a custom fit thanks to the velcro closure.",n
+209,203,p,"Available in four vibrant color schemes, the gloves come in sizes Medium and Large.",n
+211,203,p,Want more options? Check out more Bowling Gloves,n
+215,72,li,,n
+216,215,article,,n
+221,216,span,$19.99,n
+224,216,h2,Kool Kontrol Bowling Wrist Positioner,y
+230,215,div,,n
+232,230,p,"If more support is what you’re looking for, then the Kool Kontrol Bowling Wrist Positioner is might what you need.",n
+234,230,p,"Wrist positioning during release and support are huge factors in getting consistent results and the brace is designed to give you just that. Made of a breathable, flexible fabric, the brace has metal supports in both the front and back for added support and comfort.",n
+236,230,p,"The three velcro straps help you get a secure, comfortable fit.",n
+238,230,p,Bowling Wrist Support Braces,n
+242,72,li,,n
+243,242,article,,n
+248,243,span,$219.95,n
+251,243,h2,Salmon Creek NuBall,y
+257,242,div,,n
+259,257,p,"When it comes to unique and cool bowling accessories, the NuBall Machine from Salmon Creek is right up there.",n
+261,257,p,Here’s what is does in a nutshell,n
+263,257,p,your bowling ball.,n
+265,72,li,,n
+266,265,article,,n
+271,266,span,$219.99,n
+274,266,h2,Kaze Sports 3 Ball Bowling Roller,y
+280,265,div,,n
+282,280,p,"If you’re someone who carries around alot of gear and equipment, then the Kaze Sports 3 Ball Bowling Roller might be exactly what you need.",n
+284,280,p,"Made of durable 1680 Denier nylon, the bag has the following features: 5 inch PU polyurethane wheels with bearings for an extra smooth ride, six accessories pockets, a mesh side pocket for apparel, and a separate vented compartment that can hold up to a size 15 men’s shoe. The locking handle retracts and can extend up to 41.5 inches.",n
+286,280,p,It measures 32 inches by 14 inches by 16 inches and is available in a dozen colors.,n
+288,280,p,See more 3 Ball Bowling Rollers,n
+293,72,li,,n
+294,293,article,,n
+299,294,span,$35.50,n
+302,294,h2,BSI Deluxe Single Ball Tote Bag,y
+308,293,div,,n
+310,308,p,The BSI Deluxe Single Ball Tote Bag has everything you need to carry around your gear in style and at a good price.,n
+312,308,p,"Made of a heavy duty ramie or poly fabric, the bag can hold 1 ball and a pair of shoes up to size 14 in its side compartment. There’s also a zippered accessories pocket for valuables or other equipment.",n
+314,308,p,"There’s an adjustable and removable shoulder strap for easy carrying, and the reinforced handles and metal hardware add to its durability.",n
+316,308,p,Single Ball Bowling Bags .,n
+320,72,li,,n
+321,320,article,,n
+326,321,span,$52.95,n
+329,321,h2,Storm Gust Bowling Shoes,y
+335,320,div,,n
+337,335,p,"The Storm Gust Bowling Shoe combines a casual, sporty look into a high performance model at an affordable price.",n
+339,335,p,"Some of the top features include a synthetic U-Throat canvas upper pattern for better performance and breathability, a non-marking rubber outsole, microfiber universal slide soles on both soles, and a padded tongue for more comfort.",n
+341,335,p,In the market,n
+345,72,li,,n
+354,345,h2,Monster Bowling Tape,y
+360,345,div,,n
+362,360,p,Bowling tape an effective and inexpensive way to help you better grip on the ball without having to squeeze the ball and put extra pressure on your hand.,n
+364,360,p,the pre-cut tape into the thumbhole of your bowling ball.,n
+366,360,p,tape,n
+368,360,p,Bowling Tapes,n
+373,72,li,,n
+374,373,article,,n
+379,374,span,$207.22,n
+382,374,h2,Ebonite Ultra Fit Bowling Ball Tool,y
+388,373,div,,n
+390,388,p,The Ebonite Ultra Fit Bowling Ball Tool is an effective way to keep the finger holes clean so you can get the perfect fit every time.,n
+392,388,p,"Compact and easy to store, the tool is designed to refine the thumb and finger holes, while also removing leftover tape and residue.",n
+394,388,p,"Durably made to last, the tool features an anodized aluminum handle.",n
+396,72,li,,n
+397,396,article,,n
+402,397,span,$11.99,n
+405,397,h2,Microfiber Ultra Dry Bowling Grip Ball,y
+411,396,div,,n
+413,411,p,"Breaking a sweat is easy when playing, and the Microfiber Ultra Dry Bowling Grip Ball absorbs moisture so you can concentrate on your game and not bowling balls slipping out of your hand.",n
+415,411,p,The round design makes it easy to keep your entire hand and fingers moisture-free. It’s compact enough to fit into your bowling bag.,n
+417,411,p,Take a look at other Bowling Dry Grip Balls,n
+421,72,li,,n
+422,421,article,,n
+427,422,span,$13.95,n
+430,422,h2,Brunswick Bowling Shoes Slider,y
+436,421,div,,n
+438,436,p,"As an alternative to powders, there are also shoe sliders. And this Brunswick model is a very popular — and inexpensive — one.",n
+440,436,p,Simply attach it to the front of your shoe and you’re ready to go. It’s designed to promote slide and cut down on sticking on your approach. It’s made of suede and has an elastic band so you can get a custom fit. The slide is one size fits most.,n
+442,436,p,Bowling Shoes Sliders and Covers .,n
+447,72,li,,n
+448,447,article,,n
+453,448,span,$7.99,n
+456,448,h2,Ebonite Ultra Slide Powder,y
+462,447,div,,n
+464,462,p,"Slide powders are must-have bowling accessories, especially if you play in a high-humidity areas. And the Ebonite Ultra Slide Powder is one of the most popular ones on the market.",n
+466,462,p,"Ideal for synthetic lanes, the powder will help your shoes from sticking on your approach, giving you consistent slide.",n
+468,462,p,"The powder can also be used in the thumbholes of your bowling balls for a better, more consistent release.",n
+470,462,p,Take a look at more Bowling Slide Powders,n
+478,50,div,,n
+480,478,div,Read More,n
+481,478,text,"Shopping , Sports",n

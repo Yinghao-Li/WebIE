@@ -1,0 +1,139 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+5,3,p,,n
+7,5,span,"Most parents' new baby checklists include necessities as well as a few purchases that are over-the-top optional. Your baby really needs only enough clothing to keep him or her clean and warm, a comfortable environment, proper nutrition and plenty of love. Here's a look at the items you may want that are just the start of the",n
+9,5,span,raising a child,n
+11,5,span,.,n
+18,3,p,"But chances are you want more than the bare minimum for your little one, so these lists err on the comprehensive side.",n
+25,3,p,"Friends and family are often more than willing to spoil your bundle of joy. Even if a baby shower isn’t in the works, directing loved ones to a registry can make a big dent in your shopping list — and lessen the chance that you’ll receive unnecessary items.",n
+29,3,h2,Baby checklists,n
+33,3,h3,Baby checklist,n
+35,3,p,,n
+37,35,span,The shopping began the moment you bought a pregnancy test. Now is the time to complete these,n
+39,35,span,financial tasks to prepare,n
+41,35,span,and purchase items crucial,n
+49,3,div,,n
+56,49,p,Prenatal vitamins,y
+63,49,p,Bras with added support,y
+70,49,p,Maternity clothes and waistband extenders,y
+77,49,p,Body cream to soothe stretching skin and dryness commonly caused by pregnancy hormones,y
+84,49,p,Belly support band,y
+91,49,p,Additional pillow,y
+98,49,p,Pregnancy books,y
+105,3,p,"It's easy to find pregnancy and infant supplies secondhand, often used for only a handful of months. Check local exchange boards on social media, Craigslist and even yard sales.",n
+109,3,h3,Baby checklist,n
+113,3,p,Many of the items in the hospital bag will already be part of your layette — a fancy word for baby’s wardrobe — but you might have some purchases to make specifically for the time in labor and delivery.,n
+121,3,div,,n
+129,121,p,For Mom,n
+136,121,p,"Warm, nonskid socks or slippers",y
+143,121,p,Maternity bra and a few nursing pads,y
+150,121,p,Maxi pads,y
+158,121,p,For the baby,y
+165,121,p,At least one outfit,y
+172,121,p,A few warm blankets,y
+179,121,p,Outdoor gear,y
+186,121,p,"Diaper bag, including a few diapers, wipes and a pacifier",y
+193,3,p,"Be conservative in buying clothing for your little one. Many babies wear “newborn” sizes only for the first few weeks, if at all. As your baby grows, you’ll know better which sizes you’ll need and when.",n
+197,3,h3,Baby checklist,n
+201,3,p,"If budget isn’t a concern for your nursery, furnishings such as low-allergen wood or cork flooring, soothing paint colors and custom furniture are nice options. For the majority of expectant parents, however, there’s a happy medium between building your baby a dream palace and ensuring she has a safe and comfortable room. Essential buys:",n
+209,3,div,,n
+222,209,p,"Crib, cradle or bassinet",y
+235,209,p,Portable bed or playpen,y
+248,209,p,Moisture-proof mattress pads,y
+261,209,p,Fitted sheets,y
+274,209,p,Light receiving blankets,y
+287,209,p,Heavier blankets,y
+300,209,p,Diaper pail or bin,y
+313,209,p,Changing table and or or changing pad,y
+326,209,p,Dresser or chest,y
+339,209,p,Humidifier or vaporizer,y
+352,209,p,Nightlight or lamp,y
+365,209,p,Infant bathtub,y
+378,209,p,Car seat,y
+389,209,p,,n
+391,389,span,Stroller see,n
+393,389,span,best strollers,n
+408,209,p,Laundry detergent,y
+421,209,p,"Nasal aspirator, less prettily called a “snot sucker”",y
+434,209,p,Thermometer,y
+447,209,p,"Infant pain reliever or fever reducer, such as Tylenol",y
+451,3,h3,Baby checklist,n
+458,3,div,,n
+460,458,thead,,n
+467,460,p,Breast-feeding,n
+474,460,p,Bottle-feeding,n
+476,458,tbody,,n
+480,476,ul,,n
+485,480,li,Nipple cream,y
+490,480,li,Nursing bras,y
+495,480,li,Nursing pads,y
+500,480,li,Nursing pillow,y
+505,480,li,Breast pump,y
+510,480,li,Breast milk storage containers,y
+514,476,ul,,n
+519,514,li,8+ bottles,y
+524,514,li,Newborn-sized nipples,y
+529,514,li,baby formula,y
+534,514,li,Bottle cleaning brush and drying rack,y
+539,514,li,"Bottle sanitizer, if your dishwasher doesn’t have that setting",y
+543,3,p,Breast-feeding moms might also want bottle supplies,n
+550,3,p,"Manufacturers’ websites often offer free samples of diapers, formula and other baby care products, as well as valuable coupons.",n
+556,3,div,,n
+559,556,div,Know where every dollar goes,n
+562,556,div,"Find ways to spend more on the things you love, and less on the things you don’t.",n
+566,556,div,SEE YOUR CASH FLOW,n
+571,3,h2,Baby checklists,n
+575,3,h3,Baby checklist,n
+579,3,p,"This is the biggest list, because you’re buying items that will last well into baby’s first year. And you won’t want to run out on emergency shopping trips after bringing baby home from the hospital.",n
+583,3,p,"Aim to have the 0-to-3-month items purchased at least a month before the due date. If you’re considering any delivery services, such as Amazon Mom for diaper and formula deliveries, now’s the time to set them up, too.",n
+591,3,div,,n
+598,591,p,Burp cloths,y
+605,591,p,Hooded towels,y
+612,591,p,Soft baby washcloths,y
+619,591,p,Baby wash or gentle soap,y
+626,591,p,Baby shampoo,y
+633,591,p,Children’s nail clippers,y
+640,591,p,Soft newborn hairbrush,y
+647,591,p,Two packages disposable newborn diapers or 24+ cloth,y
+654,591,p,"Diaper covers and fasteners, if you’re using cloth diapers",y
+661,591,p,Wipes,y
+668,591,p,Diaper rash ointment and powder,y
+675,591,p,Newborn pacifiers,y
+682,591,p,Onesies,y
+689,591,p,Several bodysuits or rompers,y
+696,591,p,Several shirt and pants sets,y
+703,591,p,Socks or booties,y
+710,591,p,Sweater or jacket,y
+717,591,p,"Bunting or snowsuit, depending on the season and your location",y
+724,591,p,Hats,y
+731,591,p,"Infant rocker, bouncing chair or age-appropriate swing",y
+738,591,p,Toys,y
+740,3,p,,n
+745,740,span,"If you purchase a stroller, crib or high chair secondhand, make sure it's safe. Examine all buckles, harnesses and moving parts, and perform a quick search on the",n
+747,740,span,Consumer Product Safety Commission,n
+749,740,span,'s website to see if the product was involved in a recall.,n
+753,3,p,"We don’t recommend buying a used car seat because of the possibility that its safety has been compromised as the result of a car crash, but local law enforcement agencies often inspect them for free, so take advantage of this option if you must buy used.",n
+759,3,div,,n
+762,759,div,Find the right life insurance plan,n
+765,759,div,Make sure you and your loved ones are covered - compare customized life insurance quotes from our partners.,n
+769,759,div,Compare with Policygenius,n
+776,3,h3,Baby checklist,n
+780,3,p,"Much of what you’ve already bought will suffice as your baby grows. For instance, you won’t have to replace her blankets every few months. But some of her needs will change as she grows into new clothes, cuts her first teeth, begins grabbing objects and starts putting everything into her mouth.",n
+788,3,div,,n
+795,788,p,Teething ointment,y
+802,788,p,Teething rings,y
+809,788,p,Spoons and bowls,y
+816,788,p,High chair,y
+823,788,p,Stationary activity center,y
+830,788,p,Toys,y
+834,3,h3,Baby checklist,n
+838,3,p,"Your baby is far more interactive now, and might soon be crawling. If you haven’t already, baby-proof the house and provide toys and activities that will nurture her exploratory nature.",n
+846,3,div,,n
+853,846,p,Latches,y
+860,846,p,Outlet covers,y
+867,846,p,Gates to block stairways and rooms that are off-limits,y
+874,846,p,Plastic guards and or or cushions,y
+881,846,p,Small containers,y
+888,846,p,Sippy cups,y
+895,846,p,Toys,y

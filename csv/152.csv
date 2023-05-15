@@ -1,0 +1,131 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+22,5,div,,n
+24,22,h1,School Supply List,n
+26,22,h6,"The following supply lists are general. In addition to the information listed, each individual teacher may request further items.",n
+29,22,h6,KINDERGARTEN SUPPLY LIST,n
+30,22,ul,,n
+33,30,li,"Headphones – 1 pair, small jack",y
+36,30,li,"Pencils – 1 pack, pre-sharpened, #2 yellow, NO character pencils",y
+39,30,li,Glue – 10 large glue sticks,y
+42,30,li,Scissors – 1 pair blunt children’s scissors,y
+45,30,li,Crayons – 4 boxes 24 count crayons,y
+48,30,li,Back pack –regular size,y
+51,30,li,Bar erasers – 1 pack,y
+54,30,li,"fine tip – BLACK only, Expo Brand",y
+57,30,li,Primary Journal Composition Book – 2 books,y
+60,30,li,Dry Erase Board - LINED can be found at Dollar Tree,y
+66,30,li,Index cards,y
+69,30,li,Tissues,y
+72,30,li,White Copy Paper – 1 pack,y
+75,22,h6,Donations Requested,n
+76,22,ul,,n
+79,76,li,"1 box plastic storage bags gallon size, 1 box quart ,1 roll paper towels, 1 large pack paper plates, 1 pack small, 1 pack bowls, Clorox Wipes, Post-it notes, cardstock.",n
+82,76,li,Note,n
+85,22,h6,FIRST GRADE SUPPLY LIST,n
+86,22,ul,,n
+95,86,li,them –,n
+98,86,li,Glue – 10 glue sticks,y
+101,86,li,Scissors – 1 pair,y
+104,86,li,Crayons – 4 boxes,y
+107,86,li,Folders – 2 with prongs and pockets,y
+110,86,li,Headphones -no earbuds,y
+113,86,li,10 thin BLACK Dry Erase Markers –,y
+116,86,li,3 Composition books-1 primary,y
+119,86,li,1 Box Tissues,y
+122,86,li,"white cardstock, copy paper",y
+125,86,li,"gallon size Ziplock bags, sandwich size ziploc bags, paper paltes",y
+128,86,li,1Roll paper towels,y
+131,86,li,4 pack pink erasers,y
+134,86,li,10 Fat Black Dry Erase Markers,y
+138,86,li,Donations Requested,y
+141,86,li,handsanitizer,y
+144,86,li,Band-Aids,y
+147,86,li,clorox or lysol wipes,y
+150,22,h6,SECOND GRADE SUPPLY LIST,n
+151,22,ul,,n
+154,151,li,crayons,y
+157,151,li,5 Composition Books,y
+160,151,li,1 pkg. wide ruled notebook paper,y
+163,151,li,1 wooden ruler,y
+166,151,li,Folders – 4 - pocket with prongs,y
+172,151,li,Tissues – 2 boxes,y
+175,151,li,Clorox unscented wipes-1 container,y
+178,151,li,Boys – quart size ziploc bags,y
+181,151,li,Girls – gallon size ziploc bags,y
+184,151,li,Scissors – 1 pair – fiscar,y
+187,151,li,4 packs #2 pencils,y
+190,151,li,copy paper,y
+193,151,li,8 glue sticks,y
+196,151,li,1 hard plastic pencil box,y
+202,22,h6,THIRD GRADE SUPPLY LIST,n
+203,22,ul,,n
+206,203,li,2 Marbled Composition Notebooks,y
+209,203,li,Dry Erase Markers -EXPO Brand,y
+212,203,li,Wide-Ruled Notebook Paper,y
+215,203,li,yellow #2 pencils,y
+218,203,li,Bar Erasers,y
+221,203,li,Scissors,y
+224,203,li,"24 Crayons, Colored Pencils,Crayola Preferred",y
+227,203,li,Headphones,y
+231,22,ul,,n
+234,231,li,tissues,y
+237,231,li,Boys-1 quart size zip lock bags,y
+240,231,li,Girls-1 gallon size ziploc bags,y
+243,231,li,printer paper,y
+246,22,h6,FOURTH GRADE SUPPLY LIST,n
+247,22,ul,,n
+250,247,li,White Wide Ruled Paper Loose Leaf Paper-4 PACKS,y
+253,247,li,3 Marbled Composition Notebooks,y
+256,247,li,1 Pack –Lined Index Cards,y
+259,247,li,Yellow Highlighters-2,y
+265,247,li,Crayons – 1 box,y
+268,247,li,Colored pencils – 1 box,y
+271,247,li,Headphones,y
+274,247,li,Eraser Caps,y
+277,247,li,Glue Sticks – 2,y
+280,247,li,Pocket Folders-6,y
+283,247,li,Pocket folders,y
+286,247,li,Pencils 4 packs – NO MECHANICAL,y
+289,247,li,Expo markers – 8,y
+296,22,li,"Construction Paper, Colored Printer Paper, 2 large boxes of tissues, Markers, Hand Sanitizer, 1 Pack of white paper.",n
+299,22,h6,FIFTH GRADE SUPPLY LIST,n
+300,22,ul,,n
+303,300,li,6 spiral notebooks,y
+306,300,li,6 Composition notebooks,y
+309,300,li,2 boxes Ticonderoga pencils,y
+312,300,li,Pencil top erasers or block erasers.,y
+315,300,li,Hand held sharpener,y
+318,300,li,different colored folders,y
+321,300,li,"colored pencils, markers, crayons",y
+327,300,li,4 pack glue sticks,y
+333,300,li,paper wide-ruled,y
+336,300,li,tissues-no lotion,y
+339,300,li,3 thin dry erase markers,y
+342,300,li,printer paper,y
+346,22,ul,,n
+349,346,li,hand sanitizer,y
+352,346,li,color print paper,y
+355,346,li,lysol wipes,y
+358,346,li,gallon size ziplock bags,y
+361,346,li,quart size ziplock bags,y
+364,5,div,,n
+366,364,div,Information,n
+367,364,ul,,n
+369,367,li,Family Access - Skyward,n
+371,367,li,Parent Information on Bullying,n
+375,367,li,Parent Portal from Edulog,n
+377,367,li,Registering Your Child,n
+379,367,li,School Advisory Council,n
+381,367,li,School Financial Report,n
+383,367,li,School Supply List,n
+385,367,li,Statewide Assessment Calendar,n
+389,367,li,Students and Families in Transition Information,n
+391,367,li,Suncoast PTA Spirit Wear Store,n
+393,367,li,Title I,n
+395,367,li,Uniform Policy,n
+397,367,li,Update Contact Information,n
+399,367,li,Volunteer Information,n
+401,367,li,P.E. WAIVERS GRADES K-5,n
+403,0,p,"This site provides information using PDF, visit this link to download the Adobe Acrobat Reader DC software .",n

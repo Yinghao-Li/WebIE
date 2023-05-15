@@ -1,0 +1,118 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+35,0,div,,n
+52,35,h1,Cheerleading Equipment List,n
+53,35,div,,n
+57,53,h2,Contents,n
+60,53,ul,,n
+66,60,li,Cheerleading Uniforms,n
+98,60,li,Cheerleading Equipment,n
+102,35,div,,n
+104,102,h2,Cheerleading Equipment,n
+106,102,p,"Most of the cheerleaders you may have been exposed to are probably the cheerleaders that cheer at sports games, mainly football or basketball . However, there are also competitive types of cheerleading that are all about competitions. In a cheerleading competition, cheerleading squads will compete against each other by performing routines that include all aspects of cheer, like tumbling and stunts. The squad that gets the highest score from the judges wins the competition, and there are typically different divisions for squads to compete in based on skill level and age.",n
+115,35,div,,n
+117,115,h2,Bags,y
+119,115,p,"Cheerleading requires many different pieces of equipment so a good bag is essential, especially for travel teams. A key piece of cheerleading is a visual aesthetic so it's important to keep matching sets together in one bag for any performance. It's also important to get a bag with proper ventilation. The most popular style of cheer bag is the duffle because it can hold a variety of different pieces and often comes with some mesh material to make it easy to air it out after a practice or meet, but other teams choose to travel with simpler backpacks. A bag can sometimes be provided by a team so that every member matches but it isn't difficult to find individual bags on cheer supply sites for under $30.",n
+120,35,div,,n
+122,120,h2,Cheerleading Uniforms,y
+124,120,p,"Cheerleading uniforms are arguably the most important piece of equipment in the sport. There is certainly a variety of them, ranging from classic, long sleeved dresses used often by high school teams, two piece outfits for collegiate teams, and more unique cuts for independent cheer teams. Regardless of fit, a cheer uniform is always colorful and eye catching. Usually color coordinated with the team or school they represent, cheerleaders have to be able to grab fans' attention and lift their spirits during a game or event. Their uniforms have to be made of flexible, breathable material to allow for every trick or move the cheerleaders perform. Uniforms are also one of the most expensive pieces of equipment for cheerleaders; they can range from $70 to $100 on cheerleading websites.",n
+125,35,div,,n
+127,125,h2,First Aid Kits,y
+129,125,p,"First aid kits are essential for every sport, especially ones with as much physical activity as cheerleading. Performances and routines for cheerleaders often include airborne flips and other precarious moves so it is incredibly important to come to any game or competition prepared with first aid supplies. A stocked first aid kit should have bandages, ice packs, pain relievers, wraps, and heating packs. These supplies can be easily assembled at home but first aid kits are available for purchase pre-stocked for as low as $30.",n
+130,35,div,,n
+132,130,h2,Floor Mats,y
+134,130,p,"Floor mats are another key piece of cheerleading equipment when considering athlete safety. Having padding beneath cheerleaders as they practice is important to ensure that there is some cushioning on the gym floor if a trick should go wrong. While it isn't likely there will be gym mats during a game, practice is where the most accidents happen because of inexperience with certain moves. They also provide traction so that the athletes aren't slipping during routines. These mats can be made out of rubber or styrofoam and can be as simple as a yoga mat or stretch the length of the gym in connecting pieces. Because of this, it is hard to put an exact price point on floor mats for cheerleading but individual mats are sold for up to $130.",n
+137,35,div,,n
+139,137,h2,Hats and Caps,y
+141,137,p,"Hats and visors are common for cheerleaders when performing outside. Cheerleading routines require a lot of hand-eye coordination to be executed safely so it is incredibly important to be able to block the sun when practicing or playing outside. These kinds of visors or caps aren't a typical part of the traditional cheerleading uniform but should not be overlooked, especially during practice when the lights of a game day atmosphere aren't turned on. Quality hats will be made of a breathable material to ensure that athletes don't overheat and can be sold for as low as $5.",n
+142,35,div,,n
+144,142,h2,Landing Mats,y
+146,142,p,"Different from floor mats, landing mats are used for exactly what it sounds like: landing! Some cheerleading routines call for an athlete to stick the landing from an aerial trick directly onto the gym floor instead of into their teammates' arms. Landing mats are used to ensure their safety and comfort when they come back to the ground. These mats are thicker and longer than floor mats, made of a heavy foam and covered with vinyl material. They are sold in the $500 range so it is not uncommon for a school or team to provide landing mats for their athletes.",n
+147,35,div,,n
+149,147,h2,Medicine Balls,y
+151,147,p,"Medicine balls are a great practice tool for many kinds of athletes, cheerleaders included. Strength is a key trait of a cheerleader so weight training with equipment like medicine balls can be essential. This strength training will give them the power to perform individual stunts but also have the ability to support and catch their teammates during group routines. Sets of medicine balls come in a variety of weights from 2lbs to 11lbs. Quality pieces will be made of weighted metal and wrapped in a latex material to improve grip. Sets can sell for as much as $100 for professionals but can also be found at more affordable prices in more general retail stores.",n
+152,35,div,,n
+154,152,h2,Megaphones,y
+156,152,p,"Megaphones are important for cheerleading in a variety of ways. A coach may use one to direct his or her athletes to perform a certain routine or stunt during a practice which is a typical use of a megaphones but in cheerleading, players themselves can make use of them. During games or performances, it isn't uncommon to see the captain of the cheer team or another established member using a megaphone to get the attention of the crowd at a game. Their job is to engage fans during stoppages of play at most games and a smart way to do that is to have them hear you from the court or field. Megaphones for cheerleading are usually made of plastic and shaped like a simple cone, making them relatively inexpensive. Because of this, packs of up to 300 can go for around $200 online.",n
+159,35,div,,n
+161,159,h2,Poms,y
+163,159,p,"Pom poms are arguably the most typical piece of equipment for a cheer squad. Made of bright, lightweight materials that resemble bunched confetti, poms are a staple of cheerleading across the country. They are used to bring attention to the cheerleaders on the court or field and bring energy from the crowd. They will often come with plastic handles that make it easy for the cheerleaders to grip as they perform their routines. Sets of quality poms from official cheerleading companies can be sold for $20.",n
+164,35,div,,n
+166,164,h2,Practice and Warm-up Clothes,y
+168,164,p,"Like any sport, it is important to have practice gear in cheerleading. There's no need to use official uniforms just for practice purposes but many teams will have practice uniforms if they have the funds. These usually take the form of track suits that could be used before, after, and during practice. They are even commonly used before performances! They're usually made of warm but breathable fabrics like cotton so the athletes can practice in comfort. These warm up sets can be up to $60 and usually come in multiple pieces like a jacket and track pants.",n
+169,35,div,,n
+171,169,h2,Safety Pits,y
+173,169,p,"Safety pits in cheerleading are the extent of landing safety. Not actually shaped like a ""pit"" as the name would imply, this equipment is a large foam block that is used as the most effective cushion when falling from a cheer stunt that is sometimes set up within a lowered area to give athletes more room to fall. They are made of the same material as landing mats but with a larger volume so that athletes can land on their backs without injuring themselves. They are also relatively expensive at over $800 dollars so a safety pit cushion is usually something a school or team will provide for practice.",n
+174,35,div,,n
+176,174,h2,Shoes,y
+178,174,p,"Cheerleading shoes come in a great variety. The style and physical design of the different shoes will actually depend on what position you are in a cheerleading squad and what moves and stunts you are hoping to accomplish. Flyers and those who support them have different needs in their footwear depending on how steady or lightweight they need to be for their routine. It's also important to know whether you will be cheering indoors or outdoors because that can also affect your shoe decision making. With premium cheer brands like Champion and Nike, it is not uncommon to see these shoes be sold for anywhere between $50 to $100.",n
+179,35,div,,n
+181,179,h2,Socks,y
+183,179,p,"Different cheerleading teams will have different sock requirements. It's possible that knee high socks are part of your squad's uniform. It's also common to see specific colored ankle socks for cheerleaders. Regardless of sock height, it's important that they be absorbent and have cooling technologies so that athletes can be comfortable for an entire game or routine in any conditions. They are typically made of a cotton and polyester fabric blend for maximum breathability and can be sold as pairs or in packs for under $10 on cheer websites.",n
+184,35,div,,n
+186,184,h2,Sports Bras,y
+188,184,p,"Sports bras are incredibly important for any female athlete. A bra that isn't designed for athletic activity can be incredibly uncomfortable or even painful because of their wires and hooks. Female cheerleaders especially need stable comfort so they can perform stunts that involve twisting and flipping without having to be concerned about chest pain. There are many size inclusive brands gaining popularity in women's athletic clothes, Fabletics being a leader. They sell basic sports bras for $24 and have more custom styles and designs than most other brands in the industry. They can come specified for low impact or high impact activity, the latter of which is where most cheerleaders fall.",n
+189,35,div,,n
+191,189,h2,Training Shapes,y
+193,189,p,Shaped training mats are a unique aspect of cheerleading and gymnastics . They can be used to practice flips and tumbling across the gym floor. A popular shape in cheerleading is the octagon. These mats are padded like a landing pat would be but are designed to roll with an athlete so they can practice arching their body and fine tuning tumbling techniques. They're made of a similar foam and vinyl combination as other landing and floor mats and range in diameter. These training shapes can be sold in cheer stores for about $130.,n
+196,35,div,,n
+198,196,h2,Water Bottles,y
+200,196,p,There is no sport you can play without keeping hydrated. Reusable water bottles should be an essential piece of equipment for all teams and this includes cheerleading! Some teams will buy matching water bottles for all their squad members so that they are coordinated down to the smallest details. These plastic and metal bottles can be found on websites like Amazon for less than $10.,n
+201,35,div,,n
+203,201,h2,Wristbands,y
+205,201,p,Wristbands are a non-essential item for a cheerleader but could be a stylish accessory for any uniform! They are complementary to the colorful outfits that every team wears and can add another pop. Packs of multi colored wristbands on Amazon are available for as little as $5 but there is always the chance to make more custom bands on a variety of sites like Etsy so that your team's accessories can really stand out.,n
+206,35,div,,n
+208,206,h2,Cheerleading Equipment,n
+213,206,li,Uniforms,n
+244,35,div,,n
+246,244,h2,FAQ,n
+247,244,div,,n
+248,247,div,,n
+251,248,h3,What equipment do you need,n
+255,248,p,"Not that many pieces of equipment are necessary for cheerleading. Cheerleaders compete in cheerleading uniforms and cheerleading shoes, and that is all that is absolutely required. Some routines may also utilize pom poms and megaphones and many cheerleaders at sporting events use these pieces of equipment. A cheer mat is typically provided by the gym that the squad trains in and is always provided in a competition.",n
+256,247,div,,n
+259,256,h3,What makes cheerleading equipment unique?,n
+263,256,p,"Cheerleading equipment is very unique from other sports, mostly because it does not necessarily require any pieces of equipment outside of apparel. A protective padding for the floor is also very necessary to prevent injury and any competitive cheerleading squad will always train and compete on a cheerleading mat. But just like any other sport, cheerleading does require specialized equipment and apparel that you may need to purchase.",n
+264,247,div,,n
+267,264,h3,What is the most important cheerleading equipment to buy?,n
+271,264,p,"The most important pieces of cheerleading equipment for you to own are cheerleading shoes and a cheerleading uniform, since you will wear these every time you compete. A cheerleading bag can also be very useful to carry your possessions to practice and competitions, but it is not absolutely necessary. As stated earlier, a cheerleading mat is very important, but you will most likely not need to purchase one yourself.",n
+272,247,div,,n
+275,272,h3,How much does cheerleading equipment cost?,n
+279,272,p,"Like most other sports, cheerleading equipment typically gets more expensive as you get older and into more intense competition. Cheerleading shoes can cost you anywhere from $20 to $100 and you should make sure they fit you in the right way and will be supportive during your movements. Cheerleading uniforms vary in price based on quality, but your team may host a fundraiser so that you do not have to pay as much money!",n
+283,35,div,,n
+285,283,h2,Pages Related to Cheerleading Equipment List,n
+286,283,ul,,n
+290,286,li,Cheerleading Shoes,n
+292,286,li,cheerleading?,n
+294,286,li,Cheerleading Pom Poms,n
+296,286,li,What is Cheerleading?,n
+298,286,li,Cheerleading Megaphones,n
+302,35,footer,,n
+303,302,div,,n
+304,303,div,,n
+306,304,span,Company,n
+307,304,ul,,n
+309,307,li,About,n
+311,307,li,Careers,n
+313,307,li,Shop,n
+314,303,div,,n
+316,314,span,Contact,n
+319,314,li,Contact Us,n
+322,303,div,,n
+324,322,span,Legal,n
+325,322,ul,,n
+327,325,li,Terms,n
+329,325,li,Privacy,n
+330,303,nav,,n
+332,330,span,Social,n
+333,330,ul,,n
+335,333,li,Facebook,n
+337,333,li,Instagram,n
+339,333,li,LinkedIn,n
+341,333,li,Medium,n
+343,333,li,Pinterest,n
+345,333,li,Twitter,n
+347,333,li,YouTube,n
+348,302,div,,n
+350,348,span,Rookie Road may earn a commission when you buy through links on our site.,n
+352,348,span,Copyright ©Rookie Road Inc. All rights reserved.,n

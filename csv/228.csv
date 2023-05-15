@@ -1,0 +1,449 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+12,0,li,Cutting and Paper Craft Tools,n
+16,0,section,,n
+50,16,div,Back to top,n
+51,16,div,,n
+53,51,div,,n
+54,53,div,,n
+58,54,div,How To Get It,n
+106,54,div,,n
+108,106,button,Filter and Sort,n
+110,106,p,Filter,n
+116,53,div,,n
+118,116,span,Sort by,n
+121,116,span,Best Sellers,n
+124,116,span,Sort,n
+140,53,div,,n
+142,140,div,,n
+145,142,div,Filters,n
+149,142,div,,n
+151,149,h4,Filter by,n
+154,149,div,,n
+157,154,h2,Sort by,n
+162,154,ul,Sort by,n
+178,149,div,,n
+181,178,h2,Shop By Category,n
+186,178,div,Shop By Category,n
+222,149,div,,n
+225,222,h2,How To Get It,n
+230,222,div,How To Get It,n
+282,149,div,,n
+285,282,h2,Product Types,n
+286,282,form,,n
+290,286,div,Product Types,n
+292,286,ol,,n
+296,292,li,,n
+298,296,span,Cameras and Printers,y
+300,296,span,Refine by Product Types,n
+307,292,li,,n
+309,307,span,Craft Knives,y
+311,307,span,Refine by Product Types,n
+318,292,li,,n
+320,318,span,Cutting Mats,y
+322,318,span,Refine by Product Types,n
+329,292,li,,n
+331,329,span,Gift Bags and Boxes,y
+333,329,span,Refine by Product Types,n
+340,292,li,,n
+342,340,span,Laminating,y
+344,340,span,Refine by Product Types,n
+351,292,li,,n
+353,351,span,Laminating Tools,y
+355,351,span,Refine by Product Types,n
+362,292,li,,n
+364,362,span,Non-Stick Cutting Tools,y
+366,362,span,Refine by Product Types,n
+373,292,li,,n
+375,373,span,Paper Crafting Storage,y
+377,373,span,Refine by Product Types,n
+384,292,li,,n
+386,384,span,Paper Crafting Tools,y
+388,384,span,Refine by Product Types,n
+395,292,li,,n
+397,395,span,Paper Packs,y
+399,395,span,Refine by Product Types,n
+410,292,li,Refine by Product Types,n
+417,292,li,,n
+419,417,span,Rotary Cutters,y
+421,417,span,Refine by Product Types,n
+428,292,li,,n
+430,428,span,Rulers,y
+432,428,span,Refine by Product Types,n
+439,292,li,,n
+441,439,span,Scissors,y
+443,439,span,Refine by Product Types,n
+450,292,li,,n
+452,450,span,Specialty Tools,y
+454,450,span,Refine by Product Types,n
+461,292,li,,n
+463,461,span,Stamping,y
+465,461,span,Refine by Product Types,n
+472,292,li,,n
+474,472,span,Stencils,y
+476,472,span,Refine by Product Types,n
+483,292,li,,n
+485,483,span,Tools,n
+487,483,span,Refine by Product Types,n
+494,292,li,,n
+496,494,span,Trimmers,y
+498,494,span,Refine by Product Types,n
+505,292,li,,n
+507,505,span,Upholstery Stapler and Staples,y
+509,505,span,Refine by Product Types,n
+518,149,div,,n
+521,518,h2,Brand,n
+522,518,form,,n
+526,522,div,Brand,n
+528,522,ol,,n
+532,528,li,,n
+534,532,span,American Crafts,n
+536,532,span,Refine by Brand,n
+543,528,li,,n
+545,543,span,Art Alternatives,n
+547,543,span,Refine by Brand,n
+554,528,li,,n
+556,554,span,Cutterpillar,n
+558,554,span,Refine by Brand,n
+565,528,li,,n
+567,565,span,EK Success,n
+569,565,span,Refine by Brand,n
+576,528,li,,n
+578,576,span,Excel,n
+580,576,span,Refine by Brand,n
+587,528,li,,n
+589,587,span,Fiskars,n
+591,587,span,Refine by Brand,n
+598,528,li,,n
+600,598,span,Flexcut,n
+602,598,span,Refine by Brand,n
+609,528,li,,n
+611,609,span,Grafix,n
+613,609,span,Refine by Brand,n
+620,528,li,,n
+622,620,span,Heidi Swapp,n
+624,620,span,Refine by Brand,n
+631,528,li,,n
+633,631,span,Lineco or University Products,n
+635,631,span,Refine by Brand,n
+642,528,li,,n
+644,642,span,Maggie Holmes,n
+646,642,span,Refine by Brand,n
+653,528,li,,n
+655,653,span,Park Lane,n
+657,653,span,Refine by Brand,n
+664,528,li,,n
+666,664,span,Scotch,n
+668,664,span,Refine by Brand,n
+675,528,li,,n
+677,675,span,Sizzix,n
+679,675,span,Refine by Brand,n
+686,528,li,,n
+688,686,span,Speedball,n
+690,686,span,Refine by Brand,n
+697,528,li,,n
+699,697,span,Spellbinders,n
+701,697,span,Refine by Brand,n
+708,528,li,,n
+710,708,span,The Happy Planner,n
+712,708,span,Refine by Brand,n
+719,528,li,,n
+721,719,span,Tim Holtz,n
+723,719,span,Refine by Brand,n
+730,528,li,,n
+732,730,span,Tonic Studios,n
+734,730,span,Refine by Brand,n
+741,528,li,,n
+743,741,span,We R Memory Keepers,n
+745,741,span,Refine by Brand,n
+752,528,li,,n
+754,752,span,Zutter,n
+756,752,span,Refine by Brand,n
+765,149,div,,n
+768,765,h2,Collections,n
+769,765,form,,n
+773,769,div,Collections,n
+775,769,ol,,n
+779,775,li,,n
+781,779,span,Corner,n
+783,779,span,Refine by Collections,n
+790,775,li,,n
+792,790,span,Edger,n
+794,790,span,Refine by Collections,n
+801,775,li,,n
+803,801,span,Large Punch,n
+805,801,span,Refine by Collections,n
+812,775,li,,n
+814,812,span,Mediums,n
+816,812,span,Refine by Collections,n
+823,775,li,,n
+825,823,span,Papercrafting,n
+827,823,span,Refine by Collections,n
+834,775,li,,n
+836,834,span,Park Lane Value,n
+838,834,span,Refine by Collections,n
+845,775,li,,n
+847,845,span,Tim Holtz Idea-Ology,n
+849,845,span,Refine by Collections,n
+858,149,div,,n
+861,858,h2,Color,n
+862,858,form,,n
+866,862,div,Color,n
+868,862,ol,,n
+872,868,li,,n
+873,872,span,,n
+875,873,span,Refine by Color,n
+878,873,div,Blacks,n
+881,872,text,Blacks,n
+886,868,li,,n
+887,886,span,,n
+889,887,span,Refine by Color,n
+892,887,div,Blues,n
+895,886,text,Blues,n
+900,868,li,,n
+901,900,span,,n
+903,901,span,Refine by Color,n
+906,901,div,Golds,n
+909,900,text,Golds,n
+914,868,li,,n
+915,914,span,,n
+917,915,span,Refine by Color,n
+920,915,div,Grays,n
+923,914,text,Grays,n
+928,868,li,,n
+929,928,span,,n
+931,929,span,Refine by Color,n
+934,929,div,Multi,n
+937,928,text,Multi,n
+942,868,li,,n
+943,942,span,,n
+945,943,span,Refine by Color,n
+948,943,div,Oranges,n
+951,942,text,Oranges,n
+956,868,li,,n
+957,956,span,,n
+959,957,span,Refine by Color,n
+962,957,div,Pinks,n
+965,956,text,Pinks,n
+970,868,li,,n
+971,970,span,,n
+973,971,span,Refine by Color,n
+976,971,div,Reds,n
+979,970,text,Reds,n
+984,868,li,,n
+985,984,span,,n
+987,985,span,Refine by Color,n
+990,985,div,Silvers,n
+993,984,text,Silvers,n
+998,868,li,,n
+999,998,span,,n
+1001,999,span,Refine by Color,n
+1004,999,div,Whites,n
+1007,998,text,Whites,n
+1012,868,li,,n
+1013,1012,span,,n
+1015,1013,span,Refine by Color,n
+1018,1013,div,Yellows,n
+1021,1012,text,Yellows,n
+1028,149,div,,n
+1031,1028,h2,Price,n
+1032,1028,form,,n
+1036,1032,div,Price,n
+1038,1032,ol,,n
+1042,1038,li,,n
+1044,1042,span,Under $5,n
+1046,1042,span,Refine by Price,n
+1053,1038,li,,n
+1055,1053,span,$5 - $10,n
+1057,1053,span,Refine by Price,n
+1064,1038,li,,n
+1066,1064,span,$10 - $25,n
+1068,1064,span,Refine by Price,n
+1075,1038,li,,n
+1077,1075,span,$25 - $50,n
+1079,1075,span,Refine by Price,n
+1086,1038,li,,n
+1088,1086,span,$50 - $100,n
+1090,1086,span,Refine by Price,n
+1097,1038,li,,n
+1099,1097,span,$100 - $200,n
+1101,1097,span,Refine by Price,n
+1108,1038,li,,n
+1110,1108,span,$200 - $300,n
+1112,1108,span,Refine by Price,n
+1119,1038,li,,n
+1121,1119,span,Over $300,n
+1123,1119,span,Refine by Price,n
+1132,149,div,,n
+1135,1132,h2,Customer Ratings,n
+1136,1132,form,,n
+1140,1136,div,Customer Ratings,n
+1160,1136,div,and up,n
+1166,149,div,,n
+1169,1166,h2,More Ways To Shop,n
+1170,1166,form,,n
+1174,1170,div,More Ways To Shop,n
+1176,1170,ol,,n
+1180,1176,li,,n
+1182,1180,span,Only at JOANN,n
+1184,1180,span,Refine by Only at JOANN,n
+1191,1176,li,,n
+1193,1191,span,JOANN+ Bulk Pricing,n
+1195,1191,span,Refine by JOANN+ Bulk Pricing,n
+1202,1176,li,,n
+1204,1202,span,On Sale,n
+1206,1202,span,Refine by On Sale,n
+1213,1176,li,,n
+1215,1213,span,Clearance,n
+1217,1213,span,Refine by Clearance,n
+1226,142,div,,n
+1228,1226,button,Done,n
+1230,1226,button,Clear,n
+1231,140,div,,n
+1241,1231,div,,n
+1243,1241,p,The Happy Planner Classic Paper Punch,n
+1245,1241,div,,n
+1248,1245,span,$24.59,n
+1251,1245,span,$40.99,n
+1303,1231,div,,n
+1305,1303,p,"Fiskars 12"" Paper Trimmer",y
+1307,1303,div,,n
+1310,1307,span,$19.49,n
+1313,1307,span,$25.99,n
+1318,1307,p,You save $6.50!,n
+1358,1231,div,,n
+1365,1358,div,,n
+1367,1365,p,Tim Holtz Layered Stencils Many Designs,n
+1369,1365,div,,n
+1372,1369,span,$4.89,n
+1375,1369,span,$6.99,n
+1380,1369,p,You save $2.10!,n
+1382,1358,div,,n
+1384,1382,span,+,n
+1385,1382,text,...,n
+1417,1231,div,,n
+1419,1417,p,Fiskars Softgrip Ergonomic Craft Knife,y
+1421,1417,div,,n
+1424,1421,span,$4.87,n
+1427,1421,span,$6.49,n
+1432,1421,p,You save $1.62!,n
+1472,1231,div,,n
+1480,1472,div,Free Shipping,n
+1483,1472,div,,n
+1485,1483,p,We R Memory Keepers Cinch Book Binding Tool,n
+1487,1483,div,,n
+1490,1487,span,$107.23,n
+1493,1487,span,$142.99,n
+1538,1231,div,,n
+1540,1538,p,The Happy Planner Big Punch,y
+1548,1538,div,$54.99,n
+1600,1231,div,,n
+1602,1600,p,The Happy Planner Weekly Punch Classic,y
+1607,1600,div,$16.79,n
+1662,1231,div,,n
+1664,1662,p,Fiskars Personal Paper Trimmer Replacement Blades,y
+1666,1662,div,,n
+1669,1666,span,$6.74,n
+1672,1666,span,$8.99,n
+1677,1666,p,You save $2.25!,n
+1724,1231,div,,n
+1726,1724,p,Fiskars SureCut Paper Trimmer,y
+1728,1724,div,,n
+1731,1728,span,$14.99,n
+1734,1728,span,$19.99,n
+1739,1728,p,You save $5.00!,n
+1788,1231,p,We R Memory Keepers Trim and Score Board,n
+1848,1231,div,,n
+1850,1848,p,Fiskars Triple Track Titanium Replacement Blades Straight,y
+1852,1848,div,,n
+1858,1852,span,$9.99,n
+1863,1852,p,You save $2.50!,n
+1912,1231,p,We R Memory Keepers Score Board,y
+1973,1231,div,,n
+1975,1973,p,Fiskars 12 Premium Portable Paper Trimmer,y
+1977,1973,div,,n
+1980,1977,span,$29.99,n
+1983,1977,span,$39.99,n
+2037,1231,p,Fiskars 2pk Straight Rotary Blades 28 mm,y
+2097,1231,div,,n
+2099,2097,p,"Envelope Punch Board 6.75""X10.5""",y
+2101,2097,div,,n
+2104,2101,span,$16.49,n
+2112,2101,p,You save $5.50!,n
+2159,1231,div,,n
+2161,2159,p,We R Memory Keepers Crop A Dile Eyelet and Snap Punch,y
+2163,2159,div,,n
+2166,2163,span,$27.74,n
+2169,2163,span,$36.99,n
+2174,2163,p,You save $9.25!,n
+2223,1231,p,"Fiskars Hand Punches 1PK 1 or 8"" Circle",y
+2283,1231,div,,n
+2285,2283,p,We R Memory Keepers Mini Guillotine Paper Cutter,y
+2287,2283,div,,n
+2290,2287,span,$24.74,n
+2298,2287,p,You save $8.25!,n
+2345,1231,div,,n
+2347,2345,p,We R Memory Keepers Large Guillotine Cutter,y
+2349,2345,div,,n
+2352,2349,span,$49.49,n
+2355,2349,span,$65.99,n
+2407,1231,div,,n
+2409,2407,p,Tim Holtz Idea Ology Tiny Attacher Refills Silver,y
+2411,2407,div,,n
+2414,2411,span,$2.09,n
+2417,2411,span,$2.99,n
+2422,2411,p,You save $0.90!,n
+2469,1231,div,,n
+2471,2469,p,"Corru Gator Paper Crimper 8.5"" Straight",y
+2473,2469,div,,n
+2476,2473,span,$15.74,n
+2484,2473,p,You save $5.25!,n
+2523,1231,div,,n
+2525,2523,p,Olfa Multi Purpose Craft Knife 9mm,y
+2527,2523,div,,n
+2533,2527,span,$7.99,n
+2538,2527,p,You save $2.00!,n
+2577,1231,div,,n
+2579,2577,p,We R Memory Keepers Square Punch Board,y
+2581,2577,div,,n
+2584,2581,span,$33.74,n
+2587,2581,span,$44.99,n
+2633,1231,p,We R Memory Keepers Crop A Dile Corner Chomper Tool,y
+2693,1231,div,,n
+2695,2693,p,American Crafts Paper Punch Mickey Icons,y
+2697,2693,div,,n
+2700,2697,span,$13.19,n
+2708,2697,p,You save $8.80!,n
+2755,1231,div,,n
+2757,2755,p,EK Tools Large Edge Punch Monarch Butterfly,y
+2759,2755,div,,n
+2762,2759,span,$17.24,n
+2765,2759,span,$22.99,n
+2770,2759,p,You save $5.75!,n
+2809,1231,div,,n
+2811,2809,p,"Cinch Wires 1"" 4 Pkg",y
+2823,2809,div,-,n
+2868,1231,p,Fiskars Fingertip Precision or Detail Knife #11 Blade,y
+2921,1231,div,,n
+2928,2921,div,,n
+2930,2928,p,We R Memory Keepers Premium Paper Trimmer Refill Blade,n
+2932,2928,div,,n
+2935,2932,span,$8.24,n
+2938,2932,span,$10.99,n
+2943,2932,p,You save $2.75!,n
+2962,2921,div,,n
+2964,2962,span,In stock,n
+2965,2962,text,"at Seattle, WA",n
+2983,1231,div,,n
+2985,2983,p,We R Memory Keepers Cinch Gold Binding Wire 4 Pack,y
+2987,2983,div,,n
+2990,2987,span,$4.12,n
+2993,2987,span,$5.49,n
+2998,2987,p,You save $1.37!,n
+3037,1231,div,,n
+3041,3037,p,489 results.,n
+3044,3037,div,View More,n
+3053,51,p,you can do it,n
+4278,51,div,,n
+4280,4278,div,Cutting and Paper Craft Tools,n
+4282,4278,h4,Cutting and Paper Craft Tools,n

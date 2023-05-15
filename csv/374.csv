@@ -1,0 +1,318 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+34,0,div,,n
+157,34,div,,n
+159,157,div,,n
+163,159,h1,Best Drawing Supplies List,n
+164,159,div,,n
+165,164,p,,n
+166,165,text,"To become a good pencil artist, you’ll need to develop the right skills while using the proper art materials. Your art tools should",n
+168,165,strong,work well together,n
+169,165,text,while giving you,n
+171,165,strong,consistent results,n
+172,165,text,", especially as a beginner.",n
+174,164,p,"If you have good technique but you’re working with the wrong set of tools, the results can be quite discouraging! You’re also missing out on progress you could have gained.",n
+176,164,p,Find a reliable set or combination of tools so you can finally focus on developing your technique instead of compensating for problems related to your toolbox.,n
+179,164,div,,n
+181,179,h3,My Latest Videos,n
+185,179,div,,n
+221,185,div,More Videos,n
+225,185,div,,n
+227,225,span,30 seconds,n
+229,225,span,Volume 0%,n
+230,185,div,,n
+233,230,span,keyboard shortcuts,n
+234,230,div,,n
+235,234,div,,n
+237,235,span,Keyboard Shortcuts,n
+238,235,button,,n
+241,238,span,Enabled,n
+243,238,span,Disabled,n
+245,234,div,,n
+246,245,div,,n
+248,246,span,Play or Pause,n
+250,246,span,SPACE,n
+251,245,div,,n
+253,251,span,Increase Volume,n
+255,251,span,↑,n
+256,245,div,,n
+258,256,span,Decrease Volume,n
+260,256,span,↓,n
+261,245,div,,n
+263,261,span,Seek Forward,n
+265,261,span,→,n
+266,245,div,,n
+268,266,span,Seek Backward,n
+270,266,span,←,n
+271,245,div,,n
+273,271,span,Captions On or Off,n
+275,271,span,c,n
+276,245,div,,n
+278,276,span,Fullscreen or Exit Fullscreen,n
+280,276,span,f,n
+281,245,div,,n
+283,281,span,Mute or Unmute,n
+285,281,span,m,n
+288,245,div,Seek %,n
+291,185,div,,n
+305,291,div,,n
+307,305,div,Next Up,n
+309,305,div,2 How to Draw Realistic Eyes Tutorial RapidFireArt Short.mp4,n
+322,291,div,,n
+323,322,button,,n
+324,323,text,Auto,n
+326,323,span,270p,n
+328,322,button,1080p,n
+330,322,button,720p,n
+332,322,button,540p,n
+334,322,button,360p,n
+336,322,button,270p,n
+338,322,button,180p,n
+352,291,div,,n
+382,352,div,Live,n
+384,352,div,00:00,n
+408,164,h2,Using the Right Tools,n
+411,164,p,Sketching,n
+413,164,p,"As a beginner, it’s important to practice seeing first. I think shading is something that should be learned much later on.",n
+414,164,p,,n
+415,414,text,A great way to practice seeing and developing hand-eye coordination is to,n
+417,414,strong,sketch,n
+418,414,text,.,n
+421,164,p,Sketching allows you to strengthen your muscle memory for movements that are actually quite different from writing – where movements are very small and employ a different combination of muscle groups.,n
+423,164,p,"If you’re in this stage, pick up some quality sketch paper and an HB pencil. It’s as simple as that! This shouldn’t cost much more than $15. My recommendations are at the bottom of this page.",n
+427,164,p,Drawing and Shading,n
+428,164,p,,n
+429,428,text,If you’re ready,n
+431,428,text,"if it’s a really thin and smooth one). Sketch paper is usually very thin – made for preliminary work. While you can shade on it, it may not be able to stand up to hours of shading, experimentation and erasing.",n
+435,164,p,"Pick up a quality ‘drawing’ paper that is thick, sturdy and well textured . My recommendations will be down below.",n
+437,164,p,"As for pencils, you’ll need a set that can give you a good range of values if you want to produce realistic portraits.",n
+438,164,p,,n
+439,438,text,Using a single HB pencil is,n
+441,438,strong,not,n
+442,438,text,"going to give you that realistic effect. You can use an HB to shade light to medium greys. Go any darker and you’ll see just how inefficient it gets. Also, the harder your lead is, the more difficult it will be to blend .",n
+444,164,p,"Opt for a variety of pencils from HB-6B . If you want to learn more about pencils, visit this in-depth shading tutorial or guide .",n
+452,164,p,Things to remember,n
+453,164,ul,,n
+455,453,li,Hard pencils are better for sketching because they don’t smudge as easily as soft ones. Shading dark areas of a portrait can damage the paper or even puncture it.,n
+457,453,li,"Soft pencils are like butter. They are great for shading, but very difficult to use for light sketching.",n
+461,164,h2,My Recommended Drawing Supplies,n
+463,164,p,tools that I find reliable and work very well,n
+465,164,p,"The links below this are Amazon affiliate links. If you buy your art supplies through these links, I will make a small commission . These commissions help fund RapidFireArt so I can continue to do what I love and share my knowledge with you :)",n
+469,164,h3,Pencils,y
+470,164,p,,n
+473,470,strong,For sketching,n
+474,470,text,Derwent HB pencil,n
+478,164,p,For drawing,n
+480,164,p,Derwent HB-6B pencils .,n
+483,164,p,"Derwent H-9B, 12 pencil tin pack .",n
+488,164,h3,Paper,y
+490,164,p,"A good pencil on bad paper can be a disaster. If you want to draw on copy paper or printer paper, make sure the surface is completely matte. Sketching on regular recycled paper is fine, but you may not be able to erase the graphite completely if the paper has too many deep nooks and crevices.",n
+492,164,p,Remember to look,n
+493,164,p,,n
+496,493,strong,Sketching Paper,y
+497,493,text,"Canson Artist Series Universal Sketch Pad . This is a really cheap sketchbook with quality sheets that are pretty thick. If you want to buy a different one from your local art store, look for one that is acid free and around 60lb.",n
+499,164,p,,n
+502,499,strong,Drawing Paper,y
+503,499,text,Strathmore Drawing . Such a fun texture to work on! Picks up graphite really well. I use it for most of my youtube speed drawings.,n
+508,164,h3,Erasers,y
+510,164,p,"I use both hard and soft erasers. Hard is for erasing really dark lines or big spaces. Soft is for erasing tiny details, making certain areas of your drawing lighter by lifting graphite away in layers and defining highlights. Click here if you want to learn more about kneaded erasers.",n
+513,164,p,,n
+515,513,strong,Hard,n
+516,513,text,Tombow Mono,n
+518,164,p,,n
+520,518,strong,Soft,n
+521,518,text,Prismacolor Kneaded Eraser . This is my favorite eraser of all time! It’s my best friend.. no joke!,n
+526,164,h3,Smudging Tools,y
+528,164,p,"As a beginner, I’d stick to tissue paper. Blending stumps are a little more advanced and can work against you if you’re not used to it.",n
+532,164,h3,Pencil Sharpener,y
+535,164,p,"Eisen Aluminium Pencil Sharpener . The best manual sharpener I’ve ever used! It has never snapped my lead, ever. Plus, the blade is really sharp, giving me a smooth sharpening experience every time.",n
+541,164,h3,Transparent Ruler,y
+543,164,p,"When you’re making preliminary guidelines for your artwork, you’ll want to use a transparent ruler. An opaque one will block your full view of the drawing which may lead to uneven lines that you will need to erase and re-draw.",n
+545,164,p,"Also, make sure the inked numbers cannot not rub off, as this can ruin your drawing.",n
+549,164,div,,n
+552,549,div,My Amazon Picks,n
+560,549,div,,n
+562,560,div,,n
+568,562,div,"Derwent Drawing Pencils School Supplies, 12 Cou…",n
+570,562,div,,n
+572,570,span,$19.76,n
+574,570,span,$24.99,n
+612,560,div,,n
+618,612,div,"CansonUniversal Sketch Pad, Side Wire Bo…",n
+622,612,div,$13.82,n
+661,560,div,,n
+667,661,div,"SANFORD LP 70531 Design Kneaded Eraser, Multicolor",n
+671,661,div,$4.68,n
+716,560,div,"C-color Aluminum Pencil Sharpener 2 Pcs,blades 4 Pcs,with Plastic Cover",n
+761,549,div,,n
+765,761,div,Video On Demand,n
+767,761,div,Clothing and Accessories,n
+769,761,div,Major Appliances,n
+771,761,div,"Arts, Crafts and Sewing",n
+773,761,div,Automotive,n
+775,761,div,Baby and Nursery,n
+777,761,div,Beauty and Grooming,n
+779,761,div,Books and Textbooks,n
+781,761,div,Collectible Coins,n
+783,761,div,Camera and Photo,n
+785,761,div,Cell Phones and Accessories,n
+787,761,div,Classical Music,n
+789,761,div,"Computers, Tablets and Components",n
+791,761,div,Blu-Ray and DVD,n
+793,761,div,Electronic Components and Home Audio,n
+795,761,div,Entertainment Collectibles,n
+799,761,div,Other Gift Card Brands,n
+801,761,div,Grocery and Gourmet Food,n
+805,761,div,Health and Household,n
+807,761,div,Business and Industrial Supplies,n
+809,761,div,Jewelry,n
+811,761,div,Kindle Store,n
+813,761,div,Kitchen and Dining,n
+815,761,div,Magazines,n
+817,761,div,Miscellaneous,n
+819,761,div,Digital Music,n
+821,761,div,CDs and Vinyl,n
+823,761,div,Musical Instruments,n
+825,761,div,Office and School Supplies,n
+827,761,div,Pet Food and Supplies,n
+831,761,div,"Shoes, Handbags, Wallets, Sunglasses",n
+833,761,div,Software,n
+835,761,div,Sports Collectibles,n
+837,761,div,Sports and Fitness,n
+839,761,div,Home Improvement,n
+841,761,div,Toys and Games,n
+843,761,div,VHS,n
+847,761,div,Watches,n
+927,157,div,,n
+928,927,div,,n
+932,928,h4,Disclaimer,n
+935,928,p,"This post contains affiliate links, meaning, I recommend products and services I've used or know well and may receive a commission if you purchase them too .",n
+940,927,div,,n
+948,940,h3,Lesson 1,n
+957,940,h3,Lesson 2,n
+966,940,h3,Lesson 3,n
+975,940,h3,Lesson 4,n
+984,940,h3,Lesson 5,n
+993,940,h3,Lesson 6,n
+1002,940,h3,Lesson 7,n
+1011,940,h3,Lesson 8,n
+1020,940,h3,Lesson 9,n
+1029,940,h3,Lesson 10,n
+1034,34,div,,n
+1037,1034,ul,,n
+1041,1037,li,Free Beginner’s Course,n
+1043,1037,li,Free Drawing Tutorials,n
+1047,1037,li,Resources,n
+1049,1037,li,Galleries,n
+1051,1037,li,Service,n
+1053,1037,li,Privacy Policy,n
+1054,1037,li,,n
+1065,1054,select,English,n
+1079,1054,div,,n
+1081,1079,div,,n
+1085,1081,option,Afrikaans,n
+1087,1081,option,Albanian,n
+1089,1081,option,Amharic,n
+1093,1081,option,Armenian,n
+1095,1081,option,Azerbaijani,n
+1097,1081,option,Basque,n
+1099,1081,option,Belarusian,n
+1101,1081,option,Bengali,n
+1103,1081,option,Bosnian,n
+1105,1081,option,Bulgarian,n
+1107,1081,option,Catalan,n
+1109,1081,option,Cebuano,n
+1111,1081,option,Chichewa,n
+1115,1081,option,Chinese,n
+1117,1081,option,Corsican,n
+1119,1081,option,Croatian,n
+1121,1081,option,Czech,n
+1123,1081,option,Danish,n
+1127,1081,option,Esperanto,n
+1129,1081,option,Estonian,n
+1131,1081,option,Filipino,n
+1133,1081,option,Finnish,n
+1137,1081,option,Frisian,n
+1139,1081,option,Galician,n
+1141,1081,option,Georgian,n
+1145,1081,option,Greek,n
+1147,1081,option,Gujarati,n
+1149,1081,option,Haitian Creole,n
+1151,1081,option,Hausa,n
+1153,1081,option,Hawaiian,n
+1155,1081,option,Hebrew,n
+1157,1081,option,Hindi,n
+1159,1081,option,Hmong,n
+1161,1081,option,Hungarian,n
+1163,1081,option,Icelandic,n
+1165,1081,option,Igbo,n
+1167,1081,option,Indonesian,n
+1169,1081,option,Irish,n
+1173,1081,option,Japanese,n
+1175,1081,option,Javanese,n
+1177,1081,option,Kannada,n
+1179,1081,option,Kazakh,n
+1181,1081,option,Khmer,n
+1183,1081,option,Kinyarwanda,n
+1185,1081,option,Korean,n
+1187,1081,option,Kurdish,n
+1189,1081,option,Kyrgyz,n
+1191,1081,option,Lao,n
+1193,1081,option,Latin,n
+1195,1081,option,Latvian,n
+1197,1081,option,Lithuanian,n
+1199,1081,option,Luxembourgish,n
+1201,1081,option,Macedonian,n
+1203,1081,option,Malagasy,n
+1205,1081,option,Malay,n
+1207,1081,option,Malayalam,n
+1209,1081,option,Maltese,n
+1211,1081,option,Maori,n
+1213,1081,option,Marathi,n
+1215,1081,option,Mongolian,n
+1217,1081,option,Myanmar,n
+1219,1081,option,Nepali,n
+1221,1081,option,Norwegian,n
+1223,1081,option,Odia,n
+1225,1081,option,Pashto,n
+1227,1081,option,Persian,n
+1229,1081,option,Polish,n
+1233,1081,option,Punjabi,n
+1235,1081,option,Romanian,n
+1239,1081,option,Samoan,n
+1241,1081,option,Scots Gaelic,n
+1243,1081,option,Serbian,n
+1245,1081,option,Sesotho,n
+1247,1081,option,Shona,n
+1249,1081,option,Sindhi,n
+1251,1081,option,Sinhala,n
+1253,1081,option,Slovak,n
+1255,1081,option,Slovenian,n
+1257,1081,option,Somali,n
+1261,1081,option,Sundanese,n
+1263,1081,option,Swahili,n
+1265,1081,option,Swedish,n
+1267,1081,option,Tajik,n
+1269,1081,option,Tamil,n
+1271,1081,option,Tatar,n
+1273,1081,option,Telugu,n
+1275,1081,option,Thai,n
+1277,1081,option,Turkish,n
+1279,1081,option,Turkmen,n
+1281,1081,option,Ukrainian,n
+1283,1081,option,Urdu,n
+1285,1081,option,Uyghur,n
+1287,1081,option,Uzbek,n
+1289,1081,option,Vietnamese,n
+1291,1081,option,Welsh,n
+1293,1081,option,Xhosa,n
+1295,1081,option,Yiddish,n
+1297,1081,option,Yoruba,n
+1299,1081,option,Zulu,n
+1300,1079,text,Powered by,n
+1302,1079,span,Translate,n
+1304,1034,div,© Newspaper WordPress Theme by TagDiv,n
+1305,0,div,,n
+1311,1305,h1,Original text,n
+1317,1305,div,Contribute a better translation,n
+1331,0,div,An Elite CafeMedia Home or DIY Publisher,n

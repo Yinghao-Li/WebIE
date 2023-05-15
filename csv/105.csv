@@ -1,0 +1,109 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+12,0,div,,n
+40,12,div,,n
+55,40,div,,n
+61,55,h1,GAUGEMASTER TOOLS - Modelling Tools,n
+64,55,p,"This range of tools has been carefully selected by our team of modellers here, to cover most modelling scenarios from layout construction to locomotive maintenance as well as everything else inbetween.",n
+121,55,div,,n
+125,121,li,,n
+126,125,div,,n
+128,126,p,BPGM619,n
+135,126,h2,Precision Lubricator withNeedle Applicator Retailer Pack,n
+140,125,div,£65.00,n
+152,121,li,,n
+154,152,p,GM01,n
+161,152,h2,Low Melt Solder 70 Degrees,y
+178,121,li,,n
+180,178,p,GM02,n
+187,178,h2,Solder Strips 180 Degrees,y
+204,121,li,,n
+206,204,p,GM03,n
+213,204,h2,White Metal Flux,y
+230,121,li,,n
+232,230,p,GM04,n
+239,230,h2,Brass Flux,y
+256,121,li,,n
+258,256,p,GM05,n
+265,256,h2,Non Acid Safety Flux,y
+281,121,li,,n
+282,281,div,,n
+284,282,p,GM06,n
+291,282,h2,Solder Wire 145 Degrees,y
+296,281,div,£5.75,n
+307,121,li,,n
+308,307,div,,n
+310,308,p,GM26,n
+317,308,h2,Small Track Rubber 50x25x20mm,y
+322,307,div,£4.15,n
+333,121,li,,n
+334,333,div,,n
+336,334,p,GM27,n
+343,334,h2,Large Track Rubber 77x50x20mm,y
+348,333,div,£6.50,n
+359,121,li,,n
+360,359,div,,n
+362,360,p,GM570,n
+367,360,h2,Starter Airbrush Kit,y
+372,359,div,£19.95,n
+438,40,div,,n
+439,438,div,,n
+443,439,div,Shop By,n
+444,439,div,,n
+446,444,p,Filter,n
+447,444,dl,,n
+449,447,dt,Product Type,n
+451,447,dd,,n
+453,451,li,Electrics,n
+458,451,li,Literature,n
+463,451,li,Modelling Materials,n
+468,447,dt,Manufacturer,n
+472,447,li,Gaugemaster,n
+477,447,dt,Scale or Gauge,n
+479,447,dd,,n
+481,479,li,Slot Cars,n
+486,479,li,Multi Scale,n
+491,447,dt,Stock Filter,n
+493,447,dd,,n
+495,493,li,In Stock,n
+499,493,li,Stock,n
+507,438,div,Search Brands,n
+515,12,div,,n
+516,515,div,,n
+519,516,label,Company,n
+520,516,ul,,n
+526,520,li,Company History,n
+528,520,li,Our Team,n
+532,520,li,Terms and Conditions,n
+534,520,li,Returns Policy,n
+536,520,li,Privacy Policy,n
+538,520,li,WEEE Regulations,n
+541,515,div,,n
+544,541,label,Download,n
+545,541,ul,,n
+547,545,li,Product Catalogues,n
+549,545,li,Product New Items Leaflets,n
+551,545,li,Product Instructions,n
+553,545,li,Price Lists,n
+555,545,li,RIGHT LINES Articles,n
+557,545,li,News,n
+558,515,div,,n
+561,558,label,Live,n
+562,558,ul,,n
+566,562,li,What's on,n
+568,562,li,Club Hub,n
+569,515,div,,n
+572,569,label,Connect With Us,n
+573,569,ul,,n
+575,573,li,Facebook,n
+577,573,li,Twitter,n
+579,573,li,Instagram,n
+582,573,li,Call Us,n
+584,515,div,,n
+585,584,text,Gaugemaster Controls Ltd.,n
+587,584,br,"Registered in England No. 2714470, Registered office",n
+589,584,br,"Gaugemaster House, Ford Road",n
+591,584,br,"Arundel, West Sussex, BN18 0BN, United Kingdom",n
+593,584,br,VAT Reg. No. 587 8089 71,n
+595,584,br,©Gaugemaster Controls Ltd. All Rights Reserved.,n
+600,12,div,Website partner Web's The Word,n

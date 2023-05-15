@@ -1,0 +1,87 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+317,0,div,,n
+338,317,div,,n
+340,338,div,,n
+342,340,h1,Top 10 Must-Have Gardening Tools,n
+344,340,span,Print this article,n
+346,340,text,Share,n
+349,340,div,,n
+350,349,ul,,n
+353,350,li,Share on Facebook,n
+356,350,li,Share on Twitter,n
+359,350,li,Share by email,n
+362,349,h3,Share by email,n
+367,340,p,"When you’re new to gardening, it's hard to know how to get started. Even the most experienced gardeners need to have the right tools. Our list of essential gardening tools will set you on the right path to a beautiful garden.",n
+369,338,article,,n
+370,369,text,"In no particular order, our top 10 essential gardening tools are as follows…",n
+375,369,br,"A hand trowel is a small tool that is essential for planting, transplanting and potting. Look for one with a sturdy connection between blade and handle, and a comfortable grip on the handle to avoid hand fatigue and give you optimal control.",n
+374,369,h2,Hand Trowel,y
+381,369,br,"Also known as a pruning shears, pruners or clippers, a garden secateurs is a very useful hand tool around the garden. You will need it for trimming and shaping plants and shrubs and for removing dead growth. A high quality secateurs will last a very long time, stay sharper for longer, be able to take thicker branches, and be more comfortable to use, so it is worth investing in a good one.",n
+380,369,h2,Secateurs,y
+386,369,br,"A garden hoe is essential for cultivating your soil, edging your lawn, and countless other gardening tasks. This versatile garden tool comes in several varieties but a regular Dutch or Draw hoe will meet most gardeners’ needs. You will find it highly useful when preparing beds for planting and weeding.",n
+385,369,h2,Hoe,y
+391,369,br,"Thorns and splinters are as annoying and uncomfortable as they are preventable with a good pair of gardening gloves. Gardening tasks can wreak havoc on your hands, leaving them sore and irritated. Thankfully there is a huge range of gloves available offering better protection and comfort than ever before.",n
+390,369,h2,Gardening Gloves,y
+396,369,br,"A spade has a long handle and a long, narrow, flat head. No gardening tool kit is complete without one! You will need it for digging tasks, as well edging beds and lawns, transplanting, dividing shrubs, trenching, and lots more.",n
+395,369,h2,Spade,y
+401,369,br,"One of the most hardworking tools in any gardener’s arsenal, a garden fork is a multi-purpose piece of equipment. It can be used to aerate lawns , break up compacted soil, create holes for seeds, mix in soil treatment, remove stones and weeds, and soften tough ground. Its sharp and strong tines can more easily penetrate difficult terrain than a spade.",n
+400,369,h2,Fork,y
+408,369,br,"A shovel is a prerequisite for most jobs around the garden, particularly those that include digging and the removal or addition of loose gardening materials such as compost, fertiliser, mulch, soil, etc. Whether you’re scooping away weeds or you’re spreading on mulch, digging a deep hole or filling a bed with compost, a high quality shovel will be of great value to you.",n
+407,369,h2,Shovel,y
+413,369,br,"A rake will allow you to remove stones, rocks and clogs from the ground before planting. It is also used for levelling and smoothing the surface of the soil, or for gathering debris such as leaves and weeds. You may find you want to add a few varieties of rakes to your collection to suit different needs most comfortably, for example a lightweight, fan-shaped rake is ideal for covering large areas when sweeping up leaves, and a heavier duty bow rake will be most suited to dealing with stony ground.",n
+412,369,h2,Rake,y
+418,369,br,"Shrubs and trees will need shaping and pruning from time to time, not to mention those woody weeds like briars that will need to be tackled too. A bow saw will see you through most of the heavier cutting tasks in the garden; when a secateurs just won’t cut it!",n
+417,369,h2,Saw,y
+423,369,br,A wheelbarrow greatly eases the burden of moving heavy and awkward gardening materials around your garden. Lump everything including your tools into your wheelbarrow and easily transport them around as you work.,n
+422,369,h2,Wheelbarrow,y
+428,369,br,"Just outside of the top 10 are the following must-have gardening items: a pair of scissors, kneeling pads or a suitable cushion, a garden hose, a watering can, an outdoor brush, a loppers, a lawnmower, and a shed to house all your tools and equipment. You will also need lawn and plant feed, and weed and moss killer to ensure healthy growth in your garden.",n
+430,338,section,,n
+432,430,h2,You might also be interested in,n
+433,430,div,,n
+436,433,h4,True Temper Basics Irish Pointed Shovel - 48in,n
+439,433,h4,Polypropylene Wheelbarrow - 90 Litre,n
+442,433,h4,True Temper Basics Digging Fork,n
+445,317,div,,n
+446,445,div,,n
+448,446,h4,Contact Us,n
+449,446,p,,n
+450,449,text,"Naas Industrial Estate,",n
+452,449,br,"Naas,",n
+454,449,br,Co. Kildare,n
+456,446,p,© Topline 2022,n
+490,445,ul,,n
+492,490,li,Like us on Facebook,n
+494,490,li,Follow us on Twitter,n
+496,445,div,,n
+498,496,h4,Departments,n
+499,496,ul,,n
+501,499,li,Appliances,n
+503,499,li,Bathroom,n
+505,499,li,Building Supplies,n
+507,499,li,Cleaning and Storage,n
+508,496,ul,,n
+510,508,li,Garden and Outdoors,n
+512,508,li,Kitchen,n
+514,508,li,Lighting,n
+516,508,li,Painting or Décor,n
+517,496,ul,,n
+519,517,li,Plumbing and Heating,n
+521,517,li,Tools and Hardware,n
+523,517,li,"Windows, Doors and Floors",n
+609,0,div,,n
+611,609,h1,This website uses cookies.,n
+612,609,p,,n
+613,612,text,By using this website you consent to the use of cookies neccessary for the operation of the system in accordance with our,n
+615,612,strong,Cookie Policy.,n
+616,609,div,,n
+618,616,h2,Select cookies to accept,n
+619,616,ul,,n
+623,619,li,Essential,n
+627,619,li,Analytics,n
+631,619,li,Marketing,n
+632,609,div,,n
+634,632,button,Accept All,n
+636,632,button,Accept Selection,n
+638,632,button,Reject,n
+640,632,button,Settings,n

@@ -1,0 +1,218 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+110,0,div,,n
+113,110,div,,n
+115,113,h1,Your School Supply Checklist,n
+117,113,p,"By Michelle Ecker on September 24, 2019",n
+122,113,div,,n
+127,122,ul,,n
+130,127,li,Share to Facebook,n
+134,127,li,Share to Twitter,n
+138,127,li,Share to LinkedIn,n
+142,127,li,Share to Google+,n
+147,127,li,1k views,n
+148,122,div,,n
+150,148,div,,n
+153,150,p,"So you’ve decided to make a leap in your professional life and pursue the creative career you’ve always dreamed of. Congratulations on taking the next step! You like the idea of being able to study online and work at your own pace with no deadlines or due dates. You found NYIAD and thought it seemed like a good fit, did your research into all the courses we offer and found one that trains students in the field you’re interested in.",n
+154,150,p,,n
+156,154,span,You filled out the,n
+158,154,span,enrollment form,n
+160,154,span,", got your welcome email with all the login information and you’re ready to sign into the learning center and dive into your very first lesson. But you’re wondering if you’re forgetting anything. Is it really that simple to get started? Don’t you need to go back to school shopping and pick up any other supplies?",n
+162,150,p,What Supplies Do You Need For Your Online Course?,n
+165,150,p,"At NYIAD, part of the convenience is that you do not need to do all the typical back to school supply shopping usually required of traditional students.",n
+168,150,p,"However, although all of your course materials are online , some of our students are more comfortable making handwritten notes in a notebook as they follow along- something you can highlight, annotate and refer back to if needed.",n
+171,150,p,"If you’re more comfortable learning like this, by all means grab a notebook and some colorful highlighters to help you study. In fact, if physical materials make you that much more comfortable as a learner, you can let your course mentor know, and he or she can arrange having PDFs of every lesson in your course emailed to you at no additional cost. That way, you can print out any pages you want and highlight them or make notes on them as much as you’d like.",n
+174,150,p,"But at the end of the day, outside of enrolling in your course and making sure you have access to the internet, there are no physical materials required for you to purchase in order to complete the majority of NYIAD’s programs. For those that do need supplies, keep reading for the detailed list below!",n
+176,150,p,Which Courses Include Mailed Materials?,n
+177,150,p,,n
+179,177,span,"If you decide to enroll in our Interior Design, Jewelry Design or",n
+181,177,span,Landscape Design course,n
+183,177,span,", you will receive a welcome package with some physical materials in the mail. Depending on which course you take, that package will include the following:",n
+184,150,p,,n
+185,184,text,Interior Design,n
+187,184,span,"A large drafting kit and plastic door template you will use for your Unit 2 project, a green plastic furniture template and sheet of furniture cut outs you will use during Unit 3, and presentation boards you will use during your Final Presentation during Unit 6. For this course, you should also purchase a tape measure you can use if you do not already own one!",n
+188,150,p,,n
+189,188,text,Jewelry Design,n
+191,188,span,"A Bead and Wire kit - this kit includes various tools, beads, wires and findings that you will use during Units 2-4. In the final units, you might also have to go to a local craft store to purchase your own beads and wires to use as you assemble your final collection.",n
+192,150,p,,n
+193,192,text,Landscape Design,n
+195,192,span,The Essential Garden Design Workbook,n
+197,192,span,and,n
+199,192,span,The Professional Landscaper's Handbook.,n
+201,150,p,What Other Courses Require Supplies?,n
+202,150,p,,n
+203,202,text,AutoCAD,y
+205,202,span,Many students wonder if they will need to purchase the software in order to complete our course- the answer is no! For our,n
+207,202,span,online AutoCAD classes,n
+209,202,span,", we actually give all of our students access to a students-only version of AutoCAD where you can practice as you go. This is basically a mock version of the software that is more student-friendly, allowing you to complete projects and get a feel for what it’s really like to work with it before actually having to purchase the software itself.",n
+210,150,p,,n
+211,210,text,Graphic Design,y
+213,210,span,"For this course, students are required to get a subscription to Adobe's creative cloud suite. The suite includes access to Photoshop and Illustrator, which are the two programs you will be learning how to use throughout the course. However, if you are a NYIAD student, you are eligible to receive a",n
+215,210,span,60% discount,n
+217,210,span,". With this discount, you will only have to pay $19.99 a month, discounted from $52.99.",n
+218,150,p,,n
+219,218,text,Floral Design,y
+221,218,span,"This is the only program where you will need to go to your local garden center or floral supply store to make some purchases . Additionally, when it comes time to put together your arrangements, you will also need to purchase your own flowers. Below you will find a complete checklist of necessary floral design supplies, a description of what each supply will be used for, as well as the approximate cost.",n
+223,150,table,,n
+224,223,tr,,n
+228,224,p,Floral Clippers,y
+232,224,p,"Most are made for either left-handed or right-handed people. ARS clippers are an industry favorite, but it helps to know what feels most comfortable in your hand.",n
+237,223,tr,,n
+241,237,p,Coated Check Wire,y
+245,237,p,May be balled up and placed inside a large vessel to provide structure for branches or stems. Use coated wire to deter wire from rusting.,n
+249,237,p,$ 39.00,n
+250,223,tr,,n
+254,250,p,Fine Gauge Wire,y
+258,250,p,Cut this into small pieces to wire flowers to a headpiece frame or to create greens and floral garland.,n
+262,250,p,$ 3.50,n
+263,223,tr,,n
+267,263,p,Floral Putty,y
+271,263,p,Use to adhere pin frogs to a vase.,n
+275,263,p,$ 11.00,n
+276,223,tr,,n
+280,276,p,Floral Tape,y
+284,276,p,This self-adhesive tape gently wraps stems together and is activated to adhere to itself when pulled tight.,n
+289,223,tr,,n
+293,289,p,Paper Covered Bindwire,y
+297,289,p,This is perfect,n
+301,289,p,$ 9.50,n
+302,223,tr,,n
+306,302,p,Pin Frogs,y
+310,302,p,Very helpful foam alternative to secure flowers when using a shallow vessel or practicing Ikebana,n
+314,302,p,$ 4.00,n
+315,223,tr,,n
+319,315,p,Ramie Covered Rustic Wire,y
+323,315,p,"Often comes in brown, green, and ivory and is perfect for creating frames for floral headpieces and small wreaths.",n
+327,315,p,$ 9.99,n
+328,223,tr,,n
+332,328,p,Rubber Bands,y
+336,328,p,"These may serve many purposes, but most often are used to bind stems or to secure a plastic sleeve to a bundle.",n
+341,223,tr,,n
+345,341,p,Scissors,y
+349,341,p,You should avoid using scissors to cut flowers. Keep them clean and sharp,n
+354,223,tr,,n
+358,354,p,Straight Pins,y
+362,354,p,Pearl headed pins are helpful to keep on hand and may be used to adhere boutonnieres or to secure ribbon to a bouquet.,n
+367,223,tr,,n
+371,367,p,Swiss Army Knife,y
+375,367,p,"A basic single blade is all you need. Keep it clean and sharp and use it to remove thorns, open plastic, and paper packaging, or to give a stem a clean cut.",n
+380,223,tr,,n
+384,380,p,Water Tubes,y
+388,380,p,May be utilized to keep short stems hydrated when included in an arrangement.,n
+393,223,tr,,n
+397,393,p,Wired Picks,y
+401,393,p,Extend and secure floral and non-floral elements.,n
+405,393,p,$ 8.99,n
+406,223,tr,,n
+410,406,p,Approximate Total,y
+417,406,p,$ 149.98,n
+423,150,p,Need More Help Picking Out Supplies?,n
+426,150,p,"Whether you’re new to the Creative Cloud Suite needed for the graphic design course or you’re stuck at the floral design store unsure if you have the right Pin Frogs, remember- your NYIAD course mentors are always only a phone call away, waiting to help. If you’re getting all your course supplies together and need some reassurance, feel free to call 1-800-583-1742 for some help.",n
+433,148,div,Enroll Now,n
+435,113,div,,n
+437,435,div,Related Articles,n
+439,435,ul,,n
+446,439,div,,n
+448,446,div,the Month - Mexican Design,n
+450,446,p,By,n
+453,446,div,At NYIAD we teach our students a simple Three-Step Method for designing every room they create: A successful room is functional. A successful room expresses a mood.…,n
+461,439,div,,n
+463,461,div,"7 Home Makeover, Decorating, and Selling Tips",n
+465,461,p,By,n
+468,461,div,"Even in the best of markets, it takes a lot more than just putting up a sign and vacuuming the…",n
+469,110,div,,n
+478,469,div,,n
+480,478,div,Categories,n
+481,478,ol,,n
+483,481,li,Student Success,n
+488,481,li,Front-End Development,n
+491,481,li,UX Design,n
+494,481,li,Interior Design,n
+497,481,li,Wedding Planning,n
+500,481,li,Jewelry Design,n
+503,481,li,3D Modeling,n
+506,481,li,Event Planning,n
+509,481,li,Autocad,n
+512,481,li,Floral Design,n
+515,481,li,Landscape Design,n
+518,481,li,Holidays,n
+521,481,li,Business,n
+524,481,li,Personal Style,n
+530,481,li,Home Staging,n
+533,481,li,Graphic Design,n
+535,481,li,Student Photo Gallery,n
+538,469,div,,n
+540,538,div,Want to Learn More?,n
+542,538,p,Train for an exciting new career with online courses from NYIAD. Our free brochure will give you all the details.,n
+546,469,div,,n
+548,546,div,Popular Articles,n
+552,546,p,Your School Supply Checklist,n
+556,546,p,Writing a Jewelry Design Resume,n
+565,469,li,Student Success,n
+574,469,li,NYIAD Partners with Decorating Den Interiors to Offer Graduates a Pathway to an Interior Design Career,n
+578,0,div,,n
+579,578,div,,n
+581,579,span,Military Friendly School,n
+582,579,text,NYS Ed Better Business Bureau Accreditation,n
+585,578,div,,n
+586,585,div,,n
+588,586,p,Design Courses,n
+589,586,ul,,n
+591,589,li,Interior Design Course,n
+593,589,li,Graphic Design Course,n
+595,589,li,AutoCAD Course,n
+597,589,li,3D Modeling with SketchUp Course,n
+599,589,li,Event Planning Course,n
+601,589,li,Home Staging Course,n
+603,589,li,Personal Style Course,n
+605,589,li,Jewelry Design Course,n
+607,589,li,Wedding Planning Course,n
+609,589,li,Floral Design Course,n
+611,589,li,Landscape Design Course,n
+613,589,li,Front-End Web Development Course,n
+615,589,li,User Experience Design Course,n
+616,585,div,,n
+618,616,p,Admissions,n
+619,616,ul,,n
+621,619,li,Enroll Now,n
+623,619,li,Request Info,n
+625,619,li,Refund Policy,n
+627,619,li,Tuition,n
+629,619,li,How It Works,n
+631,619,li,FAQs,n
+632,585,div,,n
+634,632,p,About,n
+635,632,ul,,n
+637,635,li,Mission,n
+639,635,li,History,n
+641,635,li,Accreditation,n
+643,635,li,Military Benefits,n
+645,635,li,NYIAD Badges,n
+647,635,li,Social Media,n
+649,635,li,Partners,n
+651,635,li,Student Benefits,n
+653,635,li,Interior Design School,n
+655,635,li,Privacy Policy,n
+656,585,div,,n
+658,656,p,Articles,n
+659,656,ul,,n
+661,659,li,Article Archive,n
+663,659,li,Student Success Stories,n
+665,659,li,Newsletter,n
+667,659,li,Student Work,n
+671,659,li,Career Guides,n
+672,585,div,,n
+674,672,p,Student,n
+675,672,ul,,n
+677,675,li,Academic Catalog,n
+679,675,li,Make a Payment,n
+681,675,li,Contact Us,n
+683,675,li,Forum,n
+686,672,p,Mailing Address,n
+687,672,ul,,n
+689,687,li,Art and Design,n
+691,687,li,"41 East 11th Street, 11th Floor, Suite 66",n
+693,687,li,"New York, New York 10003",n
+695,578,div,Facebook Twitter Instagram Youtube Pinterest LinkedIn,n
+703,578,p,Do Not Sell My Personal Information .,n
+705,578,div,Art and Design All rights reserved,n

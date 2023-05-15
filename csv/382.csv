@@ -1,0 +1,223 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+7,3,p,Our free printable party planning template will ensure that you don’t forget anything when planning the perfect birthday party for your child.,n
+14,3,div,,n
+17,14,span,Printable Checklist,n
+19,14,span,Not Customizable | With Border Print or Download,n
+23,3,div,,n
+26,23,span,Online Checklist,n
+28,23,span,Customizable | No Border Print or Download or Email,n
+31,3,div,,n
+32,31,div,,n
+33,32,text,Contents,n
+35,32,span,hide,n
+37,31,div,,n
+38,37,div,,n
+40,38,span,1,n
+42,38,span,Printable Party Planning Checklist,n
+43,37,div,,n
+45,43,span,2,n
+47,43,span,Online Party Planner Checklist Maker,n
+48,37,div,,n
+50,48,span,3,n
+52,48,span,Party Checklist,n
+53,48,div,,n
+54,53,div,,n
+56,54,span,1,n
+58,54,span,One Month Before,n
+59,53,div,,n
+61,59,span,2,n
+63,59,span,Three Weeks Before,n
+64,53,div,,n
+66,64,span,3,n
+68,64,span,Two Weeks Before,n
+69,53,div,,n
+71,69,span,4,n
+73,69,span,One Week Before,n
+74,53,div,,n
+76,74,span,5,n
+78,74,span,Three Days Before,n
+79,53,div,,n
+81,79,span,6,n
+83,79,span,Two Days Before,n
+84,53,div,,n
+86,84,span,7,n
+88,84,span,One Day Before,n
+89,53,div,,n
+91,89,span,8,n
+93,89,span,the Party,n
+95,3,p,Event planning can be very stressful if you are not organized. This ultimate party planning checklist will ensure that you don’t forget to do anything! It will also ensure that you do whatever you can before the party so that you don’t have too much to do at the last minute.,n
+98,3,div,,n
+100,98,h3,LATEST VIDEOS,n
+104,98,div,,n
+119,104,div,How to Make a Planner,n
+140,104,div,More Videos,n
+144,104,div,,n
+146,144,span,15 seconds,n
+148,144,span,Volume 0%,n
+149,104,div,,n
+152,149,span,keyboard shortcuts,n
+153,149,div,,n
+154,153,div,,n
+156,154,span,Keyboard Shortcuts,n
+157,154,button,,n
+160,157,span,Enabled,n
+162,157,span,Disabled,n
+164,153,div,,n
+165,164,div,,n
+167,165,span,Play or Pause,n
+169,165,span,SPACE,n
+170,164,div,,n
+172,170,span,Increase Volume,n
+174,170,span,↑,n
+175,164,div,,n
+177,175,span,Decrease Volume,n
+179,175,span,↓,n
+180,164,div,,n
+182,180,span,Seek Forward,n
+184,180,span,→,n
+185,164,div,,n
+187,185,span,Seek Backward,n
+189,185,span,←,n
+190,164,div,,n
+192,190,span,Captions On or Off,n
+194,190,span,c,n
+195,164,div,,n
+197,195,span,Fullscreen or Exit Fullscreen,n
+199,195,span,f,n
+200,164,div,,n
+202,200,span,Mute or Unmute,n
+204,200,span,m,n
+207,164,div,Seek %,n
+211,104,div,,n
+225,211,div,,n
+227,225,div,Next Up,n
+229,225,div,Bullet Journal App,n
+231,225,div,01:57,n
+251,211,div,,n
+280,251,span,This ad will end in 14,n
+282,251,div,Live,n
+284,251,div,00:01,n
+286,251,div,00:13,n
+288,251,div,00:15,n
+311,3,h2,Printable Party Planning Checklist,n
+313,3,p,Click on a birthday party checklist below to open and print.,n
+320,3,p,This party planner checklist is a little more colorful than the rest.,n
+327,3,p,Another birthday party planner. Please note that the actual checklist is the same on all planners and only the design changes.,n
+339,3,p,Even though this is a kids birthday party checklist we are assuming that an adult is doing the planning so this checklist was designed for you and not for your child!,n
+345,3,p,Chalkboard birthday party checklist,n
+351,3,p,Feel free to change the party planner template to suit your needs. You can add additional bullet points before you print. If you want to start planning earlier or later then just adjust the dates.,n
+354,3,h2,Online Party Planner Checklist Maker,n
+356,3,p,We also offer an online party planner checklist maker if you prefer it to a printable party checklist. The online party list maker shows you a list of the things you need to do to plan a party but only the items that you select will appear in your customized checklist.,n
+363,3,p,If you need a birthday list then check out the coordinating designs!,n
+369,3,h2,Party Checklist,n
+372,3,h3,One Month Before,n
+373,3,ul,,n
+375,373,li,Choose party theme,n
+378,373,li,Set a budget,n
+380,373,li,Set date and time,n
+382,373,li,Choose a venue if not at home,n
+384,373,li,Book a venue if not at home,n
+386,373,li,Book entertainment,n
+388,373,li,Book photographer,n
+390,373,li,Make guest list,n
+392,373,li,Prepare invitations,n
+394,373,li,Book a caterer if you are not going to be preparing the food,n
+397,373,li,the vendors and their phone numbers,n
+401,3,h3,Three Weeks Before,n
+402,3,ul,,n
+404,402,li,Send party invitations,n
+406,402,li,Plan games and activities,n
+409,402,li,Purchase or arrange equipment,n
+411,402,li,Purchase prizes,n
+413,402,li,Plan party menu,n
+415,402,li,Create a grocery list,n
+417,402,li,Plan party decor,n
+419,402,li,Create shopping list,n
+424,3,h3,Two Weeks Before,n
+425,3,ul,,n
+427,425,li,Order a birthday cake or choose which cake to make and decide on a recipe,n
+429,425,li,Buy party favors and other party supplies,n
+431,425,li,Buy or make DIY photo props if you are going to have photo booths,n
+434,425,li,Launder and iron linens,n
+438,3,h3,One Week Before,n
+439,3,ul,,n
+441,439,li,Buy balloons,y
+443,439,li,Buy disposable plates,y
+445,439,li,Buy disposable cups,y
+448,439,li,Buy disposable cutlery,y
+450,439,li,Buy napkins,y
+452,439,li,Buy straws,y
+454,439,li,Buy candles,y
+456,439,li,Buy table cloth,y
+458,439,li,Buy ice if you don’t have a cooler,y
+460,439,li,Buy party decorations,y
+462,439,li,Select or buy an outfit,y
+464,439,li,Call guests who didn’t RSVP,n
+466,439,li,Purchase non-perishable food and candy,n
+468,439,li,Assemble party favors,n
+470,439,li,Prepare playlist,n
+472,439,li,Create a party timeline to ensure that you are on schedule,n
+476,3,h3,Three Days Before,n
+477,3,ul,,n
+479,477,li,Purchase food,y
+481,477,li,Call entertainer to confirm,n
+483,477,li,Call venue to confirm,n
+485,477,li,Call photographer to confirm,n
+487,477,li,Check weather,n
+491,3,h3,Two Days Before,n
+492,3,ul,,n
+494,492,li,Bake cake,n
+496,492,li,Make cupcakes,n
+500,3,h3,One Day Before,n
+501,3,ul,,n
+503,501,li,Charge camera’s battery,n
+505,501,li,Empty camera’s memory card,n
+507,501,li,Decorate cake,n
+509,501,li,Decorate the cupcakes,n
+511,501,li,Collect pre-ordered cake,n
+513,501,li,Prepare decorations,n
+515,501,li,Prepare food that can be prepared a day before,n
+517,501,li,Put everything in one place,n
+519,501,li,Put trash cans wherever you can,n
+523,3,h3,the Party,n
+524,3,ul,,n
+526,524,li,Pick up cake,n
+528,524,li,Prepare food,n
+530,524,li,Set up the food table,n
+532,524,li,Set up a table with goody bags,n
+534,524,li,Hang all decorations,n
+536,524,li,Get the family ready,n
+538,524,li,Set up music,n
+541,3,div,,n
+543,541,div,Click to rate this post!,n
+547,541,div,,n
+548,547,text,[Total,n
+550,547,span,21,n
+551,547,text,Average,n
+553,547,span,2,n
+554,547,text,],n
+560,0,div,,n
+562,560,h3,2 thoughts on “Birthday Party Checklist”,n
+563,560,ol,,n
+565,563,li,,n
+568,565,div,,n
+571,568,div,Alexandra Davila-Witkowski,n
+574,568,div,"April 14, 2018 at 11:53 am",n
+577,565,p,Loved the teplets,n
+581,563,li,,n
+584,581,div,,n
+587,584,div,Christine Ronquillo,n
+590,584,div,"November 24, 2020 at 9:52 am",n
+593,581,p,Nice,n
+597,560,div,,n
+598,597,h3,,n
+599,598,text,Leave a Comment,n
+601,598,small,Cancel reply,n
+602,597,form,,n
+605,602,p,Comment,n
+608,602,label,Name,n
+611,602,label,Email,n
+614,602,label,Website,n
+624,602,p,Δ,n

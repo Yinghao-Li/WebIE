@@ -1,0 +1,283 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+77,1,div,,n
+79,77,div,,n
+81,79,h1,College Move-In Day,n
+82,79,div,,n
+84,82,span,Tyson Schritter,n
+88,82,span,Take a Look,n
+91,79,div,Share,n
+92,77,div,,n
+94,92,p,"Many families know some of the usual essentials that a freshman student should bring to college, but it’s hard to think of everything. Of course, personal items from home will aid in the transition, but you’ll need more than bedding and a laptop to get through the year. Explore our college packing list for all the essential stuff you’ll need for your dorm room.",n
+96,92,p,"Before you buy or pack anything, be sure to check with your school about what items are and are not allowed. Most schools have to be very careful about health and safety regulations, and rules differ from place to place. One school might not allow microwaves; another might have specific regulations about what size of refrigerators is allowed. .",n
+102,92,p,"If you’re attending a college out of state consider only packing what you need for that weather season. Packing your entire wardrobe may seem necessary, but it can be more of a hassle trying to find a place for all your items once you’re in your quarters. One tip for out of state students that will save you money on shipping and give you more room to pack other things you’ll need is buying some items when you arrive at your new home.",n
+104,92,p,"Also, consider talking to a current student about what to pack. They can tell you about the “don’t bothers” and “must-haves” for the residences at your new college residence. They may even know specifics about your building that will be a real help.",n
+106,92,p,"And be sure to carefully complete and review your housing contract. By omitting certain information or sending it back incomplete, this could alter your living situation very dramatically. Once you arrive on campus, you could be locked into a living situation you do not care for simply because of a few errors.",n
+108,92,p,"In the meantime, here’s a list to help you start planning your move. Also, if you’re working within a tight budget check out our $500 College Packing List . Good luck!",n
+117,92,h2,Bath and Bedding,y
+119,92,p,,n
+120,119,text,"Nothing screams dorm room life like an uncomfortable twin XL mattress. Worry not—this can easily be remedied with a good comforter or mattress topper. Bonus points if you’re able to find a reversible one to change the look of your room when one color starts to get boring. Your dorm room will most likely come furnished with other pieces as well, but you may want a larger desk to complete late night",n
+122,119,strong,homework marathons,n
+123,119,text,". For night owls, bringing an actual alarm clock versus relying on your phone to wake you up might be the difference between getting to class on time or accidentally sleeping in. Don’t forget about storage containers and organizers! These will be your best friends, especially with customizing such a small space. Under bed storage and closet organizers help to stash your belongings away and hide the clutter when you don’t have time to organize during midterms or finals.",n
+124,92,ul,,n
+126,124,li,Comforter and or or quilts,y
+128,124,li,Throw blanket,y
+130,124,li,Bed sheets,y
+132,124,li,Pillows,y
+134,124,li,Pillowcases,y
+136,124,li,Mattress pad,y
+138,124,li,Reading pillow,y
+140,124,li,Alarm clock,y
+142,124,li,Tissue,y
+144,124,li,Paper towels,y
+146,124,li,Under bed storage,y
+148,124,li,Towels,y
+150,124,li,Shower shoes,y
+152,124,li,Shower bucket or basket or caddy to carry items,y
+154,124,li,Extra pillow if you will lounge or study on the bed.,y
+158,92,h2,Health and Grooming,y
+159,92,p,,n
+161,159,span,"Keeping up with your health and hygiene is a must, regardless of whether you’re in college or not! If your dorm has a community bathroom, a shower caddy can make it easier to bring all of your bathroom essentials over in a single trip. You should also be prepared to deal with small injuries, especially if the health services office on your campus happens to be closed. A first aid kit can provide everything you need in the convenience of a small bag. It’s always better to be safe than sorry! If you’re new to the area and are unsure of where to get a good haircut, you might be brave enough to consider giving yourself one or having a friend do it for you. In this case, having a solid grooming set may be the right choice for you. Cordless sets, like the one listed below, are no hassle and you don’t have to worry about untangling cords whenever you want to change up your look. Studies have proven that there is a",n
+163,159,span,strong correlation between self care and academic performance,n
+165,159,span,". If you want to achieve that 4.0 during your freshman year, it starts with taking care of yourself first!",n
+166,92,ul,,n
+168,166,li,Shower gel or bath soap,y
+170,166,li,Shower Cap,y
+172,166,li,Shampoo and conditioner,y
+174,166,li,Deodorant,y
+176,166,li,Hair grooming tools,y
+178,166,li,Toothbrush and toothpaste,y
+180,166,li,Lotion or skin cosmetics,y
+182,166,li,Women who wear makeup might want a portable makeup kit or box,y
+184,166,li,Bathrobe,y
+186,166,li,Travel soap container,y
+188,166,li,Dental floss,y
+190,166,li,Eye drops,y
+192,166,li,Q-tips,y
+194,166,li,Mouthwash,y
+196,166,li,Nail clippers,y
+198,166,li,Loofah,y
+200,166,li,Cotton swabs,y
+202,166,li,Shaving kit,y
+204,166,li,Handheld mirror,y
+206,166,li,"First Aid kit, including basic adhesive bandages, vitamins, aspirin, cough drops etc.",y
+208,166,li,each prescription,y
+210,166,li,Bathroom cleaning products if you,y
+212,166,li,Shower mat,y
+214,166,li,Air Freshener,y
+216,166,li,Scale,y
+218,166,li,Thermometer,y
+220,166,li,Heating pad,y
+222,166,li,Air purifier,y
+226,92,h2,Clothes and Laundry,y
+229,92,p,"When it comes to laundry, most students dread the thought of doing it, whether it be loading and unloading hampers or folding clothes afterwards. While we can agree that doing laundry isn’t the most exciting thing you’ll experience in college, it’s a necessary one. Your dorm room storage probably isn’t the biggest, so instead of wishing you had a little more closet space for your garments, think about investing in a clothing rack! They’re a great way to display your most loved pieces of clothing while also helping to keep everything organized. While most students don’t usually pay much mind to the brand of detergent they use, Tide maintains a great balance between thoroughly washing and maintaining the structural integrity of your clothes. Investing in a good detergent pays off when your clothes last much longer than they would’ve using a harsher formula. These, along with other items listed below, can help you gain a greater appreciation for caring for your clothes—a habit that will serve you well beyond your first year in college!",n
+234,92,ul,,n
+236,234,li,"Clothes. Your space will be limited, so only bring what you think you will wear. You can always bring more back to school after your first trip home",y
+238,234,li,Weather-appropriate outer clothes. You will probably be walking to class; be sure your coat or jacket is right for the climate,y
+240,234,li,Laundry basket and or or bag,y
+242,234,li,Laundry detergent,y
+244,234,li,Bleach,y
+246,234,li,Dryer sheets,y
+248,234,li,Stain remover stick,y
+250,234,li,Underwear,y
+252,234,li,Pajamas,y
+254,234,li,Socks,y
+256,234,li,Shirts,y
+258,234,li,Jeans,y
+260,234,li,Shorts,y
+262,234,li,Jewelry,y
+264,234,li,Sweats,y
+266,234,li,Sunglasses,y
+268,234,li,Hat,y
+270,234,li,Sportswear,y
+272,234,li,Loungewear,y
+274,234,li,Sneakers,y
+276,234,li,Boots,y
+278,234,li,Sandals,y
+280,234,li,Businesswear,y
+282,234,li,Dress shoes,y
+284,234,li,Swimwear,y
+286,234,li,Gloves and scarf,y
+288,234,li,Belts,y
+290,234,li,Watch,y
+292,234,li,Iron or steamer,y
+294,234,li,Ironing board,y
+296,234,li,Starch,y
+298,234,li,Hangers,y
+300,234,li,Shoe storage,y
+302,234,li,Coat rack,y
+304,234,li,Suitcase or luggage,y
+306,234,li,Quarters,y
+308,234,li,Lint brush,y
+310,92,h2,Decor,y
+311,92,p,,n
+313,311,span,Your dorm or apartment is going to be your home base,n
+315,311,span,entire year,n
+317,311,span,". Though it may not feel like home when you first move in, there’s a lot you can do to make it a place of relaxation and rejuvenation. Use this as an opportunity to customize the space and try your hand at interior design. Rugs are a great way to bring some life and color to the room, while posters can give the space some character and speak to your interests. If you like to paint or draw in your free time, this is a chance to give yourself and your friends a private art exhibition. Decor isn’t just about looks and aesthetics. It can be functional too! Adding additional seating is a lot more welcoming to guests than a single desk chair and the floor.",n
+320,92,p,"Space management matters a lot in dorms. You’re limited to a small amount of space and might even have to split it with a roommate. Closet organizers and storage hangers keep your wardrobe neat and tidied away so you have more room. No matter how you choose to decorate your dorm, remember to have fun with it and take the time to explore what makes you feel most at home.",n
+321,92,ul,,n
+323,321,li,these on campus,y
+325,321,li,"Sticky wall mounts and removable adhesive hooks. Most schools do not allow you to put nails in the walls, so you will need other ways to hang your décor",y
+327,321,li,"Personal pictures, photos, and other favorite items. Avoid heavy frames, since you may not be able to hang them",y
+329,321,li,"Curtains and spring rod, if you like them and your school allows them. Some people like this touch in their room",y
+331,321,li,"Rugs or a piece of carpet if you have vinyl floors, which can be cold and uncomfortable. Check to see if the school allows this",y
+333,321,li,Additional seating,y
+335,321,li,Desk chair,y
+337,321,li,Decorative area rug,y
+339,321,li,Desk lamp,y
+341,321,li,Trashcan,y
+343,321,li,Floor lamp,y
+345,321,li,Bedside table,y
+347,321,li,Bed risers,y
+349,321,li,Over the door storage hanger,y
+351,321,li,Stepladder,y
+353,321,li,Bulletin Board,y
+355,321,li,Dry-Erase Markers,y
+357,321,li,Fan,y
+359,321,li,Curtains,y
+361,321,li,Clock,y
+363,321,li,Adhesive Hooks,y
+365,321,li,Closet Organizer,y
+370,92,h2,School Supplies,y
+371,92,p,,n
+373,371,span,"Set yourself up for success in your classes with some office essentials. Regardless of whether or not you’re a STEM major, chances are you’ll probably be in need of a calculator at some point in college. Although your college most certainly has a printer on campus, it saves a lot of time being able to print essays from the comfort of your own dorm room or apartment. While your laptop works just fine for taking notes, studies have shown that writing notes by hand can",n
+375,371,span,the content and help retain information,n
+377,371,span,". Grabbing a pack of writing pads is a solid investment, especially in classes that require revisiting notes often. Pages are also easy to pull out and don’t snag on other things in your backpack like those pesky spiral notebooks from high school. Classes will be hard to adjust to, especially for freshmen, but it’s the little things like supplies that make learning a lot more easy and enjoyable.",n
+382,92,ul,,n
+384,382,li,A sturdy backpack or book bag,y
+386,382,li,"Computer and any necessary supplies or accessories. Some schools also offer great discounts on or provide computers, printers and other electronic necessities",y
+388,382,li,Calendar or planner,y
+390,382,li,Pens,y
+392,382,li,Paper,y
+394,382,li,Pencils,y
+396,382,li,Notebooks,y
+398,382,li,Binders,y
+400,382,li,Paperclips,y
+402,382,li,Tablets,y
+404,382,li,Sticky notes,y
+406,382,li,Highlighters,y
+408,382,li,Ruler,y
+410,382,li,Calculator,y
+412,382,li,Stapler,y
+414,382,li,Earphones,y
+416,382,li,Extension cord,y
+418,382,li,Envelopes,y
+420,382,li,Stamps,y
+422,382,li,Markers,y
+424,382,li,Computer Mouse,y
+426,382,li,Desk Storage,y
+428,382,li,Index Cards,y
+430,382,li,Pencil Sharpener,y
+432,382,li,Whiteout,y
+434,382,li,Scissors,y
+436,382,li,Tape,y
+438,382,li,Hole punch,y
+440,382,li,Printer paper,y
+442,92,h2,Electronics and Equipment,y
+443,92,p,,n
+445,443,span,"While a laptop and good Internet connection are important, they are now more essential to succeeding in college than ever. Especially with",n
+447,443,span,many universities transitioning to online learning,n
+449,443,span,"for the upcoming school year, it’s important to have a device that can keep you connected to your virtual classrooms. Between your phone, laptop, and other electronics, two outlets may not be enough to keep everything charged and ready to use when you need it. In times like these, you may find yourself in need of a power strip. They can also be useful for cords that just don’t seem to be long enough to reach your desk or bed. A quality headset is important for online lectures, as you won’t get distracted by white noise and other hindrances that are bound to happen when living in a college dorm. A mouse is another great investment that can save your wrist the pain of using a trackpad all the time. Remember: wireless is the way to go! While these should definitely be on your dorm room packing list, here are a few other things that can help your next school year run smoothly.",n
+450,92,ul,,n
+452,450,li,Computer or laptop,y
+454,450,li,TV,y
+456,450,li,Stereo or speakers,y
+458,450,li,DVD player,y
+460,450,li,Game systems,y
+462,450,li,Tablet,y
+464,450,li,HDMI cord,y
+467,92,h2,Food and Snacks,y
+470,92,p,"Your dorm room is probably going to provide a less than satisfactory kitchen area, if any at all. There are lots of great add ons you can bring to make cooking much more feasible. If you’re not already into coffee, midterms week might change your mind. Keeping some at hand at all times may be what gets you through a homework marathon or a long night of cramming before an exam. If you’re feeling fancy, you can even bring a milk frother to level up your morning fix. Grabbing a box of individually packaged snacks is great for eating in between classes, especially when you don’t have a gap for lunch. Although your dorm’s kitchen may not feel like the one at home, don’t let it deter you from making healthy meals for yourself. There are lots of options that are easy to use and convenient to store!",n
+471,92,ul,,n
+473,471,li,"school, schools may have refrigerators and microwaves to rent or buy",y
+476,471,li,"Microwave, hot plate, coffee maker, etc. Check first–many schools have especially strict safety regulations about these items. Also, find out what communal kitchen space may be available",y
+478,471,li,Plastic cups,y
+480,471,li,Microwave-safe bowls,y
+482,471,li,Food storage containers,y
+484,471,li,Coffee mug,y
+486,471,li,Water bottle,y
+488,471,li,Dish soap,y
+490,471,li,Scrubber,y
+492,471,li,Small dish towel,y
+494,471,li,Foil,y
+496,471,li,Napkins,y
+498,471,li,Disposable forks and spoons,y
+500,471,li,Can opener,y
+502,471,li,Oven mitt,y
+504,471,li,Pot and Pan,y
+506,471,li,Ziplock bags,y
+508,471,li,Popcorn,y
+510,471,li,Chips,y
+512,471,li,Sodas,y
+514,471,li,Bottled water,y
+516,471,li,Cereal,y
+518,471,li,Granola bars,y
+520,471,li,Soup,y
+522,471,li,Condiments,y
+524,471,li,Juice boxes,y
+526,471,li,Peanut butter and jelly,y
+528,471,li,Sandwich meat,y
+530,471,li,Bread,y
+532,471,li,Fruit snacks,y
+534,92,h2,Misc.,y
+537,92,p,"It would be terrible to get stuck inside a building for hours just because you forgot to pack an umbrella. Even worse, imagine getting completely soaked on your way to class. Keeping a mini umbrella in your backpack at all times can help you prepare for any unplanned weather changes. If you plan on bringing a bike, you should absolutely be bringing a bike lock as well! Trust us when we say you’ll need one when you store your bike on campus.",n
+540,92,p,"While a cash box may not seem necessary, you can always use it to lock up other valuables if you don’t carry cash on you. Similarly, a tool box surprisingly comes in handy in a lot of situations. If you’re bringing your own furniture to add to the room, you’ll definitely need one to assemble and disassemble it when you move in and out of your dorm. Don’t let the fact that these items are labeled as “miscellaneous” trick you into thinking that they’re any less important than other categories we’ve mentioned! They’re as equally as essential in helping make your college life easier.",n
+541,92,ul,,n
+543,541,li,Umbrella,y
+545,541,li,A small and inexpensive toolkit.,y
+547,541,li,A large backpack or shoulder bag,y
+549,541,li,Car registration and insurance,y
+551,541,li,Medical insurance card,y
+553,541,li,Driver’s license,y
+555,541,li,Student ID,y
+557,541,li,Social security card,y
+559,541,li,Financial aid forms,y
+561,541,li,Debit card,y
+563,541,li,Emergency contacts,y
+565,541,li,Bicycle,y
+567,541,li,Bike lock,y
+569,541,li,Safety pins,y
+571,541,li,Flashlight,y
+573,541,li,Dolly,y
+581,92,h3,More Helpful Guides,n
+583,92,p,On-Campus Transportation,n
+585,92,p,Becoming a Leader on Your College Campus,n
+587,92,p,13 Useful Services and Resources to look,n
+589,92,p,Guide to Meeting College Admissions Officers,n
+597,92,h6,Disclaimer,n
+599,77,div,,n
+601,599,div,College Life,n
+603,599,div,Preparing,n
+610,1,div,,n
+612,610,div,Tyson Schritter,n
+614,610,div,Chief Operating Officer,n
+617,610,p,"Tyson serves as COO for Abound as well as Colleges of Distinction. As a member of the Colleges of Distinction qualification team, he’s been visiting campuses across the country and interviewing their staff for a solid eight years, experience that shows through in the resource articles he writes at Colleges of Distinction. Tyson has worked in outreach and communications for several nonprofits in Washington, D.C. His writing has appeared on Huffington Post, Higher Ed Revolution, and Campus News. Tyson earned a BS in Political Science from the University of Idaho.",n
+625,1,div,,n
+627,625,div,More advice,n
+628,625,div,,n
+631,628,div,,n
+633,631,h3,What to Look For in an LGBTQ+-Friendly College,n
+636,631,div,Nathan Wilgeroth,n
+642,631,div,College is a time to grow into your identity. Just a little bit of research will help you find a college that embraces the LGBTQ+ community.,n
+647,628,div,,n
+649,647,h3,How to Do an Internship After Graduation,n
+658,647,div,"Unlike popular perception, it is possible to do an internship after graduation and gain relevant experience to put on your resume.",n
+663,628,div,,n
+665,663,h3,What Is the Difference Between an Internship and Externship?,n
+674,663,div,"When you take on an internship or an externship, you take a huge step toward your career goals. But what’s the difference? Keep reading this article to learn everything you need to know.",n
+681,1,div,,n
+683,681,h2,Featured schools near you,n
+684,681,div,,n
+685,684,div,,n
+695,685,h3,Eastern Oregon University,n
+697,685,div,"La Grande, Oregon",n
+699,685,div,"Eastern Oregon University offers small class sizes with dedicated faculty, whose focus is on student success. Hands-on learning and personal connection to the campus community engage students from every background, while offering thousands of scholarship opportunities.",n
+702,684,div,,n
+712,702,h3,Central Washington University,n
+714,702,div,"Ellensburg, Washington",n
+716,702,div,"Central Washington University is a public, four-year university in Ellensburg, Washington. CWU prepares students to succeed through 135 majors and over 125 clubs and organizations.",n
+719,684,div,,n
+729,719,h3,Lewis and Clark College,n
+731,719,div,"Portland, Oregon",n
+733,719,div,"A liberal arts college with a public conscience and global reach, Lewis and Clark is the ideal place to explore the world and find one’s place in it.",n

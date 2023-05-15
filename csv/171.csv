@@ -1,0 +1,130 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+15,3,table,,n
+16,15,text,"1573 Savoie, Plessisville Qc. Canada",n
+18,15,p,,n
+21,18,strong,SUMMER VACATION 2022,n
+24,18,span,We wish to advise you that we will be closing our store and shop,n
+27,18,span,July 15 to August 8th.,n
+29,3,table,,n
+30,29,tr,,n
+34,30,td,Dealers list,n
+35,30,td,,n
+37,35,strong,DEMONSTRATION VIDEOS,n
+40,35,br,Mira II or Compact 4s or Weavabird 2019,n
+42,35,br,Compact 24'' 8s or Nilus II Jack Type 36'' 8s,n
+44,35,br,Nilus II Countermarche or Colonial V2 or Weavebird,n
+46,35,br,Flying Shuttle Beater or Electric Bobbin Winder,n
+48,35,br,Sectional Warp beam,n
+49,30,td,,n
+50,49,font,,n
+51,50,text,Weaving Patterns using,n
+53,50,br,Maurice Brassard and Fils Yarn,n
+57,49,font,NEW PATTERN EVERY SECOND MONTH,n
+58,29,tr,,n
+61,58,td,Related Web Sites,n
+65,58,p,FAQs,n
+66,29,tr,,n
+67,66,td,,n
+68,67,text,TECHNICAL AND OPERATING ADVISE FOR,n
+70,67,br,LECLERC LOOM OWNERS,n
+72,66,td,,n
+74,72,font,Handweaving Yarn,n
+76,72,text,From,n
+78,72,br,Maurice Brassard and Fils Inc.,n
+79,29,tr,,n
+86,79,p,,n
+90,86,strong,OUR,n
+92,86,strong,,n
+93,92,text,2022 WEB,n
+95,92,br,CATALOG,n
+98,79,td,,n
+100,98,font,Parts List,n
+105,98,font,Drawings,n
+108,98,font,Instructions,n
+112,29,tr,SUPPORT,n
+116,3,table,,n
+117,116,h2,,n
+118,117,text,NEW WARP-CROSS LOCK,n
+120,117,br,developed by Carl Heaman-Warne,n
+122,116,p,- -,n
+123,116,p,,n
+125,123,br,"Used to stabilizing and locking the warp cross from the warping board or mill.Simple and easy to use, it gives weavers piece of mind, even if someone stores the warp chain.",n
+127,123,br,More info,n
+131,3,table,,n
+132,131,tr,,n
+137,132,th,,n
+138,137,p,,n
+140,138,font,HISTORY,n
+142,138,font,,n
+143,142,text,Nilus Leclerc,n
+145,142,br,Maurice Brassard and Fils,n
+147,142,br,Leclerc Looms,n
+149,138,br,==========================================,n
+150,137,p,,n
+151,150,text,FLAT METAL REPAIR HEDDLE,n
+153,150,br,"The ends are made in such a way that they can be added anywhere, anytime.",n
+157,137,p,,n
+159,157,br,"5""",n
+161,157,br,"5""",n
+163,157,br,"5""",n
+164,137,p,,n
+165,164,text,VIDEO,n
+168,164,br,====================================,n
+169,132,th,,n
+170,169,p,,n
+171,170,text,CLIP TEMPLE VIDEO,n
+174,170,br,Presented,n
+176,170,br,clips,n
+178,170,br,See the parts list and instructions,n
+180,170,br,===========================================,n
+181,169,p,,n
+182,181,text,"Wind your bobbins, pirns and spools quickly and more efficiently with our new tension device attachment adaptable to any double ended",n
+184,181,br,Leclerc Electric Bobbin Winder.,n
+185,169,p,,n
+186,185,text,- -,n
+190,185,br,NOTE,n
+193,185,br,VIDEO,n
+195,169,p,,n
+196,195,text,See more info and the price list from,n
+198,195,br,http,n
+202,131,tr,,n
+203,202,th,,n
+205,203,br,"Dow nload the book ""Warp and Weave""",n
+209,203,br,by Robert Leclerc,n
+212,203,font,Edition 1992,n
+213,202,th,,n
+215,213,br,Download the book,n
+217,213,br,"""I Weave you Weave""",n
+221,131,tr,SECTIONAL WARP BEAM VIDEO,n
+228,0,div,,n
+230,228,tr,,n
+234,230,p,COLOR SHUTTLES,n
+238,230,p,IMPRESSIVE COST,n
+242,228,ul,,n
+244,242,li,OVER 125 YEARS OF WEAVING TRADITION,n
+246,242,li,,n
+249,246,strong,handweaving looms and looms accessories in North America.,n
+250,246,ul,,n
+254,250,li,"Table Looms 15¾"", 4, 8, 12 or 16 harness.",n
+258,250,li,"Table Looms 24"" rigid heddle, 4 or 8 harness.",n
+262,250,li,"Floor looms from 24"" to 168"", 4 to 16 harness.",n
+266,242,li,sturdy Canadian Maple wood.,n
+270,242,li,"Our looms are stronger, better-looking and more convenient to work with than any other.",n
+274,242,li,TECHNICAL INFORMATION about the difference between,n
+279,242,li,GENERAL INFORMATION RELATING TO ALL LECLERC LOOMS,n
+282,242,li,LECLERC WAY TO DO BUSINESS,n
+286,242,li,our delivery service.,n
+290,242,li,Every order receives our immediate attention; we get in touch promptly whenever in doubt.,n
+294,242,li,Dealers inquiries are welcome at all times.,n
+298,0,div,,n
+301,298,table,,n
+304,301,h3,E-Mail,n
+306,301,p,,n
+307,306,text,Leclerc Looms,n
+309,306,br,1573 Savoie P.O. Box 4,n
+311,306,br,Plessisville Qc. G6L 2Y6 CANADA,n
+313,306,br,Phone,n
+315,306,br,Fax,n
+316,298,text,-- --,n

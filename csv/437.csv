@@ -1,0 +1,67 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,h1,Scrapbook Supplies,n
+9,0,div,,n
+12,9,div,Scrapbook Page Kits,y
+15,9,div,Scrapbook Collections,y
+18,9,div,Albums,y
+21,9,div,Page Protectors,y
+24,9,div,Paper,y
+27,9,div,Embellishments,y
+30,9,div,Paper Craft Tools,y
+33,9,div,Scrapbook Adhesive,y
+123,0,div,,n
+130,123,li,Late Afternoon Journal Inserts - American Crafts*,n
+164,123,li,Shotbox Infinity Backdrops - We R Memory Keepers*,n
+196,123,li,,n
+198,196,strong,Shotbox Sideshot Arm Attachment - We R Memory Keepers*,y
+200,196,div,,n
+207,200,span,$29.99,n
+214,200,span,$25.49,n
+232,123,li,Shotbox Color Backgrounds - We R Memory Keepers*,n
+266,123,li,Storyline Chapters Insert Book - Heidi Swapp,n
+298,123,li,,n
+300,298,strong,Storyline Chapters Mini Insert Books - Heidi Swapp,y
+302,298,div,,n
+309,302,span,$4.99,n
+316,302,span,$4.24,n
+334,123,li,Simple Page Template Design 1 - Simple Stories*,n
+368,123,li,Simple Page Template Design 3 - Simple Stories*,n
+402,123,li,Simple Page Template Design 4 - Simple Stories*,n
+436,123,li,Simple Page Template Design 5 - Simple Stories*,n
+468,123,li,,n
+470,468,strong,Disc Cinch - We R Memory Keepers,y
+486,468,div,$84.99,n
+502,123,li,,n
+504,502,strong,Binding Disc Multi Pack - Disc Cinch - We R Memory Keepers,y
+506,502,span,Pre-Order,n
+507,502,div,,n
+514,507,span,$24.99,n
+521,507,span,$21.24,n
+531,502,div,Pre-Order,n
+539,123,li,Pearlescent Discs - Disc Cinch - We R Memory Keepers,n
+573,123,li,Gold Discs - Disc Cinch - We R Memory Keepers,n
+605,123,li,,n
+607,605,strong,Disc Power Punch - Disc Cinch - We R Memory Keepers,y
+609,605,div,,n
+616,609,span,$34.99,n
+623,609,span,$29.74,n
+639,123,li,,n
+641,639,strong,Ivory Trifold Waterfall Folio Album - Staples - Graphic 45,y
+643,639,div,,n
+650,643,span,$16.50,n
+657,643,span,$14.03,n
+673,123,li,,n
+675,673,strong,Scrapbook Trends May 2012 - Idea Book,y
+678,673,div,,n
+680,678,span,Price,n
+683,678,span,$5.95,n
+697,123,li,Shotbox Photoreal Backgrounds - We R Memory Keepers,n
+725,123,li,,n
+727,725,strong,Shotbox Portable Photo Studio Kit - We R Memory Keepers,y
+736,725,div,$139.99,n
+757,123,li,Coffee Collection Kit - Echo Park,n
+791,123,li,A Day At The Park Collection Kit - Michelle Coleman - PhotoPlay,n
+825,123,li,A Day At The Park Solids Plus Collection - Michelle Coleman - PhotoPlay,n
+859,123,li,A Day At The Park Tiny Print Collection - Michelle Coleman - PhotoPlay,n
+893,123,li,You and Me Collection Kit - Echo Park,n

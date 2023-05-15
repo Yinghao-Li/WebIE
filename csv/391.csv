@@ -1,0 +1,196 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+4,1,div,,n
+19,4,h1,15 Essential 3D Printer Supplies to Keep in Stock,n
+23,4,div,,n
+24,23,article,,n
+53,24,ul,,n
+55,53,li,Filament,y
+57,53,li,Filament Storage Box,y
+59,53,li,Desiccant Pouches,y
+61,53,li,Tape,y
+63,53,li,Increase Adhesion with Glue Sticks and Hair Sprays,y
+65,53,li,Build Plate,y
+67,53,li,Mask,y
+69,53,li,Build Plate Sticker,y
+71,53,li,Digital Calliper,y
+73,53,li,Sand Paper,y
+75,53,li,Super Glue and Acetone,y
+77,53,li,Different Diameter Nozzle Set,y
+79,53,li,Cleaning Tools,y
+81,53,li,Tool Set,y
+83,53,li,Spatula,y
+85,24,p,"When working with 3D printers, we do not like to disturb our projects in between due to the shortage of supplies that are often needed.",n
+87,24,p,"Hence, it is always important to make a list of 3D printer supplies and keep those in abundance. You must refill your stock when you feel it may end soon.",n
+89,24,p,But what are the things that you should keep in excess all the time? The question is very obvious because you cannot just go on and accumulate unnecessary things and regret later.,n
+91,24,p,"While it is okay to be excited when experiencing the potentials of 3D printing niche, you must stay calm as well. With a plethora of benefits, you may feel overwhelmed at times.",n
+93,24,p,But what makes it more frustrating is when you do not have the right tools to fix the various glitches that may arise from time to time.,n
+95,24,p,"It is very much evident from the prospects of additive manufacturing is that technology is vast. And, it keeps on changing. There was not so long back when we did not know that 3D printing existed.",n
+97,24,p,"Because it was limited to industrial applications. However, the rapid pace with which the growth in the industry is accelerating would soon embark on a new beginning. A lot of consumers and home users will welcome these machines for day to day operations.",n
+99,24,p,"The compact desktop 3D printers with easy to operate workflows are just the start of a new phase. And, many individuals have already made ways for these machines at homes and offices.",n
+103,24,p,"With that said, shouldn’t we also stay alert about the essential 3D printer supplies and keep a check on them so as to never fall short of these?",n
+112,24,h3,3D Printer Supplies We Must Stock Up,n
+113,24,p,,n
+114,113,text,Did you know that the right tool could help you turn your average prints to awesome? Not every user can buy the,n
+116,113,strong,expensive 3D printers,n
+117,113,text,offering professional quality 3D prints.,n
+119,24,p,"But with a little preparation, one can do amazing bring amazing and noticeable changes to the print results and finish. Moreover, you must have enough supplies to ensure you do not have to stop your printing project before you could finish it.",n
+121,24,p,"For all these reasons, here are a few essentials you must always keep closer.",n
+123,24,h2,Filament,y
+127,24,p,"How can we forget that? No one can print without the filaments. Hence, you must have enough stocks of different types of filament that you often use for 3D Printing.",n
+129,24,p,Who knows you may need to print something right away? This is when you would hate waiting for the manufacturer to ship the material to your address.,n
+131,24,p,"Also, the possibility of failed prints is even common among experts. Hence, the material that may look enough would not last long to complete the desired print with few failed attempts.",n
+133,24,p,"So, you must decide with your experience how much filament you must keep handy. Depending on your regular use, this could be an easy guess, isn’t it?",n
+136,24,div,Related article,n
+147,24,h2,Filament Storage Box,y
+151,24,p,"Right after you find yourself with an excess of filament that you may not be used in a week or so, you start worrying about the storage part.",n
+153,24,p,"Almost every filament can spoil because of the absorption of excess moisture. And, the problem is evident in the print results as well. So, ensuring enough space for your filaments is again very important.",n
+155,24,p,"When makers ignore the urgency of wrapping the filaments inside an airtight container, they often have to face issues such as poor layer adhesion, nozzle clogging, warping, and many others.",n
+157,24,p,You can find various types of containers and can choose the one you like. Just ensure you do not leave your 3D printer material lying anywhere.,n
+159,24,h2,Desiccant Pouches,y
+163,24,p,"If you want to go for a cheaper option that takes less space than the vacuum-sealed containers, you can go with this choice, the desiccant pouches. You can store your filaments inside these pouches and keep them away from moisture.",n
+165,24,h2,Tape,y
+169,24,p,"If you have been struggling to master the first layer adhesion, you must have tried masking tape. A lot of users turn to this option when not able to find that sweet spot on the build platform.",n
+171,24,p,"Not just that, it also makes it easier to remove parts from the build surface. On top of that, the masking tape protects the printer’s build plate from scratches and marks.",n
+173,24,p,"And, if you do know how much it helps, you must understand not having it around when you needed it. With all that said, you must know where we are pointing. Masking tape is the most common and crucial accessory that every user must keep in excess.",n
+175,24,p,"Alternatively, you can also use Kapton tape. This tape is even better with those materials that are highly susceptible to warping. Just remember to use the one with greater width. In this case, you would not need too many strips to cover the platform.",n
+184,24,h2,Increase Adhesion with Glue Sticks and Hair Sprays,y
+190,24,p,One more accessory that we usually include in the list,n
+192,24,p,"Although the option may fail to work with materials prone to excess warping, it contributes greatly to PLA, PETG, and other materials. Also, it is very easy to wipe off with water, when cleaning the bed to get rid of it.",n
+194,24,p,"You can directly apply the glue to the print bed and take it off using a wipe when done printing. Because of its ease of use, the product is popular among makers and 3D printing users.",n
+196,24,p,"Above all, it is cheap and very reasonable in its pricing. So, there aren’t any issues when keeping three or four more aside.",n
+198,24,p,The hair sprays also work in a similar fashion. You just spray the product on the top of the print bed. This enhances the bed adhesion and it is easy to remove as well.,n
+200,24,p,"However, regular use of hairsprays without extra care for cleaning would eventually harm the print bed. One more tip, using hair spray with Kapton tape is a very effective solution for perfect bed adhesion for tricky materials.",n
+202,24,h2,Build Plate,y
+206,24,p,"You must be wondering, why? 3D printers already have build plates. Otherwise, how would 3D printing take place? However, not every print bed offers the desired first layer adhesion.",n
+208,24,p,"As mentioned above, budget printers often come with this limitation. But there is always another way out of every problem.",n
+210,24,p,"By choosing a glass plated print beds, you can astonishingly enhance the first layer adhesion. Some materials may not have problems with a simple one that came along with your 3D printer.",n
+212,24,p,"So, you can keep using it. And, swap it with the updated build plate when needed. This way, you can also increase the self-life of these platforms. Also, glass plates provide a better surface finish. Hence, you can ultimately achieve better print quality.",n
+215,24,div,Related article,n
+225,24,h2,Mask,y
+229,24,p,"Are we not always advised to work in a well-ventilated room when 3D printing? There is a reason for this. When you heat plastic-based materials, it emits noxious and irritating fumes.",n
+231,24,p,"Depending on which filament you use, the emission differs. Some release excess of these gases and others may not do so at all.",n
+233,24,p,These gases could be highly dangerous if inhaled with prolonged exposure. Those filaments that are free from the emission of harmful gases do release microparticles when heated which may pose a threat to the respiratory system.,n
+235,24,p,"Looking at all these challenges, and understanding that not every 3D printer comes with an enclosed compartment, it is important to include the dust mask in the list of essentials.",n
+237,24,p,"These dust masks are a huge requirement for those working very closely around the 3D printers. Even with a ventilated room, you must take extra precautions to keep yourself safe.",n
+239,24,p,"You can take these off when leave the room where printing is in progress. However, do not forget to put it on again when you re-enter the workshop.",n
+241,24,h2,Build Plate Sticker,y
+245,24,p,Need extra adhesion? The build plate stickers are yet again a very awesome alternative for 3D printing users. The best part is that the stickers could accommodate almost every filament available.,n
+247,24,p,"Hence, you do not have to work in different directions when printing materials with varying properties.",n
+249,24,p,"To use the stickers, you just have to stick these directly over the print platform. And, after a 3D printing project is over, you can take it off just like that.",n
+257,24,h2,Digital Calliper,y
+261,24,p,"As you know that 3D printing brings with itself a huge amount of measurements for maintaining accuracy and preciseness of the parts. Hence, you would need a digital caliper time and again.",n
+263,24,h2,Sand Paper,y
+267,24,p,"Post-processing to perfect the finishing of the parts would definitely help enhance the looks of your models. And, if you are already putting so much effort into 3D Print an object, why not work a little more to perfect it completely.",n
+269,24,p,"The sandpaper is the first step before you plan to polish or paint your printed part. So, keeping them in stock is not just an option but essentially important.",n
+271,24,h2,Super Glue and Acetone,y
+275,24,p,"You can only go on counting when thinking about the usage of super glue when 3D printing. It can repair parts that are broken, fill gaps, connect two 3D parts together, etc.",n
+277,24,p,It is very effective and must be on the list of must-haves. The 3D printer supplies aren’t complete without including it in the list.,n
+279,24,p,"Similarly, acetone is also a bonding agent that works best with ABS. It not only provides amazing bond strength but could help remove the difference at sites where the parts connect together. Hence, it also provides a better finish to the parts.",n
+287,24,h2,Different Diameter Nozzle Set,y
+291,24,p,"Varying nozzle diameter creates a huge difference in the print quality of the parts. For instance, the smaller diameter offers high precision and a negligible layer difference.",n
+293,24,p,"However, the bigger one would not be that great with hiding the layer difference. On the other hand, the bigger ones can create models faster than the smaller ones.",n
+295,24,p,"So, depending on the need for the 3D printing project, you may have to swap these nozzles from time to time. Now you know why these are important to include in the 3D printer supplies.",n
+298,24,div,Suggested article,n
+302,24,h2,Cleaning Tools,y
+306,24,p,"You must ensure that the nozzle and extruders are free from clogging. Or, the problem could take a difficult shape. You may find the filament struggling to leave the print head.",n
+308,24,p,"Or, they may not come out at all. And, this will create a problem when printing. Would you like that to happen?",n
+310,24,p,"After every print, you must clean your nozzle. This is why the nozzle cleaning tools are necessary.",n
+312,24,h2,Tool Set,y
+316,24,p,"There are certain parts that have finer details and uses a lot of support to stay up when printing. Hence, these parts may not turn out to be as smoother as those without fine details. Hence, you must keep carving tools along with you to give these parts the necessary makeup.",n
+318,24,h2,Spatula,y
+322,24,p,"The first layer adhesion could become messy when trying to remove 3D parts from the print bed. And, you will need a set of tools to get these out of the build plate.",n
+324,24,p,"The most popular and easy to use option is the set of spatulas. These are simple to work with and cannot be ignored when working with FDM 3D printers. These are the most essential. So, never forget to include these with the 3D printer supplies.",n
+326,24,h3,The Conclusion,n
+328,24,p,"Why do we need to stress so much on the 3D printing accessories? Don’t you want to create flawless parts without looking for supplies that may not be available when needed? We all want that, isn’t it?",n
+330,24,p,"Hence, one must take an extra case when choosing among the different 3D printer supplies and selecting the ones that are very much needed. Or else, you may never know how far your objects can go in terms of perfection.",n
+356,23,div,,n
+361,356,div,,n
+363,361,span,Previous,n
+365,361,h4,Wax 3D Printer - How They Work and Which to Choose?,n
+370,356,div,,n
+372,370,span,Next,n
+374,370,h4,3D Print Heat Sink - How to Make a Heat Sink,n
+379,23,div,,n
+381,379,h4,Editorial Team,n
+385,379,p,Stay updated on the recent happenings in 3D Printing and be the first to know when an awesome product hits the market.,n
+387,23,div,,n
+389,387,div,RECOMMENDED FOR YOU,n
+390,387,div,,n
+405,390,h3,Best Wanhao 3D Printer Brand Resins – Buyer’s Guide,n
+422,390,h3,Waterproofing 3D Prints,n
+439,390,h3,Klipper 3D Printer Firmware,n
+456,390,h3,How to 3D Print Your Favorite Marvel Superhero at Home,n
+467,1,div,,n
+469,467,div,,n
+471,469,div,About Us,n
+474,469,p,Looking for the latest releases in the industry or want to learn about the inside Tips to take your 3D Printing skills up a notch? Pick3DPrinter is where to come. Stay updated on the recent happenings and be the first to know when an awesome product hits the market.,n
+477,467,div,,n
+478,477,div,,n
+480,478,div,Information,n
+482,478,ul,,n
+484,482,li,About Us,n
+486,482,li,Use,n
+488,482,li,Privacy Policy,n
+490,482,li,Content Policies,n
+492,482,li,Write For Us,n
+494,477,div,,n
+496,494,div,Quick Links,n
+498,494,ul,,n
+500,498,li,Best 3D Printer,n
+502,498,li,Free 3D Modeling Software,n
+504,498,li,Metal 3D Printer,n
+506,498,li,Cheap 3D Printer,n
+508,498,li,3D Printer Files,n
+510,498,li,CNC Router,n
+512,498,li,3D Printing Book,n
+516,467,div,,n
+517,516,div,,n
+519,517,div,Sign Up,n
+522,517,p,"Join 10,000+ Subscribers",n
+534,516,div,Follow Us,n
+540,1,div,,n
+541,540,text,2022 Pick3DPrinter.com. All rights reserved.,n
+543,540,div,Disclosure Policy Mail Us,n
+547,540,br,Amazon Associates Disclaimer,n
+552,0,div,"This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Read More ACCEPT",n
+558,0,div,Privacy and Cookies Policy,n
+561,0,div,,n
+564,561,span,Close,n
+567,561,div,,n
+569,567,div,,n
+571,569,h4,Privacy Overview,n
+574,569,div,"This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are as essential for the working of basic functionalit...",n
+576,567,div,,n
+577,576,div,,n
+578,577,text,Necessary,n
+582,577,div,Necessary,n
+584,577,span,Always Enabled,n
+588,576,div,Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.,n
+594,561,div,SAVE and ACCEPT,n
+605,0,ul,,n
+611,605,li,Home,n
+613,605,li,Guides,n
+615,605,li,Reviews,n
+617,605,li,Best 3D Printers,n
+619,605,li,3D Pens,n
+621,605,li,Resources,n
+623,605,li,News,n
+625,605,li,Buy 3D Printer,n
+627,605,li,Contact Us,n
+640,0,div,,n
+643,640,h5,Compare items,n
+644,640,div,,n
+645,644,ul,,n
+647,645,li,3D Printers,n
+652,645,li,3D Scanners,n
+660,644,span,Compare,n
+666,0,h5,Shopping cart,n
+671,0,div,,n
+672,671,form,,n
+674,672,h2,FREE 3D PRINTING EBOOK,n
+681,672,p,Start 3D Printing Business From Home,n
+683,672,div,Invalid email address,n
+693,672,div,We promise not to spam you. You can unsubscribe at any time.,n
+698,671,div,Thanks,n

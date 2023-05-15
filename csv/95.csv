@@ -1,0 +1,652 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+3,1,div,Free USA Shipping on Orders over $35!,n
+9,1,ul,,n
+11,9,li,Account,n
+13,9,li,Lists,n
+18,9,li,Pens,y
+22,9,div,,n
+27,22,li,Fountain Pens,y
+90,22,li,Ballpoint Pens,y
+123,22,li,Gel Pens,y
+177,22,li,Multi Pens,y
+225,22,li,Rollerball Pens,y
+258,22,li,Brush Pens,y
+303,22,li,Calligraphy Pens,y
+342,22,li,Comic and Manga Pens,y
+360,22,li,Markers and Felt Tip Pens,y
+438,22,li,Highlighters,y
+474,22,li,Styli,y
+495,9,li,Refills and Inks,n
+499,9,div,,n
+504,499,li,Bottled Inks,y
+540,499,li,Ink Cartridges,y
+570,499,li,Pen Refills,y
+597,499,li,Parts and Accessories,y
+664,9,li,Pencils,y
+668,9,div,,n
+673,668,li,Drafting Pencils,y
+703,668,li,Mechanical Pencils,y
+757,668,li,Lead Holders,y
+786,668,li,Wooden Pencils,y
+819,668,li,Pencil Leads,y
+879,9,li,Cases and Bags,y
+883,9,div,,n
+888,883,li,Pencil Cases,y
+948,883,li,Bags,y
+992,883,li,Other Cases,y
+1010,883,li,Apparel,y
+1027,9,div,,n
+1032,1027,li,Notebooks,y
+1059,1027,li,Folders,y
+1075,1027,li,Planners,y
+1113,1027,li,Journals,y
+1133,1027,li,Memo Pads,y
+1161,1027,li,Sketchbooks,y
+1185,1027,li,Stationery Paper,y
+1209,9,li,Arts and Crafts,n
+1213,9,div,,n
+1266,1213,li,Painting Supplies,y
+1316,1213,li,Stamping Supplies,y
+1336,1213,li,Stickers,y
+1362,9,li,Office,n
+1366,9,div,,n
+1371,1366,li,Book Accessories,y
+1395,1366,li,Correction Tapes and Pens,y
+1465,1366,li,Paper Clips,y
+1489,1366,li,Scissors and Cutters,y
+1506,1366,li,Sticky Notes,y
+1558,9,li,Brands,n
+1563,9,li,Shop By,n
+1567,9,div,,n
+1572,1567,li,2022,n
+1594,1567,li,Stationery Gift Sets and Bundles,n
+1615,1567,li,Gifts by Recipient,n
+1696,1567,li,Gifts by Price,n
+1733,1567,li,Top Stationery Gifts,n
+1799,1567,li,Curated Collections,n
+1821,9,li,Guides,n
+1825,9,div,,n
+1830,1825,li,Beginners' Guides,n
+1854,1825,li,Guides,n
+1881,1825,li,Guides,n
+1902,1825,li,Guides,n
+1923,1825,li,Guides,n
+1947,1825,li,Guides,n
+1968,1825,li,Guides,n
+1992,1825,li,Guides,n
+2013,1825,li,Guides,n
+2031,1825,li,Guides,n
+2055,1825,li,Guides,n
+2076,1825,li,Guides,n
+2108,1825,li,View All Guides,n
+2120,9,li,New Arrivals,n
+2123,9,li,Log In,n
+2148,0,div,,n
+2150,2148,div,,n
+2152,2150,div,JetPens.com ® Free USA Shipping on Orders over $35!,n
+2156,2150,div,,n
+2158,2156,div,Your Account,n
+2160,2156,div,Lists,n
+2162,2156,div,Log In,n
+2163,2148,div,,n
+2179,2163,div,,n
+2181,2179,div,Cart,n
+2183,2179,div,$0.00,n
+2185,2163,div,,n
+2188,2185,table,,n
+2190,2188,td,Pens,n
+2192,2188,td,Refills and Inks,n
+2194,2188,td,Pencils,n
+2196,2188,td,Cases and Bags,n
+2198,2188,td,Paper,n
+2200,2188,td,Arts and Crafts,n
+2202,2188,td,Office,n
+2204,2188,td,Brands,n
+2207,2188,span,Shop By,n
+2209,2188,td,Guides,n
+2211,2188,td,New Arrivals,n
+2213,2185,div,,n
+2218,2213,div,,n
+2262,2218,li,Ballpoint Pens,y
+2282,2218,li,Gel Pens,y
+2313,2218,td,,n
+2316,2313,li,Multi Pens,y
+2345,2313,li,Rollerball Pens,y
+2392,2218,li,Calligraphy Pens,y
+2416,2218,li,Comic and Manga Pens,y
+2426,2218,li,Markers and Felt Tip Pens,y
+2473,2218,td,,n
+2476,2473,li,Highlighters,y
+2497,2473,li,Styli,y
+2511,2213,div,,n
+2515,2511,li,Bottled Inks,y
+2537,2511,li,Ink Cartridges,y
+2555,2511,li,Pen Refills,y
+2571,2511,li,Parts and Accessories,y
+2614,2213,div,,n
+2618,2614,li,Drafting Pencils,y
+2636,2614,li,Mechanical Pencils,y
+2670,2614,li,Lead Holders,y
+2689,2614,li,Wooden Pencils,y
+2709,2614,li,Pencil Leads,y
+2752,2213,div,,n
+2756,2752,li,Pencil Cases,n
+2794,2752,li,Bags,n
+2819,2752,td,,n
+2828,2819,li,Other Cases,n
+2837,2819,li,Apparel,n
+2844,2213,div,,n
+2848,2844,li,Notebooks,y
+2869,2844,li,Folders,y
+2878,2844,li,Planners,y
+2903,2844,li,Journals,y
+2916,2844,li,Memo Pads,y
+2936,2844,li,Sketchbooks,y
+2950,2844,li,Stationery Paper,y
+2966,2213,div,,n
+3017,2966,li,Painting Supplies,y
+3050,2966,li,Stamping Supplies,y
+3063,2966,li,Stickers,y
+3082,2213,div,,n
+3083,3082,td,,n
+3086,3083,li,Book Accessories,y
+3104,3083,li,Correction Tapes and Pens,y
+3165,3082,li,Paper Clips,y
+3178,3082,td,,n
+3184,3178,li,Scissors and Cutters,y
+3194,3178,li,Sticky Notes,y
+3229,2213,div,,n
+3230,3229,td,,n
+3233,3230,li,2022,n
+3245,3230,li,Stationery Gift Sets and Bundles,n
+3257,3229,li,Gifts by Recipient,n
+3309,3229,li,Gifts by Price,n
+3340,3229,li,Top Stationery Gifts,n
+3388,3229,li,Curated Collections,n
+3401,2213,div,,n
+3402,3401,td,,n
+3405,3402,li,Beginners' Guides,n
+3418,3402,li,Guides,n
+3431,3401,td,,n
+3434,3431,li,Guides,n
+3445,3431,li,Guides,n
+3456,3431,li,Guides,n
+3467,3401,td,,n
+3470,3467,li,Guides,n
+3481,3467,li,Guides,n
+3494,3467,li,Guides,n
+3503,3401,td,,n
+3506,3503,li,Guides,n
+3515,3503,li,Guides,n
+3528,3503,li,Guides,n
+3537,3401,td,,n
+3540,3537,li,Guides,n
+3567,3537,li,View All Guides,n
+3587,0,div,,n
+3590,3587,div,,n
+3591,3590,div,,n
+3593,3591,div,The Best Manga and Comic Art Supplies,n
+3595,3591,div,"May 12, 2020 - Posted by Kristin to Guides , Pencils , Brush Pens , Pens , Markers and Felt Tip Pens , Mechanical Pencils , Comic or Manga Pens , Wooden Pencils , Inks , Colored Pencils , Drawing Inks",n
+3618,3590,div,,n
+3622,3618,p,"If you’re a fan of Superman or Bakuman, you know that a series of well-designed images lets you tell stories with an entirely different feel than text alone. You can draw with anything that makes marks on paper, but to join the ranks of mangaka and comic artists it helps to have the right tools. Read this guide to learn how to choose comic and manga supplies and see our recommendations for each part of the comic-making process, or watch the video below to see them in action.",n
+3630,3618,div,Watch our video to see the best art supplies,n
+3631,3618,div,,n
+3633,3631,div,Contents,n
+3636,3631,ul,,n
+3638,3636,li,Considerations,n
+3639,3636,li,,n
+3640,3639,text,Recommendations,n
+3641,3639,ul,,n
+3643,3641,li,Paper,n
+3645,3641,li,Penciling Tools,n
+3647,3641,li,Inking Tools,n
+3649,3641,li,Coloring and Toning Tools,n
+3651,3641,li,Accessories,n
+3653,3636,li,More Comic and Manga Resources,n
+3655,3636,li,Compare These Tools,n
+3657,3636,li,How We Approach Research and Testing,n
+3659,3636,li,Conclusion,n
+3660,3618,div,,n
+3662,3660,div,CONSIDERATIONS,n
+3663,3660,div,,n
+3665,3663,div,Compatibility With Other Media,n
+3667,3663,div,,n
+3670,3667,div,Look,n
+3672,3667,div,"Most comics are made with many different art supplies, such as pencils, ink, and markers. This makes it very important to choose media that work well together. If you plan to color your comic with watercolors, any ink that you use should be entirely waterproof. If you use alcohol-based markers, the ink must be Copic proof. Likewise, ink should resist lifting when erased to prevent lines from losing their crisp detail.",n
+3673,3660,div,,n
+3675,3673,div,Convenience,n
+3677,3673,div,,n
+3680,3677,div,Tools with built-in ink reservoirs are easier to carry.,n
+3682,3677,div,"Many artists prefer using traditional drawing tools like dip pens and brushes because they produce dynamic lines and texture effects, but others appreciate brush pens and fineliners because they let them draw anywhere without having to constantly re-dip or risk spilling ink bottles. Choose tools that suit your work habits but still allow you to draw in your preferred style.",n
+3683,3660,div,,n
+3685,3683,div,Line Variation,n
+3687,3683,div,,n
+3690,3687,div,Look,n
+3692,3687,div,"Flexible dip pen nibs, brush pens, and brushes allow you to make lines of varying widths with the same pen. This gives drawings character and can be used to suggest movement. Fineliners make consistent lines of one thickness. This is good for drawing rigid, manmade objects. If you use fineliners, make sure to keep several tip sizes on hand so that you can make a variety of line weights.",n
+3693,3660,div,,n
+3695,3693,div,Longevity,n
+3697,3693,div,,n
+3700,3697,div,Pens with lightfast ink resist fading over time.,n
+3702,3697,div,"Some art materials deteriorate over time, especially when exposed to light. This is fine for sketches and practice pieces that you don’t intend to keep, but you never know what you’ll wish you still had in a few years. Keep original art in good shape by choosing supplies that are labeled as lightfast, fade-resistant, or light-resistant to prevent damage from sunlight. Materials marked as acid-free or pH-neutral are designed to not react with paper over time. Supplies with an “archival” designation have all of these qualities.",n
+3703,3660,div,,n
+3705,3703,div,Drawing Process,n
+3707,3703,div,,n
+3710,3707,div,the drawing process.,n
+3712,3707,div,"Comics are typically drawn in stages, ranging from preliminary pencil sketches to final coloring. The best qualities for each stage of the drawing process are different. For example, it’s useful for penciling marks to be both easy to see and easy to remove, but inked lines should be very dark, crisp, and permanent.",n
+3713,3618,div,,n
+3715,3713,div,RECOMMENDATIONS,n
+3716,3713,div,,n
+3721,3716,p,"Comic paper is usually smooth to allow easy use with dip pens, other fine-tipped tools like fineliners, and markers. It should be strong enough to stand up to heavy use. It’s also best to use paper that is the standard size for your type of comic. If you only plan to make comics for personal enjoyment, paper size is less important. Generally speaking, you should work with paper that is larger than the finished project will be. This leaves room for you or your publisher to crop and position your art on the page.",n
+3725,3716,div,,n
+3730,3725,div,,n
+3731,3730,text,Deleter Comic Paper is designed for professional Japanese comic artists. Its smooth surface works especially well with pen and ink but is also suitable for pencil and marker. It is sturdy enough to support reworking and the use of screentones yet thin enough to use easily with a lightbox.,n
+3734,3730,p,Deleter Comic Paper comes in three sizes,n
+3744,3725,p,"They also come in blank versions for those who don’t need guides. Choose the B4 size if you plan to publish professionally. The A4 size is appropriate for personal use, publication in fan magazines, and independent publishing.",n
+3748,3713,div,,n
+3753,3748,p,"Most comic artists draw their artwork in pencil before going over it again with ink or sending it to specialized inkers. You can use either standard graphite or non-photo blue pencils for this step. Some artists work with both and use the blue pencil for underdrawing. Non-photo blue, also called non-repro blue, is a light blue color that is not picked up by copy machines and is easy to remove with editing software. If you use graphite pencils, choose dark grades that leave clearly visible marks without excessive pressure but won’t smudge too much. This makes them easier to erase later. Leads in the HB-4B range work well.",n
+3754,3748,div,,n
+3756,3754,div,Non-Photo Blue,n
+3757,3754,div,,n
+3759,3757,div,Pencil Lead,n
+3762,3757,div,,n
+3765,3762,div,Pilot Color Eno Neox Mechanical Pencil Lead - Soft Blue,n
+3767,3762,div,"Our favorite non-photo blue mechanical pencil lead is the Pilot Color Eno Neox . Its marks are easy to see but also erase remarkably well for a colored lead. It has low resistance to both ink and graphite, so you can draw over it freely. The Soft Blue Pilot Color Eno Neox Lead is available with a matching Pilot Color Eno Mechanical Pencil but you can also use it with any 0.7 mm mechanical pencil . Read our Guide to Colored Mechanical Pencil Leads to see test results for this and other leads.",n
+3776,3754,div,,n
+3778,3776,div,Wooden Pencil,n
+3781,3776,div,,n
+3784,3781,div,Uni Arterase Color Pencil - Aqua,n
+3786,3781,div,"If woodcase pencils are more your style, you can’t go wrong with the Uni Arterase in Aqua . It erases more easily than any other colored pencil we’ve tried and is beautifully smooth. It also makes easily-visible lines with little pressure. You can see test results for the Uni Arterase in our Guide to Colored Pencils .",n
+3791,3748,div,,n
+3793,3791,div,Graphite,n
+3794,3791,div,,n
+3796,3794,div,Pencil Lead,n
+3799,3794,div,,n
+3802,3799,div,Pilot Neox Graphite Lead,n
+3804,3799,div,Pilot also makes our top mechanical pencil lead for drawing. Their Neox Leads are made with high-purity graphite that makes them smoother and darker than other leads in the same grade. They also erase exceptionally well. You can learn more about these leads in our Mechanical Pencil Lead Comparison .,n
+3809,3791,div,,n
+3811,3809,div,Wooden Pencils,n
+3814,3809,div,,n
+3817,3814,div,Uni Mitsubishi Hi-Uni Pencils,n
+3819,3814,div,"Uni Uni Mitsubishi Hi-Uni Pencils are our favorite wooden pencils for art. They are wonderfully creamy and leave rich, dark lines with the lightest of touches. Check out our Guide to Graphite Drawing Pencils to learn more about these luxurious pencils and see a video of them in action.",n
+3824,3713,div,,n
+3827,3824,div,,n
+3829,3827,div,Block Eraser,y
+3832,3827,div,,n
+3835,3832,div,Kokuyo Campus Student Eraser For 2B Lead,n
+3837,3832,div,"A good eraser is essential to clear away unneeded pencil marks without smudging the overall piece. Any soft, non-abrasive block eraser will work, but we are especially partial to the Kokuyo Campus Student Eraser For 2B Lead . Not only is it specifically designed to remove softer lead grades like those used in penciling, but we’ve found that it works unusually well with colored pencils as well.",n
+3842,3824,div,,n
+3844,3842,div,Kneaded Eraser,y
+3847,3842,div,,n
+3850,3847,div,Prismacolor Kneaded Rubber Erasers,n
+3852,3847,div,"If you need to lighten or remove very small areas of graphite, the Prismacolor Kneaded Rubber Eraser is your best option. Its soft formulation lets you mold it into precise shapes and lift graphite without harsh rubbing.",n
+3855,3824,div,,n
+3857,3855,div,Eraser Shield,y
+3860,3855,div,,n
+3863,3860,div,Staedtler Mars Erasing Shield,n
+3865,3860,div,The Staedtler Mars Erasing Shield lets you protect pencil marks you want to keep while leaving everything else clear. You can do this by carefully placing the shield over the drawing so that only the lines you want to get rid of are exposed. This is helpful if stray pencil lines are pressed too firmly into the paper to be removed with a kneaded eraser or if you want to erase everything up to a precise border.,n
+3868,3713,div,,n
+3873,3868,p,"Comic and manga artists can choose between many different inking tools to deliver a variety of effects. Brushes and dip pens offer expressive line variation, while fineliners are ideal for straight lines and details.",n
+3874,3868,div,,n
+3876,3874,div,Brushes,y
+3877,3874,div,,n
+3879,3877,div,Natural-Hair Brushes,n
+3882,3877,div,,n
+3885,3882,div,Winsor and Newton Series 7 Kolinsky Brushes,n
+3887,3882,div,"Traditional paint brushes let you apply ink with flexibility and dynamism. They also allow you to add textures such as dry brush effects. Winsor and Newton Series 7 Kolinsky Brushes are some of the best brushes you can get. Their bristles are made from natural kolinsky hair, which gives them extraordinary point retention and spring for sharp, controlled lines.",n
+3890,3874,div,,n
+3892,3890,div,Felt-Tip Brush Pen,y
+3895,3890,div,,n
+3898,3895,div,Zebra Disposable Brush Pens,n
+3900,3895,div,"Whether you’re just learning to use a brush or have a lot of experience, the Zebra Disposable Brush Pen is a great tool. As a brush pen rather than a paint brush, it holds its ink in a built-in reservoir and never needs to be re-dipped or cleaned. Its felt tip is firm but flexible, which allows it to provide line variation while staying easy to control. The Zebra Disposable Brush Pen comes in three sizes and is both waterproof and Copic proof. Check out our Guide to Brush Pens for Comics for more suggestions.",n
+3905,3874,div,,n
+3907,3905,div,Bristle-Tip Brush Pen,y
+3910,3905,div,,n
+3913,3910,div,Pentel Pocket Brush Pens,n
+3915,3910,div,"The Pentel Pocket Brush Pen is the best brush pen for those who appreciate the convenience of self-contained ink but still want the expressiveness of a bristle tip. Its synthetic bristles can produce fine details and broad strokes that give art a lively look. The Pentel Pocket Brush Pen uses a waterproof, Copic proof, and lightfast pigment ink that is refillable with proprietary cartridges . If you want to try other inks, consider the Kuretake no. 13 Fountain Brush Pen . Its ink is not waterproof, but it has a similarly expressive bristle tip and is compatible with the Platinum Fountain Pen Converter .",n
+3924,3868,div,,n
+3926,3924,div,Dip Pen Nibs and Holders,y
+3927,3924,div,,n
+3929,3927,div,All-Purpose Nib,y
+3932,3927,div,,n
+3935,3932,div,Zebra G Nib,n
+3937,3932,div,"The G Nib is the quintessential manga pen nib . It has a sharp tip and is flexible enough to deliver both broad and thin lines, which makes it ideal for showing movement and drawing people. The Zebra G Nib is slightly more flexible than G Nibs from other manufacturers. This lets you use more line variation but makes it a little harder to control. If you’re just starting out, Zebra’s Hard G is a good choice. It has a firmer touch that is easier to handle.",n
+3946,3924,div,,n
+3948,3946,div,Fine Nib,y
+3951,3946,div,,n
+3954,3951,div,Tachikawa Comic Pen Nib - Maru Model,n
+3956,3951,div,"The Tachikawa Maru Nib is extremely small, which allows it to draw the finest of lines. This makes it perfect for hairlines, delicate strokes, and concentrated details. Its relative stiffness helps it make consistent marks even if you use a lot of pressure.",n
+3959,3868,div,,n
+3961,3959,div,Nib Holder,y
+3964,3959,div,,n
+3967,3964,div,Tachikawa Comic Pen Nib Holder - Model 40,n
+3969,3964,div,"Even the best nib is useless without a holder to put it in. Our favorite is the Tachikawa Comic Pen Nib Holder - Model 40 . Many nib holders can only use a few different nibs, but the Model 40 uses double rubber rings to fit both regular nibs like the G nib and round nibs like the maru. It boasts a rubber grip to cushion your hand during long drawing sessions and comes with a cap to protect nibs during transport. If the cap isn’t important to you, Model 36 is just as comfortable and slightly cheaper.",n
+3974,3713,div,,n
+3976,3974,div,Dip Pen Ink,y
+3977,3974,div,,n
+3979,3977,div,Black Ink,y
+3982,3977,div,,n
+3985,3982,div,Deleter Black 4 Manga Ink,n
+3987,3982,div,"Deleter Black 4 Manga Ink delivers the kind of intense, deeply black line that comic artists dream of. It is entirely waterproof when dry, does not smudge under Copic markers, and stubbornly resists lifting. Read our Guide to Drawing Inks for detailed test results for this and several other drawing inks.",n
+3991,3974,div,,n
+3993,3991,div,White Ink,y
+3996,3991,div,,n
+3999,3996,div,Speedball Pigmented Acrylic Calligraphy Ink,n
+4001,3996,div,"Although most comic art is done with black ink, white ink is an indispensable complement to this principal color. It allows artists to correct mistakes and add highlights to give their finished work polish. We recommend using white Speedball Pigmented Acrylic Calligraphy Ink . Although it’s not the most opaque white ink, it does cover mistakes and stands out well as a highlight. What makes it the best white ink for comics, however, is how easy it is to draw over. Dip pens, fineliners, brushes, Copic markers, and watercolors all make crisp marks without reacting with it. You can see how Speedball White Pigmented Acrylic Calligraphy Ink performed in our White Inks Guide .",n
+4006,3713,div,,n
+4008,4006,div,Fineliners,y
+4017,4006,div,,n
+4018,4017,text,"If you put a premium on portability or just need to use a straightedge, Copic Multiliner Pens are the pens for you. Like other fineliners and drawing pens , they have firm needle-point tips that produce little or no line variation but are ideal for use with a ruler or curve template. Their ink is highly pigmented, waterproof, Copic proof, and archival, so your art will stand the test of time.",n
+4026,4017,p,Copic Multiliners come in two versions,n
+4031,3713,div,,n
+4036,4031,p,"After you’ve inked your comic, it’s time to add the finishing touches. Whether you’re making a full color comic or black and white manga, these coloring and toning tools will take your art to the next level.",n
+4037,4031,div,,n
+4039,4037,div,Coloring Tools,y
+4041,4037,div,,n
+4042,4041,div,,n
+4045,4042,div,Copic Markers,n
+4047,4042,div,"Professional-quality Copic Markers lay down vivid, juicy color and blend easily. This allows artists to render smooth gradients and layer colors to form new hues. Their alcohol-based ink is waterproof, acid free, and guaranteed to deliver consistent color. These markers are refillable and have replaceable tips , which reduces waste and makes them more economical over time.",n
+4055,4041,p,"Copic Markers come in three varieties, all of which are double sided. The smaller Copic Ciao Markers are a good way to test out new colors and learn how to use alcohol markers. They have a brush tip on one end and a medium broad chisel tip on the other. Copic Sketch and Classic Markers are larger so they don’t need to be refilled as often, and have anti-roll body designs. Like the Copic Ciao, Copic Sketch Markers have both a brush tip and medium broad chisel tip. Each Copic Classic Marker comes with a broad chisel tip and fine bullet tip.",n
+4062,4031,div,,n
+4064,4062,div,Screen Tones,y
+4066,4062,div,,n
+4067,4066,div,,n
+4070,4067,div,Deleter Screen Tones,n
+4072,4067,div,"The classic look of black and white manga comes from translucent adhesive sheets called screen tones . These come in several designs to add shading and patterns to manga art. Although you can achieve shading with other methods such as stippling and ink washes, screen tones provide an even, professional look that is difficult to reproduce by hand.",n
+4076,4066,p,"To use a screen tone, lay the sheet over your drawing. Cut around the area you want to tone with the Deleter Tone Knife or other very sharp blade, leaving some space. Peel the adhesive backing off the cut out shape and position it over the image. Press down on the screen tone to secure it to the paper. A hard tool like the Deleter Tone Hera Spatula helps to do this smoothly. Finally, trim away any excess screen tone for a clean finish.",n
+4081,3713,div,,n
+4086,4081,p,"In addition to pencils, pens, markers, and brushes, there are a host of supporting tools to help you draw consistent lines, accurately render shapes, and keep your work sharp. We’ve gathered a sampling of useful supplies below.",n
+4087,4081,div,,n
+4089,4087,div,Templates and Guides,y
+4090,4087,div,,n
+4092,4090,div,Lettering Guide,y
+4095,4090,div,,n
+4098,4095,div,Staedtler Ames Lettering Guide,n
+4100,4095,div,"Although many comic and manga artists letter their art on a computer, hand lettering provides a personal, organic look that digital lettering lacks. The classic Staedtler Ames Lettering Guide makes it much easier to produce consistently-sized and -spaced lettering by hand. Paired with a straightedge, it forms an adjustable template for drawing precise guidelines and slope lines for letters from 1 or 16 of an inch to two inches in height.",n
+4103,4081,div,,n
+4105,4103,div,Curves and Rulers,y
+4106,4103,div,,n
+4108,4106,div,French Curves,y
+4111,4106,div,,n
+4114,4111,div,Deleter French Curves,n
+4116,4111,div,"As simple as they seem, curves are exceptionally difficult to draw freehand. This set of three French Curves provides guides for drawing a wide variety of soft and sharp curves. Each has a raised edge to prevent ink from seeping under the edge for a sharp line.",n
+4119,4103,div,,n
+4121,4119,div,Flexible Ruler,y
+4124,4119,div,,n
+4127,4124,div,Staedtler Mars Flexible Curve Ruler,n
+4129,4124,div,"While curve templates provide fixed shapes to trace, the Staedtler Mars Flexible Curve Ruler lets you form it to any curve you want. Its resilient body is easy to bend but firm enough to hold its shape until you deliberately bend it again, so you can pick it up and repeat the same curve multiple times. This ruler is best for long, undulating curves as it can’t make tight arcs. A special edge prevents ink from bleeding under the curve.",n
+4132,4103,div,,n
+4134,4132,div,Compass,y
+4137,4132,div,,n
+4140,4137,div,Kutsuwa Stad Compass with Mechanical Pencil,n
+4142,4137,div,"If you need to draw a perfect circle or form larger curves, a simple compass can’t be beat. We prefer the Kutsuwa Stad Compass for its versatility. This sturdy compass uses standard 0.5 mm mechanical pencil leads. Not only does this result in a thinner line than most compasses make, but you can use whatever 0.5 mm mechanical pencil lead you prefer - even a non-photo blue lead like Uni NanoDia Color Lead in Mint Blue . When folded up, the Kutsuwa Stad Compass doubles as a surprisingly comfortable mechanical pencil for writing or drawing.",n
+4149,4103,div,,n
+4151,4149,div,Straight Ruler,y
+4154,4149,div,,n
+4157,4154,div,Midori Multi Ruler,n
+4159,4154,div,"The Midori Multi Ruler is a convenient and portable tool for drawing straight lines. It spans 30 cm when extended but folds up to half that length for easy storage. Although it also comes in an aluminum version, we recommend the clear model because it is easier to position over a drawing. This ruler also has a built-in protractor for measuring angles. It is not specifically designed with a raised edge, but if you use it upside down the bevel will keep ink from seeping beneath it.",n
+4164,4081,div,,n
+4166,4164,div,Anti-Smudge Tools,y
+4167,4164,div,,n
+4169,4167,div,Gloves,y
+4172,4167,div,,n
+4175,4172,div,SmudgeGuard Gloves,n
+4177,4172,div,"There’s nothing worse than accidentally smudging your carefully drawn lines. SmudgeGuard Gloves absorb ink and graphite that would otherwise get on your hand, preventing them from smearing on your paper. Their one- and two-finger designs cover only the part of the hand that touches the paper, which leaves your other fingers free for maximum dexterity.",n
+4180,4164,div,,n
+4182,4180,div,Dust Remover,y
+4185,4180,div,,n
+4188,4185,div,Deleter Feather Sweeper,n
+4190,4185,div,"Although it may seem more natural to brush eraser crumbs off of your paper with a hand, the Deleter Feather Sweeper is surprisingly useful. Its soft feathers clear eraser dust away with almost no pressure and won’t smear your artwork with skin oils or sweat.",n
+4193,3618,div,,n
+4195,4193,div,MORE COMIC and MANGA RESOURCES,n
+4197,4193,ul,,n
+4199,4197,li,Guide to Colored Mechanical Pencil Leads,n
+4201,4197,li,Guide to Colored Pencils,n
+4203,4197,li,Mechanical Pencil Lead Comparison,n
+4205,4197,li,Guide to Graphite Drawing Pencils,n
+4207,4197,li,Guide to Choosing an Eraser,n
+4209,4197,li,Guide to Brush Pens,n
+4211,4197,li,Guide to Manga Pen Nibs,n
+4213,4197,li,How to Use Manga Pen Nibs,n
+4215,4197,li,Guide to Nibs and Nib Holders,n
+4217,4197,li,Guide to Drawing Inks,n
+4219,4197,li,White Inks Guide,n
+4221,4197,li,Guide to White Ink Pens,n
+4223,4197,li,Guide to Fineliners,n
+4225,4197,li,Guide to Technical Pens,n
+4226,3618,div,,n
+4228,4226,div,COMPARE THESE TOOLS,n
+4231,4226,p,Do you want to review all of our recommended manga and comic supplies at once? Use our comparison tool to see their specifications side by side.,n
+4234,3618,div,,n
+4236,4234,div,HOW WE APPROACH RESEARCH and TESTING,n
+4240,4234,p,"Our writers draw on their personal expertise, consult our in-house subject matter experts, and do extensive research to make our guides as accurate and comprehensive as possible. We then test every finding that makes it through the research stage. Only the techniques and tools whose performance we personally confirm make it into our guides as recommendations.",n
+4241,3618,div,,n
+4243,4241,div,CONCLUSION,n
+4246,4241,p,"Comic artists and mangaka can draw with almost anything, but some tools give superior results. Are you a comic or manga artist? Let us know what supplies you use in the comments below!",n
+4248,4241,table,,n
+4264,4248,tr,,n
+4266,4264,td,Deleter Comic Paper,n
+4268,4264,td,"A4 , B4 , A6",n
+4278,4264,td,Ideal,n
+4294,4248,tr,,n
+4296,4294,td,Kokuyo Campus Student Eraser - For 2B Lead,n
+4304,4294,td,Erases soft graphite and colored pencils well.,n
+4305,4248,tr,,n
+4307,4305,td,Pilot Color Eno Neox Mechanical Pencil Lead,n
+4309,4305,td,7 mm,n
+4311,4305,td,8,n
+4315,4305,td,Non-photo blue mechanical pencil lead . Easy to draw and ink over.,n
+4318,4248,tr,,n
+4320,4318,td,Pilot Neox Graphite Lead,n
+4322,4318,td,"3 mm , 0.4 mm , 0.5 mm , 0.7 mm , 0.9 mm",n
+4336,4318,td,"Smooth, dark lead that erases well.",n
+4337,4248,tr,,n
+4339,4337,td,Prismacolor Kneaded Rubber Erasers,n
+4341,4337,td,"Medium , Large , Extra Large",n
+4351,4337,td,Moldable,n
+4352,4248,tr,,n
+4354,4352,td,Staedtler Mars Erasing Shield,n
+4362,4352,td,Protects drawings,n
+4363,4248,tr,,n
+4365,4363,td,Uni Arterase Color Pencils,n
+4369,4363,td,36,n
+4373,4363,td,Non-photo blue wooden pencil . Easy to draw and ink over.,n
+4376,4248,tr,,n
+4378,4376,td,Uni Mitsubishi Hi-Uni Pencils,n
+4386,4376,td,"Smooth, dark pencils that erase well.",n
+4402,4248,tr,,n
+4404,4402,td,Copic Multiliner Pens,n
+4406,4402,td,"0.03 mm , 0.05 mm , 0.1 mm , 0.2 mm , 0.25 mm , 0.3 mm , 0.35 mm , 0.5 mm , 0.7 mm , 0.8 mm , 1.0 mm",n
+4428,4402,td,10,n
+4432,4402,td,Firm needle-point tips. Good,n
+4435,4248,tr,,n
+4437,4435,td,Deleter Black 4 Manga Ink,n
+4439,4435,td,30 ml,n
+4445,4435,td,"Very dark, resists lifting.",n
+4446,4248,tr,,n
+4448,4446,td,Pentel Pocket Brush Pens,n
+4450,4446,td,Medium,n
+4456,4446,td,Expressive synthetic bristle tip. Refillable .,n
+4459,4248,tr,,n
+4461,4459,td,Speedball Calligraphy Ink,n
+4463,4459,td,4 oz,n
+4465,4459,td,11,n
+4469,4459,td,Easy to write and draw over.,n
+4470,4248,tr,,n
+4472,4470,td,Tachikawa Comic Pen Nib Holder - Model 40,n
+4480,4470,td,Compatible with both regular and round nibs. Comfortable rubber grip and protective cap.,n
+4481,4248,tr,,n
+4483,4481,td,Tachikawa Comic Pen Nib - Maru Model,n
+4491,4481,td,"Firm, fine tip. Good",n
+4492,4248,tr,,n
+4494,4492,td,Winsor and Newton Series 7 Kolinsky Brushes,n
+4496,4492,td,"Round 000 , Round 00 , Round 0 , Round 1 , Round 2",n
+4510,4492,td,"High-quality kolinsky hair brushes. Excellent spring, point retention, and fluid capacity.",n
+4511,4248,tr,,n
+4513,4511,td,Zebra Disposable Brush Pens,n
+4515,4511,td,"Extra Fine , Fine , Medium",n
+4525,4511,td,Firm felt brush tip. Easy to control.,n
+4526,4248,tr,,n
+4528,4526,td,Zebra G Nib,n
+4530,4526,td,"Chrome , Titanium , Hard",n
+4536,4526,td,2,n
+4540,4526,td,"Sharp, flexible tip. Good",n
+4556,4248,tr,,n
+4558,4556,td,Copic Markers,n
+4560,4556,td,"Ciao , Sketch , Classic",n
+4566,4556,td,359,n
+4568,4556,td,Yes,n
+4570,4556,td,"Intense, easily blended color.",n
+4571,4248,tr,,n
+4573,4571,td,Deleter Screen Tones,n
+4575,4571,td,182 mm x 253 mm,n
+4577,4571,td,5,n
+4581,4571,td,"Give gray tones and patterns an even, professional look.",n
+4597,4248,tr,,n
+4599,4597,td,Deleter Feather Sweeper,n
+4601,4597,td,Small,n
+4607,4597,td,Gently brushes away eraser dust without smudging.,n
+4608,4248,tr,,n
+4610,4608,td,Deleter French Curves,n
+4612,4608,td,"Small , Medium , Large",n
+4622,4608,td,Templates,n
+4623,4248,tr,,n
+4625,4623,td,Kutsuwa Stad Compass with Mechanical Pencil,n
+4627,4623,td,5 mm,n
+4633,4623,td,Compass uses 0.5 mm leads and doubles as a mechanical pencil.,n
+4636,4248,tr,,n
+4638,4636,td,Midori Multi Rulers,n
+4646,4636,td,"Compact, clear ruler that doubles as a protractor. Also available in aluminum .",n
+4649,4248,tr,,n
+4651,4649,td,SmudgeGuard Gloves,n
+4653,4649,td,"XS , S , M , L , XL",n
+4667,4649,td,One- and two-finger gloves protect against smudges.,n
+4668,4248,tr,,n
+4670,4668,td,Staedtler Ames Lettering Guide,n
+4678,4668,td,Helps you draw precise guidelines and slope lines. Adjustable.,n
+4679,4248,tr,,n
+4681,4679,td,Staedtler Mars Flexible Curve Ruler,n
+4689,4679,td,Bendable ruler.,n
+4694,3618,div,We used all of the recommended products in this guide to make this comic. Can you tell where we used each one?,n
+4695,3618,div,,n
+4697,4695,div,Shop This Post,n
+4699,4695,div,,n
+4702,4699,div,JetPens Manga Starter Kit,n
+4704,4699,div,Are you still not sure what supplies to get? Check out our JetPens Manga Starter Kit . It has everything you need to start drawing your very own comics and manga.,n
+4708,3618,ul,,n
+4710,4708,li,Printer-Friendly,n
+4711,4708,li,,n
+4713,4711,span,207,n
+4714,4711,text,Save,n
+4747,3587,div,,n
+4748,4747,div,,n
+4750,4748,h4,Posts by Category,n
+4755,4748,div,,n
+4756,4755,div,,n
+4763,4756,span,Guides,n
+4764,4756,div,,n
+4765,4764,div,,n
+4774,4765,span,Beginners' Guides,n
+4775,4765,div,,n
+4786,4775,div,Calligraphy Beginners' Guides,n
+4798,4775,div,Fountain Pen Beginners' Guides,n
+4810,4775,div,Pencil Beginners' Guides,n
+4822,4775,div,Stationery 101,n
+4834,4775,div,Watercolor Beginners' Guides,n
+4836,4764,div,,n
+4845,4836,span,Pens,n
+4846,4836,div,,n
+4857,4846,div,Ballpoint Pens,y
+4869,4846,div,Brush Pens,y
+4881,4846,div,Calligraphy Pens,y
+4893,4846,div,Comic or Manga Pens,y
+4905,4846,div,Fountain Pens,y
+4917,4846,div,Gel Pens,y
+4929,4846,div,Highlighters,y
+4941,4846,div,Markers and Felt Tip Pens,y
+4953,4846,div,Multi Pens,y
+4965,4846,div,Refills,y
+4977,4846,div,Rollerball Pens,y
+4989,4846,div,Stylus Pens,y
+4991,4764,div,,n
+5000,4991,span,Inks,y
+5001,4991,div,,n
+5012,5001,div,Drawing Inks,y
+5024,5001,div,Fountain Pen Inks,y
+5026,4764,div,,n
+5035,5026,span,Pencils,y
+5036,5026,div,,n
+5047,5036,div,Colored Pencils,y
+5059,5036,div,Drafting Pencils,y
+5071,5036,div,Lead Holders,y
+5083,5036,div,Mechanical Pencils,y
+5095,5036,div,Pencil Accessories,y
+5107,5036,div,Wooden Pencils,y
+5117,4764,div,Cases and Bags,y
+5119,4764,div,,n
+5128,5119,span,Paper,y
+5129,5119,div,,n
+5140,5129,div,Binders,y
+5152,5129,div,Hobonichi,y
+5164,5129,div,Notebooks,y
+5176,5129,div,Planners,y
+5188,5129,div,Sketchbooks,y
+5198,4764,div,Arts and Crafts,n
+5208,4764,div,Office,n
+5210,4764,div,,n
+5219,5210,span,Tutorials,n
+5220,5210,div,,n
+5231,5220,div,Calligraphy,n
+5243,5220,div,Crafts or DIY,n
+5255,5220,div,Pen Maintenance,n
+5267,5220,div,Pen Modifications,n
+5279,5220,div,Productivity,n
+5291,5220,div,Self-care,n
+5300,4755,div,Other,n
+5319,4747,div,,n
+5321,5319,h4,Search,n
+5325,5319,div,,n
+5327,5325,span,Eg.,n
+5328,5325,text,"fountain pens , calligraphy pens",n
+5333,5325,div,Search,n
+5344,0,div,,n
+5346,5344,div,,n
+5350,5346,div,,n
+5352,5350,h4,Gift Card,n
+5354,5350,div,Send an electronic gift card by email to a fellow pen junkie!,n
+5358,5346,div,,n
+5360,5358,h4,Last Chance,n
+5362,5358,div,Get it while supplies last.,n
+5366,5344,div,,n
+5367,5366,div,,n
+5369,5367,h4,Customer Service,n
+5370,5367,div,,n
+5372,5370,div,Contact Us,n
+5374,5370,div,FAQs,n
+5376,5370,div,Shipping Information,n
+5378,5370,div,Return Policy,n
+5380,5370,div,Accessibility,n
+5381,5366,div,,n
+5383,5381,h4,About JetPens,n
+5384,5381,div,,n
+5386,5384,div,About Us,n
+5388,5384,div,As Seen In,n
+5390,5384,div,Reviews and Testimonials,n
+5392,5384,div,Our Blog,n
+5394,5384,div,Careers,n
+5404,5366,div,,n
+5406,5404,div,Follow Us,n
+5407,5404,ul,,n
+5410,5407,li,JetPens Blog,n
+5413,5407,li,JetPens Facebook,n
+5416,5407,li,JetPens Twitter,n
+5419,5407,li,JetPens Pinterest,n
+5422,5407,li,JetPens Instagram,n
+5425,5407,li,JetPens YouTube,n
+5428,5344,div,,n
+5432,5428,div,"from over 10,000 reviews by actual customers.",n
+5440,5428,br,- -,n
+5439,5428,div,©JetPens.com,n
+5442,5428,div,Privacy Policy,n
+5445,5428,div,Terms and Conditions,n

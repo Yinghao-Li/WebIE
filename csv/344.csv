@@ -1,0 +1,197 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+3,2,div,,n
+5,3,p,Are you a beginner scuba diver looking to buy your own dive equipment,n
+7,3,p,"In this 11-part series, I will help you decide what to buy, where to buy it and in which order.",n
+9,3,p,You will also find many useful resources for everyone new to scuba diving and tips that will help you throughout your first steps in the world of scuba diving.,n
+11,3,div,,n
+14,11,div,Buying scuba gear,n
+16,11,ul,,n
+18,16,li,About this guide,n
+20,16,li,What scuba gear to buy as a beginner,n
+22,16,li,Where to buy scuba gear,n
+24,16,li,How much should you spend on scuba gear as a beginner?,n
+26,16,li,Why buy scuba gear as a beginner?,n
+28,16,li,When not to buy scuba gear as a beginner,n
+30,16,li,What to look out,n
+32,16,li,Conclusion,n
+34,3,h2,About this guide,n
+36,3,p,This guide is the introduction to my 10-part dive equipment,n
+71,3,h2,What scuba gear to buy as a beginner,n
+73,3,p,I suggest you buy your scuba gear in the following order:,n
+74,3,ol,,n
+76,74,li,ABC Set,y
+78,74,li,Boots,y
+80,74,li,Dive computer,y
+82,74,li,Wetsuit,y
+84,74,li,BCD,y
+86,74,li,Regulator,y
+88,74,li,Camera,y
+90,74,li,Other useful items,y
+92,74,li,Drysuit,y
+94,3,p,This is my personal opinion and in no way an official recommendation by a training agency.,n
+96,3,p,I think this order prioritizes the essentials and is a good way to reduce initial rental costs.,n
+98,3,p,"diver, recreational, technical, beginner, or advanced.",n
+100,3,p,Even once-a-year vacation divers will be able to get their money’s worth this way.,n
+102,3,h2,Where to buy scuba gear,n
+104,3,p,"The obvious first option is always directly from the store, instructor, or dive school you got your scuba certification from.",n
+106,3,p,They taught you and know what could work,n
+108,3,p,"Even if they don’t have a full-blown shop, they might still be able to let you test certain equipment, give you valuable tips, and order what you want if necessary.",n
+110,3,p,"Who knows, maybe they even offer some free diving sessions when you purchase from them.",n
+112,3,p,My recommendations,n
+115,3,div,,n
+125,115,div,Check out Dive Right in Scuba,n
+127,115,div,,n
+130,127,h4,Dive Right in Scuba,n
+135,127,p,"Based in the US, Dive Right in Scuba offers a large inventory, super great support, and will be your one-stop shop for anything scuba diving.",n
+140,3,div,,n
+150,140,div,Check out Scuba.com,n
+152,140,div,,n
+155,152,h4,Scuba.com,n
+160,152,p,"Another large retailer based in the US, Scuba.com offers very competitive prices and carries all major scuba brands and items.",n
+165,3,div,,n
+175,165,div,Check out Amazon,n
+177,165,div,,n
+180,177,h4,Amazon,n
+182,177,p,Perfect,n
+184,177,p,"No introduction is needed on this one. Amazon carries a large inventory of scuba diving equipment, most notably accessories, ABC sets, and dive computers.",n
+186,3,p,Check out my article on where to buy scuba gear if you need more suggestions.,n
+190,3,h2,How much should you spend on scuba gear as a beginner?,n
+193,3,p,Scuba gear is not cheap and it is important to only buy quality equipment even as a beginner. Beginners should be prepared to spend between $500-$1400 on entry-level scuba gear. A full set of quality scuba gear for beginners will be more expensive and cost between $1800-$2500 and last for many years before needing replacement.,n
+195,3,p,How much you should spend on scuba gear as a beginner also depends on the following questions:,n
+197,3,p,What do you want to buy? How much will you dive? What kind of diving will you do? What’s your budget?,n
+199,3,p,"As mentioned before, don’t go",n
+201,3,p,"After all, underwater your life depends on functioning equipment, so please don’t try to save money on the wrong side.",n
+203,3,p,"As a rule of thumb, only buy equipment marked as “entry-level”, if you dive less than a handful of times every year.",n
+205,3,p,"In that case, there is no point in spending thousands on things you rarely use.",n
+207,3,p,"Naturally, manufacturers produce entry-level dive equipment at very low costs and it works.",n
+209,3,p,"But just like a bicycle, car, or electronics, you get what you pay for. In regard to scuba gear, this usually means higher-priced items will offer more features, more comfort, and last a lot longer.",n
+211,3,p,entry-level dive equipment will cost you about:,n
+213,3,p,"This will not be high-end super fancy, super comfortable with lots of bells and whistles diving, however, it will serve its purpose well for several years.",n
+215,3,p,"On the other hand, my own dive equipment set cost me:",n
+217,3,p,See the difference?,n
+219,3,p,"It isn’t quite a fair comparison, as my BCD is technically two different ones , my regulator includes a second first stage and I own a separate drysuit set.",n
+221,3,p,"However, you get the point.",n
+223,3,p,You can spend any amount of money on your dive gear and this is not even the upper 20% of what’s out there.,n
+227,3,p,"Last but not least, if deciding whether to buy more scuba gear or dive more, I suggest you do the latter.",n
+229,3,p,"After all, you want to dive because it’s fun and there is no point in not doing that next dive vacation because you spent all your money on equipment.",n
+233,3,h2,Why buy scuba gear as a beginner?,n
+235,3,p,"Whether you have just booked your Open Water Diver course, are already halfway through it, or have been diving for a while, eventually, you want to have your own scuba gear.",n
+239,3,p,There are many reasons,n
+241,3,h3,You need dive equipment,n
+243,3,p,"Your dive school or instructor might require you to purchase certain pieces of equipment before attending the course. This usually includes the ABC equipment, consisting of a mask, snorkel, fins, and neoprene boots in cold places.",n
+245,3,p,Ask your instructor what’s required before signing up,n
+247,3,h3,It’s more hygienic,n
+249,3,p,"At Social Diving, for example, we don’t rent out boots. Ever. It’s as simple as that.",n
+251,3,p,"Boots get wet, and warm…people wear them on their feet…Eww…",n
+253,3,p,"Moreover, I just don’t like the thought of having to carry a large number of boots in our rental gear which we have to throw away after a year and will never be able to resell.",n
+255,3,p,"I personally think it’s a good idea to buy at least anything you wear directly on your skin, such as boots, mask, and suit.",n
+257,3,p,"A regulator might fall under the same category, however, more on that later.",n
+259,3,h3,You know how it works,n
+261,3,p,"No more fiddling with knobs you’ve never seen or figuring out how to switch to dive mode on an old rental computer. By buying your own dive equipment, you know exactly how it works and don’t waste time getting to know new dive gear.",n
+263,3,p,"When you are traveling, you do so to have a good time, see new places, and explore. If your new equipment doesn’t work as expected, you will be stressed and maybe even miss out on dives.",n
+265,3,h3,You know who has used it,n
+267,3,p,I like knowing who used my scuba gear. It makes me feel safer and more comfortable than relying on rental gear that has been used by strangers.,n
+269,3,h3,It’s serviced and intact,n
+271,3,p,"If you have your own dive equipment, you know exactly the shape that it’s in.",n
+273,3,p,"Most dive centers take good care of their gear, however, you will definitely trust your own stuff more.",n
+275,3,p,Just make sure to keep it serviced regularly!,n
+277,3,h3,It will teach you more about diving,n
+279,3,p,"Buying scuba gear involves a lot of upfront research, comparing, and understanding how it works and where the differences lie.",n
+281,3,p,All this will teach you a lot about diving itself and make you a better diver right from the start.,n
+283,3,h3,It’s cheaper than renting all the time,n
+285,3,p,If you dive a lot then having your own dive equipment makes sense also from a financial standpoint.,n
+287,3,p,"Good dive computers start at around 150€, while the day rate for one at some dive bases can be up to 20€. You do the math but it certainly adds up.",n
+289,3,p,I am not suggesting buying everything so you never have to rent! Browse through my scuba diving packing list if you want to know my suggestions on what to bring to a dive trip.,n
+291,3,p,Check out whether to rent or buy scuba gear and decide,n
+295,3,h3,It’s fun,n
+297,3,p,"Oh, I love buying new shiny scuba gear. Everyone does. There is just something special about taking that new dive computer out of its box or opening the wrapper of your new semi-dry suit.",n
+299,3,p,It’s like opening birthday presents.,n
+301,3,h2,When not to buy scuba gear as a beginner,n
+303,3,h3,Somebody told you to,n
+305,3,p,"Unless somebody is a certified instructor, don’t buy anything because you were told to do so. It’s an investment and you’re the one who should be comfortable with it.",n
+307,3,h3,You have never done a dive,n
+309,3,p,"Occasionally, we get students who buy a full kit online before even starting their beginner course.",n
+311,3,p,"Please don’t. While I appreciate the enthusiasm, I discourage you from purchasing anything other than an ABC set before finishing your Open Water Diver course.",n
+315,3,p,And never before a Discover Scuba Diving event.,n
+319,3,p,"You don’t know yet what to look out for, don’t have a reference for how it should feel, and will most likely have to buy again once you find out what works for you.",n
+321,3,h3,You are traveling and don’t want to rent at all,n
+323,3,p,Renting scuba gear allows you to try out different pieces of gear and see if you like it. It also puts into perspective what you might need and what parts you feel comfortable in not owning at first.,n
+325,3,h2,What to look out,n
+327,3,p,When buying scuba gear for beginners it is important to follow these guidelines before making a purchase to prevent getting the wrong equipment or spending too much money:,n
+328,3,ul,,n
+330,328,li,Take your time,n
+332,328,li,Set a budget,n
+334,328,li,Compare different options,n
+336,328,li,Ask around,n
+338,328,li,Read reviews,n
+340,328,li,Check different stores,n
+342,328,li,Don’t fall,n
+344,328,li,Don’t trust Social Media,n
+346,328,li,Don’t limit yourself,n
+348,328,li,Price is not everything,n
+350,3,h3,Take your time.,n
+352,3,p,Taking your time when buying scuba gear for beginners is important. There is no rush and you can always come back another day and decide.,n
+354,3,h3,Set a budget,n
+356,3,p,Setting a budget should be a priority when buying scuba gear as a beginner diver.,n
+358,3,p,Don’t get the “shiny bling-bling” syndrome and overextend your budget.,n
+360,3,h3,Compare different options,n
+362,3,p,Compare different options before you make a purchase.,n
+364,3,p,There are many scuba gear manufacturers which are worth checking out.,n
+366,3,h3,Ask around,n
+368,3,p,Ask around if anyone knows about the particular equipment you’re looking at.,n
+370,3,h3,Read reviews,n
+372,3,p,"At Social Diving, I test a lot of dive equipment and review it. You’ll find mostly unbiased reviews on any type of dive equipment here that might be worth checking out.",n
+376,3,p,There are many more sites out there that can help you and don’t forget the product reviews from online store customers.,n
+378,3,h3,Check different stores,n
+380,3,p,"Of course, sometimes it is great to just get it done and over with.",n
+382,3,p,"However, it’s never wrong to look around to see who offers decent prices, good support, or simply other equipment options.",n
+384,3,p,"Test it if you can. This one is important. If you can, test any equipment before buying it. Many larger local dive shops will allow you to test dive BCDs or even regulators before making a purchase.",n
+386,3,h3,Don’t fall,n
+388,3,p,"Marketing is great. Everyone does it. However, initial hype is almost never justified to the extent that it can be observed.",n
+390,3,h3,Don’t trust Social Media,n
+392,3,p,"Sigh…social media…a blessing and a curse. While Facebook groups or forums can be super valuable and allow you to ask your questions to a large, knowledgeable audience, remember that everyone has an agenda.",n
+394,3,p,emotion and often are not objective at all.,n
+396,3,h3,Don’t limit yourself,n
+398,3,p,I am a strong proponent of telling people to not look at one option only and explore what’s out there.,n
+400,3,p,I haven’t used every single BCD under the sun so I might have never heard of the one that would fit your needs perfectly.,n
+402,3,p,"Don’t limit yourself to only one approach either. Of course, most beginners learn to dive with an ADV style BCD, however, there are zero reasons whatsoever to not buy a backplate or wing setup, even as a new diver.",n
+404,3,p,Just because something is declared as “advanced” doesn’t mean that it won’t be a good fit for you.,n
+406,3,h3,Price is not everything.,n
+408,3,p,"Don’t only look at the price tag but consider other factors such as “ will I gain substantial benefit from buying the more expensive option? “, “ am I sacrificing quality for price? “, or “ what service can I expect in return for a higher price “.",n
+416,3,h2,Conclusion,n
+418,3,p,This concludes the introduction to my ultimate guide to buying scuba gear,n
+420,3,p,I hope you learned something and feel more comfortable and knowledgeable to make an educated decision when buying dive equipment.,n
+422,3,p,What was your first purchase as a beginner diver?,n
+457,3,p,"Join the email list to get regular diving tips, tricks, insights, and news straight to your inbox!",n
+459,3,p,Always dive with friends and happy bubbles.,n
+461,3,p,Cheers,n
+463,3,p,Julius,n
+464,3,div,,n
+466,464,h3,Share this post,n
+467,464,div,,n
+471,467,span,Facebook,n
+475,467,span,Twitter,n
+479,467,span,Pinterest,n
+483,467,span,LinkedIn,n
+487,467,span,Email,n
+488,2,footer,,n
+489,488,div,,n
+491,489,h4,About the author,n
+493,489,span,Julius Launhardt,n
+497,489,span,View all posts by Julius Launhardt,n
+498,488,ul,,n
+500,498,li,English,n
+502,498,li,pll_62b21ebf012e1,n
+503,488,div,,n
+505,503,h3,Keep reading,n
+506,503,nav,,n
+508,506,h2,Post navigation,n
+509,506,div,,n
+512,509,span,Previous,n
+513,509,text,Scuba diving buddy check,n
+514,506,div,,n
+517,514,span,Next,n
+518,514,text,Buying a scuba mask and snorkel,n
+521,2,h3,Related Posts,n

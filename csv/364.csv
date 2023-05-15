@@ -1,0 +1,141 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+7,0,div,,n
+8,7,div,,n
+10,8,h1,Face and Skin Care Supplies,n
+17,8,p,Client Profile and Prescription Forms | Hair Wraps and Headbands | Towels and Disposable Cloths,n
+28,7,div,,n
+31,28,div,,n
+35,31,span,Powered by,n
+37,31,span,InstantSearch+,n
+41,28,div,,n
+42,41,div,,n
+45,42,div,Category,n
+50,42,div,Body,n
+57,42,div,Lash and Brow,n
+71,42,div,Manicure or Pedicure,n
+78,42,div,Massage,n
+81,42,div,,n
+86,81,div,Spa Apparel,y
+93,81,div,Spa Equipment,y
+100,81,div,Spa Retail and Merchandising,y
+107,81,div,Spa Supplies,y
+114,81,div,Wax and Hair Removal,y
+119,41,div,,n
+122,119,div,Brand,n
+127,119,div,AquaBoost,n
+134,119,div,Boca Terry,n
+141,119,div,Canyon Rose,n
+148,119,div,Daily Concepts,n
+155,119,div,Footlogix,n
+158,119,div,,n
+163,158,div,Sposh,n
+170,158,div,VLash,n
+178,41,div,Customer Rating,n
+223,41,div,,n
+226,223,div,Price,n
+228,223,div,,n
+233,228,span,-,n
+238,228,button,»,n
+240,228,div,Please fix price range,n
+246,223,div,$0,n
+293,223,div,$100,n
+299,41,div,Lash Home Care,n
+307,41,div,,n
+310,307,div,Retail Category,n
+315,307,div,Bath and Body,n
+318,41,div,,n
+321,318,div,Apparel Material,n
+326,318,div,Microfiber,n
+333,318,div,Terry,n
+340,318,div,Waffle Weave,n
+343,41,div,,n
+346,343,div,Main Category,n
+351,343,div,Waxing Supplies,n
+354,41,div,,n
+357,354,div,Style,n
+362,354,div,1 - Cleanse and Exfoliate,n
+369,354,div,2 - Deep Cleanse,n
+376,354,div,3 - Soothe and Hydrate,n
+380,28,div,,n
+381,380,div,,n
+383,381,span,Filters,n
+385,381,ul,,n
+387,385,li,Sort by,n
+388,385,li,,n
+390,388,span,Best Match,n
+391,388,ul,,n
+393,391,li,Best Match,n
+395,391,li,Price,n
+397,391,li,Price,n
+399,391,li,Newest Arrivals,n
+401,391,li,Oldest Products,n
+403,391,li,Customer Rating,n
+405,381,div,,n
+408,405,h2,Face and Skin Care Supplies,n
+410,405,span,,n
+412,410,span,17,n
+413,410,text,results,n
+415,380,ul,,n
+418,415,li,,n
+420,418,div,"Complete Pro Soft Facial Cloths, 8 ct",n
+426,418,div,C8012T,n
+429,418,div,$14.95,n
+435,415,li,,n
+437,435,div,"Boca Terry Microfiber Headband with Terry Back, 3pk",n
+443,435,div,C673N,n
+452,415,li,,n
+454,452,div,"Sposh Microfiber Towel, 10ct",n
+456,452,span,4,n
+460,452,div,C5957T,n
+463,452,div,$32.95,n
+469,415,li,,n
+471,469,div,"Boca Terry Waffle Headbands, 3pk",n
+477,469,div,C655W,n
+486,415,li,,n
+488,486,div,"Boca Terry Velour Headbands, 3pk",n
+494,486,div,C665B,n
+503,415,li,,n
+505,503,div,Spa Prescription Pad or Portrait,n
+511,503,div,CL75,n
+520,415,li,,n
+522,520,div,Client Profile Cards,n
+524,520,span,5,n
+528,520,div,CL16,n
+529,520,div,,n
+530,529,text,from,n
+532,529,span,$2.25,n
+538,415,li,,n
+540,538,div,Daily Concepts Spa Headband,n
+546,538,div,DC018,n
+555,415,li,,n
+557,555,div,Canyon Rose Hair Scrunches,n
+563,555,div,CR113,n
+566,555,div,$9.75,n
+572,415,li,,n
+574,572,div,Spa Prescription Pad or Landscape,n
+580,572,div,CL76,n
+589,415,li,,n
+591,589,div,"Daily Concepts Daily Beauty Headband, White",n
+597,589,div,DC004,n
+606,415,li,,n
+608,606,div,AquaBoost Serums,n
+614,606,div,PSN130,n
+617,606,div,$31.95,n
+622,415,li,,n
+624,622,div,Facial Supply Essentials Kit,n
+630,622,div,NB320,n
+633,622,div,$65.04,n
+639,415,li,,n
+641,639,div,"Daily Concepts Daily Beauty Headband, Pink",n
+647,639,div,DC005,n
+656,415,li,,n
+658,656,div,"Daily Concepts Beauty Headband, Turquoise",n
+664,656,div,DC006,n
+674,415,li,,n
+676,674,div,Footlogix Consultation Pad,n
+682,674,div,N1230,n
+692,415,li,,n
+694,692,div,VLash Client Profile Cards or 50pc,n
+700,692,div,VL055,n
+703,692,div,$21.85,n

@@ -1,0 +1,101 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+3,2,div,,n
+5,3,p,"When I first got into the sport of competitive swimming, I never would have thought that you required a ton of equipment!",n
+7,3,p,"It’s been so long since I first started competitive swimming, so I can’t possibly remember what was going through my head back then, but if I had to guess I probably would have thought the only things that I was going to require was going to be some goggles, a swimsuit, and a cap!",n
+8,3,p,,n
+13,8,text,us thought this in the beginning.,n
+15,8,strong,However,n
+16,8,text,"the moment we laid our eyes on a proper competitive swimming deck, we quickly realized that wasn’t the case at all.",n
+18,3,p,"Not to even mention the tons of tech suits, different types of goggles- racing and training goggles, the swimming bags and even drag suits!",n
+20,3,p,"There are so many things that go into the sport, the right training, dry land, nutrition, time and of course the bags of money we spend on equipment, tech suits, goggles, and other gear!",n
+22,3,p,Today I have put together an in-depth swimming gear checklist for all of us swimmers out there. Whether you are a certified pro or a beginner you probably are going to want these things in your swimming bag.,n
+28,3,p,the more advanced swimming gear.,n
+30,3,p,This checklist will give you an overview of what should be in your swimming bag so that you can get the most out of your training.,n
+32,3,p,And so that you can go and smash some PBs next time you race because you will feel confident that you have done everything right and you deserve to crush it!,n
+38,3,p,"Here are the swimmers, swimming gear checklist-",n
+40,3,h2,Swimming Equipment Checklist.,n
+43,3,h3,Fins.,y
+46,3,p,the most fun pieces of equipment we have! .,n
+48,3,p,They allow us to train in different ways to become faster swimmers in the long run.,n
+54,3,p,"Fins can assist us in developing a more powerful kick, they allow us to train at race pace on a normal day and can help develop a higher, faster velocity kick.",n
+56,3,p,Fins also help develop more flexibility in our feet and ankles.,n
+58,3,p,fins you want to avoid fins with overly long blades.,n
+64,3,p,"They will take away your ability to deliver fast and powerful kicks, you kick rate will be too slow and it will ruin the entire point of having fins.",n
+66,3,p,"Try choosing fins with a shorter blade, I recommend the Arena Powerfin Pro. These are in my opinion the best fins to train with, they are comfortable and not too long.",n
+73,3,h3,Kickboard.,y
+76,3,p,"Now that you have your fins to help develop stronger kicks, you’re going to need a kickboard.",n
+82,3,p,"Your legs are some of the biggest muscles in your body, so you better put them to good use in making you faster.",n
+84,3,p,"Kickboards are useful for intense kicking sets, where you just don’t feel like doing body-position kicking the entire time.",n
+86,3,p,"In addition to fins and kickboards to help build a stronger kick, I recommend that you train your legs with dry-land exercises to assist in an even stronger kick.",n
+88,3,p,"The speedo Team Kick Board is a pretty nice option, but at the end of the day, it’s up to your preference.",n
+96,3,h3,Paddles.,y
+98,3,p,"Now that you have all of the equipment to assist in training a strong kick, we will cover some of the equipment to cover a strong pull! First up we have paddles. They are essentially fins for your hands.",n
+100,3,p,Paddles can assist in training a stronger pull due to the added resistance from the extra water to your hands and arms.,n
+102,3,p,They can also assist in helping you to get a better sense of grip in the water and learn the proper hand position when entering the water.,n
+104,3,p,"I like the speedo nemesis paddle, I find them comfortable and they have a good build, but once again it is up to preference.",n
+111,3,h3,Pull Buoy.,y
+114,3,p,"Now that you have your paddles, you probably want to consider investing in a pull buoy. Combining your paddles and pull buoy can make for a solid pull set.",n
+116,3,p,"If you are a bit lost, a pull buoy is basically a piece of foam shaped to fit between your legs. You need to keep your legs tight to make sure it doesn’t shoot out.",n
+118,3,p,This will prevent you from kicking while maintaining your body position since you will still be floating on the water. I recommend you to combine your pull buoy and paddles to make a solid pulling set!,n
+120,3,p,"I like the finis pull buoy, but any type should be fine!",n
+128,3,h3,Resistance Parachute.,y
+134,3,p,"Now that we have covered the kick and the pull, which are the main speed drivers in the sport of competitive swimming.",n
+136,3,p,It’s time to see how we can add even more resistance to our swimming for an even stronger kick and pull.,n
+138,3,p,"Usually, I’d recommend you to use a resistance pulley, but since most pools don’t have one, we will use the next best thing- a resistance parachute! Yes, it is exactly what it sounds like.",n
+140,3,p,A small parachute you place behind you in the water,n
+142,3,p,"It is always a good idea to add extra resistance to our swim training since it will make us stronger in the water! We can also do this by wearing a drag suit, but a parachute delivers much more resistance.",n
+144,3,p,Incorporating a resistance parachute into your swim training can make,n
+146,3,p,"I recommend the finis drag parachute, generally, most other parachute’s aren’t very high quality and aren’t very comfortable, but the finis drag parachute lives up to its name!",n
+154,3,h3,Swimming Snorkel.,y
+156,3,p,Snorkels have never really been all that popular among swimmers until recently were competitive swimmers started using them quite a lot during training!,n
+158,3,p,benefits,n
+160,3,p,"Some include developing a more balanced stroke and saving your neck on long kick sets, now you don’t have to look up the entire time and it can take some strain off your neck.",n
+162,3,p,The snorkel also helps swimmers who struggle with muscle imbalances by not having to lift your head to a particular side you allow for your muscles to strengthen the same amount on both sides.,n
+164,3,p,"I recommend the MP Michael Phelps Focus Snorkel it is a solid quality snorkel, with a good design.",n
+171,3,h3,Resistance Bands.,y
+178,3,p,There is only so much you can do in the water. Although your swim training is the most important training for faster swimming there are ways to supplement it so that you can swim even faster!,n
+180,3,p,"Many swimmers neglect their dry-land training and at the end of the day, they are only putting themselves at a disadvantage.",n
+182,3,p,"the water, an action known as “tubing”.",n
+185,3,p,You basically perform all of your strokes outside of the water with a resistance band and you obviously only do the pulling movement.,n
+187,3,p,This can assist in building a stronger pull and stroke and making you faster outside of the water. There are also many different exercises and movements you can perform using a resistance band.,n
+189,3,p,"Combine it with some push ups, pull ups and some good core exercises and you have a pretty nice dry-land circuit.",n
+191,3,p,"There are different resistance variations for each band and as you get stronger, you can increase the resistance more and more!",n
+199,3,h3,Mesh bag.,y
+201,3,p,You are going to need a swimming bag or mesh bag to carry all of your swimming equipment in. Imagine having to carry all of your equipment around with just 2 hands before and every practice!,n
+203,3,p,I like the Speedo deluxe mesh bag. It has enough space to carry all of my equipment and it’s made from durable materials!,n
+205,3,p,It also has straps to carry it on your back if you wanted to.,n
+212,3,h2,Conclusion.,n
+214,3,p,So there we have it the complete swimming gear checklist for competitive swimmers! It is important to remember that the equipment is just a part of our training.,n
+220,3,p,The most important thing is actually our training itself. The equipment is just there to supplement that training and to sometimes just mix things up a bit.,n
+222,3,p,Sometimes it does get quite boring swimming countless ends of laps and being able to take out a pair of fins and do a fun sprint set is certainly worth it.,n
+224,3,p,"But like I just said the most important thing is your training. Always show up and give it your all at every practice, because you never know, you might just surprise yourself next time you get in and race!",n
+227,3,p,all of the equipment we covered again-,n
+228,3,ul,,n
+232,228,li,Fins- They can assist you in building a more powerful and faster kick and help with flexion in your ankles and feet.,n
+236,228,li,Kick Board- The kickboard goes well with the fins and can make,n
+240,228,li,Paddles- They can assist you in building a more powerful pull by increasing the amount of water you have to pull.,n
+244,228,li,Pull Buoy- The pull buoy goes well when combined with paddles and can also help build a more powerful pull.,n
+248,228,li,"Resistance parachute- Increase your resistance in the water by using a drag parachute, it will help you become a faster swimmer in the long run.",n
+252,228,li,Swimming Snorkel- The snorkel has many uses including improving stroke and fighting muscle imbalances.,n
+256,228,li,"Resistance bands- It is important to also get stronger outside of the water, resistance bands can be used for many different exercises.",n
+260,228,li,your equipment in right?,n
+262,3,p,I hope this article helped you make sure you have all the equipment you need and showed you some of the benefits from different types of equipment.,n
+264,3,p,"Swimmers tend to think that equipment is just there for the fun, but in many cases, they actually have an important role to play in developing you into a stronger and faster swimmer!",n
+271,3,p,More swimming articles-,n
+272,3,ul,,n
+274,272,li,11 Best Headphones For Swimming- The 2022 Expert Review,n
+276,272,li,5 Best Fins For Open Water Swimming,n
+278,272,li,Best Fitbits For Swimming,n
+280,272,li,15 Best Nose Clips For Swimmers- Expert Guide And Benefits,n
+282,272,li,Best Snorkel For Swimming Laps,n
+283,2,footer,,n
+284,283,span,,n
+287,284,span,Categories,n
+288,284,text,Swimming Equipment,n
+289,283,nav,,n
+291,289,span,Post navigation,n
+295,289,div,16 Tips To Make Your Tech Suit Last Longer | Care Guide,n
+299,289,div,10 Best Exercises For Swimmers At Home To Improve Performance,n
+310,0,p,"I am Benjamin, a competitive swimmer with many years of experience in the sport of swimming. I am very passionate about competitive swimming and love sharing everything I have learned about the sport. I specialize in swimming butterfly and my favorite event is the 100m butterfly with the 50m and 200m fly closely following.",n

@@ -1,0 +1,95 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+330,0,div,,n
+333,330,div,,n
+429,333,h1,Archery,n
+459,333,div,Archery,n
+485,330,div,,n
+486,485,div,,n
+487,486,div,,n
+492,487,div,,n
+500,492,div,Share,n
+522,492,div,,n
+524,522,td,Governing Body,n
+526,522,td,World Archery Federation,n
+530,487,div,,n
+532,530,strong,Updated On,n
+533,530,text,"20 May, 2022",n
+541,486,div,,n
+547,541,div,,n
+554,547,div,,n
+556,554,h4,Archery - Clothing,y
+560,554,p,"Archers wear lightweight, comfortable long or short sleeved shirt and trousers or shorts that allow them free body movement.",n
+569,547,div,,n
+571,569,h4,Thumb ring,y
+575,569,p,"A thumb ring is a protective equipment used by the archers in archery competitions. The thumb rings are made from leather, stone, horn, wood, antler, ivory, metal, ceramics, plastic or glass. It’s w...",n
+584,547,div,,n
+586,584,h4,Archery Stabilizers,y
+590,584,p,Archery stabilizers are the various types of weights placed on an archery bow to increase the precision and stability while aiming. The stabilizers function well by reducing the inadvertent movements ...,n
+599,547,div,,n
+601,599,h4,Bow,y
+605,599,p,Shooting and target aiming has been present in our world for centuries. The basic ideology behind the shooting was the survival of the man. They used bows for hunting and food and violent purposes. T...,n
+614,547,div,,n
+616,614,h4,Arrow,y
+620,614,p,Archery has been a primordial sport since ancient times. It has given birth to various essential survival skills. The use of archery arrows and bows comes hand in hand with all its complexity. The arr...,n
+624,541,div,,n
+626,624,div,Displayingof records,n
+630,624,li,1,n
+633,485,div,,n
+635,633,span,*,n
+636,633,text,We crave more modifications and accuracy. Help us do that with your valuable feedback . No responsibility is taken for the authentication of the data.,n
+644,485,div,,n
+649,644,h3,What do you think about the above article?,n
+664,644,div,,n
+666,664,div,Log In to Comment Comment as Guest,n
+668,664,ul,,n
+670,668,li,Click to add a comment...,n
+697,668,li,Submit,n
+699,668,li,Click to hide,n
+722,330,div,,n
+724,722,p,Kindly log in to use this feature.,n
+726,722,div,Log In Now Sign Up,n
+750,0,div,,n
+752,750,div,"This website stores cookies to provide more personalized services to you. To find out more about the cookies we use, see our Privacy Policy Privacy Policy",n
+756,750,div,Got It,n
+758,0,footer,,n
+764,758,ul,,n
+766,764,li,Free Membership Listing,n
+768,764,li,Search Members,n
+789,758,div,,n
+791,789,div,,n
+792,791,div,,n
+794,792,h4,About Us,n
+795,792,text,"Sportsmatik is a unique sports platform bringing optimism and revolution to transform the world of sports, making a network among sports associates for developing a thoroughgoing and integrated kinship. The prime aim of this sports platform is to support sportspersons as well as related entities to come together cohesively to create a network with one another for mutual growth in sports played around the world. It also provides business and advertisement services to sports merchants and individuals who want to showcase or sell sports paraphernalia. Sportsmatik also aims to educate people around the world about various sports played in all different countries of the world. Hence, the members of the website may showcase their performance and skills by creating account, interact with people of their realm, compare performance of sportspersons, access information about numerous sports played around the world and thereby unite as a community to promote sports.",n
+796,791,div,,n
+798,796,h4,Subscribe our newsletter,n
+808,796,div,,n
+813,808,div,Your Name,n
+819,808,div,Email Address,n
+834,808,div,Subscribe,n
+839,789,div,,n
+840,839,div,,n
+842,840,h3,company,n
+851,840,li,Mascot,n
+852,839,div,,n
+854,852,h3,trending topics,n
+857,852,li,Popular World Sports,n
+864,839,div,,n
+866,864,h3,legal,n
+867,864,ul,,n
+869,867,li,Terms and Conditions,n
+871,867,li,Privacy Policy,n
+873,867,li,Copyright and Trademarks,n
+875,867,li,GDPR and COPPA Compliance,n
+877,867,li,Disclaimer,n
+878,839,div,,n
+880,878,h3,miscellaneous,n
+883,878,li,Resources,n
+892,839,h3,sports,n
+904,839,div,,n
+906,904,h3,support,n
+907,904,ul,,n
+909,907,li,Support Center,n
+911,907,li,Raise a Ticket,n
+915,907,li,Community,n
+944,758,div,Copyright ©Sportsmatik.com. All Rights Reserved.,n

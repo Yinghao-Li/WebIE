@@ -1,0 +1,301 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+11,0,div,,n
+14,11,div,,n
+17,14,p,"Creating content is the fruit of creative labor that could occasionally become daunting. But using content creation software can streamline your workflow. They can cut down the time you put in researching, writing, editing, and designing — and enable you to craft better content.",n
+20,14,p,"In this article, I’ll introduce you to twenty-one content creation tools. They will make digital content creation easier in all formats: text, graphics, audio, and video. Let’s get started with the first tool.",n
+22,11,div,,n
+25,22,h4,Contents,n
+29,22,ul,,n
+32,29,li,Ahrefs,y
+35,29,li,Google Documents,y
+38,29,li,CoSchedule's Headline Analyzer,y
+41,29,li,Grammarly,y
+44,29,li,Elementor Pro,y
+47,29,li,Google Analytics,y
+50,29,li,Tubebuddy,y
+53,29,li,Canva,y
+56,29,li,Tailwind,y
+59,29,li,RescueTime,y
+62,29,li,Camtasia,y
+65,29,li,Screencast-O-Matic,y
+68,29,li,Buzzsprout,y
+71,29,li,WebinarJam,y
+74,29,li,Thinkific,y
+77,29,li,Blogcast,y
+80,29,li,Unsplash,y
+83,29,li,PlaceIT,y
+86,29,li,Evernote,y
+89,29,li,Fiverr,y
+92,29,li,Trello,y
+95,29,li,Final Thoughts,n
+100,11,h2,Ahrefs,y
+103,11,div,,n
+104,103,p,,n
+106,104,span,Hands down the most useful SEO tool,n
+108,104,span,Ahrefs,n
+110,104,span,. It’s recommended that you check it almost every day to evaluate how your top articles are faring for their target keywords.,n
+113,103,p,You can also use the Ahrefs SERP overview when creating outlines,n
+114,103,ul,,n
+117,114,li,"get an idea of how the top-ranking content on the subject is structured, its comprehensiveness, and try to find a unique angle,",n
+119,114,li,find related keywords and topics to include in my articles .,n
+122,103,p,Here’s an example SERP,n
+135,11,div,,n
+138,135,h3,Alternative,y
+139,135,p,,n
+141,139,span,Answer The Public,n
+143,139,span,is another great keyword research tool to find the exact questions people are asking on a subject and get a comprehensive list of phrase variations for a seed keyword. I use it occasionally to substitute the research I did with Ahrefs.,n
+144,135,p,,n
+146,144,span,questions that pop up when I type “,n
+148,144,span,Freshbooks,n
+150,144,span,” inside the tool.,n
+165,11,h2,Google Documents,y
+169,11,p,,n
+171,169,span,"I relied on Microsoft Word about six years ago, but now my go-to writing software is",n
+173,169,span,Google Documents,n
+175,169,span,". It’s intuitive, collaborative, and makes the process of creation a breeze. You can mark comments to leave instructions for publishing, editors can make suggestions, and the like.",n
+181,11,div,,n
+184,181,p,The best thing about the tool is you can insert quick screenshots and paste photos from the web without downloading them.,n
+187,181,h3,Top It Up With,n
+188,181,p,,n
+190,188,span,While only useful,n
+192,188,span,Wordable,n
+194,188,span,"significantly cuts down the time to upload your articles. In a single click, you’ll find your article with properly formatted text and well-positioned images on your WordPress editor.",n
+197,181,p,While the tedious process isn’t completely knocked off – you need to take care of on-page SEO – it’s still a huge time saver.,n
+209,11,h2,CoSchedule's Headline Analyzer,y
+212,11,div,,n
+213,212,p,,n
+215,213,span,the articles on the ECM website go without a check from,n
+217,213,span,CoSchedule’s headline tool,n
+219,213,span,". Granted writing is qualitative and sometimes the score can be misleading. But couple it with your judgment, and you’ll be able to write captivating titles every single time.",n
+222,212,p,Try different headline variations and try to touch a score of 70. Or hover around 60 when the keyword for your article doesn’t allow creativity .,n
+228,11,div,,n
+231,228,h3,Top It Up With,n
+232,228,p,,n
+234,232,span,"Forget headlines, if you can’t come up with new content ideas themselves, then the",n
+236,232,span,HubSpot Blog Ideas Generator,n
+238,232,span,can come in handy. You just need to plug a few keywords related to the subjects you cover on your blog. And press the “Give Me Blog Ideas” button.,n
+256,11,p,"The tool returns a few tiles that can get your juices flowing. If you don’t like the ideas generated, you can “Start Over” and plug new keywords to get more titles. While finding the exact title of your next blog post might not happen with this topic generator, it can lead you to creative angles on popular subjects.",n
+264,11,h2,Grammarly,y
+268,11,p,,n
+270,268,span,"Grammar mistakes in your articles can turn off readers, hamper your brand, and lead prospects to abandon your website permanently.",n
+272,268,span,Grammarly,y
+274,268,span,", while not a replacement for a human editor, offers an extra layer of defense against typos, grammar, style, and even plagiarism.",n
+287,11,div,,n
+288,287,p,,n
+290,288,span,"We at ECM use Grammarly Premium, but you can check",n
+292,288,span,our review,n
+294,288,span,to find if Premium is worth it,n
+297,287,p,"Grammarly’s weekly reports, writing tone and goals analysis, and a mobile app for grammar-checking writing on the go are cherry on the top.",n
+302,11,h2,Elementor Pro,y
+305,11,div,,n
+306,305,p,,n
+308,306,span,Gutenberg editor in 2018 expanded the WordPress editor’s flexibility and customization options. But,n
+312,306,span,Elementor Pro’s,y
+315,306,span,"slick drag and drop page building features, widgets, and designing capabilities can substantially improve your content’s experience.",n
+318,305,p,"It’s even possible to create “single post templates” on the top of your WordPress theme then reuse it across your site. For instance, I created a “top features” widget below that I can now reuse in my software review articles.",n
+331,11,div,,n
+334,331,h3,Top It Up With,n
+337,331,p,"While graphics are great additions for breaking your content into readable chunks, they are heavy in size and increase the loading time of your pages. It makes for a bad user experience and can impact your search rankings.",n
+338,331,p,,n
+340,338,span,"If you’re using WordPress as your content management system, the",n
+342,338,span,Shortpixel Image Optimizer plugin,y
+344,338,span,can help. It works its magic to compress your images while uploading without sacrificing their quality. Look at the disk space and bandwidth that this plugin has saved me.,n
+352,11,h2,Google Analytics,y
+358,11,div,,n
+359,358,p,,n
+361,359,span,Google Analytics,y
+363,359,span,"is a powerful tool to measure traffic on your website, top referral sources, the engagement on your top pages, and the overall content performance.",n
+364,358,p,,n
+366,364,span,I like to keep tabs on how the website visits per day and week are faring . And the average “time on page” that people are spending on the top articles for the ECM,n
+368,364,span,website,n
+370,364,span,"and if it’s unusually low, then diagnosing why.",n
+371,358,p,,n
+373,371,span,There’s so much data inside GA that you can get overwhelmed. This is why custom dashboards created by other professionals such as this,n
+375,371,span,Pinterest Dashboard,y
+377,371,span,by Kristie Hill come in handy.,n
+392,11,h2,Tubebuddy,y
+396,11,p,,n
+398,396,span,"If you’re a video content creator, then YouTube could be a source of evergreen exposure for you — it’s the",n
+400,396,span,third biggest search engine,n
+402,396,span,in the world after all.,n
+404,396,span,TubeBuddy,n
+406,396,span,"is a top YouTube SEO tool for dissecting the phrases to go after so that you rank in YouTube search. For instance, the keyword below has an overall “Poor” score, so I won’t consider going after it.",n
+419,11,div,,n
+422,419,p,"I was successful in ranking my first video because I had carefully chosen my phrase and used it in the YouTube metadata. Besides SEO, the tool has robust competitor analysis, productivity, video optimization, and other features.",n
+423,419,p,,n
+425,423,span,Tubebuddy,y
+427,423,span,here,n
+432,419,h3,Alternative,n
+433,419,p,,n
+435,433,span,Another top,n
+437,433,span,YouTube tool,n
+439,433,span,",",n
+443,433,span,has almost the same features as TubeBuddy. You can use both the tools in conjunction with YouTube. But in the,n
+447,433,span,"scorecard, I like the “views per hour” metric as it shows the",n
+449,433,span,current,n
+451,433,span,"a video, which is more useful than lifetime views a video has accrued.",n
+459,11,h2,Canva,y
+463,11,p,,n
+465,463,span,"If you’re a social media content creator,",n
+467,463,span,Canva,n
+469,463,span,"is a Godsend. It’s hands down the best graphic design tool with a plethora of templates for your blog posts, social media, marketing brochure, and everything else under the sun. Even without prior design experience, you’ll be able to create attractive visuals through its intuitive interface and range of free images or templates.",n
+482,11,div,,n
+485,482,h3,Alternative,n
+486,482,p,,n
+488,486,span,You can use,n
+490,486,span,Stencil,n
+492,486,span,for creating images from anywhere,n
+494,486,span,Chrome extension,n
+496,486,span,and a,n
+498,486,span,WordPress plugin,n
+500,486,span,"that can make your work of creating beautiful images a lot quicker. Like Canva, Stencil allows you to upload your own logo, font, and choose from thousands of amazing templates.",n
+505,11,h2,Tailwind,y
+508,11,div,,n
+511,508,p,Content creators,n
+514,508,p,But guess who can?,n
+515,508,p,,n
+517,515,span,"That’s right, a social media scheduling and analytics tool such as",n
+519,515,span,Tailwind,y
+521,515,span,. It’s great at ensuring your Pinterest account keeps sending fresh content.,n
+535,11,p,,n
+537,535,span,"It also sends nifty weekly reports to analyze the performance of your pins and the scope of improvement. Tailwind can also handle your Instagram, but for scheduling updates on Twitter, Facebook, and LinkedIn you’ll need to use another tool like",n
+539,535,span,Buffer,n
+546,11,h2,RescueTime,y
+549,11,div,,n
+550,549,p,,n
+552,550,span,All digital content creators need to understand their internal body clocks — specifically the times of the day when they are the most productive. You can rely on,n
+554,550,span,RescueTime,y
+556,550,span,to track all your logged-in hours on the laptop and receive its comprehensive weekly email reports.,n
+559,549,p,"With tracked data, you can dissect the times of the day when you’re the most productive vs. distracted.",n
+568,11,p,"In the long-term, such insights could help build better work habits. And hey, if you tend to open distracting websites during your work hours, then FocusTime can block’em for designated hours for you.",n
+573,11,h2,Camtasia,y
+586,11,div,,n
+587,586,p,,n
+589,587,span,"If you’re looking to create professional-grade software walkthroughs, video tutorials, or presentations, then",n
+591,587,span,Camtasia,n
+593,587,span,"’s powerful suite of tools is perfect. It’s a powerful video editing software. Functionalities include the addition of filters, effects, animations, and even recording your face with your screen .",n
+596,586,h3,Alternative,n
+603,11,p,,n
+605,603,span,Want high-end video editing capabilities and don’t mind a steep learning curve? Look no further than,n
+607,603,span,Adobe Premiere Pro,y
+609,603,span,"— it’s the global standard. Creators relying on Adobe products for other projects will feel especially at home with its user interface. Though expensive as compared to its competitors, its lightning, audio, and color tools are top-notch.",n
+621,11,h2,Screencast-O-Matic,y
+624,11,div,,n
+625,624,p,,n
+627,625,span,"Recording your screen to illustrate concepts in technical articles makes for effective communication of your ideas. So whether you want to show the examples you’re sharing in a blog post, or demonstrate the steps from a how-to style tutorial,",n
+629,625,span,Screencast-O-Matic,n
+631,625,span,’s video creation tools will do the job,n
+632,624,p,,n
+634,632,span,"The tool is also useful in competitive niches where a long-form blog post alone might not do the job to rank in SERPs. Creating multimedia content incorporating videos, screenshots, and other media is the way to go. Take cues from",n
+636,632,span,Ryan Robinson,n
+638,632,span,", who produces such YouTube videos to go with his blog posts.",n
+644,11,div,,n
+647,644,p,"Its built-in stock library containing video, music, and images is an icing on the cake to level up your videos.",n
+650,644,h3,Top It Up With,y
+653,644,p,,n
+655,653,span,Editing your videos and audio is a tedious process.,n
+659,653,span,"uses artificial intelligence to convert your audio and videos into text. In their own words, it is an audio or video editor that",n
+661,653,span,works like a doc,n
+663,653,span,". Using their fabulous AI, you can do screen recording, transcription, multitrack editing, and publishing.",n
+675,11,h2,Buzzsprout,y
+681,11,div,,n
+682,681,p,,n
+684,682,span,"If you want to launch your own show , then you need a",n
+686,682,span,podcast host,n
+690,682,span,Buzzsprout,y
+694,682,span,review,n
+696,682,span,) is an affordable host with all the necessary podcasting features you need to get started. It makes podcasting fairly straightforward and even if you get stuck the company offers robust customer support.,n
+699,681,h3,Top It Up With,n
+702,681,p,Planning and recording your podcast are time-consuming steps themselves when you start a show. But audio editing each episode involves a steep learning curve — and makes podcasting even more challenging.,n
+703,681,p,,n
+705,703,span,Alitu,y
+707,703,span,"takes care of noise cancellation, compressing the audio, and everything else related to polishing your podcast in its drag-and-drop interface. Once edited, you can directly publish your podcast to your host and spend time promoting it.",n
+719,11,h2,WebinarJam,y
+726,11,p,,n
+728,726,span,Considering doing webinars,n
+730,726,span,WebinarJam,y
+732,726,span,. It’s top-rated,n
+734,726,span,webinar software,n
+736,726,span,"with a plethora of features to completely customize the webinar experience of your audience. You can engage your audience with surveys, polls, send out handouts, and even request an attendee to speak through its “Attendee Spotlight” feature.",n
+741,11,h2,Thinkific,y
+754,11,div,,n
+755,754,p,,n
+757,755,span,Online courses are a cash cow,n
+759,755,span,Thinkfic,y
+761,755,span,", with its drag and drop course builder and ready-to-use templates can serve as the ultimate",n
+763,755,span,online course platform,n
+765,755,span,to get you started.,n
+768,754,p,"It also has a nifty site builder for designing your course website. But the marketing and selling tools on the platform will win your heart — you can offer discounts, onboard affiliates, package your courses into memberships, and much more.",n
+773,11,h2,Blogcast,y
+776,11,div,,n
+778,776,p,A content generator that uses artificial intelligence to draft engaging articles isn’t getting developed any time soon. But Blogcast probably offers the next best possible alternative to free content: audio transcripts of your articles.,n
+780,776,p,"As you might know, people love listening to podcasts and an audio version of your articles is a convenience many members of your audience will appreciate.",n
+789,11,p,"You can download a raw audio file or embed it to your website. You can create a fully automated podcast, create voice-over tracks for your videos, and choose from over 110 neural voices.",n
+801,11,h2,Unsplash,y
+805,11,p,,n
+807,805,span,Unsplash,y
+809,805,span,can be your go-to resource for finding free and high-quality stock photos for blog posts and other marketing collateral . You can plug topics relevant to the subject matter of your content in its search bar to find royalty-free high-resolution photos.,n
+818,11,p,"Its library contains millions of free photos, but if you search niche subjects it might not be able to find relevant photos. Try broader search phrases in such a scenario. Here’s a snippet of the photos the platform returned for the term “content creation tools.”",n
+827,11,p,Unsplash photos are free to use and can be downloaded even for commercial purposes. But giving attribution to the photographer is appreciated.,n
+840,11,div,,n
+843,840,h3,Top It Up With,n
+844,840,p,,n
+846,844,span,"If you want to edit the background out of an image using Photoshop, it would probably involve complex steps using the lasso tool.",n
+848,844,span,Remove.bg,n
+850,844,span,simplifies the same by using its artificial intelligence capabilities. Using its drag and drop functionalities you can remove backgrounds from both JPG and PNG images under 12MB.,n
+853,840,p,"It can simultaneously remove backgrounds from up to 1000 images, thereby speeding up your workflow to get extracted visuals for your next campaign. Its API also integrates with Photoshop, Windows, Mac, Linux — so you can also carry bulk background removal from your desktop.",n
+856,840,p,an original –,n
+872,11,p,Vs. background removed image,n
+878,11,div,,n
+881,878,p,"Using the tool is free, though you get “preview images”, which are small resolution cutouts with up to 0.25 megapixels. For getting full-resolution cutouts, you need to buy credits. Both subscription and pay-as-you-go plans are available.",n
+884,878,p,"To let the tool whip its magic, you need to have an image of a person, product, animal, or object where it can clearly identify the foreground and background. You can encounter a scenario when Remove.bg fails to make such a distinction.",n
+898,11,p,,n
+900,898,span,"If you face such an issue, visit its article discussing the",n
+902,898,span,images supported by the software,n
+909,11,h2,PlaceIT,y
+912,11,div,,n
+913,912,p,,n
+915,913,span,Want to add even more color to your social media content? Then,n
+917,913,span,PlaceIT,y
+919,913,span,offers even more templates.,n
+922,912,p,"PlaceIT with its library of over 50k templates could help you design graphics for Instagram, YouTube, Facebook, and other social media in seconds.",n
+935,11,div,,n
+938,935,h3,Top It Up With,n
+939,935,p,,n
+941,939,span,Envato Elements,y
+943,939,span,"is more holistic in offering stock video, audio effects, and other digital media assets. You can get a lifetime license and use 54+ million creative assets with unlimited downloads.",n
+951,11,h2,Evernote,y
+954,11,div,,n
+955,954,p,,n
+957,955,span,Evernote,y
+959,955,span,"is a superb note-taking app for collating your research material for your content at a single place — whether it be audio, video, or text. You can store your ideas as voice clips, text notes, and take screenshots. Organizing your saved material is easy using notebooks and tags.",n
+962,954,p,"It’s available as a browser extension, mobile app, and desktop application — so you can save your ideas and even write complete articles inside it on the go. Any changes you make also sync automatically across different versions.",n
+978,11,p,"You can use it as a repository of interesting articles to read, as a to-do list app, as a content creation plan notepad, or jot down research for a piece you’re working on.",n
+983,11,h2,Fiverr,y
+987,11,p,,n
+989,987,span,"If none of the above content software does your design, transcription, and other small jobs, then freelance services at",n
+991,987,span,Fiverr,y
+993,987,span,"would be perfect. You can hire professionals to draw portraits, design logos, conduct market research, and even get jokes written for your next marketing campaigns. The gigs at Fiverr could get really creative.",n
+1002,11,p,"Fiverr is a great place to outsource small tasks that can boost your content creation efforts. And if you get stuck in a bigger content project, you can run a few gigs on the platform to get your juices flowing.",n
+1007,11,h2,Trello,y
+1010,11,div,,n
+1013,1010,p,"While content creation requires exercising your creativity muscles, building repeatable processes can cut downtime from your publishing workflow. It also ensures you and your team creates high-quality content every time that matches your brand’s personality.",n
+1014,1010,p,,n
+1016,1014,span,Project management software,n
+1018,1014,span,Trello,y
+1020,1014,span,"is handy because your whole team can collaborate using it to put together content. You can discuss specifics of tasks, attach deadlines to tasks, add quality checks, and more.",n
+1023,1010,p,"Here’s a screenshot of ECM’s editorial board where we try to run every article through five stages by using lists. Starting from the first “Tasks” list, an article runs through various lists and is pushed to a “Done” list finally.",n
+1036,11,div,,n
+1039,1036,p,We also add checklists to each Trello card which helps editors ensure style consistency. But the last tool on our list does this job best.,n
+1042,1036,h3,Top It Up With,y
+1043,1036,p,,n
+1045,1043,span,Checklists and templates are the go-to ways to build processes and smoothen your content operations. And,n
+1047,1043,span,Process Street,n
+1049,1043,span,is useful,n
+1052,1036,p,"You can create templates for the series of steps in your content creation process for different formats. Then tick off individual items from your checklist, invite team members to assign individual tasks and collaborate with them, and add due dates to ensure you meet deadlines.",n
+1061,11,p,"While Trello is useful to glance at your whole project in one glance, Process Street can be used to enforce quality control through templates.",n
+1066,11,h2,Final Thoughts,n
+1069,11,div,,n
+1072,1069,p,Content creation is both an art and a science. But content is a marketing channel for businesses. So finding the right tools — that simplify the workflow and cut down the time required to complete tasks or ones that improve the quality of your content — are indispensable.,n
+1075,1069,p,I’m sure you’re already relying on some content software. Hope that you found a few new and valuable tools in this article that you’ll now integrate into your workflow.,n

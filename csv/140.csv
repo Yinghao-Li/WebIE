@@ -1,0 +1,218 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+7,5,nav,,n
+13,7,li,Occasions and Events,n
+17,7,li,Wedding Supplies,n
+22,5,div,,n
+24,22,div,,n
+27,24,div,,n
+29,27,div,,n
+31,29,p,Wedding Decorations,n
+33,29,p,Decor,n
+35,27,div,,n
+37,35,p,Wedding Favors,n
+39,35,p,Give Your Guests Something Special,n
+44,24,div,,n
+46,44,div,,n
+48,46,p,Wedding Reception,n
+50,46,p,Serve Up a Grand Party,n
+52,44,div,,n
+54,52,p,Wedding Ceremony,n
+56,52,p,Arches and Columns Starting At $39.99,n
+58,44,div,,n
+60,58,p,Wedding Centerpieces,n
+62,58,p,Centerpiece Essentials as Low as $4.49,n
+64,44,div,,n
+66,64,p,Tableware,n
+68,64,p,Premium Tableware Sets Starting at $2.70 per Guest,n
+70,44,div,,n
+72,70,p,Personalized Supplies,n
+74,70,p,Make Your Perfect Day Your Way,n
+76,44,div,,n
+78,76,p,Cake Toppers,n
+80,76,p,Top Off your Celebration,n
+84,24,div,,n
+88,84,p,Wedding Kits,y
+92,84,p,Wedding Candy and Mints,y
+96,84,p,Attendant Gifts,y
+100,84,p,Bridal Shower,y
+104,84,p,Bachelorette Party,y
+108,84,p,Favor Bags and Boxes,y
+112,84,p,Candles and Votives,y
+116,84,p,Invitations and Stationery,y
+118,24,div,,n
+119,118,h2,,n
+120,119,div,,n
+121,120,text,See It. Shop It. Make It.,n
+123,120,span,Fun365,n
+125,119,span,Get Inspired!,n
+126,118,ul,,n
+130,126,li,Bridgerton Bridal Shower,n
+134,126,li,Italian Inspired Grazing Table,n
+138,126,li,Sunflower Bridal Shower,n
+142,22,div,,n
+144,142,h2,Wedding Supplies,n
+146,142,p,Celebrate your big day with unique wedding ideas plus great deals on wedding favors and decorations.,n
+148,142,p,"Unique Wedding Favors - We have personalized wedding favors to fit any theme. Find wedding favor boxes and personalized mints to help your wedding reception fit your personal style. Buy candy labels, wedding bubbles, personalized favor labels and stickers. You?ll always find the latest wedding favor ideas and all the supplies you need for DIY favors at Oriental Trading.",n
+150,142,p,"Discount Wedding Decorations - Shop a wide selection of wedding ceremony decorations, table decorations, wedding centerpieces, wedding reception decorations and other wedding reception supplies. We have wedding aisle runners, pew bows, balloons, streamers and wedding confetti. You can also find card boxes for weddings here. Our wedding decorations will give you great wedding reception ideas.",n
+152,142,p,"Wholesale Wedding Supplies - Shop supplies including cake decorations, cake knife and serving sets, candy and personalized wedding mints. Order personalized champagne glasses with your names and wedding date. Find bridal jewelry and tiaras and don't forget your wedding guest book. We also have hundreds of personalized wedding napkins to choose from in both luncheon and beverage napkin sizes. Enjoy a selection of thank you cards, wedding placecards and place card holders for every theme plus wedding programs and wedding bulletins in many unique styles.",n
+154,142,p,"We know that planning and organizing your wedding ceremony down to the last detail can become really stressful and we want you to enjoy the happiest day of your life to the fullest, that's why we are here to help you have the wedding ceremony you always dreamed of. Classy and stylish wedding decoration, favors, tableware and wedding supplies to make the planning of the ceremony a breeze!",n
+157,142,div,,n
+158,157,div,,n
+160,158,div,Wedding Ceremony Supplies,n
+161,158,ul,,n
+163,161,li,Aisle Runners and Pew Bows,y
+167,161,li,Artificial Rose Petals,y
+169,161,li,Unity Candles,y
+171,161,li,Wedding Sand Ceremony,y
+173,161,li,Wedding Bubbles,y
+175,161,li,Wedding Card Boxes,y
+177,161,li,Wedding Garland,y
+179,161,li,Wedding Hand Fans,y
+181,161,li,Wedding Signs,y
+182,157,div,,n
+184,182,div,Wedding Reception Supplies,n
+185,182,ul,,n
+187,185,li,Cake Knife and Server Sets,y
+189,185,li,Place Card Holders,y
+191,185,li,Wedding Cake Toppers,y
+193,185,li,Wedding Candy,y
+195,185,li,Wedding Champagne Glasses,y
+197,185,li,Wedding Mints,y
+199,185,li,Wedding Napkins,y
+201,185,li,Wedding Photo Booth Props,y
+203,185,li,Wedding Plates,y
+205,185,li,Wedding Table Numbers,y
+206,157,div,,n
+208,206,div,Wedding Decorations,n
+209,206,ul,,n
+211,209,li,Backdrops and Scene Setters,y
+215,209,li,Personalized Wedding Banners,y
+217,209,li,Wedding Balloons,y
+219,209,li,Wedding Centerpieces,y
+221,209,li,Wedding Lanters,y
+223,209,li,Wedding Vases,y
+225,209,li,Wedding Table Supplies,y
+227,209,li,Wedding Tablecovers,y
+229,209,li,Wedding Table Runners,y
+230,157,div,,n
+232,230,div,More Wedding Supplies,n
+233,230,ul,,n
+235,233,li,Bridal Party Gifts,y
+237,233,li,Guest Books and Photo Albums,y
+239,233,li,Invitations and Stationery,y
+241,233,li,Labels and Stickers,y
+243,233,li,Personalized Wedding Supplies,y
+245,233,li,Wedding Can Coolers,y
+247,233,li,Wedding Favor Bags and Boxes,y
+249,233,li,Wedding Gift Bag,y
+251,233,li,Wedding Party Favors,y
+253,233,li,Wedding Sunglasses,y
+257,5,div,,n
+260,257,h3,Shop All Wedding,n
+263,257,h3,New Arrivals,n
+266,257,h3,Sale,n
+267,257,div,,n
+269,267,h2,Wedding Essentials,n
+270,267,ul,,n
+272,270,li,DIY Wedding Supplies,n
+274,270,li,Personalized Wedding,n
+276,270,li,Socially-Distanced Weddings,n
+278,270,li,Wedding Decorations,n
+280,270,li,Wedding Candy Buffet,n
+282,270,li,Wedding Colors,n
+284,270,li,Wedding Reception,n
+286,270,li,Wedding Ideas,n
+288,270,li,Wedding Favors,n
+290,270,li,Wedding Kits,n
+292,270,li,Bulk Wedding Supplies,n
+293,257,div,,n
+295,293,h3,Wedding Decorations,y
+296,293,ul,,n
+300,296,li,Balloons,y
+302,296,li,Banners,y
+306,296,li,Ceiling Decorations,y
+308,296,li,Centerpieces,y
+310,296,li,Chair Covers,y
+312,296,li,Confetti,y
+314,296,li,Decorating Fabrics,y
+316,296,li,Floral Supplies,y
+318,296,li,Garland,y
+320,296,li,Pails and Baskets,y
+322,296,li,Paper Lanterns,y
+324,296,li,Party Lights,y
+326,296,li,Signs,y
+328,296,li,Table Numbers,y
+330,296,li,Wall Decorations,y
+333,257,div,,n
+335,333,h3,Wedding Ceremony,y
+336,333,ul,,n
+338,336,li,Aisle Runners,y
+340,336,li,Card Boxes,y
+342,336,li,Flower Girl and Ring Bearer Supplies,y
+344,336,li,Send Off Supplies,y
+346,336,li,Unity and Sand Ceremony,y
+349,257,div,,n
+351,349,h3,Wedding Reception,y
+352,349,ul,,n
+354,352,li,Cake Decorating Supplies,y
+356,352,li,Cutlery,y
+358,352,li,Drinkware,y
+360,352,li,Napkins,y
+362,352,li,Party Plates,y
+364,352,li,Serveware,y
+366,352,li,Table Covers,y
+368,352,li,Tableware,y
+371,257,div,,n
+373,371,h3,Wedding Favors,y
+374,371,ul,,n
+376,374,li,Bubbles,y
+378,374,li,Can Coolers,y
+380,374,li,Candy and Mints,y
+382,374,li,Favor Boxes and Bags,y
+384,374,li,Gift Bags and Gift Boxes,y
+386,374,li,Hand Fans,y
+388,374,li,Novelty Favors,y
+390,374,li,Stickers and Seals,y
+393,257,div,,n
+395,393,h3,Wedding Stationery,y
+396,393,ul,,n
+398,396,li,Bottle Labels,y
+400,396,li,Candy Wrappers and Labels,y
+402,396,li,Invitations,y
+404,396,li,RSVP Cards,y
+406,396,li,Save the Date,y
+408,396,li,Thank You Cards,y
+411,257,div,,n
+413,411,h3,Personalized Wedding Suppplies,y
+414,411,ul,,n
+416,414,li,Personalized Candy,y
+418,414,li,Personalized Cake and Knife Servers,y
+420,414,li,Personalized Drinkware,y
+422,414,li,Personalized Votives,y
+424,414,li,Personalized Napkins,y
+427,257,div,,n
+429,427,h2,Seasonal Weddings,n
+430,427,ul,,n
+432,430,li,Summer Wedding,n
+434,430,li,Fall Wedding,n
+436,430,li,Winter Wedding,n
+438,430,li,Spring Wedding,n
+439,257,div,,n
+441,439,h2,Holiday Weddings,n
+442,439,ul,,n
+444,442,li,Christmas Wedding,n
+446,442,li,Halloween Wedding,n
+448,442,li,New Year's Wedding,n
+450,442,li,Valentine's Day Wedding,n
+453,257,h3,Wedding Attendant Gifts,n
+456,257,h3,Bridal Shower,n
+459,257,h3,Bachelorette Party,n
+462,257,h3,Wedding Games and Activities,n
+465,257,h3,Photo Booth,n
+468,257,h3,Candy Buffet,n
+471,257,h3,Anniversary,n
+475,257,div,,n
+477,475,h4,Want More Wedding Supplies?,n
+479,475,h3,GET A FREE CATALOG,n

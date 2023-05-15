@@ -1,0 +1,151 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,,n
+308,4,div,,n
+310,308,div,,n
+312,310,h1,Manga,n
+314,310,div,,n
+315,314,div,,n
+317,315,span,Manga,n
+319,315,span,Art Material,n
+320,314,div,,n
+322,320,span,Rate this tutorial,n
+327,320,div,,n
+328,327,select,,n
+330,328,option,Select rating,n
+332,328,option,Give it 1 or 5,n
+334,328,option,Give it 2 or 5,n
+336,328,option,Give it 3 or 5,n
+338,328,option,Give it 4 or 5,n
+340,328,option,Give it 5 or 5,n
+341,327,div,,n
+343,341,div,Give it 1 or 5,n
+345,341,div,Give it 2 or 5,n
+347,341,div,Give it 3 or 5,n
+349,341,div,Give it 4 or 5,n
+351,341,div,Give it 5 or 5,n
+354,327,div,,n
+355,354,text,Average,n
+357,354,span,2,n
+368,310,p,"As a mangaka, you need to have precision tools",n
+369,308,div,,n
+373,369,div,,n
+375,373,h2,Leads,n
+377,373,p,pencils and mechanical pencils,y
+380,373,p,Mechanical pencils,y
+382,373,p,"Mechanical pencils, such as Criterium drafting pencils, have sharp points that won't blunt. They're perfect for meticulously creating a setting!",n
+385,373,li,your leads: from 0.3 to 2 mm.,n
+389,373,p,Paper pencils,y
+391,373,p,"For drawing features that need less precision, a normal pencil is better than a mechanical drafting pencil. There is little variation between lead diameters from one pencil to another, so it is the degree of hardness that counts.",n
+393,373,ul,,n
+395,393,li,"Pencils with hard leads produce clean, precise lines. Use a light touch with them: otherwise, you might leave marks on the paper that the printing will pick up.",n
+398,393,li,HB pencils,y
+401,393,li,Pencils with softer leads are used,n
+404,373,p,Don't forget to have a pencil sharpener on hand!,n
+406,369,div,,n
+408,406,h2,Memo,y
+410,406,p,Use them,n
+414,369,div,,n
+416,414,h2,Pen nibs and pens holders,y
+418,414,p,"These are a mangaka's favorite tools. For real pro inking, that's exactly the pen you need!",n
+421,414,p,Pen holders,y
+423,414,p,It has to fit your hand perfectly,n
+427,414,li,"Should it be metal, wood or plastic? It's six of one, half a dozen of the other. There's just one difference: the price! What's important is your comfort.",n
+429,369,div,,n
+431,429,h2,Some advice,n
+433,429,p,"For extended drawing, add to your comfort with a rubber grip on the part of your pen holder where you place your fingers.",n
+436,429,p,Pen holders can be used with any shape nib… with just one exception: nibs with a round base require a special pen holder with a reservoir.,n
+437,369,div,,n
+439,437,h2,nibs,y
+440,437,ul,,n
+443,440,li,G Nib,y
+447,440,li,Round Nib,y
+451,440,li,Turnip Nib,y
+454,369,div,,n
+456,454,h2,the trade,n
+458,454,p,"Heat your nib over the flame of a cigarette lighter or candle , it will hold the ink better and flow more slowly.",n
+462,369,div,,n
+464,462,h2,Markers and other pens,y
+466,462,p,"The great mangaka are using markers and ball points more and more, alone or with traditional pens.",n
+468,462,ul,,n
+471,468,li,The wide marker,y
+473,468,li,,n
+475,473,strong,The paint brush marker,y
+476,473,text,or,n
+478,473,strong,paint brush pen,y
+482,468,li,The rapidograph,y
+484,369,div,,n
+486,484,h2,Paintbrushes,y
+488,484,p,"Whether doing a retouch or a full inking, painting with a brush requires a good mastery of drawing. Just one piece of advice: practice until you feel completely comfortable!",n
+491,484,li,Choose very fine sable hair brushes.,n
+492,369,div,,n
+494,492,h2,Inks,y
+496,492,p,How can you tell a high quality ink?,n
+500,492,li,Do a test,n
+505,492,p,Traditional inks,y
+506,492,ul,,n
+507,506,li,,n
+509,507,strong,India ink,y
+510,507,text,"is the blackest of the black inks. It is water soluble, which implies fairly slow drying. It is very hard to remove, even with an eraser.",n
+511,506,li,,n
+513,511,strong,Drawing ink,y
+514,511,text,"is also water soluble, but dries faster than India ink. It is easy to remove with an eraser.",n
+515,506,li,,n
+517,515,strong,industrial ink,y
+518,515,text,is completely waterproof. The advantage,n
+522,492,p,Special inks,y
+523,492,ul,,n
+524,523,li,,n
+526,524,strong,IC Comic Super Black,n
+527,524,text,"is, as its name indicates, a very black ink. When applied to paper, it is matte. It dries very fast! Make sure to clean your pens regularly when working with it. It cannot be removed with an eraser.",n
+528,523,li,,n
+530,528,strong,Kuretake Manga Black,n
+531,528,text,"is a special Japanese manga ink. Its black color is just as pure as India ink. However, it is waterproof and dries very quickly.",n
+535,369,div,,n
+537,535,h2,White,n
+539,535,p,"Retouching, correcting and creating effects… white ink is just as basic as black!",n
+541,535,ul,,n
+542,541,li,,n
+544,542,strong,Opaque white,n
+545,542,text,"comes in a bottle. Because it is fluid, its ""packaged"" effect is limited.",n
+548,541,li,White correction fluid,y
+550,541,li,,n
+552,550,strong,Its white ink,n
+553,550,text,is water soluble and is applied with a fine paint brush. It is easier to use than white correction fluid.,n
+560,4,div,,n
+563,560,div,,n
+565,563,span,Discover us,n
+566,563,ul,,n
+568,566,li,Our news,n
+570,566,li,About us,n
+572,566,li,Newsletter,n
+574,560,div,,n
+576,574,span,Need help ?,n
+577,574,ul,,n
+579,577,li,Which paper should I choose ?,n
+581,577,li,Contact us,n
+585,560,div,Follow us,n
+597,4,div,,n
+599,597,span,Footer Bottom,n
+602,597,li,Legal notices and Privacy,n
+605,0,div,,n
+607,605,div,,n
+608,607,div,,n
+610,608,div,,n
+614,610,div,,n
+616,614,small,Hi there!,n
+618,614,span,We're the cookies,n
+620,610,p,,n
+621,620,text,"We waited to make sure that you were interested in the content of this website before bothering you, but we would love to be your companions during your visit...",n
+624,620,br,Is that OK with you?,n
+628,608,span,Consentements certifiés par,n
+635,608,div,,n
+638,635,div,Axeptio is a trusted third party that collects and store your preferences about privacy.,n
+639,635,div,,n
+641,639,span,Do you have a website and play by the rules?,n
+642,639,text,Check Axeptio,n
+644,607,div,,n
+646,644,button,"No, thanks",n
+648,644,button,I want to choose,n
+650,644,button,Accept and close,n
+653,605,div,Axeptio consent,n

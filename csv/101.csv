@@ -1,0 +1,397 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+10,2,h1,Simple Computer Aided Railway Modeller,n
+21,2,font,,n
+27,21,table,Home,n
+31,21,div,,n
+32,31,text,SCARM means Simple Computer Aided Railway Modeller – software for easy and precise design of model train layouts and railroad track plans.,n
+37,31,br,"With SCARM you can easily create the layout of your dreams. Just download the setup package, install it and start editing your first track plan.",n
+40,31,br,In SCARM you can use unlimited number* of tracks and objects from more than 225 libraries and instantly see your design in 3D preview with a single click.,n
+43,31,br,And don't forget,n
+48,31,div,* Only in the licensed version,n
+54,21,div,,n
+59,54,table,Contents,n
+60,54,ul,,n
+63,60,li,Download,n
+65,60,li,Purchase,n
+67,60,li,Features,n
+69,60,li,Extensions,n
+71,60,li,Screenshots,n
+73,60,li,Getting Started,n
+75,60,li,Online Help and FAQ,n
+77,60,li,Included Track Libraries,n
+79,60,li,"Information, Tutorials and Resources",n
+81,60,li,Version History,n
+83,60,li,Useful Links,n
+84,21,div,,n
+85,84,div,,n
+86,85,text,Download SCARM,n
+88,85,br,Version 1.9.1 Multilingual,n
+91,85,span,for Windows XP or Vista or 7 or 8 or 10,n
+94,84,div,,n
+95,94,text,Model Train Layouts and Track Plans,n
+97,94,br,for your inspiration,n
+100,84,div,,n
+101,100,text,Model Trains Simulator,n
+103,100,br,for SCARM,n
+104,21,div,,n
+109,104,table,Testimonials,n
+111,104,p,I am using SCARM since about three years and - after I've got used to it - find it very helpful. Therefore I'd like to thank you very much for providing this wonderful tool! Greetings from Switzerland!,n
+113,104,p,Christian Völcker,n
+115,104,p,This is the best modelling software,n
+117,104,p,,n
+118,117,text,Thomas Goncalves,n
+121,117,font,SCARM Blog,n
+122,21,div,,n
+128,122,table,Download,n
+138,122,table,,n
+139,138,p,,n
+140,139,text,SCARM 1.9.1 Multilingual,n
+142,139,nobr,72 MB from 12 Apr 2022,n
+146,138,table,,n
+147,146,tr,,n
+149,147,td,System requirements,n
+151,147,td,,n
+152,151,text,Windows XP or Vista or 7 or 8 or 10,n
+154,151,br,OpenGL compatible graphics,n
+155,146,tr,,n
+157,155,td,Installation type,n
+160,155,td,Standalone installer,n
+163,146,tr,Languages,n
+166,146,tr,,n
+168,166,td,License,n
+171,166,td,Freeware,n
+179,122,p,"After installing, start the program and select your preferred language from ""View"" > ""Language"" menu.",n
+181,122,p,"If you are upgrading from a previous beta version, please, read the article Everything About The Transition to SCARM 1.0.0 .",n
+184,21,div,,n
+190,184,table,Features,n
+193,184,p,What you can do with SCARM software?,n
+194,184,ul,,n
+196,194,li,You can create complex railroad layouts with many train stations on virtually unlimited area,n
+200,194,li,"You can shape flex-tracks easily, intuitively and most important – in very realistic way",n
+204,194,li,"You can deploy your layout on more than one level, with different heights and slopes for chosen sections of the track route",n
+208,194,li,You can place tunnels and bridges on the track plan,n
+212,194,li,"You can draw figures to create buildings of train stations, houses, industries, etc. together with all needed roads and infrastructure",n
+216,194,li,You can use semaphores and color light signals to create the signalling in the layout track route,n
+220,194,li,"You can see a 3D view of your layout - just select ""3D"" button from the toolbar and review your design from all sides and angles",n
+224,194,li,"You can measure distances and check track sections' lengths using the ""Tools"" menu",n
+228,194,li,You can export and or or print your layout and share it with other model train fans and enthusiasts,n
+234,194,li,You can view and print a list with the track pieces needed and even use it as a shopping list,n
+238,194,li,the main program with various extensions like the Model Trains Simulator,n
+243,194,li,"You can share your ideas with the author, request new features and report bugs and errors, if you find any",n
+244,21,div,,n
+250,244,table,Included Track Libraries,n
+253,244,p,SCARM software supports more than 225 track and object libraries.*,n
+260,244,ul,,n
+262,260,li,Accucraft IIm C250,n
+266,260,li,American Flyer S,n
+270,260,li,American Models S,n
+273,260,li,Aristo-Craft G EU Brass,n
+278,260,li,Aristo-Craft G US Stainless Steel,n
+283,260,li,Aristo-Craft G US Brass,n
+288,260,li,Arnold N Rapido,n
+292,260,li,Atlas HO Snap-Track C100,n
+296,260,li,Atlas HO Snap-Track C83,n
+300,260,li,Atlas HO True-Track C83,n
+304,260,li,Atlas N C80,n
+308,260,li,Atlas N True-Track C65,n
+312,260,li,Atlas N C55,n
+316,260,li,Atlas O 2-rail C148,n
+320,260,li,Atlas O 3-rail,n
+324,260,li,Atlas O Industrial,n
+328,260,li,Atlas Z C55,n
+332,260,li,Bachmann G Large Scale,n
+336,260,li,Bachmann G Large Scale,n
+340,260,li,Bachmann HO E-Z Nickel-Silver,n
+344,260,li,Bachmann HO E-Z Steel,n
+348,260,li,Bachmann N E-Z Nickel-Silver,n
+352,260,li,Bachmann OO Branchline,n
+356,260,li,Bachmann O E-Z,n
+360,260,li,Bachmann O Williams tubular tracks,n
+364,260,li,Bachmann O27 Williams tubular tracks,n
+368,260,li,Bassett Lowke O Hand-made tracks,n
+373,260,li,Bemo H0e,n
+376,260,li,Bemo H0m Standard,n
+380,260,li,Bemo H0m Model C70,n
+384,260,li,Bemo 0m Ferro-Flex,n
+388,260,li,Brawa H0 Transfer table,n
+393,260,li,British Finescale N FinetraX C40,n
+397,260,li,British Finescale 00 FinetraX C75,n
+401,260,li,Busch H0f Feldbahn,n
+405,260,li,Cumberland Model Engineering F C215,n
+409,260,li,Cumberland Model Engineering F C250,n
+413,260,li,Egger-Bahn H0e,n
+418,260,li,Eishindo T,n
+421,260,li,ETS O,n
+424,260,li,Faller HO AMS,n
+430,260,li,Faller O Hit Train,n
+435,260,li,Faller O eTrain,n
+440,260,li,Fast Tracks HO Hand laid track templates,n
+444,260,li,Fast Tracks N Hand laid track templates,n
+448,260,li,Fast Tracks S Hand laid track templates,n
+452,260,li,Fast Tracks TT Hand laid track templates,n
+456,260,li,Fleischmann H0 Modell,n
+461,260,li,Fleischmann H0 Profi,n
+466,260,li,Fleischmann N Piccolo,n
+470,260,li,Flesichmann N,n
+473,260,li,Fleischmann ТТ,n
+477,260,li,Frateschi HO,n
+480,260,li,G. Weller H0 C83,n
+484,260,li,GarGraves I flex tracks,n
+488,260,li,"GarGraves O 3-rail Phantom plastic and wooden ties, tin plated",n
+492,260,li,"GarGraves O 3-rail Phantom plastic and wooden ties, stainless steel",n
+496,260,li,GarGraves S tin plated tracks,n
+500,260,li,GarGraves S stainless steel tracks,n
+504,260,li,Haskell HOn3.5 flex track,n
+508,260,li,Hegob I,n
+511,260,li,Heljan H0 Turntables,n
+515,260,li,Heyn I,n
+518,260,li,Heyn II C332,n
+522,260,li,Hornby OO,n
+526,260,li,Hornby OO Dublo 2-rail,n
+531,260,li,Hornby OO Dublo 3-rail,n
+537,260,li,Hornby O 2-rail,n
+542,260,li,Hübner I,n
+546,260,li,Ibertren N,n
+550,260,li,Ibertren N 3N,n
+555,260,li,Jatt ТТ Bima,n
+560,260,li,Jouef H0 New railsor 01,n
+565,260,li,Jouef H0Old rails,n
+570,260,li,Jouef H0e Narrow gauge tracks,n
+575,260,li,Kato HO Unitrack,n
+579,260,li,Kato N Unitrack,n
+584,260,li,Kato N Unitram,n
+588,260,li,Kleinbahn H0,n
+591,260,li,KM1 I,n
+594,260,li,KM1 O,n
+597,260,li,Kuehn TT,n
+600,260,li,Lenz O,n
+603,260,li,Lego L 4.5V,n
+607,260,li,Lego L 9V,n
+611,260,li,Lego L RC,n
+615,260,li,Lego L Streets,n
+619,260,li,LGB G,n
+623,260,li,Life-Like HO Power-Loc Nickel-Silver,n
+627,260,li,Life-Like HO Power-Loc Steel,n
+631,260,li,Life-Like N Power-Loc,n
+635,260,li,Lima H0,n
+639,260,li,Lima H0 NEM120,n
+644,260,li,Lima H0 Hobby Line,n
+649,260,li,Lionel G Add-on pack,n
+653,260,li,Lionel HO Magnelock,n
+657,260,li,Lionel O,n
+660,260,li,Lionel O FasTrack,n
+664,260,li,Lionel O27,n
+667,260,li,Lionel O Super O,n
+672,260,li,Lionel O K-Line SuperStreets,n
+677,260,li,Lionel RTP Ready-To-Play,n
+681,260,li,Lionel S American Flyer,n
+685,260,li,Lionel S FasTrack,n
+689,260,li,LUNA H0 Tram tracks,n
+693,260,li,LUNA H0 Tram track system,n
+697,260,li,LUNA H0 Tram track system,n
+701,260,li,LUNA H0m Narrow gauge tram tracks,n
+705,260,li,LUNA H0m Narrow gauge tram track system,n
+709,260,li,LUNA H0m Narrow gauge tram track system,n
+713,260,li,Märklin H0 Alpha,n
+718,260,li,Märklin H0 C,n
+723,260,li,Märklin H0 C Start-up,n
+727,260,li,Märklin H0 K,n
+731,260,li,Märklin H0 M,n
+736,260,li,Märklin H0 My World,n
+740,260,li,Märklin H0 3600 series,n
+745,260,li,Märklin H0 3900 series,n
+750,260,li,Märklin I,n
+753,260,li,Märklin Z Miniclub,n
+758,260,li,Marx O27,n
+762,260,li,Mehano HO,n
+765,260,li,Menards O 3-rail tubular tracks,n
+769,260,li,Micro Engineering HO C83,n
+773,260,li,Micro Engineering HO C70,n
+777,260,li,Micro Engineering HO Ladder track system,n
+781,260,li,Micro Engineering HOn3 C70,n
+785,260,li,Micro Engineering N C70,n
+789,260,li,Micro Engineering N C55,n
+793,260,li,Micro Engineering On30 C83,n
+797,260,li,Micro Engineering On30 C70,n
+801,260,li,Microtrains Z Micro-Track,n
+805,260,li,Millhouse River Studio O Turntables,n
+809,260,li,Minitrains H0e,n
+812,260,li,ModelPower HO C100,n
+816,260,li,MTH O RealTrax,n
+820,260,li,MTH O ScaleTrax,n
+824,260,li,MTH S S-Trax,n
+828,260,li,MTH Standard Gauge Lionel Corp,n
+832,260,li,MTH Standard Gauge RealTrax,n
+836,260,li,Peco G C250,n
+840,260,li,Peco HO or OO Streamline and Set-track C100,n
+844,260,li,Peco HO Streamline C83,n
+848,260,li,Peco HO or OO Streamline C75,n
+852,260,li,Peco HO Streamline C70,n
+856,260,li,Peco HOn3 C70,n
+860,260,li,Peco HOm C75,n
+864,260,li,Peco HOe or OO9 C80,n
+868,260,li,Peco I C200,n
+872,260,li,Peco N Streamline and Set-track C80,n
+877,260,li,Peco N Finescale C55,n
+881,260,li,Peco O Flat-Bottom C143,n
+885,260,li,Peco O Bullhead C124,n
+889,260,li,Peco Oe or O16.5 or On30 C100,n
+893,260,li,Peco SM32 C200,n
+897,260,li,Peco Z C60,n
+901,260,li,PIKO G,n
+904,260,li,PIKO H0 A-track,n
+908,260,li,PIKO H0 A-track,n
+912,260,li,PIKO H0 A-track,n
+916,260,li,PIKO H0 Standard,n
+921,260,li,PIKO H0 Modell,n
+926,260,li,PIKO N,n
+930,260,li,Playmobil G RC,n
+934,260,li,PMT H0e Technomodell,n
+938,260,li,PMT H0e Technomodell,n
+942,260,li,PMT H0f Technomodell,n
+946,260,li,ProLine G Train Line 45,n
+950,260,li,RBS Modellbau TT Transfer tables,n
+954,260,li,Rivarossi H0,n
+958,260,li,Roco H0 GeoLine,n
+962,260,li,Roco H0 Line,n
+966,260,li,Roco H0 Line,n
+970,260,li,Roco H0 2.5mm Nickel Silver,n
+975,260,li,Roco H0 2.5mm Brass,n
+980,260,li,Roco H0e,n
+983,260,li,Roco N,n
+986,260,li,Roco Om Fama or Utz or Alpinline,n
+990,260,li,Roco ТТ,n
+994,260,li,Rokuhan Z,n
+997,260,li,Ross Custom Switches O 3-rail,n
+1001,260,li,Scenery Unlimited S Turntables,n
+1005,260,li,Shinohara N C70,n
+1017,260,li,Sunset Valley Railroad G C250,n
+1021,260,li,Tillig H0 Elite,n
+1025,260,li,Tillig H0 Standard,n
+1029,260,li,Tillig H0 or H0e 3-rail mixed tracks,n
+1033,260,li,Tillig H0 or H0m 3-rail mixed tracks,n
+1037,260,li,Tillig TT Roadbed,n
+1041,260,li,Tillig TT Roadbed,n
+1045,260,li,Tillig TT Model,n
+1049,260,li,Tillig TT Standard,n
+1055,260,li,Tomix N Fine Track,n
+1059,260,li,Tri-ang OO Series 3,n
+1064,260,li,Tri-ang OO Super 4,n
+1069,260,li,Tri-ang TT A,n
+1074,260,li,Tri-ang TT B,n
+1079,260,li,Trix HO C,n
+1084,260,li,Trix HO Express,n
+1089,260,li,Trix N Minitrix,n
+1093,260,li,USA LLC Standard Gauge,n
+1096,260,li,Walthers HO Cornerstone turntables,n
+1100,260,li,Walthers HO WalthersTrack new tracks C100,n
+1104,260,li,Walthers HO WalthersTrack new tracks C83,n
+1108,260,li,Walthers HO Shinohara C100,n
+1112,260,li,Walthers HO Shinohara C83,n
+1116,260,li,Walthers HOn3 Shinohara C70,n
+1120,260,li,Walthers N Cornerstone turntables,n
+1124,260,li,Weinert H0 Mein Gleis,n
+1128,260,li,Wesa 13mm,n
+1133,260,li,Signals BG L,n
+1139,260,li,Signals DE S,n
+1145,260,li,Signals IT L,n
+1151,260,li,Signals NL L,n
+1157,260,li,Signals UK L,n
+1163,260,li,Signals UK S,n
+1169,260,li,Signals US L,n
+1176,260,li,Roadways,n
+1179,260,li,Road signs CA,n
+1184,260,li,Road signs EU,n
+1189,260,li,Road signs US,n
+1195,260,li,Lamps,n
+1198,260,li,Trees,n
+1202,260,li,Compasses,n
+1205,260,li,Symbols,n
+1208,260,div,Additional libraries,n
+1212,260,li,Containers,n
+1218,260,li,Cars,n
+1224,244,p,,n
+1225,1224,text,*,n
+1227,1224,span,Some of the libraries are not fully completed. Data accuracy is not guaranteed. More libraries will come soon.,n
+1228,21,div,,n
+1234,1228,table,"Information, Tutorials and Resources",n
+1237,1228,p,The SCARM Blog is your ultimate source for updated information about the program. It contains many useful articles and resources about SCARM.,n
+1239,1228,ul,SCARM – The Railway Modeller’s Blog,n
+1241,1228,p,The blog contains the following categories,n
+1242,1228,ul,,n
+1243,1242,li,,n
+1244,1243,text,General -,n
+1247,1243,span,"General information, news and events, related to SCARM software",n
+1248,1242,li,,n
+1249,1248,text,Basic Stuff -,n
+1252,1248,span,SCARM basics and main features in details,n
+1253,1242,li,,n
+1254,1253,text,Advanced Techniques -,n
+1257,1253,span,For those who wants to become SCARM experts,n
+1258,1242,li,,n
+1259,1258,text,Tips and Tricks -,n
+1262,1258,span,Getting most productivity in your work with SCARM,n
+1263,1242,li,,n
+1264,1263,text,Tutorials and Examples -,n
+1267,1263,span,using various SCARM functions and features,n
+1268,1242,li,,n
+1269,1268,text,Railroad Layouts and Design Ideas -,n
+1272,1268,span,"Railway track plans, whole SCARM layouts and more",n
+1273,1242,li,,n
+1274,1273,text,Problems and Solutions -,n
+1277,1273,span,potential issues,n
+1282,1228,p,Do not miss the video tutorials about SCARM created by Ruud Boer and J. B. aka Gilshrat.,n
+1284,1228,ul,SCARM Video Tutorial Series,n
+1288,1228,p,"If you are looking for examples and projects designed in SCARM software, go to the special Layouts and Track Plans website and search by scale, size, track system and more.",n
+1290,1228,ul,SCARM Model Train Layouts and Track Plans,n
+1294,1228,p,"Join us on the social sites, share your comments and stay up-to-date with all news and events, related to SCARM software.",n
+1311,21,div,,n
+1317,1311,table,Useful Links,n
+1320,1311,p,Check out these links to other model train related sites and resources.,n
+1321,1311,ul,,n
+1323,1321,li,RailServe.com - The Internet Railroad Directory,n
+1326,1321,li,useful model railroading guides and resources,n
+1329,1321,li,ScalaTT.it - Creative model railways,n
+1332,1321,li,TT Scale Model Trains - The Perfect Gauge,n
+1335,1321,li,Streka.net - Site,n
+1340,1311,li,"ANKA - Hearing aids, blood glucose and lactate meters, speech devices and cannulas, service and consumables",n
+1346,21,ul,,n
+1348,1346,li,Free Software Downloads,n
+1350,1346,li,Free Software Library,n
+1352,1346,li,Free Links Directory,n
+1354,1346,li,Software Informer,n
+1356,1346,li,Softpedia.com,n
+1358,1346,li,Softpicks.net,n
+1364,21,div,Top,n
+1365,21,div,,n
+1366,1365,div,,n
+1368,1366,p,Program and Features,n
+1371,1366,div,Download,n
+1373,1366,div,Features,n
+1375,1366,div,Screenshots,n
+1377,1366,div,Included Track Libraries,n
+1379,1366,div,Model Trains Simulator,n
+1381,1366,div,Version History,n
+1383,1365,div,,n
+1385,1383,p,Help and Resources,n
+1388,1383,div,Getting Started,n
+1390,1383,div,Online Help and FAQ,n
+1392,1383,div,Video Tutorial Series,n
+1394,1383,div,The Railway Modeller’s Blog,n
+1396,1383,div,Model Train Layouts and Track Plans,n
+1398,1383,div,Known Issues,n
+1400,1365,div,,n
+1402,1400,p,Info and Feedback,n
+1405,1400,div,About,n
+1415,1400,div,Contact,n
+1417,1365,div,,n
+1419,1417,p,Support SCARM,n
+1422,1417,div,Languages and Translations,n
+1426,21,p,,n
+1428,1426,nobr,©by Milen Peev.,n
+1430,1426,nobr,All rights reserved.,n
+1433,1426,nobr,Use at your own risk according to our,n
+1435,1426,nobr,Use and Privacy Policy .,n
+1440,1426,br,their respective owners.,n

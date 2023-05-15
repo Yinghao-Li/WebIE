@@ -1,0 +1,238 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,,n
+1096,4,div,,n
+1124,1096,div,,n
+1125,1124,div,,n
+1127,1125,h1,Floral Tools 101,n
+1128,1125,div,,n
+1131,1128,span,6,n
+1143,1128,span,6 reviews,n
+1148,1125,p,"In this video we’ll show you tips and tricks to get started on both fresh and faux floral arrangements. So grab your scissors and sheers, a pretty vase, and a bouquet of blossoms and let’s get started on learning how to arrange flowers!",n
+1153,1124,div,,n
+1155,1153,p,,n
+1156,1155,text,Inspired?,n
+1158,1155,span,Share it,n
+1159,1153,ul,,n
+1161,1159,span,Pinterest,n
+1164,1159,span,Facebook,n
+1167,1159,span,Twitter,n
+1171,1096,div,,n
+1174,1171,h2,Items You Will Need,n
+1177,1171,p,Quantities shown below are recommended,n
+1208,1171,div,,n
+1214,1208,div,,n
+1217,1214,span,Mini Foam Stik Low Temp Glue Gun,y
+1225,1214,span,$7.99,n
+1255,1208,div,,n
+1258,1255,span,"Singer Professional Series Scissors - 4 1 or 2""",y
+1266,1255,span,$12.99,n
+1298,1208,div,,n
+1301,1298,span,Floral Shears and Wire Cutters,y
+1309,1298,span,$9.99,n
+1342,1208,div,"Floral Stem Cutters - 6 1 or 2""",y
+1375,1171,div,,n
+1384,1375,div,"Craft and Floral Shears - 8""",y
+1422,1375,div,,n
+1425,1422,span,"5 3 or 4"" Snapper Wire Cutter",y
+1433,1422,span,$19.99,n
+1463,1375,div,,n
+1466,1463,span,Safety Glasses,y
+1474,1463,span,$4.47,n
+1504,1375,div,,n
+1507,1504,span,Moss Green Floral Stem Wrapping Tape,y
+1515,1504,span,$2.99,n
+1542,1171,div,,n
+1548,1542,div,,n
+1551,1548,span,Green Enamel Coiled Floral Annealed Wire,y
+1559,1548,span,$3.99,n
+1589,1542,div,,n
+1592,1589,span,Steel Floral Picks,y
+1600,1589,span,$17.99,n
+1630,1542,div,,n
+1633,1630,span,Steelpix Professional Stemming Machine,y
+1641,1630,span,$229.99,n
+1671,1542,div,,n
+1674,1671,span,Aleene's Tacky Glue - 8 Ounce,y
+1682,1671,span,$3.49,n
+1712,1171,div,Reset all options,n
+1744,1096,div,,n
+1747,1744,h2,Reviews,n
+1749,1744,div,,n
+1752,1749,div,Write a Review,n
+1753,1749,div,,n
+1755,1753,h3,Write a Review,n
+1757,1753,h3,Be the first to write a review.,n
+1760,1753,div,Thank you,n
+1762,1749,div,,n
+1765,1762,div,"If you are using a screen reader, please skip this step.",n
+1768,1762,div,,n
+1773,1768,div,,n
+1775,1773,legend,Rate this project,n
+1778,1773,span,5 stars,n
+1782,1773,span,5 stars,n
+1786,1773,span,5 stars,n
+1790,1773,span,5 stars,n
+1794,1773,span,5 stars,n
+1797,1768,div,,n
+1799,1797,div,,n
+1804,1799,div,Review title,n
+1807,1799,p,,n
+1809,1807,span,50 characters maximum,n
+1812,1807,span,50,n
+1818,1799,div,Your review,n
+1821,1799,p,,n
+1823,1821,span,255 characters maximum,n
+1826,1821,span,255,n
+1832,1799,div,Your name,n
+1834,1799,p,,n
+1836,1834,span,25 characters maximum,n
+1839,1834,span,25,n
+1842,1797,div,,n
+1845,1842,span,Review writing tips,n
+1848,1842,div,,n
+1850,1848,p,Help others make informed decisions by reviewing this project.,n
+1851,1848,ul,,n
+1853,1851,li,We'd love to know,n
+1855,1851,li,Whether you liked or disliked the project?,n
+1857,1851,li,"Which specific features you liked or disliked, and why.",n
+1858,1848,ul,,n
+1860,1858,li,Please do not include,n
+1862,1858,li,Profanity or obscenities.,n
+1864,1858,li,Advertisements.,n
+1866,1858,li,Links to other websites.,n
+1868,1848,p,"For questions or concerns regarding recent orders or product availability, please contact us .",n
+1872,1762,div,,n
+1874,1872,span,Return to Reviews,n
+1877,1872,span,Submit,n
+1881,1749,div,,n
+1882,1881,div,,n
+1883,1882,div,,n
+1884,1883,div,,n
+1898,1884,p,Carolyn,n
+1900,1884,p,"February 05, 2021",n
+1901,1883,div,,n
+1903,1901,h3,Best How-To Floral Arranging Video,n
+1905,1901,p,Great ideas! Pleasant voice to listen to. I'm going to try this!,n
+1906,1882,div,,n
+1907,1906,div,,n
+1921,1907,p,Diane,n
+1923,1907,p,"October 11, 2020",n
+1924,1906,div,,n
+1926,1924,h3,Nicely done,n
+1928,1924,p,"I learned new methods of arranging flowers. The machine is neat but for us hobby people, it is a little pricey. But I loved learning about it",n
+1929,1882,div,,n
+1930,1929,div,,n
+1944,1930,p,Lauren,n
+1946,1930,p,"May 06, 2019",n
+1947,1929,div,,n
+1949,1947,h3,Helpful and informative,n
+1951,1947,p,Excellent tutorial - thank you!,n
+1952,1882,div,,n
+1953,1952,div,,n
+1967,1953,p,Emily Beaird,n
+1969,1953,p,"September 20, 2017",n
+1970,1952,div,,n
+1972,1970,h3,Nicely done.,n
+1974,1970,p,Clear instruction and visuals. I'm a beginner so examples are important,n
+1975,1882,div,,n
+1976,1975,div,,n
+1990,1976,p,April,n
+1992,1976,p,"August 19, 2017",n
+1993,1975,div,,n
+1995,1993,h3,Great Video,n
+1997,1993,p,"I am a beginner, and I thought this video was very informative. I feel much more confident heading out to the store to purchase the items needed to make an arrangement! I'm so excited to get started!",n
+1998,1882,div,,n
+1999,1998,div,,n
+2013,1999,p,6,n
+2015,1999,p,"March 08, 2016",n
+2016,1998,div,,n
+2018,2016,h3,Floral Tools 101,n
+2020,2016,p,For a beginner - this was a perfect video for me to watch. I got some great tips before I head out to do my shopping for my Spring Umbrella Arrangement.,n
+2023,1881,p,6 reviews,n
+2025,4,div,,n
+2026,2025,div,,n
+2043,2026,section,,n
+2045,2043,h4,Customer Service,n
+2046,2043,ul,,n
+2050,2046,li,Shipping and Returns,n
+2052,2046,li,Order Status,n
+2054,2046,li,Quick Order,n
+2056,2046,li,FAQ,n
+2058,2046,li,Recalls,n
+2060,2046,li,Supply Chain,n
+2062,2046,li,Accessibility,n
+2063,2026,section,,n
+2065,2063,h4,About Us,n
+2066,2063,ul,,n
+2070,2066,li,Affiliated Companies,n
+2072,2066,li,Holiday Messages,n
+2074,2066,li,Newsroom,n
+2078,2026,div,Cached Time = Mon Jun 27 15:03:35 CDT 2022,n
+2079,2026,div,,n
+2083,2079,h5,Find and Share Inspiration,n
+2084,2079,ul,,n
+2087,2084,li,Pinterest,n
+2091,2084,li,Facebook,n
+2095,2084,li,Youtube,n
+2099,2084,li,Instagram,n
+2103,2084,li,Twitter,n
+2109,2079,h5,Sign up and Start Saving,n
+2121,2025,ul,,n
+2123,2121,li,®2022 Hobby Lobby,n
+2125,2121,li,Privacy and Terms,n
+2136,0,div,,n
+2141,2136,div,,n
+2146,2141,p,"This website uses cookies. By continuing to navigate this website, you represent that you consent to the use and or or disclosure of your personal information in accordance with our privacy policy and your customized cookie settings. View Privacy Policy",n
+2149,2141,div,,n
+2151,2149,button,Customize Cookie Settings,n
+2153,2149,button,GOT IT!,n
+2156,2136,div,,n
+2161,2156,h2,Privacy Preference Center,n
+2165,2156,div,,n
+2167,2165,ul,,n
+2171,2167,li,Your Privacy,n
+2175,2167,li,Strictly Necessary Cookies,n
+2179,2167,li,Performance Cookies,n
+2183,2167,li,Functional Cookies,n
+2187,2167,li,Marketing Cookies,n
+2188,2165,div,,n
+2189,2188,div,,n
+2191,2189,h4,Your Privacy,n
+2192,2189,p,,n
+2193,2192,text,"When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.",n
+2195,2192,br,More information,n
+2196,2188,div,,n
+2197,2196,div,,n
+2199,2197,h4,Strictly Necessary Cookies,n
+2202,2197,div,Always Active,n
+2204,2196,p,"These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.",n
+2205,2188,div,,n
+2206,2205,div,,n
+2208,2206,h4,Performance Cookies,n
+2214,2206,div,Performance Cookies,n
+2217,2205,p,"These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.",n
+2218,2188,div,,n
+2219,2218,div,,n
+2221,2219,h4,Functional Cookies,n
+2227,2219,div,Functional Cookies,n
+2230,2218,p,These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.,n
+2231,2188,div,,n
+2232,2231,div,,n
+2234,2232,h4,Marketing Cookies,n
+2240,2232,div,Marketing Cookies,n
+2243,2231,p,"These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.",n
+2244,2156,section,,n
+2245,2244,div,,n
+2250,2245,h3,Back,n
+2263,2245,div,,n
+2265,2263,span,Consent,n
+2267,2263,span,Leg.Interest,n
+2292,2244,div,,n
+2294,2292,button,Clear,n
+2305,2292,div,,n
+2307,2305,button,Apply,n
+2309,2305,button,Cancel,n
+2311,2156,div,,n
+2313,2311,button,Confirm My Choices,n
+2316,2311,div,Allow All,n

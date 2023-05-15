@@ -1,0 +1,243 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,,n
+6,4,div,,n
+7,6,div,,n
+8,7,article,,n
+9,8,section,,n
+11,9,h1,Connect smart home devices in the Google Home app,n
+13,9,div,,n
+15,13,p,You can remotely control smart devices when you set them up in the Google Home app.,n
+18,13,p,Important,n
+23,13,h2,Supported smart home devices,n
+25,13,p,supported smart home devices,n
+27,13,h2,Step 1. Set up smart home devices,n
+28,13,text,"If you haven’t already done so, follow the steps provided by the device maker to set up your smart home devices.",n
+30,13,h2,Step 2. Connect smart home devices in the Google Home app,n
+31,13,ol,,n
+35,31,li,,n
+36,35,text,"At the top left, tap Add",n
+38,35,strong,Set up device,n
+40,35,strong,Works with Google.,n
+42,31,li,Select the device maker from the list.,n
+44,31,li,"To complete the setup, follow the in-app steps.",n
+46,13,h2,Manage your smart home devices,n
+47,13,div,,n
+49,47,div,Set nicknames,n
+55,47,p,You can choose names to call your smart home devices.,n
+78,13,div,,n
+80,78,div,Assign devices to a room,n
+83,78,div,,n
+85,83,p,"To control your devices more easily, assign them to a room in a home. You can create a new home , create a new room, or add your devices to an existing room. You can add each device to one room only.",n
+94,83,h3,Add the device to a room in your current home,n
+110,83,h3,Change a device’s room,n
+128,83,h3,Add the device to a new room in your current home,n
+139,83,li,scroll to the bottom and tap,n
+148,83,h3,Add the device to a room in a different home,n
+153,83,li,,n
+157,153,strong,Home,n
+158,153,text,choose a home tap,n
+171,153,text,"This action removes the device from the room in the first home. The device is still linked in the first home, but it should appear under ""In your home"" or “Local devices” instead of the room name.",n
+172,13,div,,n
+175,172,h2,Create and manage rooms,n
+177,172,div,,n
+179,177,h3,Create a new room,n
+180,177,ol,,n
+191,180,li,Room.,n
+192,180,li,,n
+194,192,strong,C,n
+195,192,text,hoose a suggested room name or scroll to the bottom and tap,n
+204,177,h3,Rename a room,n
+205,177,ol,,n
+210,205,li,"At the top, select the home with the room you want to rename.",n
+212,205,li,the room you want to change.,n
+224,177,h3,Delete a room,n
+225,177,ol,,n
+230,225,li,"At the top, select the home with the room you want to delete.",n
+232,225,li,the room you want to delete.,n
+233,225,li,,n
+236,233,strong,Delete room,n
+238,233,strong,Remove,n
+243,13,div,,n
+246,243,h2,Check,n
+249,243,div,,n
+251,249,h3,With your voice,n
+253,249,table,,n
+254,253,tr,,n
+256,254,td,To do this,n
+259,254,strong,"Say ""Hey Google"" or ""Ok Google,"" then:",n
+260,253,tr,,n
+262,260,td,Sync all devices,n
+264,260,td,"""Sync my devices""",n
+265,253,tr,,n
+267,265,td,Sync a device type,n
+269,265,td,"""Sync my lights""",n
+272,249,p,Important,n
+273,249,ul,,n
+275,273,li,You must have already set up your devices in the partner app .,n
+277,273,li,"If you sync multiple devices at once, you may receive a timeout error.",n
+279,249,h3,With the Google Home app,n
+280,249,ol,,n
+285,280,li,"Under ""In your home"" or ""Local devices,"" you can find all devices on the same network that aren’t part of a home or room.",n
+287,280,li,Follow the steps to set a nickname,n
+293,13,div,Disconnect devices from the Google Home app,n
+295,13,div,,n
+301,295,p,When you unlink a device from a home,n
+302,295,div,,n
+303,302,ul,,n
+305,303,li,It disconnects the device,n
+307,303,li,It unlinks the device from your Google Account.,n
+308,302,ol,,n
+310,308,li,Make sure your devices are powered on.,n
+317,308,li,,n
+318,317,text,Tap Settings unlink your linked service,n
+321,317,text,tap,n
+323,317,strong,Unlink,n
+326,13,h2,Control your smart home devices,n
+328,13,p,"After you connect your smart devices in the Google Home app, you can use the Google Home app to control them. If you have a Google Nest or Home speaker or display, you can also use voice commands to control your smart devices.",n
+332,13,h3,Related content,n
+333,13,p,,n
+334,333,text,Control smart home devices using speakers or displays,n
+336,333,br,Supported Home control partners,n
+339,8,div,,n
+341,339,div,Was this helpful?,n
+343,339,div,How can we improve it?,n
+344,339,div,,n
+346,344,button,Yes,n
+348,344,button,No,n
+353,339,form,Submit,n
+355,7,div,,n
+356,355,div,,n
+358,356,h2,Need more help?,n
+360,356,h3,Try these next steps,n
+361,355,div,,n
+364,361,h4,Ask the Help Community,n
+366,361,span,Get answers from community experts,n
+369,361,h4,Contact us,n
+371,361,span,Tell us more and we’ll help you get there,n
+375,6,div,,n
+378,375,div,,n
+380,378,h2,Control your home,n
+381,378,ul,,n
+383,381,li,Set up smart devices in the Google Home app,n
+385,381,li,Control smart home devices added to the Google Home app,n
+387,381,li,Create commands to control online services and devices,n
+389,381,li,Share a home and devices in the Google Home app,n
+391,381,li,Remove Google Nest devices from the Google Home app,n
+393,381,li,Stream your security camera using your Google Nest display,n
+395,381,li,Stream your security camera on TV using a speaker or display,n
+397,381,li,Get doorbell visitor announcements on a speaker or display,n
+399,381,li,Set up and control Cync light bulbs and plugs,n
+401,381,li,Turn on your Christmas tree lights with your speaker or display,n
+403,381,li,Use smart lights with Google Nest or Home devices,n
+405,381,li,Use Gentle Sleep and Wake with your smart lights,n
+407,381,li,Control Tile using a Google Nest or Home speaker or display,n
+409,381,li,Customize smart plug or smart switch voice commands with device type,n
+411,381,li,Set up and control Microsoft Xbox devices with the Assistant,n
+413,381,li,Control smart devices with your Android phone,n
+415,381,li,Troubleshoot Seamless setup devices,n
+418,375,div,,n
+419,418,text,Have a question?,n
+421,418,p,Get an answer from an expert on the Google Home Help Forum.,n
+424,4,div,,n
+425,424,div,,n
+428,425,li,©2022 Google,n
+433,425,form,,n
+434,433,select,,n
+436,434,option,català‎,n
+438,434,option,dansk‎,n
+440,434,option,Deutsch‎,n
+442,434,option,English ‎,n
+444,434,option,English ‎,n
+446,434,option,English ‎,n
+448,434,option,English ‎,n
+450,434,option,English ‎,n
+452,434,option,español‎,n
+454,434,option,español ‎,n
+456,434,option,Filipino‎,n
+458,434,option,français‎,n
+460,434,option,français ‎,n
+462,434,option,Indonesia‎,n
+464,434,option,italiano‎,n
+466,434,option,Melayu‎,n
+468,434,option,Nederlands‎,n
+470,434,option,norsk‎,n
+472,434,option,português‎,n
+474,434,option,português ‎,n
+476,434,option,suomi‎,n
+478,434,option,svenska‎,n
+480,434,option,ไทย‎,n
+482,434,option,‎,n
+484,434,option,‎,n
+486,434,option,‎,n
+488,434,option,‎,n
+490,434,option,English‎,n
+491,433,div,,n
+493,491,span,English‎,n
+494,491,ol,,n
+496,494,li,català‎,n
+498,494,li,dansk‎,n
+500,494,li,Deutsch‎,n
+502,494,li,English ‎,n
+504,494,li,English ‎,n
+506,494,li,English ‎,n
+508,494,li,English ‎,n
+510,494,li,English ‎,n
+512,494,li,español‎,n
+514,494,li,español ‎,n
+516,494,li,Filipino‎,n
+518,494,li,français‎,n
+520,494,li,français ‎,n
+522,494,li,Indonesia‎,n
+524,494,li,italiano‎,n
+526,494,li,Melayu‎,n
+528,494,li,Nederlands‎,n
+530,494,li,norsk‎,n
+532,494,li,português‎,n
+534,494,li,português ‎,n
+536,494,li,suomi‎,n
+538,494,li,svenska‎,n
+540,494,li,ไทย‎,n
+542,494,li,‎,n
+544,494,li,‎,n
+546,494,li,‎,n
+548,494,li,‎,n
+550,494,li,English‎,n
+551,424,div,,n
+555,551,div,Enable Dark Mode,n
+556,551,div,,n
+558,556,div,Send feedback on...,n
+560,556,button,This help content and information,n
+562,556,button,General Help Center experience,n
+566,0,div,Search Help Center,n
+568,0,div,,n
+570,568,div,Google Help,n
+573,568,ul,,n
+574,573,div,,n
+576,574,li,Help Center,n
+577,574,ul,,n
+579,577,li,Speakers and Displays,y
+581,577,li,Nest Thermostat,y
+583,577,li,Cameras and Doorbell,y
+585,577,li,Locks and Alarm Systems,y
+587,577,li,Smoke Alarms,y
+589,577,li,Wi-Fi,y
+591,577,li,Subscriptions and Services,n
+593,577,li,Your privacy,n
+595,574,li,Community,n
+597,574,li,Google Nest,n
+604,573,li,Submit feedback,n
+607,0,div,"Get started Explore features Change your settings Troubleshoot an issue Warranty, manual and returns",n
+614,0,div,"Introducing Nest thermostats Get started Explore features and settings Fix a problem Warranty, manual and returns",n
+621,0,div,"Introducing Nest cameras and doorbells Get started Explore features and settings Fix a problem Warranty, manual and returns",n
+628,0,div,Locks Alarm Systems,n
+632,0,div,"Introducing Nest Protect Get started Explore features and settings Safety and certifications Fix a problem Warranty, manual and returns",n
+640,0,div,"Learn about Wifi products Get started Features and settings Fix a problem Warranty, manual and returns Your privacy",n
+648,0,div,Nest Aware Nest Renew Rush Hour Rewards HVAC monitoring Nest Pro installation ADT,n
+657,0,div,1633396,n
+667,0,div,false,n
+669,0,div,Search,n
+671,0,div,Clear search,n
+673,0,div,Close search,n
+675,0,div,Main menu,n
+677,0,div,Google apps,n

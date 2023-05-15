@@ -1,0 +1,291 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+250,0,p,,n
+285,250,div,,n
+346,285,div,,n
+350,346,div,,n
+351,350,div,,n
+664,351,div,,n
+665,664,div,,n
+668,665,h1,Free Printable Packing List,n
+670,665,h3,,n
+672,670,span,This is a very thorough list to make sure you never forget a thing when getting ready for long or short trips.,n
+674,670,span,Because organized travel is a whole lot better than unorganized travel. I've included several blank lines so you can add additional things for your own convenience.,n
+682,665,h3,What's Included on the Checklist,n
+686,665,div,"I know a lot of you like to know exactly what the contents of a printable are, prior to downloading. The following are all of the items included on this list, divided out by the subcategories that are also included on the printable.",n
+690,665,h4,"Clothing, etc.",n
+692,665,ul,,n
+696,692,li,underwear,y
+700,692,li,bras or undershirts,y
+704,692,li,misc. undergarments,y
+708,692,li,socks or hosiery,y
+712,692,li,pajamas,y
+716,692,li,belts,y
+720,692,li,scarves,y
+724,692,li,ties,y
+728,692,li,t-shirts,y
+732,692,li,casual shirts,y
+736,692,li,dress shirts or blouses,y
+740,692,li,jeans,y
+744,692,li,slacks,y
+748,692,li,casual pants or capris,y
+752,692,li,shorts,y
+756,692,li,skirts or skorts,y
+760,692,li,dresses,y
+764,692,li,suits,y
+768,692,li,sweaters,y
+772,692,li,hoodies or sweatshirts,y
+776,692,li,swimwear or cover ups,y
+780,692,li,coat or jacket,y
+784,692,li,rain coat or pancho,y
+788,692,li,gloves,y
+792,692,li,hats,y
+796,692,li,purses or waist packs,y
+800,692,li,casual shoes,y
+804,692,li,athletic shoes,y
+808,692,li,rain or snow boots,y
+812,692,li,sandals,y
+816,692,li,flip flops,y
+820,692,li,dress shoes,y
+824,692,li,laundry bag,y
+828,692,li,laundry soap,y
+832,692,li,travel sewing kit,y
+840,665,h4,"Toiletries, etc.",n
+842,665,ul,,n
+846,842,li,bar soap,y
+850,842,li,body wash,y
+854,842,li,face wash,y
+858,842,li,exfoliator,y
+862,842,li,face moisturizer,y
+866,842,li,sunscreen,y
+870,842,li,make up,y
+874,842,li,make up remover,y
+878,842,li,toothbrush,y
+882,842,li,toothpaste,y
+886,842,li,floss,y
+890,842,li,mouthwash,y
+894,842,li,deodorant,y
+898,842,li,body lotion,y
+902,842,li,cologne or perfume,y
+906,842,li,essential oils,y
+910,842,li,medications or supplements,y
+914,842,li,hair brush or comb,y
+918,842,li,hair ties or pins,y
+922,842,li,curling iron,y
+926,842,li,straightening iron,y
+930,842,li,hair dryer,y
+934,842,li,shampoo or conditioner,y
+938,842,li,shower cap,y
+942,842,li,shaving kit,y
+946,842,li,razor,y
+950,842,li,feminine hygiene products,y
+954,842,li,nail file or clippers,y
+958,842,li,tweezers,y
+962,842,li,nail polish,y
+966,842,li,first aid items,y
+970,842,li,hand sanitizer,y
+974,842,li,insect repellant,y
+978,842,li,lip balm,y
+982,842,li,tissues or cotton swabs,y
+990,665,h4,Miscellaneous,n
+992,665,ul,,n
+996,992,li,cell phone,y
+1000,992,li,tablet,y
+1004,992,li,laptop,y
+1008,992,li,electronic chargers,y
+1012,992,li,voltage adaptor,y
+1016,992,li,earbuds,y
+1020,992,li,books or magazines,y
+1024,992,li,camera or camera equipment,y
+1028,992,li,emergency contact list,y
+1032,992,li,ID or driver's license,y
+1036,992,li,birth certificate copies,y
+1040,992,li,passport or visas,y
+1044,992,li,cash,y
+1048,992,li,debit card,y
+1052,992,li,credit card,y
+1056,992,li,wallet,y
+1060,992,li,insurance information,y
+1064,992,li,travel documents,y
+1068,992,li,itinerary,y
+1072,992,li,maps or atlas,y
+1076,992,li,guidebooks,y
+1080,992,li,address book,y
+1084,992,li,paper or pen,y
+1088,992,li,stamps,y
+1092,992,li,travel pillow,y
+1096,992,li,travel blanket,y
+1100,992,li,sleeping mask,y
+1104,992,li,gum,y
+1108,992,li,snacks,y
+1112,992,li,empty water bottle,y
+1122,665,h2,How to Use This Printable Packing List,n
+1126,665,span,how I use this travel checklist.,n
+1128,664,ul,,n
+1133,1128,li,"I laminate mine , and use dry-erase markers to check the list as I go.",n
+1136,1128,li,,n
+1138,1136,span,"I also pack my list in the outer pocket of my suitcase to make sure I use it on the return trip, too . It's the best way to ensure everything makes it",n
+1139,1136,text,back,n
+1141,1136,span,in the suitcase.,n
+1146,1128,li,I also keep an additional copy in my Home Organizational Binder .,n
+1159,664,div,,n
+1161,1159,span,"I'll be honest, I definitely don't pack",n
+1162,1159,text,everything,n
+1164,1159,span,"on this list, . I'm now in the habit of only doing carry-on luggage . But, I wanted to include a very detailed list that will work for those who check baggage to their destination, as well. This would be a good travel checklist for a road trip, too.",n
+1174,664,div,,n
+1177,1174,h3,Printing and Usage Tips,n
+1178,1174,ul,,n
+1181,1178,li,Download your favorite packing checklist design below.,n
+1184,1178,li,"If laminating your list , print your list onto regular printer or copier paper. If you're not planning to laminate, printing on white cardstock will add to the durability of the list. I don't recommend laminating if you print on cardstock...it's too thick to laminate and often bubbles the adhesion.",n
+1190,1174,h4,SELF LAMINATE,n
+1191,1174,ul,,n
+1192,1191,ul,,n
+1195,1192,li,I use these super nifty Avery Self Adhesive Laminating Sheets . These allow you to quickly laminate at home without a machine or anything. They're a game changer. Grab them here on Amazon for the best price I've seen.,n
+1201,1192,li,"When you laminate your checklist, you can use it over and over .",n
+1204,1192,li,"Using this list with lamination requires using dry erase markers. I recommend a fine tip dry erase marker. Personally, I use these Ultra Fine Tip Expo markers with my trip packing list. I get them here on Amazon.",n
+1210,1191,li,There is a spot,n
+1213,1191,li,"I've also included additional spaces to write in extra items that you like to include on your travels, too.",n
+1216,664,span,,n
+1217,1216,div,,n
+1223,1217,h3,Free Children's Printable Packing List,n
+1225,1217,div,,n
+1227,1225,span,I also have a companion printable to today's packing list: a,n
+1228,1225,text,free Children's Printable Packing Checklist,n
+1230,1225,span,". This is actually a visual version of a checklist that enables children to learn to pack themselves for travel. It's designed to be used with the help of an adult, yet, still gives kids a great sense of freedom and accomplishment when working through it. There are both boys' and girls' versions available for free download.",n
+1237,1216,div,"My kids are older now, but my youngest still uses this children's packing checklist ! We can't get him to part with that thing.",n
+1245,664,div,,n
+1249,1245,h3,Download your Printable Below,n
+1254,1245,ul,,n
+1258,1254,li,Download the printable packing list in stripes.,n
+1262,1254,li,Download the printable packing list in triangles.,n
+1266,1254,li,Download the printable packing list in circles.,n
+1269,1254,li,You can also download these lists here on Dropbox.,n
+1272,1254,li,You can also download these lists here on Google Drive.,n
+1285,664,h3,The Best Suitcases to Pack,n
+1286,664,h3,,n
+1288,1286,span,,n
+1291,1288,div,"My husband always tells me that I need to be a professional suitcase-tester. I'm obsessive . I fly a few times a year, sometimes alone on work-related trips, sometimes with my family for pleasure. And I try to pack with the thought that I have to maneuver my bags on my own via public transit . I used to Uber everywhere on trips, but I honestly love public transit a lot more . So, my priority is to pack as efficiently as possible knowing that I *may* have to schlep suitcases down a flight of stairs to get on a train . And as I mentioned, I'm a firm believer in carry-on only these days, so that's what I'm sharing. My biggest requirement is four spinner wheels and durable enough to hold my purse on top of it while I park it in front of me at the airport . ***Don't forget to pack your printable packing list INSIDE your suitcase so you make sure to pack up all of the stuff you brought with you.***",n
+1296,1288,h4,Carry-On Suitcases,n
+1297,1286,ul,,n
+1301,1297,li,"I love most of the Delsey-brand suitcases . I currently carry this Delsey carry-on suitcase on most trips, along with a BIG purse that goes under the seat in front of me . Please note: this is a hard-sided suitcase , but if you're not used to it, it does open down the middle with two equal compartments. This isn't an issue for me since I unpack in hotels. But, if you live out of your suitcase on the road, it can be awkward to set on a hotel luggage rack.",n
+1307,1297,li,"If you are really skilled at compact packing, I used to carry this Delsey suitcase . It was neat because my laptop fit in the front compartment . Because of the laptop compartment, the clothing compartment is rather small, so I can go only two nights max with this one due to its size. Again, this is another hard-side suitcase that has the same configuring I mentioned above .",n
+1313,1297,li,"If you are not a hard-sided suitcase lover, I also have this American Tourister Carry-On Spinner . The soft-cloth handles on this thing can't be beat for hoisting into an overhead bin.",n
+1323,664,h3,More Travel Checklist Printables,n
+1324,664,ul,,n
+1327,1324,li,This Pre-Trip Travel Checklist from My Frugal Home is super thorough.,n
+1334,1324,li,This Carry-On Travel Checklist from Polka Dot Chair is a really nice design.,n
+1341,1324,li,"Be sure to check out my post on What's In My Carry On , too. I always love seeing what other people pack...it's kind of weirdly fascinating. Come see what I throw in my own bag.",n
+1346,1324,li,I just created a reader-requested Summer Camp Packing Checklist to get your kids perfectly packed up for the fun times at sleepaway camps.,n
+1354,664,h3,Not sure how to Print a Printable?,n
+1357,664,div,"Be sure to watch through my complete video tutorial below covering how to print your printables on either a Mac or a PC...on your home printer or even uploaded to your local print shop. If you have additional questions, please refer to my thorough, step-by-step post here on printing your printables . It includes budget-friendly, at-home printer recommendations, too.",n
+1365,664,div,,n
+1382,1365,div,"the basics of downloading, re-sizing, and printing printables.",n
+1407,1365,div,,n
+1409,1407,span,"8 minutes, 13 seconds",n
+1411,1407,span,Volume 90%,n
+1517,1365,div,https,n
+1607,664,div,"Happy Traveling, my friends!",n
+1613,664,div,Let me know if you might be interested in another less-graphic version of a printable packing list . I've been toying with that idea for a while now.,n
+1667,351,div,Labels,n
+1679,350,div,,n
+1681,1679,h4,16 comments,n
+1684,1679,div,,n
+1685,1684,ol,,n
+1686,1685,li,,n
+1688,1686,div,,n
+1689,1688,div,,n
+1691,1689,cite,Mary,n
+1694,1689,span,"June 22, 2015 at 1:48 PM",n
+1696,1688,p,Love it! Thanks!,n
+1719,1686,li,"Thank you, Mary!",n
+1737,1685,li,,n
+1739,1737,div,,n
+1740,1739,div,,n
+1742,1740,cite,4 Tier Properties,n
+1745,1740,span,"January 19, 2016 at 2:23 PM",n
+1747,1739,p,This is great,n
+1770,1737,li,So happy you like it! xoxo,n
+1788,1685,li,,n
+1790,1788,div,,n
+1796,1790,div,"June 7, 2016 at 10:31 AM",n
+1798,1790,p,"Absolutely love this, and the available option to pick a favorite theme! Thank you so much! #LifeSaver",n
+1821,1788,li,I'm so glad! Thanks so much,n
+1839,1685,li,,n
+1841,1839,div,,n
+1842,1841,div,,n
+1844,1842,cite,Donna,n
+1847,1842,span,"July 22, 2016 at 9:01 AM",n
+1849,1841,p,Do you have one that also includes packing with children!? Thank you!,n
+1872,1839,li,I do! It can be found here,n
+1890,1685,li,,n
+1892,1890,div,,n
+1898,1892,div,"June 7, 2017 at 6:37 PM",n
+1900,1892,p,Thank you for taking the time to put this together AND share it for free!! I love it! Bon Voyage.,n
+1923,1890,li,Thank you!! Happy travels!,n
+1941,1685,li,,n
+1943,1941,div,,n
+1944,1943,div,,n
+1946,1944,cite,Joan Grove,n
+1949,1944,span,"June 9, 2018 at 4:32 AM",n
+1951,1943,p,I’m tossing my list and printing yours! Thanks!,n
+1966,1941,li,,n
+1972,1966,div,"August 12, 2018 at 11:46 PM",n
+1974,1966,p,"Ha! Thank you so much, Joan! xoxo",n
+1992,1685,li,,n
+1994,1992,div,,n
+1995,1994,div,,n
+1997,1995,cite,Anonymous,n
+2000,1995,span,"October 10, 2018 at 2:12 PM",n
+2002,1994,p,"I love your checklist! It made packing and getting ready so easy, I was sure I had done something wrong! Lol. Thank you for making it available for free and sharing your gifts and creativity!",n
+2017,1992,li,,n
+2023,2017,div,"May 10, 2019 at 12:16 PM",n
+2025,2017,p,"Thank you so much for letting me know! Yes, sometimes when things are *too* easy, I worry a bit, myself. Happy travels and thank you for your kind words. xoxo",n
+2043,1685,li,,n
+2045,2043,div,,n
+2046,2045,div,,n
+2048,2046,cite,Jonniedee,n
+2051,2046,span,"October 16, 2018 at 3:04 PM",n
+2053,2045,p,Thank you,n
+2068,2043,li,,n
+2074,2068,div,"May 10, 2019 at 12:17 PM",n
+2076,2068,p,Thank you so much,n
+2095,1684,div,Add comment,n
+2099,1684,div,Load more...,n
+2106,346,div,,n
+2108,2106,span,Newer Post,n
+2110,2106,span,Older Post,n
+2111,2106,text,Home,n
+2115,346,div,Subscribe to,n
+2132,285,div,,n
+2133,2132,div,,n
+2134,2133,div,,n
+2136,2134,h2,Printables and Images TOU,n
+2137,2134,div,,n
+2139,2137,span,"All images and printables featured on this blog are mine . Please do not reproduce and or or sell any image you see on this blog, without my permission. All printables are for",n
+2140,2137,text,personal use only . Please do not sell my printables for your own profit or feature them as your own design.,n
+2145,2137,div,"For complete TOU and privacy policy, click here .",n
+2150,2133,div,,n
+2152,2150,h2,Subscribe to this blog,n
+2153,2150,div,,n
+2154,2153,div,,n
+2158,2154,div,Posts,n
+2166,2154,div,Posts,n
+2168,2153,div,,n
+2172,2168,div,Comments,n
+2180,2168,div,Comments,n
+2194,2132,div,Powered by Blogger .,n
+2215,250,div,An Elite CafeMedia Home or DIY Publisher,n
+2227,250,div,,n
+2229,2227,div,AddThis Sharing Sidebar,n
+2230,2227,div,,n
+2232,2230,span,Share to MIX,n
+2235,2230,span,Share to Facebook,n
+2238,2230,span,Share to Twitter,n
+2241,2230,span,Share to Email,n
+2244,2230,span,Share to Pinterest,n
+2247,2230,span,More AddThis Share options,n
+2251,2230,div,Hide,n
+2254,2227,div,Show,n
+2256,250,div,,n
+2258,2256,button,Close,n
+2262,2256,div,AddThis,n

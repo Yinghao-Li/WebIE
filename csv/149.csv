@@ -1,0 +1,85 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,form,,n
+114,4,h1,Website Manager,n
+115,4,div,,n
+116,115,div,,n
+118,116,div,,n
+119,118,div,,n
+122,119,div,Login Register,n
+127,119,h1,"Concord Little League, Inc.",n
+129,118,div,,n
+131,129,div,Flickr Facebook,n
+134,129,div,,n
+138,134,div,,n
+140,138,span,Select Language,n
+142,138,span,​,n
+145,134,text,Login Register,n
+149,116,div,,n
+152,149,ul,,n
+157,152,li,Sponsors,n
+170,152,li,Coaches,n
+183,152,li,Parents,n
+205,152,li,Park Information,n
+238,149,div,,n
+242,238,h2,Gear Checklist,n
+247,238,div,,n
+248,247,h3,,n
+249,248,text,"Before the season begins, it’s important to stock up on the right baseball or softball gear. Whether you’re just starting out in the sport or are a veteran at this point, make sure you have everything for a successful season. Use these handy checklists to identify all the essentials you need to get through every game and practice this season.",n
+253,248,span,Youth Baseball Gear Checklist,n
+254,247,table,,n
+256,254,thead,,n
+259,256,strong,UNIFORM ESSENTIALS,n
+263,256,strong,ON-FIELD GEAR,n
+267,256,strong,ACCESSORIES,n
+269,254,tbody,,n
+270,269,tr,,n
+272,270,td,Cleats,y
+275,270,td,Baseball glove,y
+278,270,td,Sunglasses or eye black,y
+280,269,tr,,n
+282,280,td,Socks,y
+285,280,td,Batting gloves,y
+288,280,td,Sunscreen,y
+290,269,tr,,n
+292,290,td,Baseball pants,y
+295,290,td,Batting helmet,y
+298,290,td,Water bottle,y
+300,269,tr,,n
+302,300,td,Belt,y
+305,300,td,Baseball bat,y
+309,269,tr,,n
+311,309,td,Baseball cap,y
+314,309,td,Cup,y
+320,269,tr,Undershirts or baselayers,n
+326,247,p,,n
+328,326,br,"***Please Note that Divisions such as Machine Pitch, Coach Pitch and Tball will not require many of these items. Please check with your coach on what gear may be needed for the season before purchasing new gear***",n
+333,326,strong,Also please be aware that the Concord Little League does require the following:,n
+337,247,p,- Batting Helmet,n
+341,247,p,- USA Certified Baseball Bat,n
+410,116,div,< >,n
+413,115,div,,n
+414,413,div,,n
+416,414,h2,Site Links,n
+418,414,ul,,n
+420,418,li,Concord Weather Radar,n
+422,418,li,League Age Calculator,n
+424,418,li,Little League,n
+426,418,li,CoachDeck,n
+428,418,li,New Level Broadcasting,n
+430,418,li,ESPN,n
+435,413,div,,n
+437,435,h2,Concord Little League,n
+438,435,div,,n
+439,438,text,PO Box 394,n
+441,438,br,"Elkhart, Indiana 46514",n
+443,438,br,Email,n
+448,115,div,,n
+450,448,span,Copyright © 2022 Concord Little League,n
+451,448,text,Use,n
+456,448,span,|,n
+457,448,text,License Agreement | Children's Privacy Policy Log In,n
+470,4,div,Our terms now include the License Agreement . By continuing to use our Services you agree to all terms.,n
+473,0,div,,n
+479,473,h1,Original text,n
+485,473,div,Contribute a better translation,n

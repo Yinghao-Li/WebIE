@@ -1,0 +1,90 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+20,0,div,,n
+22,20,div,,n
+24,22,h1,Must Have Esthetician Tools,n
+26,22,p,"You've finished esthetician school, and you're ready to launch your career. You'll most likely already have a basic toolkit filled with primary supplies from your training days, but these supplies are just the start. What other essential tools do you need to make your esthetician career a success? Read on to find out!",n
+29,22,div,,n
+32,29,h3,Facial Steamer,y
+34,29,div,,n
+36,34,p,"Facial steamers are machines that blow a special ozone variety of warm steam onto the client’s skin. It’s “a valuable tool,” according to Teresa Stenzel, an esthetician and regional educational business manager with natural skincare company Bioelements . “The direction, type, and intensity of the steam can be regulated and directed to specific areas.”",n
+40,34,p,She states five key benefits,n
+41,34,ul,,n
+43,41,li,Stimulates blood flow through surface tissue.,n
+45,41,li,the skin.,n
+47,41,li,"Softens follicles, which makes it easier",n
+49,41,li,"Stimulates nerve endings and muscles, helping clients to relax.",n
+51,41,li,Can activate certain products and help the esthetician spread products over the skin.,n
+54,29,h3,Magnification Lamp,n
+56,29,div,,n
+58,56,p,"Known informally as mag lamps, magnification lamps are among the most common and important esthetician tools.",n
+60,56,p,"“It magnifies the skin vertically and horizontally in order to allow an esthetician to see what would not be readily visible to the naked eye,” Stenzel says. “It provides light for the esthetician to see the skin properly, even in a darkened room. It also provides a shield to protect the esthetician from any cellular debris or fluids from coming into contact with the skin and or or eyes.”",n
+63,29,h3,Woods Lamp,y
+65,29,div,,n
+67,65,p,"“It can help you detect what is not visible or identifiable to the naked eye or a normal mag lamp,” Stenzel says. “It can be especially helpful in detecting types of hyperpigmentation and certain pigment-related lesions, infections, or even pre-cancerous symptoms.”",n
+69,65,p,"She noted that the lamp’s different color options can help estheticians spot fungi, clogged pores, or dehydration.",n
+72,29,h3,Microdermabrasion Machine,y
+74,29,div,,n
+76,74,p,"There are two types of microdermabrasion machines. Crystal microdermabrasion machines blast ultra-fine crystal particles from the machine through a handheld wand onto the skin, gently scrubbing away exfoliated skin. Diamond-tip microdermabrasion machines also use a wand, in this case, one that’s tipped with a diamond that directly abrades the skin.",n
+78,74,p,"“They work by removing dead skin cells from the top layer of the skin to improve the appearance of skin concerns such as sun damage, wrinkles, age spots, acne scarring, melasma, and more,” according to Estrella Shuster, owner of Stars Skincare Med Spa in Boca Raton, Florida. “Because the skin undergoes constant renewal of skin cells, using a microdermabrasion machine is important because it removes unwanted, dead skin cells and restores skin cell activity, which can more quickly improve the complexion.”",n
+83,29,h3,Exfoliating Brush,y
+85,29,div,,n
+87,85,p,"Exfoliation is the process of removing the oldest dead skin cells from the outermost layer of the skin, and estheticians use treatments like dermaplaning and microdermabrasion to achieve it. The most basic technique, however, involves nothing more than a handheld exfoliating brush.",n
+89,85,p,"“This brush can be used to help exfoliate the skin while you cleanse,” says Catie DiMaggio , a licensed esthetician with the Cleure beauty and wellness company. “Always opt for a gentle brush head that won't harbor bacteria, and avoid using it on acne as it can spread bacteria.”",n
+96,29,h3,Ultrasonic Skin Scrubber,y
+100,29,p,"Sometimes called ultrasonic spatulas, ultrasonic skin scrubbers are good for people with sensitive skin that doesn’t respond well to traditional microdermabrasion, like those with rosacea or who have had facelifts. These devices use ultrasonic soundwaves—tens of thousands of vibrations per second—to gently but effectively remove dead skin, blackheads, and other epidermal debris.",n
+102,22,h2,Esthetician Student Toolkit,n
+104,22,p,"Cosmetic and skin care companies sell toolkits of all sizes and for all specialties. You might eventually find that investing in one is cheaper than buying each item piecemeal. In the very beginning, however, esthetician schools sell their students kits with many of the basics needed to get started. Along the way, you’ll add to your kit, which should grow along with your knowledge and experience.",n
+107,22,div,,n
+108,107,div,,n
+111,108,p,Basic Supplies in Esthetican Student Toolkit,n
+112,108,ul,,n
+114,112,li,Gloves,y
+116,112,li,Eye protection,y
+118,112,li,EPA-grade disinfectant,y
+120,112,li,Tweezers,y
+122,112,li,Body drapes,y
+124,112,li,Disposable applicators,y
+126,112,li,Hair covers,y
+128,112,li,Tape,y
+129,107,div,,n
+132,129,p,Supplies to Add to Your Esthetican Student Toolkit,n
+133,129,ul,,n
+135,133,li,Soft and hard wax products,y
+137,133,li,Brushes,y
+139,133,li,Astringent,y
+141,133,li,Sponges,y
+143,133,li,Wedges,y
+145,133,li,Eye pads,y
+147,133,li,Wipes,y
+149,133,li,Masks,y
+151,133,li,A makeup kit,y
+155,22,div,,n
+156,155,div,,n
+158,156,h4,FIND BEAUTY SCHOOLS NEAR YOU!,n
+159,156,form,,n
+162,159,div,,n
+164,162,option,Select a Program,n
+166,162,option,Cosmetology,n
+168,162,option,Esthetics or Skin Care,n
+170,162,option,Nail Technology,n
+172,162,option,Barbering,n
+174,162,option,Make-Up Artist,n
+176,162,option,Permanent Make-Up,n
+178,162,option,Hair Design,n
+183,159,div,GET MATCHED!,n
+185,155,span,Sponsored,n
+187,22,h2,Don’t Forget the Little Things!,n
+189,22,p,"Some esthetician tools are complex and expensive. Some of the most important, most common, and most frequently used, however, are incredibly basic—you can find them in your local drugstore.",n
+191,22,h3,Witch Hazel,n
+193,22,p,"“Witch hazel is a natural ingredient that can be used to treat many skin conditions,” Shuster says. “Its unique anti-inflammatory and anti-viral properties make witch hazel a beneficial remedy for fighting acne and signs of aging as well as for tightening pores and improving the overall skin tone and texture.”",n
+195,22,p,"Shuster likes to use it as a toner by adding a few drops to a cotton ball and applying it to clean, dry skin. Once it dries, she applies a moisturizer to lock in hydration.",n
+197,22,h3,What About Extractors?,n
+199,22,p,Extractors are handheld stainless steel devices similar to tweezers that are typically used to remove blackheads or extract clogged pores.,n
+201,22,p,"They’re commonly used, but not all estheticians embrace them. Stenzel, for example, does not use or professionally recommend extractors. “If used incorrectly, they can harm the skin and even cause scarring.”",n
+203,22,h3,Microfiber Towels and Washcloths,n
+205,22,p,"Like Stenzel, Debbie Jones is an esthetician and regional educational business manager with Bioelements. “Facial towels are very necessary in the treatment room,” Jones says, adding that they can remove skin care products without smearing them around as sponges do.",n
+207,22,p,"“They should be warm but not hot,” she says. “Always test them on the inside of the esthetician’s arm before applying to the client’s skin.” As a pro tip, she advises adding a few drops of aromatherapy oil on the end of the towels to “deliver a spa experience to the customer when placed on the skin.”",n
+209,22,h3,Baby Wipes,n
+211,22,p,"Savvy estheticians always have a supply of thick, unscented baby wipes on hand. Since they’re made for the delicate bottoms of newborn babies, they’re suitable for even the most sensitive skin. They come in handy for wiping and product removal of all kinds—and they’re disposable.",n
+213,20,div,Esthetics or Skin Care,n

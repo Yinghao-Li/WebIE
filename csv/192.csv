@@ -1,0 +1,82 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+12,0,h1,Essential Airsoft Gear,n
+18,0,div,,n
+19,18,main,,n
+21,19,p,"One of the first things prospective airsoft players will realise when watching skirmishes is the amount of weaponry, clothing and other equipment involved in the sport.",n
+23,19,p,"Before any game, players will need to ensure they are equipped with the right gear in order to play both effectively and safely at all times.",n
+25,19,h2,Eye Protection,y
+27,19,p,the most important pieces of equipment to consider prior to starting any skirmish.,n
+29,19,p,"Whilst getting hit by a BB travelling through the air at high speeds is sure to hurt at times, most parts of the body will only incur a small bruise at worst. Your eyes, however, are much more sensitive and require specific protection to avoid what could potentially be a serious injury.",n
+31,19,p,"Whilst you may see some players in a game with minimal eyewear , it is highly advised you start off with a full set of goggles to ensure there is no chance of your eyes being hit.",n
+33,19,p,"If you’re looking for something a bit more unique but which offers the same level of protection, there are also full face variants available in a range of styles including gas, ballistic masks as well as others with abstract designs.",n
+35,19,h2,High Quality Weapon,y
+37,19,p,"We left this until second to avoid any allegations of “well obviously!”, but it almost goes without saying that having the right weapon is endlessly important.",n
+39,19,p,"I say “right” because the best gun will vary from person to person and is based on a range of factors including their budget, play style, environment and more.",n
+41,19,p,"For example, if you play predominantly close combat games in hot temperatures, you may actually find that having that most powerful gun you can buy may be counter-effective to your efforts in the field and choosing a more conservative weapon may be a better investment.",n
+43,19,p,"Similar, if you have aspirations to be a proficient sniper, you won’t have much luck wandering the far corner of the battlefield armed with just a shotgun and a pistol. Each role in airsoft requires different guns and understanding these will be crucial to developing a strong arsenal for combat.",n
+45,19,h2,BBs,y
+47,19,p,"Similarly, choosing the right BBs is also dependent on the player circumstances. If you find yourself using heavy BBs in a gun which is relatively low powered, your effective range will be short and this will make landing successful shots much harder.",n
+49,19,p,thumb is,n
+51,19,h2,Gas,y
+53,19,p,"Choosing which gas to use is another important aspect in achieving potent results from your weapon. In order to do so, you need to understand your requirements as well as your gear and environment.",n
+55,19,p,"For instance, if you are playing indoors skirmishes throughout the weekend, the BBs being fired will not need to travel as far as they would in an outside battle. This enables you to utilise medium powered gas instead of having to resort to higher powered versions.",n
+57,19,p,"Similarly, if you have a cheaper weapon made of predominantly plastic parts , using extremely powerful gases may actually cause damage to your gun as the components are not able to withstand the result pressure caused from the shot.",n
+59,19,p,It is therefore extremely important to understand your requirements and address them accordingly,n
+62,19,h2,Gun Attachments,y
+64,19,p,"Once you’ve chosen your loadout for the weekend’s games, you may need to consider whether or not it would be beneficial to implement specific attachments to your weapons.",n
+66,19,p,"Whilst this may not apply for everyone, players such as snipers and rifleman can improve their accuracy by installing scopes, sights and lasers to their guns, all of which make target acquisition much easier.",n
+68,19,h2,Gloves,y
+70,19,p,"Cold weather, woodland environments and constantly gripping guns can be hard work on a players hands and this makes wearing gloves a smart choice.",n
+72,19,p,"Choosing a durable pair of gloves will protect your hands from cold conditions as well as any abrasive surfaces they may come into contact with. Forests contain ferns, branches, thorns and other vegetation which can potentially scratch and cut your hands so it is important to wrap up accordingly.",n
+74,19,p,This is especially true in Winter when airsofters will want to conceal every body part as much as possible in order to stay warm and keep their playing up to scratch.,n
+76,19,h2,Body Armour and Storage,y
+78,19,p,"Whilst some players such as scouts and recon may not want to store large amounts of grenades, ammunition and other items on their person in order to stay lightweight, other players will want to wear tactical vests which include storage areas.",n
+80,19,p,"Like all airsoft equipment, body armour is available in a wide variety of shapes and sizes including lightweight vests and larger body armour sets with numerous storage areas.",n
+82,19,h2,Camouflage,y
+84,19,p,Almost every player involved in an airsoft skirmish should understand the importance for adorning clothing which blends in to their surroundings.,n
+86,19,p,"Whilst this is paramount for snipers, all members of the team will want to wear apparel which features appropriate camouflage for the game area as this will make it far harder for the enemy team to spot them and land successful shots.",n
+88,19,p,"Snipers can often be seen wearing ghille suits which act as a powerful camouflaging solution with woodlands landscapes by attaching grass, leaves and other materials to the player in order to completely conceal the wearer within their surroundings.",n
+90,19,p,"When preparing your loadout for the coming weekend, be mindful of what your needs and aspirations are. Are you looking to play the sniper role and fire shots from the back of the battlefield or are you wanting to provide continuous suppressive fire to your teams from the frontline?",n
+92,19,p,Establishing what your requirements are will make choosing your weapon and equipment much easier and will also provide logical reasoning behind your decisions which will help improve your overall performance during the weekend of games.,n
+95,18,footer,Back to Listing Previous Next,n
+98,0,section,,n
+103,98,h3,Find Your Nearest Distributor,n
+111,98,h3,How to sell our products,n
+116,0,div,,n
+118,116,div,,n
+120,118,h4,What is a blowback airsoft gun?,n
+121,118,p,,n
+122,121,text,22,n
+124,121,sup,nd,n
+125,121,text,Apr 2022,n
+130,116,div,,n
+132,130,h4,How does HPA in airsoft work?,n
+133,130,p,,n
+134,133,text,16,n
+137,133,text,Mar 2022,n
+142,116,div,,n
+144,142,h4,Abbey Supply's Airsoft Christmas List,n
+145,142,p,,n
+146,145,text,18,n
+149,145,text,Nov 2021,n
+154,116,div,,n
+156,154,h4,What Abbey Products to use on your gun,n
+161,154,p,Oct 2021,n
+166,116,div,,n
+168,166,h4,National Airsoft Festival by Zeroone,n
+169,166,p,,n
+170,169,text,20,n
+173,169,text,Aug 2021,n
+178,116,div,,n
+180,178,h4,How To Clean Your Gun With Abbey's Range Of Silicone Oil,n
+182,178,p,9,n
+190,116,div,,n
+192,190,h4,Tips,n
+194,190,p,5,n
+204,116,h4,10 Things For Getting Back Into Airsoft,n
+214,116,div,,n
+216,214,h4,What is FPS in Airsoft?,n
+217,214,p,,n
+218,217,text,8,n
+221,217,text,Dec 2020,n

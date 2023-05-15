@@ -1,0 +1,334 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+9,5,div,,n
+10,9,section,,n
+12,10,nav,,n
+13,12,li,,n
+14,13,text,Expert Advice,n
+16,13,span,or,n
+18,12,li,Camping,n
+20,10,div,,n
+21,20,div,,n
+28,21,span,,n
+30,28,span,7926,n
+32,28,span,Reviews,n
+34,21,span,4.5 out of 5 stars,n
+35,20,ul,,n
+39,35,li,Print,n
+42,35,li,Facebook,n
+45,35,li,Twitter,n
+48,35,li,Pinterest,n
+50,10,p,our series,n
+59,9,h2,How to Build a Campfire,n
+64,9,div,,n
+66,64,p,"Camping is a great way to get outside with family and friends or even by yourself. You can go camping in many state and national parks, at private campgrounds, in the backcountry or even in your own backyard.",n
+70,64,p,"Most campsites include a picnic table, a place to park your car and a spot to pitch your tent. Many also have shared bathrooms and running water.",n
+72,64,p,"Part of the joy of camping is needing very little gear to exist outdoors. But it’s also nice to have a comfortable, convenient and homey campsite. If it’s your first time camping, it might be best to borrow or rent some of these things. As you become a more experienced camper, you may find that part of the fun is figuring out what to bring along to meet your needs.",n
+76,64,p,"While you’re packing, use this handy camping checklist to make sure you don’t forget anything important and make sure to stock up on the things you need . This is a comprehensive list, and we don't expect you to bring along every item — though we won't judge you if you do!",n
+80,64,div,,n
+82,80,h3,Want to talk to a live expert about how to choose camping gear?,n
+84,80,p,"If you've got questions, we've got answers. With Virtual Outfitting , it's simple to get expert advice and gear tips from the comfort of just about anywhere.",n
+88,80,p,Schedule a virtual appointment,n
+91,64,p,Printer-friendly version,n
+95,64,div,,n
+97,95,h2,Campsite,n
+100,95,div,These are important items,n
+104,64,ul,,n
+109,104,li,Tent,y
+119,104,li,Sleeping bags,y
+124,104,li,Sleeping pads,y
+129,104,li,Camping pillow,y
+134,104,li,Headlamps or flashlights,y
+144,104,li,Camp chairs,y
+149,104,li,Camp table,y
+155,104,li,Lantern,y
+168,64,div,,n
+170,168,ul,,n
+175,170,li,"Sunshade, tarp or screen house",y
+180,170,li,Hammock,y
+185,170,li,Cots,y
+190,170,li,Sleeping bag liners,y
+192,168,ul,,n
+197,192,li,Firewood sourced near campsite,y
+203,192,li,Camp rug,y
+208,192,li,Tablecloth and clips,y
+213,192,li,Clothesline with clips,y
+221,64,h2,Tools and Repair Items,y
+223,64,div,,n
+225,223,ul,,n
+230,225,li,Multi-tool,y
+235,225,li,Duct tape,y
+240,225,li,Extra cord,y
+245,225,li,Tent-pole repair sleeve,y
+250,225,li,Pad or Mattress repair kit,y
+252,223,ul,,n
+257,252,li,Mallet or hammer,y
+263,252,li,Saw or axe,y
+271,252,li,Small broom and dustpan,y
+275,64,div,,n
+277,275,h2,Kitchen,n
+280,275,div,"Many campgrounds have drinkable water. If not, bring your own, or be prepared to treat water if there’s a water source. Also, for even more ideas and food suggestions, see our separate Camp Kitchen Checklist .",n
+286,64,div,,n
+288,286,ul,,n
+293,288,li,Stove and fuel,y
+300,288,li,Matches or light or firestarter,y
+305,288,li,Cook pots,y
+313,288,li,Frying pan,y
+318,288,li,Eating utensils,y
+323,288,li,Cooking utensils,y
+328,288,li,"Bottle opener , can opener , corkscrew",y
+337,288,li,Sharp knife,y
+342,288,li,Plates or bowls,y
+347,288,li,Mugs or cups,y
+349,286,ul,,n
+354,349,li,Cutting board,y
+359,349,li,Cooler,y
+364,349,li,Ice or ice substitutes,y
+370,349,li,Water bottles,y
+375,349,li,Camp sink or wash bins,y
+381,349,li,Biodegradable soap,y
+386,349,li,Pot scrubber or sponge,y
+391,349,li,Trash or recycling bags,y
+396,349,li,Dish towel,y
+401,64,div,,n
+403,401,ul,,n
+408,403,li,Camp grill and fuel,y
+414,403,li,Grill rack,y
+419,403,li,Griddle,y
+424,403,li,Dutch oven,y
+429,403,li,Charcoal,y
+434,403,li,Portable coffee or tea maker,y
+439,403,li,Rolling ice cream maker,y
+441,401,ul,,n
+446,441,li,Marshmallowithhot dog roasting forks,y
+451,441,li,Small food-storage containers or bags or foil,y
+456,441,li,Large water jugs,y
+461,441,li,"Large, clear plastic bins to store kitchen gear",y
+465,64,div,,n
+467,465,h2,Campsite Extras,n
+470,465,p,"Most of the following items are optional, though depending on how remote your campsite is, navigation tools such as a map, compass and or or GPS may be required .",n
+474,64,div,,n
+476,474,ul,,n
+481,476,li,Solar and portable power,y
+486,476,li,Binoculars,y
+491,476,li,Navigation tools,y
+496,476,li,Field guides,y
+502,476,li,Star chart or night-sky identifier,y
+507,476,li,Book or reading material,y
+509,474,ul,,n
+514,509,li,Notebook and pen or pencil,y
+521,509,li,Music player with headphones,y
+527,509,li,Games and toys,y
+532,509,li,Dog gear,y
+537,509,li,"Dry bags , stuff sacks or clear plastic bins to store items",y
+546,64,h2,Clothing and Footwear,n
+548,64,div,,n
+550,548,ul,,n
+555,550,li,Moisture-wicking underwear,y
+560,550,li,Moisture-wicking T-shirts,y
+565,550,li,Quick-drying pants or shorts,y
+573,550,li,Long-sleeve shirts,y
+578,550,li,Lightweight fleece or jacket,y
+580,548,ul,,n
+585,580,li,Boots or shoes suited to terrain,y
+591,580,li,Socks,y
+597,580,li,Sleepwear,y
+601,64,p,Additional items,n
+602,64,div,,n
+604,602,ul,,n
+609,604,li,Rainwear,y
+618,604,li,Long underwear,y
+623,604,li,Warm insulated jacket or vest,y
+628,602,ul,,n
+633,628,li,Fleece pants,y
+638,628,li,Gloves or mittens,y
+643,628,li,Warm hat,y
+648,64,div,,n
+650,648,ul,,n
+655,650,li,Swimsuits,y
+660,650,li,Water sandals,y
+662,648,ul,,n
+667,662,li,In-camp sandals or booties,y
+674,662,li,Bandanas,y
+680,64,h2,Health and Hygiene,n
+682,64,div,,n
+684,682,ul,,n
+689,684,li,Toilet paper,y
+694,684,li,Hand sanitizer,y
+699,684,li,Toothbrush and toothpaste,y
+705,684,li,Toiletry kit,y
+710,684,li,Quick-dry towel,y
+712,682,ul,,n
+717,712,li,Menstrual products,y
+722,712,li,Prescription medications,y
+727,712,li,First-aid kit or first-aid supplies,y
+736,64,p,Sun and bug protection,y
+737,64,div,,n
+739,737,ul,,n
+744,739,li,Sunscreen,y
+749,739,li,Sunglasses,y
+757,739,li,Sun hat,y
+759,737,ul,,n
+764,759,li,Lip balm,y
+769,759,li,Insect repellent,y
+774,759,li,Insect repellent device,y
+779,64,div,,n
+781,779,ul,,n
+786,781,li,Urinary products,y
+791,781,li,Sanitation trowel,y
+797,781,li,Baby wipes,y
+802,781,li,Alcohol or antiseptic wipes,y
+807,781,li,Mirror,y
+812,781,li,Brush or comb,y
+814,779,ul,,n
+819,814,li,Cosmetics,y
+824,814,li,Spare eyeglasses or contact lens supplies,y
+829,814,li,Eyeshades,y
+834,814,li,Earplugs,y
+839,814,li,Portable camp shower,y
+845,64,h2,Personal Items,n
+847,64,div,,n
+849,847,ul,,n
+854,849,li,Credit card and or or cash,y
+859,849,li,ID,y
+861,847,ul,,n
+866,861,li,Cellphone,y
+871,861,li,Campsite reservation confirmation *,y
+874,64,p,,n
+876,874,label,*,n
+877,874,text,Recreation.gov is a great resource for public lands campsite reservations; Hipcamp is a great resource for private lands campsite reservations.,n
+883,64,h3,Video,n
+895,9,h2,Camping,n
+896,9,div,,n
+897,896,div,,n
+898,897,div,,n
+904,898,h4,How to Build a Campfire,n
+907,898,p,"Learn how to build a campfire when you’re camping or backpacking, as well as fire etiquette tips.",n
+909,897,div,,n
+915,909,h4,Camping,n
+918,909,p,"Explore our library of skills tutorials, activity checklists, buying guides and advice on how to care for your gear.",n
+922,896,div,,n
+924,922,h2,Rate this article,n
+927,922,p,,n
+928,927,text,How helpful was this article?,n
+930,927,span,Click a star to rate.,n
+944,922,button,Submit Rating,n
+948,896,div,Back to top,n
+949,5,footer,,n
+951,949,div,,n
+953,951,p,How are we doing?,n
+954,951,p,,n
+956,954,button,Give us feedback,n
+957,954,text,on this page.,n
+959,949,div,,n
+965,959,h2,Sign up,n
+969,959,p,"Co-op offers, events and cool new gear",n
+970,959,form,,n
+972,970,div,,n
+974,972,label,Email,n
+978,972,span,,n
+980,978,span,Error,n
+981,978,text,Is your email address correct?,n
+984,970,div,Sign me up!,n
+988,959,div,REI Privacy Policy,n
+991,959,div,,n
+995,991,h2,Thank you!,n
+998,991,div,,n
+1000,998,strong,Check your inbox,n
+1001,998,text,for your first email from REI. We'll send you a few emails every week. You can easily unsubscribe at any time.,n
+1002,959,div,,n
+1006,1002,h2,System Maintenance,n
+1010,1002,p,The newletter sign-up system is currently down,n
+1011,949,div,,n
+1013,1011,div,,n
+1014,1013,div,,n
+1016,1014,h2,Who we are,n
+1017,1014,p,,n
+1019,1017,span,"At REI, we believe that a life outdoors is a life well lived. We've been sharing our passion for the outdoors since 1938.",n
+1020,1017,text,Read our story,n
+1021,1013,div,,n
+1023,1021,h2,Become a co-op member,n
+1024,1021,p,,n
+1026,1024,span,"Anyone can join, and everyone belongs. Benefits include great gear offers, special pricing on events, and an annual Co-op Member Reward—for life. Join once, enjoy forever.",n
+1027,1024,text,Join us,n
+1028,1013,div,,n
+1030,1028,h2,Take a stand,n
+1031,1028,p,,n
+1033,1031,span,"Outdoor equity, climate action, places we love. Raise your voice in the movement to protect and share life outdoors.",n
+1034,1031,text,REI Cooperative Action Network,n
+1035,1013,div,,n
+1036,1035,h2,,n
+1037,1036,text,REI Co-op Mastercard,n
+1039,1036,sup,®,n
+1042,1035,ul,,n
+1046,1042,li,Check back in August,n
+1049,1042,li,,n
+1051,1049,span,Have the card already?,n
+1052,1049,text,Manage your account here.,n
+1053,1011,div,,n
+1055,1053,div,,n
+1056,1055,ul,,n
+1058,1056,li,Returns and Exchanges,n
+1060,1056,li,Your Online Account,n
+1062,1056,li,Purchase Status,n
+1064,1056,li,Shipping Info,n
+1066,1056,li,Membership,n
+1068,1056,li,Find Member Number,n
+1070,1056,li,Total REI Rewards Lookup,n
+1071,1055,ul,,n
+1073,1071,li,Expert Advice,n
+1075,1071,li,"Classes, Tours and Events",n
+1077,1071,li,Store Events,n
+1079,1071,li,REI Adventures Trips,n
+1081,1071,li,Uncommon Path,n
+1083,1071,li,Conversations,n
+1085,1071,li,REI Cooperative Action Fund,n
+1087,1071,li,Path Ahead Ventures,n
+1089,1053,div,,n
+1090,1089,ul,,n
+1092,1090,li,Virtual Outfitting,n
+1094,1090,li,Gift Cards,n
+1096,1090,li,Gift Registry,n
+1098,1090,li,Wish Lists,n
+1100,1090,li,Gear Collections,n
+1102,1090,li,"Coupons, Rebates and Discounts",n
+1104,1090,li,Free Shipping Details,n
+1105,1089,ul,,n
+1107,1105,li,About REI,n
+1109,1105,li,Stewardship,n
+1111,1105,li,Jobs,n
+1113,1105,li,Newsroom,n
+1115,1105,li,Technology Blog,n
+1117,1105,li,Sell at REI,n
+1119,1105,li,Affiliate Program,n
+1121,1105,li,Corporate and Group Sales,n
+1123,1105,li,Store Locator,n
+1125,1105,li,Live Chat,n
+1127,1105,li,Help Center,n
+1128,1011,div,,n
+1131,1128,div,,n
+1133,1131,p,Help Center,n
+1135,1131,p,Find answers online anytime.,n
+1140,1128,p,Live Chat,n
+1148,1128,p,,n
+1150,1148,span,Call us at,n
+1151,1148,text,-,n
+1156,1011,div,,n
+1158,1156,div,,n
+1164,1158,li,Get REI apps,n
+1166,1158,div,,n
+1169,1166,span,twitter,n
+1172,1166,span,facebook,n
+1175,1166,span,pinterest,n
+1178,1166,span,youtube,n
+1181,1166,span,instagram,n
+1183,1156,div,,n
+1185,1183,p,"© 2022 Recreational Equipment, Inc. All rights reserved. REI and the REI Co-op logo are trademarks of Recreational Equipment, Inc.",n
+1187,1183,ul,,n
+1189,1187,li,Use,n
+1191,1187,li,Privacy Policy,n
+1193,1187,li,Interest Based Ads,n
+1195,1187,li,Product Recalls,n
+1197,1187,li,CA Transparency Act,n
+1199,1187,li,REI Accessibility Statement,n

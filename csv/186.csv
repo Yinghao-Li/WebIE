@@ -1,0 +1,131 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+6,0,div,,n
+10,6,div,Satisfaction Guarantee,n
+14,6,div,Days Delivery,n
+18,6,div,Return Policy,n
+19,0,div,,n
+22,19,div,,n
+23,22,div,,n
+24,23,div,,n
+26,24,h4,Categories,n
+28,24,ul,,n
+30,28,li,FILLINGS,y
+32,28,li,PANS,y
+34,28,li,DEFAULT,n
+36,28,li,NOVELTIES,y
+38,28,li,TOOL,n
+40,28,li,INSERTS,n
+42,28,li,MIXES,y
+44,28,li,STYROFOAMS,y
+46,28,li,DRUM,y
+48,28,li,MISCELLANEOUS,n
+50,28,li,BAG,y
+52,28,li,BRUSH,y
+54,28,li,GARNISHMENTS,y
+56,28,li,TOPPINGS,y
+58,28,li,ACCESSORIES,n
+60,28,li,AIRBRUSH,y
+62,28,li,CONTAINER,y
+64,28,li,CANDLES,y
+66,28,li,TUBES,y
+68,28,li,GEL PASTE,y
+70,28,li,CARDBOARDS,y
+72,28,li,ICING,y
+74,28,li,BAKING CUP,y
+76,28,li,CANDY COLOR,y
+78,28,li,INGREDIENTS,y
+80,28,li,LIQUID GEL COLOR,y
+82,28,li,STAND,y
+84,28,li,PAN GREASE,y
+86,28,li,CUPCAKE WRAP,y
+88,28,li,NUTS,y
+90,28,li,FONDANT,y
+92,28,li,APPLES,y
+94,28,li,APEELS,y
+96,28,li,TOOLS,n
+97,23,div,,n
+99,97,h4,Brands,n
+123,97,li,All brands,n
+124,22,div,,n
+131,124,div,,n
+132,131,ul,,n
+134,132,li,Newest products,n
+136,132,li,Popular products,n
+138,131,div,,n
+140,138,h2,Newest products,n
+146,138,div,,n
+152,146,div,,n
+153,152,text,WILTON ENTERPRISES 4'' WHITE WRAPPED PILLAR PKG 4 CT,n
+156,152,div,$7.99,n
+184,146,div,,n
+185,184,text,WILTON ENTERPRISES BOTTOM COLUMN BOLT TALL TIER CAKE STAND EA,n
+188,184,div,$1.09,n
+201,146,div,LUCKS FOOD DECORATING GOLD SHIMMER AIRBRUSH COLOR - 4 OZ LUCKS J.A.R.,n
+217,146,div,LUCKS FOOD DECORATING PEARL SHIMMER AIRBRUSH COLOR - 4 OZ LUCKS J.A.R.,n
+233,146,div,LUCKS FOOD DECORATING SILVER SHIMMER AIRBRUSH COLOR - 4 OZ LUCKS J.A.R.,n
+248,146,div,,n
+249,248,text,PFEIL and HOLING PATRIOTIC STAR PICK ASST 3’’ BOX 144CT,n
+252,248,div,$16.49,n
+264,146,div,,n
+265,264,text,ATECO PLASTIC BOWL SCRAPER EA,n
+268,264,div,$0.80,n
+280,146,div,,n
+281,280,text,ATECO #070 STD RUFFLE TIP,n
+284,280,div,$0.90,n
+296,146,div,,n
+297,296,text,ATECO #060 SMALL STD SPECIALTY TIP,n
+300,296,div,$1.80,n
+310,138,h2,Popular products,n
+316,138,div,,n
+322,316,div,,n
+323,322,text,BAKE’ N JOY B and J COCONUT MACAROON COOKIE MIX EA 4 LB,n
+326,322,div,$21.79,n
+338,316,div,,n
+339,338,text,ATECO #918 METAL FLOWER LIFTER S or S EA,n
+342,338,div,$1.50,n
+355,316,div,ATECO #150 LARGE CARNATION TIP,n
+371,316,div,WILTON ENTERPRISES #1F XLG DROP FLOWER DEC TIP WILTON,n
+386,316,div,,n
+387,386,text,ATECO #897 LARGE BASKETWEAVE TIP,n
+390,386,div,$1.60,n
+403,316,div,ATECO #193 LARGE DROP FLOWER TIP,n
+419,316,div,WILTON ENTERPRISES #1B XLG DROP FLOWER DEC TIP WILTON,n
+435,316,div,ATECO #140 LARGE DROP FLOWER TIP,n
+450,316,div,,n
+451,450,text,PACKAGING and MORE 18” WHITE CIRCLE EA,n
+454,450,div,$1.19,n
+483,124,h2,Brands,n
+519,19,footer,,n
+522,519,div,,n
+525,522,div,Sign up,n
+532,522,div,Submit,n
+535,519,div,,n
+536,535,div,,n
+538,536,h4,Customer service,n
+539,536,ul,,n
+541,539,li,About us,n
+543,539,li,General terms and conditions,n
+545,539,li,Disclaimer,n
+547,539,li,Privacy policy,n
+549,539,li,Payment methods,n
+551,539,li,Shipping and returns,n
+553,539,li,Customer support,n
+555,539,li,Sitemap,n
+556,535,div,,n
+558,556,h4,Products,n
+559,556,ul,,n
+561,559,li,All products,n
+563,559,li,New products,n
+565,559,li,Offers,n
+567,559,li,Brands,n
+569,559,li,RSS feed,n
+572,535,h4,My account,n
+580,535,div,,n
+582,580,h4,Bakers' Niche,n
+583,580,div,,n
+585,583,span,Gourmet Baking Supplies and Ingredients,n
+591,583,div,customerservice@bakersniche.net,n
+597,519,h4,Payment methods,n
+603,519,div,© Copyright 2022 The Developer Theme by PSDCenter - Powered by Lightspeed,n
+608,0,div,Powered by Lightspeed,n

@@ -1,0 +1,303 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,article,,n
+2,1,div,,n
+401,2,h1,The Ultimate Road Trip Packing List – All the Road Trip Essentials You Could Ever Need!,n
+402,2,div,,n
+404,402,p,In This Post,n
+409,402,ul,,n
+410,409,li,,n
+412,410,span,1,n
+413,410,text,The Ultimate Road Trip Packing List,n
+414,409,li,,n
+416,414,span,2,n
+417,414,text,Little Road Trip Accessories That Can Make a Big Difference,n
+419,414,li,,n
+421,419,span,1,n
+422,419,text,And if traveling in winter or road tripping to cold locations,n
+423,409,li,,n
+425,423,span,3,n
+426,423,text,Stay connected and Entertained on your Road Trip,n
+427,409,li,,n
+429,427,span,4,n
+430,427,text,Road Trip Packing List – The Comfort Kit,n
+431,409,li,,n
+433,431,span,5,n
+434,431,text,Road Trip Packing List – Your Personal Care Kit,n
+435,409,li,,n
+437,435,span,6,n
+438,435,text,Helpful or Miscellaneous Road Trip Items,n
+439,2,div,,n
+441,439,strong,MORE ROAD TRIP RESOURCES,n
+444,439,text,Get excited about your road trip with our favorite,n
+446,439,strong,Road Trip Quotes,n
+448,439,br,– to get you from A to B,n
+450,439,strong,Road Trip Tips,n
+453,439,br,– Kick-Ass,n
+455,439,strong,Road Trip Playlist,n
+460,439,strong,15 Best Road Trips from Las Vegas,n
+462,439,br,– + Travel Tips,n
+464,439,strong,New Zealand Road Trip Itineraries,n
+478,2,h2,The Ultimate Road Trip Packing List,n
+479,2,ul,,n
+480,479,li,,n
+482,480,strong,License and registration,y
+484,480,br,Obvious. Do NOT leave home without them. They are the ultimate road trip essentials!,n
+485,479,li,,n
+487,485,strong,your car insurance policy and the relevant contact numbers,y
+489,485,br,"Hopefully you won’t need to use your insurance, but keep a copy in the car just in case.",n
+490,479,li,,n
+492,490,strong,Your car’s manual,y
+494,490,br,wifi range!,n
+495,479,li,,n
+497,495,strong,Spare tire,y
+499,495,br,– and check the one you have is in good condition before you set off.,n
+500,479,li,,n
+502,500,strong,Roadside Emergency Kit,y
+504,500,text,"This car emergency kit contains Battery Booster Cables, 2 Light Sticks, Reflective Vest, Emergency Rain Poncho, Warning triangle, whistle, Tire Pressure Gauge, Window Breaker etc. This all in one kit has you covered for any possible eventuality.",n
+516,2,div,,n
+519,516,h2,Little Road Trip Accessories That Can Make a Big Difference,n
+520,516,ul,,n
+521,520,li,,n
+523,521,strong,Paper maps or Maps.Me App,y
+525,521,br,Paper Maps – because there isn’t cell service everywhere .,n
+531,521,br,is a free app allows you to download detailed maps which can be used offline and without cell service and acts as GPS. It helped us drive across South Africa and I tell everyone I know about it!,n
+530,521,strong,Maps.me,y
+534,520,li,,n
+536,534,strong,Spare money,y
+538,534,text,Because cash is still king in some places – and in particular,n
+539,520,li,,n
+541,539,strong,"A notebook, pen, and pencil",y
+543,539,br,the car you accidentally ‘bumped’.,n
+544,520,li,,n
+546,544,strong,First aid kit,y
+548,544,br,"Basic supplies such a band-aids, bandages, antiseptic and safety pins can be invaluable when the closest town is 100km away!",n
+549,520,li,,n
+551,549,strong,Flashlight,y
+553,549,text,In case the car battery dies in the dead of the night. Buy two. It means you’ll have a spare.,n
+554,520,li,,n
+556,554,strong,Bug Spray,y
+558,554,br,Because bugs in the car are not fun and essential on a summer road trip.,n
+559,520,li,,n
+561,559,strong,Large Water Bottles,y
+563,559,br,"If you get stranded, is crucial. Keep a couple of large bottles in the car in case of emergencies. And on warm days on a summer road trip.",n
+565,559,strong,staying hydrated,n
+567,520,li,,n
+569,567,strong,Toilet Roll,y
+571,567,br,Don’t get caught short in a un-stocked rest stop!,n
+590,516,h3,And if traveling in winter or road tripping to cold locations,n
+591,516,ul,,n
+594,591,li,Snow Shovel,y
+597,591,li,Ice Scraper,y
+598,591,li,,n
+600,598,strong,Umbrella,y
+602,598,text,"To be honest. Having one of these in the car – regardless of destination – can only be a good thing! And especially this one that collapses inside out specifically to keep your car dry after use and has a looped handle which rests on your arm to keep your hands free! It also comes in a variety of double layer designs and colors to suit your mood It’s Perfect for both a summer road trip, a family road trip and for adding some colour to wintery shots!",n
+614,2,div,,n
+617,614,h2,Stay connected and Entertained on your Road Trip,n
+618,614,ul,,n
+619,618,li,,n
+621,619,strong,Phone chargers or USB cord,y
+623,619,br,A portable charger is essential. Even when you are not going on a road trip!,n
+624,618,li,,n
+626,624,strong,Bluetooth or Wireless hands free kit,y
+629,624,br,It is illegal to operate a mobile whilst driving in some parts of the world. Play it safe and use a hands-free kit to keep you focused on the road.,n
+630,618,li,,n
+632,630,strong,An epic road trip playlist,y
+634,630,text,Think rock and roll classics and sing-a-longs and belt out your favorites at the top of your voice! A playlist full of epic road trip songs is one of my top musthave essentials for a long car ride and you can even throw in some audio books for a bit of variety!,n
+635,618,li,,n
+637,635,strong,Your favorite camera + USB chargers,y
+639,635,text,My go-to travel camera is the,n
+641,635,strong,Panasonic Lumix Fz70,n
+642,635,text,. It should be yours too – click the link to find out why!,n
+647,618,li,,n
+649,647,strong,Instant Camera,y
+651,647,text,Instant Camera are so much fun and can capture some unusual and quirky shots along the road,n
+652,618,li,,n
+654,652,strong,Portable Wifi,y
+656,652,text,"For those that don’t have great roaming plans or options in the destination you are in, a portable wifi device is a great",n
+658,652,strong,travel gadget,y
+659,652,text,and one that is a necessity if you need to stay connected to the outside world.,n
+662,618,li,,n
+664,662,strong,A good book or two,y
+666,662,br,Depending on how long your journey is. But not good,n
+667,618,li,,n
+669,667,strong,Travel Games,y
+671,667,text,Perfect for family road trips to keep the kids entertained when there is a lot of time in the car!,n
+710,2,div,,n
+713,710,h2,Road Trip Packing List – The Comfort Kit,n
+714,710,ul,,n
+715,714,li,,n
+717,715,strong,Sunglasses,y
+719,715,text,"Driver or Passenger, nobody likes to squint when they’re in the car.",n
+720,714,li,,n
+722,720,strong,Blanket,y
+724,720,text,"For cosying up during a daytime nap, using as a picnic blanket or for extra warmth should you get stranded somewhere after the sun goes down. Warm people =",n
+726,720,span,Happy people,n
+727,720,text,". And if you’re planning on sleeping in the car, sleeping bags wouldn’t go amiss!",n
+728,714,li,,n
+730,728,strong,Travel Pillow,y
+732,728,text,the above. Comfortable people = Happy people,n
+735,714,li,,n
+737,735,strong,Travel Mug,y
+739,735,text,"Great for hot and cold drinks, and with a seal-able lid, with a travel mug there is less chance of an unnecessary spillage.",n
+740,714,li,,n
+742,740,strong,Reusable Water Bottle,y
+744,740,text,Sealable vessels stop spillages! And re-using your water bottle is better fro the environment.,n
+745,714,li,,n
+747,745,strong,UV Window Shade,y
+749,745,text,Driving down the highway with the sun on one side,n
+750,714,li,,n
+752,750,strong,Extra Jumper or Wrap,y
+754,750,text,"Back on the warm and comfortable thing again, but I do hate being cold. And an extra layer doesn’t take up that much room.",n
+755,714,li,,n
+757,755,strong,Hand sanitizer,y
+759,755,text,Because not everything you touch will be all that hygienic. Keep those germs outta the car.,n
+760,714,li,,n
+762,760,strong,Painkiller or Anti-Inflammatory Medication,y
+764,760,text,Being in the car with a headache and or or muscle strain or injury is neither fun nor comfortable.,n
+765,714,li,,n
+767,765,strong,Reusable Shopping Bag,y
+769,765,text,For popping to the shop whilst on the road – avoid using unnecessary plastic bags and pack a reusable one. They fold up small and can be thrown in your handbag after your road trip for everyday use.,n
+772,714,li,,n
+774,772,strong,Mints,y
+776,772,text,There’s nothing like fresh minty breath,n
+779,714,li,,n
+781,779,strong,A Towel,y
+783,779,text,"In case your motel doesn’t provide them, to dry you from the unexpected downpour that you got caught in. The possibilities are endless.",n
+786,714,li,,n
+788,786,strong,Flip Flops,y
+790,786,br,The perfect slip on shoe.,n
+791,714,li,,n
+793,791,strong,Day pack,y
+795,791,text,For the times you want to go on a spontaneous walk or hike and need day bags to store your water bottle or sunscreen or extra jumper etc.,n
+839,2,div,,n
+842,839,h2,Road Trip Packing List – Your Personal Care Kit,n
+843,839,ul,,n
+844,843,li,,n
+846,844,strong,Toiletry Bag,y
+848,844,text,A wash bag is essential to put all the below items in and keep everything close to hand in the same place.,n
+851,843,li,,n
+853,851,strong,Sun Screen,y
+855,851,br,The sun beating through the glass all day can make for some interesting tan lines if you’re not careful.. helllooo truckers arm!,n
+856,843,li,,n
+858,856,strong,Body Wipes,y
+860,856,br,"Wet wipes or Baby wipes are essentially a shower in a pack. For emergencies, or a quick re-fresh.",n
+861,843,li,,n
+863,861,strong,Lip balm,y
+865,861,br,Cracked lips are never fun. Pop one in the glove box and one in your bag so you don’t get caught out.,n
+866,843,li,,n
+868,866,strong,Mini hairbrush,y
+870,866,br,The wind in your hair may feel incredible – but the bird nest it creates is not fun to deal with! The Tangle Teezer is great because it comes with it’s own case so you’re not going to end up with stands of hair running loose in your bag after use.,n
+873,843,li,,n
+875,873,strong,Hair ties or Grips,y
+877,873,br,For the day you don’t want to deal with the windswept look.,n
+880,843,li,The Three Ts,n
+883,843,li,Tissues,y
+904,2,div,,n
+911,904,h2,Helpful or Miscellaneous Road Trip Items,n
+913,904,p,"These will entirely depend on where you’re headed and for how long: you may need all, or none of them! Don’t forget your personal item and use the following packing checklist for your cross country road trip packing list to help you save money and plan the perfect road trip!",n
+914,904,ul,,n
+915,914,li,,n
+917,915,strong,Plastic or Garbage Bags,y
+919,915,br,Because you don’t want you car to resemble a trash can. Plastic bags are also good to keep wet clothes away from dry ones if you get caught in the rain.,n
+920,914,li,,n
+922,920,strong,Snacks,y
+924,920,br,Snacks are always good. If you’re prone to being hangry it may be best for all parties to keep a stock of energy bars or granola bars in the car for emergencies. Snacks are true travel essentials and the perfect road trip food!,n
+925,914,li,,n
+927,925,strong,Car Cooler,y
+929,925,br,"This would be a must for me, as I have a little Coca-Cola addiction and I like my cans cold. But a cooler could also be used store other drinks, juice boxes, sandwiches and food stuffs that don’t do so well in hot weather.",n
+930,914,li,,n
+932,930,strong,Tweezers or Swiss Army Knife,y
+934,930,br,situations.,n
+939,904,p,,n
+940,939,text,"So there you have it! The Ultimate Road Trip Packing List: Packed full of road trip essentials to keep the car safe, comfortable and entertained on your next road trip.",n
+942,939,br,"And if you liked this post, please tweet, pin and share – I’d really appreciate it!",n
+954,904,p,"And if you liked this packing guide, take a look at the other packing lists, travel resources and travel guides in this series:",n
+955,904,ul,,n
+956,955,li,,n
+958,956,strong,The Ultimate Travel Gear Packing List,n
+959,956,text,– everything you need,n
+960,955,li,,n
+962,960,strong,The Ultimate Ski Trip Packing List,n
+963,960,text,ski essentials to help you have the best time on the piste,n
+964,955,li,,n
+966,964,strong,How to Pack your Carry On Like A Pro,n
+967,964,text,travel tips to make the most of those pesky weight and space restrictions!,n
+968,955,li,,n
+970,968,strong,The Best Travel Backpacks,n
+971,968,text,– because us ladies need a bag that’s built for us and is going to stand up with us for every adventure.,n
+972,955,li,,n
+974,972,strong,Best Places to Visit in the USA,n
+975,972,text,and Canada featuring,n
+977,972,strong,Orlando,n
+979,972,strong,", Miami and Banff",n
+985,955,li,Best Places to Travel Alone,n
+989,904,div,,n
+990,989,div,,n
+992,990,div,JOIN OUR NEWSLETTER,n
+1000,990,div,I agree to have my personal information transfered to MailChimp,n
+1003,989,div,,n
+1005,1003,div,"Join over 300,000 travel lovers and get monthly updates direct to your inbox. Itineries, tips, stories and giveaways - exclusive to MakeTimeToSeeTheWorld subscribers! PLUS a FREE Travel Packing Checklist or FREE Roadtrip Packing List to help get you on the road!",n
+1007,1003,div,We hate spam too. Your email address will not shared with anyone else.,n
+1011,904,p,,n
+1012,1011,text,Hi There! Thanks,n
+1014,1011,strong,Ultimate Road Trip Packing List – Packed to the brim with Road Trip Essentials .,n
+1015,1011,text,"I just wanted to let you know that this post contains affiliate links, which means if you purchase something after clicking a link, I",n
+1017,1011,strong,may,n
+1018,1011,text,get a small commission – which is at,n
+1021,1011,text,". If you enjoyed this article and are going to be searching for some of the things I mention anyway, I would love it if you could click through from the links above and thank you in advance! Read my full Disclosure here .",n
+1025,1011,br,And Thanks,n
+1052,1,footer,,n
+1053,1052,div,,n
+1055,1053,div,,n
+1056,1055,div,,n
+1057,1056,text,By,n
+1058,1056,span,,n
+1060,1058,span,Author,n
+1061,1058,text,Vicki Garside,n
+1063,1055,p,,n
+1065,1063,span,Posted on,n
+1066,1063,text,Last updated,n
+1068,1063,time,"April 5, 2022",n
+1070,1053,p,,n
+1072,1070,span,Categories,n
+1073,1070,text,"Packing Lists and Travel Gear , Road Trips",n
+1076,1052,span,,n
+1078,1076,span,Tags,n
+1079,1076,text,Road Trip Essentials Road Trip Packing List,n
+1081,0,nav,,n
+1083,1081,h2,Post navigation,n
+1084,1081,div,,n
+1088,1084,p,Incredible Things To Do in Osaka Plus Where to Stay and What to Eat!,n
+1092,1084,p,"Incredible Things To Do in Xi’an, China",n
+1093,0,div,,n
+1094,1093,div,,n
+1095,1094,text,Click here to cancel reply.,n
+1101,1094,p,Δ,n
+1104,1093,div,,n
+1105,1104,div,,n
+1107,1105,div,,n
+1109,1107,p,Barbara L Perkins,n
+1111,1107,p,October 2021,n
+1114,1105,p,Me and my sister and our cousins in are going on a road trip from Baytown Texas to Midwest Indiana for 1 to 2 weeks. I read your list on what to bring. It Was very useful and helpful. Thank you.,n
+1115,1104,div,,n
+1117,1115,div,,n
+1119,1117,p,Michael,n
+1121,1117,p,October 2021,n
+1124,1115,p,This is a great list. I add a 12 cup thermal coffee maker with a reusable brew basket on all road trips. Thermal is the best as I've broken several glass carafes. Add creamer to the small cooler with pastries saves time and money each morning. Can brew water for soup or hot chocolate at night.,n
+1125,1104,div,,n
+1127,1125,div,,n
+1129,1127,p,ViaTravelers,n
+1131,1127,p,September 2021,n
+1134,1125,p,"This is a very insightful road trip packing blog! It is nice that you add entertainment items such s books and games to keep the road trip engaging, especially when traveling with kids and the whole family!",n
+1135,1104,div,,n
+1139,1135,p,Tessa,n
+1144,1135,p,this list. Where can I find it?,n
+1145,1135,div,,n
+1149,1145,p,Vicki Garside,n
+1154,1145,p,"Hi Tessa, the PDF is sent to you once you have signed up to the mailing list and confirmed your subscription.",n
+1155,1104,div,,n
+1157,1155,div,,n
+1159,1157,p,Peter Ferry,n
+1161,1157,p,August 2021,n
+1164,1155,p,I've learned a few new road trip essentials from this article. Thank you,n

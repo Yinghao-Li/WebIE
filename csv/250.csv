@@ -1,0 +1,150 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+20,0,ytd-app,,n
+245,20,div,,n
+256,245,div,,n
+796,256,div,,n
+812,796,div,,n
+818,812,h1,Packing a Canoe,n
+820,812,div,,n
+821,820,div,,n
+823,821,div,,n
+825,823,span,378 views,n
+827,823,span,3K views,n
+831,821,div,"Jun 16, 2016",n
+838,820,div,,n
+847,838,ytd-toggle-button-renderer,7,n
+856,838,ytd-toggle-button-renderer,Dislike,n
+865,838,ytd-button-renderer,Share,n
+875,838,ytd-download-button-renderer,Download,n
+884,838,ytd-button-renderer,Save,n
+933,796,div,Subscribe,n
+961,256,div,,n
+963,961,div,,n
+971,963,div,5:43,n
+979,963,div,,n
+983,979,h3,VIRTUAL COACH,n
+999,979,div,,n
+1001,999,span,147K views,n
+1003,999,span,10 years ago,n
+1028,961,div,,n
+1036,1028,div,14:19,n
+1044,1028,div,,n
+1048,1044,h3,Yukon Canoe Adventure,n
+1066,1044,div,822 views,n
+1093,961,div,,n
+1101,1093,div,39:20,n
+1109,1093,div,,n
+1113,1109,h3,canoe restoration,n
+1131,1109,div,1K views,n
+1158,961,div,,n
+1166,1158,div,31:20,n
+1174,1158,div,,n
+1178,1174,h3,Fall Canoe Tripping in a Hot Tent - Haliburton Highlands Waterway Trails,n
+1196,1174,div,11K views,n
+1223,961,div,,n
+1231,1223,div,3:02,n
+1239,1223,div,,n
+1243,1239,h3,Packing,n
+1259,1239,div,,n
+1261,1259,span,50K views,n
+1263,1259,span,7 years ago,n
+1288,961,div,,n
+1296,1288,div,15:36,n
+1304,1288,div,,n
+1308,1304,h3,Canoe Camping Gear Loadout | what to bring camping,n
+1326,1304,div,5K views,n
+1353,961,div,,n
+1361,1353,div,0:48,n
+1369,1353,div,,n
+1373,1369,h3,How to get into a Kayak from a dock?,n
+1391,1369,div,4K views,n
+1418,961,div,,n
+1426,1418,div,7:16,n
+1434,1418,div,,n
+1438,1434,h3,Canoe Paddles - How to Choose and Size a Paddle,n
+1456,1434,div,16K views,n
+1483,961,div,,n
+1491,1483,div,2:07,n
+1499,1483,div,,n
+1503,1499,h3,This is Sea Kayaking,n
+1519,1499,div,,n
+1521,1519,span,3K views,n
+1523,1519,span,4 months ago,n
+1548,961,div,,n
+1556,1548,div,8:28,n
+1564,1548,div,,n
+1568,1564,h3,The Top 3 Basic Canoeing Strokes | Canoeing,n
+1584,1564,div,,n
+1586,1584,span,73K views,n
+1588,1584,span,6 years ago,n
+1613,961,div,,n
+1621,1613,div,53:22,n
+1629,1613,div,,n
+1633,1629,h3,HOW TO CANOE CAMP IN ALGONQUIN PARK!,n
+1651,1629,div,116K views,n
+1678,961,div,,n
+1686,1678,div,30:33,n
+1694,1678,div,,n
+1698,1694,h3,Camp Kitchen. My Cooking Gear,n
+1716,1694,div,602K views,n
+1743,961,div,,n
+1751,1743,div,15:31,n
+1759,1743,div,,n
+1763,1759,h3,Fishing canoe modifications,n
+1781,1759,div,19K views,n
+1808,961,div,,n
+1816,1808,div,7:21,n
+1824,1808,div,,n
+1828,1824,h3,Restoring 2 Mad River Canoes,n
+1846,1824,div,3K views,n
+1873,961,div,,n
+1881,1873,div,19:08,n
+1889,1873,div,,n
+1893,1889,h3,Canoe Tripping With Your Dog,n
+1911,1889,div,18K views,n
+1938,961,div,,n
+1946,1938,div,1:33,n
+1954,1938,div,,n
+1958,1954,h3,Using Self Rescue Straps during a in-water self rescue demo,n
+1976,1954,div,12K views,n
+2003,961,div,,n
+2011,2003,div,18:36,n
+2019,2003,div,,n
+2023,2019,h3,Set up your canoe,n
+2041,2019,div,24K views,n
+2068,961,div,,n
+2076,2068,div,8:00,n
+2084,2068,div,,n
+2088,2084,h3,How to Pack a Canoe,n
+2104,2084,div,,n
+2106,2104,span,357 views,n
+2108,2104,span,5 months ago,n
+2133,961,div,,n
+2141,2133,div,14:36,n
+2149,2133,div,,n
+2153,2149,h3,10 DAY WILDERNESS CANOE TRIP || Lessons From The Allagash,n
+2171,2149,div,220K views,n
+2198,961,div,,n
+2206,2198,div,6:01,n
+2214,2198,div,,n
+2218,2214,h3,Old Town Next - Canoe or Kayak?,n
+2236,2214,div,168K views,n
+2290,961,div,Show more,n
+2366,256,div,,n
+2367,2366,div,,n
+2369,2367,h2,,n
+2371,2369,span,0,n
+2373,2369,span,Comments,n
+2375,2367,span,,n
+2378,2375,div,Sort comments,n
+2385,2375,div,Sort by,n
+2417,2366,div,Add a comment...,n
+2442,245,div,,n
+2446,2442,div,Experiencing interruptions?,n
+2451,2442,yt-button-renderer,Find out why,n
+2467,20,div,,n
+2468,2467,div,,n
+2470,2468,yt-formatted-string,YouTube,n
+2472,2468,yt-formatted-string,"Sign in to like videos, comment, and subscribe.",n
+2478,2467,div,Got it,n

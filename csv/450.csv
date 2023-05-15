@@ -1,0 +1,99 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+9,1,div,,n
+17,9,h1,What should I bring?,n
+23,9,div,,n
+26,23,p,Remember,n
+29,23,h2,Day Hike,n
+32,23,h3,Backpack,y
+34,23,p,"-Packing is important. Put the heavier items on the bottom and closest to your spine. A pack that is out of balance will make the hiker out of balance. From there, know what items you need to access most often and put them in areas or pockets where you don’t have to dig.",n
+37,23,h3,Map and Compass,y
+39,23,p,"battery, you are out of luck .",n
+41,23,p,-Know how to use a compass. On the job training is not the way to go.,n
+43,23,p,"-Make sure you review your plan before you hike as well as the forecasted weather. There is a lot of documentation online that will help you as well as the Adirondack Loj Info Center, The Mountaineer in Keene Valley, and the High Peaks Cyclery.",n
+45,23,p,"-When choosing, we recommend using the National Geographic waterproof map",n
+48,23,h3,water,y
+50,23,p,"-If you know you will drink more you should pack accordingly. Also, if you are in an area where there is a water source, bring a water filter or iodine tablets. Remember that water is going to be the heaviest thing in your pack so try not to go overboard. Camel Backs are a great tool for quick access to water on the trail, however you need to pay better attention to how much water you have left because it may not always be visible if it is inside your pack. This is where water bottles may be a better option for you. It is all up to the individual.",n
+55,23,p,"-You should pack calorie dense meal and snacks. Do not take any item under 200 calories. Lots of snacks make for quick, on-the-go food while on the trail. Know where you pack your food. Some backpacks have hip belt pockets that make easy access for snacks that you can grab without missing a step. Lastly, if your food has a wrapper, make sure that you carry it out. We are all responsible for taking care of our wilderness.",n
+58,23,h3,Clothing,y
+60,23,p,"-Unless you want to be wet and cold, do not wear cotton!!!",n
+62,23,p,-Bring appropriate layers for the weather. Take into account that it will always be colder once you hike above tree line. This may mean that you have a layer specifically for when you are on the summit.,n
+64,23,p,"-Pack an extra pair of socks. If you get your shoes wet, you may end up with some ugly blisters. A good trick if you dunk your boot during a river crossing is to put new socks on and then stick your feet in Ziploc bags. This prevents your soggy boot from making your fresh socks wet.",n
+66,23,p,"-If there is any percentage of rain in the forecast it will almost definitely rain . Bring a waterproof jacket to stay warm, dry, and happy.",n
+69,23,h3,Footwear,y
+71,23,p,"-Hiking boots or trail running shoes are the best option. If you do not have these, running shoes are the next best option. Don’t bring your brand new white tennis shoes because you will most likely ruin them. Work boots are satisfactory, but will feel like you are wearing ankle weights all day.",n
+74,23,h3,Sunglasses,y
+77,23,h3,Hat,y
+80,23,h3,Sunscreen,y
+83,23,h3,First Aid Kit with Emergency Blanket,y
+85,23,h3,Knife,y
+87,23,h3,Whistle,y
+89,23,p,-Three whistles is an international call,n
+91,23,h3,Fire Starter,y
+93,23,p,"-Know where you are allowed to have a fire . In places that you fires are permitted, use designated fire pits and or or use “leave no trace” practices. Only gather wood from off the ground and do not harm vegetation.",n
+95,23,h3,Headlamp,y
+97,23,p,"-Bring this no matter what time you think you will be out of the woods. Flashlights will do, but headlamps allow the use of both your hands.",n
+99,23,h3,Camera,y
+101,23,p,-Don’t you need a new profile picture?,n
+103,23,h3,Bug Net,y
+108,23,p,"-Some people like these for balance, while others don’t. It has been said that using them actually changes their natural stride. It is all up to the individual.",n
+111,23,h3,Other,y
+113,23,p,"-Pack as light as you can. Ounces are pounds out in the backcountry. Do not bring anything you do not absolutely need. The more hiking you do, the better you will be at packing. If last hike you didn’t use something , toss it!",n
+115,23,h2,Day Hike,n
+117,23,p,"Remember that hiking in the winter is a whole different animal. Just because you hiked a mountain in the summer doesn’t mean you will be able to in the winter. Your pack will be heavier, you will be moving slower, and then throw in the “cold” factor. Always consult with someone who is an experienced winter hiker if you have any questions.",n
+121,23,h3,Winter Backpack,y
+123,23,p,-These have easy attachment systems,n
+125,23,h3,Winter Clothing,y
+127,23,p,"-Your winter layering system is an art. You need to learn the best combination of base layers, mid layers, and shells for your body. Sweat is the enemy in the winter. If you are wet, all it takes is a little wind to make you cold. Design your layering system with a base layer that is an insulating layer close to your skin. This layer also helps with moving perspiration away from the skin. Your mid layer has the soul purpose of insulation. Multiple thin layers allow for better temperature control. The second you feel sweat coming on, take off a mid layer and put it in your pack. Be extremely disciplined with this. Some people wait too long to do this. If you still sweat, try to have more thin mid layers to take off. Thicker coats often make the hiker warm and then when they take it off, they are cold. Finally, the last layer should be a shell. This is your waterproof and windproof layer. It keeps the wind and moisture out while having very little insulation benefit. This allows you to continue to wear it while you are shedding mid layers to cool off. Don’t make excuses that no matter what you do, you sweat when you hike. This just means you have some more dialing in on your personal system.",n
+129,23,p,"-Winter hiking pants are often a nice option. They are usually lined and are water resistant or waterproof. If you are doing a more serious hike you may need shell pants, mid layer, and a base layer similar to your top layer system. Synthetic underwear also makes your hike more comfortable and dry.",n
+131,23,p,-Wool or synthetic socks,y
+133,23,p,-Multiple hats in case one gets wet,n
+135,23,p,-Multiple gloves in case one pair gets wet,n
+137,23,p,-Glove liners are helpful when you have to take your gloves off to mess with equipment because your hands aren’t completely bare. They also help wick away perspiration.,n
+139,23,p,-Buff and or face mask depending on the conditions,n
+141,23,p,"-Ski goggles are helpful in areas of high wind. If you are hiking a mountain like Mount Washington, you definitely want these.",n
+143,23,p,"-Sun glasses protect your eyes from snow blindness. After staring at the white snow all day reflecting the suns rays, it can actually damage your eyes. These are a must for every winter hike. Glacier goggles are overkill for the Adirondacks. They are usually around 80% sun blocking and you only need those in more extreme areas.",n
+145,23,h3,Traction Equipment,y
+147,23,p,This depends on where and when you are hiking. You may need to pack all of these during your hike because the conditions change at higher elevations. Get caught without these and it could be a safety issue.,n
+149,23,p,-Snowshoes are mandatory in over 8″ of snow in the Adirondacks. You will get a ticket if you are found without them. Crampons with ascender bars help for steeper terrain. MSR sells good snowshoes for hiking mountains.,n
+151,23,p,-Microspikes help grip on ice and a thin layer of snow. These should always be with you on a winter hike!,n
+153,23,p,-Trail Crampons are a helpful “in between” option. They help grip in thicker ice and snow that is more stable. The spikes on the toe also help with traction in a steeper climb.,n
+155,23,p,-Crampons are for more mountaineering or ice climbing situations. These need special boots that are very heavy . This is usually overkill for hiking the Adirondacks. There are many areas to ice climb where they are mandatory.,n
+157,23,h3,Ice Axe,y
+159,23,p,"-You very rarely see these in the Adirondacks because usually they are overkill. If you are hiking a slide where there is a large runout, you may want it. It is used for self-arresting in the instance that you were to fall and not have any trees to stop yourself with.",n
+161,23,h3,Water Bottles,y
+163,23,p,"-Do not bring a Camel Back. Despite insulation available to try and prevent it, the tube freezes in colder weather. The best option is Nalgene water bottles. You can purchase water bottle insulators to prevent freezing but sometimes its just too cold. The best way to make sure you can still drink from your water bottle is to store it upside down so that ice forms at the bottom and not near the opening. Nalgene bottles are also the best option because of how wide the mouth opening is. This keeps ice from completely blocking the opening.",n
+167,23,p,"-Bring high calorie dense food and snacks. Remember that some foods freeze during the winter. Make sure you put them in pockets close to your body so you don’t lose a tooth, or bring food that isn’t chewy. Nuts and trail mix are a great option for any weather.",n
+169,23,h3,Thermos,y
+171,23,p,"If you are usually cold, try bringing a warm drink to warm your core. A good hot chocolate at the summit is also a great morale booster!",n
+173,23,h2,Multi-Day Hike,n
+177,23,h3,55 to 85L Backpack,y
+179,23,p,-The size will depend on the length of your hike and how efficient you are at packing. When purchasing a bag you can usually buy a much larger backpack than needed because they usually have straps that help compress them down. This will save you from having to buy more than one multi-day pack.,n
+181,23,h3,Appropriately Rated and “Packable” Sleeping Bag,y
+183,23,p,"-Degree ratings are relative so know how your body temperature behaves in different weather. I highly recommend women to purchase a women specific bag because there is more insulation in certain areas for their body. Also, if the bag is too big, their body has to heat a lot more extra space. The rating on a men’s bag is usually a lot lower than what it would be for a woman. Check the weather and know how your body behaves in your sleeping bag. There are two types of sleeping bags: synthetic and down. The down tends to be lighter and easier to pack, but does not retain heat when wet. For areas that are more wet , the synthetic sleeping bag would be the way to go. In some instances, companies make treated down that may actually work. Overall down is most likely going to cost you more.",n
+185,23,h3,Shelter,y
+187,23,p,"-When possible, use a lean-to. This means you don’t have to carry the extra weight. Besides using a bivy sack, your choice between a tent or a hammock. Tents are nice because you feel a little more enclosed. Make sure you have a footprint for your tent, unless you want to wake up under water. If you are going with multiple people, you can distribute the poles and stakes between each other’s packs to lessen the weight. Along with your tent, I would suggest a sleeping pad of some kind. They are usually relatively light and make a huge difference in comfort and warmth. Remember…A layer below is as good as three layers on top. Hammocks are nice because they are lighter and you are off the ground, so you don’t have to worry about pads. The downfall of hammocks are that they do not retain heat as well. You may have to bring a lower rated sleeping bag than you would with a tent. Plus you need an additional tarp and bug net. It is all up to your own personal preference.",n
+189,23,h3,Bear Can,y
+191,23,p,"– Bear cans are mandatory in the high peaks, as they should be. This protects your food and keeps bears from connecting food with humans. They come in two sizes. The large size can be purchased anywhere, while the small size can only be found at The Mountaineer. Many places in the Adirondacks also rent bear cans if you don’t want to purchase them. If you pack high calorie dense food, one large bear can should fit around 3 days of food. Remember to put all medicine and toothpaste in the bear can at night. A bear has 3x the sense of smell as a doberman, so keep that in mind. You should make a triangle with the location of your cooking site, camp, and food, spaced 100 ft. away from each other. This keeps the critters away from your tent should one try to mess with the bear can. If you can locate your camp up wind from the food and cook site, this is best.",n
+195,23,p,-High calorie dense meals and snacks,n
+197,23,p,"-Gu’s are a nice pick-me-up while hiking, but be careful because caffeine can dehydrate you",n
+199,23,p,-Try to avoid cans because you have to carry the extra weight of the can. Remember to “leave no trace” and carry out what you carried in.,n
+201,23,p,-You may need a stove if your food requires it.,n
+205,23,p,"-More people like to have these when carrying a heavier pack. Once again, this is personal preference.",n
+207,23,h2,Multi-Day Hike,n
+209,23,p,"This is not for the experienced hiker only. Once you are out there and you get cold, it may be a long way back to the car. You really have to have your clothing, route, and emergency scenario plans dialed in. Make sure you have tried camping near your car with your gear before hiking out into the back country. Worst thing that happens is you hop into the car and blast the heat.",n
+211,23,h3,**Include everything from Day Hike,n
+213,23,h3,**Include everything from Muli-Day Hike,n
+215,23,p,-Bear can is not needed in the winter,n
+217,23,p,"-Tent should preferably be 4-season. 4-season tents have a rain tarp that goes all the way to the ground and stronger materials to stand up to higher winds and lower temperatures. Most importantly this will help keep you warmer better than the 3-season, however sometimes you can make do with a 3-season depending on the weather.",n
+219,23,p,-Bring extra clothing to stay dry,n
+220,1,div,,n
+221,220,footer,,n
+222,221,div,,n
+227,222,div,46Climbs,n
+233,222,div,© 46Climbs 2022,n
+244,221,p,Special Thanks to,n
+253,220,div,,n
+254,253,text,Are you in crisis? Call-or text TALK to 741741 .,n
+261,253,br,National Suicide Prevention Hotline,n

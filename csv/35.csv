@@ -1,0 +1,96 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+18,0,h1,22 Essential Tools and Equipment Every Bar Should Have,n
+20,0,article,,n
+21,20,div,,n
+24,21,p,"The first cocktails were most likely enjoyed by British navy sailors, and pirates during the 1500s and they consisted of a rough moonshine rum that was mixed with citrus fruit, sugar, tea and other spices to enhance of the rum.",n
+27,21,p,"Since the days of sailing the seven seas, mixology has become a skillful art. The level of precision and skill involved has increased dramatically and with that has come a variety of bar tools and equipment that make a mixologists job possible.",n
+30,21,p,"We’ve put together the following list of essential tools and equipment your bar needs to make it a success. The tools on our list set your bartenders up to succeed by not only giving them the basics, such as bottle openers and wine keys, but also provide them with essential equipment to make a wide repertoire of drinks for your customers. Using the tools listed here, your back of bar will be running smoothly and at peak performance at all times.",n
+33,21,h2,Bartending Tools,n
+36,21,p,"Your bar needs experienced bartenders who know how to professionally work behind the bar and provide customers with drinks that are consistent in quality and taste. To do this, bartenders require more than just the right liquor, mixes, and other ingredients that go into making drinks. They need the right tools as well to mix and serve drinks quickly and efficiently.",n
+39,21,h4,Bar mats,y
+42,21,p,"Bartenders can prepare drinks on bar mats, which can prevent spills and protect the surface of the bar from wet glasses. Made from thick and heavy rubber, these mats provide drainage for any spilled drinks and are easy to pick up and empty into the sink.",n
+50,21,h4,Service mats,y
+51,21,p,,n
+53,51,span,"Much the same as bar mats, service mats are where bartenders place drinks that are ready to be delivered to customers by servers. The mats provide stability so there’s less spillage, helping to",n
+55,51,span,waste,n
+57,51,span,.,n
+65,21,h4,Bar spoons,y
+68,21,p,"Stirring is one way to mix a cocktail, such as a gin or whiskey cocktail, gently mixing the distilled spirit to maintain a balance of flavor.",n
+76,21,p,"For this bar spoons are essential, with their long twisted handles that make it easy to stir in a smooth circular motion. Bar spoons gently stir the ingredients to just the right dilution without breaking down the ice. They also help bartenders to layer drinks, pouring a second liquor or mix down along the stem of the bar spoon to create a layered drink that’s visually appealing.",n
+79,21,h4,Bottle opener,y
+82,21,p,"One tool that no bar can do without is a bottle opener. For beer on tap, you won’t need a bottle opener, but you will for any bottled beer or other capped beverages. Consider using openers that are wall-mounted – they’re fast to use and won’t be misplaced behind the bar.",n
+92,21,h4,Corkscrew,y
+95,21,p,Invest in professional corkscrews that slide effortlessly into the cork and extract easily without crumbling or damaging the cork. Choose one that’s stainless steel with an easy-to-hold handle.,n
+103,21,h4,Cocktail shaker,y
+106,21,p,"A well-equipped bar has one or more cocktail shakers to provide customers with the ideal shaken beverage. Ingredients are placed in the sealed stainless steel shaker, typically liquor, syrups, fruit juices, and ice. After vigorously shaking and mixing the drink, shakers allow for easy pouring into the customer glass. Many varieties of shakers come with built-in strainers to separate the ice or other ingredients.",n
+114,21,h4,Cocktail strainer,y
+117,21,p,"If your cocktail shaker doesn’t come with a built-in strainer, you’ll want a cocktail strainer. You’ll need one of these to create cold ice-free drinks. The strainer is placed over the mouth of the shaker, with the small holes letting the drink pass through, leaving the ice in the shaker.",n
+125,21,p,"A common brand used by many bartenders is the Hawthorne strainer, which is made from stainless steel, is dishwasher safe, and fits most professional bar shakers.",n
+128,21,h4,Cocktail rail,y
+131,21,p,"Also known as a speed rail, a cocktail rail is a metal rack that holds those liquors and mixers that are frequently used by your bartenders to prepare drinks. The rail can be attached to the side of the bar for quick access, so bartenders aren’t spending valuable time reaching for bottles they use a lot.",n
+139,21,h4,Cocktail pourer,y
+140,21,p,,n
+142,140,span,Bottles that don’t have a pourer are increasing your operating costs. Using measured pourers allows you to control and,n
+144,140,span,manage your liquor inventory,n
+146,140,span,and keep your bartenders from over pouring. Pourers are placed on top of bottles to pour out consistent and even shots of liquor and mixes.,n
+154,21,h4,Cutting boards,y
+157,21,p,"To cut garnishes for cocktails, your bar will need at least one cutting board. Not only do cutting boards provide a hygienic and safe surface for cutting, they also help protect the bar top and keep knives sharp. Choose one that’s sturdy, durable, and non-slip.",n
+165,21,h4,Ice bucket,y
+168,21,p,A couple of ice buckets will come in handy if your bartender is working the bar on the other side from where the ice machine is located. It can also double as a wine cooler to keep wine chilled.,n
+176,21,h4,Ice crusher,y
+179,21,p,"Many cocktails call for crushed ice. Having an ice crusher behind the bar is the ideal way for bartenders to crush ice to the right consistency for your signature cocktails. Look for one that’s portable and doesn’t take up much room behind the bar. Alternatively, you can buy crushed ice, however this can increase your bar costs.",n
+187,21,h4,Ice kit,y
+190,21,p,"Most of the time your ice maker is going to be adequate, but for some of your signature drinks, you can impress your patrons with ice cubes in different shapes. Use spherical for bourbon and whiskey on the rocks or use a floral mold for cocktails.",n
+198,21,h4,Jigger,y
+199,21,p,,n
+201,199,span,"To be sure your bartenders are measuring correctly and consistently, not just",n
+203,199,span,over-pouring,n
+205,199,span,", your bar tool inventory needs to include a jigger. Choose jiggers of different sizes, from .5oz to 2oz.",n
+213,21,h4,Juicer,y
+216,21,p,"A citrus juicer is a mainstay for any bar. Nothing beats using freshly squeezed lemon, lime, or orange juice in your drinks. Use a hand-held juicer or invest in a larger, standing hand-press juicer if you’re creating a lot of juice-based cocktails.",n
+224,21,h4,Muddler,y
+227,21,p,"It’s not just the Mojito that requires a muddler, this bartender’s tool is used to create many other cocktails. A good muddler will bring out the aromatics of herbs, spices, and fruits so that their flavors are released and infused into the drink.",n
+235,21,p,"Look for muddlers that are long-handled and ergonomically designed for easy holding. The long handle keeps bartenders from hitting their hands on the sides of the glass or cocktail shaker, allowing them to mix drinks safely and efficiently. Muddlers should also be durable and dishwasher-safe.",n
+238,21,h4,Peeler,y
+242,21,p,For those cocktails that are embellished with a peel garnish you’ll need a sharp and sturdy peeler. Opt for one that has an extra wide carbon steel blade and an easy to hold slip-free handle. It will make peeling any citrus fruit safe and easy.,n
+250,21,h4,Rimmer,y
+253,21,p,"If you’re making margaritas and other drinks that require a rimmed glass edge, a rimmer lets bartenders quickly create the perfect rim of salt or sugar. Choose one with multi trays, adding that burst of flavor to cocktails.",n
+261,21,h4,Zester,y
+264,21,p,"Although not the most-used tool behind the bar, some drinks such as a Dry Martini or a Cosmopolitan need a dusting of lemon or lime on top. A quick twist with a zester is all it takes for your bartenders to add that visual appeal and boost of flavor to drinks.",n
+273,21,h2,Bar Equipment,n
+276,21,p,Just as essential as bar tools is your bar equipment. Invest in equipment that’s going to increase the speed and efficiency of your bar staff.,n
+279,21,h4,Glass rack,y
+282,21,p,"Space behind your bar is limited – you need to do everything you can to make it efficient and safe for your bartenders to work. A glass rack, either hanging overhead or wall-mounted, can free up valuable space and keep glassware protected. Consider buying glass racks that complement the décor of your bar, such as metal for a modern look or classic oak for a more refined style.",n
+290,21,h4,Glass washer,y
+293,21,p,"It may seem like a big investment, but you’ll be glad you have one during your bar’s peak times. A glass washer is specifically designed for bar glasses, making it faster and easier to keep up with the demand for clean glasses. Submersible underwater in your bar sink, bar glass washers install in a breeze and don’t require any additional plumbing.",n
+301,21,h4,Ice maker,y
+304,21,p,"For any of those drinks served on the rocks you’ll want to keep up with ice production. Although a larger investment, having a reliable ice maker is essential to keeping your customers happy and keeps you from dashing to the store when you’ve run out of ice. With your own in-house ice maker, your bartenders can keep ice buckets filled at all times.",n
+313,21,h2,Conclusion,n
+316,21,p,"With these essential bar tools and equipment, you’re all set to provide your customers with great drinks while at the same time streamlining your bar operations. Take some time now to go through your bar tool and equipment inventory, identifying areas where you can purchase additional tools that are essential to a successful bar operation.",n
+319,21,div,,n
+321,319,h4,Want to Start a Bar?,n
+323,319,p,launching your first venue.,n
+324,319,text,Download it now,n
+327,21,div,,n
+330,327,span,Facebook,n
+333,327,span,Twitter,n
+336,327,span,LinkedIn,n
+339,327,span,Messenger,n
+340,20,div,,n
+341,340,div,,n
+342,341,text,PUBLISHED,n
+344,341,time,"September 16, 2019",n
+345,341,text,IN,n
+350,340,div,Monica Mccutchen,n
+355,340,div,,n
+358,355,h4,How efficient is your restaurant and bar?,n
+360,355,p,Evaluate cost areas and benchmark your processes to proven industry standards,n
+361,355,text,Start Quiz,n
+363,20,div,,n
+365,363,h3,More Insights,n
+366,363,section,,n
+369,366,div,11 Ways To Increase Your Bar Sales and Profit Margins,n
+372,366,div,The 5 Best POS Systems,n
+375,366,div,9 Exciting Cocktail Trends in 2021 and Beyond,n
+378,366,div,Boost Bar Profits with these Tips,n

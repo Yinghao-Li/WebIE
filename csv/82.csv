@@ -1,0 +1,32 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+11,0,div,,n
+14,11,div,,n
+17,14,h2,Training Equipment and Supplies,n
+19,14,p,Wrestling training equipment and mats are assigned at national level. National Federation may apply for wrestling training equipment for the following:,n
+20,14,ul,,n
+23,20,li,Wrestling mats,y
+26,20,li,Wrestling apparel*,y
+29,20,li,Other training equipment,y
+31,14,p,"United World Wrestling provides wrestling training equipment and covers international shipment cost, however customs clearance, tax and domestic transportation are the responsibilities of the applicant National Federation.",n
+33,14,p,Final decision regarding the attribution is made by United World Wrestling.,n
+35,14,h3,Wrestling Mats,n
+37,14,p,United World Wrestling has teamed up with Taishan Sports Industry Group to make a limited number of mats available to national federations to develop and promote the sport of wrestling.,n
+39,14,p,"Please note that in order to qualify for United World Wrestling Technical Assistance , a detailed application form must be submitted. Each national federation is responsible for ensuring that the mats can be received without any customs, delivery or storage problems. We recommend that you work with your National Olympic Committee and or or Ministry of Sport to ensure that issues are avoided in advance. United World Wrestling receives numerous requests for mats and even if your application is successful you may be put on a waiting list.",n
+41,14,p,Application procedure and dossier requirements,n
+42,14,ul,,n
+44,42,li,Wrestling Mats Donation Application Form,n
+53,42,li,Sports,n
+55,42,li,A Wrestling Development Plan,n
+57,14,p,"Completed application forms must be signed, scanned and returned by email to United World Wrestling at development@unitedworldwrestling.org.",n
+59,14,p,Limited number of mats per year. Merits based selection process. Mats are shipped by sea from port to port; it takes up to 6 months depending on the departure location to arrive at destination.,n
+63,14,h3,Sports Apparels Donation,n
+65,14,p,"United World Wrestling, together with its partner organizations and other stakeholders, donate sports wear, wrestling shoes and singlets to the under developed countries, disaster areas and refugees. Shipping cost is covered by United World Wrestling, any tax due to this activity is the responsibility of the applicant national federation.",n
+67,14,p,You may contact UWW's Development Department,n
+69,14,p,"In 2019, with the help of the USA Wrestling for Peace program, wresting mats, singlets, shoes and head gears were sent to Puerto Rico to rebuild their wrestling facilities two years after a devastating hurricane hit the country.",n
+81,11,div,,n
+85,81,h3,Training Equipment,n
+86,81,p,,n
+87,86,text,Wrestling specific training equipment is available,n
+89,86,strong,development@unitedworldwrestling.org,n
+90,86,text,for more details.,n

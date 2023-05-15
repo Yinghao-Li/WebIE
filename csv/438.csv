@@ -1,0 +1,102 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,,n
+8,4,div,Works With SmartThings Partners Getting Started Support,n
+24,4,div,,n
+25,24,div,,n
+27,25,div,Works With SmartThings,n
+29,25,div,Partners,n
+31,25,div,Getting Started,n
+33,25,div,Support,n
+35,24,div,,n
+37,35,div,Privacy Policy,n
+39,35,div,Use,n
+41,35,div,Report a Vulnerability,n
+43,4,div,,n
+46,43,p,"brands, thousands of devices, one magical smart home",n
+65,43,div,View All,n
+67,43,div,Scroll Down,n
+74,4,div,,n
+76,74,div,Featured Partner,n
+78,74,h2,Set the mood. Shoot and watch in 8K. See who’s at the door—from any room. Samsung simplifies the everyday.,n
+527,4,div,,n
+548,527,div,,n
+550,548,h3,Create the ideal ambiance with Somfy smart shades,n
+553,548,p,Control smart shades,n
+579,527,div,,n
+581,579,h3,what matters with Honeywell Home,n
+584,579,p,"Honeywell Home devices make it simple to control your home’s comfort, monitor usage, and more — helping you to make your home cozier, safer, and more efficient.",n
+610,527,div,,n
+612,610,h3,Look after your home and family with Google Nest,n
+615,610,p,"Welcome Google Nest to the WWST ecosystem. A suite of Google Nest products helps you stay informed, safe, comfortable and looks after your home.",n
+641,527,div,,n
+643,641,h3,Grant access into your home with Genie®,n
+646,641,p,"Genie® keeps your home safe with dependable, high quality, innovative smart garage door openers.",n
+672,527,div,,n
+674,672,h3,Control your smart home with Mercedes-Benz 2021 S-class,n
+677,672,p,Drivers and passengers can seamlessly connect and control many aspects of their home environment all through Mercedes-Benz’s integrated voice assistant.,n
+703,527,div,,n
+705,703,h3,Get enlightened with Philips Hue,n
+708,703,p,"Bring your home to life with the smartest lighting in the world. Whether it’s for your living room, kitchen, or garden, SmartThings makes it easy to shed light on new possibilities.",n
+717,4,div,,n
+719,717,div,SMARTTHINGS COMPATIBILITY,n
+721,717,h2,smarter living solutions,n
+724,717,div,See All Brands,n
+2581,4,div,,n
+2584,2581,div,,n
+2586,2584,h4,Grow your business with SmartThings,n
+2589,2584,div,Become a Partner,n
+2594,2581,div,,n
+2596,2594,h4,Let’s build something smart together,n
+2599,2594,div,Visit Developer Portal,n
+2602,4,footer,,n
+2607,2602,div,,n
+2608,2607,div,,n
+2611,2608,div,Discover,n
+2613,2608,div,Works With SmartThings Partners Getting Started,n
+2616,2607,div,,n
+2619,2616,div,ENGAGE,n
+2621,2616,div,Developers Blog Press Kit,n
+2624,2607,div,,n
+2627,2624,div,Help Center,n
+2629,2624,div,Support Community Careers,n
+2637,2602,div,,n
+2638,2637,text,"© 2022 SmartThings, Inc.",n
+2640,2637,div,Report Vulnerability Privacy Cookie Terms,n
+2646,0,div,,n
+2651,2646,div,,n
+2656,2651,p,"By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.",n
+2658,2651,div,,n
+2660,2658,button,Cookies Settings,n
+2662,2658,button,Accept All Cookies,n
+2665,2646,div,,n
+2669,2665,div,,n
+2671,2669,h2,Privacy Preference Center,n
+2672,2669,div,,n
+2673,2672,text,"When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.",n
+2675,2672,br,Cookie Policy,n
+2677,2669,button,Allow All,n
+2678,2669,section,,n
+2680,2678,h3,Manage Consent Preferences,n
+2681,2678,div,,n
+2683,2681,div,,n
+2688,2683,h4,Strictly Necessary Cookies,n
+2690,2683,div,Always Active,n
+2693,2681,p,"These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.",n
+2694,2678,div,,n
+2696,2694,div,,n
+2701,2696,h4,Performance Cookies,n
+2707,2696,div,Performance Cookies,n
+2710,2694,p,"These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.",n
+2711,2665,section,,n
+2712,2711,div,,n
+2716,2712,h3,Performance Cookies,n
+2726,2712,div,,n
+2728,2726,button,Clear,n
+2739,2726,div,,n
+2741,2739,button,Apply,n
+2743,2739,button,Cancel,n
+2747,2711,div,,n
+2749,2747,span,Consent,n
+2751,2747,span,Leg.Interest,n
+2779,2665,div,Confirm My Choices,n

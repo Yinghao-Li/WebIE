@@ -1,0 +1,38 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+13,0,div,,n
+14,13,text,"When it comes to preparing for a wrestling season, conditioning and proper nutrition are at the top of every athlete's list. However, don't overlook the importance and impact of ensuring your wrestler is outfitted with the right equipment and gear before the season even starts.",n
+17,13,br,"""It's just one less thing to worry about, especially if you are a mom or dad new to the sport,"" says Joe Miller, sales manager with All-American Wrestling Supply and the head coach at Middleton Area Wrestling Club in Middleton, Wisconsin. But every year, he still sees wrestlers who aren't properly equipped. ""There are kids who get shoes that don't fit, their headgear is too big, they don't wear knee pads and get mat burn"" explains Miller. ""You don't want to miss time on the mat because your equipment doesn't fit right, or because of sanitary and cleanliness reasons. Having the right equipment in place that fits appropriately will help you get ready to compete this season.""",n
+20,13,br,"Miller recommends using the size chart retailers provide on their web site or catalogs to help determine what the best fit is for your individual child or situation. That being said, the charts are only recommendations, says Tom Keen, President of Cliff Keen Athletic, a leading manufacturer of wrestling equipment and uniforms.",n
+23,13,br,"""While wrestling does not require a lot of gear overall, it is very important to have gear sized and fitted correctly,"" Keen says. ""Singlets are designed to fit snugly against the body to prevent their opponents from grabbing onto them. Keep in mind, the recommended size charts are just that -- a recommendation."" A tall, lean 140-pound wrestler may take a different size than a shorter, stockier wrestler of the same weight, he notes.",n
+26,13,br,"Brian Murphy, a former college wrestler and current President of Beat The Streets Toledo, a non-profit wrestling club in Toledo, Ohio, personally knows the importance of having the right equipment in place.",n
+29,13,br,"""I began getting cauliflower ear in sixth grade"" Murphy recalls. ""Part of that was because I did not wear head gear, and part was because the headgear I did wear did not do the best job of protecting my ears. I wanted the cool-looking headgear, and did not care about the protection of my ears. By my sophomore year in high school, I was getting my ears drained in the trainer's room between matches, and eventually had to get surgery after one of my tournaments.""",n
+32,13,br,"To avoid these complications, it's a good idea for wrestlers to routinely gear up before the season starts to ensure proper fit and prevent encountering back-ordered items, especially for athletes with less common body sizes. ""In our custom business, the vast majority of our uniform orders come within a month of the start of the high school and college seasons. Subsequently, we can often get a backlog in production"" Keen notes. ""We keep a healthy stock of headgear, kneepads, and accessories on hand throughout the season, especially in the most popular colors. However, as we progress towards the end of the season, inventory levels definitely are on the decline. Bottom line, be proactive and order your gear earlier rather than waiting until the last minute.""",n
+35,13,br,Both Keen and Miller offer these tips,n
+40,13,br,"Wrestling shoes traditionally run about a size smaller than average street shoes and are a little more narrow, says Miller. If you wear a size 10 normally consider testing a size 11 wrestling shoe. When you put wrestling shoes on for the first time there might be a little sensory shock, added Miller. ""They are tighter and don't feel like most running or street shoes"" he explains. ""Give them a few practices or wear them around the house to break them in as quickly as you can.""",n
+39,13,strong,Shoes,y
+45,13,br,"Keen says look for form, fit, and function. Some wrestlers like 4-strap headgear, some like 2-strap -- choosing which style comes down to which one fits properly and is comfortable.",n
+44,13,strong,Headgear,y
+50,13,br,"Singlets are designed to fit snugly against the body. Miller explains that singlets go up in roughly 20-pound increments per size. For example, an XXXS singlet is for kids that weigh between 45 to 55 pounds, while an XXS small singlet is for kids weighing 56 to 80 pounds and an XS singlet is for kids between 81 to 100 pounds. Consider both your child's current weight and future weight gains before purchasing to find the right fit.They should typically last one or two seasons depending on how much the child wrestles and how fast they grow.",n
+49,13,strong,Singlet,y
+55,13,br,"Knee pads, though sometimes overlooked, are critical in preventing mat burn, which can cause infection and keep a wrestler out of competition. They typically cost from $6 to $12 and come in many different styles. Even if you don't like wearing knee pads, Miller recommends keeping one or two in your gear bag in case you need to cover up mat burn.",n
+54,13,strong,Knee pads,y
+60,13,br,"Performance, moisture-wicking capability, and style are important, says Keen. Miller recommends wrestlers have two or three sets of workout gear -- shirts and shorts -- that they can rotate between home and the gym. Keeping these clothes clean and washed is important for sanitary and health reasons.",n
+59,13,strong,Workout gear,y
+63,13,br,"Wrestlers can avoid mat burn by purchasing long-sleeve shirts, compression leggings, and sweat pants. One note of caution: Be sure any wrestling workout gear does not include any pockets to avoid fingers getting caught or jammed while practicing.",n
+68,13,br,"There are a wide variety of bags available to store your equipment and gear. This can help keep you gear organized. But take precautionary measures to make sure the bag is sprayed, aired out, and washed regularly.",n
+67,13,strong,Wrestling or gear bag,y
+73,13,br,"Cleanliness is important and keeping these items in your gear bag is just a smart idea to avoid any skin infections, says Miller. Keep some in your bag, in your locker and at home to use after any practice or match or tournament.",n
+72,13,strong,"Sanitizer or skin foam, wipes or soap",y
+78,13,br,"Miller recommends keeping a roll of tape in your gear bag. Laces must be taped down during competition. Newer shoes have lace guards built in, but older ones may not, so taping becomes necessary.",n
+77,13,strong,Athletic tape,y
+82,13,strong,Note,n
+102,0,div,,n
+104,102,h3,Share This Page,n
+106,102,div,,n
+108,106,span,AddThis Sharing Buttons,n
+109,106,div,,n
+111,109,span,Share to Facebook,n
+114,109,span,Share to Messenger,n
+117,109,span,Share to Twitter,n
+120,109,span,Share to Email,n

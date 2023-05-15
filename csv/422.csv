@@ -1,0 +1,20 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+12,2,div,,n
+14,12,h2,Basic repair and maintenance kit,y
+16,12,p,"The basic supplies you should have in your kit include a spare inner tube, tire levers, patch kit, mini-pump, and a folding multi-tool. Even if you are not familiar with how to fix a flat tire yourself or make basic adjustments, having the necessary tools and supplies is a step in the right direction, and a passing Good Samaritan might be able to help get you going.",n
+18,12,p,"Arrange these items carefully in your seat bag, so that any sharp edges of your multi-tool don't wear a hole in your inner tube!",n
+23,2,div,,n
+25,23,h2,Water and or or sports drink and a light snack,y
+27,23,p,"Staying hydrated is a necessity on a ride of any length, even in cooler weather. You might think that on a shorter ride, a snack is not necessary, but a breakdown or other unforeseen circumstances might put you out on the road or trail longer than you expected. You can stash an energy bar in your bike bag or jersey pocket, which could give you a much-needed boost for the final pedaling push back home.",n
+32,2,div,,n
+34,32,h2,Cash and credit or ATM card,y
+36,32,p,"Some stores have a minimum amount for credit card purchases, so you should always carry a little bit of cash for the small purchases, such as an extra light snack or a refill on your water. It's a good idea to have some of that cash in a few single $1 bills, in case your only option is a vending machine. A credit card is handy if you have any major mechanical issues; if you happen to be lucky enough to be near a bike shop when this happens, you'll be covered for what replacement parts and any labor charges that you might need to incur.",n
+41,2,div,,n
+43,41,h2,Personal identification,y
+45,41,p,"In the unfortunate event that you are involved in an accident, it will be helpful for emergency personnel if they can verify your identity if you are unable to speak for yourself. If you are stopped for a traffic violoation, you may be in even bigger trouble if you are unable to produce identification. In the worst-case scenario, you might also want to think about having your medical insurance information with you as well.",n
+50,2,div,,n
+52,50,h2,Cell phone,y
+54,50,p,"If you have ride-ending mechanical issues, or get caught out after dark without a headlight and taillight, then calling a friend or family member to pick you up is your best last resort.",n
+56,50,p,"Most modern cell phones also double as a camera. If you witness or are involved in an accident, any photographic evidence that you collect could prove invaluable at a later date!",n

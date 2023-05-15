@@ -1,0 +1,110 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+40,0,div,,n
+57,40,h1,Ice Skating Equipment List,n
+58,40,div,,n
+62,58,h2,Contents,n
+103,58,li,Ice Skating Equipment,n
+107,40,div,,n
+109,107,h2,Ice Skating Equipment,n
+111,107,p,"Ice skating requires the correct equipment in order to participate and do well. To participate in ice skating, athletes must have equipment that protects them, keeps them warm, and keeps them even with their competition. Athletes wear equipment such as wrist pads, shin pads, and helmets in order to protect themselves from falling on the hard ice.",n
+114,107,p,"Athletes must also keep warm in a cold rink setting. Therefore they wear gloves, thermal clothing, and even hats to keep themselves from freezing up on the ice. It is important to stay warm as you can to have a full range of mobility.",n
+116,107,p,"Finally, athletes need equipment in order to keep them even with their competition. These include skates and the correct helmet. Figure skating has different skates from a sport like hockey. Hockey skates have a more rounded blade, whereas figure skates and speed skates have a more straight blade. It is important to have this straight-edged skate as athletes will not be able to figure skate effectively without them. Skates are used to glide along the ice and perform specific moves, while other equipment is used in order to protect or warm the athlete.",n
+121,40,div,,n
+123,121,h2,Dresses or Leotards,y
+125,121,p,"Skaters can opt to wear dresses or leotards when they practice and compete. A leotard will be skin tight and can be connected to a skirt. Dresses will cover the whole torso and have a skirt built in as well. Dresses and leotards come in a variety of different colors, patterns, and sizes. Figure skaters will often wear a certain type of leotard depending on the routine in which they are performing. A skater competing in some type of event will want to wear a dress that catches the attention of the judges. Popular brands include Zuca, IceDress, Jerry Skating World, and ChloeNoel. Depending on the size and style, dresses typically cost a couple hundred dollars each.",n
+126,40,div,,n
+128,126,h2,Elbow Pads,y
+130,126,p,"Ice skaters will often choose to wear an elbow pad . Elbow braces are critical for someone who is just learning how to skate, for someone who does not feel so stable on their skates, or for someone participating in high-intensity figure skating stunts. Elbow pads are a protective form of equipment that prevent a skater from severely injuring their elbow when they fall to the ice. The plastic piece of padding is surrounded by cushion and strapped onto a skater's elbow. If the skater were to fall, the plastic padding would absorb most of the impact and the shock from crashing into the ice. Elbow braces for ice skating are approximately $50.",n
+131,40,div,,n
+133,131,h2,Gloves,y
+135,131,p,"In addition to keeping a skater's hands warm, gloves also protect a skater's hand and fingers from getting cut if they were to fall onto the ice. The gloves worn are like an ordinary pair of mittens bought from almost any department or clothing store. Ice skating gloves won't run a person more than $10 to purchase.",n
+136,40,div,,n
+138,136,h2,Head Protection or Helmet,y
+140,136,p,"When learning how to skate, it's always important to wear some type of head protection or helmet. Since ice is slippery, it is easy to fall or hit the ground hard. One's head should always be protected to prevent someone from sustaining a concussion or some sort of a serious injury. Professional figure skaters elect to not wear helmets. Speed skates, however, often do wear some sort of protective head covering considering they travel at such a high speed around the rink.",n
+141,40,div,,n
+143,141,h2,Hip Pads,y
+145,141,p,"Just as elbow pads protect a skater's elbows, hip protectors are worn to protect a skater's hips. Hip protectors are usually made so that they are attached to the shorts or underarmour of a skater. A cushion is already attached to the under armour worn under a skater's pants. Therefore, if a skater falls and hits their hip onto the ice, the rubber cushion will protect the hip from being bruised or injured. Hip protective shorts usually cost around $60 to purchase.",n
+146,40,div,,n
+148,146,h2,Ice Skates,y
+150,146,p,"Ice skates are the most important piece of equipment that will be bought by a figure skater. For someone just learning how to skate, beginner skates of $100 are appropriate. When one begins learning how to spin and how to jump, intermediate skates in a price range of $200 to $500 are necessary. When an individual has mastered all aspects of skating and can perform almost any trick imaginable, a more advanced skate is vital. These skates cost more in the range of $800 to $1400 and better absorb the high impact jumps.",n
+152,146,p,"The skate itself is constructed so that the heel of the boot is higher than that of an ice hockey skate or of a speed skate. Furthermore, there is also a toe pick in the front of the blade that gives a skater better control when performing various routines on the ice. Jackson and Riedell are two popular brands.",n
+153,40,div,,n
+155,153,h2,Knee Pads,y
+157,153,p,"Ice skaters will often choose to wear a knee pad . A knee pad can fit right over or under a skater's leggings depending on the size of it. Some knee pads have a plastic cap on the front which provides extra protection for the knee when a skater crashes to the ice. Some knee braces, however, are made more comfortable and just have a layer or two of cushion right where the kneecap is located. Either way, both types of knee pads protect a skater from becoming hurt, and the cost is anywhere from $30 to $50.",n
+158,40,div,,n
+160,158,h2,Laces,y
+162,158,p,"Many different types of laces exist for ice skates, and skaters have their personal preferences. Cloth laces are generally soft and easy to pull and tie, but they break more often and can loosen up easily. On the other hand, wax laces are rougher on the hands and harder to tie and untie, but they break less often and stay put together in a knot. Laces typically cost approximately $5 to $10 and are sold in numerous different colors in almost any ice skate or hockey store.",n
+163,40,div,,n
+165,163,h2,Protective Glasses,y
+167,163,p,Protective glasses are not often worn while skating. These glasses are similar to a pair of sport goggles or to the goggles one wears while swimming . The protective glasses protect a skater's eye and facial area from getting cut.,n
+170,40,div,,n
+172,170,h2,Rinks,y
+174,170,p,"In order to have the opportunity to ice skate, a rink must be present. A rink is a 200ft by 85ft ice surface that figure skaters perform on. Lots of rinks also host public skates open to anyone. There is most likely an ice skating rink within a half-hour drive of where you live if you ever want to lace up some skates and learn how to skate. Ice skating is also a fun activity to explore with friends and family.",n
+175,40,div,,n
+177,175,h2,Skate Bags,y
+179,175,p,"The Zuca bag is the most popular and most used figure skating bag there is. The Zuca bag is made in different sizes and colors and is an effective and easy way to transport skates and other equipment. Most Zuca skate bags will have wheels. Other than the Zuca bag, there are several other different kinds of over-the-shoulder bags that are comfortable to hold and that can carry a skater's equipment safely.",n
+180,40,div,,n
+182,180,h2,Skate Covers or Guards,y
+184,180,p,"Skate guards are placed on the blade of the skate whenever the skate is not in use. This is so the blade remains in its best possible condition and does not rust. There are different types of skate guards: hard and soft ones. Hard skate guards allow a player to walk around and over surfaces that may be detrimental to the blade. Soft skate guards do not allow that. Skate guards are many by various hockey brands and come in all different sizes, colors, and patterns. Soft skate guards cost approximately $10, while hard skate guards cost around $20.",n
+185,40,div,,n
+187,185,h2,Soakers,y
+189,185,p,"When stored in a bag, skates should always be covered by soakers. Soakers are often made of a terry cloth material that protects the blades while also keeping them dry. To ensure the soakers do their job and prevent the blade from rusting, it is important to make sure that the skate blade and soakers are dry when putting the soaker onto the blade. Soakers come in different sizes and in several fun types of designs.",n
+190,40,div,,n
+192,190,h2,Pants or Tights,y
+194,190,p,"Ice skating tights are also known as stretchy pants or leggings. Tights are very popular among intermediate and advanced skaters and are often worn in competitions. These types of pants give a skater the flexibility necessary to land a complex spin or jump, while also providing them with enough protection. Figure skating pants can also be found in more of a warmer thermal fabric. Figure skating pants and tights cost approximately $50 per pair, and popular brands include ChloeNoel, IceDress, and Mondor.",n
+195,40,div,,n
+197,195,h2,Unitards,y
+199,195,p,"A unitard is a one-piece garment with long legs and often long sleeves. The unitard usually does not come past a skater's ankles or wrists. It differs from a leotard because a leotard does not fully cover a skater's legs, while a unitard covers the majority of the legs and arms. The garment is similar in price to a leotard and tights and can be considered to be a combination of both those equipment items.",n
+200,40,div,,n
+202,200,h2,Warmup Jackets,y
+204,200,p,"A warm up jacket can also be referred to as a skater's tracksuit. Since a rink is cold, a player will often wear their warmup jackets into the rink before putting on all of their equipment. After the competition, a player will put their warm up jacket back on. A warm up jacket is often customized and signifies which team or organization a skater is taking the ice on behalf of. Often, a skater's team logo and name will be placed on the front of the jacket.",n
+205,40,div,,n
+207,205,h2,Wrist Guards,y
+209,205,p,"Wrist guards are worn on a skater's wrist and forearm. Wrist guards are made with special types of cushions and protective padding to prevent a skater from breaking their wrist or injuring themselves if they are to fall on their wrist or break a fall with their hand. The guards often have one piece that loops around the thumb, and another piece that loops around the other four fingers and wrist area. Wrist guards are cheap to purchase and cost less than $20.",n
+212,40,h2,Ice Skating Equipment,n
+248,40,div,,n
+250,248,h2,FAQ,n
+251,248,div,,n
+252,251,div,,n
+255,252,h3,What makes ice skating equipment unique?,n
+259,252,p,"Ice skating equipment is unique because sports that require ice skating are obviously played on ice. Not only is this a colder climate, but also a different surface that athletes need unique equipment in order to play on. Wearing normal sneakers or cleats would not be effective on ice as it would be in other sports. Athletes need a blade to be able to glide along the ice quickly and perform specific moves. In ice skating, players also need to stay warm, which is not always the case in other sports. Gloves and thermal wear are often used, which is unique from many other sports.",n
+263,251,div,,n
+266,263,h3,How much does ice skating equipment cost?,n
+270,263,p,"Ice skating equipment can range from affordable to very expensive, depending on your taste. Skates can be bought used in the range of $15 to $30 dollars, and even some brand new non-brand name skates can be a similar price. Skates can also be very expensive if you are looking for the most popular brand. Top brands can range from $150 all the way up to $900 dollars. This is similar for most equipment in ice skating, including helmets or protective gear. Equipment meant to keep you warm can be found at normal retail stores and can range in price as well.",n
+274,40,div,,n
+276,274,h2,Pages Related to Ice Skating Equipment List,n
+277,274,ul,,n
+279,277,li,Ice Skating Pants,n
+281,277,li,Ice Skating Boot Covers,n
+287,277,li,Ice Skating Laces,n
+289,277,li,Ice Skating Jackets,n
+293,40,footer,,n
+294,293,div,,n
+295,294,div,,n
+297,295,span,Company,n
+298,295,ul,,n
+300,298,li,About,n
+302,298,li,Careers,n
+304,298,li,Shop,n
+305,294,div,,n
+307,305,span,Contact,n
+310,305,li,Contact Us,n
+313,294,div,,n
+315,313,span,Legal,n
+316,313,ul,,n
+318,316,li,Terms,n
+320,316,li,Privacy,n
+321,294,nav,,n
+323,321,span,Social,n
+324,321,ul,,n
+326,324,li,Facebook,n
+328,324,li,Instagram,n
+330,324,li,LinkedIn,n
+332,324,li,Medium,n
+334,324,li,Pinterest,n
+336,324,li,Twitter,n
+338,324,li,YouTube,n
+339,293,div,,n
+341,339,span,Rookie Road may earn a commission when you buy through links on our site.,n
+343,339,span,Copyright ©Rookie Road Inc. All rights reserved.,n

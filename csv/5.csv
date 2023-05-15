@@ -1,0 +1,163 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+4,3,div,,n
+6,4,div,,n
+8,6,h1,Race Day Checklist,n
+11,6,text,Print,n
+15,4,p,This interactive checklist helps to ensure that you don't forget an important item before your event. You may refer back to this page at any time and this list will remember what items you may have checked off on a single device.,n
+16,4,section,,n
+18,16,h2,On Your Body,n
+19,16,ul,,n
+23,19,li,Base Layers,y
+27,19,li,Running Clothes,y
+31,19,li,Race Number,y
+35,19,li,Sun Hat,y
+39,19,li,Sunglasses,y
+43,19,li,Socks,y
+47,19,li,Broken-in Shoes,y
+51,19,li,Watch or HRM,y
+53,16,h2,In Your Pack,n
+54,16,ul,,n
+58,54,li,Wind or waterproof Layer,y
+62,54,li,Insulation Layer,y
+66,54,li,Headlamp with Batteries,y
+70,54,li,Backup Headlamp,y
+74,54,li,Space Blanket,y
+78,54,li,Emergency Nutrition,y
+84,54,li,Hydration,y
+90,54,li,Gloves,y
+96,54,li,Warm hat,y
+100,54,li,Poles,y
+104,54,li,First Aid,y
+108,54,li,Cell phone,y
+110,16,h2,In Your Drop Bags,n
+111,16,ul,,n
+115,111,li,Spare shoes,y
+119,111,li,Spare socks,y
+123,111,li,Spare insulation or rain layers,y
+127,111,li,Spare hat,y
+131,111,li,Blister or Wound Care,y
+135,111,li,your choice,y
+139,111,li,Motivational Treats,y
+145,111,li,Warm Layers,y
+149,111,li,Nutrition and Hydration,y
+153,111,li,Sweatproof Sunscreen,y
+157,111,li,Power bank,y
+159,16,h2,For Your Crew,n
+160,16,ul,,n
+164,160,li,Race credentials,y
+168,160,li,Directions to aid stations,y
+172,160,li,Supplies,y
+178,160,li,Bug repellant,y
+182,160,li,First aid kit,y
+186,160,li,Towels,y
+190,160,li,Baby wipes or toilet paper,y
+194,160,li,Chairs,y
+202,160,li,"Predicted pacing plan, and watch or other alarm system",y
+206,160,li,Essential phone numbers,y
+210,160,li,Lights,y
+212,16,h2,For Post-Race,n
+213,16,ul,,n
+217,213,li,Your favorite clothes and comfortable shoes to change into,y
+221,213,li,Towels or baby wipes,y
+229,213,li,Hydration,y
+233,213,li,Power bank or charger,y
+234,16,div,,n
+236,234,button,Uncheck All,n
+237,234,div,,n
+239,237,p,Are you sure?,n
+241,237,button,Yes,n
+243,237,button,Cancel,n
+246,3,div,,n
+248,246,h1,We're here to help you to stay on track!,n
+249,246,div,,n
+251,249,p,When is your next ultramarathon?,n
+252,249,div,,n
+255,252,div,,n
+256,255,div,,n
+257,256,div,,n
+258,257,text,June,n
+259,257,select,,n
+261,259,option,January,n
+263,259,option,February,n
+265,259,option,March,n
+267,259,option,April,n
+269,259,option,May,n
+271,259,option,June,n
+273,259,option,July,n
+275,259,option,August,n
+277,259,option,September,n
+279,259,option,October,n
+281,259,option,November,n
+283,259,option,December,n
+284,256,div,,n
+285,284,text,2022,n
+286,284,select,,n
+288,286,option,2022,n
+290,286,option,2023,n
+292,286,option,2024,n
+294,286,option,2025,n
+296,286,option,2026,n
+298,286,option,2027,n
+300,256,button,Previous Month,n
+302,256,button,Next Month,n
+303,255,table,,n
+305,303,thead,,n
+308,305,th,Mon,n
+311,305,th,Tue,n
+314,305,th,Wed,n
+317,305,th,Thu,n
+320,305,th,Fri,n
+323,305,th,Sat,n
+326,305,th,Sun,n
+327,303,tbody,,n
+328,327,tr,,n
+333,328,td,1,n
+336,328,td,2,n
+339,328,td,3,n
+342,328,td,4,n
+345,328,td,5,n
+346,327,tr,,n
+349,346,td,6,n
+352,346,td,7,n
+355,346,td,8,n
+358,346,td,9,n
+361,346,td,10,n
+364,346,td,11,n
+367,346,td,12,n
+368,327,tr,,n
+371,368,td,13,n
+374,368,td,14,n
+377,368,td,15,n
+380,368,td,16,n
+383,368,td,17,n
+386,368,td,18,n
+389,368,td,19,n
+390,327,tr,,n
+393,390,td,20,n
+396,390,td,21,n
+399,390,td,22,n
+402,390,td,23,n
+405,390,td,24,n
+408,390,td,25,n
+411,390,td,26,n
+412,327,tr,,n
+415,412,td,27,n
+418,412,td,28,n
+421,412,td,29,n
+424,412,td,30,n
+430,252,div,Please select a date,n
+433,249,p,"Now that you've selected the date of your big event, sign up to have the corresponding chapters of this guide emailed to you directly. That way, you’ll easily stay up-to-date with essential training tips from our experts.",n
+434,249,div,,n
+439,434,div,Please enter your first name,n
+445,434,div,Please enter an email,n
+448,434,div,,n
+454,448,label,Receive the latest training articles and updates on our products and services.,n
+457,448,span,Submit,n
+466,246,p,Thanks! You're all set.,n
+471,0,div,,n
+473,471,p,,n
+474,473,text,TrainingPeaks uses cookies to personalize content and analyze traffic to this site.,n
+476,473,br,"By continuing to use our site, you agree to our Privacy Policy .",n
+481,471,div,Close,n

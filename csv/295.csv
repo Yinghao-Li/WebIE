@@ -1,0 +1,420 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+970,0,div,,n
+971,970,div,,n
+974,971,h1,DJ Equipment,n
+977,971,div,Filter,n
+979,970,div,,n
+981,979,div,,n
+983,981,span,This is a carousel with auto-rotating slides. Rotation may be stopped using the Pause button. Jump to a slide with the slide dots.,n
+985,981,div,,n
+996,985,div,,n
+998,996,div,AKAI MPC KEY 61,n
+1000,996,div,Explore the full MPC experience,n
+1015,985,div,,n
+1017,1015,div,Meet Mavis,n
+1019,1015,div,Moog's Build-It-Yourself Waveshaping Synth,n
+1034,985,div,,n
+1036,1034,div,Denon DJ Prime Series,n
+1038,1034,div,professional performance DJ gear,n
+1053,985,div,,n
+1055,1053,div,Your Top-Rated Monitors,n
+1057,1053,div,Find zZounds customers' top picks in our All-Star Studio Monitors buying guide,n
+1060,1053,div,Shop the Guide,n
+1072,985,div,,n
+1074,1072,div,Native Instruments,n
+1076,1072,div,Komplete Kontrol - Easy Monthly Payments,n
+1091,985,div,,n
+1093,1091,div,JMAZ Lighting,n
+1095,1091,div,Innovation you can see!,n
+1124,985,div,,n
+1126,1124,div,Used DJ Gear Clearance,n
+1128,1124,div,"Save on blemished and open-box DJ equipment, lighting, and beat production gear",n
+1131,1124,div,Shop Clearance,n
+1167,979,div,,n
+1180,1167,div,DJ Lighting,y
+1196,1167,div,Karaoke,y
+1206,970,div,DJ,n
+1209,970,div,,n
+1210,1209,div,,n
+1215,1210,h2,Beat Production,y
+1219,1210,ul,,n
+1223,1219,li,,n
+1225,1223,h3,Akai MPC Live II Retro Edition Music Production Workstation,y
+1266,1223,div,$959.95,n
+1277,1219,li,Akai MPC Live II Music Production Workstation,y
+1322,1219,li,,n
+1324,1322,h3,Akai MPC One Music Production Workstation,y
+1374,1322,div,$809.95,n
+1385,1219,li,Native Instruments Maschine MK3 Groove Production Studio,y
+1416,1209,div,,n
+1421,1416,h2,Computer DJ,y
+1425,1416,ul,,n
+1431,1425,li,Rane ONE Professional DJ Controller,n
+1478,1425,li,Rane Twelve MKII DJ Controller,n
+1535,1425,li,,n
+1537,1535,h3,Pioneer DJ DDJ-REV1 DJ Controller,y
+1538,1535,text,$279.00,n
+1551,1535,li,$69.75,n
+1561,1425,li,,n
+1563,1561,h3,Pioneer DJ DDJ-1000SRT DJ Controller,y
+1564,1561,text,"$1,399.00",n
+1567,1561,ul,,n
+1577,1567,li,$116.58,n
+1587,1567,li,$174.88,n
+1593,1209,div,,n
+1598,1593,h2,Complete DJ Systems,y
+1602,1593,ul,,n
+1606,1602,li,,n
+1608,1606,h3,Numark Mixstream Pro DJ Console,y
+1632,1606,li,$116.50,n
+1652,1602,li,,n
+1654,1652,h3,Gemini CDM-4000BT CD or USB or Bluetooth DJ Media Player,y
+1655,1652,text,$349.95,n
+1668,1652,li,$87.49,n
+1674,1652,div,$314.95,n
+1683,1602,li,,n
+1685,1683,h3,Pioneer DJ XDJ-XZ DJ System,y
+1686,1683,text,"$2,499.00",n
+1699,1683,li,$208.25,n
+1710,1602,li,Gemini CDX-2250i Professional Rackmount Dual CD Player,y
+1765,1209,div,,n
+1770,1765,h2,DJ Digital Media Players,y
+1774,1765,ul,,n
+1778,1774,li,,n
+1780,1778,h3,Pioneer DJ XDJ-700 Portable DJ Media Player,y
+1781,1778,text,$769.00,n
+1784,1778,ul,,n
+1794,1784,li,$96.13,n
+1804,1784,li,$192.25,n
+1816,1774,li,Denon DJ SC6000 Prime Media Player,y
+1861,1774,li,,n
+1863,1861,h3,Denon DJ SC6000M Prime Media Player,y
+1864,1861,text,"$1,799.00",n
+1867,1861,ul,,n
+1878,1867,li,$99.94,n
+1888,1867,li,$149.92,n
+1898,1867,li,$224.88,n
+1904,1861,div,"$1,619.00",n
+1913,1774,li,,n
+1915,1913,h3,Pioneer DJ CDJ-3000 Professional Media Player,y
+1916,1913,text,"$2,549.00",n
+1929,1913,li,$212.42,n
+1935,1209,div,,n
+1940,1935,h2,DJ CD Players,y
+1944,1935,ul,,n
+1948,1944,li,,n
+1950,1948,h3,Pioneer CDJ-900NXS Professional CD or MP3 Player,y
+1951,1948,text,"$1,529.00",n
+1954,1948,ul,,n
+1964,1954,li,$127.42,n
+1974,1954,li,$191.13,n
+1983,1944,li,,n
+1985,1983,h3,Gemini MDJ-600 CD USB Media Player and MIDI Controller,n
+2005,1983,div,$269.95,n
+2011,1209,div,,n
+2016,2011,h2,DJ Mixers,y
+2020,2011,ul,,n
+2022,2020,li,,n
+2026,2022,div,SPECIAL OFFER,n
+2027,2022,div,,n
+2029,2027,h3,Rane Seventy-Two MKII Performance DJ Mixer,y
+2030,2027,text,"$1,899.00",n
+2033,2027,ul,,n
+2044,2033,li,$105.50,n
+2054,2033,li,$158.25,n
+2064,2033,li,$237.38,n
+2070,2027,div,"$1,699.00",n
+2079,2020,li,,n
+2081,2079,h3,Pioneer DJ DJM-S7 DJ Mixer,y
+2082,2079,text,"$1,449.00",n
+2085,2079,ul,,n
+2095,2085,li,$120.75,n
+2105,2085,li,$181.13,n
+2111,2079,div,"$1,199.00",n
+2120,2020,li,,n
+2122,2120,h3,Pioneer DJ DJM-S11-SE Special Edition Professional DJ Mixer,y
+2123,2120,text,"$2,099.00",n
+2136,2120,li,$174.92,n
+2146,2020,li,,n
+2148,2146,h3,Rane Seventy Performance DJ Mixer,y
+2149,2146,text,"$1,499.00",n
+2152,2146,ul,,n
+2163,2152,li,$83.28,n
+2173,2152,li,$124.92,n
+2183,2152,li,$187.38,n
+2189,2146,div,"$1,274.00",n
+2231,1209,div,,n
+2236,2231,h2,Turntables,y
+2240,2231,ul,,n
+2244,2240,li,,n
+2246,2244,h3,Audio-Technica AT-LP120XUSB Direct-Drive Turntable,y
+2247,2244,text,$349.00,n
+2260,2244,li,$87.25,n
+2266,2244,div,$299.95,n
+2278,2240,li,,n
+2280,2278,h3,Pioneer DJ PLX-500 Direct-Drive Turntable with USB,y
+2281,2278,text,$369.00,n
+2294,2278,li,$92.25,n
+2304,2240,li,,n
+2306,2304,h3,Reloop RP-7000 MK2 Direct-Drive Turntable,y
+2307,2304,text,$599.99,n
+2330,2304,li,$100.00,n
+2353,2240,li,,n
+2355,2353,h3,Audio-Technica AT-LP60X Belt-Drive Turntable,y
+2356,2353,text,$139.00,n
+2369,2353,li,$34.75,n
+2380,1209,div,,n
+2385,2380,h2,DJ Processors and Effects,y
+2389,2380,ul,,n
+2393,2389,li,,n
+2395,2393,h3,Elektron Analog Heat MKII Distortion Filter Effect,y
+2396,2393,text,$799.00,n
+2399,2393,ul,,n
+2409,2399,li,$99.88,n
+2419,2399,li,$133.17,n
+2429,2399,li,$199.75,n
+2439,2389,li,,n
+2441,2439,h3,Korg Mini KAOSS Pad 2S Touchpad Instrument,y
+2442,2439,text,$229.99,n
+2455,2439,li,$57.50,n
+2461,1209,div,,n
+2466,2461,h2,DJ Lighting and Stage Lighting,y
+2470,2461,ul,,n
+2474,2470,li,,n
+2476,2474,h3,Chauvet DJ GigBar Move Effect Light System,y
+2477,2474,text,$899.99,n
+2480,2474,ul,,n
+2500,2480,li,$112.50,n
+2520,2480,li,$225.00,n
+2526,2474,div,$799.95,n
+2537,2470,li,Chauvet DJ GigBar 2 Lighting System,y
+2561,2470,li,,n
+2563,2561,h3,Chauvet DJ Nimbus Dry Ice Fog Machine,y
+2564,2561,text,"$1,429.99",n
+2567,2561,ul,,n
+2578,2567,li,$79.44,n
+2588,2567,li,$119.17,n
+2598,2567,li,$178.75,n
+2610,2470,li,,n
+2612,2610,h3,Chauvet DJ Freedom Par Hex-4 Stage Light,y
+2613,2610,text,$419.99,n
+2616,2610,ul,,n
+2626,2616,li,$70.00,n
+2636,2616,li,$105.00,n
+2643,1209,div,,n
+2648,2643,h2,Karaoke,y
+2652,2643,ul,,n
+2656,2652,li,,n
+2658,2656,h3,VocoPro DVX-890K Multi-Format Digital Key Control Karaoke Player,y
+2659,2656,text,$219.00,n
+2672,2656,li,$54.75,n
+2678,2656,div,$185.95,n
+2686,2652,li,,n
+2688,2686,h3,Gemini GPK-1200 Home Karaoke Party PA Speaker,y
+2689,2686,text,$449.95,n
+2712,2686,li,$112.49,n
+2722,2652,li,,n
+2724,2722,h3,VocoPro DKP-MIX Digital Karaoke Player with Microphone Mix,y
+2725,2722,text,$269.00,n
+2738,2722,li,$67.25,n
+2746,2652,li,,n
+2750,2746,div,PRICE DROP,n
+2751,2746,div,,n
+2753,2751,h3,VocoPro Karaoke Thunder 1200 Powered Party PA Speaker,y
+2754,2751,text,$172.95,n
+2767,2751,li,$43.24,n
+2773,1209,div,,n
+2778,2773,h2,DJ Tables and Booths,y
+2782,2773,ul,,n
+2788,2782,li,ADJ Pro Event Table II Collapsible Event Table,y
+2824,2782,li,Headliner Indio DJ Booth,y
+2860,2782,li,ADJ PRO ETS Scrim,y
+2886,2782,li,,n
+2888,2886,h3,Odyssey DJBOOTHM46 Media DJ Booth with TV Mount and Sneeze Guard,y
+2889,2886,text,$399.95,n
+2892,2886,ul,,n
+2902,2892,li,$66.66,n
+2912,2892,li,$99.99,n
+2919,1209,div,,n
+2924,2919,h2,DJ Stands,y
+2928,2919,ul,,n
+2934,2928,li,Odyssey LTBXS2MTCP 2-Tier DJ X-Stand Combo Pack,y
+2958,2928,li,,n
+2960,2958,h3,Headliner Avalon CDJ Stand,y
+2961,2958,text,$139.99,n
+2974,2958,li,$35.00,n
+2983,2928,li,,n
+2985,2983,h3,Magma Control Stand II,y
+2986,2983,text,$89.99,n
+2999,2983,li,$22.50,n
+3009,2928,li,,n
+3011,3009,h3,Pioneer DJCSTS1 Stand,y
+3012,3009,text,$149.00,n
+3025,3009,li,$37.25,n
+3032,1209,div,,n
+3037,3032,h2,DJ Cases,y
+3041,3032,ul,,n
+3048,3041,li,,n
+3050,3048,h3,Odyssey FZPIXDJXZWBL Case,y
+3051,3048,text,$359.95,n
+3064,3048,li,$89.99,n
+3076,3041,li,,n
+3078,3076,h3,Magma Carry Lite DJ-CASE Controller Case,y
+3079,3076,text,$119.99,n
+3092,3076,li,$30.00,n
+3106,3041,li,,n
+3108,3106,h3,Odyssey FZGS RANE ONE Flight Case,y
+3109,3106,text,$329.95,n
+3122,3106,li,$82.49,n
+3133,3041,li,ADJ PRO-ETBS Pro Event Table II Carry Case,n
+3154,1209,div,,n
+3159,3154,h2,DJ Accessories,y
+3163,3154,ul,,n
+3167,3163,li,,n
+3169,3167,h3,Odyssey Multi-Position DJ Chair,y
+3170,3167,text,$99.95,n
+3183,3167,li,$24.99,n
+3193,3163,li,,n
+3195,3193,h3,Ortofon Concorde MKII Scratch Cartridge,y
+3196,3193,text,$142.99,n
+3209,3193,li,$35.75,n
+3216,3163,li,,n
+3220,3216,div,ONLY 2 LEFT,n
+3221,3216,div,,n
+3223,3221,h3,Ortofon MKII Concorde Club Cartridge,y
+3224,3221,text,$178.99,n
+3237,3221,li,$44.75,n
+3246,3163,li,,n
+3248,3246,h3,Numark CC-1 Turntable Cartridge,y
+3249,3246,text,$99.00,n
+3262,3246,li,$24.75,n
+3272,970,div,"If you're looking to make beats, spin records and start parties, we've got the DJ gear and accessories you need. Call our Gear Experts now for help with your purchase: 800-460-8089.",n
+3279,0,footer,,n
+3281,3279,div,,n
+3286,3281,div,-8637,n
+3287,3281,div,,n
+3289,3287,span,Mention,n
+3290,3287,text,Priority Code,n
+3292,3287,text,25QY-9K4L,n
+3297,3281,div,Email Us,n
+3299,3279,div,,n
+3310,3299,ul,,n
+3312,3310,li,FAQ,n
+3314,3310,li,Payment Plan Details,n
+3316,3310,li,Shipping Information,n
+3318,3310,li,Product Condition,n
+3320,3310,li,Hours,n
+3322,3310,li,Affiliate Program,n
+3324,3310,li,Site Map,n
+3335,3299,ul,,n
+3337,3335,li,Request a Return,n
+3339,3335,li,Log In or Create Account,n
+3341,3335,li,My Order,n
+3343,3335,li,Purchase Orders,n
+3345,3335,li,Order Verification,n
+3356,3299,ul,,n
+3358,3356,li,Returns,n
+3360,3356,li,Privacy,n
+3362,3356,li,Cookie Settings,n
+3364,3356,li,Do Not Sell,n
+3366,3356,li,Service,n
+3368,3356,li,Copyright,n
+3370,3356,li,Notice Of Accessibility,n
+3381,3299,ul,,n
+3383,3381,li,-7449,n
+3384,3381,li,,n
+3385,3384,text,Horas,n
+3386,3384,div,,n
+3387,3386,text,Lun - Vie,n
+3389,3386,br,9:00AM - 7:00PM,n
+3391,3299,div,,n
+3393,3391,h2,Get our Newsletter,n
+3397,3391,div,,n
+3400,3397,label,*Email address,n
+3403,3397,div,sign up,n
+3408,3391,ul,,n
+3412,3408,li,zZounds Blog,n
+3416,3408,li,zZounds on Facebook,n
+3420,3408,li,zZounds on Instagram,n
+3424,3408,li,zZounds on Twitter,n
+3428,3408,li,zZounds on YouTube,n
+3435,3391,div,"©zZounds Music, LLC.",n
+3439,3279,div,Please wait.,n
+3443,3279,div,,n
+3448,3443,h1,Shipping to,n
+3450,3443,div,,n
+3453,3450,label,Zip Code,n
+3456,3450,span,Update,n
+3459,3279,div,,n
+3462,3459,h1,What is this?,n
+3467,3459,div,"A temporary customer reference number is assigned to each customer only while they are shopping on zZounds.com. If you call our customer service department for assistance, this number makes it easier for us to answer any questions you have about products, services or purchases.",n
+3471,3279,div,,n
+3476,3471,span,Hours,n
+3478,3471,span,Mon - Fri 8:00AM - 11:00PM,n
+3480,3471,span,Sat 9:00AM - 10:00PM,n
+3482,3471,span,Sun 9:00AM - 8:00PM,n
+3486,0,div,Close menu,n
+3492,0,div,,n
+3498,3492,h2,Privacy Preference Center,n
+3501,3492,div,,n
+3504,3501,div,,n
+3508,3504,h3,Your Privacy,n
+3509,3504,div,,n
+3511,3509,h4,Your Privacy,n
+3512,3509,p,,n
+3513,3512,text,"When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website . For more information about the First and Third Party Cookies used please follow this link.",n
+3515,3512,br,More information,n
+3516,3504,ul,,n
+3517,3516,li,,n
+3521,3517,h3,Strictly Necessary Cookies,n
+3522,3517,div,,n
+3523,3522,div,,n
+3525,3523,h4,Strictly Necessary Cookies,n
+3526,3523,div,,n
+3528,3526,div,Always Active,n
+3534,3526,div,Strictly Necessary Cookies,n
+3536,3522,p,"These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.",n
+3537,3516,li,,n
+3541,3537,h3,Performance Cookies,n
+3542,3537,div,,n
+3543,3542,div,,n
+3545,3543,h4,Performance Cookies,n
+3552,3543,div,Performance Cookies,n
+3554,3542,p,"These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.",n
+3555,3516,li,,n
+3559,3555,h3,Functional Cookies,n
+3560,3555,div,,n
+3561,3560,div,,n
+3563,3561,h4,Functional Cookies,n
+3570,3561,div,Functional Cookies,n
+3572,3560,p,These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.,n
+3573,3516,li,,n
+3577,3573,h3,Personal Data,n
+3578,3573,div,,n
+3579,3578,div,,n
+3581,3579,h4,Personal Data,n
+3588,3579,div,Personal Data,n
+3589,3578,p,,n
+3590,3589,text,"Under the California Consumer Privacy Act, you have the right to opt-out of the sale of your personal information to third parties. These cookies collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of the sale of personal information by using this toggle switch. If you opt out we will not be able to offer you personalised ads and will not hand over your personal information to any third parties. Additionally, you may contact our legal department for further clarification about your rights as a California consumer by using this Exercise My Rights link.",n
+3593,3589,br,"If you have enabled privacy controls on your browser , we have to take that as a valid request to opt-out. Therefore we would not be able to track your activity through the web. This may affect our ability to personalize ads according to your preferences.",n
+3596,3578,li,,n
+3598,3596,h4,Targeting Cookies,n
+3605,3596,div,Targeting Cookies,n
+3607,3596,p,"These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.",n
+3608,3501,section,,n
+3609,3608,div,,n
+3615,3609,h3,Advertising Cookies,n
+3626,3609,div,,n
+3627,3626,div,,n
+3629,3627,span,Consent,n
+3631,3627,span,Leg.Interest,n
+3646,3626,div,Select All Hosts,n
+3649,3626,p,Select All,n
+3652,3608,div,,n
+3656,3652,p,Clear Filters,n
+3663,3652,div,Information storage and access,n
+3665,3652,button,Apply,n
+3667,3492,div,,n
+3669,3667,button,Save Settings,n
+3671,3667,button,Allow All,n

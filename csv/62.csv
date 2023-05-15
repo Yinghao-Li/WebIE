@@ -1,0 +1,96 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,,n
+601,4,div,,n
+618,601,h1,Useful bird watching equipment,n
+623,601,p,equipment you need to enjoy watching and identifying birds are your eyes and ears,n
+626,601,div,,n
+628,626,span,Jump to,n
+630,626,ul,,n
+632,630,li,Notebook,n
+634,630,li,Bird book,n
+636,630,li,Binoculars,n
+637,601,div,,n
+641,637,div,,n
+643,641,h2,Notebook,y
+644,641,div,,n
+646,644,p,"A small, hardback notebook which fits in your pocket is usually the best kind. Remember that, if it gets rained on, anything written in ink will run, but pencil won't.",n
+648,644,p,"If you come across a bird which you can't identify, make some notes about it there and then so you have an accurate description of what you saw and heard. If you try to remember later on, you may find that time has changed what you saw. First impressions can be very important.",n
+650,644,p,"You don't need to describe every feather on a bird's body. Note down its shape, what its beak and legs are like, and its habitat and behaviour, as well as the main colours. If it makes a noise, try to describe it. Sketches can also be useful, though you don't need to be a wildlife artist!",n
+662,637,div,,n
+664,662,h2,Bird book,y
+665,662,div,,n
+667,665,p,Hundreds of books about birds are available. Ones designed to be put into your pocket when you're out and about are often called 'fieldguides'.,n
+669,665,p,"To avoid confusion, a book which contains only birds which occur in Britain is best to start with. Books with illustrations are better than those with photographs, as light conditions and camera settings mean colours in photographs vary enormously. Don't be afraid to take your book out with you. You never know when you may need it!",n
+671,665,p,Fieldguides may use technical jargon,n
+683,637,div,,n
+685,683,h2,Binoculars,y
+686,683,div,,n
+688,686,p,Binoculars are not essential but can be very useful. You don't need to spend a vast amount of money on binoculars to get a decent pair - there are very good models available for less than £100.,n
+690,686,p,"'Compact' binoculars can be very useful if you want to carry them with you at all times, as they can easily be slipped into a pocket. However, their small size may not suit people with big hands and the cheapest binoculars are often of poor quality, which could put you off using them!",n
+692,686,p,"Full-size binoculars need not be heavy or awkward to use, or expensive. Modern products are getting better and better and there are plenty of good ones at fairly low prices. Always try before you buy!",n
+705,601,h3,Share this page,n
+724,601,div,,n
+726,724,h2,You might also be interested in,n
+732,724,div,,n
+734,732,h3,Choosing bird watching equipment,n
+735,732,text,You don't need much to enjoy birds - just your eyes or ears. But there are lots of things which can make it easier.,n
+739,4,div,,n
+745,739,p,"net income on conservation, public education and advocacy",n
+751,739,div,,n
+753,751,div,,n
+756,753,h4,Quick links,n
+758,753,ul,,n
+762,758,li,Online Community,n
+764,758,li,Vacancies,n
+766,758,li,Media centre,n
+768,751,div,,n
+771,768,h4,Information for,n
+773,768,ul,,n
+775,773,li,Teachers,n
+777,773,li,Policy makers,n
+779,773,li,Farmers and landowners,n
+781,773,li,Scientists,n
+786,751,h4,Our work in,n
+800,751,div,,n
+803,800,h4,Follow us,n
+806,800,ul,,n
+821,806,li,Instagram,n
+825,806,li,Email,n
+828,751,div,,n
+831,828,h4,Partnering with,n
+833,828,p,,n
+834,833,text,The RSPB is a member of,n
+836,833,strong,BirdLife International,n
+837,833,text,. Find out more about the partnership,n
+843,751,p,,n
+844,843,text,©,n
+846,843,strong,The Royal Society,n
+847,843,text,is a registered charity,n
+851,751,ul,,n
+853,851,li,Terms and conditions,n
+855,851,li,Cookie policy,n
+857,851,li,Privacy policy,n
+859,851,li,Charter and statutes,n
+861,851,li,About our site,n
+863,851,li,Modern Slavery Act,n
+865,0,div,,n
+869,865,h3,Cookie Preferences,n
+870,865,div,,n
+874,870,p,Accepting all non-essential cookies helps us to personalise your experience,n
+875,870,div,,n
+877,875,div,Edit settings,n
+879,875,div,Accept all,n
+880,865,div,,n
+881,880,div,,n
+883,881,div,,n
+885,883,h4,Essential cookies are required,n
+888,883,p,These cookies are required,n
+893,881,div,,n
+895,893,h4,Enable analytics cookies,n
+898,893,p,Allow us to collect anonymised performance data,n
+903,881,div,,n
+905,903,h4,Enable marketing cookies,n
+908,903,p,Allow us to personalise your experience,n
+914,880,div,Save settings,n
+917,880,div,Read our cookie policy,n

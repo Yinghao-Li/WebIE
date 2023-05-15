@@ -1,0 +1,90 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,,n
+20,4,h1,Handle,n
+22,4,p,"The handle is a vital part of the bat. Our bat maker creates and shapes the handle to your precise requirements. There are 3 shapes in our handles; the oval handle, semi oval and round handle.",n
+23,4,p,,n
+25,23,strong,Oval Handle;,n
+26,23,text,"The choice of many batsmen around the world. It is typically known to aid with control of the top hand, taking pressure off the bottom hand and helping batters play in the 'V'.",n
+28,23,span,Provides a more direct feel through the shot and twists less on impact therefore less energy is lost. Assists in the development of a top hand dominant technique.,n
+29,4,p,,n
+31,29,strong,Round Handle;,n
+33,29,span,Allows the bottom hand to come into play more easily for aerial shots. As a loose rule players that attack mainly with horizontal bat shots tend to prefer a Round handle as it allows for an easier roll of the wrist over the ball.,n
+34,29,text,"Typically the choice of Asian players. It is for players who are wristy, like using the bottom hand and like to feel the bottom hand on the handle.",n
+35,4,p,,n
+37,35,strong,Semi Oval;,n
+38,35,text,This is a hybrid between the oval and round handle and offers a slight oval handle and is not as pronounced as a traditional oval handle.,n
+46,4,h1,Bat Face,n
+48,4,p,We offer 2 options on the face profile; Round face or Flat face.,n
+49,4,p,,n
+51,49,strong,Round Face;,n
+52,49,text,This is the most popular way a cricket bat face profile is made. It is believed that a round face can reduce the chance of damage to the edges and allow more rebound and ping to be kept in the middle of the bat for longer.,n
+53,4,p,,n
+55,53,strong,Flat Face;,n
+56,53,text,This was a face profile that was introduced in the early 2000’s. It is done to give the appearance of the big bats we all know today. It allows the bat maker to press the bat lighter and get great ping in the sweet spot. It takes a touch longer for the bat to 'open up' but once it does the ball stays hit.,n
+62,4,h2,The Sweet Spot,n
+64,4,p,The sweet spot or the middle of the bat is the part of the bat where you are looking to strike the ball most of the time. Hitting the ball at the sweet spot ensures that you achieve the largest amount of power in the shot you are playing. The middle is dictated by the profile through the back of the bat.,n
+65,4,p,,n
+67,65,strong,High Sweet Spot,n
+68,65,text,"you would be looking for a high sweet spot if you play on quick bouncy wickets, if you are strong off the back foot and if you are a touch player.",n
+69,4,p,,n
+71,69,strong,Mid Sweet Spot,n
+72,69,text,"you would be looking for a mid sweet spot if you see yourself as a 'complete' batter. This means if you enjoy strokes on the front and back foot, you play on all types of wickets and you want the largest area for the sweet spot.",n
+73,4,p,,n
+75,73,strong,Low Sweet Spot;,n
+76,73,text,"you would be looking for a low sweet spot if you are a front foot player and you play on slower, lower pitches. A low sweet spot is perfect for the player who likes to hit straight and who likes to go over the top.",n
+77,4,p,,n
+79,77,strong,Extra Low Sweet spot,n
+80,77,text,You would be looking for a extra low sweet spot if you are predominately a front foot player and play on low and slow pitches and basically love to hit the ball in the air at every opportunity.,n
+86,4,h2,Bat Profiles,n
+87,4,p,,n
+89,87,strong,Full Profile Min Concaving,n
+90,87,text,"The bat has very limited wood taken out the back of the bat, therefore the wood is left where it really matters to ensure the utmost ping. It is someone that is looking at ultimate power at the forefront, then this shape may suit. The pickup will still be nice and balanced and feel superb in the hands. This is the shape that most pro’s like especially in the ODI or T20 format due to the value for strokes you receive with this profile.",n
+91,4,p,,n
+93,91,strong,Full Spine,n
+94,91,text,This bat is created to ensure a lightweight pickup with slight concaving to help control the weight. We would recommend this profile for a player who likes the spine running right through the toe and looking for a light bat with the sweetspot being positioned mid to high. Ideal for players who play of the back foot and enjoy using their wrists to pierce the field.,n
+95,4,p,,n
+97,95,strong,Duckbill,n
+98,95,text,A duck bill profile adds thickness to the toe yet aiding pickup for a better balanced bat. This is the bat profile preferred by many international players due to the balance and amount of wood left in the bat in the hitting zone. Perfect for front foot players and on slow low English wickets. This bat is designed for big hitters and for clearing the ropes effortlessly.,n
+99,4,p,,n
+101,99,strong,Concave,n
+102,99,text,"Concave sanded through the back of the blade just enough to reduce weight whilst keeping the essential depth and mass of wood through the bat’s core to ensure a featherlight pickup. Bats with a concave back profile are those that have had wood scooped out from either side of the bat's spine. Concaving is done to reduce the bat’s weight while still providing thicker edges and deeper swells, thereby improving its pick-up.",n
+107,4,h1,Bat Length,n
+108,4,p,,n
+110,108,strong,Short Blade,n
+111,108,text,"21 7 or 8 Inches,",n
+113,108,strong,Standard Blade,n
+114,108,text,22 inches and,n
+116,108,strong,Long Blade,n
+117,108,text,22 7 or 8 inches. We would recommend you ought to only look for a long blade if you are over 6ft'3.,n
+119,4,p,If you are looking for an incredibly light bat and big profile we would advise you to go for a short blade.,n
+121,4,p,The standard blade is our most popular choice of blade length and is the dimensions used when making a off-the shelf cricket bat.,n
+125,4,h1,Blade Profile,n
+127,4,p,Modern cricket bats have varying degrees of curve in the blade. The amount of bow in a bat is an individual choice but it has some advantages.,n
+128,4,p,,n
+130,128,strong,Slight Bow;,n
+131,128,text,"This is a combination between the traditional and large bow which is the most common when making a cricket bat. Indian sub-continental shapes are typically seen with a more pronounced bow enabling the sweet spot to be lower on the blade, ideal for play on slow and low pitches.",n
+132,4,p,,n
+134,132,strong,Traditional;,n
+135,132,text,Bat makers from Australian and New Zealand typically produce bats with little bow resulting in a higher sweet spot ideal for bouncy pitches.,n
+136,4,p,,n
+138,136,strong,Large Bow;,n
+139,136,text,"A large bow acts as a counter-balance, raising the center of gravity of the cricket bat, thereby assisting pick-up. In other words, a bat with considerable bow and a lower middle can feel the same as a straight blade with a higher middle.",n
+141,4,p,"It helps with control of strokes, as the player’s hands are positioned more in front of the ball during contact. It acts like a scoop, to produce more lofted shots, which do however run the risk of being caught.",n
+147,4,h1,Toe Shape,n
+148,4,p,,n
+150,148,strong,Square Toe,n
+151,148,text,A Square toe has been widely used by current international players as it enhances pickup and increases the sweet spot right down to the toe. It also gives the feeling of a bigger toe area due to there being less wastage in comparison to the round toe,n
+152,4,p,,n
+154,152,strong,Round Toe,n
+155,152,text,A Round toe is the most common toe shape used by players and in general will help prevent damage of the bat toe particular if you are a constant crease tapper.,n
+156,4,p,,n
+158,156,strong,Semi Square Toe,n
+159,156,text,"The main reason for an Semi square toe is that it helps minimise damage from tapping at the crease and running in, as the toe is slightly offset.",n
+162,4,p,,n
+164,162,span,We would love to discuss further particulars on your ideal bat with you. If you have any enquiries please complete the,n
+168,162,span,Contact Us,n
+169,162,span,,n
+171,169,span,f,n
+172,169,text,orm or call us on,n
+175,169,span,+44 7711 890103,n

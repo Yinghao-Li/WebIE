@@ -1,0 +1,260 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+3,2,article,,n
+4,3,div,,n
+32,4,h1,The Ultimate Drugstore Makeup Kit For Beginners on a Budget,n
+34,4,p,"If you’re a makeup beginner, you’re probably familiar with the drugstore makeup overwhelm feeling.",n
+36,4,p,"You know – walking into a drugstore or makeup store and becoming completely overwhelmed with ALL THE CHOICES and your mind immediately races with 8,756,452 questions.",n
+37,4,ul,,n
+39,37,li,Where do I start with makeup?,n
+41,37,li,What do I need,n
+43,37,li,Which foundation should I get,n
+45,37,li,Which lipstick lasts longer?,n
+47,37,li,Which mascara actually curls and lengthens?,n
+52,4,p,beginner makeup questions goes on and on.,n
+54,4,p,"Fortunately for you, I’ve been working on a basic makeup kit for beginners on a budget for quite some time now, and today I’m super excited to reveal The Ultimate Makeup Kit For Beginners on a Budget.",n
+56,4,p,"This basic makeup kit provides every makeup product that a makeup beginner needs in their collection and even better all of these products are tried and true, and super affordable at less than $25!",n
+61,4,h6,Makeup Posts to Read Next,n
+62,4,ul,,n
+64,62,li,The BEST Drugstore Makeup Products,n
+66,62,li,25 Drugstore Makeup Must-Haves,n
+68,62,li,6 Best Cheap Makeup Brands to Try,n
+74,4,p,*This post contains affiliate links. Thank you,n
+78,4,p,"We all know how tricky it can be to know which makeup products to buy when you’re first starting out with makeup, which is why I’ve rounded up the best of the best affordable makeup products below for your beginners makeup kit.",n
+81,4,div,,n
+83,81,h3,LATEST VIDEOS,n
+87,81,div,,n
+103,87,div,Easy No Bake Peanut Butter Pudding Pie,n
+124,87,div,More Videos,n
+131,87,div,Volume 0%,n
+132,87,div,,n
+135,132,span,keyboard shortcuts,n
+136,132,div,,n
+137,136,div,,n
+139,137,span,Keyboard Shortcuts,n
+140,137,button,,n
+143,140,span,Enabled,n
+145,140,span,Disabled,n
+147,136,div,,n
+148,147,div,,n
+150,148,span,Play or Pause,n
+152,148,span,SPACE,n
+153,147,div,,n
+155,153,span,Increase Volume,n
+157,153,span,↑,n
+158,147,div,,n
+160,158,span,Decrease Volume,n
+162,158,span,↓,n
+163,147,div,,n
+165,163,span,Seek Forward,n
+167,163,span,→,n
+168,147,div,,n
+170,168,span,Seek Backward,n
+172,168,span,←,n
+173,147,div,,n
+175,173,span,Captions On or Off,n
+177,173,span,c,n
+178,147,div,,n
+180,178,span,Fullscreen or Exit Fullscreen,n
+182,178,span,f,n
+183,147,div,,n
+185,183,span,Mute or Unmute,n
+187,183,span,m,n
+190,147,div,Seek %,n
+193,87,div,,n
+207,193,div,,n
+209,207,div,Next Up,n
+211,207,div,Skinny Cheesecake Swirl Brownie Muffins,n
+213,207,div,01:08,n
+232,193,div,,n
+259,232,div,Live,n
+261,232,div,00:00,n
+263,232,div,00:57,n
+265,232,div,01:18,n
+284,4,p,"To make it even easier, I’ve also outlined what each makeup product does and tips for using each of them.",n
+286,4,p,"Lastly, I created a helpful shopping list below so you can easily and affordably get everything you need for your beginners makeup kit.",n
+288,4,h3,Makeup Products For Beginners,n
+289,4,ul,,n
+291,289,li,Primer – Maybelline Master Prime,n
+294,289,li,Setting Spray – NYX Matte Finish Setting Spray or NYX Dewy Finish Setting Spray,n
+299,289,li,Setting Powder – Makeup Revolution Loose Baking Powder,n
+302,289,li,Foundation – L’Oréal Pro Glow or Pro Matte,n
+307,289,li,Concealer – e.l.f. Hydrating Camo Concealer,n
+310,289,li,Blush – Milani Baked Blushes,n
+313,289,li,Highlighter – wet n’ wild MegaGlo Highlighting Powder,n
+316,289,li,Bronzer – Physicians Formula Murumuru Butter Bronzer,n
+319,289,li,Eyeshadow Palette – BH Cosmetics Hangin in Hawaii Palette,n
+322,289,li,"Eyeshadow Brushes – M441 Blending Crease Brush , M330 Blending Crease Brush",n
+327,289,li,"Face Brushes – e.l.f. Complexion Brush , Ecotools Define and Highlight Duo , Practk by Sigma Beauty Angled Foundation Brush",n
+334,289,li,Makeup Sponge – Real Techniques Miracle Sponges,n
+337,289,li,Eyeliner – Maybelline Lasting Drama Gel Eyeliner or NYX Epic Ink Eyeliner,n
+342,289,li,Mascaras – L’Oréal Telescopic Mascara or Essence Lash Princess False Lash Effect Mascara,n
+347,289,li,Eyelash Primer – L’Oréal Voluminous Lash Primer,n
+350,289,li,Eyelash Curler – Heated Eyelash Curler,n
+353,289,li,Brow Pencil – NYX Microbrow Pencil,n
+356,289,li,Liquid Lipstick – Essence Stay 8 Hour Matte Liquid Lipsticks,n
+359,289,li,Lipstick – Maybelline Color Sensational Creamy Matte Lipsticks,n
+366,4,h3,Beginner Makeup Kit – Affordable Makeup Products,n
+372,4,h5,What makeup products does every beginner need,n
+374,4,p,"Primer, Setting Spray or Powder, Foundation, Concealer, Bronzer, Blush, Highlighter, and Makeup Brushes or Sponges.",y
+377,4,h5,What makeup products does every beginner need,n
+379,4,p,"Brow Pencil, Eyeshadow Palette, Eyeliner, Mascara, Lash Curler",y
+385,4,h5,What makeup products does every beginner need,n
+387,4,p,"Lipstick, Lipgloss, Lip liner",y
+395,4,h4,Primer,y
+397,4,p,Primer preps the skin,n
+399,4,p,"It comes in a variety of finishes based on skin type and skin concern, and can make a huge difference in how long your makeup lasts and how your skin looks.",n
+405,4,h5,Beginner Makeup Kit Recommendation,n
+407,4,p,My personal favorite at the drugstore makeup primer is the Maybelline Master Prime .,n
+411,4,p,It comes in 5 different finishes to address your skin’s specific needs and my personal favorites are the Blur + Smooth Primer and the Hydrate + Smooth one .,n
+424,4,h4,Foundation,y
+426,4,p,Foundation evens out skin tone,n
+428,4,p,"Finding your right foundation shade can often be tricky, but thankfully there are several easy tricks for finding your perfect shade.",n
+433,4,p,How to Find Your Shade,n
+435,4,p,"If you’re a foundation newbie, I recommend going in-store to Ulta and using one of their test samples to swatch the product on your jawline.",n
+437,4,p,"Shades also have undertones to them now, so make sure to take that into consideration when selecting a foundation to try.",n
+439,4,p,"If your natural skin color has hints of blue, pinks, or red you’re a cool undertone, hints of yellow or gold is a warm undertone, or a mixture of both is a neutral undertone.",n
+442,4,p,"On the other hand, if you’ve already found your perfect foundation shade in one brand and would like to try another, the site findation.com is super helpful in determining your shade. I love using it when I’m ordering new products online.",n
+451,4,p,L’Oréal Pro Glow or L’Oréal Pro Matte Foundation are my absolute favorite drugstore foundations!,n
+457,4,p,these foundations are long-lasting and give such a beautiful finish on the skin.,n
+459,4,p,"The Pro Glow is my favorite for the spring and summer in giving a nice dewy finish, while the Pro Matte foundation is perfect if you’re looking for a full-coverage, smooth finish.",n
+473,4,h4,Concealer,y
+475,4,p,"Concealer covers and conceals dark circles, redness, blemishes, and brightens the under-eye area.",n
+477,4,p,It can be worn alone or applied over foundation,n
+479,4,p,"As with foundation, keep your skin type in mind when choosing and applying concealer. Also the thicker the product, the less you’ll need to apply.",n
+487,4,p,"There’s actually quite a few concealers at the drugstore that I LOVE including the Makeup Revolution Conceal and Define and wet n’ wild Photo Focus Concealer , but for best all around I’d have to go with the e.l.f. Hydrating Camo Concealer .",n
+495,4,p,"This amazing full-coverage concealer replaced my long time ride or die Tarte Shape Tape, and is SO affordable at just $6.",n
+498,4,p,It’s also not overly drying under the eyes like Shape Tape can be and they have an incredible shade range so you can find your perfect match.,n
+500,4,p,Shop at Amazon | Shop at Ulta | Shop at Target,n
+507,4,h4,Setting Spray or Setting Powder,y
+509,4,p,"To help your makeup look last all day long and stay in place, it’s important to use a setting spray and or or setting powder.",n
+512,4,p,"Setting powders are mostly used for the undereye area, but can also be used in areas that are prone for getting oily like the t-zone.",n
+514,4,p,Setting sprays can also help give your skin a more matte or dewy finish.,n
+521,4,p,NYX Matte Finish Setting Spray or NYX Dewy Finish Setting Spray,n
+526,4,p,These setting sprays are my favorite at the drugstore because they not only lock in my makeup look all day but they also help give my skin that perfect matte or dewy finish I’m looking for.,n
+528,4,p,these in my makeup collection and usually alternate between the seasons.,n
+534,4,p,Makeup Revolution Loose Baking Powder,n
+536,4,p,For a setting powder this one is my absolute favorite and it does a great job of setting everything in place without drying out the under eye area.,n
+538,4,p,I love using the banana shade under the eye and translucent shade on the face and I always apply it with this amazing $5 brush from Real Techniques.,n
+550,4,h4,Blush,y
+552,4,p,Blush is the perfect makeup product,n
+554,4,p,"Pinks and peaches tend to be most complementary on fair to medium skin tones, while deeper skin tones look great wearing mauves and berry shades.",n
+556,4,p,Check out my 10 Best Drugstore Blushes Under $10,n
+566,4,p,Milani Baked Blushes are hands down THE BEST drugstore blush and I love them SO much I reviewed and swatched the best Milani Blush shades over here .,n
+571,4,p,There is honestly no other way to describe these blushes then – STUNNING.,n
+574,4,p,"They have these pretty little flecks of shimmer in them and every single shade looks gorgeous on all skin tones. Berry Amore and Luminoso are my faves, but you can’t go wrong with any of them.",n
+583,4,h4,Highlighter,y
+586,4,p,"Highlighter adds that perfect, pretty glow to the skin and it’s actually one of my favorite makeup products to use.",n
+588,4,p,"I love applying it with a small, fluffy brush right along the tops of my cheekbones, the bridge of my nose, and above my brow bones.",n
+590,4,p,Check out my 10 Best Drugstore Highlighters Under $15 here .,n
+600,4,p,wet n’ wild MegaGlo Highlighting Powder is my top recommendation!,n
+603,4,p,At less than $5 each I’m always shook at how good these highlighters are but they’re my #1 recommendation at the drugstore when it comes to highlighters.,n
+605,4,p,They add a beautiful shimmer to the skin and are just as good than some higher end highlighters I’ve tried.,n
+615,4,h4,Bronzer,y
+617,4,p,Bronzer add color and definition to the face and is an easy way to look more refreshed on days when you’re tired.,n
+619,4,p,With the right sculpting brush like this one you can also use bronzer to sculpt out and contour the face.,n
+627,4,p,Physicians Formula Murumuru Butter Bronzer is truly the only bronzer you’ll ever need !,n
+630,4,p,"In case you’ve been living under a rock, I’ll say it for the millionth time- PF Butter Bronzers are THE BEST bronzers EVER!",n
+633,4,p,"They smell like a coconut dream, add a beautiful sun-kissed color to the skin, and are SO easy to blend.",n
+635,4,p,"Oh and once you buy it, you’ll never want to buy another bronzer",n
+644,4,h4,Eyeshadow,y
+647,4,p,Eyeshadow is probably the most important item to have in your makeup collection.,n
+649,4,p,A good eyeshadow palette with both matte and shimmer shades will help you create beautiful eye looks and will be cheaper than buying separate eyeshadow colors.,n
+651,4,p,It’s always a good tip to get an eyeshadow palette that has a range of both neutral shades and colors for versatility.,n
+653,4,p,Check out my 8 Best Neutral Eyeshadow Palettes over here.,n
+663,4,p,My absolute favorite drugstore eyeshadow palette is hands-down the BH Cosmetics Hangin in Hawaii Palette .,n
+667,4,p,"You can check out my full review and swatches over here, but I’ll go ahead and tell you it has the most beautiful colors with great pigmentation, and most importantly the eyeshadows are super easy to blend – perfect for makeup beginners.",n
+672,4,p,Shop at Ulta,n
+675,4,h4,Brushes or Sponges,y
+677,4,p,"Even if you’re a makeup beginner, don’t forget about brushes and sponges!",n
+679,4,p,These help create a more flawless looking makeup application and will help you improve your makeup skills.,n
+687,4,p,"I actually have an entire post dedicated to the best affordable makeup brushes or sets and Ultimate Makeup Brush Guide that you’ll want to read, but below I’ve included some of the brushes and sponges I personally use in my own collection.",n
+693,4,p,My favorites,n
+699,4,p,"For the face essentials, I’d recommend the e.l.f. complexion brush and the Practk by Sigma Beauty Angled Foundation Brush .",n
+705,4,p,"If you’d rather purchase a full makeup brush set, this gorgeous rose gold set is around $25 and has everything you need!",n
+709,4,p,"For face sponges, Real Techniques Miracle Sponges are my go-to and I refuse to pay more for a beauty blender when these work amazing.",n
+714,4,p,"I love purchasing this set that comes with face sponges, mini sponges , and a sculpting sponge for contour or highlight.",n
+719,4,h4,Eyelash Curler,y
+721,4,p,"I’ll admit I used to be anti eyelash curler, but once I found a great one that’s easy to use, I’ll never go back to not using one.",n
+724,4,p,I definitely recommend using one if your eyelashes are naturally straight and don’t hold curl well with mascara alone.,n
+731,4,p,my most favorite Amazon purchases EVER.,n
+735,4,p,"I’ve tried so many traditional eyelash curlers that didn’t work well or would pinch my skin, but this one is amazing and is as easy as applying mascara.",n
+737,4,p,Shop on Amazon,n
+740,4,h4,Mascara,y
+742,4,p,"Mascara is a girl’s best friend for enhancing the eyes and creating long, voluminous, and gorgeous lashes for a flirty look.",n
+745,4,p,The great news for you is there’s no shortage of amazing mascaras at the drugstore with so many options to choose from.,n
+752,4,p,"If you’re looking for lengthening mascaras, check out my 6 Best Drugstore Mascaras for Long Lashes but two mascaras every beginner needs is L’Oréal Telescopic Mascara and Essence Lash Princess False Lash Effect Mascara",n
+760,4,p,"The L’Oréal Telescopic Mascara is THE best when it comes to lengthening and separating the lashes and Essence Lash Princess False Lash Effect Mascara is hands down the best at creating long, feathery looking lashes.",n
+766,4,p,I’ve been using both of these mascaras religiously for years and years and can’t say enough good things about them.,n
+768,4,p,If you’re more about volume the L’Oréal Paradise Mascara is amazing and is a total dupe for the Too Faced Better Than Sex Mascara.,n
+773,4,p,"I also 110% recommend using the L’Oréal Voluminous Lash Primer to create really thick, beautiful lashes.",n
+778,4,h4,Eyeliner,y
+780,4,p,Eyeliner can be applied to the eyelid to create a dramatic winged look or worn on the inner rim of the eyes to create a more sultry eye look.,n
+783,4,p,"There are several different types to choose from including liquid eyeliner, cream eyeliner, and gel, with a cream or gel eyeliner being the most easy to work with.",n
+790,4,p,"When first learning how to apply eyeliner, I recommend the Maybelline Lasting Drama Gel Eyeliner.",n
+794,4,p,"A gel pot eyeliner and an eyeliner brush are going to be a lot easier to work with in the beginning, as it will give you more control.",n
+796,4,p,"For the best winged liner looks, I wholeheartedly recommend the NYX Epic Ink Eyeliner .",n
+800,4,p,It’s just as good as high end eyeliners I’ve tried and has amazing staying power.,n
+810,4,h4,Eyebrow Pencil,y
+812,4,p,A good eyebrow pencil helps define out the brows to help you look more put together- even on makeup free days.,n
+814,4,p,"There are several brow products on the market including gels, pomade, and creams, but an eyebrow pencil is always the easiest place to start as a makeup beginner.",n
+822,4,p,Hands down the best affordable eyebrow pencil is the NYX Microbrow Pencil .,n
+826,4,p,"It’s a total dupe for the Anastasia Beverly Hills eyebrow pencil at a fraction of the cost, and does a great job of defining and shaping the eyebrows.",n
+836,4,h4,Lips,y
+838,4,p,"Lipstick is my personal favorite makeup product and even worn alone, a little pop of color on the lips can go along way in brightening up the face.",n
+840,4,p,"Even better, there are several types of lip products available nowadays including lipstick, lipgloss, liquid lipstick, and tinted lip balms.",n
+848,4,p,"The options for a great, affordable lipstick are endless, but my two all-around favorites are the Essence Stay 8 Hour Matte Liquid Lipsticks and Maybelline Color Sensational Creamy Matte Lipsticks .",n
+854,4,p,"Essence Liquid Lipsticks are perfect for special occasions and longwear, as they last ALL day and come in a range of beautiful colors.",n
+857,4,p,"For more everyday wear lipsticks I really love the Maybelline creamy matte ones, as they have a beautiful, creamy finish without being overly drying.",n
+860,4,p,For more recommendations check out all the posts in my Best Drugstore Lipstick series below:,n
+861,4,ul,,n
+863,861,li,Best Nude Drugstore Lipsticks,n
+865,861,li,Best Red Lipsticks,n
+867,861,li,Best Pink Drugstore Lipsticks,n
+869,861,li,Best Fall Drugstore Lipsticks,n
+873,4,p,Hope you found today’s post on the Ultimate Makeup Kit for Beginners on a Budget super helpful! Which product will you be picking up for your makeup collection? Le the know in the comments!,n
+875,4,p,Thanks,n
+878,4,h5,Pin This Post,n
+883,3,div,,n
+885,883,div,Makeup,n
+887,883,div,"Oct 21, 2019",n
+888,2,div,,n
+889,888,div,,n
+891,889,h3,Leave a Comment,n
+893,889,form,,n
+896,893,p,Comment,n
+902,893,p,Name,n
+908,893,p,Email,n
+915,893,p,Notify me when new comments are added.,n
+922,888,div,,n
+924,922,h3,11 Comments,n
+925,922,ol,,n
+926,925,li,,n
+927,926,div,,n
+930,927,div,Nadine,n
+934,927,p,"Milani really does make the best blush! I really love my RT beauty blender sponge. I pick it over the real BB hands down. I am really into the NYX liner right now. I used to be more of a cover girl liner person, but really digging NYX more. Cant live without my butter bronzer, and I like the highlighter they make too!",n
+937,927,div,Posted 10.26.19,n
+941,926,li,,n
+948,941,p,Yes! So glad you share my love for several of these products! Covergirl makes good liners too but I’ve found the NYX one lasts a little better.,n
+951,941,div,Posted 10.30.19,n
+953,925,li,,n
+954,953,div,,n
+957,954,div,Karly,n
+959,954,div,,n
+961,959,p,I totally agree with all of these products . Several of these are tried-and-true staples in my collection that I’m rarely without. I’m a big believer that you don’t have to splurge these days to get great quality makeup.,n
+962,959,p,,n
+963,962,text,"Just sayin’,",n
+965,962,br,Karly,n
+967,962,br,https,n
+981,953,li,"Agreed! Drugstore makeup has definitely stepped up their game over the last decade, and with some products it’s even better than some high end products. So glad you love and use so many of these too!",n
+986,925,li,,n
+987,986,div,,n
+990,987,div,Emelia A Lawrence,n
+994,987,p,"I just purchased a Milani blush a few weeks ago and am LOVING it! So many good recs here, great post!",n
+1008,986,li,Yay! Literally every single shade is stunning! Love the shimmer in them and the pop of color they add to the cheeks. Glad you love yours too!,n
+1013,2,nav,,n
+1015,1013,h2,Post navigation,n
+1016,1013,div,,n
+1019,1016,div,Older Post,n
+1022,1016,div,Newer Post,n

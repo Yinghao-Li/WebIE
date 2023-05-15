@@ -1,0 +1,258 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+9,5,div,SmarterTravel,n
+12,5,div,,n
+14,12,span,AddThis Sharing Buttons,n
+15,12,div,,n
+17,15,span,Share to Facebook,n
+20,15,span,Facebook,n
+22,15,span,Share to Pinterest,n
+25,15,span,Pinterest,n
+27,15,span,Share to Twitter,n
+30,15,span,Twitter,n
+31,5,div,,n
+34,31,p,"Packing mishaps range from inconvenient to disastrous , but most are preventable. We’ve created this ultimate packing list to help you pack well every time.",n
+36,31,h2,The Ultimate Packing Checklist,n
+38,31,p,"To see the ultimate packing list, scroll down the page or click here for an editable PDF version that you can save or print out. To customize the list, simply download or print it, then edit for your specific needs. You can also download the editable, mobile-friendly checklist here .",n
+43,31,section,,n
+46,43,h3,Clothes to Pack,n
+47,43,div,,n
+49,47,ul,,n
+52,49,li,Underwear,y
+55,49,li,Socks,y
+58,49,li,Bras,y
+61,49,li,Sleepwear,y
+64,49,li,T-shirts,y
+67,49,li,Dress Shirts,y
+70,49,li,Casual Shirts,y
+73,49,li,Jeans,y
+76,49,li,Pants,y
+79,49,li,Shorts,y
+82,49,li,Dresses,y
+85,49,li,Skirts,y
+87,47,ul,,n
+90,87,li,Sweaters,y
+93,87,li,Sweatshirts,y
+96,87,li,Suits,y
+99,87,li,Swimsuits,y
+102,87,li,Cover-ups,y
+105,87,li,Coats,y
+108,87,li,Hats,y
+111,87,li,Gloves,y
+114,87,li,Scarves,y
+117,87,li,Laundry Kit,y
+120,87,li,Umbrella,y
+122,47,ul,,n
+125,122,li,Leisure Shoes,y
+128,122,li,Hiking Boots,y
+131,122,li,Sneakers,y
+134,122,li,Snow Boots,y
+137,122,li,Dress Shoes,y
+140,122,li,Sandals,y
+143,122,li,Belts,y
+146,122,li,Ties,y
+149,122,li,Jewelry,y
+152,122,li,Purses,y
+155,122,li,Collapsible Tote,y
+160,31,p,Shop Our Clothing Packing List,n
+162,31,div,,n
+165,162,div,Shop Now,n
+173,162,div,,n
+212,173,div,,n
+218,212,div,Dickies Women's Relaxed Cargo Pant Rinsed Pe…,n
+222,212,div,$39.99,n
+298,173,div,,n
+304,298,div,Lewis N. Clark Women's RFID Blocking Money…,n
+306,298,div,,n
+308,306,span,$10.99,n
+310,306,span,$15.99,n
+395,173,div,$625.00,n
+471,173,div,,n
+477,471,div,Columbia Women's Sandy River Cargo Short Sh…,n
+481,471,div,$29.99,n
+731,173,div,,n
+737,731,div,Lewis N. Clark Travel Garment Bag Cover fo…,n
+741,731,div,$13.99,n
+817,173,div,,n
+823,817,div,Columbia Women's Anytime Outdoor Boo…,n
+825,817,div,,n
+827,825,span,$54.99,n
+829,825,span,$80.00,n
+873,31,section,,n
+876,873,h3,Toiletries to Pack,n
+877,873,div,,n
+879,877,ul,,n
+882,879,li,Toothbrush,y
+885,879,li,Toothpaste,y
+888,879,li,Dental Floss,y
+891,879,li,Soap,y
+894,879,li,Deodorant,y
+897,879,li,Shampoo,y
+900,879,li,Conditioner,y
+903,879,li,Hair Brush,y
+906,879,li,Styling Tools,y
+909,879,li,Facial Cleanser,y
+911,877,ul,,n
+914,911,li,Face Lotion,y
+917,911,li,Sunscreen,y
+920,911,li,Moisturizer,y
+923,911,li,Contact Lenses,y
+926,911,li,Contact Solution,y
+929,911,li,Shaving Supplies,y
+932,911,li,Makeup,y
+935,911,li,Makeup Remover,y
+938,911,li,Period Products,y
+940,877,ul,,n
+943,940,li,Birth Control or Medication,y
+946,940,li,Nail File,y
+949,940,li,Nail Clippers,y
+952,940,li,Tweezers,y
+958,940,li,Bandages,y
+961,940,li,First-Aid Ointment,y
+964,940,li,Insect Repellent,y
+967,940,li,Pain Relievers,y
+970,940,li,Vitamins,y
+975,31,p,Shop Our Toiletries Packing List,n
+977,31,section,,n
+980,977,h3,Miscellaneous Items,n
+981,977,div,,n
+983,981,ul,,n
+986,983,li,Cell Phone,y
+989,983,li,Laptop or Tablet,y
+992,983,li,Film or Memory Card,y
+995,983,li,Medications,y
+998,983,li,Banking Contacts or Information,y
+1000,981,ul,,n
+1003,1000,li,Electronic Chargers,y
+1006,1000,li,Emergency Contacts,y
+1009,1000,li,Passport,y
+1012,1000,li,Plug Adapter,y
+1017,31,p,Shop Our Miscellaneous Items List,n
+1019,31,section,,n
+1022,1019,h3,What to Pack in Your Carry-on,n
+1023,1019,div,,n
+1025,1023,ul,,n
+1028,1025,li,Books or E-Books,y
+1031,1025,li,Headphones,y
+1034,1025,li,Travel Blanket,y
+1037,1025,li,Travel Pillow,y
+1040,1025,li,Eye Mask,y
+1043,1025,li,Earplugs,y
+1046,1025,li,Tissues,y
+1049,1025,li,Lip Balm,y
+1052,1025,li,Disinfecting Wipes,y
+1054,1023,ul,,n
+1057,1054,li,Clothes,y
+1060,1054,li,Snacks,y
+1063,1054,li,Empty Water Bottle,y
+1066,1054,li,In-Flight Medications,y
+1069,1054,li,Valuables,y
+1072,1054,li,Camera,y
+1075,1054,li,Passport or Visa or ID,y
+1081,1054,li,Gum,y
+1083,1023,ul,,n
+1086,1083,li,Cash,y
+1089,1083,li,Credit or ATM cards,y
+1092,1083,li,Insurance Cards,y
+1095,1083,li,Itinerary,y
+1098,1083,li,Maps or Directions,y
+1101,1083,li,Glasses,y
+1104,1083,li,Sunglasses,y
+1107,1083,li,House Keys,y
+1110,1083,li,Face Masks,y
+1115,31,p,Shop Our Carry-On Essentials List,n
+1117,31,h2,Packing Tips,n
+1119,31,p,"When packing for a vacation the most important things to keep in mind are the length of your trip, the weather, and any non-standard clothing or gear you might need.",n
+1124,31,p,"Your first step when packing is to decide if you’ll be checking a bag or only taking a carry-on and then curate the amount of clothing you’ll need based on that decision. Typically, you should avoid checking a bag in situations where you have a layover since the likelihood of your bag going missing goes up with every connection. You might also want to avoid checking a bag if you absolutely need items in your bag on arrival—for example, if you’re going on a cruise.",n
+1128,31,p,"If you’re packing more minimally, focus on packing layering clothes in more neutral colors. That’s not because we don’t like fun colors and patterns; it just means that neutral-colored clothing is more versatile, so you can wear these items more than once when you’re tight on space.",n
+1134,31,p,16 Packing Hacks That Will Change How You Travel,n
+1136,31,p,"Also invest in clothing that does double duty, like multi-use wraps , crushable hats , self-cooling and heating fabrics like merino wool layers , bug-repellent clothing , wrinkle-resistant shirts, quick-drying activewear and undergarments, casual sneakers, UPF-proof clothing , and compressible jackets … just to name a few. Look toward popular athleisure brands like Lululemon , prAna , and Athleta for comfortable yet stylish travel clothing.",n
+1157,31,p,"When curating your packing list, you should keep in mind the length of your trip and decide on quantities from there. For a shorter trip , you can probably manage with the following: one pair of underwear and socks per day, one pair of pajamas, one to two dressier outfits, one to two activewear or athleisure outfits, one to two casual outfits, and one to two pairs of shoes. For a longer trip , you can manage with one pair of underwear and socks per day, two pairs of pajamas, three dressier outfits, three to four casual outfits, two pairs of shoes, and two activewear or athleisure outfits.",n
+1159,31,p,"And if you’re able to do laundry on your vacation, you can probably manage with even fewer items. Just don’t forget to pack a travel laundry kit.",n
+1165,31,p,Scrubba Untouched Review,n
+1167,31,p,"Also make sure to bring along accessories like a money belt, scarf or sarong , and a collapsible tote or day bag for any extra items you might acquire on your travels. If traveling to a city or destination that is prone to pickpocketing, make sure to pack some pickpocket-proof clothing and gear .",n
+1174,31,p,"Depending on the type of trip you’re going on, you may need to invest in some special travel gear. We’ve tested out everything from a headlamp to interchangeable heels, so you can trust our recommendations. If you’re headed out on an organized group tour, you’ll most likely get a packing list from the tour provider, which should make your trip planning easier. If not, do your research online and consult this story for other handy lists of tips.",n
+1176,31,p,"For more active trips, make sure you have a sturdy pair of hiking boots, quick-drying clothing, a day pack, snacks, and any necessary equipment. Check out our specific packing lists for hiking trips and camping trips .",n
+1186,31,p,10 Incredible National Park Glamping Locations,n
+1188,31,p,"Another type of trip that you may need to pack slightly specific items for is a cruise. Make sure you pack non-standard items like seasickness remedies, formal wear, dress shoes, and your bathing suit. Beach vacations also require different items like water shoes, towels, sunscreen, and maybe even snorkel gear. Luckily for you, we also have a specific cruise packing list and a beach vacation packing list .",n
+1197,31,p,"Lastly, you need to consider the weather. For warm-weather destinations like jungles and Caribbean islands, you can obviously skip the coats and gloves, but if you’re headed out on a ski vacation then you’ll need a whole slew of things like goggles, a neck gaiter, snow boots, and more. But don’t worry, we’ve got you covered with a specific Caribbean vacation packing list , a Mexico vacation packing list , and even a ski trip packing list .",n
+1209,31,p,11 Best U.S. Ski Resorts,n
+1211,31,p,"To help keep things organized, we love using packing cubes and or or compression sacks. They’re especially useful for when you’re traveling to multiple destinations in one trip.",n
+1215,31,p,"Wondering how to pack all of your items? Enter the great debate of the rolling vs. folding method! While this is definitely a personal preference, we put two editors to the test to find out which method is in fact, more space-saving. Watch the video below to see the answer.",n
+1219,31,h2,How to Pack Toiletries and Medications,n
+1224,31,p,"Whether it’s important medication or your favorite lipstick, forgetting any type of toiletry can range from being mildly inconvenient to becoming a serious problem. For toiletries, make sure to pack your essentials, like medication, contacts, and any other items that you might not be able to purchase or replace during your travels. However, if you forget items like a toothbrush or razor, you can typically call the front desk at the hotel for a spare.",n
+1226,31,p,"We also recommend traveling with some type of a travel first-aid kit , which includes items like tweezers, first-aid ointment, bandages, travel-sized hand sanitizer, sunscreen, and insect repellent.",n
+1230,31,p,"We have an entire story dedicated to packing and traveling with medications as well, which is full of tips on how to travel abroad with medication.",n
+1234,31,h2,Packing Tips,n
+1236,31,p,"Traveling without tech items like your phone, laptop, tablet, or camera can be a major bummer. For those traveling abroad, you’ll also want to remember to pack electronic adapters and converters . Other tech-related items for photographers to pack are a sturdy camera bag , backup batteries, and memory cards, as well as lens cleaner. And don’t forget smartphone essentials like a backup charger, waterproof case if you’re headed out on the water, and a phone stand or tripod for photos.",n
+1244,31,p,"A travel packing tip we’ve learned the hard way? Travel with a copy of your passport, credit card, and bank contacts, as well as a list of medications and your emergency contacts.",n
+1246,31,p,"If you are traveling abroad, we have an entire checklist for you, but the most important thing to note here is your passport and visas. Make sure that your passport is up to date, has as least six months of validity, and has enough blank pages for any stamps. Another tip for international travel? Give yourself plenty of time to apply for any visas that you might need and to arrange for a visit to a travel clinic if any special medications or vaccines are needed. You should also familiarize yourself with any COVID-19 travel restrictions at your destination.",n
+1254,31,p,"There are also some items that you may not think to pack, but should, like an electronic tracker, duct tape , toilet paper, a decoy wallet, or a whistle.",n
+1262,31,p,19 Items You Should Always Have in Your Carry-On,n
+1264,31,h2,What to Always Pack in Your Carry-on Bag,n
+1266,31,p,"In case you’re separated from your checked bag or other items, you should always make sure that you have your ID, wallet, house keys, medications, valuables, camera, phone, laptop, tablet, pen, cash and cards, glasses, and copy of your itinerary with you on the plane.",n
+1268,31,p,"Other items that you might want to have handy with you include entertainment for your flight, comfort-promoting items like a blanket or pillow, as well as an empty water bottle to fill up post-security , a change of clothes , snacks, and gum.",n
+1272,31,p,"If you’re looking to pack carry-on only, you guessed it: We also have a separate packing list and tips for that, as well as the best bags to use for carry-on only .",n
+1278,31,h2,What to Pack,n
+1280,31,p,"We all know that the pandemic has significantly changed the way we travel. By extension, the items we prioritize in our luggage have changed as well. Make sure, no matter how you’re getting to your destination, to always have a face mask on you. It’s a good idea to keep a few extra in your carry-on or personal item as well.",n
+1284,31,p,"Sanitizing wipes and hand sanitizer , while always a good idea to have on hand at the airport , have become absolute carry-on musts. Wipe down frequently touched surfaces by your plane seat or in your hotel room for peace of mind, just make sure whatever liquid sanitizing products you bring on board meet the TSA requirements .",n
+1293,31,p,"Finally, triple-check that you have your vaccine passport or negative Covid-19 test results handy. Many destinations and airlines require one of these forms of proof to proceed. Bring along a laminated copy of your vaccine card for extra insurance.",n
+1300,31,h2,,n
+1302,1300,strong,Quiz,n
+1303,1300,text,?,n
+1306,31,p,Editor’s note,n
+1308,31,section,,n
+1310,1308,h4,You Might Also Like,n
+1311,1308,text,• 22 Amazing Waterproof Shoes,n
+1314,1308,br,• Travel Size First-Aid Kit,n
+1317,1308,br,• 7 Tiny Travel Gadgets You Can’t Leave Home Without,n
+1320,1308,br,• 10 Things Active Travelers Always Pack,n
+1323,1308,br,• What to Pack,n
+1328,31,p,"We hand-pick everything we recommend and select items through testing and reviews. Some products are sent to us free of charge with no incentive to offer a favorable review. We offer our unbiased opinions and do not accept compensation to review products. All items are in stock and prices are accurate at the time of publication. If you buy something through our links, we may earn a commission.",n
+1329,5,nav,,n
+1331,1329,h3,Related,n
+1332,1329,ul,,n
+1334,1332,li,Packing,n
+1336,1332,li,baggage,n
+1338,1332,li,Expert Travel Tips,n
+1340,1332,li,Travel Gear,n
+1344,5,section,,n
+1345,1344,h3,,n
+1346,1345,text,Top Fares From,n
+1348,1345,span,"Portland, OR",n
+1349,1344,div,,n
+1350,1349,article,,n
+1351,1350,h3,,n
+1353,1351,span,$137 fly to,n
+1355,1351,span,"Medford, OR",n
+1358,1350,text,Airfare $137,n
+1365,1349,h3,"Seattle, WA",n
+1375,1349,h3,"Spokane, WA",n
+1380,1349,article,,n
+1381,1380,h3,,n
+1383,1381,span,$158 fly to,n
+1385,1381,span,"San Francisco, CA",n
+1388,1380,text,Airfare $158,n
+1391,1349,h3,Don't see a fare you like? View all flight deals from your city.,n
+1395,5,div,,n
+1399,1395,h3,"Dubai, Abu Dhabi and Al Ain",n
+1401,1395,p,Indus Travels,n
+1404,1395,span,vacation,n
+1406,1395,span,$1599+,n
+1410,1395,h3,The Caribbean,n
+1415,1395,span,hotel,n
+1417,1395,span,$472+,n
+1421,1395,h3,8-Nt and Longer Cruises to the...,n
+1426,1395,span,cruise,n
+1428,1395,span,$1199+,n
+1430,0,div,,n
+1431,1430,article,,n
+1433,1431,h3,22 Amazing Waterproof Shoes,n
+1434,1431,text,Fashion and Beauty Megan Johnson,n
+1436,1430,article,,n
+1438,1436,h3,Travel Size First-Aid Kit,n
+1439,1436,text,Health and Wellness Ashley Rossi,n
+1441,1430,article,,n
+1443,1441,h3,7 Tiny Travel Gadgets You Can’t Leave Home Without,n
+1444,1441,text,Travel Technology Caroline Morse Teel,n

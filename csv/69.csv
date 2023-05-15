@@ -1,0 +1,311 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+37,0,div,,n
+38,37,div,,n
+39,38,div,,n
+43,39,h1,The Ultimate Camping Packing List | Printable PDF Camping Checklist,n
+45,39,h2,The Ultimate Camping Packing Checklist,n
+46,39,p,,n
+47,46,text,"One of the best parts of a camping trip is that there are no rules and no one way to have a good time. That said, there are several items you need to bring along to get the most out of your excursion. Many of these items listed depend on your unique circumstances, including where you are staying and what type of camping experience you hope to have.",n
+49,46,br,Campsite Must-Haves,n
+51,39,p,"As you shop and pack for your campsite essentials, remember to abide by all local laws and campground regulations. Some items may be prohibited, such as fireworks or out-of-state firewood. Keep in mind that many campgrounds have an on-site store that stocks essential items. You should also consider whether or not you are staying at a campsite with access to electricity and clean water.",n
+53,39,p,Here is everything you need to create the ultimate camping retreat.,n
+56,39,h3,Indoors,n
+58,39,p,"Indoor campsite essentials vary depending on what you are staying in. For example, a tent requires more supplies than a furnished cabin or RV does. If you’re staying at a campground with partially furnished lodging, call ahead and ask what items they provide you and which ones you need to bring.",n
+60,39,p,Some common indoor items to consider include,n
+61,39,ul,,n
+63,61,li,Blankets,y
+65,61,li,Pillows,y
+67,61,li,Cots,y
+69,61,li,A sleeping bag and insulated liner,y
+71,61,li,A plug-in or battery-operated fan,y
+73,61,li,A sleeping pad or mattress topper,y
+75,61,li,"An air mattress, pump and repair kit",y
+77,61,li,Earplugs and a sleeping mask,y
+79,61,li,A hot water bottle to warm your sleeping bag,y
+81,61,li,A portable charging station,y
+83,61,li,A tent-safe heater,y
+85,39,h3,Outdoors,n
+87,39,p,"Chances are, you will be spending more time outdoors than indoors at your campsite. You want the area to be as functional as possible, but without taking too much space. For this reason, choose multi-use items that are lightweight and weather-safe.",n
+89,39,p,"your campsite, you need:",n
+90,39,ul,,n
+92,90,li,A season-appropriate tent and tent stakes,y
+94,90,li,A mallet or hammer to install tent stakes,y
+96,90,li,"Stabilization jacks, if using an RV",y
+98,90,li,Cinderblocks,y
+100,90,li,A tarp,y
+102,90,li,Mosquito netting,y
+104,90,li,Flashlights and or or headlamps,y
+106,90,li,A lantern with fuel,y
+108,90,li,A spacious cooler and ice,y
+110,90,li,A refillable water dispenser,y
+112,90,li,"Matches, firestarter or a lighter",y
+114,90,li,Kindling to help start a campfire,y
+116,90,li,Citronella candles to repel insects,y
+118,90,li,Campsite decor,y
+120,90,li,"Outdoor lighting, such as rope lights or tiki torches",y
+122,90,li,Tablecloth clips,y
+124,90,li,Approved firewood,y
+126,39,h3,Tools,n
+128,39,p,"It is always a good idea to pack plenty of outdoor tools, even if you are not sure you will need them. You can use many items for several applications, including emergencies.",n
+130,39,p,Make sure you have,n
+131,39,ul,,n
+133,131,li,A wood axe and handsaw,y
+135,131,li,A multi-tool pocket knife,y
+137,131,li,Duct tape,y
+139,131,li,Paracord,y
+141,131,li,Bungee cords,y
+143,131,li,A small trowel,y
+145,39,h3,Furniture,y
+147,39,p,"When choosing camping furniture, look for items that are weather-safe, easily portable and rated for outdoor use. Keep in mind that many of these items are different from regular outdoor furniture.",n
+149,39,p,"Most campsites have a picnic table, but you might also want:",n
+150,39,ul,,n
+152,150,li,A pop-up pavilion or shade structure,y
+154,150,li,A hammock,y
+156,150,li,An outdoor rug to catch dirt and grass before entering your lodging,y
+158,150,li,At least one camping chair per person,y
+160,150,li,A folding table,y
+162,39,h3,Clothes and Shoes,y
+164,39,p,"Remember to consider the season, local climate and weather forecast when packing your suitcase. To save space, tightly roll — rather than fold — each clothing piece and stack it inside your suitcase. If you are staying at a campground with laundry facilities or you own an RV with a built-in washer and dryer, consider packing light and bringing along laundry supplies. Otherwise, plan to have at least two changes of clothes for each day of your trip — camping trips typically expose you to more dirt, sweat and messy foods than you would typically encounter at home.",n
+166,39,p,Some clothing items to consider are,n
+167,39,ul,,n
+169,167,li,T-shirts,y
+171,167,li,Light layering pieces,y
+173,167,li,A raincoat,y
+175,167,li,"A sweater, hoodie or fleece pullover",y
+177,167,li,wool,y
+179,167,li,Pants and shorts,y
+181,167,li,Pajamas,y
+183,167,li,Underwear,y
+185,167,li,A swimsuit or swimming trunks,y
+187,167,li,A wide-brimmed sunhat or visor,y
+189,167,li,A beanie or knit cap,y
+191,167,li,Gloves,y
+193,167,li,Sunglasses,y
+195,167,li,Shower shoes,y
+197,167,li,Hiking boots,y
+199,167,li,Rain boots,y
+201,167,li,Walking shoes,y
+203,167,li,Sandals or flipflops,y
+206,39,h3,Cooking Essentials,y
+207,39,p,,n
+208,207,text,"One of the best parts of any camping trip is sitting down to enjoy a hearty meal together. To get a better idea of what to include on your shopping list, browse popular camping recipes to see which ones you would like to try out. When creating your meal plan, consider what produce is seasonally available at the time. You can also design your menu to fit the recreation you engage in. For example, opt for high-protein foods if you plan to participate in a lot of physical activity, or fresh fish dishes if you’re planning a fishing excursion. You should also consider the weather — many campers prefer lighter fare for hot summer days and filling comfort foods during colder months.",n
+212,207,br,Equipment,n
+214,39,p,"Whether you plan to use electricity or a roaring campfire, make sure you have some way to cook your food at the campsite.",n
+216,39,p,"You have several options, and you can mix-and-match",n
+217,39,ul,,n
+219,217,li,A grill and fuel,y
+221,217,li,A grate to cook food over the fire,y
+223,217,li,A portable cooking stove,y
+225,217,li,A roasting fork or stick,y
+227,217,li,A cast-iron dutch oven,y
+229,217,li,A coffee percolator,y
+231,39,h3,Utensils,y
+233,39,p,"Many outdoor stores sell utensils designed for camping use. They are usually made of more durable, anti-rust materials and can be easily stored away. Some items, such as cups and bowls, are easily stackable or come in collapsible varieties. You can also choose from disposable or regular utensils, depending on how often you plan to use them.",n
+235,39,p,Here is what you need,n
+236,39,ul,,n
+238,236,li,At least one plate and bowl,y
+240,236,li,Shatter-proof cups and mugs,y
+242,236,li,"A knife, spoon and fork",y
+244,236,li,A washable cutting board,y
+246,236,li,A fire-safe frying pan,y
+248,236,li,Measuring cups,y
+250,236,li,"Spatulas, mixing spoons and tongs",y
+252,236,li,Cooking knives,y
+254,236,li,Oven mitts,y
+256,236,li,An instant-read food thermometer,y
+258,236,li,A bottle opener,y
+260,236,li,A can opener,y
+262,236,li,"Coffee filters, if applicable",y
+264,236,li,A bearproof food vault,y
+266,236,li,Kitchen scissors,y
+268,236,li,Toothpicks and a container to keep them dry,y
+270,236,li,Bamboo cooking skewers,y
+272,236,li,Small food storage bags,y
+274,236,li,Food storage containers,y
+276,39,h3,Food Items,y
+278,39,p,"Bring plenty of groceries to last you through the duration of your trip, especially if your campsite is far from grocery stores.",n
+280,39,p,"The exact type of groceries you need depends on your unique preferences, but these are a great place to start:",n
+281,39,ul,,n
+283,281,li,"Spices, herbs and seasonings, including salt and pepper",y
+285,281,li,Cooking oil,y
+287,281,li,"Bottled water, soda and juice",y
+289,281,li,Potatoes,y
+291,281,li,Eggs,y
+293,281,li,Breakfast meats,y
+295,281,li,Popcorn in a fire-safe popping pan,y
+297,281,li,"S’mores ingredients, including marshmallows, chocolate and graham crackers",y
+299,281,li,Meats,y
+301,281,li,Fresh fruits and vegetables,y
+303,281,li,"Condiments, including ketchup, mustard, relish and mayonnaise",y
+305,281,li,bread,y
+307,281,li,Sliced cheese and deli meat,y
+309,281,li,"Grab-and-go snacks, like trail mix and energy bars",y
+311,281,li,Nut butter and jelly,y
+313,281,li,Cereal or granola,y
+315,281,li,Beef jerky,y
+317,281,li,"Chips, pretzels or other salty snacks",y
+319,281,li,Canned beans,y
+321,281,li,Hotdogs and hamburgers,y
+323,39,h3,Hygiene and Toiletries,y
+325,39,p,"Although keeping yourself clean on a camping trip might be challenging, it’s important for your health. Base your hygiene and toiletries list off of what resources are available to you, including public or private restrooms and wash areas, as well as clean water and electricity.",n
+327,39,p,these items in travel-sizes:,n
+328,39,ul,,n
+330,328,li,Hand soap,y
+332,328,li,Bath towels and washcloths,y
+334,328,li,Hand and body lotion,y
+336,328,li,"Body soap, shampoo and conditioner",y
+338,328,li,A hairbrush,y
+340,328,li,A toothbrush and toothpaste,y
+342,328,li,Cotton swabs,y
+344,328,li,Toilet paper,y
+346,328,li,Glasses and or or contacts and lens wipe and or or contact solution,y
+348,328,li,A handheld mirror,y
+350,328,li,Makeup and skincare items,y
+352,328,li,Tissues,y
+354,328,li,Dental floss,y
+356,328,li,A razor and shaving cream,y
+358,328,li,A water-safe shower bag,y
+360,328,li,Menstrual products,y
+362,328,li,Deodorant,y
+364,328,li,"Baby wipes,",y
+366,328,li,"A portable shower and toilet, if applicable",y
+368,39,h3,Recreational Gear,y
+370,39,p,"Camping trips are all about the fun activities you get to do while you’re there. Plan your camping itinerary by considering the destination you’re visiting, nearby attractions, the time of year, weather forecast, budget and interests. Some popular recreational activities include winter sports, swimming and water sports, fishing, boating, sightseeing, bird-watching, exploring cities, visiting museums and attending special events. There is also plenty of fun to be had back at your campsite, including indoor and outdoor games.",n
+372,39,p,the following:,n
+373,39,ul,,n
+375,373,li,Fishing poles and tackle,y
+377,373,li,Winter sports equipment,y
+379,373,li,A kayak or canoe,y
+381,373,li,Swim towels,y
+383,373,li,Lifejackets,y
+385,373,li,A hiking daypack,y
+387,373,li,"Lawn games, like badminton and cornhole",y
+389,373,li,Board games and playing cards,y
+391,373,li,Books,y
+393,373,li,A music player and speaker,y
+395,373,li,Trekking poles,y
+397,373,li,"Bikes, skateboards or rollerblades",y
+399,373,li,A video camera or camera,y
+401,373,li,Binoculars,y
+403,373,li,A local attractions guidebook,y
+405,373,li,"Frisbees, volleyballs, footballs",y
+407,373,li,Instruments to play music around the campfire,y
+409,373,li,Glow sticks,y
+411,373,li,Tickets to special events or local attractions,y
+413,39,h3,Clean-Up,n
+415,39,p,Cleaning up after a meal and at the end of each day is critical to keep insects and wildlife away from your campsite. Never leave filled trash bags unattended or outdoors overnight.,n
+417,39,p,"To keep your site clean, bring along the following items:",n
+418,39,ul,,n
+420,418,li,Environmentally-friendly dish soap,y
+422,418,li,Paper towels,y
+424,418,li,Trash bags,y
+426,418,li,Dishtowels,y
+428,418,li,A cleaning sponge,y
+430,418,li,"Cleaning supplies, like disinfectant wipes",y
+432,418,li,A drying rack or clothesline with clothespins,y
+434,418,li,Plastic bags or laundry hamper,y
+436,418,li,A stain-remover pen,y
+438,418,li,A portable sink or basin,y
+440,418,li,A broom and dustpan,y
+442,39,h3,Safety Items,y
+444,39,p,"Because camping requires close interaction with nature and wildlife, it’s important that you have the knowledge and supplies you need to stay safe. This includes survival equipment to take with you when hiking or participating in other off-site activities, as well as safety items to keep at your campsite.",n
+446,39,p,Consider the following,n
+447,39,ul,,n
+449,447,li,A portable fire extinguisher,y
+451,447,li,Hand sanitizer,y
+453,447,li,An emergency blanket,y
+455,447,li,Spare cash,y
+457,447,li,"High SPF, water-resistant sunscreen",y
+459,447,li,"Insect repellant, with DEET if applicable",y
+461,447,li,the area,y
+463,447,li,A compass,y
+465,447,li,A water treatment or filtration system,y
+467,447,li,"freshwater,",y
+469,447,li,A field guide with information about local plants and animals,y
+471,447,li,Spare batteries,y
+473,447,li,Bear mace,y
+475,447,li,A whistle,y
+477,447,li,A disposable rain poncho,y
+479,447,li,Printed directions to the nearest hospital,y
+481,39,h3,First-Aid,y
+483,39,p,One of the most important safety items to have on-hand is a first-aid kit. Keep your first aid items in a sealable and portable container. Adapt the contents of your kit to fit the specific health requirements for your family.,n
+485,39,p,"To ensure each person is a safe and happy camper, be sure your first-aid kit has:",n
+486,39,ul,,n
+488,486,li,Adhesive bandages,y
+490,486,li,Alcohol,y
+492,486,li,Hydrogen peroxide,y
+494,486,li,Gauze,y
+496,486,li,"Over-the-counter pain relievers, antihistamines and antacid tablets",y
+498,486,li,"Anti-itch medication, such as calamine lotion",y
+500,486,li,Finger splints,y
+502,486,li,Liquid bandage,y
+504,486,li,Eye drops,y
+506,486,li,Non-latex gloves,y
+508,486,li,An oral thermometer,y
+510,486,li,Prescription medications,y
+512,486,li,A snakebite treatment kit,y
+514,486,li,Sunburn cream or gel,y
+516,486,li,Tweezers,y
+518,486,li,Safety pins,y
+520,486,li,Sterile wipes,y
+522,486,li,Hydrocortisone cream,y
+524,486,li,An EpiPen,y
+526,486,li,A first-aid kit instruction manual,y
+529,39,h3,Camping With Kids,n
+531,39,p,The supplies you need for kid-friendly camping trips depend on your child’s age and where you’re staying.,n
+533,39,p,"For example, you might need",n
+534,39,ul,,n
+536,534,li,Indoor and outdoor toys,y
+538,534,li,Pop-up playpens,y
+540,534,li,A crib or bassinet,y
+542,534,li,A wearable baby carrier,y
+544,534,li,A portable baby bathtub,y
+546,534,li,A baby monitor,y
+548,534,li,Baby wipes and diapers,y
+550,534,li,Baby food,y
+552,534,li,An outdoor high chair,y
+554,534,li,Child-sized camping chairs,y
+558,39,h3,Camping With Pets,n
+560,39,p,Always consult individual campgrounds regarding pet policies and specific guidelines.,n
+562,39,p,"If you are camping with your dog, bring along everything your four-legged friend needs to have a good time:",n
+563,39,ul,,n
+565,563,li,Waste disposal bags,y
+567,563,li,Dog food and treats,y
+569,563,li,Food and water bowls,y
+571,563,li,Outdoor dog toys,y
+573,563,li,A pet bed,y
+575,563,li,A dog leash and harness,y
+577,563,li,Dog ID tags,y
+579,563,li,A pet first-aid kit,y
+581,563,li,Vet records,y
+585,563,li,Directions to the nearest emergency vet,y
+587,39,h3,Personal Belongings,y
+589,39,p,"As you are packing your bags, do not overlook the everyday essentials.",n
+591,39,p,Make sure you have these personal belongings,n
+592,39,ul,,n
+594,592,li,A cell phone and charger,y
+596,592,li,Your wallet with credit cards and legal ID inside,y
+598,592,li,Your keys,y
+600,592,li,Lip balm with SPF,y
+602,592,li,"All licenses and permits, including your driver’s license, fishing license, etc.",y
+604,592,li,"your campsite reservation confirmation, if applicable",y
+606,592,li,An insulated water bottle,y
+608,592,li,A travel-sized umbrella,y
+610,39,h3,Click here to Download the PDF Checklist!,y
+612,39,h2,America,n
+614,39,p,"With more than 500 locations across North America, there is always a KOA nearby for your next camping trip. Choose from a variety of comfortable lodging options , including Camping Cabins and Deluxe Cabins, as well as Tent Sites, RV Sites, Glamping Tents and more. At KOA, you will also enjoy access to helpful staff members and on-site amenities. Visit KOA online to learn more and reserve your stay today!",n
+628,38,div,,n
+629,628,h2,,n
+630,629,text,GET YOUR COPY OF,n
+632,629,text,!,n
+635,628,p,"Each month, direct to your email inbox, we'll send the best camping news, tips, recipes and more, to enhance the camping lifestyle you love so much.",n
+642,37,div,,n
+643,642,div,,n
+645,643,h2,POPULAR STORIES,n
+648,643,div,7 Things Every First-Time Camper Should Know | Camping Essentials,n
+651,643,div,Tips,n
+654,643,div,8 Questions to Ask to Book Your Perfect Campsite,n
+657,643,div,6 Ways to Get Tech Addicted Kids Camping,n
+660,642,h3,MORE PLACES TO DREAM AND PLAY,n
+673,0,span,Feedback,n

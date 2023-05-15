@@ -1,0 +1,152 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+361,0,div,,n
+365,361,h1,Thomas Jefferson Middle,n
+366,361,div,,n
+367,366,div,,n
+369,367,h2,You are here,n
+372,367,li,Home,n
+382,367,div,Share,n
+385,366,div,,n
+386,385,div,,n
+387,386,div,,n
+394,387,div,"Patriot Now, Patriot Forever",n
+395,387,div,,n
+397,395,div,Address,n
+399,395,div,,n
+402,399,div,1501 Rangeland Road,n
+403,399,div,,n
+405,403,span,Louisville,n
+406,403,text,",",n
+408,403,span,KY,n
+410,403,span,40219,n
+414,387,div,Map and Directions,n
+417,387,div,Phone,n
+423,387,div,Fax,n
+430,387,div,School Website,n
+434,387,div,Racial Equity Plan,n
+435,386,div,,n
+436,435,div,,n
+439,436,h2,Summary,n
+440,436,div,,n
+442,440,div,Level,n
+445,440,div,Middle,n
+446,436,div,,n
+448,446,div,Attendance Area,n
+452,446,div,Thomas_Jefferson_Middle-boundary-map.pdf,n
+453,435,div,,n
+456,453,h2,School Leadership,n
+457,453,div,,n
+459,457,div,Assistant Superintendent,n
+462,457,div,Nathan Meyer,n
+463,453,div,,n
+465,463,div,Board Member,n
+468,463,div,Corrie Shull,n
+469,453,div,,n
+471,469,div,Principal,n
+474,469,div,Josh Bourgeois,n
+475,435,div,,n
+478,475,h2,Important Links,n
+482,475,ul,,n
+484,482,li,School Report Card,n
+486,482,li,School Plan,n
+488,482,li,Student Promotion or Progression,n
+490,482,li,Student Support and Behavior Intervention Handbook,n
+492,482,li,SBDM Minutes,n
+494,482,li,Fundamental Supply List,n
+496,482,li,Nondiscrimination Policy,n
+497,385,div,,n
+499,497,h2,Tabbed content,n
+500,497,div,,n
+501,500,ul,,n
+504,501,li,Overview,n
+509,501,li,Programs,n
+512,501,li,School Data,n
+515,501,li,Get Involved,n
+516,500,div,,n
+517,516,fieldset,,n
+520,517,span,Overview,n
+524,517,div,,n
+529,524,div,Thomas Jefferson Middle,n
+531,524,h4,School Highlights,n
+532,524,ul,,n
+534,532,li,"Thomas Jefferson Middle School offers the district's only Digital and Global Leadership Magnet Program, which offers the following courses:",n
+536,532,li,"Digital Art—Mixed Media, Drawing, Photography, Animation, Digital Design, 3-D Printing DR Animation, Digital Design, 3-D Printing",n
+538,532,li,"Digital Media—Camera Angles, Lighting Elements, Green Screen, Web Design, Advertising",n
+540,532,li,"Digital Music—Digital Editing, Digital Composition and Collaboration, Sound Design",n
+542,532,li,"Gaming—Game Building Techniques, Game Design, Coding With Javascript",n
+544,532,li,"Robotics—LEGO Robot, VEX IQ, and VEX EDR",n
+546,532,li,"Sports—Team Sports, Health and Nutrition, Personal Training",n
+548,532,li,We are a 1:1 Chromebook school.,n
+550,532,li,"Offers the Leadership Pathway, with field experiences, access to Pathway Professionals, the Leader in Me curriculum, and Junior Achievement",n
+552,532,li,The Patriot Pride Academy helps sixth graders make a successful transition to middle school. Sixth graders are separate from the seventh and eighth grades so that their team teachers can focus on supporting them through social- emotional lessons specifically for sixth-grade students.,n
+554,532,li,Offers Advanced Placement courses and Gifted and Talented Program,n
+556,532,li,TJMS is a no-uniform school and supports student expression through a dress code policy.,n
+558,532,li,"TJMS offers an extensive selection of sports, including basketball, baseball, soccer, track, step team, and cheerleading.",n
+560,532,li,Activities,n
+561,516,fieldset,,n
+564,561,span,Programs,n
+573,561,li,Digtial and Global Leadership,n
+576,516,fieldset,,n
+579,576,span,School Data,n
+585,576,div,,n
+586,585,tr,,n
+588,586,td,Enrollment,n
+590,586,td,% Full-Time Teachers with master's degree or higher in,n
+592,586,td,Student Satisfaction With School 2019,n
+594,586,td,Parent Satisfaction With School 2019,n
+596,586,td,% TEACHER TELL-Overall good place to work,n
+598,586,td,Combined Reading and Math,n
+599,585,tr,,n
+601,599,td,1070,n
+603,599,td,65%,n
+605,599,td,62%,n
+607,599,td,78%,n
+609,599,td,80%,n
+611,599,td,24%,n
+612,516,fieldset,,n
+615,612,span,Get Involved,n
+620,612,ul,,n
+622,620,li,15th District PTA,n
+624,620,li,SBDM,n
+626,620,li,Volunteer,n
+632,361,div,,n
+639,632,ul,,n
+641,639,li,About,n
+645,639,li,Learning,n
+647,639,li,Support,n
+649,639,li,Activities,n
+653,632,div,,n
+661,653,div,,n
+666,661,p,Jefferson County Public Schools,n
+667,661,p,,n
+668,667,text,VanHoose Education Center,n
+670,667,br,3332 Newburg Road,n
+672,667,br,"Louisville, KY 40218",n
+676,661,p,Employee Directory,n
+695,653,div,,n
+697,695,h3,Contact Us,n
+699,695,h4,JCPS Call Center,n
+701,695,p,313-HELP,n
+703,695,p,jcps.help@jefferson.kyschools.us,n
+705,695,p,More Contact Options,n
+707,695,h4,Technical Problems—IT Service Desk,n
+708,695,p,,n
+709,708,text,Weekly maintenance,n
+711,708,br,Friday between 3 and 6 p.m.,n
+715,695,h4,Website ADA Accessibility,n
+717,695,p,this website call,n
+727,653,div,,n
+731,727,p,JCPS Facts,n
+734,727,p,Equal Opportunity or Affirmative Action Employer Offering Equal Educational Opportunities,n
+737,727,p,Nutrition and Physical Activity Annual Report,n
+740,727,p,Section 504 and Title II Grievances,n
+743,727,p,Questions about Section 504,n
+748,727,p,Donate,n
+758,632,div,,n
+760,758,div,Copyright © 2018 Jefferson County Public Schools,n
+762,758,div,Legal Notices,n
+787,0,div,,n
+793,787,h1,Original text,n
+799,787,div,Contribute a better translation,n
+806,0,div,ShareThis Copy and Paste,n

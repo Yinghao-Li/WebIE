@@ -1,0 +1,298 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+33,3,h1,How to Build a Skin Care Routine,n
+34,3,div,,n
+35,34,section,,n
+37,35,div,,n
+39,37,p,,n
+40,39,text,By,n
+42,39,span,Kari Molvar,n
+45,37,p,"Illustrations by Konstantin Kakanias, Animation by Jonathan Eden",n
+52,35,p,"Great skin is not simply a matter of DNA — your daily habits, in fact, have a big impact on what you see in the mirror. But depending on which product reviews you read or doctors you consult, there is a dizzying number of opinions on everything from how to moisturize to how to protect yourself from UV rays. Ultimately, caring for your skin is simply personal. Here’s what you should keep in mind to sort through all the noise.",n
+65,34,div,,n
+68,65,h2,Skin Care Tips Before You Start,n
+69,65,div,,n
+71,69,div,,n
+73,71,h3,Three Main Steps,n
+75,71,div,,n
+77,75,p,your skin-care routine as consisting of three main steps:,n
+78,75,ul,,n
+81,78,li,Cleansing — Washing your face.,n
+84,78,li,Toning — Balancing the skin.,n
+85,78,li,,n
+87,85,strong,Moisturizing,n
+88,85,text,—,n
+90,85,strong,Hydrating and softening the skin.,n
+92,75,p,"The goal of any skin-care routine is to tune up your complexion so it’s functioning at its best, and also troubleshoot or target any areas you want to work on. “Beauty routines are an opportunity to notice changes within yourself,” says the San Francisco skin-care specialist Kristina Holey. As your skin needs shifts with age, so will your products. Still, she adds, “it’s not about creating perfection.” Allow these three steps to become your daily ritual that fortifies your skin and grounds your day.",n
+95,69,div,,n
+97,95,h3,Give it Time,n
+99,95,div,,n
+100,99,p,,n
+101,100,text,The science behind skin-care products has come a long way but there’s still no such thing as an instant fix —,n
+103,100,strong,"you need time to reap the benefits,",n
+104,100,text,"says Dr. Rachel Nazarian, a Manhattan dermatologist at Schweiger Dermatology Group. “Results are only seen through consistent use,” she explains.",n
+106,100,strong,"Generally, aim to use a product over at least six weeks, once or twice daily, to notice a difference.",n
+108,99,p,,n
+110,108,strong,Tip,n
+111,108,text,"— from thinnest to thickest. For example, cleanser, toner , serum, and then moisturizer.",n
+115,69,div,,n
+117,115,h3,More on Skin Care Basics,n
+121,115,div,,n
+123,121,h4,Health and Happiness in a Bottle,n
+125,121,p,"August 14, 2017",n
+129,115,div,,n
+131,129,h4,Skincare Advice From a Budapest-Based Beauty Founder,n
+133,129,p,"May 10, 2016",n
+137,115,div,,n
+139,137,h4,"Wellness, Beauty and Style — According to a French Ballet Star",n
+141,137,p,"August 11, 2016",n
+145,115,div,,n
+147,145,h4,A Parisian Editor’s Best Natural Beauty Advice,n
+149,145,p,"April 18, 2016",n
+153,34,div,,n
+156,153,h2,Cleansing,n
+158,153,div,,n
+163,158,p,,n
+164,163,text,"Washing your face is the most basic and essential step of any routine, says the New York City dermatologist Dr. Carlos Charles. “Our skin comes in contact with environmental pollutants, dirt and other factors each day that should be gently removed.”",n
+166,163,strong,"Wash twice a day, morning and night, to avoid clogged pores, dullness and acne.",n
+168,158,div,,n
+170,168,h3,Find Your Facial Cleanser,y
+172,168,div,,n
+174,172,p,"The right formula cleanses your skin without stripping essential, healthy oils. Take it easy with exfoliating scrubs and avoid those with crushed walnut shells or abrasive ingredients.",n
+176,172,p,"For everyday cleansing, here’s what to look for:",n
+179,158,div,,n
+181,179,h3,What Does Non-Comedogenic Mean Exactly?,n
+184,179,p,,n
+185,184,text,"This term frequently appears on product labels and is used by skin-care experts but not always defined in simple, clear language. Here’s a quick explanation:",n
+187,184,strong,If a product claims to be non-comedogenic it means that it shouldn’t clog pores or trigger acne,n
+188,184,text,"— either by occluding the skin, blocking glands or irritating the hair follicle. The claim is not regulated by the F.D.A., however, and many companies do their own internal tests to determine whether a product should be considered comedogenic or not. Typically, the fewer ingredients a product has, the easier it is to determine if it will cause any reactions.",n
+193,158,div,,n
+195,193,h4,How to Wash Your Face Like a Pro,n
+198,193,p,Did you know there's a best way to wash your face? Here's how skin-care specialist Kristina Holey does it.,n
+200,193,button,Try it,n
+213,34,div,,n
+216,213,h2,Toning,n
+218,213,div,,n
+220,218,div,,n
+222,220,h3,How to Use Toner,n
+224,220,div,,n
+225,224,p,,n
+226,225,text,"For many, the word “toner” brings to mind stinging astringents from the ’80s. “The original was an alcohol-based product that was used to dry up oily skin and remove any leftover dirt following cleansing,” Dr. Nazarian says. Today’s formulas, however, have evolved. Think of them as supplements — these thin liquids deliver an extra shot of nutrients, helping the other products in your regimen absorb better, while still balancing your complexion. Most experts, the New York City aesthetician",n
+228,225,ins,Jordana Mattioli,n
+229,225,text,"says, consider toner to be optional",n
+230,224,ul,,n
+231,230,li,,n
+233,231,strong,Alpha and beta hydroxy acids,n
+234,231,text,"to gently remove dead skin cells that can clog pores, improve sun-damaged skin and minimize dullness.",n
+238,230,li,"to boost hydration, seal in dewiness and plump skin to subtly treat fine lines.",n
+239,230,li,,n
+241,239,strong,Rose water and green tea,n
+242,239,text,to calm irritation and reduce redness with an anti-inflammatory effect.,n
+243,230,li,,n
+245,243,strong,Vitamin E and C,n
+246,243,text,to fight daily exposure to free radicals that can age your skin.,n
+248,218,div,,n
+250,248,h3,What is Toner?,n
+252,248,div,,n
+253,252,p,,n
+255,253,strong,"“Toners should be done after cleansing and before putting on anything else,”",n
+256,253,text,"Mattioli says. The traditional application method is to saturate a cotton pad and pass it over your face. But, as Mattioli points out, “You end up losing a lot of product.”",n
+258,252,p,,n
+260,258,strong,Tip,n
+261,258,text,"“Applying toner with clean hands is the most efficient. Just pour a few drops in your palm, then swipe it on.” Or if you prefer, you can pull apart a cotton pad “so it’s not so thick before putting toner on it,” Mattioli advises.",n
+263,258,strong,"Most formulas can be used morning and night, but you might want to use those with exfoliating acids only at night or every other day.",n
+266,218,div,,n
+268,266,h3,More on Cleansing and Toners,n
+272,266,div,,n
+274,272,h4,To Wear Makeup or Not to Wear Makeup?,n
+276,272,p,"October 10, 2016",n
+280,266,div,,n
+282,280,h4,The Simple Yet Effective Beauty Product Application to Know,n
+284,280,p,"June 3, 2016",n
+288,266,div,,n
+290,288,h4,A New Three-Piece Beauty Line,n
+292,288,p,"January 9, 2017",n
+296,34,div,,n
+299,296,h2,Treating With Serums,n
+301,296,div,,n
+305,301,div,,n
+306,305,p,,n
+307,306,text,"Simply put,",n
+309,306,strong,serums are powerful skin allies.,n
+310,306,text,"Filled with concentrated doses of active ingredients, these elixirs can mitigate a number of issues, from dark spots to wrinkles. “Even if you don’t have any specific issues, everyone still needs a general antioxidant serum in the morning to protect from daily aggressors,” Mattioli says. While there are “limitless options” for ingredients, Nazarian singles out her hardworking favorites. To handle specific issues, look for these products:",n
+311,305,ul,,n
+315,311,li,to seal in hydration and strengthen the barrier function to prevent moisture loss.,n
+316,311,li,,n
+318,316,strong,Vitamin C,n
+319,316,text,to help brighten dull skin and decrease dark spots with continued use.,n
+320,311,li,,n
+322,320,strong,"Retinol, vitamin B3, peptides",n
+323,320,text,"to stimulate the production of collagen and elastin, proteins in the body that help prevent lines and skin sagging.",n
+324,311,li,,n
+326,324,strong,"Colloidal sulfur, niacinamide",n
+327,324,text,"to calm redness and irritation by decreasing inflammation, and improve acne with its antimicrobial effects.",n
+329,301,div,,n
+331,329,h3,Helpful Hints and Pointers,n
+333,329,div,,n
+334,333,p,,n
+336,334,strong,"If you have multiple concerns, you might want to use multiple formulas.",n
+337,334,text,"“I recommend treating different areas with different products,” Mattioli says. “Maybe you’ll use a vitamin C serum all over but then dab on for hyperpigmentation on just a few spots.” Just run any combination by your dermatologist to avoid any potential reactions.",n
+338,333,p,,n
+340,338,strong,"To save time, don’t try mixing a serum into your moisturizer.",n
+341,338,text,"This “lessens the ability of the serum to absorb effectively,” Dr. Nazarian says. “Products should be applied one by one.”",n
+342,333,p,,n
+344,342,strong,Not all serums are applied with the same frequency.,n
+345,342,text,"“This varies with the ingredients,” Dr. Nazarian says. “I prefer antioxidants in the morning because they give you additional protection from the environment, and most of us don’t use enough sunscreen as is,” Mattioli says. Yet certain ingredients are best when slathered on at night. For example: “Retinols are not sun-stable and will degrade if applied in daytime,” Dr. Nazarian explains. Bottom line: Read the label instructions carefully.",n
+354,34,div,,n
+357,354,h2,Moisturizing,n
+359,354,div,,n
+364,359,p,,n
+365,364,text,"The most basic function of a moisturizer is to hydrate and soften the skin. “Essentially, moisturizers assist in preventing water loss through the outer layers of skin,” Dr. Charles explains. “They can also complement the naturally found protective oils and other building blocks within the skin, such as ceramides.”",n
+367,364,strong,"This is one product that doctors recommend using year-round,",n
+368,364,text,"“Skin naturally loses the ability to retain moisture as we age,” Dr. Nazarian insists, “and daily activities, such as washing, can strip natural hydrators from the surface.”",n
+379,359,div,,n
+381,379,h3,The Difference Between a Day and Night Cream,n
+385,379,p,"Creams you apply in the morning are equipped to protect your skin from the environmental aggressors you’ll face when you leave the house—many contain antioxidants to minimize pollution-based free radicals and sunscreen to shield you from ultraviolet radiation. They typically have a lightweight consistency. Night creams, on the other hand, focus on repairing any damage you might have picked up with ingredients like retinol to speed cellular turnover and counteract dark spots. These creams also replenish moisture levels, which naturally dip in the evening, with emollients that often create a rich, thick texture.",n
+387,359,div,,n
+389,387,h3,"Eye Creams, Explained",n
+391,387,div,,n
+393,391,p,"Can you survive without an eye cream? Absolutely. But, if you have specific concerns — like hyperpigmentation, dryness or puffiness — you might want to try one. “The skin around the eyes is quite thin and delicate, and more likely to react to irritating ingredients than other areas,” Dr. Nazarian says. “Therefore, dermatologists typically recommend an eye cream that considers the potential sensitivity and has more tolerable concentrations of active ingredients.”",n
+395,391,p,,n
+396,395,text,"For undereye bags and inflammation, caffeine, peptides and hyaluronic acid can be soothing, Mattioli says. “Dark circles can be due to visible veins or actual discoloration common in darker skin tones,” she says. “Look for brightening ingredients like vitamin C, kojic acid and niacinamide.”",n
+399,395,text,"strong retinols and fragrance, to avoid any eye irritation.",n
+412,34,div,,n
+415,412,h2,Protect With Sunscreen,n
+420,412,div,,n
+433,420,div,,n
+435,433,h3,Decoding Sunscreen Formulas,n
+437,433,div,,n
+439,437,p,There’s a lot of debate over which sunscreens are best and safest for your complexion. You have two types of ingredients in formulas:,n
+441,437,li,,n
+443,441,strong,Chemical,n
+445,441,strong,ingredients,n
+446,441,text,", such as oxybenzone and octinoxate, which are absorbed into your skin to counteract the damage from ultraviolet light",n
+451,437,li,"Lightweight, easy to apply and transparent on the skin.",n
+454,437,ul,,n
+456,454,li,Can irritate and cause reactions in those with sensitive skin.,n
+458,454,li,Certain ingredients like oxybenzone have raised health concerns and carry a “high hazard” rating on the Environmental Working Group’s Skin Deep Cosmetic Database.,n
+459,454,li,,n
+461,459,strong,Physical ingredients,n
+462,459,text,", such as titanium dioxide and zinc oxide, that sit on top of your skin to deflect or prevent UV rays from entering your body.",n
+467,437,li,irritation or health concerns.,n
+472,437,li,"Often leave a white or grayish tint on the skin, particularly in those with darker skin tones.",n
+476,437,p,"“I typically advocate the use of sunscreens that contain a combination of physical and chemical blocking components,” Dr. Charles says. “These will provide protection from both UVA and UVB rays, and typically do not create any visible residue.”",n
+478,420,div,,n
+480,478,h3,Sunscreen Application 101,n
+483,478,p,,n
+484,483,text,"thumb, according to Dr. Nazarian: “",n
+486,483,strong,"Apply sunscreen 30 minutes before sun exposure, and reapply at least every two hours.",n
+487,483,text,"Chemical sunscreens should be applied directly to clean skin, while physical blockers can be applied last in your skin-care regimen, but before makeup is applied.",n
+489,483,strong,"About two tablespoons of sunscreen are appropriate to cover your face and exposed areas of your body; within that amount, use a nickel-size dollop to cover your face.”",n
+503,420,div,,n
+505,503,h3,More on Sunscreens,n
+509,503,div,,n
+511,509,h4,Hitting the Beach? An Umbrella Is Not Enough,n
+513,509,p,"January 19, 2017",n
+517,503,div,,n
+519,517,h4,Six Sunscreens That Actually Improve Your Skin,n
+521,517,p,"July 25, 2016",n
+525,503,div,,n
+527,525,h4,Slathering on Sunscreen Shows Results,n
+529,525,p,"June 3, 2013",n
+538,34,div,,n
+541,538,h2,Any Questions?,n
+542,538,div,,n
+545,542,div,,n
+547,545,h3,Are Face Masks Worth All the Hype?,n
+549,545,div,,n
+551,549,p,"To say that face masks have become popular lately is a bit of an understatement — Sephora has more than 400 varieties . Masks “offer highly concentrated treatments to address specific issues,” says New York City dermatologist Dr. Joshua Zeichner. But unlike a toner or a serum, masks deliver ingredients under occlusion, which helps the ingredients absorb more efficiently, notes Dr. Nazarian.",n
+554,549,p,Then there’s the fun factor,n
+557,549,p,"If you want to give one a whirl, here are three performance-driven varieties to consider, according to Mattioli:",n
+561,549,p,Sheet masks,n
+566,549,p,Sleeping packs or overnight masks,n
+569,549,p,,n
+571,569,strong,Clay or mud masks,n
+572,569,text,"""These absorb oil and can have a mild exfoliating effect — so they’re great for oily areas. You don’t have to put it on your whole face, though. You can target just a few areas. In fact, I love multi-masking: using a clay on the t-zone and a hydrating one everywhere else.”",n
+576,549,p,"Apply masks after serum but before moisturizer, unless it’s a leave-on overnight mask, which can take the place of your nighttime moisturizer. Like any product that supplements your regular routine, masks should be used in moderation — no more than once a week to prevent any irritation, Dr. Zeichner says.",n
+579,542,div,,n
+581,579,h3,Do I Need Any Special Tools?,n
+583,579,div,,n
+585,583,p,Not really. A simple washcloth really does most of the work. But who needs a spa appointment when the latest skin-care gadgets — and one surprisingly analog standby — bring the same technology to your bathroom?,n
+588,583,p,Here are a few we recommend,n
+592,583,p,Washcloth,n
+595,583,p,,n
+597,595,strong,Sonic cleansing,n
+600,595,ins,Clarisonic Mia 1 Facial Cleansing Brush,n
+601,595,text,", $129]",n
+603,583,p,,n
+605,603,strong,LED light therapy,n
+608,603,ins,Skin Inc Optimizer Voyage Tri-Light,n
+609,603,text,", $265]",n
+611,583,p,,n
+613,611,strong,Microcurrent waves,n
+616,611,ins,NuFace Trinity Facial Toning Device,n
+617,611,text,", $325]",n
+619,583,p,,n
+621,619,strong,Fractional non-ablative laser,n
+624,619,ins,Tria Beauty SmoothBeauty Laser,n
+625,619,text,", $495]",n
+628,542,div,,n
+630,628,h3,What Is a Face Oil?,n
+632,628,div,,n
+633,632,p,,n
+634,633,text,"Touted as a pure and natural way to improve your skin, botanical facial oils — infused with plant and farm-fresh extracts — have exploded into the mainstream market lately. Still, experts often advise caution when dousing yourself, as not all oils are created equal.",n
+636,633,strong,"skin irritation,”",n
+637,633,text,Dr. Nazarian says.,n
+640,632,p,Facial Oils,n
+641,632,ul,,n
+643,641,li,Intensely hydrate without leaving a greasy residue. Look for: maracuja oil.,n
+645,641,li,Brighten and even out your skin tone. Look for: olive oil.,n
+647,641,li,Rid bacteria and soothe acne-prone skin. Look for: marula oil.,n
+649,641,li,rosacea. Look for: rosehip oil.,n
+652,632,p,How and When to Use an Oil,n
+653,632,p,,n
+654,653,text,"Most facial oils can be used twice daily, both morning and night.",n
+656,653,strong,"They should be applied after facial serums and gels, but before your creams and lotions.",n
+657,653,text,"Spread a dime-size amount between your palms and pat it on, targeting the outer areas of the face, and then sweeping in toward the center, around your eyes, nose and lips.",n
+660,542,div,,n
+662,660,h3,What Can I Do When My Skin Gets Irritated?,n
+664,660,div,,n
+665,664,p,,n
+666,665,text,Many times,n
+668,665,strong,"skin irritation, from acne to eczema, can be traced back to overzealous habits.",n
+669,665,text,"“Unfortunately, a lot of what I do is get people back to having healthy skin from overuse of products — stripping cleansers, items that over-exfoliate or contain sensitizing ingredients — which they were using as a foundation for healthy skin but it took them farther away from it,” Holey says. To bring your skin back to its baseline, she suggests the following holistic remedies:",n
+671,664,ul,,n
+672,671,li,,n
+673,672,text,Run,n
+675,672,strong,cold water,n
+676,672,text,"over your pulse points, such as your wrists, to lower your internal body temperature, which calms your skin, too.",n
+677,671,li,,n
+678,677,text,Apply an,n
+680,677,strong,oatmeal mask,n
+681,677,text,"to rid yourself of inflammation. Mix dried oats with a few spoonfuls of water. Spread this paste on your skin, and let it sit until it’s semi-dry, then rinse off.",n
+682,671,li,,n
+683,682,text,"Use chilled, steeped",n
+685,682,strong,green tea,n
+686,682,text,"as a rinse that you splash on your face. EGCG , a polyphenol in green tea, has an “immediate soothing effect,” Holey says.",n
+687,671,li,,n
+688,687,text,Try,n
+690,687,strong,acupuncture,n
+691,687,text,"to improve circulation, digestion and immunity internally, all of which supports healthy skin externally. Holey recommends weekly treatments initially, then monthly maintenance sessions.",n
+692,671,li,,n
+694,692,strong,Live well,n
+695,692,text,"you can read stress on your face — literally, since high levels of cortisol can weaken your skin, bring on acne and even accelerate wrinkling. Holey’s advice? Exercise regularly, get your rest, meditate or find ways to feel positive. The results will show.",n
+698,3,div,,n
+701,698,h2,About the Author,n
+703,698,div,,n
+706,703,p,"Kari Molvar is a freelance beauty writer with a specialty, and special obsession, with skincare. She is a frequent digital contributor to T Magazine.",n
+708,703,p,Twitter,n
+714,3,div,,n
+715,714,ul,,n
+717,715,li,NYTimes.com,n
+719,715,li,Guides,n
+721,715,li,Send us Feedback,n
+722,714,ul,,n
+724,722,li,Privacy Policy,n
+726,722,li,Service,n
+728,722,li,© The New York Times Company,n

@@ -1,0 +1,113 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+6,5,div,,n
+8,6,div,,n
+12,8,h1,First Year Supply List,n
+16,8,ul,,n
+18,16,li,Kent,n
+20,16,li,Architecture and Environmental Design,n
+23,16,li,First Year Supply List,n
+27,6,div,,n
+28,27,h2,,n
+29,28,text,First Year Supply List,n
+31,28,br,Fall 2020,n
+50,27,p,Architecture and Environmental Design,n
+69,27,p,AED 10101 + 10102 Design Foundations Studio I and II 07.30.2019,n
+89,27,p,MATERIALS LIST _________________________________________________________,n
+111,27,p,Architecture and Environmental Design:,n
+112,27,ul,,n
+120,112,li,Vyco Vinyl Desktop Cover and Drawing Board,n
+128,112,li,Drafting lamp,n
+136,112,li,Storage cabinet,n
+156,27,p,MATERIALS LIST,n
+157,27,ul,,n
+161,157,li,,n
+165,161,span,Drafting Chair [,y
+168,161,span,"While there are many acceptable options from which to choose, the Boss B16216 Mesh Drafting Stool with adjustable seat and with or without arms is recommended. In addition, we recommend that you purchase a set of soft rubber caster wheels as the hard casters standard on this type of chair will not effectively grip the polished concrete floors in the new building. Of course you DO NOT need to purchase this particular chair but do remember that you will be using this for the next 4 to 5 years and comfort and durability are key. Students are encouraged to use a cable lock to secure their stool to their assigned desk. During the semester, students usually leave their supplies and stools locked up in studio as we encourage you to do most if not all your studio work in the studio.",n
+174,161,span,],n
+182,157,li,36” Aluminum T-square,y
+190,157,li,Fine Art Pencils,y
+198,157,li,Good quality pencil sharpener,y
+202,157,li,,n
+206,202,span,8” Acrylic,n
+210,202,span,Adjustable Triangle,y
+218,157,li,45 Degree Triangle,y
+226,157,li,30 or 60 Degree Triangle,y
+234,157,li,Circle Template,y
+242,157,li,Magic Rub Eraser,y
+250,157,li,Kneaded eraser,y
+258,157,li,Metal Erasing Shield,y
+262,157,li,,n
+266,262,span,Triangular A,n
+270,262,span,rchitect’s,n
+274,262,span,Scale,y
+282,157,li,Drafting tape,y
+290,157,li,X-Acto Knife and No. 11 Blades,y
+298,157,li,Vinyl Self-healing Cutting Mat,y
+302,157,li,,n
+306,302,span,24” Flexible Stainless Steel Flat Ruler with,y
+310,302,span,Cork Backing,y
+318,157,li,Scissors,y
+326,157,li,Rubber Cement,y
+334,157,li,India Ink,y
+335,157,li,,n
+342,335,span,Painting Supplies_,n
+343,335,ul,,n
+351,343,li,5 different tubes,y
+361,343,li,3 different sized brushes,y
+369,343,li,some type such as a tin or glass pie plate,y
+377,343,li,small jars,y
+385,157,li,Several Fine Line and Regular Tip Sharpie Markers,y
+393,157,li,Compressed Charcoal Sticks,y
+397,157,li,,n
+401,397,span,18”,n
+405,397,span,Roll YellowithWhite Tracing Paper,y
+409,157,li,,n
+413,409,span,19” X 24” Strathmore Bristol V,n
+417,409,span,ellum Tablet,y
+421,157,li,,n
+425,421,span,5”,n
+429,421,span,X,n
+433,421,span,25” Sketchbook,y
+441,157,li,Stainless steel push pins,y
+449,157,li,Storage box,y
+457,157,li,Combination or key lock to secure your storage locker,y
+477,27,p,The following items will need to be purchased as specific exercises or projects are assigned:,n
+478,27,ul,,n
+486,478,li,Model Building Materials,y
+494,478,li,Various Model Building Glues,y
+502,478,li,A camera . You may plan to share with other students.,n
+522,27,p,Materials can be purchased online or from the following local supply locations when you arrive on campus:,n
+524,27,ul,,n
+544,524,li,Kent State University Bookstore,n
+564,524,li,"All Media Art Supply, 417 E. Main Street, Kent, OH",n
+584,524,li,Utrecht,n
+604,524,li,AA Blueprint,n
+624,524,li,Pat Catan,n
+644,524,li,Office Max,n
+664,524,li,Staples,n
+684,27,p,"In addition, a Blick-U shopping list has been created at www.dickblick.com . You may find the list by searching Blick-U lists for Kent State University and AED 10101. Dick Blick often offers a 20% discount and free shipping for orders over $45. This list has been created for your information and convenience – please feel free to shop around for comparable supplies.",n
+704,27,p,,n
+708,704,span,COMPUTER REQUIREMENT,n
+712,704,span,The college requires that students entering the CAED have a mid-range to high-end consumer-grade laptop. Please see,n
+716,704,span,,n
+719,716,text,for detailed specifications.,n
+721,716,span,The College will update these specifications on an annual or biannual basis to match advances in software and hardware requirements.,n
+745,27,p,Please note the Design Foundations Studio requires that the following software is installed and running on your laptop:,n
+750,27,li,,n
+754,750,span,Adobe Creative Cloud Suite and Rhino 6 please see,n
+760,750,span,for purchase information,n
+770,27,h3,Printable PDF Version,n
+774,27,div,,n
+776,774,h2,Design Foundation Materials List_AY2021.pdf,n
+779,774,div,Design Foundation Materials List_AY2021.pdf,n
+791,5,ul,,n
+793,791,li,About,n
+795,791,li,Academics,n
+797,791,li,Faculty and Staff,n
+799,791,li,Research,n
+801,791,li,Connect,n
+803,791,li,Advising,n
+805,791,li,News and Events,n
+807,791,li,Visit CAED,n

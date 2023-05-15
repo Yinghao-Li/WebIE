@@ -1,0 +1,92 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+5,3,span,Gear List,n
+8,3,span,admin,n
+10,3,span,-04T12:55:05+12:00,n
+16,3,div,,n
+19,16,h2,What to bring,n
+21,16,p,"We recommend you wear or bring along all the gear as listed below, depending on the kayak trip you’re taking. There are a few different lists for the different trips:",n
+22,16,ul,,n
+24,22,li,"Maori Carvings, Full Day, Wilderness, Fishing and Ultimate Escape Trips",n
+26,22,li,Float and Squeeze Trips,n
+28,22,li,Overnight Stays,n
+30,22,li,Fishing Tours,n
+32,22,li,Mountain Biking,n
+36,16,h2,"Māori Carvings, Full Day, Wilderness, Fishing and Ultimate Escape Trips",n
+98,16,p,Note,n
+100,16,p,Maori Carvings and Full Day Trip,n
+101,16,p,,n
+102,101,text,Ultimate Escape,n
+104,101,br,clothing .,n
+108,16,h2,Float and Squeeze Trips,n
+172,16,h2,Overnight Stays,n
+184,16,div,,n
+185,184,td,,n
+186,185,ul,,n
+206,186,li,Waterproof Raincoat or Water proof Trousers,y
+208,186,li,Thermal or Fleece Top,y
+210,186,li,Warm or thermal gloves,y
+212,186,li,clothing,y
+214,186,li,Sleeping wear,y
+216,186,li,Toilet gear and medication,y
+220,186,li,Torches or batteries,y
+222,186,li,Large plastic bags or dry bag,y
+224,186,li,Sleeping Bag or Mat,y
+226,185,p,If cycling,n
+229,184,ul,,n
+235,229,li,Spray deck,y
+245,229,li,Group First Aid kit,y
+247,229,li,Tent,y
+249,229,li,Cooking or Eating Equipment,y
+251,229,li,Plate or mug,y
+253,229,li,Gas Cooker,y
+255,229,li,Food,y
+257,229,li,Candles or Matches or lighter,y
+259,229,li,Puritabs or water purifying tablets,y
+261,229,li,Stalls or Camp chairs,y
+263,229,li,If Cycling,y
+268,16,h2,Geothermal Kayak and Walk Adventures,n
+280,16,div,,n
+282,280,ul,,n
+287,282,li,,n
+289,287,span,Togs,y
+290,287,text,"Please wear swim wear, under paddling clothing",n
+304,282,li,,n
+305,304,text,Walking,n
+307,304,span,gear to get changed into after kayak leg,n
+313,282,li,Rain Jacket,y
+326,280,td,,n
+345,326,p,You may provide your own,n
+349,326,li,Rain Jacket with hood,n
+354,16,h2,Geothermal Walk and Waterfall,n
+418,16,h2,Fishing Tours,n
+430,16,div,,n
+449,430,ul,,n
+453,449,li,Thermal or fleece tops and Pants or,y
+455,449,li,Over Pants,y
+457,430,ul,,n
+465,457,li,Single sit on top kayaks or paddles,y
+467,457,li,Fishing equipment,y
+473,457,li,Fishing License,y
+476,16,h2,Mountain Biking and Kayaking Trips,n
+488,16,div,,n
+518,488,p,Summer Months,n
+537,488,ul,,n
+539,537,li,"Bike, Helmet and puncture repair kit",y
+543,537,li,Jacket,y
+574,16,h2,Mountain Biking,n
+586,16,div,,n
+587,586,td,,n
+591,587,ul,,n
+597,591,li,Comfortable clothing to cycle or walk in,y
+599,591,li,Cycling gloves,y
+603,591,li,Sunglasses,y
+605,591,li,Sun Hat,y
+609,591,li,Camera,y
+612,587,p,For after Tour,n
+615,587,li,clothing,n
+620,586,ul,,n
+622,620,li,"Hard Tail Mountain Bike, Helmet, Repair kit",y
+628,620,li,Safety and emergency gear,y
+632,620,li,Camera,y

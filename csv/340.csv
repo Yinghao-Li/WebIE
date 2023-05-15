@@ -1,0 +1,30 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,table,,n
+5,2,tr,Tennis Equipment and Fashion,n
+20,2,tr,,n
+22,20,h2,Tennis Apparel - Clothes Overview With Pictures,y
+23,20,text,Women's Clothes...,n
+26,20,p,"Through the tennis history, the clothes worn by tennis players have tended to have been completely white. Today, mostly all sorts of colours can bee seen on the tennis court. Clothing should be comfortable and well fitting . Stylish and clean clothing can boost a player's feeling of pride when they step out onto the court. Imaportant are well fitting and adequately ventilated tennis shoes because the feet take a tremendous amount of pounding.",n
+28,20,p,"Also, tennis shoes have to be with soles that can give enough traction on type surface we will be playing on. Also a thicker sole is preferred because zhis will absorb more shock and cushion the knees till playing tennis. Cotton socks becouse abborbent should be good, of course washed atfer every use. Wearing a cap in sunny weather is recommended, Sunglasses also may help when it's sunny to reduce sun's glare.",n
+29,20,text,Men's Clothes...,n
+32,20,h2,Tennis Racquet - Main Description,y
+34,20,p,Tennis Racquet is tennis implement consisting of a handled frame with open hoop across which a network of cord is streched tightly. In tennis sport racquet is used for striking a ball. Because playing with racquets tennis and similar sports are known as racquet sports. Traditionally the frame for racquets was made of laminated wood and strings of animal intestine was most commonly used.,n
+36,20,p,"The traditional tennis racquet size was limited by the strenght and weight of the wooden frame. Because that racquet manufacturers started adding non-wood laminates to wood racquets to improve stiffness. First were made of steel, then of aluminium, and then of carbon fiber composite materials. In time strings has been raplaced by syntethic materials and other polymers. Professional players restrung racquets after every match and amateurs when is necessary .",n
+39,20,p,Traditional Tennis Rackets,n
+43,20,p,Modern Tennis Rackets,n
+46,20,h2,Tennis Equipment - Tennis Shoes - Description And Photos,y
+48,20,p,"In these days sport shoes market is positively choked with strenght footgear. In the not so far history a tennis shoes was intended any canvas passed, rubber bottomed lace up shoe. Now a tennis shoe means shoe specially developed footwear for playing tennis.For tennis players, there are diversity of top quality tennis equipment shoes that will take care of player on the court, raising tennis player's game and safety. There is possibility to choose tennis equipment shoes that have performance advantage depending on type of suface which play . Colors of the tennis equipment shoes are no longer limited, so we have tennis shoes in every possible color.",n
+51,20,p,Tennis Equipment Shoes,n
+54,20,h2,Tennis Balls - Overview And Pictures,y
+56,20,p,"Tennis balls are designed for the tennis game and they have 6,70 cm in diameter and ordinarily color of tennis equipment balls in offical events is light green, in recreational tennis can be in any color. In the history of tennis equipment ,first tennis balls were made of leather stuffed with wool or hair. Today's balls are covered in a fibrous soft felt which changes their aerodynamic properties. Less pressure balls generally have a stiffer feel than more pressurized balls, and except for the Tretorn brand tennis balls equipment, do not bouncing as high brand new pressurized tennis balls. These balls don't lose bounce over time. Due to fuzz loss they get bouncier as they get lighter.With more they balder get, the more they flight ,bounce and spin response changes from what player would require of tennis equipment balls. World production of new tennis equipment balls is about 300,000,000 balls per year.",n
+59,20,p,Tennis Balls Pictures,n
+63,20,h2,Tennis Equipment - Tennis Bags - Basic Particulars,y
+64,20,p,,n
+65,64,text,"As any other part of tennis equipment, tennis bag is developed to provide maximum pleasure for any tennis player today. Every great tennis equipment producer have own tennis bags collection, and tennis bags are today part of tennis fashion - way of sport life. Special design and mixture of eye pleasant of colors make tennis bag an",n
+68,64,span,irreplaceable,n
+69,64,text,today's tennis equipment.,n
+72,20,p,Tennis Equipment Bags Pictures,n
+76,20,p,Next Page,n
+82,2,tr,CONTACT BACK TO TOP,n
+86,2,tr,Copyrightby Tennistheme.com. All Rights Reserved.,n

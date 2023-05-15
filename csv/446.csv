@@ -1,0 +1,140 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+100,0,div,,n
+240,100,div,,n
+241,240,div,,n
+243,241,h1,The Beginner Skier’s Shopping List,n
+244,241,div,,n
+245,244,span,,n
+246,245,text,By,n
+248,245,span,Felice Hardy,n
+251,245,text,"on October 25, 2019",n
+254,245,text,1 Comment,n
+256,244,div,Classic Ski Clothing Ski Clothing,n
+258,241,div,,n
+263,258,p,Photo,n
+266,258,p,"So there you are, contemplating your first-ever ski holiday – and you’re wondering, nervously, “How much kit do I need?” Skiing has a fearsome reputation for being expensive, and given that nearly every ski photo in the newspapers underlines the fact – with a shot of a celeb or royal wreathed in fur-lined designer jacket – it’s no wonder that most people tremble at the cost of all the extras, from ski jacket to Chanel sunnies.",n
+270,258,p,"But they shouldn’t. Skiing’s exclusive, oligarchs-only image is years out of date now, and although there’s plenty of opportunity to spend heavily if you want to, it’s equally possible to equip yourself for a relatively small amount of money. Here’s our beginner skier’s shopping list:",n
+273,258,h2,"Skis, Boots and Poles",y
+275,258,p,"First of all, don’t buy your own skis, boots and poles for your first-ever ski trip. It’s standard to procedure to hire them all, in the ski resort, on your first week – which will cost from about £100, depending on resort and country. Look at our rental guide for advice on how to hire skis and boots in your ski resort.",n
+280,258,h2,Ski Jacket and Pants,y
+282,258,p,"You don’t need to buy a ski jacket or ski pants either. Unlike your boots and skis, these are just the kind of items you can borrow from your friends or family. If no-one can help you, then try one of the companies which rents out these items – a week’s rental of a ski jacket will cost considerably less than buying. If you must buy, then don’t go crazy just yet – wait until you’re in love with the sport before you spend £1,000+ on a state-of-the-art outfit .",n
+290,258,p,"Check out discount stores such as Mountain Warehouse , Amazon , as well as the specialist ski shops like Snow and Rock or Ellis Brigham where you’ll pay anything from £80 upwards for a jacket and £65 upwards for trousers. A good ski jacket will serve you at home, on country walks, as well as on the slopes.",n
+303,258,h2,Goggles,y
+305,258,p,"Much better than sunglasses – which won’t help you when it’s snowing or windy. But make sure you try them on first before you buy or borrow them, so you’re sure they fit. If you’re buying, go to your nearest ski shop, which could be an independent or one of the big chains. Don’t be suckered into spending a fortune on them, as it’s possible to buy a pair likes these Bolle Schuss goggles at £26.24.",n
+311,258,h2,Ski Helmet,y
+313,258,p,"Everyone should wear a helmet when they ski. Beginners are often under the impression that helmets are only for experts. “I don’t ski fast enough to need one,” we’ve heard some people say. But even nursery slopes can be rock hard if you fall on your head, and anyway you could be hit by another skier or snowboarder going by. Expect to pay anything from £30 to £300+ to buy one, depending on style, although most ski equipment shops now have them for hire. We’ve found a unisex helmet here for £32.99. You’ll also need a hat or hood for the evenings: but don’t be tempted to wear one on the slopes instead of your ski helmet. Buy one before you go on holiday if you can – or you can often rent one with your skis and boots.",n
+319,258,h2,Gloves or Mittens,y
+321,258,p,"Your basic ski glove will get soaked both inside and out if you are falling over a lot – a very unpleasant sensation. Waterproof and breathable gloves are a lot better. For really cold hands, mittens are a lot warmer than gloves, and thin glove liners add an extra layer of warmth. You won’t need to spend more than £30 on your gloves or mittens; here are some leather thermal mittens reduced to £19.99.",n
+328,258,h2,Base Layer,y
+330,258,p,"The one thing that is worth buying now is your base layer – what used to be known as ‘thermals’. Despite the name, a base layer provides almost no thermal insulation whatsoever: its purpose is to be dry, and stay that way, no matter how sweaty you get, or how wet the clothing on top of it. This keeps you warm because there’s no evaporation from damp cloth to cool your skin, and is essential in the mountains where periods of intense physical activity are followed by rest in freezing air. Helly Hansen baselayers can now be bought from around £20.",n
+337,258,h2,Mid Layer,y
+339,258,p,"Ideally wear a lightweight down jacket, which gives you an extra layer between the base and your outer jacket. You’ll need this between December and March, sometimes later. However, provided you’ve got a good base layer and a ski jacket, you can wear more-or-less what you like in between. The idea is to build up a layering system under your jacket. Then you add or subtract layers according to the temperature. We’ve found a Columbia men’s padded vest for £51.50, not cheap – but extremely useful on cold days at home.",n
+346,258,h2,Neckwarmer,y
+348,258,p,"This one is optional, as you could always wear a scarf you already have at home. However, neckwarmers made from soft fleece, Merino wool or a breathable fabric will be warmer and will stay in place all day long. They help fill that nasty gap between ski jacket and helmet – stopping the wind from whistling down your neck. It will also prevent your jacket’s cold metal zip from rubbing against your chin. Ouch. You could always wear a bandana or snood as an alternative. In extremely cold conditions it’s best to wear a thin balaclava that fits under your ski helmet. They should cost under £7.",n
+353,258,h2,Ski Socks,y
+355,258,p,It’s popular misconception that really thick ski socks make for warmer feet . Modern boots are well insulated and thinner socks allow for a tiny cushion of warm air between foot and inner boot. You should be able to wiggle your toes. Ski socks will cost from around £16 per pair but this is another item you could do without buying – provided you have some thin calf-length sports socks without any seams.,n
+364,258,h2,Backpack,y
+366,258,p,"Pretty handy for storing extra layers for in case it gets cold, or for stripping off in the ski resort if the sun comes out. A rucksack also gives you the option of taking a water bottle, chocolate bar and sandwich up the mountain each day and saving a fortune on the cost of lunch. Ideally, you want a rucksack with straps across the chest and around the waist. But for your first week any smallish day sack will do. When you’re not using it for skiing it will double as a cycling or hiking back pack.",n
+373,258,h2,Sunscreen,y
+375,258,p,"It may be winter, but the sun, at altitude, can be brutal . Buy a small tube of SPF30 to SPF50 for your face before you leave home. It costs a bomb in the mountains.",n
+380,258,h2,Wintersports Insurance,y
+382,258,p,"Don’t leave home without it. Many tour operators charge more than they should for ski travel insurance , so check out the specialist brokers first, such as MPI Brokers ; or travel brokers who also offer winter sports coverage like InsureandGo or Columbus . Check that other wintersports such as snowmobiling, husky sledding, tobogganing, paragliding, zip-wiring, ice skating and ski racing are included – if you plan to do any of these.",n
+395,258,h2,Borrowing or Hiring Ski Kit,y
+397,258,p,"If you want to save money and are unsure whether or not you will be making a repeat visit to a ski resort, then borrow what you can from friends. If that’s not possible, then you can hire much of what you need .",n
+401,258,p,"Polar Exchange sells and rents out jackets, ski trousers, goggles, sunglasses, gloves, socks, snowboots, baselayers, and helmets. Ski Togs has 10 styles of jacket , six styles of trousers , as well as ski helmets, goggles and apres-ski boots that can be delivered to you. They also sell skiwear, fleeces, base layers, gloves, ski socks and hats. Ski-Stuff hires out jackets, trousers, one-piece suits, and snowboots . They sell goggles, gloves, sun protection and base layers too. On the subject of snowboots – these are not essential items, especially if you’re going in the spring. A sturdy pair of trainers with good soles that will hold on an icy road will be fine.",n
+409,258,h2,Do Your Research,y
+411,258,p,"Either go with a tour operator or book your own ski holiday . If going with an operator, find one who will help you with lift passes, equipment hire and ski tuition bookings. See our Deals page for up-and-coming offers.",n
+418,258,p,"See also our features on ski tips for beginners , learning on an indoor slope , best resorts for beginners , and best beginner resorts in the Tirol .",n
+433,241,div,,n
+434,433,div,,n
+436,434,span,Share this story,n
+448,434,li,Save,n
+451,433,p,Tags,n
+455,433,div,,n
+457,455,div,,n
+459,457,h3,Recent Posts,n
+460,457,ul,,n
+464,460,li,,n
+466,464,h3,Alpbach in Summer,n
+467,464,span,,n
+468,467,text,"June 27, 2022 -",n
+470,467,span,2 Comments,n
+474,460,li,,n
+476,474,h3,Trail-Running in the Alps,n
+478,474,span,"June 25, 2022 -",n
+484,460,li,,n
+486,484,h3,St Anton in Summer,n
+488,484,span,"June 15, 2022 -",n
+492,455,div,,n
+494,492,h3,Related Posts,n
+495,492,ul,,n
+499,495,li,,n
+501,499,h3,Ski Gloves,n
+502,499,span,,n
+503,502,text,"February 6, 2020 -",n
+505,502,span,12 Comments,n
+509,495,li,,n
+511,509,h3,7 Steps to Buying the Perfect Ski Jacket,n
+513,509,span,"January 9, 2020 -",n
+519,495,li,,n
+521,519,h3,Christmas Gifts,n
+522,519,span,,n
+523,522,text,"December 5, 2019 -",n
+525,522,span,1 Comment,n
+527,433,div,,n
+529,527,h4,Author Description,n
+533,527,p,"Felice is one of the three editors at Welove2ski and contributes on skiing to a range of publications, including The Evening Standard, The Guardian, Conde Nast Traveller, Tatler, Harpers Bazaar, Country Life, BA Highlife and House and Garden. She started skiing at the age of three. She also enjoys hiking with her dogs and mountain biking in the Alps.",n
+540,433,div,,n
+542,540,h4,One Response to “The Beginner Skier’s Shopping List”,n
+545,540,li,,n
+547,545,div,,n
+549,547,p,"October 27, 2019",n
+550,547,text,SnowElf Reply,n
+556,545,p,Really good advice here!,n
+560,540,h3,,n
+561,560,text,Leave a Reply,n
+563,560,small,Cancel reply,n
+569,240,div,,n
+571,569,div,,n
+573,571,h3,Free Updates,n
+576,571,p,"Join 16,000 clever people who get the latest Welove2ski content delivered to their inbox",n
+580,571,div,,n
+582,580,strong,RSS,n
+583,580,text,Subscribe,n
+585,580,strong,15145,n
+587,580,span,Followers,n
+589,580,strong,10135,n
+591,580,span,Fans,n
+594,569,div,,n
+596,594,h3,The Loveometer,n
+597,594,div,,n
+600,597,div,,n
+601,600,text,Zermatt,n
+603,600,div,100 %,n
+608,597,div,Tweenager Tips,n
+615,597,div,How to Go Green On Your Ski Holiday,n
+621,597,div,,n
+622,621,text,"St Anton, Austria",n
+624,621,div,97 %,n
+628,597,div,,n
+629,628,text,Weird and Wonderful Ski Fads and Fashions,n
+631,628,div,94 %,n
+661,100,div,,n
+662,661,text,© 2020. All Rights Reserved. Created with,n
+664,661,text,love by WL2S,n
+667,661,div,Mediavine Home,n
+697,0,w-div,,n
+699,697,div,,n
+701,699,div,Thank you!,n
+703,699,div,Please check your inbox to confirm your subscription.,n
+704,697,div,,n
+706,704,div,FREE WELOVE2SKI UPDATES,n
+708,704,div,"Join 16,000 clever people who get the latest Welove2ski content delivered to their inbox.",n
+711,704,div,,n
+714,711,w-div,Email,n
+719,711,span,Subscribe,n
+722,704,div,We will not share your information with anyone.,n
+724,0,w-div,,n
+726,724,span,"Welove2ski Founding Editor, Sean Newsom, on being a top travel writer",n
+727,724,text,Listen here,n

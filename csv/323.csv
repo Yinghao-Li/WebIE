@@ -1,0 +1,134 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+95,0,div,,n
+108,95,div,,n
+110,108,h1,Climbing Mount Hood,n
+112,108,p,"By Mountain Shop | August 1, 2018",n
+114,108,div,"Climbing , Guide , Mt. Hood",n
+119,95,div,,n
+123,119,div,,n
+124,123,p,,n
+125,124,text,Avalanche Transceiver*,n
+127,124,br,Avalanche Probe*,y
+129,124,br,Shovel*,y
+131,124,br,Tent or Shelter*,y
+133,124,br,Sleeping Bag*,y
+135,124,br,Sleeping Pad*,y
+137,124,br,Stove,y
+139,124,br,Rope,y
+141,124,br,Climbing Harness,y
+143,124,br,Carabiners,y
+145,124,br,Pickets,y
+147,124,br,Ice Screws,y
+149,124,br,Crevasse Rescue Kit,y
+151,124,br,Navigation,y
+153,124,br,Sun Protection,y
+155,124,br,Headlamp,y
+157,124,br,First Aid Kit,y
+159,124,br,Food,y
+161,124,br,Water,y
+163,124,br,Ice Axe*,y
+165,124,br,Boots*,y
+167,124,br,Crampons*,y
+169,124,br,Helmet*,y
+171,124,br,Clothing,y
+173,123,p,*Indicates items available,n
+175,123,h4,Avalanche Transceiver,y
+177,123,p,"If it is determined that there is a risk of an avalanche, each member of your group should carry a transceiver, know how to use it, be practiced using it, and carry a probe and shovel as well. A transceiver is useless if you are climbing alone. It doesn’t matter what transceiver you use, all that matters is that you and your climbing partners know how to use it and have practiced, a lot!",n
+179,123,h4,Avalanche Probe,y
+181,123,p,"Everyone should consider carry an avalanche probe, regardless of conditions. If avalanches are a concern, then you will want it to probe debris piles, but probes can also be useful in testing a weak snow bridge or finding hidden crevasses. Again, practice is the most important thing. There are several materials and sizes of probes to consider. Although shorter probes may save weight, debris piles are often 5-10 feet deep and may require a longer probe. Also, if you’re involved in a long search effort, a longer pole will require less bending over, and save some energy. You also have the option between aluminum and carbon fiber probes. Carbon fiber probes will be lighter, but more brittle. If you are in a cold climate, are rough on your gear, or the snow is hard and icy, consider using aluminum instead.",n
+183,123,h4,Shovel,y
+185,123,p,"A shovel is also necessary when traveling through avalanche prone terrain, it can also double as an expedient way to construct a snow cave in case of an emergency bivy. Again, every member of the group should carry a shovel, though practice here is less important. Everyone should, however, be familiar with the shovel they bring and how it separates for packing and goes back together again when it’s needed. Metal shovels can bend, but they are far more durable and reliable than plastic shovels. Metal shovels also cut through hard snow with much greater efficiency. If weight is your primary concern, there are plenty of shovels available with shortened shafts and smaller blades. A larger blade will move more snow, and a longer length will minimize how far you bend over.",n
+187,123,h4,Tent or Shelter,y
+189,123,p,"If weather moves in and you get trapped high on the mountain, a shelter can keep you dry and warm. Most climbers will choose to bring a bivy sack on such a relatively short climb. Bivys come in a number of configurations and materials, but if this is for emergency use only, just get a light overbag-style. These look like a traditional sleeping bag without the insulation, just a waterproof shell, they weight 8-20 ounces and pack up smaller than a Nalgene bottle. When using a bivy sack, put on all of your clothing layers, hat, gloves and extra socks to add warmth. You can also bring a lightweight sleeping bag for additional warmth in colder temperatures.",n
+191,123,p,"Tents provide extra room at the cost of additional weight. If you know you will be sleeping on the mountain or are looking for a multi-person shelter, a tent is likely your best choice. When selecting a tent for high altitude camping or climbing, be sure it has little to no mesh. Mesh allows for good air flow, but will be very chilly when temperatures drop. Mesh also allows snow spindrift to fill your tent. Your tent should also have strong poles, and a pole structure that allows it to withstand high winds and heavy loads of snow. See rental prices.",n
+194,123,h4,Sleeping Bag,y
+196,123,p,"Another piece of emergency equipment, a sleeping bag can provide vital warmth during an unexpected stay on the mountain. A number of factors go into choosing the right temperature sleeping bag, but generally speaking a bag rating of -10 to 10 degrees would be sufficient for most winter climbs of Mt. Hood, while in summer conditions a 20-45 degree bag would be preferable.. See rental prices.",n
+199,123,p,"What is the average low temperature at night where you’re going? This helps set a baseline for conditions. If you are from the Pacific Northwest and you only go out in the summer months, you don’t need a warm bag. But if you go climb in Alaska in the winter, you’ll need the warmest bag you can find.",n
+202,123,p,"Do you sleep warm or cold? As a general rule men sleep warmer than women, but not always. Think about what you use at home in the winter or summer months and compare that to a partner or friend. If you sleep warmer you may be able to get a bag with a higher temperature rating, if you sleep colder you may want a bag with a lower rating.",n
+205,123,p,"Are you going to wear clothing layers inside the bag or not? If the bag is for emergency use only or if you want a fast and light system, then you are likely going to layer up before climbing in. If this is the case, you might find the weight savings of a higher temperature rated sleeping bag appealing. Most people prefer to strip down a little and would prefer a warmer bag.",n
+208,123,p,"Another important factor of sleeping bags is fit, a sleeping bag must fit the user well. If there is too much room inside the sleeping bag, the body will not be able to heat all of the excess air sufficiently, and will get cold trying. If the bag is too tight, particularly in a down bag, insulation is compressed and the bag is less efficient. When sizing sleeping bags, make sure there is little excess length and girth, and that you are not compressing the insulation . Insulation will compress under the bag so use a sleeping pad.",n
+210,123,h4,Sleeping Pad,y
+212,123,p,"Sleeping pads insulate under the sleeping bag, where the bag’s insulation is compressed by body weight and the cold ground pulls heat from the warmer human body. Sleeping pads also cushion and provide some level of comfort when sleeping on the ground. Pads can be as simple as a rectangular piece of closed-cell foam or as modern as a self-inflating closed-cell or open-cell hybrid. Closed-cell foam is durable and light, but does not insulate, cushion, or compress as well as open-cell options. Open-cell pads use air to insulate and are very efficient and comfortable. They also compress well making them ideal options. The only drawbacks to open-cell pads are that they are heavier and, because they are filled with air, are prone to punctures that render them useless. Climbers go back and forth, and pads are largely considered creature comforts, but pads are nice to have when stuck in a snow cave. Closed-cell pads, particularly the ones that roll well, make a nice splint as well.",n
+214,123,h4,Stove,y
+216,123,p,"A stove, fuel and a pot are important survival tools. Stoves are common for campers, and longer climbs, but few climbers carry them for Mt. Hood. This is a mistake. Portland Mountain Rescue believes many climbers may still be alive if they had a stove. If you have a stove than you have the tool to survive two common causes of death for Mt. Hood climbers: dehydration and hypothermia. A stove not only produces heat, it can melt snow for use as drinking water or cooking a meal. When you are fed and hydrated your body is less susceptible to hypothermia.",n
+218,123,h4,Rope,y
+220,123,p,"Whether or not to use a rope depends on conditions and your team’s proficiency and skill. If your team is unfamiliar with traveling on a rope team, self arrest, crevasse rescue, setting anchors or rappelling than a rope won’t do you any good. In the early season when crevasses are filled in, the rope will be used primarily to rappel down sketchy sections of a route, or belaying a climber up or across part of a route. When crevasses begin to open in later season, some climbers travel on a rope team to protect a fall or expedite a rescue.",n
+222,123,p,"For most climbers traveling the South Side Route, a 40-50 meter long, 7.7-8.2 millimeter diameter, half or twin rope is an ideal way to reduce bulk and weight. Falls on steep snow don’t create the shock load or sharp edge protection needed on rock routes, so these smaller diameters are used regularly on snow and glacier routes as singles. If concerned about doing longer rappels, you can switch to a longer 60 meter rope. The best setup for climbers or skiers traveling unroped is for the party to carry two 30 meter or longer ropes, this allows for a rescue scenario when the person carrying the rope falls in. When using a smaller diameter rope test your belay device to make sure it will create enough friction as some belay devices may not be rated for smaller diameter ropes and those that are may not provide enough friction when using gloves. A DMM Bugette or a munter hitch are good belay options for thinner ropes.",n
+224,123,h4,Climbing Harness,y
+226,123,p,"If you bring a rope, you’ll have to have a harness, and vice versa. One without the other is useless. We recommend drop-seat harnesses with adjustable leg loops. The adjustable leg loops allow for variation in your clothing layers without negatively impacting the fit of your harness. The combination of a drop-seat and adjustable leg loops make it incredibly easy to put on your harness quickly and safely while wearing crampons. If use of a harness is a strong possibility, you can even put it on in the parking lot. Most mountaineering harnesses, like those we recommend, are quite comfortable to approach in.",n
+228,123,h4,Carabiners,y
+230,123,p,"A minimum of 1 locking pear-shaped carabiner for belaying, and 2 non-locking carabiners for clipping anchors are recommended. For non-locking carabiners, we believe wire gates to be the best option because they are less prone to freezing.",n
+232,123,h4,Pickets,y
+234,123,p,"Pickets are used as a rope anchor and can be driven down into the snow, or buried as a dead man. They provide a solid point from which you can rappel, belay, or set up a crevasse rescue system. We recommend pickets with a pointed end, which make them easier to drive into the snow. Both “I” and “V” shaped pickets work well, the “I” shape is a little stronger and the “V” shape takes up less space when carrying multiple pickets. We also recommend that each member of a two-person team carry 2 pickets, while in larger parties each member should carry at least 1 picket. Girth hitch each picket with a sling and attache a non-locking carabiner, there you have your anchor system ready to go when you need it.",n
+236,123,h4,Ice Screws,y
+238,123,p,"Mostly associated for use on winter climbs as protection or anchors, ice screws are essential for crevasse rescue . The faster you can set them the better, so look for designs that allow for quick placement. Bring 2-4 ice screws, at least 1 22cm screw for making a v-thread anchor, and 13-19cm lengths for the rest. Remember in warmer conditions screws will start to melt out, so for any anchors that may be used for a long time go with longer length. You should also plan on carrying a quickdraw, or enough carabiners and slings, for every ice screw placed.",n
+240,123,h4,Crevasse Rescue Kit,y
+242,123,p,"Everyone should be familiar with and practiced in crevasse rescue, and so you may have a system in place. We recommend every climber carry have 3 prusiks or ascenders . Extra slings and carabiners may be needed for equalizing anchors or creating an autoblock system .",n
+244,123,h4,Navigation,y
+246,123,p,"Map, compass and an altimeter should all be used when climbing Mt. Hood. A GPS with fresh batteries may be a suitable substitute for a map or compass or altimeter, but we recommend bringing the latter as a back up. Remember: navigation tools are only helpful if you know how to use them, practice with them regularly, and familiarize yourself with the terrain and its hazards.",n
+248,123,h4,Sun Protection,y
+250,123,p,"Sun exposure at higher altitudes is more intense than at sea level, and snow reflects light from all directions and acts like tin-foil around a baked potato. If you don’t want to be the potato, wear glacier glasses rated category 3 or higher as soon as the sun rises and liberally apply sunscreen every hour.",n
+252,123,h4,Headlamp,y
+254,123,p,"You’ll be starting in the dark, and you’ll want your hands free. Use a headlamp with fresh batteries from the start and store it when the sun rises.",n
+256,123,h4,First Aid Kit,y
+258,123,p,"It is important that every individual carry a small kit because you don’t know who will get injured. The guy with the only first-aid kit could go sliding uncontrollably by you and into a crevasse, then what?",n
+260,123,h4,Food,y
+262,123,p,"You’ll burn a lot of calories while climbing . Eat before you go so you have some fuel in the tank. Load up on fats and proteins before you leave, these metabolize more slowly and will give you energy for a longer period. While climbing bring lots of high carbohydrate snacks, these metabolize faster and give you quick bursts of energy. Then go grab a burger or have a sandwich waiting in the car, something high in fats which help muscles recovery from lots of exercise. Remember your metabolism keeps going for an hour or two after you stop, so that’s the time to binge a little.",n
+264,123,h4,Water,y
+266,123,p,"Some people recommend 1 liter of water for every hour of high energy activity. For a south side climb that could mean 8 to 12 liters ! That’s a lot to lug around. Instead, try drinking 2 to 4 liters several hours before you start your climb, that way the water has a chance to make it into your muscles. Then bring 2 to 4 liters with you for the climb. We like to use a water bladder because it’s easy to use without stopping. Be sure to blow the water back into bladder so the hose doesn’t freeze. We also carry a 1 liter bottle in our pack so we have an emergency supply that won’t freeze. Finally, have a gallon of water in the car for when you get back.",n
+268,123,h4,Ice Axe,y
+270,123,p,"Acquiring and carrying an ice axe is easy, but knowing how to use it requires skill, familiarity and practice in the art of self arrest. The South Side Route is not a technical snowithice route, and so we recommend a straight handled axe. You can use lightweight aluminum or heavier steel, but a steel pick will give you better penetration on harder snow than the lighter aluminum. When choosing the length of an axe, stand up straight and hold the axe by your side gasping its head between your fingers. The spike of the axe should rest by your ankle, a longer axe might be nice as Mt. Hood’s south side is relatively low angle . A shorter axe will require you to bend over to place it, a tiring endeavor. Also, a shorter axe may seem lighter but the difference is usually only an ounce or two. If using a shorter axe or ice tool look into a trekking pole or a Black Diamond Whippet for the other hand . See rental prices.",n
+273,123,h4,Boots,y
+275,123,p,"Properly fitting mountaineering boots are strongly recommended. While softer hiking boots may work well, a stiffer soled boot will absorb much of your body weight and transfer it into the ground. When softer boots flex your muscles have to work harder to keep your body stable. Stiff boots are also more efficient for crampon techniques. Whatever your choice for boots, it’s vital that they fit well, are waterproof, and that they are warm enough. Pair your boots with a single pair of mid-weight wool or synthetic socks - layered socks will absorb more moisture and allow more movement of your foot inside your boot, leading to blisters. If you feel like you need more socks to take up space, then your boots are probably too big!",n
+277,123,h4,Crampons,y
+279,123,p,"Your crampons should suit the boots you’re wearing and should be sized to them before your climb begins. Aluminum or steel crampons may be used, steel crampons may get better penetration on ice or hard snow, but aluminum is lighter and equally efficient on most snow types. We recommend a stiffer boot with stiffer crampons, this system lowers the strain on the stabilizing muscles in your legs and makes climbing easier. See rental prices.",n
+282,123,h4,Helmet,y
+284,123,p,"A climbing helmet should be considered necessary on Mt. Hood because of the significant ice and rock fall danger higher on the climb. Your helmet should meet climbing certifications, meaning that it is rated for impact from above. Biking and ski helmets are NOT suitable substitutes as they are only rated for side impacts. See rental prices.",n
+287,123,h4,Clothing,y
+289,123,p,"For any type of mountain travel, it's important to be prepared for variable weather conditions. The best way to do that is with a thorough layering system. You should have wool or synthetic baselayer tops and bottoms , breathable midlayer tops and bottoms such as fleece or softshell, a waterproof shell for your outer layer, and a packable insulating layer in case of a sudden temperature drop. It's also good to have a hat, balaclava or buff, lightweight gloves, heavier insulated gloves, and gaiters.",n
+292,123,h5,,n
+293,292,text,Overview | Permits and Planning | Current Conditions | Training | South Side Routes,n
+303,292,br,Route Dangers | Guide Services | Where to Stay | How to Get There,n
+317,119,div,,n
+319,317,h3,Categories,n
+320,317,ul,,n
+322,320,li,Adventure,n
+324,320,li,Biking,n
+326,320,li,Climbing,n
+328,320,li,Event,n
+330,320,li,Gear List,n
+332,320,li,Gear Recommendations,n
+334,320,li,Guide,n
+336,320,li,Mt. Hood,n
+338,320,li,Skiing,n
+340,320,li,Trail Running,n
+342,320,li,Trail Tips,n
+344,320,li,Travel,n
+346,320,li,Trip Report,n
+352,95,h3,,n
+353,352,text,"DEALS, EVENTS, NEWS, STAY CONNECTED.",n
+355,352,br,SIGN UP FOR OUR NEWSLETTER.,n
+367,0,div,,n
+369,367,div,,n
+371,369,div,,n
+372,371,div,,n
+374,372,h4,Demos and Rentals,n
+375,372,text,Reservations Stand Up Paddleboard Mountaineering and Climbing Alpine Touring Alpine Skiing Camping and Backpacking Nordic Snowboarding Snowshoeing Splitboard Telemark Try before you buy Trade in skis or boots How to Videos,n
+389,371,div,,n
+391,389,h4,Shop Services,n
+392,389,text,All Services,n
+393,371,div,,n
+395,393,h4,Community and Events,n
+396,393,text,About Us Team Members Event Calendar News Ambassadors Climbing Mt. Hood,n
+402,369,div,,n
+404,402,h4,Store Location,n
+405,402,p,,n
+406,405,text,2975 NE Sandy Blvd,n
+408,405,br,"Portland, OR 97232",n
+413,405,br,View map »,n
+415,402,h4,Connect With Us,n
+417,402,p,Connect with us on your favorite social networking site.,n
+421,367,div,,n
+424,421,p,©2022 Mountain Shop,n
+427,421,p,Site by cwd,n

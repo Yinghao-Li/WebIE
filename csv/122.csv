@@ -1,0 +1,186 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+177,0,div,,n
+181,177,h1,Basic Boating Checklist,n
+185,177,div,,n
+189,185,p,A basic guide,n
+191,185,p,BEFORE LEAVING STORAGE AREA WITH BOAT ALWAYS VERIFY THE MOTOR STARTS AND RUNS. THIS WILL ALSO INSURE YOU HAVE THE BOAT KEYS.,n
+195,185,h3,TRAILERING,n
+198,185,p,,n
+199,198,text,Never trailer your boat with the cover on.,n
+201,198,br,Back vehicle to boat trailer and align where ball is under coupler:,n
+203,185,ul,,n
+205,203,li,Connect coupler to ball – BE SURE LATCH IS UNDER BALL not on top of it and LATCH IS LOCKED and BOLTED SECURELY.,n
+207,203,li,Connect safety chains and cross below ball.,n
+209,203,li,Connect wiring,n
+211,203,li,If your trailer has brakes – be sure to connect safety cable to vehicle.,n
+213,203,li,Crank up tongue jack.,n
+215,203,li,Check winch is tight and locked.,n
+217,203,li,Check tire pressure and condition.,n
+219,203,li,Check trailer lights before each trip.,n
+221,203,li,Check tie down straps.,n
+228,185,h3,FUELING,n
+229,185,ul,,n
+231,229,li,Shut engine off prior to fueling.,n
+233,229,li,Remove all passengers from boat.,n
+235,229,li,Do not smoke!,n
+237,229,li,Turn off electronics.,n
+239,229,li,"Be certain you are putting fuel in fuel tank, not water tank or rod holder!",n
+241,229,li,Always fuel a new boat slowly.,n
+248,185,h3,LAUNCHING,n
+252,185,p,PRIOR TO LAUNCH,n
+254,185,ul,,n
+256,254,li,Always check,n
+258,254,li,boat.,n
+260,254,li,Leave trailer completely connected to car prior to backing down boat ramp.,n
+262,254,li,Disconnect trailer lights.,n
+264,254,li,Remove any trailer to boat tie downs.,n
+266,254,li,Verify ample safety equipment is aboard.,n
+270,185,p,WHEN LAUNCHING,n
+272,185,ul,,n
+274,272,li,ramp.,n
+276,272,li,Tie bow and stern lines to boat,n
+278,272,li,boat begins to float.,n
+280,272,li,Put vehicle in PARK and engage PARK BRAKE.,n
+282,272,li,"Walk on dock to boat – be careful, ramps and docks can be slippery.",n
+284,272,li,handle spinning out of control!,n
+286,272,li,Float boat off trailer and tie to dock.,n
+288,272,li,Large boats – Have handler release winch and guide boat as you float boat off trailer.,n
+290,272,li,Slowly drive vehicle forward and park. LOCK vehicle and trailer coupler to prevent theft.,n
+297,185,h3,STARTING ENGINE,n
+298,185,ul,,n
+300,298,li,"Large Boats – Open sea cocks, except overboard waste, close sea cocks if leaving boat unattended.",n
+302,298,li,Visually inspect engine and bilge,n
+304,298,li,Close engine or bilge hatch and run blower,n
+306,298,li,Lower engine or out drive.,n
+308,298,li,Two stroke owners check oil in tank.,n
+310,298,li,Verify safety lanyard in proper position.,n
+312,298,li,Check that shifter is in neutral and throttle in correct position.,n
+314,298,li,Start engine.,n
+316,298,li,Check,n
+323,185,h3,UNDERWAY,n
+324,185,ul,,n
+326,324,li,sales agreement on board until vessel registrations are completed.,n
+328,324,li,age must wear a USCG approve PFD while underway in vessels under 26 feet.,n
+330,324,li,"3 miles offshore or at the edge of the gulf stream, children 13 and under must wear a USCG approve PFD on all recreational vessels unless except when below deck.",n
+332,324,li,Anyone being towed behind a vessel must wear a USCG approved PFD.,n
+334,324,li,"Once underway, tidy up loose lines and gear.",n
+336,324,li,Operate in shallow water with drive tilted up.,n
+338,324,li,When water depth in unknown proceed slowly and with caution.,n
+340,324,li,Observe all speed and rule signs.,n
+342,324,li,speed and direction changes prior to making them.,n
+344,324,li,Always look behind and to the sides prior to direction or speed changes.,n
+346,324,li,The person at the helm is responsible,n
+348,324,li,Stow safety equipment in an easily accessible location.,n
+350,324,li,Use Navigation Lights 30 minutes before sunset and after sunrise.,n
+352,324,li,Follow manufacturer’s instructions.,n
+354,324,li,"On the Indian River, Red Squares are on the mainland side, Green Squares are on the ocean side and all markers are numbered.",n
+356,324,li,the channel when underway – never anchor in a channel.,n
+358,324,li,way while under sail only.,n
+360,324,li,Always check the weather and leave a float plan behind.,n
+367,185,h3,RETRIEVING BOAT,n
+368,185,ul,,n
+370,368,li,Tie bow and stern lines,n
+372,368,li,Have handler stand on dock and steady boat.,n
+374,368,li,Back trailer down ramp slowly – roll vehicle window down so you can hear instructions.,n
+376,368,li,Submerge the trailer completely.,n
+378,368,li,Float or drive boat on trailer.,n
+380,368,li,Attach winch strap and tighten until boat touches winch stop or roller.,n
+382,368,li,SLOWLY but steadily pull boat up the ramp stopping only if boat is not on trailer properly.,n
+384,368,li,Continue to parking area so ramp area stays clear.,n
+386,368,li,Remove boat drain plug.,n
+388,368,li,boat while trailering.,n
+390,368,li,FOLD DOWN and SECURE BIMINI TOP if trailering speed exceeds 30 MPH.,n
+392,368,li,Install trailer to boat tie downs.,n
+399,185,h3,CLEANING BOAT AND TRAILER,n
+400,185,ul,,n
+402,400,li,Flush engine per owner’s manual instructions.,n
+404,400,li,Remove electronics if not inside cabin.,n
+406,400,li,"Remove personal items, food and gear.",n
+408,400,li,Stowe any gear remaining on boat.,n
+410,400,li,"Wash down boat, motor and trailer with biodegradable boat soap and fresh water.",n
+412,400,li,Allow to air dry before covering boat.,n
+414,400,li,Treat vinyl with dressing to promote long life.,n
+416,400,li,Store under cover – be sure air circulates underneath.,n
+423,185,h3,SUGGESTED BASIC EQUIPMENT FOR YOUR BOAT,n
+424,185,ul,,n
+426,424,li,"Appropriate safety gear – PFD’s, flares, horn, fire extinguisher, EPIRB etc.",y
+428,424,li,VHF Radio and CELL phone,y
+430,424,li,Inexpensive Binoculars,y
+432,424,li,Charts and maps,y
+434,424,li,Boat hook,y
+436,424,li,Fenders,y
+438,424,li,Extra lines,y
+440,424,li,Extra hull plug.,y
+442,424,li,keys.,y
+444,424,li,Spare tire and bearing set,y
+446,424,li,Engine oil,y
+448,424,li,Tool Kit,y
+450,424,li,Flash light,y
+452,424,li,Duct tape,y
+454,424,li,Boat brush,y
+456,424,li,Trailer coupler lock,y
+458,424,li,Boat cover,y
+460,424,li,Sun screen,y
+467,185,h3,SPARE PARTS LIST,n
+469,185,p,,n
+471,469,strong,alternator Belt,y
+474,469,strong,spark plugs,y
+477,469,strong,engine oil,y
+480,469,strong,gear lube,y
+483,469,strong,water pump kit,y
+486,469,strong,spare prop and hardware,y
+489,469,strong,spare drain plug,y
+492,469,strong,spare tire,y
+495,469,strong,bearing or hub set,y
+500,185,p,GENERAL INFORMATION,n
+502,185,ul,,n
+504,502,li,Please store Top Notch Marine phone number in your cell phones,n
+506,502,li,Fort Pierce 772Melbourne 321,n
+511,185,p,RESOURCES,n
+513,185,ul,,n
+515,513,li,Florida Boating Safety Course www.boat-ed.com or fl,n
+518,513,li,Discover Boating www.discoverboating.com,n
+521,513,li,Top Notch Marine www.topnotchmarine.com,n
+527,177,h2,Don’t miss a thing!,n
+529,0,footer,,n
+530,529,div,,n
+532,530,h2,Office Locations,n
+533,530,div,,n
+536,533,div,,n
+539,536,h3,Top Notch Marine Ft. Pierce,n
+542,536,div,,n
+544,542,span,2450 North U.S. Highway 1,n
+547,542,span,"Fort Pierce, Florida",n
+549,542,span,34946,n
+553,533,div,,n
+556,553,h3,Top Notch Marine Melbourne,n
+559,553,div,,n
+561,559,span,6000 North U.S. Highway 1,n
+564,559,span,"Melbourne, Florida",n
+566,559,span,32940,n
+569,553,div,View All Of Our Locations,n
+571,529,div,,n
+573,571,div,Site By Boats Group,n
+578,571,div,© 2022 Boats Group All Rights Reserved - Do Not Sell My Personal Information,n
+586,0,div,C,n
+587,0,div,,n
+588,587,div,,n
+589,588,text,Cookie Control,n
+591,588,span,X,n
+592,587,div,,n
+594,592,p,We have placed cookies on your device to help make this website better.,n
+596,592,p,"You can use this tool to change your cookie settings. Otherwise, we’ll assume you’re OK to continue.",n
+597,592,div,,n
+598,597,p,,n
+599,598,text,the cookies we use,n
+604,598,text,are essential,n
+606,597,p,We also use some non-essential cookies to collect information for making reports and to help us improve the site. The cookies collect information in an anonymous form.,n
+607,597,p,,n
+608,607,text,"To control third party cookies, you can also adjust your browser settings",n
+613,607,text,.,n
+616,597,div,Turn cookies Off,n
+619,597,div,Turn cookies On,n
+622,592,div,I'm fine with this,n
+623,592,text,Information and Settings read less About our cookies,n
+641,0,div,0,n

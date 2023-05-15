@@ -1,0 +1,388 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+37,0,div,,n
+81,37,h1,2022,n
+92,37,div,,n
+93,92,div,,n
+94,93,section,,n
+95,94,div,,n
+97,95,h2,Find and compare the best Content Creation software in 2022,n
+98,95,div,,n
+100,98,span,Sort,n
+103,98,li,,n
+104,103,text,Sponsored,n
+107,103,ul,,n
+109,107,li,Sponsored,n
+111,107,li,Name,n
+113,107,li,Highest Rated,n
+115,107,li,Most Reviews,n
+118,95,div,Content Creation Reset Filters,n
+122,94,p,"Use the comparison tool below to compare the top Content Creation software on the market. You can filter results by user reviews, pricing, features, platform, region, support options, integrations, and more.",n
+123,94,ul,,n
+128,123,li,,n
+130,128,div,,n
+132,130,h3,Sesimi,y
+134,130,div,,n
+136,134,p,Sesimi,y
+138,134,strong,$100,n
+142,128,div,"It’s Marketing Magic. The power to create, manage and share branded content. Instantly. • Bring on the magic. Build and deliver quality, on-brand marketing in no time at all. • Power up your team. More efficient marketing means more time to focus on the big stuff. • No surprises. Seamless integration, smart approvals processes and secure IT systems mean you can grow with confidence. Sesimi is technology trusted by over 8,000 companies around the globe. The Brand and Content Management Platform Sesimi, a brand management platform, delivers marketing campaigns and strategies quicker than ever before - including: - A class-leading, intuitive Digital Asset Management tool that helps you store, search, and share your assets. - One-to-Many Creation Platform to eliminate marketing production bottlenecks using smart, brand-compliant templates. - Backed by a global support team that will assist you every step of your journey Streamline your campaign workflows. Give your team time back and resources. Don't just store your assets, create on-brand campaigns quickly!",n
+148,123,li,,n
+150,148,div,,n
+152,150,h3,Outgrow,y
+154,150,div,,n
+156,154,p,Outgrow,y
+168,154,text,92 Reviews,n
+172,148,div,"Outgrow makes it easy to create personalized quizzes and calculators, assessments, recommendations and polls that help you better engage, qualify, and acquire leads. No developers or designers required! Outgrow offers a variety of design templates that are fully optimized for mobile, tablet, and desktop. These templates can be easily embedded into your advertising, websites and mobile apps, as well as social media, SMS, email communication, and advertising. You can also find over 300 pre-made content pieces or funnels that are optimized for conversion. You can modify the questions and make some tweaks to make your interactive content consistent with your brand.",n
+177,123,li,,n
+179,177,div,,n
+181,179,h3,EasyContent,y
+183,179,div,,n
+185,183,p,EasyContent.io,y
+187,183,strong,$5 per month,n
+199,177,div,"EasyContent is a content collaboration and workflow management platform. It allows teams to create, review and publish content to Wordpress CMS in a matter of seconds. EasyContent can be used by website owners and content marketing agencies to manage their content approval process, as well as their writing teams.",n
+204,123,li,,n
+206,204,div,,n
+208,206,h3,RELAYTO,y
+210,206,div,,n
+212,210,p,RELAYTO,y
+213,210,strong,,n
+214,213,text,$100 or,n
+216,213,wbr,user or,n
+230,204,div,"Your documents can be transformed into interactive presentations or webpages with instant branding, analytics and more. Our AI-powered software has won more than 50 digital, creative, and marketing communications awards for clients like. Everything that matters should be packaged. Your document, images and videos are always at your fingertips, no need to use complicated uploading methods or fancy embed codes. You can reuse content from more than 250 web services, 12 cloud storage system, and any files on your device. With intuitive editing, transform your ideas into action. Create beautiful messages. You can save time by searching through 15 million images, using 70 best practice templates and applying design themes. Or, create your own masterpiece. You can work remotely on projects and not miss a beat. Share the most recent versions with colleagues and customers. Define project roles so that you can decide who can view, edit, or own the files. Share once and anywhere with colleagues and clients",n
+235,123,li,,n
+237,235,div,,n
+239,237,h3,RelayThat,y
+243,237,p,RelayThat,y
+255,235,div,"Any team can be transformed into a marketing army. Brand guidelines can be instantly converted into high-performing images. Small efforts equal BIG presence You can switch between multiple campaigns and workspaces with one click. Wildcard keywords will automatically generate the perfect copy for Karate chop writers! Get access to curated collections of the most popular font and color combinations professional marketers use. You can resize and remix layouts to fit any advertisement or social media channel without any additional tweaking. You can instantly create a consistent brand look without even trying. It gets better the more you use it. Access to 3,000,000 royalty-free images without any usage fees or additional costs.",n
+260,123,li,,n
+262,260,div,,n
+264,262,h3,Blogely,y
+266,262,div,,n
+268,266,p,Blogely,y
+270,266,strong,$0 - $99,n
+282,260,div,"The complete suite of content development tools to optimize every step of your content creation process - like never before. You can create high-quality content faster with systematized research. A tool that simplifies your content marketing workflow makes it easy. Increase your sales and leads. It has a simple interface that is well-thought-out to make it easy to create exceptional content. All your assets, including images, files, notes and multimedia, can be organized in one central location that is linked to the article. In a matter of minutes, create a complete research document. You can combine aggregated SERP results with keywords, statistics, and questions.",n
+287,123,li,,n
+289,287,div,,n
+291,289,h3,involve.me,y
+293,289,div,,n
+295,293,p,involve.me,y
+297,293,strong,$19.00 per month,n
+309,287,div,"Involve.me is an interactive content builder that you can drag and drop to fit every stage of your funnel. Marketers, entrepreneurs, and publishers can use involve.me for creating engaging quizzes and calculators, lead capture forms, landing pages, and other content. PayPal and Stripe payments can also be collected from involve.me content. Include.me's most popular features are: – Partial Submissions to recover lost leads and gather more data; – Hidden Fields to personalize content to existing contacts; – Answer Piping to pull text form answers into page content; Logic Jump to skip unnecessary questions or steps; - Multiple Outcomes for custom redirects; - Engagement Analytics to diagnose your content and fix it.",n
+314,123,li,,n
+316,314,div,,n
+318,316,h3,Maglr,y
+320,316,div,,n
+322,320,p,Maglr,y
+324,320,strong,$200.00 or,n
+340,314,div,"Maglr is a content creation platform that allows companies to create visual and interactive content in order to promote their products or services. Join them in replacing static content with better content experiences. Digital publications can now be created by marketers and designers, with no coding. They are easily measurable and responsive. The platform allows you to update all types of content found on and around websites. Digital magazines, sales presentations and white papers, annual reports, landing page pages, campaign microsites, product catalogues, embedded content, and many other uses. Two editors, infinite possibilities Maglr offers two types of content editors: the drag-and-drop Block editor or the advanced Pro editor. Each editor comes with a set ready-to-use responsive templates. You can create stunning content without writing a single line code. Maglr is the content experience tool that will enhance your content marketing strategy.",n
+345,123,li,,n
+347,345,div,,n
+349,347,h3,QuarkXPress,y
+351,347,div,,n
+353,351,p,Quark Software,n
+355,351,strong,€474 per year,n
+367,345,div,"QuarkXPress is page layout and graphic design software. It allows anyone to create and publish compelling materials for print, web and e-readers. QuarkXPress, with its professional design features is a must-have for independent, agency, and in-house designers.",n
+372,123,li,,n
+374,372,div,,n
+376,374,h3,inflo.Ai,y
+378,374,div,,n
+380,378,p,inflo.Ai,y
+382,378,strong,$136.52 per month,n
+394,372,div,"Easy-to-use and affordable content marketing software that boosts traffic and growth takes the stress out. Your bespoke organic growth strategy matches your expertise with the needs of your audience. Your personalized feed will provide data-backed keyword suggestions, inspiring articles from the top online sources, and time-saving article summaries. Boards allow you to organize, group and plan your posts in order to create a content calendar. With our handy outlines, it's easy to group all the content you need. They also help you plan posts and target keywords to grow your business. Our analytics tool will help you ensure that your content is meeting your goals. It tracks key productivity, site health, and performance metrics to ensure that you get the best business results possible.",n
+395,123,li,,n
+397,395,span,11,n
+399,395,div,,n
+401,399,div,,n
+403,401,h3,Rocketium,y
+407,401,p,Rocketium,y
+419,399,div,"Rocketium is a cloud-based enterprise software that automates creative production. You can empower marketing, creative, and brand teams to promote the creation, management, distribution, and control of images and videos at half their production cost. Unify global teams to collaborate on design ideas by using a single source.",n
+425,123,li,,n
+427,425,div,,n
+429,427,h3,Flipsnack,y
+431,427,div,,n
+433,431,p,Flipsnack,y
+437,431,strong,month,n
+445,431,text,53 Reviews,n
+449,425,div,"Flipsnack is an online software that flips pages for magazines, catalogs and other publications. Flipsnack allows you to upload a PDF or create your catalog designs using our integrated design tool. It comes with hundreds of templates.",n
+450,123,li,,n
+452,450,span,13,n
+455,450,div,,n
+457,455,div,,n
+459,457,h3,Genially,y
+461,457,div,,n
+463,461,p,Genially,y
+465,461,strong,Free,n
+473,461,text,11 Reviews,n
+477,455,div,"Genially is the global leader in interactive visual communication. Genially is your online tool for creating stunning presentations, interactive images and infographics. Enhance them with animation and interactivity effects in seconds. To make an impact with striking visual communication in a flash, you don't need a team or programmers. Interactive and animated effects can be used to quickly distribute information in layers that viewers are able to explore and discover. Genially is a revolutionary content creation tool that will amaze and engage your audience. Just a few clicks and you can experience the Wow Effect. You can choose from over 1000 templates or start from scratch. Join millions of other users around the world, including teachers, businesspeople, marketers, designers, and employees of companies like Hulu and Danone, Michelin, and Heineken. You are the future of communication.",n
+483,123,li,,n
+485,483,div,,n
+487,485,h3,Contently,y
+489,485,div,,n
+491,489,p,Contently,y
+499,489,text,12 Reviews,n
+503,483,div,"Our content marketing platform provides brands with the technology, talent, strategic insights, and technical expertise they need to create content that delights and drives results. Don't miss out. The secret weapon of some of the most valuable enterprise brands in the world. Our Analytics Suite now lets you track how much organic traffic your brand is worth. You'll be able to give your boss a great answer when she asks about the ROI of your content marketing campaign. Contently's content platform makes it easy for you to create high-performing content, and to measure its impact down to the dollar. Our enterprise content marketing platform transforms modern marketers into content stars. You can save time, reduce waste, create smarter content every step of your way, and save time. It will even help you prove your content ROI down to the dollar.",n
+508,123,li,,n
+510,508,div,,n
+512,510,h3,Powtoon,y
+514,510,div,,n
+516,514,p,Powtoon,y
+518,514,strong,$19.00 or,n
+534,508,div,"PowToon, a Web-based animation program, allows you to create animated presentations quickly and easily with your students. You can manipulate pre-created objects and import images, provide music, and use user-created voice-overs. With just one Powtoon, you can engage, explain, and sell with great impact. They are more effective than any other type of video or text communication to grab attention at work. Use a Powtoon when you can't afford not to be noticed. A Powtoon can help you combat distractions in class, grab students' attention, and make your education materials more interesting! It's also great for school projects! A Powtoon is a great way to interact, teach and engage with friends and family on special occasions and when you can't ignore them!",n
+535,123,li,,n
+537,535,span,16,n
+540,535,div,,n
+542,540,div,,n
+544,542,h3,Semrush,y
+546,542,div,,n
+548,546,p,Semrush,y
+556,546,text,14 Reviews,n
+560,540,div,Semrush is an online visibility management platform and content marketing SaaS platform. It helps businesses achieve measurable results through online marketing.,n
+565,123,li,,n
+567,565,div,,n
+569,567,h3,RebelMouse,y
+573,567,p,RebelMouse,y
+585,565,div,"RebelMouse, a SaaS CMS CMS that is always up-to-date, helps publishers and marketers increase organic traffic by breaking away from the traditional approach to legacy web technology. Editors, writers, and designers all need to rank their content across social media platforms and channels. Businesses need traffic, and content creators need an easy experience. SquareSpace and WordPress offer simplicity, while RebelMouse offers both. RebelMouse has better performance and more traffic. With RebelMouse, Drupal and WordPress developers with experience can create high-performing sites that require less effort to set up and manage. RebelMouse is an enterprise-ready SaaS platform that is powerful enough for media companies, but easy enough for marketing teams who just want to generate more traffic. We are also a majority-female diverse, inclusive organization. For more information on how we are different from other tech companies, please watch the YouTube video!",n
+591,123,li,,n
+593,591,div,,n
+595,593,h3,Lucidpress,y
+597,593,div,,n
+599,597,p,Lucidpress,y
+601,597,strong,$50 per month,n
+609,597,text,30 Reviews,n
+613,591,div,"Lucidpress is a platform for brand and design templating that allows non-designers to create and distribute marketing collateral on their own, without having to use the brand's brand. You can lock your brand while allowing your colleagues to make minor design adjustments and customizations. This will ease the burden off your creative team. Lucidpress is the brand templating platform that's trusted by more than 7 million users around the world. Our web-to-print capabilities allow you to get high-quality printed materials delivered right to your doorstep. Lucidpress's direct mailing service makes it easy to reach your target audience faster. Our cloud-based platform allows you to manage your brand experience from start through finish, whether it's social media posts or printed brochures.",n
+614,123,li,,n
+616,614,span,19,n
+619,614,div,,n
+621,619,div,,n
+623,621,h3,Prezi,y
+625,621,div,,n
+627,625,p,Prezi,y
+635,625,text,20 Reviews,n
+639,619,div,"Prezi is an online presentation and analytics tool for business teams. Prezi Business is backed by a complete suite of collaboration, creation and analytics tools. It transforms sales and client presentations into meaningful conversations, allowing businesses to connect and interact at a new level. Prezi Business is powered by Prezi Next and offers a variety of features, including cloud-based commenting to facilitate seamless collaboration, leaderboard analysis, dedicated customer success manager, custom designs, training opportunities, and more.",n
+644,123,li,,n
+646,644,div,,n
+648,646,h3,Seismic,y
+652,646,p,Seismic,y
+664,644,div,"Seismic is the industry's leading sales enablement and digital engagement solution. It aligns go-to-market teams, and empowers them to deliver engaging buyer experiences that lead to growth. Seismic's Storytelling Platform™ provides innovative capabilities for marketers to manage content across all channels and for sellers to engage buyers in a compelling and resonant way at every stage of the buyer journey. Seismic is the preferred sales enablement platform for more than 700 companies, including American Express and IBM. The Seismic Storytelling Platform™ can be integrated with many business-critical platforms, including Microsoft, Salesforce and Google. Seismic, a company based in San Diego, has offices in North America, Europe and Australia.",n
+665,123,li,,n
+667,665,span,21,n
+669,665,div,,n
+671,669,div,,n
+673,671,h3,Contentful,y
+675,671,div,,n
+677,675,p,Contentful,y
+679,675,strong,$0 or,n
+693,669,div,"Contentful, the leading content platform for digital-first business. It enables greater speed and scale than traditional CMS solutions. Contentful unifies content in a single hub, structures it for use in any digital channel, and integrates seamlessly with hundreds of other tools through open APIs. With Contentful, you can bring your content anywhere using our APIs, completely customize your content structure all while using your preferred programming languages and frameworks.",n
+694,123,li,,n
+696,694,span,22,n
+698,694,div,,n
+700,698,div,,n
+702,700,h3,Lumen5,y
+704,700,div,,n
+706,704,p,Lumen5,y
+708,704,strong,$15 per month,n
+720,698,div,"The easiest way to create videos for social media marketing. Lumen5 creates engaging, impactful videos from your existing content. This allows you to make video a regular part your marketing strategy. Turn content into video --effortlessly. It's hard to start from a blank page. Lumen5 makes it easy. Lumen5's AI-powered technology allows you to storyboard your ideas and create layouts for your content. You can also find music and visuals that will enhance your message. In just minutes, you can integrate high-quality media. Lumen5 media library allows you to quickly access millions of photos, videos clips, and audio files. This makes it easy to create the perfect video. You can customize everything in one click You can add your personal visual flair to each video. Lumen5's brand presets allow you to choose from hundreds upon themes, colors, fonts and more.",n
+721,123,li,,n
+723,721,span,23,n
+725,721,div,,n
+727,725,div,,n
+729,727,h3,CoSchedule,y
+731,727,div,,n
+733,731,p,CoSchedule,y
+735,731,strong,$40 per month,n
+747,725,div,"Organize all your marketing in once place with CoSchedule's content calendar, content optimization, and marketing education products. CoSchedule serves more than 100,000 marketers worldwide and helps them complete more work in less time.",n
+748,123,li,,n
+750,748,span,24,n
+752,748,div,,n
+754,752,div,,n
+756,754,h3,Scompler,y
+758,754,div,,n
+760,758,p,Scompler Technologies GmbH,n
+762,758,strong,€19 per 2 users per month,n
+766,752,div,"Your Content Command Center! From your goals and the benefits to the reader, define all elements of a content strategy. This can include personas and the buyer's journey to formats, media, and channels. Blog posts, websites, direct mail, brochures, social media - organize all your content through strategic planning issues. Then, assign it to the team for each workflow. You can export your content to WordPress or another CMS, or use it for publishing. Then promote it directly through social media using time-controlled, automatic postings. You can create reports to find out which content is most popular. Link your content with data from web analytics programs and ""social signal"" data to identify key performance indicators. Scompler allows companies to create a virtual newsroom, an editorial calendar, and a production control system. All the tools you need to plan topics, manage assets, post on social networks, analyze your successes, and control content production are all available in one place: Scompler.",n
+767,123,li,,n
+769,767,span,25,n
+771,767,div,,n
+773,771,div,,n
+775,773,h3,Mintent,y
+777,773,div,,n
+779,777,p,Mintent,y
+781,777,strong,$500.00 or,n
+787,771,div,"Mintent makes it easy to plan, create, publish and measure marketing content. Mintent is a powerful content marketing automation platform that allows marketers of all sizes to manage multiple editorial calendars and content marketing workflows. It also aligns messages with customer buying cycles, allowing them to get better returns on their content investment. Aecom, Teradata and CenturyLink are some of the top customers.",n
+788,93,ul,,n
+790,788,li,Previous,n
+791,788,li,,n
+793,791,span,You're on page,n
+794,791,text,1,n
+796,788,li,2,n
+798,788,li,3,n
+800,788,li,4,n
+802,788,li,5,n
+804,788,li,Next,n
+809,92,div,,n
+811,809,div,Reset All Filters,n
+812,809,div,,n
+814,812,div,Content Creation Features,n
+816,812,ul,,n
+820,816,li,Collaboration Tools,n
+827,816,li,Template Creation,n
+834,816,li,Marketing Content Creation,n
+841,816,li,Sales Content Creation,n
+857,816,li,Video Content Creation,n
+864,816,li,Content Planning,n
+871,816,li,Visual Content Creation,n
+878,816,li,Written Content Creation,n
+885,816,li,Advertising Content Creation,n
+892,816,li,Content Calendar,n
+899,816,li,Case Study Creation,n
+906,816,li,Content Creator Marketplace,n
+920,816,li,Create Reports,n
+927,816,li,Quiz Creation,n
+934,816,li,Content Topic Research,n
+938,809,div,,n
+940,938,div,Platform,n
+942,938,ul,,n
+946,942,li,SaaS,n
+953,942,li,iPad,n
+960,942,li,iPhone,n
+967,942,li,Android,n
+974,942,li,Windows,n
+981,942,li,Mac,n
+988,942,li,Linux,n
+995,942,li,On-Premise,n
+999,809,div,,n
+1001,999,div,Categories,n
+1003,999,ul,,n
+1004,1003,li,,n
+1007,1004,span,Content Management,n
+1011,1004,ul,,n
+1015,1011,li,Content Creation,n
+1022,1011,li,Blog,n
+1029,1011,li,Community,n
+1036,1011,li,Content Analytics,n
+1050,1011,li,Content Distribution,n
+1055,1011,li,,n
+1057,1055,span,Content Experience,n
+1059,1055,span,30,n
+1064,1011,li,Content Writing Services,n
+1071,1011,li,Desktop Publishing,n
+1080,1011,li,Digital Experience Platforms,n
+1087,1011,li,Document Control,n
+1094,1011,li,Document Generation,n
+1101,1011,li,Document Version Control,n
+1108,1011,li,Enterprise Content Management,n
+1115,1011,li,Headless CMS,n
+1122,1011,li,Online Form Builders,n
+1136,1011,li,Web to Print,n
+1143,1011,li,Website Builder,n
+1150,1011,li,WYSIWYG Editors,n
+1155,1003,li,,n
+1157,1155,span,Marketing,n
+1159,1155,span,77,n
+1164,1003,li,Multimedia,n
+1171,1003,li,Collaboration,n
+1178,1003,li,Sales,n
+1185,1003,li,Advertising,n
+1192,1003,li,Vertical Market,n
+1199,1003,li,Business Intelligence,n
+1206,1003,li,CRM,n
+1213,1003,li,Application Development,n
+1220,1003,li,Artificial Intelligence,n
+1227,1003,li,Operations Management,n
+1234,1003,li,Communications,n
+1241,1003,li,Data Management,n
+1248,1003,li,eCommerce,n
+1255,1003,li,Human Resources,n
+1262,1003,li,IT Management,n
+1269,1003,li,Productivity,n
+1276,1003,li,Project Management,n
+1283,1003,li,Education,n
+1290,1003,li,Retail Management,n
+1294,809,div,,n
+1296,1294,div,Training,n
+1298,1294,ul,,n
+1300,1298,li,,n
+1302,1300,span,Documentation,n
+1304,1300,span,103,n
+1307,1298,li,,n
+1309,1307,span,Live Online,n
+1311,1307,span,90,n
+1314,1298,li,,n
+1316,1314,span,Webinars,n
+1318,1314,span,57,n
+1321,1298,li,,n
+1323,1321,span,In Person,n
+1325,1321,span,45,n
+1332,1298,li,Videos,n
+1336,809,div,,n
+1338,1336,div,Customer Support,n
+1340,1336,ul,,n
+1342,1340,li,,n
+1344,1342,span,Online,n
+1346,1342,span,114,n
+1349,1340,li,,n
+1351,1349,span,Business Hours,n
+1353,1349,span,79,n
+1356,1340,li,,n
+1358,1356,span,24 or 7 Live Support,n
+1360,1356,span,32,n
+1365,1340,li,Not Offered,n
+1369,809,div,,n
+1371,1369,div,Pricing,n
+1373,1369,ul,,n
+1375,1373,li,,n
+1377,1375,span,Free Trial,n
+1379,1375,span,60,n
+1382,1373,li,,n
+1384,1382,span,Free Version,n
+1386,1382,span,29,n
+1390,809,div,Integrations,n
+1398,809,div,,n
+1400,1398,div,Organization Type,n
+1402,1398,ul,,n
+1406,1402,li,Mid Size Business,n
+1413,1402,li,Enterprise,n
+1420,1402,li,Small Business,n
+1427,1402,li,Government,n
+1436,1402,li,Nonprofit,n
+1443,1402,li,Freelance,n
+1447,809,div,,n
+1449,1447,div,Organization Size,n
+1451,1447,ul,,n
+1455,1451,li,Employees,n
+1462,1451,li,Employees,n
+1469,1451,li,10001+ Employees,n
+1476,1451,li,Employees,n
+1485,1451,li,Employees,n
+1492,1451,li,Employees,n
+1499,1451,li,Employees,n
+1506,1451,li,Employees,n
+1513,1451,li,Individual,n
+1517,809,div,,n
+1519,1517,div,Locations,n
+1521,1517,ul,,n
+1525,1521,li,Canada,n
+1532,1521,li,Europe,n
+1539,1521,li,UK,n
+1546,1521,li,USA,n
+1555,1521,li,Africa,n
+1562,1521,li,Asia,n
+1569,1521,li,Australia,n
+1576,1521,li,Germany,n
+1583,1521,li,South America,n
+1590,1521,li,Brazil,n
+1597,1521,li,China,n
+1604,1521,li,India,n
+1611,1521,li,Japan,n
+1618,1521,li,Mexico,n
+1625,1521,li,Middle East,n
+1632,1521,li,New Zealand,n
+1636,37,footer,,n
+1638,1636,section,,n
+1640,1638,div,Compare Business Software Add Your Software Software Advertising Options,n
+1644,1638,div,Feedback @slashdot,n
+1650,1636,section,,n
+1652,1650,div,Terms Privacy Opt Out,n
+1656,1650,div,© 2022 Slashdot Media . All Rights Reserved.,n
+1661,0,div,Sponsored,n
+1674,0,div,"You can see the current categories and filters you have applied below. You can clear them individually by clicking the X, or clear them all at once.",n

@@ -1,0 +1,72 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,article,,n
+3,2,div,,n
+9,3,h1,Equipment,n
+12,3,div,,n
+13,12,div,,n
+15,13,span,By,n
+16,13,div,,n
+17,16,text,Beth Peterson,n
+18,16,div,,n
+19,18,div,,n
+21,19,div,Beth Peterson,n
+23,19,div,"Beth Peterson is a pottery expert, sharing her knowledge about producing pottery on the wheel, as well as handbuilt ceramic sculpture, and the Raku firing technique of pottery making. She also teaches mask making to children and adults. Beth has over 30 years of experience crafting with clay.",n
+24,18,div,,n
+26,24,span,Learn more about The Spruce Crafts',n
+27,24,text,Editorial Process,n
+29,12,div,Updated on 06 or 04 or 19,n
+32,2,div,,n
+36,32,p,"There are several pieces of equipment that potters can use in their creative process. The three most often used are kilns, wheels, and some form of equipment used to bring dry clay to a usable form.",n
+39,32,div,,n
+40,39,ul,,n
+42,40,li,,n
+46,42,div,01,n
+49,42,div,,n
+53,49,h2,Kilns,y
+55,49,p,"The firing process is the most essential part of pottery. It transforms clay into a ceramic material. Although very primitive firing can be done in a pit, most pottery is fired inside a kiln.",n
+57,49,p,"A kiln is basically a container in which heat is built up to the temperatures required to fire ceramics. The heat can be created by running electricity through heating elements or by burning fuels. For more information, read:",n
+58,49,ul,,n
+60,58,li,Kiln Buying Basics,n
+63,58,li,Kiln Is It?,n
+66,58,li,Electric Kiln Basics,n
+69,58,li,Specialized Kilns,n
+71,49,p,.,n
+74,40,li,,n
+78,74,div,02,n
+81,74,div,,n
+85,81,h2,Potter's Wheels,y
+87,81,p,The potter's wheel is probably the piece of equipment most associated with the creation of pottery. Various styles of wheels have been used in different cultures through the ages.,n
+89,81,p,"Human-powered wheels use a heavy flywheel attached to a wheelhead. The flywheel is rotated around its axis using hand or leg power, which then powers the wheelhead as the potter centers or throws the clay.",n
+91,81,p,"Electric wheels are extensively used today. Electricity, controlled by a foot pedal, powers, and controls the rotation of the wheelhead. Learn more about them at:",n
+94,81,li,Electric Potter's Wheels,n
+96,81,p,purchasing a potter's wheel? Check out:,n
+99,81,li,How to Buy a Potter's Wheel,n
+102,40,li,,n
+106,102,div,03,n
+109,102,div,,n
+113,109,h2,Clay Processors,y
+115,109,p,"These pieces of equipment prepare clay for use. Generally speaking, only potters who are doing a large volume of work will need to own their own. Commercially available clays have already been mixed and pugged.",n
+117,109,p,"The three main pieces of clay processing equipment are clay mixers, pugmills, and pugger-mixers. Clay mixers only mix clay body ingredients and are also used to recycle clay scraps. Pug mills homogenizes clay that has already been mixed. Pugger-mixers can do both.",n
+120,39,nav,,n
+123,120,div,Related Topics,n
+127,120,li,Pottery,n
+164,0,div,,n
+165,164,ul,,n
+174,165,li,How to Find or Create a Small Pottery Studio,n
+184,165,li,What is Leather-hard Pottery?,n
+194,165,li,How to Use a Kiln Safely at Home,n
+204,165,li,Pro Tips,n
+214,165,li,Here's How to Throw a Basic Cylindrical Pot,n
+224,165,li,Should You Glaze and Fire Greenware Pottery?,n
+234,165,li,Is There a Difference Between Pottery and Ceramics?,n
+244,165,li,The 6 Stages Clay Goes Through During Temperature Change,n
+248,164,ul,,n
+257,248,li,What Is Raku Pottery?,n
+267,248,li,How to Use Press Molds in Making Ceramics,n
+277,248,li,Grog in Pottery,n
+287,248,li,Know These Principals Before You Buy an Electric Kiln,n
+297,248,li,What Is Agateware and How Is It Created?,n
+307,248,li,Learn Everything You Need to Know About Raku Firing,n
+317,248,li,How to Do Salt Glazing,n
+327,248,li,Adding Glass in Your Ceramics Work,n

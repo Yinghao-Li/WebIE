@@ -1,0 +1,50 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+38,0,div,,n
+48,38,h1,Blog,n
+51,38,div,,n
+53,51,h1,Art Supply list,n
+55,51,div,Posted in Homeschool students,n
+60,51,p,"A common question that I get from students and parents that are interested in taking the online AP 2D Design class and or or the online AP Drawing class, is what supplies are required?",n
+64,51,p,"The simple answer is that I don’t require any specific supplies, but I also want to provide you with some ideas to get you started. I don’t require specific supplies for a few reasons.",n
+65,51,ol,,n
+67,65,li,"AP Art is about students finding their own style and voice, which means that they also need to make decisions about what materials they’ll use. I of course will make recommendations, but will never dictate what they HAVE to use.",n
+69,65,li,"Because the courses are online and supplies aren’t provided, it’s important to keep in my mind that everyone has access to different materials and everyone is creating on a different budget. I don’t want budget or access to hold anyone back from creating.",n
+71,51,h2,"Let’s start by thinking about FREE things that you have access to, and can use to create to art.",n
+72,51,ul,,n
+74,72,li,Cardboard. Cardboard boxes are great surfaces to draw and paint on. You can also experiment with corrugated cardboard and pull away the top layer to reveal the texture below. Explore the work by Artist Nicki Crock,n
+77,72,li,Craft Paper,n
+79,72,li,Magazines and catalogs,n
+81,72,li,Matt Board,n
+83,72,li,Scrap lumber,n
+85,72,li,"Paper bags, these are great to cut apart and use",n
+86,72,li,,n
+87,86,text,"Check your plastic, if you get take out and it comes in a plastic container, look to see if it’s #6 plastic. That’s the same thing as shrinky dink. You can of course purchase sheets of shrinky dink, but it’s even more fun to use what you would usually throw out. If you’ve never used shrinky dink this is a good video to get you started.",n
+89,86,ul,,n
+91,89,li,A few notes from the video. You can also use colored pencil.,n
+93,89,li,"While you can trace designs you can also draw your own, expect it to shrink 3xs, so draw much larger than you want the finished piece to be.",n
+95,89,li,"If you’re making a charm, punch a hole using a hole punch, the hole will shrink to a pretty small size. You don’t want to try to punch a hole after it shrinks.",n
+98,51,p,Challenge,n
+105,51,h2,"As you look to purchase some supplies, below is a list of things that I’ve used and like.",n
+108,51,li,,n
+110,108,li,"Colored Pencils, I like Prismacolor Premier Colored Pencils, Soft Core, 24 Pack the best. You might also want to consider Water Color Colored Pencils",n
+114,108,li,Oil and or chalk pastels,y
+116,108,li,Sharpies. If you have a really serious artist you might also want to check out Copic Marker 12-Piece Sketch Basic Set,n
+120,108,li,"Acrylic paint in red, blue, yellow, black and white , Liquitex Basics Matt Acrylic Color Primary Paint Set",n
+124,51,li,,n
+126,124,li,Watercolor paints,y
+128,124,li,"Watercolor Paper Reeves 12 Sheets 140 lb Cotman Spiral Bound Water Color Paper, 9″ by 12″",n
+134,51,li,Drawing Paper Canson C à Grain Drawing Paper Pads 14 in. x 17 in.,y
+140,51,li,"paint brush Craftamo Art Paint Brush Set for Watercolor, Acrylics, Oil and Face Painting – 15 Brushes with Carry Case or Pop Up Stand",y
+144,51,li,,n
+146,144,li,"Stretched canvases I usually just wait until there is a big sale, and then stock up.",n
+148,144,li,Drawing pencils Pro Art 18-Piece Sketch or Draw Pencil Set,y
+151,51,h1,Unconventional places to look,n
+153,51,p,"One of my favorite places to go is the Restaurant supply store . This may seem like an odd place to go to look for art supplies, but once you’re there, I think you’ll see what I mean. I love looking through all of the paper supplies and thinking about what I can create. I few items that I always buy are the rolls of craft paper and large packs of deli paper. I also purchased the largest pack of giant coffee filters possible. They’re fun for watercolors and making paper flowers, and the pack lasted me forever.",n
+155,51,h1,"If you have kids at home and are looking for ways to keep them creating, check out , Sketch. Create. Explore",n
+164,38,div,,n
+169,164,div,I wish I had an assistant!,n
+176,164,p,,n
+177,176,text,© 2022,n
+179,176,strong,The Unstandardized Standard,n
+180,176,text,All Rights Reserved.,n

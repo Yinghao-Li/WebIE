@@ -1,0 +1,69 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+639,0,div,,n
+669,639,div,,n
+672,669,h1,Battle Ground Public Schools,n
+676,669,div,,n
+685,676,h5,NEWS,n
+694,676,h5,SKYWARD,n
+703,676,h5,CONTACT,n
+712,676,h5,JOBS,n
+1332,639,div,,n
+1337,1332,div,,n
+1350,1337,h5,,n
+1351,1350,text,Meals,n
+1353,1350,br,and Menus,n
+1361,1337,h5,,n
+1362,1361,text,Bus,n
+1364,1361,br,Routes,n
+1372,1337,h5,,n
+1373,1372,text,Community,n
+1375,1372,br,Education,n
+1383,1337,h5,,n
+1384,1383,text,Academic,n
+1386,1383,br,Calendars,n
+1394,1337,h5,,n
+1395,1394,text,Safe Schools,n
+1397,1394,br,Alert,n
+1405,1337,h5,,n
+1406,1405,text,Emergency,n
+1408,1405,br,and Weather,n
+1419,1332,div,,n
+1421,1419,h2,School Supply Lists,n
+1424,1419,h3,Battle Ground Schools will provide basic school supplies,n
+1426,1419,p,"Thanks to a rule change that will provide the district with revenue from timber sales that occur within the district’s boundaries, starting with the 2018-19 school year:",n
+1427,1419,ul,,n
+1428,1427,li,,n
+1430,1428,strong,K-4 families will not,n
+1431,1428,text,"need to purchase necessities like paper, pencils, erasers, scissors, and crayons",n
+1432,1427,li,,n
+1434,1432,strong,K-4 families,n
+1436,1432,strong,will,n
+1437,1432,text,still need to provide backpacks and perhaps reusable water bottles and earbuds for,n
+1439,1427,li,"If you have any additional questions, please contact your school office",n
+1441,1419,h4,2022 – 2023 School Supply Lists,n
+1443,1419,p,Click on your school name below for an updated school supply checklist. Each list will have recommended items by grade level with quantities per item. Local stores use these lists to stock the needed items for purchase. School supply lists for the 2022-23 school year are available below.,n
+1445,1419,h4,Middle School and ALE Supply Lists,n
+1455,1419,h4,High Schools,n
+1457,1419,p,"Battle Ground, Prairie, and Summit View high schools:",n
+1460,1419,li,"Students will receive detailed lists from teachers on their first day of school. We recommend students come prepared with basic items including a backpack, notebook, pen, and pencils.",n
+1461,1419,p,,n
+1464,1461,strong,Back to School Information,n
+1466,1461,br,"Looking for more back-to-school information like bus routes, immunization forms, and calendars? Check our handy Back to School Guide .",n
+1476,639,div,,n
+1479,1476,div,,n
+1481,1479,h3,GET IN TOUCH,n
+1482,1479,div,,n
+1483,1482,p,,n
+1484,1483,text,"11104 N.E. 149th Street,",n
+1486,1483,br,"Brush Prairie, WA 98606",n
+1487,1482,p,,n
+1488,1487,text,P.O. Box 200,n
+1490,1487,br,"Battle Ground, WA 98604",n
+1494,1482,p,communication@battlegroundps.org,n
+1497,1476,div,,n
+1499,1497,h3,Read Our Newsletter,n
+1505,1497,div,Start Here,n
+1509,639,div,,n
+1511,1509,div,"© 2022 Battle Ground Public Schools. All rights reserved. Notice of Nondiscrimination, Accessibility and Privacy statements Report Abuse | Entries",n
+1518,1509,span,Back to Top,n

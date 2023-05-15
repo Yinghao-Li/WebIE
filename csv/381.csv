@@ -1,0 +1,116 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+4,2,div,,n
+5,4,div,,n
+9,5,h1,It’s Party Time! Nail Every Event with This Party Planning Checklist,n
+10,5,div,,n
+12,10,span,Parties,n
+13,10,text,|,n
+15,10,span,Event Planning,n
+16,5,div,,n
+20,16,p,"Whether you’re throwing a birthday bash or setting up a sweet soiree for a baby shower , event planning requires thought and preparation. You need to think about menu items, party decor, the guest list, and entertainment. From the smallest event to the largest, hosting a memorable party comes down to effective planning. With all the excitement and a seemingly endless mountain of to-dos, it’s easy to forget things.",n
+24,16,p,"Don’t stress. We’ve done the hard work for you. With this handy party planning checklist, you can go step-by-step so nothing gets missed. From your bestie’s birthday party to an elaborate engagement celebration , here’s everything you need to do to host an event your guests are sure to love.",n
+30,16,h2,Party Planning Checklist,n
+33,16,p,"When it comes to being the host with the most, preparation is everything. Large events such as weddings require more planning time. That’s because you have to coordinate with vendors and event spaces that have limited availability.",n
+37,16,p,"On average, a wedding takes 13 to 18 months to plan. Save the dates should be sent four to six months before the big day, or even six to twelve months before for destination weddings. This party planning guide is best suited for planning other events such as tea parties, dinner parties, birthday parties, and similar events. You can still use it for weddings, but you should triple or quadruple the timeline if you do.",n
+41,16,p,"For smaller events like a dinner party , you don’t have to plan as far in advance. We’ve designed this party planning checklist with a time frame to help you stay on track. Adjust the planning times to suit your specific event if you need a little extra prep time.",n
+46,16,h3,Months in Advance,n
+48,16,p,"The early stages of the event planning process are all about the basic details. Now, the focus should be on answering the questions of who, what, where, and when.",n
+49,16,ul,,n
+50,49,li,,n
+52,50,strong,Choose a theme,n
+53,50,text,"Depending on the type of party you’re hosting, start by picking a party theme. You can dream up an exotic-themed baby shower, a virtual dance party , or a Memorial Day barbecue . The theme can help you choose party colors and will set the tone for your event decor.",n
+58,49,li,,n
+60,58,strong,Set your budget,n
+61,58,text,"During this time, you’ll also want to consider your budget. A party can cost as much or as little as you want. Whether you’re looking to throw an expensive bash like a celebrity or something quaint and cozy, determining your budget early on ensures you won’t spend more than you want to.",n
+64,49,li,,n
+66,64,strong,"Select the Date, Time, and Venue",n
+67,64,text,"Decide on the date and time when you want to host your party. Pick the ideal date for your event and have a few backup options in case the day you want doesn’t work for guests or your venue. If you decide not to host the event in your home, call a few venues to see if they have availability on the date of your choosing. Now is also the time to book any must-have entertainers or start creating a playlist.",n
+68,49,li,,n
+70,68,strong,Create the Guest List,n
+71,68,text,"To keep costs from spiraling out of control, decide how many people you’d like to invite. Last-minute attendee additions can dramatically increase costs so try to stick to your number.",n
+74,16,h3,1 Month Before the Event,n
+76,16,p,"One month before your bash begins, start sending out invitations, arranging food options, and designing your decor. These are the little things that make a big difference when it comes to a successful party. Take time to think through each decision and keep your guests’ preferences in mind. After all, you want them to have a great time and remember the event for years to come.",n
+78,16,li,,n
+80,78,strong,Invite your guests,n
+81,78,text,"Send out invitations to all of your guests. Include important information such as the date and time, and attire requirements for your type of party — such as a cocktail party, black-tie event, or children’s party. Looking for some inspiration? Here are some great ideas for birthday party invitations , housewarming invitations , and cocktail party invitations .",n
+90,16,ul,,n
+91,90,li,,n
+93,91,strong,Order food and beverage,n
+94,91,text,"For your party, you can choose to make your own food and beverages, buy items from a local shop, or work with a caterer. If you work with a caterer, you can design a meal that suits your event. If you aren’t working with a caterer or chef, you can order food the day before the event. This includes things like ordering pizza from the local pizzeria or ordering sandwiches for an afternoon tea party. Make sure to call in your order the day prior and arrange for an appropriate pick-up time on the event day that won’t conflict with getting ready. You can also move this task to the day before the event if you’re planning on making your own party platters, snacks , and appetizers.",n
+97,90,li,,n
+99,97,strong,Design decor,n
+100,97,text,"Buy supplies to make DIY decor or purchase decor from your favorite party planning stores. You can use upcycled decorations , get crafty with linens, or rent decor from a professional party planning business. Choose centerpieces for a holiday party and add fun party decorations like confetti, balloons, or tassel garlands to your shopping list for a kid’s event.",n
+109,16,h3,the Event,n
+111,16,p,"The week leading up to your event involves tying up loose ends. During this time, check up on food and beverage orders to make sure everything is available. Confirm the guest list by reviewing RSVPs and updating any last-minute changes. Now the fun begins! Start decorating your space whether it’s your home or a rented venue.",n
+112,16,ul,,n
+113,112,li,,n
+115,113,strong,Confirm RSVPs,n
+116,113,text,Review your guest list and note any changes. Inform the caterer if there are any changes to your meal orders due to guest list changes. Greenvelope can help you stay on top of these details. You track and manage your RSVPs with just a few clicks.,n
+119,112,li,,n
+121,119,strong,Set the scene,n
+122,119,text,Start hanging up the decor in your home or reach out to the venue to set a date and time to decorate the space.,n
+124,112,li,,n
+126,124,strong,Confirm food and drink orders,n
+127,124,text,Contact any food providers to make sure there aren’t any substitutions in your menu. Reconfirm the food delivery or pickup time to avoid issues on the day of the event.,n
+130,16,h3,the Party,n
+132,16,p,"The big day is finally here and you’re ready to boogie down. Before you can let loose and enjoy the fruits of your labor, here are a few final tasks to complete.",n
+134,16,li,,n
+136,134,strong,Buy ice,n
+137,134,text,"Pick up ice or arrange for the food provider to drop off ice before the event starts. If you’re busy running around handling other party planning tasks, delegate this job to someone you trust.",n
+139,16,li,,n
+141,139,strong,Prepare,n
+142,139,text,"Sometimes, things don’t go according to plan. If the weather changes for your event, make sure you have umbrellas or a tent on hand to keep guests dry. Bad weather doesn’t have to mean disaster for your important day. Just make sure to plan for potential weather conditions with things like citronella candles to keep mosquitos at bay and light blankets if the evening cools off.",n
+144,16,li,,n
+146,144,strong,Greet guests and hand out party favors,n
+147,144,text,"Make sure you’re ready in time to greet your guests and make them feel welcome. When the event is over, bid them adieu with a party favor to remember the special day.",n
+149,16,li,,n
+151,149,strong,Clean up,n
+152,149,text,"Every great party must come to an end. Once the last guest has ditched the dance floor, take down your decor. To make your life easier, you can also hire an event planner or event management company to help disassemble party supplies and clean up after the guests are gone.",n
+155,16,h2,Let Greenvelope Make Your Party Planning Easier,n
+158,16,p,"Greenvelope makes hosting an event easy with party planning tips and tools to stay organized. For more party ideas, check out our blog where you’ll find tips on hosting everything from birthday parties to wedding celebrations . You’ll find unique ideas to make your DIY decor more glamorous and discover themes that turn any party into a true work of art.",n
+166,16,p,"We think party planning should be a blast. Ditch the idea that planning is stressful. With this printable party checklist, planning your next event will be more enjoyable. Starting a few months before your big day, this guide shows you everything you need to do to host a successful event.",n
+167,4,nav,,n
+169,167,span,PREV,n
+171,167,span,NEXT,n
+172,2,div,,n
+177,172,div,Search for,n
+181,172,div,WORDING TOOL,n
+185,172,div,SOCIAL,n
+190,172,div,WELCOME,n
+191,172,div,,n
+192,191,text,"Greenvelope is a design-focused and eco-friendly digital stationery company focused on contemporary correspondence. Our paperless invitations are elegant for your wedding, playful for your birthday and formal for your annual board retreat. We are dedicated to making your event memorable from the Save the Date to the Thank You Note, reducing paper waste, and donating to environmental efforts.",n
+195,191,br,"Greenvelope.com maintains the Stationers blog to showcase new designs, explore event trends, and share the delights of all things celebration and stationery.",n
+199,172,div,CATEGORIES,n
+200,172,div,,n
+202,200,div,Wedding,n
+204,200,div,Trends and Ideas,n
+206,200,div,Etiquette,n
+208,200,div,Real Weddings,n
+210,200,div,Ecofriendly,n
+212,200,div,Wedding Related Events,n
+214,200,div,Destination,n
+216,200,div,Parties,n
+218,200,div,Holiday,n
+220,200,div,DIY,n
+222,200,div,Event Planning,n
+224,200,div,Inspiration,n
+226,200,div,Social and Special Events,n
+228,200,div,Professional,n
+230,200,div,Company Culture,n
+232,200,div,Customer Service,n
+234,200,div,Best Practices,n
+236,200,div,Corporate Events,n
+238,200,div,Customer Features,n
+240,200,div,Going Green,n
+242,200,div,Giving Back,n
+244,200,div,Designer,n
+246,200,div,Behind the Scenes,n
+248,200,div,Designer Highlight,n
+250,200,div,New Collection,n
+252,200,div,Design Trends,n
+254,200,div,Designer Insights,n
+256,0,div,,n
+258,256,div,Powered by Greenvelope.com,n
+261,256,div,Service Contact Us,n

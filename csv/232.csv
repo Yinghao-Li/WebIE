@@ -1,0 +1,83 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+17,1,h1,Safety Tips,n
+21,1,div,Reviewed by,n
+26,1,div,,n
+28,26,ul,,n
+30,28,li,,n
+34,30,span,Listen,n
+37,30,div,,n
+40,37,span,Play,n
+43,37,span,Stop,n
+49,37,span,Volume,n
+54,37,span,mp3,n
+57,37,span,Settings,n
+60,37,span,Close Player,n
+63,28,li,,n
+66,63,span,Larger text size,n
+69,63,span,Large text size,n
+72,63,span,Regular text size,n
+76,28,li,Print,n
+78,26,div,,n
+80,78,span,en español,n
+82,78,span,Consejos de seguridad,n
+85,26,div,,n
+87,85,p,"With everyone carrying wooden sticks and hitting a hard plastic ball, you can see why field hockey players face a risk of getting hurt.",n
+89,85,p,"To keep things as safe as possible while playing field hockey, follow these tips.",n
+91,85,h3,Safe Field Hockey Gear,n
+93,85,p,The right protective gear is important,n
+94,85,ul,,n
+95,94,li,,n
+97,95,strong,Cleats.,y
+98,95,text,"Choose a pair of shoes with molded cleats or ribbed soles. Shoes with screw-in cleats may carry a higher risk of injury, so only use them when you need extra traction, such as on a wet field. Make sure your cleats fit properly and lace them tightly every time you practice or play.",n
+99,94,li,,n
+101,99,strong,Shin guards.,y
+102,99,text,"Field hockey shin guards, which are made of plastic and foam, wrap farther around the lower leg and offer more ankle protection than soccer shin guards. Some players like to wear thin socks under their shin guards to make them more comfortable.",n
+105,94,li,Safety or sports glasses.,y
+106,94,li,,n
+108,106,strong,Mouthguards.,y
+109,106,text,"Mouthguards are a good way to protect your teeth, lips, cheeks, and tongue. Many leagues require players to wear them.",n
+110,94,li,,n
+112,110,strong,Gloves.,y
+113,110,text,broken fingers and help keep hands warm in cold weather.,n
+114,94,li,,n
+116,114,strong,Masks.,y
+117,114,text,"During short corner plays, defenders may choose to wear protective masks to reduce their risk of facial injuries. Rules governing the use of masks vary from league to league.",n
+119,85,h3,Goalie Gear,n
+121,85,p,"At the highest levels of field hockey, players can shoot the ball at nearly 100 mph. Even when it's not moving that fast, a field hockey ball is very hard. Besides courage, goalies need:",n
+122,85,ul,,n
+123,122,li,,n
+125,123,strong,Head protection.,y
+126,123,text,Helmets are required for all goalies and should have a cage or mask that fully covers the face. Mouthguards and throat protectors usually are required too.,n
+127,122,li,,n
+129,127,strong,Leg and foot protection.,y
+130,127,text,"Goalies should wear padded goalie pants, pelvic protectors, leg guards that fully cover the lower legs and allow freedom of movement, and the correct size kickers .",n
+131,122,li,,n
+133,131,strong,Upper body and arm protection.,y
+134,131,text,"Goalies should wear chest pads, arm guards, and elbow protectors, which usually are connected. They should be the correct sizes to prevent them from slipping or not offering enough protection.",n
+135,122,li,,n
+137,135,strong,Hand protection.,y
+138,135,text,Right- and left-hand protectors should be the correct size and offer plenty of padding to stop hard shots.,n
+140,85,h3,Safe Training,n
+142,85,p,"To prevent injuries during practice, players should",n
+143,85,ul,,n
+145,143,li,Get a sports physical before starting any new sport.,n
+149,143,li,Always warm up and stretch before playing.,n
+153,143,li,"Inspect the field to make sure there are no holes or other obstacles, including debris and broken glass. Store extra sticks, balls, and other equipment well off to the sides of the field.",n
+155,143,li,Learn and use proper techniques.,n
+157,143,li,"Stop training if they get hurt or feel pain. Hurt players must get checked by an athletic trainer, coach, doctor, or nurse before going back on the field.",n
+159,143,li,"fluids before, during, and after games and practices.",n
+161,143,li,Know the team plan,n
+163,85,h3,Safe Play,n
+165,85,p,"During games, players should",n
+166,85,ul,,n
+168,166,li,Follow all safety rules used during practice.,n
+170,166,li,"Learn and use proper techniques, particularly when it comes to stick-handling, tackling, and shooting.",n
+172,166,li,the referees and not argue with their calls.,n
+174,166,li,"Stay calm if an opposing player does something they disagree with. Let the coach and the referee know, and let them handle the situation.",n
+175,26,div,,n
+176,175,div,,n
+178,176,strong,Reviewed by,n
+179,176,text,"Amy W. Anzilotti, MD",n
+181,175,div,Date reviewed,n

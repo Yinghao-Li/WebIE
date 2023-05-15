@@ -1,0 +1,48 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+13,2,p,We know it can be tough to remember everything when it comes to skiing and we want you to be prepared and comfortable. We've compiled a few equipment lists geared towards our different camps and courses. If you have any further questions about gear please contact us before your camp at info@girlsdoski.com,n
+18,2,div,,n
+24,18,div,,n
+26,24,h3,Glacier Travel and Guides Course,n
+98,24,p,Glacier Rescue Equipment,n
+100,24,p,Contact Girls Do Ski if you do not have any of the below items as we may be able to assist in finding you the right equipment.,n
+101,24,ul,,n
+103,101,li,Ski helmet,y
+106,101,li,Climbing Harness,y
+109,101,li,3 locking carabiners,y
+112,101,li,3 non-locking carabiners,y
+115,101,li,Ice screw,y
+118,101,li,One or Two 5 meter 6mm or 7mm cordallette,y
+121,101,li,One 1.2meter 6mm or 7mm cordallette - or hollow core prussic,y
+124,101,li,Ice Axe,y
+127,101,li,Optional items,n
+130,101,li,Optional Item,n
+133,24,p,Clothing,n
+135,24,p,"Since this is a field instructional course, we will have periods of exertion followed by periods of inactivity. Therefore, you will want to layer and have extra warm layers. The most important consideration for clothing is the ability to regulate temperature as you change from periods of activity to periods of rest. We discourage cotton clothing as it causes rapid heat loss when wet. Below is our recommended list:",n
+137,24,ul,,n
+140,137,li,Long Underwear . They should be synthetic such as Capilene or Merino Wool. Patagonia Capilene and Merino base layers are good options.,y
+143,137,li,Warm pants,y
+146,137,li,Warm shirt,y
+149,137,li,Sweater or fleece jacket,y
+152,137,li,Insulated jacket or vest. This is essential for staying warm while taking breaks or when the weather gets really cold. The Patagonia Down Fitz Roy jacket is a good example of a warm insulated jacket.,y
+155,137,li,"Waterproof jacket with hood and pants A hardshell set up is essential when the weather turns really wet. Gore-Tex, H2NO or similar material works great.",y
+158,137,li,socks goes a long way to preventing blisters.,y
+161,137,li,Wool or fleece hat that covers the ears,y
+164,137,li,Warm gloves and light glove liner,y
+167,137,li,"Gaiters, only needed if your ski pants are not elasticized at the ankle",y
+175,18,h3,Touring camps and 12 Under 20,n
+251,18,div,,n
+253,251,h3,Resort,n
+254,251,ul,,n
+256,254,li,Skis w bindings,y
+258,254,li,Boots,y
+260,254,li,Poles,y
+262,254,li,Helmet,y
+264,254,li,Ski Jacket,y
+266,254,li,Ski Pants,y
+268,254,li,Gloves or mitts,y
+270,254,li,Hand warmers,y
+272,254,li,Long underwear either wool or synthetic,y
+274,254,li,Ski Socks,y
+276,254,li,Sunscreen or lip chap,y

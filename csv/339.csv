@@ -1,0 +1,133 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+8,5,h1,What Should Be In A Makeup Kit?,n
+9,5,div,,n
+13,9,p,"There are thousands of cosmetic products out there, which makes knowing what you actually need to include in a makeup kit quite challenging. Whether you are a complete beginner or a seasoned professional, these are the 25 must-have items that your makeup kit should definitely include:",n
+18,9,p,FOR YOUR FACE,n
+22,9,li,A Face Mist,y
+26,9,p,"Face mists have become so much more popular lately, and for good reason too! They are designed to be used either before or after you apply your makeup – or both!",n
+28,9,p,What do face mists actually do?,n
+31,9,p,"things, including",n
+32,9,ul,,n
+35,32,li,Hydrate the skin,n
+38,32,li,Set makeup,n
+41,32,li,Cool the skin down to prevent excess sebum production and therefore acne breakouts,n
+44,32,li,the day,n
+50,9,p,A Moisturizer,y
+53,9,p,Just about every makeup artist out there will tell you how important it is for the skin to be properly moisturized before you begin applying any makeup.,n
+56,9,p,"Hydrating your face will prevent your makeup from clumping up in dry areas, or seeping in to any fine lines and wrinkles.",n
+59,9,p,Wondering if you need to use a moisturizer if you already use a primer?,n
+62,9,p,"Yes, definitely. Using a moisturizer first will ensure that your primer application is more even, giving you a flawless finish.",n
+68,9,p,A Face Primer,y
+74,9,p,"Face primers are designed to smooth away any imperfections, making fine lines, wrinkles and enlarged pores so much less visible.",n
+78,9,p,"Many primers also contain additional benefits, such as reflective ingredients to give your skin some extra radiance, or SPF for sun protection.",n
+80,9,p,"When using a primer, make sure that you give it a few minutes to soak into your skin and properly set before continuing on with the rest of your makeup routine.",n
+86,9,p,Color Correctors,y
+90,9,p,"If you ever have to deal with dark spots and discoloration, as well as redness, puffiness or shadows, then color correctors are definitely an essential in your makeup kit.",n
+93,9,p,You have two options when it comes to picking color correctors,n
+94,9,li,,n
+95,94,text,Single Formulas –,n
+97,94,span,"these feature just one color, designed to target a specific issue, such as yellow or green to counter redness",n
+98,9,li,,n
+99,98,text,A Palette –,y
+101,98,span,"shades, making it easy to target multiple skin concerns",n
+107,9,p,A Foundation,y
+111,9,p,"A quality foundation is one of the most important products in your makeup kit, as this is what will form the base for the rest of your look.",n
+114,9,p,"If you are putting together a kit for personal use, then go ahead and include your favorite go-to foundation.",n
+117,9,p,"If you plan on using the kit on other people, then you will need a variety of different shades and formulas. A cream palette can often be the easiest way to go, because these contain different shades, work with almost all skin types, and are very compact.",n
+126,9,p,Concealers,y
+130,9,p,You should have at least two concealers in your makeup kit.,n
+133,9,p,"The first should be a concealer for the face, meaning that its shade should match the foundation that you are putting into your makeup kit.",n
+136,9,p,"You should also add in an under-eye concealer. These will feature gentler formulas that are suited for the delicate skin around your eyes. They are ideal for brightening up the eye area, making it easier to apply the rest of your makeup.",n
+141,9,p,A Loose Powder,y
+145,9,p,The foundation and concealer are usually the first makeup products that are applied to the face.,n
+148,9,p,"After you have done this, it always helps to set these products in place with a loose powder. This not only makes the rest of your makeup easier to apply, but will also help your foundation and concealer to last for so much longer.",n
+154,9,p,A Blush,y
+159,9,p,"blush goes a long way, making this another makeup kit essential.",n
+162,9,p,"Choose between powder, gel and cream formulas, opting for whichever one works best with your skin type. Of course, the shade of blush you choose is important too. Avoid anything too bright, and make sure that the shade works well with your skin tone.",n
+164,9,p,"Again, if you are going to be using your makeup kit on other people, then a blush palette will ensure that you have enough of a variety of shades.",n
+168,9,li,A Bronzer,y
+171,9,p,"Many blush palettes already contain a bronzer, but if yours doesn't have one, then you will need to purchase a dedicated bronzer.",n
+174,9,p,"Just like with the blush, you only need a small amount of this to add dimension to a look. Pick a shade that is one or two shades darker than your natural skin tone, as this will give you that beautiful sun-kissed glow.",n
+178,9,li,A Highlighter,y
+182,9,p,"Just a small amount of highlighter can completely transform a face, so long as you apply it in the right areas.",n
+185,9,p,"Highlighters come in so many different formulas, from powders and sticks to liquids and creams. If you are new to using highlighters, a powder is usually the easiest to apply.",n
+189,9,li,A Contour Product,y
+194,9,p,"You can use a number of different products to contour your face, but the easiest method tends to be with a cream stick.",n
+197,9,p,"These are so simple to apply to the specific parts of your face that need it, and will give you instant definition. However, whether you use a stick, cream, powder, or anything else, make sure that you blend it in well.",n
+201,9,li,A Setting Spray,y
+205,9,p,"If the face mist you are including in your makeup kit is formulated to double up as a setting spray, then this is an item that you don't really need.",n
+208,9,p,"However,",n
+211,9,p,How does it do this?,n
+214,9,p,"By regulating your skin's moisture levels and temperature, ensuring that neither interferes with the makeup you have applied.",n
+217,9,p,FOR YOUR EYES,n
+220,9,li,An Eyeshadow Primer,y
+224,9,p,"If you want your eyeshadow to easily glide onto your lids and then stay in place for hours, an eyeshadow primer is a must.",n
+227,9,p,"This should be applied on whichever parts of the skin you are planning on applying an eyeshadow. While this is usually the lids, adding a small dab of primer underneath your eye can be useful if you are going to be adding some color to the skin below your lash line.",n
+231,9,li,An Eyeshadow Palette,y
+235,9,p,"While there is nothing wrong with putting a few solo shadow shades into your makeup kit, an eyeshadow palette gives you more variety when it comes to choosing a shade and finish .",n
+244,9,p,"Your basic palette should contain shades that are simple and versatile, but there is nothing wrong with adding in a few bolder and more unique palettes too.",n
+248,9,li,Eyeliner Pencils,y
+252,9,p,"Not only are eyeliner pencils so quick and easy to use, but they can also really transform your face. They can be applied in different areas to bring about varied results, from a rimmed waterline for definition to a smoky eye for added allure.",n
+255,9,p,"You will need eyeliner pencils in a few different colors, with a few must-haves including:",n
+256,9,ul,,n
+258,256,li,Black,n
+260,256,li,Brown,n
+263,256,li,Peach or white,n
+267,9,li,Liquid Liners,y
+271,9,p,"A liquid liner can usually be applied so much more precisely than a pencil, and they don't tend to smudge throughout the day either.",n
+274,9,p,They are also what you need if you plan on creating dramatic looks with your makeup.,n
+277,9,p,"There are a few different types of liquid liners available, from those that work like a pen to those that need to be applied with a brush. Give them all a try to find what you are most comfortable using.",n
+282,9,li,An Eyelash Curler,y
+286,9,p,"An eyelash curler will give the whole eye area a huge lift, while also making your lashes look so much longer, even before you have applied your mascara.",n
+289,9,p,This then means that less mascara is needed in order to achieve your desired effect.,n
+293,9,li,Mascara,y
+297,9,p,"There are so many different types of mascaras out there, from volumizing to lengthening. Pick the formula that your lashes would benefit from the most.",n
+300,9,p,mascara you include in your makeup kit...,n
+303,9,p,"Black tends to be the most universal, even on blondes. You may also want to include a waterproof formula for special outdoor occasions.",n
+307,9,li,A Brow Kit,y
+311,9,p,Poorly groomed brows will immediately make the rest of your makeup look so much messier. Keeping a mini brow kit in your main makeup kit will ensure that this never happens to you.,n
+314,9,p,Your brow kit should include,n
+315,9,ul,,n
+317,315,li,Tweezers,n
+319,315,li,An eyebrow pencil,n
+321,315,li,An eyebrow powder,n
+324,315,li,An eyebrow pomade,n
+327,9,p,FOR YOUR LIPS,n
+331,9,li,A Lip Balm,y
+336,9,p,"Lip balms are designed to protect the lips, making this a product that you will likely use on a daily basis.",n
+339,9,p,"Look for one that contains nourishing ingredients, because the skin on your lips is so delicate and fragile. Shea butter and cocoa butter are great for hydration, while vitamins and antioxidants will give your lips long-term protection.",n
+343,9,li,A Lip Gloss,y
+347,9,p,"You can either wear a lip gloss over the top of a lip balm, or apply it over your lipstick.",n
+352,9,p,"Either way, the glossy finish and plumping effect that a lip gloss has is something that everyone can benefit from.",n
+356,9,li,Lip Liners,y
+361,9,p,A lip liner can make a huge difference to how your lipstick turns out.,n
+366,9,p,"Not only can they give the shape of your lips some added definition, but a lip liner will also prevent your lip color from feathering outwards, giving you a more precise finish.",n
+369,9,p,"Usually, just one lip liner is enough, so long as this is either nude or the color of your lips. However, if you enjoy using a wide variety of different lipsticks, you may want to include a couple of different lip liners.",n
+373,9,li,Lipsticks,y
+378,9,p,Lipsticks are essential,n
+382,9,p,"There are several different lipstick formulas out there, and each one has its own unique benefits, such as:",n
+383,9,li,,n
+384,383,text,Matte Lipsticks –,y
+387,383,span,"these don't have any shine, giving you a more natural finish. However, they can sometimes dry the lips out, so choose one that contains hydrating ingredients",n
+388,9,li,,n
+389,388,text,Lip Stains –,y
+391,388,span,"these are gel-like lip formulas that provide plenty of shine. However, they tend to be quite sheer, meaning that you will likely need multiple layers",n
+392,9,li,,n
+393,392,text,Cream Lipsticks –,y
+395,392,span,"these are more pigmented, and are also very hydrating",n
+396,9,li,,n
+397,396,text,Liquid Lipsticks –,y
+399,396,span,"these come with a special applicator, meaning that you get full precision, as well as a bold pigment. These are available in both matte and glossy finishes",n
+402,9,p,OTHER IMPORTANT ADDITIONS,n
+405,9,li,A Makeup Remover,y
+410,9,p,"When it comes to picking a makeup remover, you need to make sure that its ingredients work well with your skin type. Try to find one that doesn't make use of harsh chemicals.",n
+411,9,p,,n
+413,411,span,"If you know that other people will be using your makeup remover too, make sure that the formula is gentle enough to be used by all skin types, even those with sensitive skin.",n
+418,411,text,A Quality Brush Set,n
+423,9,p,Just about every other product on this list requires a brush in order to be properly applied.,n
+426,9,p,"Every makeup artist will have their own individual preferences when it comes to favorite brushes, so you would be best off trying a wide range before putting together your go-to set.",n
+428,9,p,"To make life a little easier, start off with a quality brush palette that contains everything you need.",n
+431,9,p,Don't forget to also invest in a brush cleaner. Regularly cleaning your makeup brushes will give your makeup a much better finish.,n
+433,9,p,"There are many other makeup products out there that you could include in your makeup kit, but these 25 items are the must-haves for everyone. Once you have put your kit together, make sure that you go through it every few months to clear out any products that may have expired or been damaged.",n

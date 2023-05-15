@@ -1,0 +1,261 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+15,2,div,,n
+18,15,div,CHEERLEADING EQUIPMENTS AND FACILITIES,n
+19,15,div,,n
+21,19,span,Tumbling Mats,y
+23,19,span,Cheer Floors or Carpet Bonded Foam,y
+25,19,span,Spring Floor Kits,y
+26,15,div,,n
+28,26,span,Assembled Spring Floors,n
+30,26,span,Sliders,n
+32,26,span,Bln!e Dis!s,n
+34,26,span,In!line,n
+36,26,span,"T""mbling or Rebo""nd M#s",n
+38,26,span,PR$PER SC$RING AND GUIDELINES,n
+41,15,div,Basic Rules,n
+42,15,div,,n
+43,42,span,,n
+46,43,text,One of,n
+47,43,span,,n
+48,47,text,fi,n
+49,47,span,,n
+50,49,text,cia,n
+51,49,span,,n
+52,51,text,l team pe,n
+53,51,span,,n
+54,53,text,r UAAP,n
+55,53,span,,n
+56,55,text,-m,n
+57,55,span,,n
+58,57,text,embe,n
+59,57,span,,n
+60,59,text,r univ,n
+64,59,span,ity,n
+65,42,span,,n
+68,65,text,15-,n
+69,65,span,,n
+70,69,text,25,n
+71,69,span,,n
+72,71,text,UAA,n
+73,71,span,,n
+74,73,text,P-e,n
+75,73,span,,n
+76,75,text,li,n
+77,75,span,,n
+78,77,text,gibl,n
+79,77,span,,n
+80,79,text,e,n
+81,79,span,,n
+82,81,text,stu,n
+83,81,span,,n
+84,83,text,dent,n
+86,83,span,s,n
+87,42,span,,n
+90,87,text,5 sp,n
+91,87,span,,n
+92,91,text,ott,n
+95,91,span,,n
+96,95,text,!pr,n
+97,95,span,,n
+98,97,text,opsm,n
+99,97,span,,n
+100,99,text,"en"" in al",n
+101,99,span,,n
+102,101,text,l-,n
+103,101,span,,n
+104,103,text,blac,n
+106,103,span,# garb,n
+107,42,span,,n
+108,107,text,$.,n
+110,107,text,Up to,n
+111,107,span,,n
+112,111,text,2 sub,n
+113,111,span,,n
+114,113,text,stit,n
+115,113,span,,n
+116,115,text,utes,n
+117,115,span,,n
+118,117,text,12 %ou,n
+119,117,span,,n
+120,119,text,rs b,n
+121,119,span,,n
+122,121,text,efore,n
+123,121,span,,n
+124,123,text,t%e c,n
+125,123,span,,n
+126,125,text,ompeti,n
+128,125,span,tion,n
+131,15,div,Performance,n
+133,15,div,,n
+136,133,text,and o,n
+137,133,span,,n
+138,137,text,ut,n
+141,137,span,,n
+142,141,text,es,n
+143,141,span,,n
+144,143,text,mu,n
+145,143,span,,n
+146,145,text,st,n
+147,145,span,,n
+148,147,text,%av,n
+150,147,span,e',n
+154,15,div,,n
+155,154,span,,n
+156,155,text,"c%ool c%eer yelled live. Any stunt"" pyramid"" and tumbling done",n
+158,155,text,during t%e c%eer,n
+160,154,span,eac% element.,n
+166,15,div,+ance and outine,n
+172,15,div,"tunts ,lifts and tosses",n
+178,15,div,Pyramids,n
+184,15,div,"umblings ,standing and running",n
+190,2,div,,n
+191,190,h2,,n
+193,191,span,You're reading a preview,n
+197,191,span,Unlock full access by uploading documents or with a 30 Day Free Trial,n
+199,190,button,Continue,n
+200,2,div,,n
+212,200,div,,n
+213,212,div,,n
+214,213,span,,n
+217,214,text,Maim,n
+218,214,span,,n
+219,218,text,or snar,n
+220,218,span,,n
+221,220,text,es and 12 bas,n
+222,220,span,,n
+223,222,text,s drum,n
+224,222,span,,n
+225,224,text,s if venue i,n
+226,224,span,,n
+227,226,text,s A,n
+228,226,span,,n
+229,228,text,raneta 0o,n
+230,228,span,,n
+231,230,text,lise,n
+232,230,span,,n
+233,232,text,um 5 snar,n
+235,232,span,es and,n
+236,213,span,,n
+237,236,text,bass drums if venue is M A,n
+239,236,span,rena,n
+240,213,span,,n
+243,240,text,0%eerl,n
+244,240,span,,n
+245,244,text,eaders m,n
+246,244,span,,n
+247,246,text,ay not perf,n
+248,246,span,,n
+249,248,text,orm outs,n
+250,248,span,,n
+251,250,text,ide t%e bou,n
+252,250,span,,n
+253,252,text,ndary li,n
+254,252,span,,n
+255,254,text,152 m,n
+256,254,span,,n
+257,256,text,eters p,n
+258,256,span,,n
+259,258,text,erfor,n
+261,258,span,mance,n
+263,213,span,area,n
+265,212,div,,n
+268,265,text,ha,n
+269,265,span,,n
+270,269,text,t ar,n
+271,269,span,,n
+272,271,text,e the,n
+273,271,span,,n
+274,273,text,Coa,n
+275,273,span,,n
+276,275,text,che,n
+277,275,span,,n
+278,277,text,s lo,n
+279,277,span,,n
+280,279,text,o!i,n
+281,279,span,,n
+282,281,text,ng fo,n
+284,281,span,"r""",n
+285,212,div,,n
+286,285,span,,n
+289,286,text,4,n
+290,286,span,,n
+291,290,text,o,n
+292,290,span,,n
+293,292,text,ice,n
+294,292,span,,n
+295,294,text,0lear,n
+296,294,span,,n
+297,296,text,""" nat",n
+298,296,span,,n
+299,298,text,ural a,n
+300,298,span,,n
+301,300,text,nd easy,n
+302,300,span,,n
+303,302,text,to und,n
+304,302,span,,n
+305,304,text,ersta,n
+307,304,span,nd.,n
+308,285,span,,n
+309,308,text,Motions it% o,n
+311,308,text,t%er.,n
+312,285,span,,n
+313,312,text,+ance 0%eerleaders s%ou,n
+315,312,text,ld be able to perform difficult dance it% formations and,n
+318,285,span,,n
+319,318,text,$. umbling 0%eerleaders s%ould be able to tumble as,n
+321,318,text,a group it% good,n
+324,285,span,,n
+325,324,text,Pyramid!tunts 7ases and 8lyer s%ould,n
+327,324,text,stay tig%t all t%e time.,n
+329,285,span,. Minimi6e t%e bobble or moving. Alays mile. 9earn good tec%ni:ue,n
+333,285,span,"loading!lifting"" smoot% transitioning"" and dismounting.",n
+334,285,span,,n
+335,334,text,or . 8ormation!pacing good,n
+337,334,text,spacing!positioning is very important in t%e entire routine.,n
+339,285,span,;. <umps 0%eerleaders s%ould be able to do a =roup <ump )it% clean and tig%t )it%,n
+341,285,span,%er#ie *ump > pi#e.,n
+342,285,span,,n
+343,342,text,?. +ifficulty 0%eerleaders s%ould,n
+345,342,text,be able to,n
+347,342,text,perform difficult stunts and pyramid. o do,n
+348,285,span,,n
+349,348,text,"so"" train eig%t lifting or strengt% training at %ome and",n
+351,348,text,during training.,n
+352,285,span,,n
+353,352,text,0rod Appeal 0%eerleaders s%ould be able to lead,n
+355,352,text,t%e crod and let t%e,n
+357,352,text,crod,n
+358,285,span,,n
+359,358,text,#no t%at e are supporting and ising tar of,n
+361,358,text,9a#ers.,n
+362,285,span,,n
+363,362,text,portsmans%ip 0%eerleaders must possess sportsmans%ip t%roug%out,n
+365,362,text,t%e,n
+367,285,span,competition.,n
+371,200,div,,n
+373,371,h2,You're Reading a Preview,n
+375,371,p,Upload your documents to download.,n
+379,371,div,Or,n
+382,371,p,Become a Scribd member,n
+385,371,div,Continue,n
+389,0,div,,n
+391,389,h2,Reward Your Curiosity,n
+393,389,div,Everything you want to read.,n
+395,389,div,Anytime. Anywhere. Any device.,n
+396,389,div,,n
+398,396,button,Read free,n
+400,396,div,No Commitment. Cancel anytime.,n
+402,0,div,,n
+404,402,h2,Share this document,n
+405,402,div,,n
+407,405,h3,Share or Embed Document,n
+408,405,div,,n
+410,408,h2,Sharing Options,n
+411,408,ul,,n
+415,411,li,"Share on Facebook, opens a new window",n
+419,411,li,"Share on Twitter, opens a new window",n
+423,411,li,"Share on LinkedIn, opens a new window",n
+427,411,li,"Share with Email, opens mail client",n
+431,411,li,Copy Text,n

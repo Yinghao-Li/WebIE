@@ -1,0 +1,155 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+7,0,div,,n
+21,7,div,,n
+22,21,div,,n
+24,22,h1,Pottery Equipment and Tools,n
+25,22,div,,n
+28,25,div,Filter,n
+30,25,p,24 products,n
+32,25,div,,n
+36,32,p,Displays products in a grid view,n
+40,32,p,Displays products in a detail view,n
+41,21,div,,n
+43,41,div,,n
+45,43,div,,n
+48,45,h3,By Type,n
+49,45,div,,n
+53,49,span,Pottery Wheels,n
+60,49,span,Pottery Equipment,n
+67,49,span,Pottery and Modeling Tools,n
+71,43,div,,n
+72,71,fieldset,,n
+75,72,h3,By Brand,n
+76,72,div,,n
+79,76,div,Search Brands,n
+84,76,span,Amaco,n
+91,76,span,Brent,n
+98,76,span,Kemper,n
+105,76,span,Mudtools,n
+112,76,span,Nidec Shimpo,n
+119,76,span,No Brand,n
+126,76,span,Richeson,n
+131,71,button,+ Show 3 More,n
+134,41,ul,,n
+137,134,li,,n
+138,137,div,,n
+141,138,p,Item #,n
+143,138,h3,12-Piece Basic Pottery Tool Set,y
+152,137,p,This set of essential pottery or sculpting tools ships in a clear poly bag that doubles as a convenient storage and carrying case. 12 tools are: 1 wi...,n
+165,134,li,,n
+166,165,div,,n
+169,166,p,Item #,n
+171,166,h3,Amaco Excel Kiln with Select Fire,y
+180,165,p,Excel Kilns are economically priced yet still made with the highest quality components. They include many of the same features found on more expensiv...,n
+193,134,li,,n
+194,193,div,,n
+197,194,p,Item #,n
+199,194,h3,Brent Model B and C Power Wheels,y
+208,193,p,"Designed to fill the needs of school and studio potters, the Model B is competitively priced and is quiet and solid under a load of 50 pounds of clay.",n
+216,134,li,,n
+217,216,div,,n
+220,217,p,Item #,n
+222,217,h3,Brent Model CXC Power Wheel,y
+231,216,p,"Heavy-duty wheel for the potter who requires strong, consistent performance and whose work often includes large forms. It features a tough motor, 1 or 4...",n
+244,134,li,,n
+245,244,div,,n
+248,245,p,Item #,n
+250,245,h3,Brent SR-20 Slab Roller,y
+259,244,p,"A versatile slab roller, the SR-20 is perfect for studio use or in an advanced school or university clay program. It is a mid-sized floor model that ...",n
+272,134,li,,n
+273,272,div,,n
+276,273,p,Item #,n
+278,273,h3,Brent Ware Cart,y
+287,272,p,"12 shelves made from 1 or 2"" exterior grade plywood",n
+295,134,li,,n
+296,295,div,,n
+299,296,p,Item #,n
+301,296,h3,Brent Wheelchair Accessible Power Wheel #16,y
+310,295,p,High density polypropylene molded pan,n
+321,134,li,,n
+322,321,div,,n
+325,322,p,Item #,n
+327,322,h3,Kemper Pottery Tool Kit,y
+336,321,p,"Steel and hardwood tools include--potter's rib, steel scraper, wood modeling tool, needle tool, ribbon tool, loop tool, sponge, and wire clay cutter. ...",n
+349,134,li,,n
+350,349,div,,n
+353,350,p,Item #,n
+355,350,h3,Kemper Throwing Sticks,y
+364,349,p,"Patterned from the Japanese egote , Kemper Throwing Sticks are great",n
+374,134,li,,n
+375,374,div,,n
+378,375,p,Item #,n
+380,375,h3,Mudtools Essentials Starter Kit,y
+389,374,p,"Responding to requests from beginning potters about the best tools for getting started, Mudtools responded with the nine-piece Mudtools Essentials Sta...",n
+402,134,li,,n
+403,402,div,,n
+406,403,p,Item #,n
+408,403,h3,Nidec Shimpo Aspire Pottery Wheel,y
+417,402,p,"The Nidec Shimpo Aspire, a tabletop potter's wheel, can handle your most creative challenges. Its lightweight, compact design makes it easy to transpo...",n
+427,134,li,,n
+428,427,div,,n
+431,428,p,Item #,n
+433,428,h3,Nidec Shimpo Banding Wheels,y
+442,427,p,"Designed for artists at all levels, including studio artists, production potters, teachers, and students, Nidec Shimpo banding wheels are available in...",n
+452,134,li,,n
+453,452,div,,n
+456,453,p,Item #,n
+458,453,h3,Nidec Shimpo VL-Whisper Potter's Wheel,y
+467,452,p,"By far the quietest potter's wheel on the market, the Nidec Shimpo VL-Whisper Potter's Wheel is a great choice for the classroom or studio.",n
+478,134,li,,n
+479,478,div,,n
+482,479,p,Item #,n
+484,479,h3,Sculpture House College Modeling Stand,y
+493,478,p,4-legged steel stand is favored by colleges because of its economy and durability. The welded angle steel frame provides great rigidity. Legs are on ...,n
+506,134,li,,n
+507,506,div,,n
+510,507,p,Item #,n
+512,507,h3,Sculpture House Thin Line Sculpting Tools,y
+521,506,p,"The Mini Steel Detailing Tools is a set of five wire end tools each perfect for modeling fine detail on faces, for incised design and sgraffito. Stee...",n
+534,134,li,,n
+535,534,div,,n
+538,535,p,Item #,n
+540,535,h3,Shimpo VL-Lite Pottery Wheel,y
+549,534,p,"The Shimpo VL-Lite is a belt-driven wheel that is light enough to carry yet sturdy enough to throw on. It has a 1 or 2 HP 100-watt reversible DC motor, a...",n
+562,134,li,,n
+563,562,div,,n
+566,563,p,Item #,n
+568,563,h3,Speedball Artista Potter's Wheel,y
+577,562,p,"The first truly portable tabletop potter's wheel, affordably priced, designed with power and features to satisfy both professional potters and beginne...",n
+587,134,li,,n
+593,587,h3,Speedball Big Boss Potter's Wheels,y
+602,587,p,The Speedball Big Boss Potter's Wheels are a sophisticated wheel designed with the more advanced ceramic artist and the college classroom in mind. It'...,n
+612,134,li,,n
+618,612,h3,Speedball Clay Boss Potter's Wheel,y
+627,612,p,The Speedball Clay Boss Potter's Wheel is an affordable pottery wheel perfect for professional potters and beginners. It features sophisticated load-s...,n
+640,134,li,,n
+641,640,div,,n
+644,641,p,Item #,n
+646,641,h3,Steel Calipers,y
+655,640,p,"Calipers are a great tool for measuring accuracy when creating a 3 dimensional sculpture. Traditionally, calipers are used to maintain a certain size...",n
+665,134,li,,n
+666,665,div,,n
+669,666,p,Item #,n
+672,666,h3,Xiem Studio Mini Ribbon Sculpting Tools,y
+681,665,p,"Xiem Mini Ribbon Sculpting Tools are excellent for use with water-based clay, wax, plaster, and polymer clay. Use these miniature tools for sculptin...",n
+694,134,li,,n
+695,694,div,,n
+698,695,p,Item #,n
+700,695,h3,Xiem Studio Needle Tools,y
+709,694,p,"Made from a solid piece of surgical stainless steel for sharpness and longevity, with handles set in rubber for a secure grip, these tools are great o...",n
+719,134,li,,n
+720,719,div,,n
+723,720,p,Item #,n
+725,720,h3,Xiem Studio Sgrafitto and Detailing Set,y
+734,719,p,"The Xiem Sgrafitto and Detailing Set includes seven double-ended tools, offering 14 tools in all. Made from high-grade stainless steel, every handcra...",n
+747,134,li,,n
+748,747,div,,n
+751,748,p,Item #,n
+753,748,h3,Xiem Studio Wire Sculpting Tools,y
+762,747,p,"Great for delicate carving and adding details to soft clay, this set of three double-ended wire sculpting tools have rubber grips for secure and comfo...",n
+776,7,div,,n
+778,776,h3,Complete your home sculpture studio with pottery wheels and kilns!,n
+780,776,p,"Durable sculpture studio equipment such as kilns and pottery wheels, priced for the scholastic budget, can be drop-shipped to your classroom or studio. See a selection of professional grade pottery wheels and ceramic kilns Brent, Speedball and AMACO.",n
+783,776,p,"Choose The Speedball Arista, the first truly portable tabletop pottery wheel, affordably priced, designed with power and features to satisfy both professional potters and beginners. Weighing only 26 pounds this pottery wheel can be cleaned, transported and stored easily.",n
+786,776,p,"For more permanent environments consider Brent Potter's Wheels, ideal for beginners, schools or art centers. The ie-x wheel is part of Brent’s Green Series with its new black poly tabletop made of recycled materials! The ie-x wheel continuously handles up to 100 lbs of clay.",n

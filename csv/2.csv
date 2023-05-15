@@ -1,0 +1,80 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+78,0,div,,n
+179,78,h1,LaxHacks,n
+187,78,div,,n
+188,187,p,,n
+189,188,text,"Greetings, LAS faithful! Hope you’re ready for something fresh today! Lacrosse All Stars has teamed up with the good people at",n
+191,188,strong,LAX WAX,n
+192,188,text,our,n
+194,188,strong,LaxHacks,n
+195,188,text,series.,n
+197,187,p,"Through #LaxHacks, we aim to help you simplify and element proof your game. Every episode, we’ll share specific tips and pointers that will help you save time, money, and heartache.",n
+199,187,p,"Balling on a budget, and enjoying the beautiful game of lacrosse… that’s what it’s all about.",n
+200,187,p,,n
+201,200,text,First up,n
+203,200,strong,3 Ways to Improve Your Gear Bag,n
+209,187,h3,What You Need,n
+211,187,p,items every lacrosse player should have in their gear bag.,n
+212,187,ul,,n
+214,212,li,Lacrosse equipment,y
+216,212,li,Lacrosse cleats,y
+218,212,li,Water bottle,y
+220,212,li,Athletic tape,y
+222,212,li,Extra stringing supplies,y
+224,212,li,GTG Multi-Tool*,y
+226,212,li,Lighter*,y
+228,212,li,Tennis Ball,y
+230,212,li,Zip-Ties,y
+232,212,li,LAX WAX,y
+234,212,li,Socks,y
+236,212,li,Odor Gladiator or dryer sheets,y
+238,212,li,Polident,y
+240,212,li,Drinking cup,y
+242,212,li,Plastic bags,y
+244,187,p,* Make sure you are allowed to possess these items on school grounds.,n
+247,187,h3,Why You Need It,n
+249,187,p,"For those of us that would lose our heads if they weren’t screwed on, this part is important. Put together, all the items listed above can help you make life as a lacrosse player a little bit easier.",n
+252,187,p,"It’s important that you know where things are in your bag so you can act fast if needed. Everybody hates being the last one back from a water break. And if you’re late because you were trying to fix your sidewall or tape your end cap on, well, that just means you came to practice unprepared !",n
+256,187,p,"Many of the items above are self-explanatory, but there a few that might have you wondering. Let’s dive a little deeper…",n
+257,187,p,,n
+259,257,span,"If you have a #StringItForward pack, it’s great for keeping your gear bag essentials organized. Otherwise, p",n
+260,257,text,lastic bags are your friends!,n
+261,187,ul,,n
+263,261,li,Ziplock bag to hold smaller personal items,y
+265,261,li,Grocery sack,y
+267,261,li,Trash bag to cover your equipment bag in poor weather,y
+269,187,p,An Odor Gladiator is a also a great addition to year gear but putting dryer sheets inside a sock can also provide a cheap solution.,n
+273,187,p,Most of us overlook keeping our mouth piece clean. They don’t exactly smell or taste great after a while. To fix this you can brush your mouth piece with toothpaste and then drop it in a cup of water with a tab of Polident to give it a deep cleaning.,n
+275,187,h3,Get Hacking,n
+277,187,p,You now have the knowledge to get your gear bag ready,n
+278,187,p,,n
+279,278,text,Just always remember,n
+281,278,strong,"SUPPLIES, ORGANIZE, DEODORIZE",n
+282,278,text,.,n
+284,187,p,your equipment and it’ll take care of you!,n
+286,187,p,,n
+287,286,text,Got a Lax Hack you want us to share with the world?,n
+289,286,br,Hit up the LAS Contribute section and let it rip!,n
+311,78,div,,n
+314,311,h4,Michael Allen,n
+316,311,div,"Located in Boise, Michael has been involved in lacrosse for the majority or his life. He's also served as a assistant coach at Bishop Kelly for the past tfour years where he played in high school. Michael is also a student at Boise State and enjoys spending his free time outdoors and enjoying music.",n
+325,78,div,,n
+326,325,div,,n
+329,326,span,Prev,n
+330,326,span,,n
+332,330,span,Previous,n
+334,330,span,Stonington Lacrosse Program Says Planned Fees Are Foul,n
+342,325,div,Early Thoughts On The NCAA D1 Lacrosse Season,n
+350,0,div,,n
+353,350,div,,n
+357,353,h4,Subscribe To Our News Letters,n
+377,353,div,Subscribe,n
+383,350,div,,n
+387,383,h4,Follow Us On Social Media,n
+390,383,div,,n
+393,390,span,Facebook,n
+396,390,span,Twitter,n
+399,390,span,Youtube,n
+402,390,span,Instagram,n
+407,383,p,Copyright at Laxallstars.com Grow the Game,n

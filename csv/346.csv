@@ -1,0 +1,169 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+24,5,div,,n
+27,24,h1,,n
+28,27,text,Top Quality Scuba Diving,n
+30,27,br,Gear Made in the USA,n
+35,24,p,By Matt Mullins – Last updated,n
+46,5,div,,n
+48,46,p,"Looking for what diving equipment is made in the USA? Then you’ve come to the right place. Here, I’ve researched and compiled an unbiased alphabetical guide to all of the American made Scuba manufacturers I could find. I love Scuba diving and like to reward ethical local manufacturing whenever possible. I encourage you to support your local dive shop first, but if you will be ordering online anyways then please help support us through our links. *I took the above photo while liveaboard diving in Komodo National Park.",n
+51,46,p,"Note, I emphasize which products from the following companies are built in the USA. Appearing on this list does not mean that all of their products are made in the USA.",n
+62,5,p,SHARE ON,n
+100,5,div,,n
+104,100,h2,American Made Scuba Gear,n
+116,100,div,,n
+120,116,h3,Atomic Aquatics,n
+125,116,p,"The CNC machining and assembly of Atomic regulators takes place in Costa Mesa, California. Where to find them:",n
+153,100,div,,n
+157,153,h3,Dive Gear Express,n
+162,153,p,DGX’s harness or backplate or wing BC systems are made in the USA. Where to find them:,n
+168,153,div,View at Dive Gear Express,n
+184,100,div,,n
+188,184,h3,Dive Rite,n
+193,184,p,"Dive Rite is a popular brand among technical divers. Their wing BCD’s, backplates, lights, and rebreathers are made in the USA. Note that their drysuits are made in Finland. Where to find them:",n
+221,100,div,,n
+225,221,h3,Diving Unlimited International,n
+230,221,p,"DUI specializes in custom tailored drysuits and thermal protection which they craft in San Diego, California from start to finish. They also make weight and trim systems ideal for cold water diving. The US military and rescue divers often use DUI drysuits. Where to find them:",n
+264,100,div,,n
+268,264,h3,Force Fin,n
+273,264,p,"Force Fin makes open toe diving, snorkeling, fishing, and surf fins in the USA. Where to find them:",n
+285,264,div,View at Force Fin,n
+301,100,div,,n
+305,301,h3,Halcyon,n
+310,301,p,"Halcyon manufactures BC wings, backplates, harnesses, high power dive lights, and regulators. Their design and manufacturing is vertically integrated at their headquarters in High Springs, Florida. Where to find them:",n
+316,301,div,View at Halcyon,n
+332,100,div,,n
+336,332,h3,Henderson,n
+341,332,p,Henderson offers a custom Talon line of recreational wetsuits made in the USA. Henderson also makes wetsuits for US Special Forces and the US Coastguard. Other Henderson wetsuits are imported. Where to find them:,n
+363,100,div,,n
+367,363,h3,Innerspace Systems Corp,n
+372,363,p,"ISC custom builds rebreathers in Centralia, Washington. Where to find them:",n
+378,363,div,View at MEGCCR.com,n
+394,100,div,,n
+398,394,h3,Light Monkey,n
+403,394,p,"Light Monkey started out making custom high powered dive lights; now they also make harnesses, backplates, and wings based in Lake City, Florida. Where to find them:",n
+415,394,div,View at Light Monkey,n
+431,100,div,,n
+435,431,h3,Oceanways Aquapro Fins,n
+440,431,p,Oceanways Aquapro Fins are practical full foot rubber fins made in the USA for an affordable price. Where to find it:,n
+468,100,div,,n
+472,468,h3,OxyCheq,n
+477,468,p,"Oxycheq makes oxygen sensors and analyzers, BC wings, and scuba accessories like light socks. Where to find them:",n
+483,468,div,View at OxyCheq,n
+499,100,div,,n
+503,499,h3,Scubapro Jet Fins,n
+508,499,p,Only the rubber heel strap version of the Scubapro Jet fins are made in the USA. These are fins often found among US military divers. Where to find it:,n
+542,100,div,,n
+546,542,h3,Sea Vision,n
+551,542,p,"Sea Vision specializes in prescription dive masks and swim googles which they assemble in St. Petersburg, Florida. They also offer non-prescription dive masks. Where to find them:",n
+569,542,div,View at Sea Vision,n
+585,100,div,,n
+589,585,h3,USIA,n
+594,585,p,"Like DUI, USIA custom manufactures drysuits in use by the US Coastguard, US military, and many commercial divers. Where to find them:",n
+606,585,div,View at USIA,n
+622,100,div,,n
+626,622,h3,Vintage Double Hose,n
+631,622,p,VDH makes and services double hose regulators. If you have vintage dive gear in need of service they can help. Where to find it:,n
+637,622,div,View at Vintage Double Hose,n
+653,100,div,,n
+657,653,h3,Zeagle,n
+662,653,p,Zeagle makes their Ranger BCD in the USA. Zeagle BCD’s are popular among both recreational divers and the US military. Where to find them:,n
+690,5,div,,n
+694,690,h3,Popular Pages,n
+697,690,div,,n
+700,697,div,,n
+707,700,h4,Best Smartphone Cases Made in the USA,n
+712,700,p,My search for the best American-made phone cases and screen protectors has ended in success. Here are the results.,n
+715,697,div,,n
+722,715,h4,Top Gear Picks,n
+727,715,p,"Only our favorite gear, the top American made equipment that earns our Editor’s Choice and Best Buy Awards.",n
+734,697,div,,n
+741,734,h4,Top Survival Gear Made in the USA,n
+746,734,p,Find the highest quality survival preparation equipment to take on any emergency.,n
+749,690,div,,n
+752,749,div,,n
+759,752,h4,Best USA Made Headlamps,n
+764,752,p,"Here you’ll find a lineup of the best headlamps made in the USA for camping, backpacking, running, hiking, biking, fishing, and all things in the dark. ​",n
+767,749,div,,n
+774,767,h4,Top Sandals Made in America,n
+779,767,div,"Whether you’re looking for adventure sandals, flip flops for the beach or fashionable sandals for a hot summer night on the town, you’ll find awesome and affordable American made men’s and women’s sandals.",n
+782,749,div,,n
+789,782,h4,Our Top Ten Hiking Boots,n
+794,782,p,"​Want the best hiking, backpacking, or work boots made in the USA for Men and Women? Here they are!",n
+797,690,div,,n
+800,797,div,,n
+807,800,h4,USA Made Water Bottles!,n
+812,800,p,"Your guide to the best water bottles, reservoirs, and hydration systems you can find.",n
+815,797,div,,n
+822,815,h4,Top American Made Tents,n
+827,815,p,Looking,n
+830,797,div,,n
+837,830,h4,Best American Pocket Knives,n
+842,830,p,"My personal recommendations for the top ten EDC folding knives made in the USA. If you’re looking for men’s gift ideas, this isn’t a bad place to start.",n
+845,690,div,,n
+848,845,div,,n
+855,848,h4,World's Top Sleeping Bags,n
+860,848,p,"Discover the best sleeping bags in the world, which happen to be made in Seattle, WA and San Jose, CA, USA.",n
+863,845,div,,n
+870,863,h4,Best Water Filters,n
+875,863,p,The top performing water filters,n
+878,845,div,,n
+885,878,h4,Best Sleeping Pads,n
+890,878,p,"Nothing but the lightest, the comfiest, and the most durable camping mattresses available.",n
+893,690,div,,n
+896,893,div,,n
+903,896,h4,American Badaxe Axes,n
+908,896,p,Recommendations to find the best American made axes.,n
+911,893,div,,n
+918,911,h4,Best American Made Flashlights,n
+923,911,p,"Find the most reliable, best engineered flashlights available.",n
+926,893,div,,n
+933,926,h4,Best Multi-Tools,n
+938,926,div,"Leatherman makes the world’s best multi-tools. I’m familiar with Gerber, Sog, and Victorinox multi-tools but none compare to Leatherman tools…",n
+941,690,div,,n
+944,941,div,,n
+951,944,h4,Best American Made Stoves,n
+956,944,div,My recommendations,n
+959,941,div,,n
+966,959,h4,Beat the Sun,n
+971,959,p,Looking,n
+974,941,div,,n
+981,974,h4,Best Ultralight Backpacking Gear,n
+986,974,div,My picks,n
+992,5,div,,n
+1000,992,h4,Find tons more on our USA Made Amazon Guide!,n
+1039,992,p,"You can follow American Gear Guide on Instagram , Facebook , or Pinterest .",n
+1048,992,div,,n
+1051,1048,div,"PLEASE! I NEED HELP TO KEEP RUNNING THIS WEBSITE, AND IT’S EASY AND FREE FOR YOU TO HELP OUT!",n
+1052,1048,div,,n
+1053,1052,text,"Sharing the best locally made gear is a passion project close to my heart and if I’ve helped you find some cool US made gear then please consider helping my site going and growing. Running this site costs me a lot of cash to use secure and speedy web servers, purchase new gear, and to contribute my personal time and effort. Thus,",n
+1055,1052,strong,I need your help to cover my costs and continue providing quality free information on the latest American-made gear.,n
+1060,1048,div,It’s easy and free to help out.,n
+1064,1048,div,,n
+1065,1064,p,,n
+1067,1065,strong,"If you ever want to purchase ANYTHING from Amazon , REI.com , Cabela’s , or Sportsman’s Warehouse … even for dog food or toothpaste, then you can help me without costing you a single penny.",n
+1076,1065,text,"If you use my links to make a purchase within 24 hrs then I will receive a tiny credit that will help my site pay its dues and continue running. So all I ask is that if you find the free info here useful and you need to make a purchase at Amazon, REI, etc. then please use the links on this site. This costs you nothing extra but will help provide myself and this website a dollar or two to help keep on trucking.",n
+1077,1064,p,,n
+1078,1077,text,You can bookmark the following sites and each time you purchase something it will help American Gear Guide in a small but significant way. Bookmarkable links:,n
+1080,1077,strong,"Amazon , REI.com , Cabela’s ,",n
+1086,1077,text,or,n
+1088,1077,strong,Sportsman’s Warehouse.,n
+1090,1048,div,,n
+1092,1090,strong,"Another way you can help is by donating any amount you choose, even $1. If you would like to donate to this site, you can use the paypal donate button below or",n
+1094,1090,strong,you can do so by following the DonorBox link here,n
+1095,1090,text,and enter the donation amount of your choice. I provide this website’s information for free without annoying ads or membership fees so any donation is incredibly helpful. Thank you!,n
+1110,0,div,,n
+1114,1110,h3,Shining a Spotlight on USA Made,n
+1122,1110,p,"Thinking about buying some of the gear you found? Please help out American Gear Guide if you are. Simply visit any of the above seller links and if you buy anything, then the seller will donate a portion of the sale. This doesn’t cost you extra, and it’s a simple way to help support our ongoing effort to provide great American made gear info. Thank you!",n
+1126,1110,h4,Follow Us,n
+1129,1110,div,,n
+1132,1129,span,Instagram,n
+1135,1129,span,Facebook,n
+1138,1129,span,Twitter,n
+1141,1129,span,Pinterest,n
+1147,1110,p,Home – Gear Guide – Brand Directory – About – Photos – Links – Guest Post – Why American? – Contact,n
+1166,1110,div,,n
+1168,1166,p,American Gear Guide is a small business and doesn’t have mounds of corporate cash to spend on marketing campaigns. Please share and tell your friends about AmericanGearGuide.com. Thanks again!,n
+1171,1166,p,Now,n
+1175,1110,p,© AmericanGearGuide.com - LEGAL - TERMS,n

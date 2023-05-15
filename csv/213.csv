@@ -1,0 +1,112 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+6,0,div,,n
+12,6,ul,,n
+13,12,li,,n
+15,13,span,person,n
+16,13,text,Alan Singh,n
+17,12,li,,n
+19,17,span,calendar_today,n
+21,17,time,"April 25, 2019",n
+22,12,li,,n
+24,22,span,comment,n
+25,22,text,0 comments,n
+47,6,div,,n
+59,47,p,"Drag queen makeup is a complex art, and mastering it is no small feat! With drag queen makeup, you’re expected to go with something much wilder and more creative than your normal everyday makeup look. It takes some innovation, some skill, and most importantly, the ability to go a little crazy with your look! Since many drag queens enlist the help of professional MUAs, choosing to do your own drag makeup is a risk—but it’s not impossible. This is your complete guide to beginners' drag makeup!",n
+63,47,div,,n
+65,63,h2,All the Drag Makeup Essentials and Supplies You Need,n
+69,63,p,"Before you can start putting together your ultimate dramatic drag queen makeup, you’ll need to do some shopping. Here’s a list of makeup products. You may already own a lot of these items in your vanity at home.",n
+71,63,ul,,n
+74,71,li,Glue stick,y
+77,71,li,Dermacol Invisible Fixing Powder,y
+80,71,li,Face primer,y
+83,71,li,"Liquid foundation, such as Dermacol Make-Up Cover",y
+86,71,li,Make-Up Sponge,y
+89,71,li,Brushes,y
+92,71,li,Liquid highlighter,y
+95,71,li,Concealer,y
+98,71,li,Liquid contour,y
+101,71,li,your eyebrows,y
+104,71,li,Eyeshadow primer,y
+107,71,li,your choice,y
+110,71,li,Liquid eyeliner in black or brown,y
+113,71,li,Mascara,y
+116,71,li,False lashes and glue,y
+119,71,li,Blush,y
+122,71,li,Bronzer,y
+125,71,li,Powdered highlighter,y
+128,71,li,A powerful setting spray,y
+131,71,li,Lip liner,y
+134,71,li,Lipstick,y
+137,71,li,"And, finally, an outfit fit",y
+141,47,h2,Drag Makeup Tutorial Step-By-Step,n
+144,47,div,,n
+146,144,h3,"First, Prep Your Skin.",n
+149,144,p,"Before you start applying makeup, you’ll need to prep your skin. If you have any excess facial hair, now’s the time for a shave so you have a smooth base on which to apply your makeup. Tweeze any additional brow hairs, if needed.",n
+152,144,p,"Drag makeup is heavy, so the more thorough your skincare routine, the more protected your skin will be against clogged pores and breakouts. Apply your favorite moisturizer as your base layer.",n
+154,47,div,,n
+156,154,h3,Cover Your Brows.,n
+159,154,p,"You’ll need to cover up your brows using a glue stick. This will give you a blank slate for drawing on your brows. Some queens even choose to shave off their brows, but gluing them down will achieve a similar effect and it washes off along with your makeup.",n
+162,154,p,"Next, dust on Dermacol Invisible Fixing Powder to set those brows in place.",n
+166,154,h3,Apply The Best Drag Queen Foundation.,n
+169,154,p,"To prepare for foundation, apply primer on your forehead, neck, and all over your face. Just try to avoid your eyebrow area. Primer will not only keep your face smooth for foundation application, but it will also prolong your makeup’s wear time. Dermacol offers different types of primers for different skin needs. Whether you want a primer to make you look younger, more energized, or matte, you’ll find the perfect product through Dermacol.",n
+172,154,p,Apply a thick layer of your perfect match of Dermacol Make-Up Cover. Buff the product into your skin using a sponge like Dermacol’s Make-Up Sponge or a brush like our Foundation Brush. You should even be adding foundation to your neck and collarbone. Don’t forget to dab the product on all the way up to your ears and temples.,n
+175,47,div,,n
+177,175,h3,Highlight and Conceal.,n
+180,175,p,"You need to add light and shadows to add dimension to your face. With drag makeup, you can use a liquid highlight in the same way you’d use concealer with your normal makeup. Take your liquid highlight and liberally apply it under your eyes where your dark circles are. Apply it around the inner t-zone of your face, so that all the light is focused on the center of your face. You can do this using either a damp Make Up Sponge or a brush.",n
+183,175,p,"Keep in mind that the more highlight you add to the middle of your forehead, the bigger your forehead will look. So, if you think your forehead is already pretty large, try to minimize the amount of light-colored highlight you put there. If you have imperfections or discoloration you’d like to cover, use a concealer shade that matches your skin tone to cover them.",n
+186,47,div,,n
+188,186,h3,Chisel out Your Face.,n
+191,186,p,"Next, take your favorite contour product to chisel out your face. Liquid contours are the standard among drag queens. Since drag has so much heavy makeup, often times queens will simply use a darker foundation shade to contour. There’s nothing wrong with using a darker shade of Dermacol Make-Up Cover.",n
+195,186,p,Suck in your face like a fish so you can clearly see your cheekbones. Apply your contour product using Dermacol’s Contouring Brush or Blush and Contouring Brush in downward angles where your cheekbones are. Drag queens like to drag this line especially far down toward the lower portion of the face for extra emphasized cheekbones.,n
+197,47,div,,n
+200,197,p,"You should also apply contour on the other places of your face where you naturally have shadows. Carve out your jawline and add some extra contour right under your chin to create the illusion of a slimmer neck. Add just a little under your lip to make your lips look fuller and poutier. Noses of different shapes and sizes will need different types of contour, but the general rule is to contour the sides of your nose very lightly using a thin brush. You can also contour the underside of your nose just a bit.",n
+203,197,p,"Don’t forget the top of your forehead. The bigger your forehead, the more contour you’ll need to apply. You can use contour to change not only your forehead’s size but also its shape. If you have a more rectangular forehead, you can carve it out to be more circular. This will create a more feminine-looking forehead. If there’s ever a point when you think you’ve added too much contour, add more of your foundation color to your skin and blend it out.",n
+207,47,div,,n
+209,207,h3,Fill in Your Brows.,n
+212,207,p,"To start filling in your brows, draw an outline. Take a thin brush and dip it into a color of eyeshadow that’s close to your brow color or wig color . Use your brush to draw on two lines for each brow: one line to outline the upper portion of your brow and one line to outline the bottom of your brow. Follow the natural shape of your brows, but it’s okay to add some extra emphasis to your arch.",n
+215,207,p,"Next, start filling in these two lines with individual hairs of your brows. You can use the same brush or an even thinner one with the same color eyeshadow. You can do as many or as few as you want. It depends on how dramatic you want your brows to look. The more hairs you draw, the more natural and less dramatic your eyes will look. Now you can carve out your brows by applying concealer under and above your brows. Blend it in. This will emphasize your brows even more.",n
+217,47,div,,n
+219,217,h3,Apply Your Drag Queen Eye Makeup.,n
+222,217,p,"Next, it’s time",n
+225,217,p,"For best results, start by putting an eyeshadow primer down on both your lids. You can use a concealer to do basically the same thing. Give the primer a moment to sink into your skin. It should feel tacky to the touch. Then set the primer using your Dermacol Invisible Fixing Powder, but be careful to not use too much. Just a light dusting that will help your shadows blend seamlessly together. Under your eyes is a different story. Add a liberal amount of the fixing powder under your eyes to serve a shield. This will catch any falling eyeshadow, so you can simply sweep it away later on.",n
+228,217,p,"The first eyeshadow you used should always be your transition color. Generally, you want this color to just be a little darker than your natural skin color, but in drag makeup, it doesn’t necessarily have to be a natural color. Take a fluffy blending brush and swirl it around in your shadow. Apply this color to the crease of your eye—the area just above your eyeball before your brow starts. Use back and forth windshield wiper motions to distribute the shadow to your crease. Repeat on the other eye.",n
+231,217,p,"You can add a very light color to the highest part of your eye, right below your brow. This will highlight your brow bone. Define the shape of your eye by intensifying the crease of your eye on just the outer portion. Your darkest shadows should go to the outer corner and the lightest on the inner portion.",n
+234,217,p,"Some queens like cutting their creases. This means adding some concealer to the part of their eye where they want a shadow to be the most intense. Usually, this will be the inner portion of the eye and sometimes also part of the center. There’s no need to set the concealer before adding the shadow on the part of the crease you are “cutting.”",n
+236,47,div,,n
+238,236,h3,Wing Out Your Liner.,n
+241,236,p,"Now you should do your wing! Generally, black is the preferred color for eyeliner, but you can use brown if you want a subtler color. The classic drag makeup includes a dramatic wing that’s extra thick. Start by drawing a line from the area closest to the lash line to the outer corner and beyond. The line should be slightly upturned so that it’s reaching for your brow. Finish drawing liner on the area above your lash line. Then go back over that and connect it with the highest part of your eyeliner, so that you create a nice wing shape.",n
+243,236,h3,Finish the Lashes.,n
+246,236,p,"Smudge out your lower lash line by applying shadow on your lower lashes. This can be one of the other colors you’ve already used or something completely different to add an extra dimension to the look. Then add a coat or two of your favorite mascara. To avoid getting the mascara on your eyeshadow, tilt your head back. When you’re doing your bottom lashes, tilt your head down to avoid getting product on the skin under your eyes.",n
+249,47,div,,n
+251,249,h3,Add Falsies.,n
+254,249,p,"Applying false lashes can be a little intimidating for beginners, but it just takes practice. Trim your lashes if needed so they fit the shape of your eye just right. Squeeze some of your lash glue onto the lash band. You actually don’t want to add the lashes right after the glue, because the glue will be too wet, and you’ll risk ruining your drag queen eye makeup. Instead, wave the lash back and forth in the air as you wait for the glue to dry down a little. You should always apply your lashes at a slight upturned angle that follows your wing. If you apply them too straight on, it will make your eyes look downturned and droopy. If you want even more drama, add an extra coat of mascara. This will also help blend your natural lashes with the false ones.",n
+258,47,div,,n
+260,258,h3,Powder the Face,n
+263,258,p,"It’s time for blush! Blush helps the audience see you on stage under the lights. It’s okay to drag the blush out across your cheek a little, but the most concentrated color should be on the apples of your cheeks.",n
+266,258,p,This is also the perfect time to bronze up the face. Dermacol’s Beauty Powder Pearls for bronzing are the perfect way to make even the palest queens look a little more alive. Apply this to the top of your forehead and to the sides of your face. Don’t forget about the areas by your ears where your contour starts.,n
+271,258,p,"Now you get to add even more highlight! Add this to the high parts of your cheekbones, your nose, and your cupid’s bow to give a glowing effect. Don’t forget to highlight the inner corner of your eye! Our Beauty Powder Pearls for illuminating will get this job done nicely. If you tend to get oily throughout the day, apply an extra layer of Dermacol Invisible Fixing Powder to finish powdering your face.",n
+278,47,div,,n
+280,278,h3,Choose a Lip Color.,n
+283,278,p,You’ll probably have some foundation and powder on your lips. So first clean off your lips so you have a blank canvas to work with. Begin to outline your lips. It might be easiest for you to start on the outer edge of your lips and draw inward. Many queens enjoy over lining especially in the cupid’s bow area to create larger looking lips.,n
+286,278,p,"Now apply your favorite lip color over the lip liner. You should be using a color that’s close to your lip liner. Liquid lips—especially matte lips—are especially trendy right now. But traditional bullet lipsticks will do the trick too! If you really want to load up, add a layer of gloss at the end, focus the product on the middle of your lips.",n
+288,278,h3,Set the Face.,n
+291,278,p,Set the entire look using your favorite setting spray. This will keep your look looking fresh all night long under the stage lights.,n
+293,278,h3,Finish the Look.,n
+296,278,p,"Now it’s time to throw on your favorite wig and outfit. Don’t forget to wear a towering pair of heels. Look in the mirror and tell yourself you look gorgeous, ‘cause you do!",n
+300,47,h2,More Drag Queen Makeup Tips and Secrets,n
+302,47,div,,n
+305,302,h3,Blend the Extra Mile.,n
+308,302,p,"As you can see from the many drag makeup steps, the list of drag queen makeup essentials is filled with many powders and liquids applied in layer after layer. Although drag makeup is far from natural, blending everything together will help the makeup look more flattering and realistic. So, put your brushes and sponges to work! While blending, make sure there aren’t bare areas of your skin. The neck is an often-forgotten location, so be sure you blend down it.",n
+311,302,h3,Be Cautious with Glitters.,n
+314,302,p,"Glitter is very high on the list of drag queen makeup essentials. Drag is all about glitter and glam. But using glitter has its risks. Whether it’s going on your eyes, or you’re using a loose highlighter on your face, you should be extra careful. Glitter goes everywhere, and it dries down fast. So if you’re trying to add glitter to your drag queen eye makeup and some falls on your cheeks, it’ll be hard to get it off. Move slowly but efficiently to combat this problem. You can also use a shield of some sort to keep fallout from ruining your look.",n
+317,302,h3,Tape Your Face.,n
+320,302,p,Winging out your eyeliner might be your most frustrating part of drag queen makeup. But there are definitely hacks to make it easier to get that crisp straight line. Try using cosmetic tape or even scotch tape. Just add a piece at an angled line to both your eyes. This will give you a stencil for drawing on your eyeliner. There are also eyeliner stamps and stencils to try.,n
+323,302,h3,Take it All Off.,n
+326,302,p,"After several hours in dramatic drag queen makeup, it’s very important that you remove the makeup thoroughly! But that’s definitely easier said than done. You may need to use multiple makeup removers. Rather than going with an expensive makeup remover, coconut oil is great for removing even the heaviest full-coverage foundations. It’s natural and cheap! Rub the oil into your face then wipe it off using tissues or cotton balls. However, some skin doesn’t respond well to coconut oil. Find what works best for your unique skin and your makeup.",n
+329,302,h3,Don’t Forget to Have Fun!,n
+332,302,p,"Sure, drag takes a lot of effort. But at the end of the day, it’s an escape. It’s a way to become an entirely different person for a night. If your brows or your wings don’t perfectly match, it’s okay. What’s important is you enjoy yourself!",n
+335,302,p,"Last of all, remember to keep practicing! You might not get the exact look you want, but it’s all about being creative and trying again until you’re really happy with your results. Hopefully, this step-by-step drag queen makeup tutorial has given you some tips that’ll help you feel gorgeous and glamorous next time you dress in drag!",n
+350,0,div,,n
+352,350,span,arrow_back,n
+353,350,text,Back to Dermacol Makeup and Beauty Blog,n

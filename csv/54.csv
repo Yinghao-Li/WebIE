@@ -1,0 +1,94 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+5,2,div,,n
+6,5,div,,n
+7,6,div,,n
+8,7,div,,n
+10,8,h1,Rhythmic Gymnastics 101,n
+12,8,div,,n
+14,12,span,Share this article on Facebook,n
+17,12,span,Share this article on Twitter,n
+20,12,span,Share this article over email,n
+23,7,div,,n
+25,23,div,NBC Olympics,n
+27,23,div,"Mar. 8, 2021 6:19 pm ET",n
+34,6,div,Learn about the equipment used,n
+40,5,div,,n
+42,40,p,"In rhythmic gymnastics, there are five apparatus used for individual competition: rope, hoop, ball, clubs, and ribbon. However, only four of the five are ""live"" in any one four-year competitive cycle, as determined by the sport's governing body -- rope will not be used in Tokyo. Rhythmic apparatus must conform to specific norms and are officially inspected prior to competition.",n
+43,40,p,,n
+46,43,strong,hoop,y
+47,43,text,"must be made of wood or plastic, and its interior diameter must measure between 80 and 90 centimeters . It must weigh at least 300 grams .",n
+55,40,p,,n
+58,55,strong,ribbon,y
+59,55,text,"apparatus is a stick made of wood or synthetic material, from the end of which extends a ribbon made of satin or similar non-starched material. The maximum stick diameter is 1 cm and the stick length must be between 50-60 cm . The ribbon width is between 4-6 cm and its length must be at least 6 meters . It weighs a maximum of 35 g .",n
+67,40,p,,n
+68,67,text,Gymnasts work with two,n
+70,67,strong,clubs,y
+71,67,text,"of equal length, 40 to 50 cm , which resemble slender bowling pins in shape. Made from wood or synthetic material and weighing 150 g each, the clubs have a wide end , a tapering middle section , and usually a ball on the end .",n
+79,40,p,,n
+82,79,strong,ball,y
+83,79,text,"must be made of rubber or soft plastic, with a diameter of 18-20 cm. It must weigh at least 400 g.",n
+91,40,p,,n
+93,91,strong,Attire,y
+95,91,br,"Rules regarding attire in rhythmic gymnastics are very stringent. The dress code is specific regarding the cut and fit of the leotard--for example, a gymnast can be penalized for inadvertently revealing a bra strap or if her outfit is decorated in anything other than an abstract design. Forbidden attire includes harlequin and tutu-like clothing. Gymnasts in group competition must be dressed identically. Penalties are .20 points for individuals and up to .50 points for groups.",n
+97,2,div,,n
+98,97,div,,n
+99,98,div,,n
+103,99,h2,Top Highlights,n
+108,99,div,See All Videos,n
+110,98,div,,n
+118,110,div,"From the sad to the sublime, a Winter Olympics to remember",n
+124,110,div,,n
+130,124,div,Inside the Rings,n
+134,124,div,2m 41s,n
+136,110,div,,n
+138,136,div,,n
+140,138,div,Figure Skating,n
+142,138,div,Figure skating gala lights up the ice,n
+146,136,div,7m 48s,n
+148,110,div,,n
+154,148,div,Moments frozen in time at the 2022 Winter Olympics,n
+158,148,div,50s,n
+160,110,div,,n
+166,160,div,Greatness,n
+170,160,div,3m 40s,n
+178,110,div,Videos,n
+184,97,div,,n
+185,184,div,,n
+189,185,h2,Latest Olympics Highlights,n
+194,185,div,See All,n
+196,184,div,,n
+198,196,div,,n
+200,198,div,,n
+202,200,div,Para Snowboarding,n
+204,200,div,"For Brittani Coury, sport and nursing offer escape, purpose",n
+208,198,div,3m 12s,n
+210,196,div,,n
+216,210,div,Ukraine wins gold in cross-country open relay,n
+220,210,div,4m 29s,n
+222,196,div,,n
+228,222,div,Wang Chenyang wins surprise cross-country Paralympic gold,n
+232,222,div,3m 48s,n
+234,196,div,,n
+240,234,div,Closing Ceremony,n
+244,234,div,4m 7s,n
+246,196,div,,n
+252,246,div,Musical performance lights up Paralympic Closing Ceremony,n
+256,246,div,2m 59s,n
+264,196,div,Closing Ceremony features thrilling drum performance,n
+270,196,div,,n
+276,270,div,Flame extinguished as 2022 Winter Paralympics come to an end,n
+280,270,div,4m 17s,n
+282,196,div,,n
+288,282,div,U.S. sled hockey team receives Paralympic gold medals,n
+292,282,div,4m 20s,n
+294,196,div,,n
+300,294,div,"U.S. beats Canada, wins fourth straight sled hockey gold",n
+304,294,div,6m 1s,n
+306,196,div,,n
+308,306,div,,n
+310,308,div,Speed Skating,n
+312,308,div,World Cup Finals,n
+316,306,div,3m 54s,n
+324,196,div,Latest Olympics Highlights,n

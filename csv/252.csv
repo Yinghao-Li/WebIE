@@ -1,0 +1,240 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+3,1,section,,n
+5,3,h1,The Ultimate Kayaking Gear List,n
+10,3,li,View Larger Image,n
+11,3,div,,n
+13,11,div,"Some of our posts include affiliate links. When you make a purchase from one of these links, The Urban Outdoors may receive a commission at no additional cost to you. As always, we only recommend products and services we actually use - no BS necessary.",n
+15,11,p,"Whether you’re staying in your city or heading into the wilderness, kayaking is one of the most fun and beginner-friendly water sports you can try! There’s nothing like spending a day paddling through a beautiful urban waterway. However, like most outdoor activities, having the right kayaking gear for your excursion can make or break your trip.",n
+19,11,p,"Based on our experience kayaking in cities and national parks across North America, we created this kayaking gear list with our 10 must-have items for any day out on the water. Read on for the necessary kayaking essentials you should bring, as well as our curated recommendations for specific gear items we use and love.",n
+20,11,p,,n
+22,20,strong,Love kayaking?,n
+23,20,text,So do we!,n
+25,20,strong,Subscribe below,n
+26,20,text,to get our exclusive updates on the best places to go kayaking in your city and around the world!,n
+41,11,div,Subscribe,n
+53,11,h2,The Ultimate Kayaking Gear List,n
+55,11,h3,Swimwear,y
+57,11,p,"If you’re going kayaking, there’s a pretty good chance you’ll get wet. So naturally, if there’s one thing that belongs on any kayaking gear list, it’s a swimsuit!",n
+61,11,div,,n
+64,61,div,Best Cities in the USA,n
+67,61,div,,n
+74,67,div,Video Player is loading.,n
+78,67,span,Play Video,n
+79,67,div,,n
+83,79,span,Play,n
+88,79,div,Unmute,n
+95,79,div,,n
+97,95,span,Current Time,n
+99,95,span,0:00,n
+103,79,div,or,n
+106,79,div,Duration,n
+110,79,div,,n
+112,110,div,,n
+114,112,span,Loaded,n
+117,112,span,00%,n
+123,110,div,0:00,n
+125,79,div,,n
+127,125,span,Stream Type,n
+128,125,text,LIVE,n
+129,79,button,,n
+132,129,span,"Seek to live, currently behind live",n
+134,129,span,LIVE,n
+135,79,div,,n
+137,135,span,Remaining Time,n
+139,135,span,-,n
+143,79,div,,n
+145,143,div,1x,n
+149,143,span,Playback Rate,n
+152,79,div,,n
+156,152,span,Chapters,n
+160,152,li,Chapters,n
+161,79,div,,n
+165,161,span,Descriptions,n
+170,161,li,descriptions off,n
+173,79,div,,n
+177,173,span,Captions,n
+179,173,ul,,n
+180,179,li,,n
+182,180,span,captions settings,n
+184,180,span,", opens captions settings dialog",n
+187,179,li,captions off,n
+190,79,div,,n
+194,190,span,Audio Track,n
+199,190,li,Unknown,n
+205,79,span,Picture-in-Picture,n
+209,79,span,Fullscreen,n
+212,67,p,This is a modal window.,n
+214,67,div,,n
+216,214,p,dialog window. Escape will cancel and close the window.,n
+217,214,div,,n
+218,217,div,,n
+221,218,fieldset,Text,n
+251,218,fieldset,Background,n
+283,218,fieldset,Window,n
+313,217,div,,n
+314,313,fieldset,,n
+316,314,legend,Font Size,n
+317,314,select,,n
+319,317,option,50%,n
+321,317,option,75%,n
+323,317,option,100%,n
+325,317,option,125%,n
+327,317,option,150%,n
+329,317,option,175%,n
+331,317,option,200%,n
+333,317,option,300%,n
+335,317,option,400%,n
+336,313,fieldset,,n
+338,336,legend,Text Edge Style,n
+339,336,select,,n
+341,339,option,None,n
+343,339,option,Raised,n
+345,339,option,Depressed,n
+347,339,option,Uniform,n
+349,339,option,Dropshadow,n
+350,313,fieldset,,n
+352,350,legend,Font Family,n
+353,350,select,,n
+355,353,option,Proportional Sans-Serif,n
+357,353,option,Monospace Sans-Serif,n
+359,353,option,Proportional Serif,n
+361,353,option,Monospace Serif,n
+363,353,option,Casual,n
+365,353,option,Script,n
+367,353,option,Small Caps,n
+368,217,div,,n
+369,368,button,,n
+370,369,text,Reset,n
+372,369,span,restore all settings to the default values,n
+374,368,button,Done,n
+378,214,span,Close Modal Dialog,n
+380,214,p,dialog window.,n
+393,67,div,Your video will begin shortly,n
+404,11,p,"For women, we’d highly recommend wearing a swimsuit that’s sturdy and fits well, especially if you’re kayaking in areas with rapids. Typically, this means avoiding anything that relies on string ties and provides comfort and support for hours of sitting and paddling.",n
+411,11,div,,n
+415,411,div,Progressive,n
+417,411,h3,You could start your day with savings,n
+419,411,p,Switch today!,n
+422,411,div,Get Quote,n
+427,11,p,"For men, a normal pair of swim trunks will typically suffice. I’d also recommend bringing a t-shirt in case the sun is extra hot and direct.",n
+430,11,ul,,n
+431,430,li,,n
+433,431,strong,Women’s Swimwear,y
+434,431,text,"While there are tons of women’s swimsuit companies out there, our favorite for kayaking is Summersalt . They’ve got tons of cute, colorful styles that stay put if you’re fighting rapids or taking a dip in the water.",n
+438,431,strong,Click here to browse Summersalt swimsuits.,n
+439,430,li,,n
+441,439,strong,Men’s Swimwear,y
+442,439,text,"Original Penguin has some fantastic options for men’s swimwear – our readers love them because they’re comfortable and durable, and they have tons of different styles to choose from.",n
+444,439,strong,Click here to browse Original Penguin swim styles.,n
+446,11,h3,Life Jacket,y
+448,11,p,"The #1 most important piece of gear you’ll need for a kayaking trip is a life jacket. Because it is critical for any paddling activity, it belongs on every kayaking gear list.",n
+459,11,p,"Luckily, most kayak rental companies do provide life jackets for free with your rental. If you’re planning on renting a kayak or taking a guided tour, check with your provider to make sure your life jacket is included.",n
+461,11,p,"If you’d prefer to buy your own life jacket , there are a few options. The two most popular types of life vests are standard and inflatable. The most common and popular type of life jacket is the standard kind, which is made from buoyant foam. These are the life vests you’ll usually get from your rental company. However, depending on the circumstance, an inflatable life vest may be a more comfortable alternative. For more information, REI has a fantastic guide to choosing and buying a personal flotation device .",n
+467,11,ul,,n
+469,467,li,"If you’re new to kayaking, try to rent your life jacket from your kayak rental provider.",n
+471,467,li,options.,n
+475,11,h3,Sunglasses,y
+477,11,p,"This should be obvious, but it’s important to protect your eyes from both the harsh rays of the sun and its reflection on the water. If you’re planning on kayaking during the sunny hours of the day, sunglasses are especially crucial for staying safe and comfortable out on the water.",n
+486,11,p,"When choosing sunglasses for your kayaking trip, pick a polarized pair that covers your entire eye. In this case, function beats fashion! It’s also helpful to bring a sunglasses retainer lanyard for them, too, to prevent them from falling in the water.",n
+488,11,h3,Hat,y
+490,11,p,"A hat is one of those kayaking essentials that you’ll regret not bringing with you on the water. Hats can provide shade in wide-open spaces and can help prevent sunburn on your face and neck. Although there are many different styles of hats you can buy, we recommend a wide-brimmed hat made of breathable fabric so that you stay comfortable and minimize sweat on hot days.",n
+499,11,h3,Sunscreen,y
+501,11,p,"Sunscreen is another must-have for your kayaking gear list. Because you’ll be out on the water, sun exposure is a real risk and sunscreen can help your skin avoid the effects of the sun’s harsh UV rays. No matter how prone you are to sunburn, you should wear sunscreen while kayaking to protect yourself.",n
+505,11,p,"We use and recommend Sun Bum sunscreen because it’s a) PABA-free and b) reef safe. Generally, this means that it’s free of harsh chemicals and is safe for marine life, including coral reefs. Even when we aren’t snorkeling, we still opt for reef safe sunscreen to do our part to keep our waterways clean.",n
+509,11,h3,Bug Repellent,y
+511,11,p,"Being on the water is great, but it can also be a breeding ground for mosquitoes or other biting insects. It’s always a good idea to wear bug repellent when you’re out on the water, especially in the summer during the peak of mosquito season. Not only will you avoid itchy bites, but you can also minimize the risks of contracting mosquito-borne diseases.",n
+521,11,p,Skyline Adventurer’s Picks,n
+523,11,p,"We love bug repellent lotion like this one because it’s a light and effective option. It’s not greasy or painful to put on, and it feels a lot better to wear than traditional sprays.",n
+527,11,h3,Water Shoes,y
+528,11,p,,n
+529,528,text,"Having high-quality, breathable water shoes is a critical component of any kayaking gear list. The last thing you want is for your flip flops to end up floating down the river…",n
+531,528,strong,without you!,n
+533,11,p,water shoes,y
+536,11,ul,,n
+537,536,li,,n
+538,537,text,"For open-toed water shoes, we love our Chacos . Whether we’re kayaking, hiking, or wandering around a city, our Chacos stay on our feet and don’t budget. Plus, we love sporting our summer Chaco tans!",n
+547,537,strong,Browse women’s and men’s Chacos styles here.,n
+549,536,li,"For closed-toed water shoes, be sure to buy a pair that ties or has straps to secure them onto your foot. These affordable closed-toed unisex water shoes are breathable and durable.",n
+560,11,h3,Thermal Water Bottle,y
+562,11,p,"Being out in the open means that hydration will be incredibly important. You’ll want to have a large thermal water bottle to have access to clean water during your trip. Why thermal? Because hours on a kayak will heat up your water rapidly, and a thermal bottle will make sure your water stays cool.",n
+571,11,p,"If you’re planning on being out for several hours, you may want to bring a water purifier as well so you can refill your water bottle in fast-running streams.",n
+574,11,p,,n
+575,574,text,"We love Hydro Flask water bottles because they keep water ice cold for hours and hours, which is perfect for hot days out on the water. You can get them in all kinds of fun colors and sizes for any occasion. You can also get one with a built-in filter for longer days of paddling!",n
+579,574,strong,Click here to browse Hydro Flask styles and prices.,n
+581,11,p,"To ensure your water is clean, we also recommend bringing a purification system. The Sawyer Mini is a portable water filter that you can bring along with you on your kayak to purify water before you drink it. If you’d like a different alternative, we also recommend the SteriPen UV purifier for water purification.",n
+587,11,h3,Snacks,y
+589,11,p,"Kayaking can zap your energy, so it’s a good idea to carry snacks with you during your excursion. The right kinds of snacks will provide a burst of energy that you need to continue paddling. We recommend snacks that don’t get soggy or melt in the heat, like KIND bars , Clif bars , and trail mix .",n
+604,11,h3,Dry Bag,y
+606,11,p,"You’ve got a lot of stuff to take with you, and you’ll need a bag to put them in. Instead of a traditional canvas backpack, we recommend packing your stuff into a dry bag, which will keep them dry and safe in the water. Dry bags come in lots of shapes and sizes, but the best ones have a top that rolls up and buckles to keep water out.",n
+610,11,p,We strongly recommend a waterproof dry bag like this one that comes with an extra strap that you can hook onto your kayak or slip over your shoulder to secure it.,n
+621,11,h3,BONUS,n
+623,11,p,"This is definitely not required, but if you want to document your adventure on the water, a GoPro is the best way to go. It’s a far more practical option than taking photos on the water with your phone or DSLR.",n
+626,11,p,,n
+627,626,text,"Not only does a GoPro enable you to keep your other electronics safe and dry, but you can also take tons of wide-angle photos of the surrounding views. Don’t forget a head strap or a waterproof stick for even more flexibility!",n
+629,626,strong,Check out GoPro prices and models here.,n
+638,11,h2,Other Things to Do Before Going Kayaking,n
+640,11,h3,Check the weather forecast,n
+642,11,p,"It’s very important to check the weather before you head out in a kayak. Wind, rain, and sun can all greatly affect your kayaking experience, and it’s important to know what to expect before you hit the water. Generally, in the summer, it’s a good idea to go kayaking early in the morning or later in the day to avoid too much direct sun exposure.",n
+644,11,p,We use AccuWeather,n
+648,11,h3,Research water quality advisories,n
+650,11,p,"While uncommon, sometimes cities issue advisories about various risks in the urban waterways. These risks can include pollution, bacteria and parasites, or other issues that could affect the health and safety of the public. Sometimes, these risks can render bodies of water unsafe to touch or swim in.",n
+659,11,p,"There’s no central database for water quality alerts, but I’d type “ water quality” into Google to double check any recent news stories. Here’s an example of a recent water quality issue involving toxic algae in Austin, Texas.",n
+663,11,h3,Review safety protocols,n
+665,11,p,"As with any outdoor activity, it’s critical to know and understand the safety protocols in case of any emergency. Be sure to talk to your kayak rental company to determine what you should do in case of emergencies like capsizing, running aground, getting caught in rapids, or getting lost.",n
+674,11,h2,Additional Kayaking Resources,n
+676,11,p,Interested in learning more about kayaking? Here are some helpful resources:,n
+679,11,li,The Skyline Adventurer Paddling Hub,n
+683,11,p,Did you enjoy this post? Pin it,n
+695,11,div,,n
+698,695,h2,Join the Urban Outdoors Community,n
+701,695,p,"Our mission is to bring the outdoors to life for city dwellers. Whether you want to hike, ski, paddle, or climb, Urban Outdoors is dedicated to helping you discover bold, intrepid outdoor experiences near your city! You'll be the first to know about our favorite gear suggestions, new guides, and community events.",n
+714,695,div,COUNT ME IN!,n
+716,695,div,We respect your privacy. Unsubscribe at anytime.,n
+723,3,div,,n
+724,723,text,By,n
+727,723,span,Kay Rodriguez,n
+731,723,span,-17T16:29::00,n
+733,723,span,"August 23, 2019",n
+736,3,div,,n
+738,736,h4,"Share This Story, Choose Your Platform!",n
+740,736,div,,n
+742,740,span,Facebook,n
+744,740,span,Twitter,n
+746,740,span,Reddit,n
+748,740,span,LinkedIn,n
+750,740,span,WhatsApp,n
+752,740,span,Telegram,n
+754,740,span,Tumblr,n
+756,740,span,Pinterest,n
+758,740,span,Vk,n
+760,740,span,Xing,n
+762,740,span,Email,n
+764,3,section,,n
+767,764,h2,About the Author,n
+772,764,div,"Kay Rodriguez is the founder and CEO of Urban Outdoors. Before Urban Outdoors, she worked at Bain and Company, National Geographic, and built and sold Jetfarer, a travel media company. When she's not writing furiously on her laptop or editing photos, you can find Kay hiking, surfing, bouldering, playing in the snow, or doting over her vast collection of houseplants .",n
+775,3,section,,n
+778,775,h2,Related Posts,n
+782,775,ul,,n
+784,782,li,,n
+788,784,div,Best Climbing Shoes,n
+792,784,h4,Best Climbing Shoes,n
+795,784,div,"March 1, 2022",n
+801,782,li,,n
+805,801,div,Best Bouldering Shoes,n
+809,801,h4,Best Bouldering Shoes,n
+812,801,div,"January 26, 2022",n
+818,782,li,,n
+822,818,div,Best Climbing Shoes,n
+826,818,h4,Best Climbing Shoes,n
+829,818,div,"January 25, 2022",n
+835,782,li,,n
+839,835,div,30 Totally Genius Gifts,n
+843,835,h4,30 Totally Genius Gifts,n
+846,835,div,"December 15, 2021",n
+851,1,div,,n
+853,851,div,,n
+855,853,span,Close product quick view,n
+856,853,text,×,n
+859,851,h2,Title,n

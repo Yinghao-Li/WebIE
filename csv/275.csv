@@ -1,0 +1,328 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+17,3,h1,Hair Care Products,n
+18,3,div,,n
+20,18,div,,n
+21,20,text,Skip left navigation,n
+23,20,div,,n
+26,23,h2,Categories,n
+27,23,ul,,n
+29,27,li,Hair Color,y
+31,27,li,Shampoo and Conditioner,y
+33,27,li,Clean Hair Care,y
+35,27,li,Textured Hair Care,y
+37,27,li,Salon Hair Care,y
+39,27,li,Styling Products,y
+41,27,li,Hair and Scalp Treatments,y
+43,27,li,Styling Tools and Appliances,y
+45,27,li,Hair Brushes and Accessories,y
+47,27,li,Sale on Hair Care,n
+50,27,li,Shop All Hair Care,n
+53,20,div,,n
+56,53,h2,Deals and Promotions,n
+57,53,ul,,n
+59,57,li,Sales and Offers,n
+61,57,li,Coupon Available,n
+63,57,li,Walgreens Cash Rewards,n
+65,57,li,Gift With Purchase,n
+68,20,div,,n
+69,68,div,,n
+72,69,h2,Brands,n
+73,69,ul,,n
+75,73,li,Conair,n
+77,73,li,Garnier,n
+79,73,li,Head and Shoulders,n
+81,73,li,John Frieda,n
+83,73,li,L'Oreal Paris,n
+85,73,li,OGX,n
+87,73,li,Pantene,n
+89,73,li,Scunci,n
+91,73,li,SheaMoisture,n
+93,73,li,Suave,n
+95,73,li,TRESemme,n
+97,73,li,Walgreens,n
+101,68,li,View More,n
+103,18,div,,n
+114,103,div,,n
+116,114,strong,2 or $12,n
+117,114,text,Tresemme hair care + $4 coupon on 2,n
+119,103,div,,n
+121,119,div,,n
+124,121,h2,Highlights,n
+125,121,ul,,n
+128,125,li,,n
+131,128,div,Find Your Look,n
+133,128,div,Try on select Hair Color Virtually!,n
+143,125,li,Style Your Natural Curls,n
+150,125,li,,n
+153,150,div,LEARN MORE,n
+155,150,div,about Scalp Health,n
+161,119,div,,n
+164,161,h2,Sales and Offers,n
+173,161,div,,n
+185,173,div,"OGX, Maui Moisture...",n
+192,173,div,,n
+195,192,div,"Spend $20, Get $5 W Cash rewards",n
+202,192,div,"Buy $20 or more participating Dove, Axe, Degree or Suave products and receive $5 Walgreens Cash rewards.",n
+229,173,div,Head and Shoulders,n
+244,173,div,"Not Your Mother's, RealRaw...",n
+259,173,div,John Frieda,n
+274,173,div,Carol's Daughter,n
+284,173,div,"Buy 3 select Personal Care items, Earn $5 W Cash rewards",n
+302,173,div,"Cantu, Parfums de Coeur",n
+317,173,div,"Donna, Titan...",n
+332,173,div,"SoftSheen-Carson Dark and Lovely, Care Free Curl...",n
+347,173,div,Hollywood Beauty,n
+354,173,div,,n
+357,354,div,"Buy 2, get 3rd FREE",n
+362,354,div,"Dr. Bronner's, PURA D'OR...",n
+377,173,div,Walgreens,n
+392,173,div,"Rasta Locks and Twist, JAMAICAN MANGO and LIME...",n
+407,173,div,Alaffia,n
+422,173,div,Pantene,n
+437,173,div,"Moisture Miracle, African Pride",n
+452,173,div,Kiss,n
+467,173,div,"Toppik, Viviscal",n
+474,173,div,,n
+477,474,div,"Buy 3, Get $5 W Cash rewards",n
+484,474,div,Buy 3 or more participating Harry's Hair or Shave products and receive $5 Walgreens Cash rewards.,n
+496,173,div,Palmer's,n
+511,173,div,"Cremo Cream, Cremo",n
+533,173,div,,n
+536,533,div,"Buy 1, Get $5 W Cash rewards",n
+543,533,div,Buy 1 or more participating K and W PUREPLX REPAIR TRTMNT 12.2Z and receive $5 Walgreens Cash rewards.,n
+555,173,div,Every Man Jack,n
+570,173,div,Johnson's Baby,n
+585,173,div,Rimmel,n
+592,173,div,,n
+595,592,div,"Buy 1, Get 1 40% OFF",n
+600,592,div,Neutrogena,n
+607,173,div,,n
+610,607,div,"Spend $50, Get $10 W Cash rewards",n
+617,607,div,Buy $50 or more participating Home Health Care products and receive $10 Walgreens Cash rewards.,n
+626,173,div,sales and offers,n
+631,119,div,,n
+634,631,h2,Coupons,n
+644,631,div,,n
+663,644,div,$1 off with myWalgreens final price L'Oréal Paris Ever Hair Care....,n
+680,644,div,,n
+690,680,div,$1.00 OFF,n
+692,680,div,"Clairol® Nice'n Easy, Root Touch-up Permanent or Natur...",n
+709,644,div,,n
+719,709,div,$5 off with myWalgreens final price,n
+721,709,div,Hair Regrowth Treatment Walgreens.......,n
+738,644,div,,n
+748,738,div,Save $3.00,n
+750,738,div,THREE Pantene Products including Gold Series and Truly Collection...,n
+767,644,div,,n
+777,767,div,Save $9.00,n
+779,767,div,off any TWO Revlon Face Cosmetic Products......,n
+796,644,div,,n
+799,796,div,Expires-16 23:59:59,n
+808,796,div,off any JOHNSON'S® or DESITIN® Product excluding trial and tra...,n
+825,644,div,,n
+828,825,div,Expires-30 23:59:00,n
+837,825,div,Mane 'N Tail Shampoo or Conditioner 32 oz.......,n
+866,644,div,Selsun Blue Shampoo 11 oz....,n
+883,644,div,,n
+884,883,div,,n
+886,884,div,Expires-02 23:59:59,n
+893,884,div,$4.00 OFF,n
+895,883,div,on TWO TRESemme Hair Care or Style products. Select Varieties...,n
+912,644,div,,n
+913,912,div,,n
+915,913,div,Expires-09 23:59:59,n
+922,913,div,$10.00 off,n
+924,912,div,any two Women's or Men's ROGAINE® Treatment products any siz...,n
+953,644,div,L'Oréal Paris Hair Color Magic Root Cover Up or Root Rescue.......,n
+970,644,div,,n
+980,970,div,Save $2.00,n
+982,970,div,TWO Herbal Essences bio,n
+1011,644,div,ONE Pantene Products including Gold Series and Truly Collections ...,n
+1028,644,div,,n
+1029,1028,div,,n
+1031,1029,div,Expires-07 23:59:59,n
+1038,1029,div,$3.00 OFF,n
+1040,1028,div,on any ONE hims or hers hair care product......,n
+1069,644,div,Garnier Hair Color Nutrisse or Olia.......,n
+1088,644,div,Coupons,n
+1098,119,div,,n
+1101,1098,h2,Highest Rated,n
+1110,1098,div,,n
+1115,1110,div,,n
+1116,1115,span,,n
+1118,1116,strong,Kinky-Curly Smooth Style Foam...,n
+1120,1116,span,4 oz,n
+1136,1115,div,$10.79,n
+1141,1110,div,,n
+1144,1141,span,L'Oreal Paris Excellence Crem...,n
+1162,1141,div,$10.29,n
+1170,1110,div,Redken Color Extend Magnetics...,n
+1193,1110,div,,n
+1194,1193,span,,n
+1196,1194,strong,Got2b Beach Matte Surfer Look...,n
+1198,1194,span,5 oz,n
+1205,1193,div,,n
+1212,1205,span,59,n
+1214,1205,span,$5.59,n
+1219,1110,div,,n
+1222,1219,span,John Frieda Precision Foam Co...,n
+1231,1219,div,,n
+1236,1231,span,13,n
+1240,1231,span,$13.79,n
+1245,1110,div,,n
+1248,1245,span,Gray Ha...,n
+1257,1245,div,,n
+1262,1257,span,11,n
+1266,1257,span,$11.49,n
+1274,1110,div,Lulu's Beauty Color Applicati...,n
+1290,1110,div,,n
+1291,1290,span,,n
+1293,1291,strong,Aveda Smooth Infusion Shampoo...,n
+1295,1291,span,5 oz,n
+1301,1290,div,,n
+1302,1301,div,,n
+1304,1302,span,,n
+1307,1304,text,21,n
+1309,1304,sup,66,n
+1311,1302,span,$21.66 on sale,n
+1315,1301,div,$29.99,n
+1320,1110,div,,n
+1323,1320,span,Nioxin Scalp Therapy Conditio...,n
+1341,1320,div,$23.99,n
+1346,1110,div,,n
+1347,1346,span,,n
+1349,1347,strong,CRE-C Shampoo...,n
+1351,1347,span,46 oz,n
+1367,1346,div,$10.99,n
+1372,1110,div,,n
+1375,1372,span,Redken Color Extend Blond Sha...,n
+1384,1372,div,,n
+1389,1384,span,29,n
+1393,1384,span,$29.99,n
+1398,1110,div,,n
+1401,1398,span,Color Oops Hair Color Remover...,n
+1409,1398,div,,n
+1419,1409,div,$9.49 on sale,n
+1423,1409,div,$14.09,n
+1428,1110,div,,n
+1429,1428,span,,n
+1431,1429,strong,TIGI Bed Head Hard Head Spray...,n
+1433,1429,span,3 OZ,n
+1449,1428,div,$9.99,n
+1455,1110,div,,n
+1457,1455,strong,Renpure Apple Cider Vinegar C...,n
+1459,1455,span,16 oz,n
+1487,1110,div,"Wet Brush Original Detangler,...",n
+1507,1110,div,Highest Rated,n
+1510,119,div,,n
+1513,1510,h2,Top Sellers,n
+1522,1510,div,,n
+1527,1522,div,,n
+1528,1527,span,,n
+1530,1528,strong,Creme Of Nature Argan Oil Exo...,n
+1532,1528,span,41 oz,n
+1548,1527,div,$8.29,n
+1553,1522,div,,n
+1556,1553,span,Revlon Total Color Hair Color...,n
+1574,1553,div,$7.99,n
+1579,1522,div,,n
+1580,1579,span,,n
+1582,1580,strong,L'Oreal Paris Colorista Hair ...,n
+1584,1580,span,2 oz,n
+1590,1579,div,,n
+1600,1590,div,$8.99 on sale,n
+1604,1590,div,$9.99,n
+1609,1522,div,,n
+1610,1609,span,,n
+1612,1610,strong,Clairol Root Touch-Up Gel 5G...,n
+1614,1610,span,5 fl oz,n
+1620,1609,div,,n
+1621,1620,div,,n
+1628,1621,span,76,n
+1630,1621,span,$7.76 on sale,n
+1634,1620,div,$10.99,n
+1639,1522,div,,n
+1640,1639,span,,n
+1642,1640,strong,Garnier Fructis Fortifying Co...,n
+1644,1640,span,21 fl oz,n
+1660,1639,div,$5.99,n
+1665,1522,div,,n
+1666,1665,span,,n
+1668,1666,strong,Garnier Fructis Style Full Co...,n
+1670,1666,span,25 fl oz,n
+1686,1665,div,$4.49,n
+1691,1522,div,,n
+1694,1691,span,Revlon Hair Dryer 1875W Turbo...,n
+1703,1691,div,,n
+1710,1703,span,89,n
+1712,1703,span,$23.89,n
+1718,1522,div,,n
+1720,1718,strong,TRESemme Expert Selection Hyd...,n
+1722,1718,span,17 oz,n
+1743,1522,div,,n
+1744,1743,span,,n
+1746,1744,strong,SheaMoisture Strengthen and R...,n
+1748,1744,span,13 fl oz,n
+1764,1743,div,$8.69,n
+1770,1522,div,,n
+1772,1770,strong,L'Oreal Paris Elvive Volume F...,n
+1774,1770,span,6 fl oz,n
+1796,1522,div,,n
+1798,1796,strong,Biolage by Matrix Normalizing...,n
+1800,1796,span,8 fl oz,n
+1822,1522,div,,n
+1824,1822,strong,Renpure Originals Coconut Cre...,n
+1826,1822,span,32 fl oz,n
+1851,1522,div,,n
+1852,1851,span,,n
+1854,1852,strong,SheaMoisture Extra Moisture D...,n
+1856,1852,span,8 fl oz,n
+1872,1851,div,$10.49,n
+1877,1522,div,,n
+1878,1877,span,,n
+1880,1878,strong,L.A. Colors Eyeliner Pencil B...,n
+1882,1878,span,01 oz,n
+1889,1877,div,,n
+1894,1889,span,0,n
+1898,1889,span,$0.99,n
+1903,1522,div,,n
+1904,1903,span,,n
+1906,1904,strong,SheaMoisture Kids Extra Moist...,n
+1908,1904,span,8 oz,n
+1915,1903,div,,n
+1920,1915,span,6,n
+1924,1915,span,$6.69,n
+1933,1522,div,top sellers,n
+1935,3,div,,n
+1939,1935,li,,n
+1940,1939,div,,n
+1942,1940,h2,Hair Care at Walgreens,n
+1944,1940,p,"Great hair days don't happen on their own. To keep your hair looking its best, you need to care for it properly with the right hair care routine. At Walgreens, we have everything you need to cleanse, condition, style and treat your hair, so countless good hair days are ahead.",n
+1945,1939,div,,n
+1947,1945,h2,Essentials,n
+1949,1945,p,"While hair types differ greatly, all hair requires regular cleansing with shampoo and moisturizing with conditioner to remain in the best of health. We carry shampoo and conditioner for all hair types and textures, and with products designed specifically for children and ethic hair types, we offer something for everyone.",n
+1955,1945,p,You can choose to purchase shampoo and conditioner individually or as a part of hair care sets that give you the convenience of one-and-done shopping.,n
+1957,1945,p,Salon shampoos and conditioners allow you to purify and hydrate with the same products trusted by the pros.,n
+1960,1945,h2,Solutions,n
+1962,1945,p,"Even if you wash and condition on a regular basis, your hair may not be easy to style and hold in place. Fortunately, styling products can improve manageability, making it easier to create all types of hairstyles.",n
+1963,1945,ul,,n
+1965,1963,li,"Add texture with pomade, wax and other texturizers or increase body and bounce with mousse and volumizing sprays.",n
+1967,1963,li,Gels make it easier to sculpt and shape and you can count on serums to smooth away frizz in a flash.,n
+1969,1963,li,Finish things off with hairspray to secure every strand.,n
+1971,1945,p,these styling aids and more here at Walgreens.,n
+1973,1945,h2,Products That Address Every Concern,n
+1975,1945,p,"If hair and scalp concerns are getting in the way of you feeling and looking your best, you can discover products to address your issues in our selection of hair care products.",n
+1977,1945,p,"Hair regrowth and thickening treatments , shampoos, styling products and supplements are formulated to address hair loss and thinning, helping to encourage healthy growth with over-the-counter medicinal, cosmeceutical and natural ingredients.",n
+1980,1945,p,"You'll also find products for strengthening damaged hair, soothing itchy scalp, hydrating dry hair, and reducing breakage and split ends.",n
+1982,1945,h2,"Tools, Accessories and Appliances",n
+1984,1945,p,"When it comes time to replace or upgrade the tools, accessories and appliances that you rely on to help you style, Walgreens is the place to shop.",n
+1986,1945,p,"Choose from brushes and combs to help tame, detangle and style hair of all lengths, types and thicknesses and a wide range of elastics, clips, pins and bands for adding flair to hairstyles.",n
+1988,1945,p,"You'll also find hair dryers, flat irons, curling irons and hot rollers for all hair types and all types of styling.",n
+1990,1945,h2,Salon Color at Home,n
+1992,1945,p,"You don't have to head to the salon to cover gray or change your hair color. We have hair color kits that allow you to color at home. With everything from temporary spray-on color to permanent dye, we carry a range of options. You'll even find natural kits that use plant extracts rather than synthetic ingredients to produce beautiful results.",n
+1994,1939,span,Show more,n
+1996,1939,span,Show Less,n
+2003,1935,p,* Restrictions apply. See walgreens.com or offerdetails,n
+2017,0,div,TOP,n

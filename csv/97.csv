@@ -1,0 +1,200 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1000,0,div,,n
+1015,1000,div,,n
+1162,1015,div,,n
+1179,1162,h1,Cricket Coaching and Training Equipment,n
+1183,1162,p,80 Products,n
+1222,1162,div,,n
+1233,1222,li,RapidFire RF Cricket Rebounders,y
+1255,1222,li,,n
+1257,1255,p,RapidFire Handheld Cricket Rebounder,y
+1258,1255,div,,n
+1264,1258,p,$66.99,n
+1270,1258,p,$84.99,n
+1279,1222,li,,n
+1281,1279,p,FORTRESS Hanging Wicket Target,y
+1288,1279,p,$24.99,n
+1305,1222,li,FORTRESS Cricket Target Stump,y
+1327,1222,li,,n
+1329,1327,p,FORTRESS Wooden Cricket Stumps,y
+1336,1327,p,$46.99,n
+1351,1222,li,,n
+1353,1351,p,FORTRESS Rubber Base Cricket Stumps,y
+1360,1351,p,$54.99,n
+1375,1222,li,,n
+1377,1375,p,FORTRESS Spring Back Cricket Stumps,y
+1384,1375,p,$62.99,n
+1401,1222,li,FORTRESS Technique Cricket Bat,y
+1425,1222,li,FORTRESS Cricket Catching Bat,y
+1447,1222,li,,n
+1449,1447,p,FORTRESS Cricket Catching Mitt,y
+1456,1447,p,$28.99,n
+1471,1222,li,,n
+1473,1471,p,FORZA Pop-Up Cricket Fielding Nets,y
+1474,1471,div,,n
+1480,1474,p,$63.99,n
+1486,1474,p,$87.99,n
+1495,1222,li,,n
+1497,1495,p,Katchet Training Aid,y
+1498,1495,div,,n
+1504,1498,p,$114.99,n
+1510,1498,p,$144.99,n
+1519,1222,li,,n
+1521,1519,p,FORTRESS Backyard Cricket Set,y
+1534,1519,p,$65.99,n
+1543,1222,li,,n
+1545,1543,p,FORTRESS Cricket 'Incrediball' Practice Balls,y
+1558,1543,p,$39.99,n
+1567,1222,li,,n
+1569,1567,p,Cricket Wind Balls,y
+1576,1567,p,$12.99,n
+1591,1222,li,,n
+1593,1591,p,FORTRESS Backyard Cricket Balls,y
+1606,1591,p,$25.99,n
+1617,1222,li,FORTRESS Cricket Ball Carry Bag,y
+1639,1222,li,,n
+1641,1639,p,FORTRESS Cricket Scorebook,y
+1648,1639,p,$18.99,n
+1665,1222,li,FORTRESS Cricket Umpires Counter,y
+1687,1222,li,,n
+1689,1687,p,FORTRESS Cricket Batting Tee,y
+1696,1687,p,$5.99,n
+1713,1222,li,Sidearm Club - Cricket Ball Thrower,y
+1737,1222,li,FORZA Hurdle or Agility Poles and Clips,y
+1759,1222,li,,n
+1761,1759,p,FORZA Superdome Cone Hurdle Set,y
+1774,1759,p,$89.99,n
+1783,1222,li,,n
+1785,1783,p,Adjustable Training Hurdles,y
+1786,1783,div,,n
+1792,1786,p,$99.99,n
+1798,1786,p,$129.99,n
+1809,1222,li,Cricket Throwdown Protector Screen,y
+1831,1222,li,,n
+1833,1831,p,FORTRESS Pop-Up Cricket Protector L-Screen,y
+1834,1831,div,,n
+1840,1834,p,$91.99,n
+1846,1834,p,$160.99,n
+1855,1222,li,,n
+1857,1855,p,Cricket Throwdown Protector Screen - 7ft x 7ft,y
+1858,1855,div,,n
+1864,1858,p,$597.99,n
+1870,1858,p,$748.99,n
+1879,1222,li,,n
+1881,1879,p,Paceman Cricket Bowling Machine,y
+1882,1879,div,,n
+1888,1882,p,$434.99,n
+1894,1882,p,$499.99,n
+1903,1222,li,,n
+1905,1903,p,FORTRESS Cricket Bowling Machine Balls,y
+1906,1903,div,,n
+1912,1906,p,$44.99,n
+1918,1906,p,$59.99,n
+1927,1222,li,,n
+1929,1927,p,Slip Catch Cradle and Spare Laths,y
+1930,1927,div,,n
+1936,1930,p,"$1,126.99",n
+1942,1930,p,"$1,409.99",n
+1951,1222,li,,n
+1953,1951,p,Sports Ball Radar Speed Gun - SRA3000 Tracer,y
+1954,1951,div,,n
+1960,1954,p,$299.99,n
+1966,1954,p,$399.99,n
+1975,1222,li,,n
+1977,1975,p,Cricket Warm-Up or Throw-Down Practice Net,y
+1978,1975,div,,n
+1984,1978,p,$149.99,n
+1990,1978,p,$189.99,n
+2001,1222,li,Portable Multi-Sport Hitting Net,y
+2023,1222,li,,n
+2025,2023,p,Backyard Ball Stop Net,y
+2032,2023,p,$9.99,n
+2047,1222,li,,n
+2049,2047,p,Multi-Sport Ball Carry Cart,y
+2050,2047,div,,n
+2056,2050,p,$179.99,n
+2062,2050,p,$209.99,n
+2071,1222,li,,n
+2073,2071,p,Knock Knock Cricket Batting Practice Aid,y
+2080,2071,p,$229.99,n
+2127,1162,div,Can't find what you're looking for?,n
+2136,1162,div,,n
+2137,2136,div,,n
+2139,2137,p,"Take your game to the test match level with the best cricket training equipment available - from batting practice to fielding drills, we have every aspect of the game covered.",n
+2141,2137,p,"Here at Net World Sports we want to raise your game to the test match level – with a range of the best cricket training equipment available, we believe we can help you on your journey. We supply the best quality fielding equipment with our RapidFire Rebound Nets headlining an impressive range of Target Stumps, Fielding Goals and Catching Aids. The Paceman and BOLA bowling machines also provide your batting with the ultimate challenge, as we stock a bowling machine designed to suit everyone. Our fantastic range of hitting nets and protector screens allow for the best service during batting and bowling practice, whilst we also supply a range of fitness equipment designed to benefit your game.",n
+2143,2137,p,"Beginning with our terrific RapidFire Rebounder range, available in two different variants, single sided and double sided, our RapidFire range is ideal for quick reaction close catching for wicket-keepers, slip fielders and close-in fielders. Beginning with the RapidFire single sided rebounder, easy to set up with screw-in sides, the single sided rebounder is adjustable to provide a variety of training drills and different challenges. The spring-loaded netting is ideal for testing your quick reactions, whilst the frame makes for easy storage. The double-sided RapidFire provides a much more difficult test, as two people can train either side of the Rebounder for increased training efficiency. The 1m x 1m rebound net does not only have to be used for catching drills, as it can be just as useful for range hitting or acting as a spin variation during net practice.",n
+2145,2137,p,"Meanwhile, our high visibility Cricket Target Stump is the perfect training wicket for bowling and fielding drills. The reinforced PVC fluorescent yellow target stump has a solid spring base with a strong ground spike, that is extremely capable of taking direct hits and perfect deliveries. Remaining on the topic of stumps, our spring back cricket stumps are perfect for every occasion – whether it be in the back garden with our Garden Cricket Set, net practice or in competitive games. The cast iron base and zinc plated springs are long-lasting and are perfect training aids for your bowlers and fielders.",n
+2147,2137,p,"Our fielding goal range consists of the FORZA Flash Pop-Up Fielding Goals, seen on county and international grounds around the world during fielding drills. The FORZA Flash Goals instantly pop-up and are ready within seconds and fold away with one simple twist, whilst the high visibility fluorescent yellow and black colour scheme makes them perfect to place behind stumps during training drills. The FORZA Flash Pop-Up Fielding Goals also come with a reflective strip around the edge of the goal – meaning they’re perfect for night time use should your side be in any floodlit Twenty20 action.",n
+2149,2137,p,"Finally, in our specialist fielding range is the two products used by most, if not every international side in the world. Firstly, the Fusion Skyer Cricket Bat which is the perfect training cricket bat – designed to hit balls higher for increased difficulty during catching practice. The unique rubber bat face allows for easy use, with a simple swing of the bat sending the ball high in the air, to get your boundary fielders set for catches in training and before matches. A popular piece of training equipment, the Fusion Skyer is two thirds the size of a standard cricket bat and is the best cricket training bat on the market. Lastly, the Katchet Training Aid is another favourite of professional sides throughout the game as it is designed to replicate real match deflections for increased difficulty during training and matches. Manufactured from a polypropylene surface, the Katchet is weatherproof and impact resistant, as it provides bounce, pace and the most varied deflections to replicate real match situations.",n
+2151,2137,p,"Moving on to our bowling machine range, where we stock four varieties of Paceman machines and two BOLA machines providing a variety of choices for all abilities and all ages. The most affordable of the Paceman range is the Pitch Attack model, capable of producing speeds of over 50mph, the Pitch Attack can replicate in-swing and out-swing deliveries providing challenging batting practice. An auto feeder comes as standard with the Pitch Attack and should be used with Paceman machine balls, as other brands of machine balls may damage Paceman equipment. Next up in the range is the Original S2 Paceman Bowling Machine which features an integrated third generation Paceman Drive System. The Original S2 pace can go to speeds above 55mph and can be adjusted for full and short-pitched deliveries, while still maintaining the in-swing and out-swing feature of the Pitch Attack model. An automatic 12 ball feeder is included to help improve efficiency during your batting practice. A significant step up in the Paceman range takes us to the Strike model, exceeding speeds of 60mph, the Paceman Strike can adjust for full and short length deliveries whilst swinging in or away from your off-stump. Like every Paceman Bowling Machine, the Strike comes with an automatic ball feeder included as standard – making it the perfect bowling machine for your cricket club, school or back garden. Finally, the top of the range Paceman machine comes as the Pro X2, offering speeds above 68mph, the Pro X2 is truly the professional’s choice. With the option of full and short-pitched deliveries, with in-swing and out-swing also available, the Pro X2 offers off-spin and leg-spin settings, putting it above the other three models. The Pro X2 helps to make batting practice feel like a test match innings with its variety of settings – improve your batting to no end with the top end Paceman bowling machine.",n
+2153,2137,p,"Switching to the BOLA Bowling Machine range, we have the Professional Bowling Machine and the Junior Bowling Machine. Firstly, the BOLA Professional Bowling Machine has been the players and coaches favourite for decades, with brushless motors, the Professional Machine has a microprocessor based digital speed control capable of adjusting speeds in increments between 15 and 95mph. The BOLA Professional Machine also has 19 different spin and swing bowling settings, whilst having precise line and length by using a screw adjusted ball joint. The Professional Machine now uses a lighter weight for easy transportation, whilst the auto feeder offers increased coaching freedom and efficient individual batting practice. The alternative is the Junior Bowling Machine, which reaches speeds of up to 65mph – including a 13-ball auto feeder and a selectable electronic random mode. The Junior Bowling Machine allows for budding Ashes stars to train like their professional counterparts, making batting practice easy for everybody.",n
+2155,2137,p,"Finally, in our cricket specific training equipment range is the 7’ x 7’ Cricket Throw-Down Protector Screens – perfect for servers during net sessions to remain safe from straight drives. The protector screen comes in two different variations, the standard and the Nimitz edition, both aimed at improving your safety during training sessions. The standard Protector Screen comes with a steel frame with pillow-case style 2mm twine netting. The standard model is extremely easy to set up for net sessions and is perfect for clubs looking to practice their range hitting. However, with the ball travelling faster and further than ever before, the Nimitz edition provides extra security with its UV stabilised netting made from overlocked 2.5mm twine. The Nimitz edition protector screen has a 2” diameter powder coated steel frame, with a three-section design to offer increased strength during batting practice. The server will be in no danger behind the Nimitz, as a thick 1” foam padding covers the protector screen edges ensuring both the protector screen and the servers are safe from any straight shots.",n
+2157,2137,p,"The remaining products from our cricket training equipment section contain the part that no cricketers enjoy… our fitness range. The fitness range consists of the best general training equipment available, with slalom poles, speed hurdles, agility training ladders, speed parachutes and marker cones all perfect to add to your game. The more footwork and pace drills cricketers work on, the quicker the running and turning between the wickets is, the better dancing down the wicket to the spinner is and the faster run-up the bowler can have. Ideal for professional or amateur clubs – the Net World Sports fitness range is guaranteed to improve your side to no end – with your batsmen hitting the ball further, bowlers bowling quicker and fielders amassing plenty of run outs.",n
+2159,2137,p,"Here at Net World Sports we go the extra mile to provide the best cricket training equipment to improve your game. Whether it is batting, bowling or fielding we have something for every aspect of the gentlemen’s game. Whether you are motivated having watched the Ashes or merely want to prepare for next season, the Net World Sports cricket range is on an exciting journey to help make your club the best it can be. Be sure to check back in with our cricket training equipment range in the run up to next season, as we continue to add to our already growing training equipment.",n
+2161,2136,p,Read More,n
+2167,1015,h2,Recently Viewed,n
+2249,1000,div,,n
+2253,2249,div,,n
+2257,2253,div,Click below to receive exclusive updates and offers!,n
+2260,2253,div,Sign me up,n
+2262,2249,div,,n
+2263,2262,div,,n
+2266,2263,li,,n
+2268,2266,span,Find your sport,n
+2269,2266,ul,,n
+2270,2269,ul,,n
+2272,2270,li,Archery,n
+2276,2270,li,Badminton,n
+2278,2270,li,Baseball,n
+2280,2270,li,Basketball,n
+2286,2270,li,Field Hockey,n
+2289,2269,ul,,n
+2291,2289,li,Football,n
+2293,2289,li,Gaelic,n
+2295,2289,li,Golf,n
+2297,2289,li,Handball,n
+2299,2289,li,Hockey,n
+2301,2289,li,Industrial,n
+2303,2289,li,Lacrosse,n
+2305,2289,li,Netball,n
+2307,2289,li,Performance,n
+2308,2269,ul,,n
+2310,2308,li,Pickleball,n
+2314,2308,li,Rugby,n
+2316,2308,li,Soccer,n
+2318,2308,li,Sports Shelters,n
+2320,2308,li,Tennis,n
+2322,2308,li,Volleyball,n
+2324,2308,li,Training Guides,n
+2326,2308,li,Bulk Buy,n
+2328,2308,li,New Arrivals,n
+2329,2263,div,,n
+2331,2329,li,,n
+2333,2331,span,Company info,n
+2334,2331,ul,,n
+2336,2334,li,About Us,n
+2338,2334,li,Press Enquiries,n
+2340,2334,li,Blog,n
+2342,2334,li,Videos,n
+2344,2334,li,Brand Ambassadors,n
+2346,2334,li,Our New HQ,n
+2348,2329,li,,n
+2350,2348,span,Customer info,n
+2351,2348,ul,,n
+2353,2351,li,Register or Sign In,n
+2359,2351,li,Payment Methods,n
+2361,2351,li,Purchase Orders,n
+2363,2351,li,Shipping Information,n
+2365,2351,li,Returns Information,n
+2367,2351,li,Discount Codes,n
+2369,2351,li,Who We Supply,n
+2371,2329,li,,n
+2373,2371,span,Other info,n
+2374,2371,ul,,n
+2376,2374,li,Privacy Policy,n
+2378,2374,li,T and Cs,n
+2380,2374,li,Cookie Policy,n
+2382,2374,li,Catalogues,n
+2384,2374,li,Promotion Exclusions,n
+2388,2262,div,Company Reg #,n

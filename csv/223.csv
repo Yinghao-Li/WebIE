@@ -1,0 +1,227 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+6,5,div,,n
+7,6,div,,n
+9,7,h1,Volleyball Equipment,n
+11,7,div,,n
+13,11,h2,What Equipment do Volleyball Players Need?,n
+15,11,p,"Volleyball is one of the most popular sports in the world. Whether playing in the backyard or in a club, here is the equipment that you will need.",n
+21,11,p,,n
+23,21,strong,Volleyball players need these basics to start,n
+25,21,strong,all the equipment that a volleyball player would need.,n
+27,11,p,"Originating from America, volleyball is played by more than 800 million people around the world. It’s one of the most important events in the Olympics.",n
+37,11,div,,n
+40,37,div,,n
+43,40,div,7 Basic Volleyball Skills,n
+46,40,div,,n
+49,46,p,"To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video",n
+56,46,div,Video Player is loading.,n
+60,46,span,Play Video,n
+61,46,div,,n
+65,61,span,Pause,n
+70,61,div,Unmute,n
+77,61,div,,n
+79,77,span,Current Time,n
+81,77,span,0:04,n
+85,61,div,or,n
+86,61,div,,n
+88,86,span,Duration,n
+90,86,span,0:58,n
+92,61,div,,n
+94,92,div,,n
+96,94,span,Loaded,n
+99,94,span,41%,n
+105,92,div,0:04,n
+108,61,div,,n
+110,108,span,Stream Type,n
+111,108,text,LIVE,n
+112,61,button,,n
+115,112,span,"Seek to live, currently behind live",n
+117,112,span,LIVE,n
+118,61,div,,n
+120,118,span,Remaining Time,n
+122,118,span,-,n
+124,118,span,0:54,n
+128,61,div,,n
+130,128,div,1x,n
+134,128,span,Playback Rate,n
+137,61,div,,n
+141,137,span,Chapters,n
+145,137,li,Chapters,n
+146,61,div,,n
+150,146,span,Descriptions,n
+155,146,li,descriptions off,n
+158,61,div,,n
+162,158,span,Captions,n
+164,158,ul,,n
+165,164,li,,n
+167,165,span,captions settings,n
+169,165,span,", opens captions settings dialog",n
+172,164,li,captions off,n
+175,61,div,,n
+179,175,span,Audio Track,n
+184,175,li,und,n
+196,61,ul,,n
+197,196,li,,n
+198,197,text,1080p,n
+200,197,sup,FHD,n
+201,196,li,,n
+202,201,text,720p,n
+204,201,sup,HD,n
+213,61,span,Share,n
+217,61,span,Fullscreen,n
+220,46,p,This is a modal window.,n
+222,46,div,,n
+224,222,p,dialog window. Escape will cancel and close the window.,n
+225,222,div,,n
+226,225,div,,n
+229,226,fieldset,Text,n
+259,226,fieldset,Background,n
+291,226,fieldset,Window,n
+321,225,div,,n
+322,321,fieldset,,n
+324,322,legend,Font Size,n
+325,322,select,,n
+327,325,option,50%,n
+329,325,option,75%,n
+331,325,option,100%,n
+333,325,option,125%,n
+335,325,option,150%,n
+337,325,option,175%,n
+339,325,option,200%,n
+341,325,option,300%,n
+343,325,option,400%,n
+344,321,fieldset,,n
+346,344,legend,Text Edge Style,n
+347,344,select,,n
+349,347,option,None,n
+351,347,option,Raised,n
+353,347,option,Depressed,n
+355,347,option,Uniform,n
+357,347,option,Dropshadow,n
+358,321,fieldset,,n
+360,358,legend,Font Family,n
+361,358,select,,n
+363,361,option,Proportional Sans-Serif,n
+365,361,option,Monospace Sans-Serif,n
+367,361,option,Proportional Serif,n
+369,361,option,Monospace Serif,n
+371,361,option,Casual,n
+373,361,option,Script,n
+375,361,option,Small Caps,n
+376,225,div,,n
+377,376,button,,n
+378,377,text,Reset,n
+380,377,span,restore all settings to the default values,n
+382,376,button,Done,n
+386,222,span,Close Modal Dialog,n
+388,222,p,dialog window.,n
+401,46,div,Advertisement,n
+411,37,text,7 Basic Volleyball Skills,n
+413,11,h2,Volleyball Equipment,n
+416,11,p,"Volleyball players will need a ball, net, and court for any level of play. League players will benefit from kneepads and ankle supports . The definition of net and court may vary for non-competitive or non-league games.",n
+418,11,p,Ready to dive into the equipment? Let’s do this.,n
+420,11,h3,Required,n
+423,11,p,"The volleyball ball is the most important component of the game. Made from either synthetic leather or leather, it weighs around 10 ounces with a circumference of 25 to 26 inches.",n
+433,11,p,"Volleyballs made from synthetic leather are lighter in weight, which is why they are preferred for beginners. Moreover, they are relatively sturdier and more used in outdoor games.",n
+435,11,p,"On the other hand, a volleyball made from leather is used for indoor games because it’s more likely to get damaged or wet. The quality of a volleyball is determined by its ability to alleviate pain when it is hit by a player.",n
+437,11,h3,Required,n
+440,11,p,The official dimensions of a volleyball court are 59 ft. long by 29.5 ft. wide. The court is divided by a centerline into two halves. The net is placed in the center on the center line. Its dimensions are 32 ft. by 3 ft.,n
+449,11,p,"For the men’s game, the net is placed so that its top point is at 7 ft.,11 5 or 8 in. above the center line. For the women’s game, the net is placed 7 ft. 4 1 or 8 in. above the center line.",n
+451,11,p,"The court also has 6.6 ft. of free space around it. The court surface must be polished, flat, and free of any objects that can cause injury to the players.",n
+453,11,p,"If you’re playing a non-competitive game , then the league dimensions aren’t totally required, as long as there’s an agreed-upon definition of in-bounds.",n
+460,11,p,"Same with the net – you could set up a couple of chairs with a blanket to be the net. It won’t fly for a league, but it’s fine for at-home play.",n
+462,11,p,"Now, if you’re going to play volleyball in a pool? That’s a whole other game. In that case, the whole pool can be the court, and maybe you’ll have a net. If not, you’ll just put some chairs on the deck to show the center of the court where the net should be.",n
+464,11,h3,Nice to Have,n
+467,11,p,"Knee pads are essentially worn to protect the knees from injury. While playing, there is a lot of diving and sliding around to stop the ball from touching the ground. This would be very painful without knee pads.",n
+477,11,p,"Along with being sturdy, knee pads should also be flexible and bend easily. Beginners are advised to use thicker knee pads because their lack of experience may cause them to dive in a way that could cause severe injury.",n
+478,11,p,,n
+479,478,text,Knee pads should be large enough to cover the whole knee area and should be made from a shock-absorbing material.,n
+481,478,strong,Mikasa,n
+482,478,text,",",n
+484,478,strong,Adidas,n
+485,478,text,", and",n
+487,478,strong,Mizuno,n
+488,478,text,are popular brands that sell good-quality knee pads.,n
+490,11,p,I used Mizuno during my school volleyball team days. I really liked those kneepads!,n
+493,11,h3,Nice to Have,n
+494,11,p,,n
+496,494,strong,Ankle braces are worn to protect ankles from getting sprained. This is the most common injury that a player can receive.,n
+498,494,strong,Ankle braces are important,n
+501,11,p,"Furthermore, ankle braces give more stability to the ankle region without compromising any agility and have known to reduce the risk of an injury by 40 percent. This is why a coach at a club may insist their players wear ankle braces.",n
+503,11,p,,n
+505,503,strong,Secondary equipment includes,n
+506,503,text,"volleyball clothing, footwear, a duffle bag, and a serving machine. These are considered secondary equipment because they are not needed when playing the game casually at home, or for fun at the park.",n
+512,11,p,"When playing with friends, a ball, court, and net are needed. If playing in a league, then volleyball specific clothing and footwear may be needed.",n
+514,11,p,"When playing professionally, it’s required to wear protective gear along with the uniform. Lastly, there would be a serving machine if playing at a club.",n
+516,11,h2,How Much Does Volleyball Equipment Cost?,n
+519,11,p,prices,n
+526,11,p,"The quality of the product is determined by checking what material the ball is made from. For volleyballs, the price depends on if the ball is made out of leather or synthetic material.",n
+529,11,p,"Moreover, the price of knee pads and ankle braces may vary depending on the shock-absorbing material used to make them. The price of a duffle bag differs based on the size of the bag, the number of pockets available, and the material used to make the bag.",n
+531,11,p,"Lastly, serving machines are expensive! Most people wouldn’t be able to afford them, which is why these machines are usually bought by clubs for their players for practicing.",n
+537,11,h2,How Much do Volleyball Uniforms Cost?,n
+540,11,p,The price of a volleyball uniform usually costs from $60 to $120 based on the material used to make it and the brand name associated with it. If you include volleyball shoes as part of the uniform then that will cost an additional $70 to $140.,n
+542,11,p,The Volleyball uniform includes a sleeveless jersey and matching shorts. The shirts are sleeveless so that the smashers do not feel any friction when smashing the ball.,n
+544,11,p,"If playing for a club, then there will be a custom-made uniform that will have a custom design and a number and name on the back of the shirt.",n
+547,11,p,"However, if playing with friends or in the backyard, then there is no need to worry about the uniform and a normal shirt and shorts will work just fine.",n
+549,11,h2,How Much Does it Cost to Play Club Volleyball?,n
+552,11,p,"The average cost of joining a club and playing an entire season will be between $3000 and $6000, depending on the type of club joined, and the facilities used.",n
+555,11,p,"To give you a better idea, here’s a breakdown of the costs: The first expense is the fee for joining the club. This fee will vary depending on whether the membership is a top tier, middle tier, or a lower tier of the club.",n
+558,11,p,"The top-tier clubs are for the elite players. They offer top-notch facilities and hire the best coaches available. Usually, these clubs have local, regional, and national teams.",n
+560,11,p,Playing in a national team of an elite club will cost between $4500 and $5500 and teams get to play in about 10 different tournaments each season.,n
+562,11,p,"If part of a regional team, it will cost between $4500 and $5000, and teams get to participate in about 8 tournaments.",n
+569,11,p,,n
+570,569,text,a top-tier club will cost around $4500 and,n
+572,569,text,teams can play in about 6 tournaments.,n
+574,11,p,The middle-tier volleyball clubs have trained coaches and staff and offer reasonably good facilities as well. These clubs have a larger pool of players because the elite clubs only take players who have experience.,n
+576,11,p,"Since the majority of kids do not meet the criterion, they settle for a lower-tier club. Playing in these clubs will cost between $1500 and $3500, depending on the team and the number of tournaments played.",n
+579,11,p,The lower tier clubs are mostly non-profit clubs that are run by coaches and staff who either volunteer or are paid a low wage. These clubs usually don’t have their own facilities and have to borrow the court from other areas.,n
+581,11,p,Joining these clubs will cost between $500 and $1200 and members have the chance to play in locally held tournaments.,n
+583,11,p,"The important point to note here is that all these different costs for clubs are just the expenses to be on the team. These don’t include travel expenses that might occur if a tournament is taking place in another state, or hotel expenses.",n
+591,11,p,"In addition, there is a try-out fee every time you audition to play in a club – it’s approximately $20 to $80 for each tryout. It’s also between $20 and $60 to get registered with the state’s athletic association.",n
+593,11,h2,How Much Does it Cost to Play High School Volleyball?,n
+596,11,p,Playing in a high school volleyball team will cost between $150 and $250. Money will also be spent on buying volleyball footwear and knee pads for tryouts.,n
+599,11,p,"In most high schools, the uniform and the practice court are provided by the school. However, if the school team qualifies for a state tournament, then there will be an increase in the expenses due to travel and accommodations.",n
+607,11,p,"Moreover, high school kids like to buy tournament apparel or any other souvenirs to show their friends and keep as memorabilia. So, a parent might need to keep this in mind when finalizing the budget for a trip.",n
+609,11,h2,Buying the Equipment?,n
+613,11,p,"If there is no volleyball ball, then any other ball can be used as long as it is approximately the right size and not very heavy in non-competitive games. You can use kickball, softball, or netball balls.",n
+615,11,p,"Some people also use a soccer ball, but a soccer ball is heavier than a volleyball. So, if using a soccer ball, don’t inflate it to the maximum capacity. A football is another option.",n
+623,11,p,Here is an alternative to a volleyball net,n
+626,11,p,"If there is no volleyball court, then use a public court to play with family and friends. Use the court dimensions mentioned above. Make a temporary court on the beach or in the backyard to enjoy a game of volleyball.",n
+628,11,p,"If you’re passionate about volleyball and want to make a career out of it, then the best advice is to buy the proper equipment and join a youth or a club team. Playing with friends is fun but joining a club can help improve on your game.",n
+631,11,h2,Key Takeaways and Next Steps,n
+633,11,p,"Hopefully, this article has provided all the information that you need to know about volleyball equipment, necessities, costs, and alternatives.",n
+635,11,p,Need another backyard sport? Give kickball a try! Here’s what you need to know about kickball sizes and options: What Size Kickball Should You Get And Use?,n
+638,11,h3,Resources,n
+640,11,p,"It’s important to learn from your own experiences, but it’s also smart to learn from others. These are the sources used in this article and in our personal research to be more informed as a family of sports nuts wannabes.",n
+649,11,ul,,n
+651,649,li,"“‘5 Necessities for Your List of Volleyball Equipment.’” Volleycountry, volleycountry.com or training or 5-necessities-for-your-list-of-volleyball-equipment. Accessed 17 Jan. 2022.",n
+653,649,li,"Lacroix, Jeff. “How Much Does Club Volleyball Cost, and Is It Worth It?” Better At Volleyball, 16 Sept. 2021, betteratvolleyball.com or how-much-does-club-volleyball-cost-and-is-it-worth-it.",n
+655,649,li,"Rookie Road. “Volleyball Equipment List.” Rookieroad.Com, 19 Nov. 2021, www.rookieroad.com or volleyball or equipment-list.",n
+658,649,li,"“United States Youth Volleyball League – Volleyball Starts Here.” United States Youth Volleyball, 2 Dec. 2021, www.usyvl.org.",n
+660,649,li,"“Volleyball FAQ’s.” SAS Volleyball, www.sasvolleyball.ca or club101. Accessed 17 Jan. 2022.",n
+664,7,div,,n
+666,664,p,Written by,n
+668,664,p,Kimberly Starr,n
+671,6,div,,n
+686,671,h3,About Us,n
+701,671,p,We’re the Starrs. We love playing sports together as a family in the backyard. This is the site where we share what we’ve learned about the various sports that we’ve learned together with our children.,n
+706,671,h3,We believe in transparency.,n
+711,671,p,"Family Sports Guide is owned and operated by Protean Enterprises LLC, a Utah limited liability company.",n
+713,671,p,"Protean Enterprises, LLC is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.",n
+728,671,p,"Protean Enterprises, LLC also participates in other affiliate programs with Awin, Clickbank, CJ, ShareASale, and other sites. Protean Enterprises, LLC is compensated for referring traffic and business to these companies.",n
+734,5,div,,n
+743,734,ul,,n
+746,743,li,Home,n
+749,743,li,About our Site,n
+752,743,li,Contact Us,n
+755,743,li,Privacy Policy,n
+758,743,li,Terms and Conditions,n
+761,743,li,Editorial Policy,n
+764,743,li,Advertise with us,n
+767,743,li,Sitemap,n
+772,734,p,"© 2022Copyright Protean Enterprises, LLC. All Rights Reserved.",n
+774,0,div,,n
+784,774,div,x,n
+786,774,span,x,n

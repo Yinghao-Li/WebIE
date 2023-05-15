@@ -1,0 +1,412 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+8,0,div,,n
+9,8,text,Updated on,n
+11,8,time,"April 20, 2022",n
+12,8,span,,n
+13,12,text,by,n
+15,12,span,Asher Fergusson,n
+17,0,div,,n
+20,17,p,,n
+22,20,span,G,n
+23,20,text,"olfing is not only a great way to get outdoors and enjoy a little vitamin D but it’s also a great way to connect with friends and family. Whether you’re going on a golf getaway or you’re just looking to golf while on vacation, there are a few things that you are going to need to bring with you to make the most out of your game. From obvious things like golf clubs to less obvious items like golf coins, this golf packing list will make sure you’re set up for success so you can have a great relaxing game. We’ve also added sections on what to wear golfing, what NOT to bring and answers to FAQs.",n
+27,17,div,,n
+29,27,span,Contents,n
+31,27,nav,,n
+34,31,li,What to Pack,n
+37,31,li,Other Golf packing list items not to forget,n
+40,31,li,What to Wear Golfing,n
+43,31,li,Packing,n
+46,31,li,What NOT to Bring Golfing,n
+49,31,li,FAQs about Golfing,n
+52,0,div,,n
+54,52,h2,What to Pack,n
+55,52,ul,,n
+56,55,li,,n
+60,56,h3,Clubs Travel Cover,y
+63,56,p,"Golf club covers are meant to protect your clubs from any damage that may occur while you move around a course. Thick faux leather covers like these will not only help your clubs stay in tip-top shape and looking like new no matter how old, but they’re also a fashion statement.",n
+67,55,li,,n
+71,67,h3,Windproof Travel Umbrella,y
+74,67,p,"Rain is inevitable. And nothing will ruin your golf game like some rain. While you can take cover in the golf cart, if you’re unable to do so, or you’re getting ready for your next putt but you want to stay dry, having a windproof portable umbrella like this one will help keep your game going, no matter what mother nature has in mind.",n
+78,55,li,,n
+82,78,h3,Waterproof Day Bag,y
+85,78,p,"Golf possessions such as GPS devices, phones, etc., can be quite precious. The minute that storm rolls around, you’re in jeopardy of losing all that gear to a little bit of water. Keep all of your belongings safe and dry with a waterproof day bag so that you can focus on your game instead.",n
+89,55,li,,n
+93,89,h3,DEET Free Bug Spray,y
+96,89,p,"Where there is sun and water, there are mosquitos. I tend to get bitten extremely easy so I carry DEET bug spray with me everywhere I go. This is especially true if I know I am going to be outside for an extended period of time. Bring this with you to avoid unwanted bites and unwanted itching.",n
+100,55,li,,n
+104,100,h3,Cooling Towel,y
+107,100,p,"Along with the rain, there’s also a very good chance that you will be met with plenty of sunshine. And that means getting very warm very quickly. Especially if you’re taking a golf trip during the summer months. With a cooling towel, all you have to do is get it wet, wring it out, and drape it around your neck and enjoy hours of cooler temps. The minute you feel it getting warmer, simply rinse it with water again.",n
+111,55,li,,n
+115,111,h3,Golf Balls,y
+118,111,p,"This one is pretty obvious. If you want to play golf, you need golf balls. While all balls may seem alike, there are differences. And the more balls you bring, the better. There’s no sense in spending hours trying to find a lost ball. Simply grab a new one and move on.",n
+122,55,li,,n
+126,122,h3,Divot Tool,y
+129,122,p,"When you golf, the turf is affected by golf balls landing on the greens as well as clubs brushing the surface during a hit. Divot tools are used to left and stretch the grass back in place so that the course maintains its good conditions for future golfers. Help a course maintain its beauty by carrying a divot tool with you.",n
+133,55,li,,n
+137,133,h3,Lipstick-Sized Portable Phone Charger,y
+140,133,p,"While you shouldn’t spend most of your time on your phone while golfing, your phone battery may still die fairly quickly. To stay connected and keep your battery charged, bring along this lipstick-sized portable phone charger. Not only does it take up virtually no space but it will also give you a full charge in 3-4 hours.",n
+144,55,li,,n
+148,144,h3,Rangefinder,y
+151,144,p,"A rangefinder helps gauge distances while on the course. For a laser rangefinder like this one, you aim the rangefinder at the object you are determining the distance of and pull the trigger to send the laser beam to the target. You will then know the yardage to specific targets meaning you’ll know exactly how and where to hit the ball.",n
+155,55,li,,n
+159,155,h3,Golf Clubs,y
+162,155,p,"This one is another given but golf clubs that are tailored to you are extremely important if you are looking to play seriously. This Callaway 12-piece set is complete with all of the essentials like a driver, woods, hybrids, 9 irons, and putters.",n
+166,55,li,,n
+170,166,h3,Extra Spikes,y
+173,166,p,"If you’ve ever seen golf shoes, you might have noticed that they have spikes on the bottom of them. These spikes are used to prevent you from slipping on the course as well as help keep you grounded as you swing. This improves your swing and increases your driving distance. Bringing extras will guarantee that you’ll always have some so you won’t have to sacrifice your plays. And you won’t trip and fall in front of all your friends.",n
+177,55,li,,n
+181,177,h3,Waterproof Phone Case,y
+184,177,p,"Rain is a constant theme, can’t you tell? Mother nature is unpredictable and phones are very expensive. Save yourself the headache of a broke phone by bringing a waterproof phone case. Not only will you stay protected but you can also get some video of that swing you’ve been working on.",n
+188,55,li,,n
+192,188,h3,Tees,y
+195,188,p,"Golf tees are the little piece of equipment that keeps your golf ball of the ground while hitting. While they are not required, they give you quite the advantage while swinging. The last thing you want is to hit greens and not the ball.",n
+199,55,li,,n
+203,199,h3,Quick Dry Hand Towel,y
+206,199,p,With many different terrain options in golf your hands can get quite dirty very quickly. Which means that you’ll want to wash them often. Especially if you are wearing gloves. Use a quick dry hand towel like this one to stay dry and clean so that you can enjoy your game.,n
+210,55,li,,n
+214,210,h3,Insulated Water Bottle,y
+217,210,p,A reusable insulated water bottle is important no matter what you’re doing. Being in the sun all day while golfing can dehydrate you extremely quickly. Especially during the summer. Come to the course prepared with a bottle like this one so that you don’t have to worry about becoming lightheaded or sick due to dehydration.,n
+221,55,li,,n
+225,221,h3,Hand Sanitizer,y
+228,221,p,"As I mentioned earlier, golf can make your hands dirty and sweaty pretty quickly. I carry hand sanitizer with me everywhere I go. It keeps you safe, healthy, and clean. What other reason could you need to bring it along?",n
+232,55,li,,n
+236,232,h3,Golf Shoes,y
+239,232,p,"Because of the spikes, golf shoes are ideal for golf courses. While you may be able to wear a regular pair of sneakers, you’re running the risk of slipping on the landscape if it’s wet by doing so. Golf shoes like these are inexpensive and can make all the difference in your game.",n
+245,0,div,,n
+247,245,h2,Other Golf packing list items not to forget,n
+248,245,ul,,n
+250,248,li,Wallet,y
+253,248,li,Passport,y
+256,248,li,Credit Cards,y
+259,248,li,Extra Cash,y
+261,248,li,Sunscreen,y
+264,248,li,Confirmation tickets,y
+266,248,li,Watch,y
+268,248,li,Hat,y
+270,248,li,Extra Gloves,y
+272,248,li,Energy Drink,y
+274,248,li,Healthy Snack,y
+276,248,li,Sunglasses,y
+278,248,li,Poncho,y
+281,248,li,Membership Cards,y
+283,248,li,Toothbrush,y
+285,248,li,Toothpaste,y
+287,248,li,Razor,y
+289,248,li,Cologne or Perfume,y
+292,248,li,Contacts,y
+294,248,li,Contact Solution,y
+296,248,li,Toiletries Bag,y
+298,248,li,Laundry Bag,y
+300,248,li,Earplugs,y
+302,248,li,Body Wash,y
+304,248,li,Face Wash,y
+306,248,li,Lip Balm,y
+308,248,li,Socks,y
+310,248,li,First Aid Kit,y
+312,248,li,Extra Golf Shoes,y
+315,0,div,,n
+317,315,h2,What to Wear Golfing,n
+318,315,div,,n
+320,318,div,"When dressing for a game of golf, there are a few things that you will want to keep in mind. When on the course, stick to quick-dry breathable clothes. Not only will this help you stay cool but it will also help keep you comfortable should it start raining or if you inevitably break a sweat during s game. To prevent unwanted attention, stick to neutral colors with your golf attire, and avoid wearing things like sandals and denim.",n
+326,318,div,,n
+328,326,div,What WOMEN Should Wear Golfing –,n
+329,326,div,,n
+331,329,strong,Below is a sample women’s clothing list.,n
+353,329,p,"When it comes to golf, men and women have the same guidelines. As I mentioned earlier, sticking with neutral colors and attire that is specifically meant for golfing will help you blend in. While you may find that there are courses that allow jeans and t-shirts if you are visiting a private club or a resort-style course, you’ll find that the dress code is a bit more strict. Women should wear things such as collared blouses , golf shorts that reach the knee, golf skirts, vests, lightweight workout jackets, golf shoes, and golf gloves. Because you will be in the sun often, a cap or visor and sunglasses are always wise accessories.",n
+356,318,div,,n
+358,356,div,What MEN Should Wear Golfing –,n
+359,356,div,,n
+361,359,strong,Below is a sample men’s clothing list.,n
+382,359,p,"Much like women, wearing golf attire is the best choice. Leave the jeans at home and wear collared shirts, khaki shorts, long moisture-wicking golf pants, lightweight windbreakers when needed, and golf shoes and gloves. Again, even if the weather is looking overcast, having a hat, sunglasses, and sunscreen can help you avoid getting burnt while playing.",n
+388,0,div,,n
+390,388,h2,Packing,n
+391,388,div,,n
+394,391,h3,SPRING,n
+397,391,p,"When packing for spring, you’ll want to think about your destinations. Often, spring requires layering as it can be cold in the mornings and evenings but beautiful and sunny during the afternoons. Since golf is typically played in the morning and into the afternoon, wear items such as a lightweight jacket , a polo , that can be layered, shorts , or pants .",n
+407,391,p,Many places have a lot of rainfall during the spring months as well so you might want to consider bringing along a poncho or umbrella.,n
+410,391,h3,SUMMER,n
+413,391,p,"Summer means a whole lot of sunshine. Say goodbye to the long pants and sweaters and say hello to shorts , tank tops , and skirts . Whatever you do though, don’t forget a hat , sunglasses , sunscreen , aloe , and plenty of water .",n
+432,391,h3,FALL,n
+435,391,p,"Because the US is made of a wide variety of terrains, fall is a lot like spring in that the weather can vary drastically depending on where you’re going. In places like Arizona, known to have some of the best golfing in the world, fall typically means temperatures in the ’70s-’80s. If this is the case, you’ll want to keep those layering items. If you’re going somewhere where it cools off, you’ll want to break out that jacket again.",n
+440,391,h3,WINTER,n
+443,391,p,"Cold temperatures call for lots of layering. Winter clothes do tend to be heavier which can throw off your golf game. The key to staying warm is a good pair of thermals . From there you can layer on long-sleeved shirts, and a jacket or sweater . Keeping your ears and face warm will also help keep you focused so you might want to bring along a beanie .",n
+455,0,div,,n
+457,455,h2,What NOT to Bring Golfing,n
+458,455,ul,,n
+460,458,li,,n
+464,460,h6,DON’T BRING Electronics,n
+467,460,p,"While it’s always great to have our electronics with us at all times, we often find ourselves codependent on them. And let’s face it, a golf trip is one of the best times to disconnect for a little bit. Unless you need your laptop to work during your stay, leave the electronics at home and focus on the game instead.",n
+469,458,li,,n
+473,469,h6,DON’T PACK Jeans or Denim,n
+476,469,p,"As I mentioned earlier, there’s a good chance that if you’re golfing on a course that is private, semi-private, or on resort property, you won’t be allowed to wear jeans or any other denim. Opt for khakis or chinos instead to save yourself the headache of having to buy new clothes when you arrive.",n
+478,458,li,,n
+482,478,h6,DON’T BRING Jewelry,n
+485,478,p,Jewelry can be extremely distracting to not only you but other golfers when you’re playing. It can also weigh you down. There’s no need to impress anyone with heavy jewelry during your golf trip so this is another that’s best left behind.,n
+487,458,li,,n
+491,487,h6,DON’T BRING Flip-Flops,n
+494,487,p,"This one is most likely something that you already know to avoid but a little reminder never hurt anybody. Flip-flops are not only too casual for golf but they’re also extremely uncomfortable if you’re walking a lot. While there are golf carts to take you around, you’re still going to be doing a lot of moving and flip-flops can easily cause painful blisters.",n
+496,458,li,,n
+500,496,h6,DON’T PACK Too Many Clothes,n
+503,496,p,"Overpacking is extremely easy to do but when it comes to golfing trips, the extra clothing isn’t necessary. Ideally, you want less than a week’s worth of clothes. This means 2-3 pairs of shorts and pants, a couple of shirts, and one jacket.",n
+505,458,li,,n
+509,505,h6,DON’T PACK Casual Wear,n
+512,505,p,"Along with denim and flip-flops, avoid all other casual wear. This means no t-shirts, sweatshirts, leggings, sweatpants, sandals, booties, etc. The key to golfing is wearing nice athletic attire that won’t distract others.",n
+515,0,div,,n
+517,515,h2,FAQs about Golfing,n
+518,515,ul,,n
+519,518,li,,n
+523,519,h3,golf clubs?,n
+527,519,p,"There are multiple different ways to play golf. The two basic forms are match play and stroke play. In stroke play, every player keeps track of how many strokes per hole. The player with the lowest net score in the end wins. In match play, two players play every hole as a separate contest against one another. This means whoever scores the lowest wins that hole. Whoever wins the most holes, wins the entire game.",n
+529,518,li,,n
+533,529,h3,How much do golf lessons cost?,n
+537,529,p,The price of golf lessons will widely vary depending on location but typically you will spend anywhere from $30 to $80 per lesson.,n
+539,518,li,,n
+543,539,h3,clubs to start playing?,n
+547,539,p,"While there are many places where you can rent clubs, to get started golfing you will only need a few important ones. Starting with a driver, a putter, a sand wedge, and an 8-iron will help you get comfortable with the game. These clubs also happen to be the most forgiving.",n
+549,518,li,,n
+553,549,h3,What is the proper golf etiquette?,n
+557,549,p,"There are a few rules to keep in mind when golfing. Some of the most important include showing up to your tee time early, sharing your golf cart with your golf partners, lining up your putt as others are putting, staying off your phone, staying out of the way of other golfers, and staying quiet so fellow golfers can concentrate.",n
+559,518,li,,n
+563,559,h3,When is the best time to go golfing?,n
+567,559,p,"Typically the best time to go golfing is in the morning or the later afternoon . Scientifically, this is when your brain will be able to focus the most. However, if you’re looking to avoid crowds or the heat, first thing in the morning is ideal.",n
+569,518,li,,n
+573,569,h3,"What is the difference between birdies, bogeys, eagles, and pars?",n
+576,569,p,,n
+578,576,strong,Par,n
+579,576,text,strokes an expert golfer is expected to complete the hole.,n
+583,576,br,A hole-in-one,n
+582,576,strong,Ace,n
+587,576,br,1 under par on a hole,n
+586,576,strong,Birdie,n
+591,576,br,1 over par on a hole,n
+590,576,strong,Bogey,n
+595,576,br,2 under par on a hole,n
+594,576,strong,Eagle,n
+599,576,br,2 over par on a hole,n
+598,576,strong,Double Bogey,n
+601,518,li,,n
+605,601,h3,golf?,n
+609,601,p,"There is no exact number when it comes to how long a round of golf will take. The speed depends on the skill of the golfer, how busy the course is, the size of the group, and how big the course is. If you have a group of four, the average time to complete 18 holes is four hours. However, if a game takes you longer than this, don’t fret.",n
+613,0,div,,n
+615,613,h2,Other packing lists you may like…,n
+617,613,h4,North America,n
+618,613,ul,,n
+620,618,li,Alaska essentials,n
+622,618,li,Any Vacation essentials,n
+624,618,li,What to pack,n
+626,618,li,Bachelorette Party packing list,n
+628,618,li,What to bring to Bonnaroo,n
+630,618,li,Burning Man essentials,n
+632,618,li,Cabin packing list,n
+634,618,li,Packing list,n
+636,618,li,Packing list,n
+638,618,li,What to pack,n
+640,618,li,Things to bring to College Dorm,n
+642,618,li,Clothes,n
+644,618,li,What to bring to Cruise,n
+646,618,li,What to wear in Denver,n
+648,618,li,Desert Trip packing list,n
+650,618,li,Things to bring to Disney Cruise,n
+652,618,li,Things to bring to Glacier NP,n
+654,618,li,What to wear in Glamping,n
+656,618,li,What to bring to Golf,n
+658,618,li,What to pack,n
+660,618,li,Things to bring to Havasupai,n
+662,618,li,Hawaii packing list,n
+664,618,li,Clothes,n
+666,618,li,Things to bring to Lake,n
+668,618,li,What to pack,n
+670,618,li,What to wear in Motorcycle,n
+672,618,li,What to bring to Nantucket,n
+674,618,li,What to wear in Oregon Coast,n
+676,618,li,What to bring to Overnight Trip,n
+678,618,li,What to wear in Pacific Crest Trail,n
+680,618,li,Things to bring to Resorts,n
+682,618,li,What to bring to San Francisco,n
+684,618,li,Ski Trip essentials,n
+686,618,li,Packing list,n
+688,618,li,What to wear in Theme Park,n
+690,618,li,What to pack,n
+692,618,li,What to wear in Washington DC,n
+694,618,li,What to wear in Winter Vacation,n
+696,618,li,What to wear in Yellowstone NP,n
+698,618,li,What to pack,n
+699,613,div,,n
+702,699,h4,Africa,n
+704,699,ul,,n
+706,704,li,What to bring to Africa,n
+708,704,li,Clothes,n
+710,704,li,Kenya essentials,n
+712,704,li,What to wear in Morocco,n
+714,704,li,Packing list,n
+716,704,li,Packing list,n
+718,704,li,Tanzania packing list,n
+720,704,li,What to pack,n
+721,613,div,,n
+724,721,h4,Asia,n
+726,721,ul,,n
+728,726,li,What to pack,n
+730,726,li,Asia packing list,n
+732,726,li,What to wear in Bali,n
+734,726,li,Cambodia essentials,n
+736,726,li,China packing list,n
+738,726,li,What to bring to India,n
+740,726,li,Things to bring to Indonesia,n
+742,726,li,Clothes,n
+744,726,li,Nepal packing list,n
+746,726,li,Packing list,n
+748,726,li,What to bring to South Korea,n
+750,726,li,Southeast Asia packing list,n
+752,726,li,Clothes,n
+754,726,li,What to pack,n
+756,726,li,Vietnam packing list,n
+757,613,div,,n
+760,757,h4,Central America,n
+762,757,ul,,n
+764,762,li,Bahamas packing list,n
+766,762,li,Clothes,n
+768,762,li,Packing list,n
+770,762,li,What to bring to Cancún,n
+772,762,li,What to pack,n
+774,762,li,What to bring to Caribbean Cruise,n
+776,762,li,Things to bring to Central America,n
+778,762,li,What to pack,n
+780,762,li,What to pack,n
+782,762,li,What to bring to Dominican Republic,n
+784,762,li,Guatemala essentials,n
+786,762,li,Jamaica packing list,n
+788,762,li,Mexico packing list,n
+790,762,li,Things to bring to Mexico City,n
+792,762,li,Packing list,n
+794,762,li,Clothes,n
+796,762,li,What to pack,n
+798,762,li,What to pack,n
+799,613,div,,n
+802,799,h4,Europe,n
+804,799,ul,,n
+806,804,li,What to wear in Amsterdam,n
+808,804,li,Things to bring to Barcelona,n
+810,804,li,What to pack,n
+812,804,li,Things to bring to Castle Trip,n
+814,804,li,Things to bring to Croatia,n
+816,804,li,Europe essentials,n
+818,804,li,What to wear in France,n
+820,804,li,What to pack,n
+822,804,li,Packing list,n
+824,804,li,Hungary essentials,n
+826,804,li,Packing list,n
+828,804,li,Clothes,n
+830,804,li,What to bring to Ireland,n
+832,804,li,What to bring to Italy,n
+834,804,li,What to pack,n
+836,804,li,Packing list,n
+838,804,li,What to bring to Moving Abroad,n
+840,804,li,Packing list,n
+842,804,li,Paris packing list,n
+844,804,li,What to bring to Poland,n
+846,804,li,Packing list,n
+848,804,li,What to bring to Prague,n
+850,804,li,Things to bring to Rome,n
+852,804,li,Clothes,n
+854,804,li,Spain packing list,n
+856,804,li,What to wear in Study Abroad,n
+858,804,li,What to wear in Switzerland,n
+860,804,li,What to pack,n
+861,613,div,,n
+864,861,h4,Middle East,n
+866,861,ul,,n
+868,866,li,Abu Dhabi packing list,n
+870,866,li,Birthright packing list,n
+872,866,li,Clothes,n
+874,866,li,What to bring to Israel,n
+876,866,li,Packing list,n
+878,866,li,What to wear in Turkey,n
+879,613,div,,n
+882,879,h4,Oceania,n
+884,879,ul,,n
+886,884,li,Clothes,n
+888,884,li,What to bring to New Zealand,n
+889,613,div,,n
+892,889,h4,South America,n
+894,889,ul,,n
+896,894,li,Argentina packing list,n
+898,894,li,Things to bring to Brazil,n
+900,894,li,Ecuador essentials,n
+902,894,li,What to pack,n
+904,894,li,Machu Picchu packing list,n
+906,894,li,Packing list,n
+908,894,li,Clothes,n
+910,894,li,What to bring to South America,n
+911,613,div,,n
+914,911,h4,Where to stay,n
+918,911,li,Packing list,n
+919,613,div,,n
+922,919,h4,Country-Specific Guides to Power Adapters,n
+924,919,ul,,n
+926,924,li,Argentina,n
+928,924,li,Australia,n
+930,924,li,Bali,n
+932,924,li,China,n
+934,924,li,Costa Rica,n
+936,924,li,Croatia,n
+938,924,li,Cuba,n
+940,924,li,Czech Republic,n
+942,924,li,France,n
+944,924,li,Germany,n
+946,924,li,Greece,n
+948,924,li,Hong Kong,n
+950,924,li,Hungary,n
+952,924,li,Iceland,n
+954,924,li,Indonesia,n
+956,924,li,Ireland,n
+958,924,li,Japan,n
+960,924,li,Nepal,n
+962,924,li,Netherlands,n
+964,924,li,New Zealand,n
+966,924,li,Peru,n
+968,924,li,Philippines,n
+970,924,li,Portugal,n
+972,924,li,Scotland,n
+974,924,li,Singapore,n
+997,0,div,@asherandlyric on Instragram »,n
+999,0,div,,n
+1001,999,div,,n
+1014,1001,p,,n
+1015,1014,text,"1680 Hwy 1, Ste 3450, Fairfield,",n
+1017,1014,br,"Iowa, 52556, USA",n
+1019,1001,div,Copyright ©• Asher and Lyric • All Rights Reserved • Site by FazeDesigns,n
+1022,999,div,,n
+1024,1022,div,,n
+1026,1024,h5,Site Navigation,n
+1028,1024,ul,,n
+1030,1028,li,About us,n
+1032,1028,li,India Tips,n
+1034,1028,li,Babies and Toddlers,n
+1036,1028,li,Home and Garden,n
+1038,1028,li,Contact us,n
+1040,1028,li,Study Abroad Scholarship,n
+1042,1028,li,Affiliate Disclosure,n
+1044,1028,li,Privacy Policy,n
+1046,1022,div,,n
+1048,1046,h5,Top Packing Lists,n
+1050,1046,ul,,n
+1052,1050,li,Beach,n
+1054,1050,li,Cruise,n
+1056,1050,li,Europe,n
+1058,1050,li,Hawaii,n
+1060,1050,li,India,n
+1062,1050,li,Mexico,n
+1064,1050,li,Spain,n
+1066,1050,li,Thailand,n
+1068,1022,div,,n
+1070,1068,h5,Affiliate Disclosure,n
+1072,1068,p,As an Amazon Associate we earn from qualifying purchases.,n
+1074,1068,p,"To learn about all the affiliate programs we are a participant in, please visit our disclosure page .",n
+1077,1068,p,,n
+1079,1077,strong,Please Note,n
+1080,1077,text,This website uses cookies. To learn more visit our privacy page .,n
+1084,1022,div,,n
+1086,1084,h5,Sustainability,n
+1088,1084,p,We are committed to creating a healthy planet and regularly donate to important projects supporting sustainability.,n
+1090,1084,p,This website is hosted on the Google Cloud which is a 100% carbon neutral platform powered by renewable energy.,n

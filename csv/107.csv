@@ -1,0 +1,54 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+6,0,div,,n
+56,6,div,,n
+67,56,div,,n
+71,67,div,,n
+92,71,h1,What Do Baseball Players Wear?,n
+98,71,ul,,n
+100,98,li,Baseball,n
+102,98,li,Equipment,n
+109,71,p,"Each player should have a shirt or jersey, knee-length or longer pants, baseball socks or stirrups, shoes with rubber cleats, and a hat to shield the hot summer sun from their face and eyes. The catcher will also have protective equipment, including a helmet, facemask, throat guard, chest-protector, protective cup and shin guards. All other male players should consider wearing a protective cup, especially those in contact with the ball and sliding opponents often .",n
+130,67,div,and amp;amp;amp;amp;amp;lt;a href= and amp;amp;amp;amp;amp;quot;http,n
+131,56,div,,n
+136,131,div,,n
+138,136,h2,Latest Poll,n
+145,136,div,,n
+147,145,label,How Confident Are You That Your Child's Sports Program Takes Their Safety Seriously:,n
+148,145,div,,n
+152,148,div,Extremely confident,n
+156,148,div,Very confident,n
+160,148,div,Somewhat confident,n
+164,148,div,Not very confident,n
+168,148,div,Very unconfident,n
+173,131,div,,n
+175,173,h2,Our Blogs,n
+180,173,div,,n
+183,180,li,Newest,n
+185,180,div,,n
+187,185,h2,Newest,n
+190,185,div,,n
+196,190,div,,n
+199,196,tr,News from MomsTEAM or SmartTeams,n
+202,196,tr,19th Annual Mother's Day Wish List,n
+205,196,tr,"Creating A Culture Of Concussion Safety Requires Teamwork All Season Long, Not Just One Day",n
+208,196,tr,Letting Kids Play Football is Not Child Abuse,n
+211,196,tr,CTE,n
+214,196,tr,"""Back in the Game""",n
+217,196,tr,Why I'm Not a Football Apologist or Anti-Football Zealot: I'm a Pro-Safety Realist,n
+220,196,tr,Pediatrics Group's Position on Tackling in Youth Football Strikes Right Balance,n
+223,196,tr,the Child Is Embarrassing and Unacceptable,n
+226,196,tr,Camp Lessons...One Student Athlete's Journey,n
+228,190,div,more,n
+239,6,div,,n
+240,239,div,,n
+241,240,text,ABOUT US,n
+243,240,br,ADVERTISE,n
+245,240,br,PRESS RELEASES,n
+247,240,br,CONTACT US,n
+248,239,div,,n
+249,248,text,TERMS OF USE,n
+251,248,br,PRIVACY POLICY,n
+253,248,br,MOMSTEAM SEAL OF APPROVAL,n
+255,248,br,WELCOME,n
+257,239,div,"Entire contents ©Copyright, momsTEAM.com. All Rights Reserved",n

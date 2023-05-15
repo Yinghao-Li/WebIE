@@ -1,0 +1,121 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+2,1,text,You are here,n
+5,1,span,Home,n
+10,1,span,Create and Decorate,n
+13,1,text,Candle Making Kit Checklist To Get You Started,n
+14,0,article,,n
+15,14,div,,n
+17,15,p,"If you’ve recently ventured into the art of candle-making, then you know that a candle making kit is a must-have. Here are some of the basic tools every candlemaker needs in his or her toolbox.",n
+20,15,p,RELATED,n
+23,15,h2,The 8 Things You Need to Have in Your Candle Making Kit,n
+25,15,h3,Wax,y
+27,15,p,,n
+35,27,span,Save,n
+37,27,span,,n
+39,37,span,Candle making workshop – 27 MARCH 2022,n
+41,37,span,,n
+43,41,span,Published by,n
+45,41,span,Studio Melissa Louise,n
+48,15,p,"In general, candle wax is what keeps the wick burning and melting before vaporizing. However, there’s more to this than it sounds; there are different types of wax for different purposes.",n
+49,15,ul,,n
+50,49,li,,n
+52,50,strong,Paraffin wax,y
+53,50,text,"is used for everything from molded candles to poured candles, given their flexible melting points. Unfortunately, because they have zero natural oils, they don’t hold scented oils as good as oil-based waxes do.",n
+54,49,li,,n
+56,54,strong,Beeswax,y
+57,54,text,"is a more expansive kind of wax that has a sweet scent. Harvested from beehives, it has a higher melting point and thus, burns more slowly.",n
+58,49,li,,n
+60,58,strong,Soy wax,y
+61,58,text,"is a great alternative to beeswax because it has natural oils that also mix well with different fragrances. Plus, it burns cleanly and is cheaper compared to beeswax.",n
+62,49,li,,n
+64,62,strong,Tallow,y
+65,62,text,"is derived from animal fats, has a low melting point and is colorless as well. However, it has a tendency to emit smoke and an unpleasant odor while burning.",n
+66,49,li,,n
+68,66,strong,Bayberry wax,y
+69,66,text,"has a low melting point with a sweet floral scent. Because of this, it can also be very expensive compared to most waxes.",n
+70,49,li,,n
+72,70,strong,Gel wax,y
+73,70,text,"is a clear and odorless kind of wax with a high melting point as it doesn’t have natural oils. Generally, this kind of wax is used for candles that are themed. Unfortunately, they do not mix with additives well.",n
+75,15,h3,Wick,y
+79,15,p,"Wicks draw fuel from the candle and add it to the flame. Their performance is affected by the amount of fragrance, the dye, and the kind of wax you use.",n
+81,15,p,the most commonly used kinds of wicks in candle making:,n
+82,15,ul,,n
+83,82,li,,n
+85,83,strong,Flat wicks,y
+86,83,text,"are one of the most commonly used wicks out there. They’re made of three consistent-burning braided fibers that are also self-trimming. Often, these are used for taper and pillar candles.",n
+87,82,li,,n
+89,87,strong,Square wicks,y
+90,87,text,are also great for taper and pillar candles. They’re great for candles with additives because of their thicker build that’s immune to wick clogging.,n
+91,82,li,,n
+93,91,strong,Wax-coated wicks,y
+94,91,text,are those that have been pre-dipped in wax. They work well with smaller jar candles and headlights but are not ideal for candle gels.,n
+96,15,h3,Molds or Containers,y
+98,15,p,|,n
+101,15,p,"three different materials: silicone, plastic, and metal.",n
+103,15,p,"Plastic and silicone molds offer more diverse sizes and shapes, making it perfect for making interesting and cool candle shapes. Metal, on the other hand, will often give you the best finish.",n
+105,15,p,"Depending on the type of candle you’re making, you might need to purchase vases, tea light cups, bowls, votive holders, etc. Keep your candle wax in mind as some of them are completely unsuitable for certain containers.",n
+108,15,p,RELATED,n
+111,15,h3,Double Boiler,y
+115,15,p,"A double boiler, otherwise known as a bain-marie, is the most advisable way to melt candle wax because it doesn’t burn the wax. Complicated as it sounds, most people already have the tools they need to assemble one together.",n
+117,15,h3,Heat Source,y
+121,15,p,"Needless to say, you’ll also be needing your heat source such as a hot plate or a stove to melt your candle wax.",n
+123,15,h3,Fragrance Oil,y
+130,15,p,"Fragrance oils make for great additives to any candle since they infuse the candles with soothing aromas of food, spices, flowers, and other relaxing scents.",n
+135,15,p,"Typically, you’ll be needing about an ounce of oil for every pound of wax. Most candle waxes have a recommendation for the amount of fragrance oil you need to use on them.",n
+137,15,p,Fragrance oils and other essential oils are readily available online.,n
+139,15,h3,Candle Dye or Color,y
+143,15,p,"You’ll also be needing candle dye if you want to color your candles. Different kinds of dye are easily available online. They also come in different varieties such as liquid, block, and flake.",n
+145,15,p,"Remember that dye tends to lighten once it dries up, so it might be better to get a few drops of your melted wax on a white surface to see how it’ll look like once dried.",n
+147,15,h3,Other Miscellaneous Supplies,y
+151,15,p,other items,n
+153,15,p,"A scale will be useful for measuring your wax, fragrance oils, and dye. A thermometer is also necessary for keeping your melted wax at the right temperatures.",n
+155,15,p,"A set of hot glue gun and sticks is also a must-have when positioning the candle wick on the bottom of your chosen container. Similarly, rubbing alcohol, gloves, paper towels, and some newspapers can also come in handy in keeping your work surfaces, hands, and skin protected from hot, melted wax or glue.",n
+157,15,p,"Labels and other decorative items are also essential for giving your DIY candles their own unique aesthetic and feel. They’re great especially if you’re planning on using these candles as gifts, as the decorations can adapt to the occasion.",n
+159,15,h3,Candles,n
+163,15,p,"If you want to know what tools to have, know first what kind of candle you’re going to make. This is essential in deciding the tools you’re going to need.",n
+165,15,p,these include the following,n
+166,15,ul,,n
+167,166,li,,n
+169,167,strong,Taper candles,n
+170,167,text,– These are long and slender candles that often need holders to keep them upright.,n
+171,166,li,,n
+173,171,strong,Pillar candles,n
+174,171,text,"– While this broad candle can stand on its own, it might need to stand on a fire-safe plate. Often cylindrical in shape, they can sometimes even have more than a single wick.",n
+175,166,li,,n
+177,175,strong,Poured candles,n
+178,175,text,– This type of candle comes in different shapes and sizes since the candle wax just follows the shape of the container it’s poured into.,n
+179,166,li,,n
+181,179,strong,Votive candles,n
+182,179,text,"– These are short and cylindrical candles that the candle maker drops into clear, glass containers",n
+183,166,li,,n
+185,183,strong,Tea lights,n
+186,183,text,– These have a similar shape to votive candles but differ in that they are shorter and sit inside aluminum cups for burning.,n
+189,15,p,"With your candle making kit checklist complete, learn how to make a basic candle with this beginner-friendly guide from eHowHome:",n
+194,15,p,"There you have it! Complete everything in the candle making kit checklist above and you should be all set to start making your very own DIY candles at home. Have fun, DIYers!",n
+197,15,p,What other items do you have in your candle making kit? Share them with us in the comments section below!,n
+200,15,p,UP NEXT,n
+201,15,ul,,n
+204,201,li,DIY Soy Candles | 15 Addictive Scents You Will Love,n
+207,201,li,Create A Prism Candle Light | DIY Mason Jar Crafts,n
+210,201,li,Bike Repair,n
+213,15,p,"Calling all crafting DIYhards, DIY Projects needs YOU! Click here if you want to contribute",n
+218,15,p,"Don’t forget to stay connected with us on Facebook , Twitter , and Instagram !",n
+229,14,p,Filed Under,n
+235,0,div,,n
+236,235,h3,,n
+237,236,text,Leave a Reply,n
+239,236,small,Cancel reply,n
+240,235,form,,n
+241,240,p,,n
+243,241,span,Your email address will not be published.,n
+245,241,span,Required fields are marked,n
+250,240,p,Comment,n
+256,240,p,Name,n
+262,240,p,Email,n
+268,240,p,Website,n
+272,240,p,,n
+273,272,text,your data by this website.,n
+275,272,abbr,*,n
+284,240,p,Δ,n

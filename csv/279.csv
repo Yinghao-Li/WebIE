@@ -1,0 +1,322 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,p,,n
+4,3,text,Home >,n
+6,3,span,,n
+7,6,text,Recipes >,n
+10,6,span,How To's,n
+11,0,article,,n
+36,11,div,,n
+49,36,p,In case you ever wondered what $15 worth of soy wax and 30 minutes in the kitchen will get you...,n
+50,36,p,,n
+51,50,text,"the easiest crafts projects around, and these little beauties make",n
+53,50,strong,awesome gifts.,n
+55,36,p,soy wax .,n
+65,36,div,,n
+80,65,div,Teriyaki Salmon Stir-Fry with Broccoli,n
+101,65,div,More Videos,n
+105,65,div,,n
+107,105,span,15 seconds,n
+109,105,span,Volume 0%,n
+110,65,div,,n
+113,110,span,keyboard shortcuts,n
+114,110,div,,n
+115,114,div,,n
+117,115,span,Keyboard Shortcuts,n
+118,115,button,,n
+121,118,span,Enabled,n
+123,118,span,Disabled,n
+125,114,div,,n
+126,125,div,,n
+128,126,span,Play or Pause,n
+130,126,span,SPACE,n
+131,125,div,,n
+133,131,span,Increase Volume,n
+135,131,span,↑,n
+136,125,div,,n
+138,136,span,Decrease Volume,n
+140,136,span,↓,n
+141,125,div,,n
+143,141,span,Seek Forward,n
+145,141,span,→,n
+146,125,div,,n
+148,146,span,Seek Backward,n
+150,146,span,←,n
+151,125,div,,n
+153,151,span,Captions On or Off,n
+155,151,span,c,n
+156,125,div,,n
+158,156,span,Fullscreen or Exit Fullscreen,n
+160,156,span,f,n
+161,125,div,,n
+163,161,span,Mute or Unmute,n
+165,161,span,m,n
+168,125,div,Seek %,n
+172,65,div,,n
+186,172,div,,n
+188,186,div,Next Up,n
+190,186,div,Thai Shrimp Salad,n
+192,186,div,01:06,n
+212,172,div,,n
+241,212,span,This ad will end in 14,n
+243,212,div,Live,n
+245,212,div,00:01,n
+247,212,div,00:13,n
+249,212,div,00:15,n
+270,36,p,You would be shocked to know how fast we blow through candles around here. I mean fast . I think it's the coziness factor.,n
+276,36,p,,n
+277,276,text,"Thanks to all that candle-burning, my collection was looking pretty haggard",n
+280,276,br,"But then , I discovered that making soy candles is super easy.",n
+284,36,p,"About a month ago, I had friends over and we experimented with making soy candles in all sorts of sizes and ""flavors"" .",n
+286,36,p,"They all worked great, although they don't project aroma as much as most commercial candles.",n
+299,36,h2,Paraffin vs. Soy Wax,n
+300,36,p,,n
+301,300,text,Making these candles is particularly easy because soy wax is not nearly as sticky as the paraffin used in most commercial candles. Soy wax washes right off of everything. If you google,n
+303,300,strong,paraffin vs. soy wax,n
+304,300,text,", there are lots of people out there who will tell you that soy candles burn cleaner than paraffin, but to me, the biggest advantage is how easy and clean these are to make at home.",n
+306,36,h2,The Tools,n
+308,36,p,"It doesn't cost a lot of money to make soy candles. All you need are these totally affordable, basic tools.",n
+310,36,p,"I often use mason jars like those linked above , but any jar will work. Candle wicks , a wooden skewer , scissors, and double-sided tape are also good to have around.",n
+319,36,h2,The Steps,n
+321,36,p,"First, measure a piece of the wick so that it is about 4 inches longer than your jar is tall. Tie a knot in one end. Secure the knot to the bottom of the jar with a piece of double-sided tape. Use a skewer or pencil to push it down and secure it. I get a bunch of these ready at once, so I can pour the melted wax right in.",n
+322,36,p,,n
+323,322,text,Note,n
+326,322,text,"...not necessary, but makes them a bit easier to secure to the jar.",n
+330,36,p,"Next, melt the wax. The soy wax comes in these nice white flakes.",n
+337,36,p,Melt the wax in a pan over medium heat or in a microwave-safe container and on high .,n
+339,36,p,soy wax flakes = 2 cups melted wax.,n
+343,36,p,"When it's all nice and melted, let it cool just a bit. Then stir in essential oils to scent the wax.",n
+350,36,p,space at the top.,n
+352,36,p,Twist the wick around a skewer or pencil and set it on top of the jar so the wick stays centered.,n
+356,36,p,wick remains.,n
+363,36,p,"Pretty, aren't they?",n
+367,36,p,And even nicer once lit...,n
+371,36,p,Wouldn't these be nice as Christmas gifts?,n
+376,36,div,,n
+377,376,div,,n
+382,377,text,Print Recipe,n
+389,377,div,,n
+391,389,span,37,n
+392,389,text,from,n
+394,389,span,33,n
+395,389,text,votes,n
+397,376,h2,Homemade Soy Candles,n
+400,376,div,"Inexpensive and surprisingly easy, this ""recipe"" for soy candles can be easily multiplied to make many candles at once. These make great gifts.",n
+402,376,div,,n
+403,402,div,,n
+405,403,span,Prep Time,n
+408,403,span,20,n
+411,402,div,,n
+413,411,span,Cook Time,n
+416,411,span,10,n
+419,402,div,,n
+421,419,span,Total Time,n
+424,419,span,30,n
+428,376,div,,n
+429,428,div,,n
+431,429,span,Course,n
+433,429,span,Candles,n
+434,428,div,,n
+436,434,span,Keyword,n
+438,434,span,homemade gifts,n
+439,376,div,,n
+441,439,span,Servings,n
+442,439,span,,n
+444,442,span,1,n
+446,442,span,"16oz. candle, or smaller candles to equal abmout 16oz.",n
+447,376,div,,n
+449,447,span,Author,n
+451,447,span,Jess Smith via Inquiring Chef,n
+452,376,div,,n
+454,452,span,Cost,n
+456,452,span,$5.00,n
+457,376,div,,n
+462,457,h3,Ingredients,n
+464,457,ul,,n
+467,464,li,"Clean, dry containers",y
+470,464,li,Candle wicks,y
+475,464,li,Double-Sided Tape,y
+476,464,li,,n
+478,476,span,4,n
+480,476,span,cups,n
+482,476,span,soy wax flakes,y
+487,464,li,"Essential Oils , optional",y
+488,376,div,,n
+490,488,h3,Instructions,n
+492,488,ul,,n
+498,492,li,"Set the glass containers on a clean, dry dishtowel. Cut a piece of wick for each container that is 4 inches longer than the container is tall. Place a small piece of double-sided tape in the bottom center of each container. Tie a knot at the end of each wick. Press the knot firmly into the double-sided tape to lightly secure. Leave the free end of the wick hanging over the side of the container.",n
+501,492,li,"Fill a sauce pan to the top with soy wax flakes. Place the pan over medium heat. As the wax begins to melt, after about 5 minutes, gently stir it until all of the wax becomes smooth and pourable.",n
+504,492,li,"Remove the wax from the heat and let it cool for about 5 minutes. Add essential oils, if using, and stir to combine.",n
+507,492,li,"Pour wax into prepared jars, leaving 1 inch of space at the top of each jar. Center the free end of the wick in the wax. Twist the wick around a pencil or wooden skewer. Let the wax dry for at least an hour. Cut the wick short so that only about 1 inch remains.",n
+508,376,div,,n
+510,508,h3,Notes,n
+513,508,div,"Soy wax has a much lower melting point than parafin, and comes out easily in hot water and soap. It will wash easily out of pots and pans and out of most fabrics when put through a regular wash cycle. To be safe, I use older dishtowels for this project, but I've never had the wax damage the towels or my cooking tools.",n
+518,36,h3,Related,n
+519,11,div,,n
+521,519,div,« Nutella Cream Cheese Frosting,n
+524,519,div,Chocolate Mint Brownie Cookies »,n
+553,0,div,,n
+555,553,h3,About Jess,n
+559,553,p,"Hi! I'm Jess. I am the recipe creator and photographer behind the 900+ recipes you’ll find on Inquiring Chef. As a mom to three young kids and professional cook, my mission is to make every moment in the kitchen and around the table count. If you’re looking for easy, flavorful, family-approved recipes, you’ve come to the right place! Learn more about me here.",n
+562,0,h2,Reader Interactions,n
+563,0,div,,n
+565,563,h3,Comments,n
+566,563,ol,,n
+569,566,li,,n
+571,569,p,awesome...im so trying this....,n
+573,569,p,xoxo from Trinidad,n
+576,566,li,,n
+580,576,p,You just reminding me that I got a bag of wax for Christmas last year and never used it. It's not soy but I'll use it up and then get onto the soy. I've heard that the fumes are better for you than parrafin. What beautiful little presents!,n
+588,576,li,"The paraffin wax is actually very full of toxins and chemicals and ""bottom of the oil barrel"" junk. I unfortunately have some Yankee Candles still which contain paraffin wax and I have not burned them since burning my new soy candle creations. It is very simple to make, and if you go to a hobby store that carries it, you might want to pick up a book on soy candle making for beginners, it will explain all the nasty crap thats in the other type of wax and will make you forever change to soy. I will be buying a very large case of soy wax here soon from amazon, as i intend to begin building my stock and selling them if they dont sell, I have a bunch of awesome candles for my self!!! <3 Good luck on your candle making! Hope you have as much fun as i do, just an FYI - make sure you cool the candles EXTREMELY slow. Like place, like a paper reem box over them. It will promote slow cooling for best results on visual for the candles!!",n
+591,566,li,,n
+595,591,p,Is there a way to make the candles colored?,n
+599,591,li,,n
+603,599,p,"Hi Jo Jo! You can, but you have to use coloring that is specifically made for candles - they sell it at craft stores.",n
+607,599,li,,n
+611,607,p,You can also use crayola crayons,n
+614,607,ul,,n
+619,614,li,"Actually, crayons aren't a good idea. They're made with pigment and tend to clog your wick, which often results in either a prematurely doused flame or a candle that doesn't want to burn at all.",n
+622,614,li,,n
+626,622,p,Actually you really don't want to use crayons either because not only do crayons ave a bad pigment they tend to ball back up in the candle and leave a beautiful candle looking pretty ghetto. Go to the craft store and buy the coloring designed specifically for soy candles otherwise you may end up with an unhappy finish to your candle,n
+634,622,li,"@Stephanie, What exactly do you mean by “leave a beautiful candle looking pretty ghetto”??",n
+639,614,li,"Crayons block the wick when burning, don’t use them",n
+646,566,li,Gorgeous! I should check out the craft stores here and see if I can find any soy wax. I'm burning through a bonkers amount of tea lights right now and it would be fun to try something home made. Thanks for posting the 'recipe'!,n
+649,566,li,,n
+653,649,p,"Hi whats the burn time of these candles ? I'm wanting to make some in little liquor glasses for table decorations for my daughters wedding. Tea lights have a 7 hour burn time , I wonder how this recipe compares ? Thanks .",n
+661,649,li,"Hi Gretchen. The burn time certainly varies based on the size of the candle. From what I have read from people who have done a side-by-side comparison, the soy candles burn longer. This would make sense to me because they burn at a lower temperature so the wax melts more slowly . Anectodally, I would certainly say that it's true - the soy candles seem to burn for a very long time.",n
+664,566,li,,n
+668,664,p,I LOVE Soy candles. I am a crafter or interior decorator and just moved into a new retail space. I would really like to make a bunch of soy candles to sell in the new shop. This looks so easy I am going to start making them ASAP! Thanks for the How-To!,n
+676,664,li,"Lisa - great idea! I highly recommend making them for your shop. I make them all the time now for my home, but you could easily do many at a time!",n
+682,566,li,,n
+683,682,text,Thank you so much for this post I love learning stuff like this I am going to try this!!!!,n
+685,682,br,LV IT!!!,n
+692,566,li,glue to use,n
+699,566,li,"Can't wait to start them as well, I can never have enough candles around the house, they are so calming and smell great.",n
+702,566,li,,n
+706,702,p,"Have you ever tried making fancy ones, that maybe have drippings down the side or anything like that. I guess you could only do that if they were pillar candles or votives not in a jar?",n
+709,702,ul,,n
+714,709,li,"Hi Diane - I haven't tried that, but I'd love to hear how it goes if you give it a shot. Making pillar candles though is a bit more complicated, and I have yet to try it with soy wax.",n
+721,709,li,Diane yes it is possible to do the layers if your referring to like a cafe mocha - you would do brown hues with a white or creamy colored top on it. You would have to do smaller batches and depending on your scent of choice you would need to add color and scent each layer letting it cool completely before adding the next layer. You don't have to wit for a pillar candle project to do layers glass containers work great to,n
+728,566,li,your labels are sooooo cute how did you make them i need to know,n
+731,566,li,,n
+735,731,p,Does the wax have a flashpoint? I've read on some instruction pages you should use a thermometer so it doesn't get too hot.,n
+739,731,li,,n
+741,739,div,,n
+743,741,p,"For Soy Wax the temp should be no higher than 180 degrees and if your using essential oils add at the temp of 100 degrees, for every pound of wax you can use up to 1 1 or 2 oz. I'm getting ready to make my second batch of soy wax candles, still learning here and found some interesting things about certain types of essential oils that we should NOT use. Also whatever you do, do not use zinc wicks they really don't work well with soy wax, i use soy wicks you can get these at ur local craft store.",n
+745,741,p,HTH's,n
+753,739,li,I use zinc core wicks for my soy candles. I make dessert candles. I wish there was a way I could share pictures.,n
+756,566,li,,n
+759,756,p,,n
+760,759,text,"Very nice tutorial! This may be a dumb question, but did you prime your wick with the wax before hand at all?",n
+762,759,br,Thanks!,n
+770,756,li,"Hi Amy - not a dumb question at all - actually sounds like a question of someone who has experience with this. In a couple years of making candles just the way I've shown in this tutorial, I've never primed the wicks I use. It hasn't seemed to make any difference for me. Please chime in though if you have advice for those who would like to take that step!",n
+773,566,li,,n
+775,773,div,,n
+779,775,p,I was just wondering is it 15 drops to 4 cups essential oils when melted to 2 cups or is the weight for 4 cups melted?? Just wondering and if you use a microwave how long should you put it in for? Can you burn the soy wax?,n
+781,775,p,Thank you,n
+789,773,li,"Hi Tara - great questions. It's 15 drops essential oil to 2 cups melted soy wax - this is an approximation, so don't worry if you add a bit more or less. Microwaving the soy wax should be done carefully in short increments. Because microwaves all function at varying heats, there's no way to know exactly how long it will take. Keep a close eye on it and take the wax out and give it a good stir every 30 seconds or so. It will quickly go from solid to liquid form, so pull it out right when it turns to liquid. , but the possibility of that is another good reason to make sure you pull it out as soon as it turns to liquid.)",n
+792,566,li,,n
+796,792,p,"My candles once they have dried leave like a wet spot on the sides of the jars. Maybe like the soy contracted or something, if that is possible. Also, my soy wax doesn't smell a lot when I scent it! Should I use vybar?",n
+799,792,ul,,n
+800,799,li,,n
+804,800,p,"Hi Jennifer - try letting your wax cool down before you pour it into jars. If the wax is very hot, it sometimes contracts when it cools and leave little air spaces on the sides. It's worth experimenting with what you use to scent the candles - soy definitely doesn't hold as much scent as commercial or paraffin candles.",n
+808,800,li,,n
+811,808,p,,n
+812,811,text,Hi... I have the same problem!,n
+814,811,br,I've been making soy candles and I pour at 135 and after drying some will have wet spots and others will not. It's so frustrating. I've also notice after two days of drying in a room I will then move to the hallway and then I will see wet spots. It's so strange. Please help!,n
+817,808,ul,,n
+822,817,li,"I've yet to find an answer Tania, but I do think some of it has to do with the temperature in the room as they are cooling. I think that in a very cool room, the temp of the candles drops so fast that it creates those spots. I notice that, if I'm working in a warmer room and they sit in a warmer space overnight to cool, I have less problems with the spotting. Glad it's not just me!",n
+829,817,li,Actually you need to warm your containers up so that no wet spots appear. You put them on a cookie sheet in oven under Keep Warm setting.,n
+836,799,li,"Jennifer you might have simply overheated your soy wax if its not retaining the scent you put in, try keeping an eye on your temp and it should fix your scent issue. As for your wet spots on sides of jar sounds like you just need to let your soy cool more and evenly. I stir mine constantly but slowly until it reaches pour temp.",n
+842,799,li,,n
+845,842,br,"Jennifer,",n
+847,842,br,"A simple trick to use is insulating your containers prior to pouring your wax. I use thick wool socks that I grab for next to nothing from a thrift store, wash them and cut the closed end so they're open on both ends. Put your containers on top of a flat surface with a towel or other insulating item on the surface that will still allow your containers to sit flat. Put your containers inside the socks so they're covered from top edge to bottom, then pour. You can wrap them in small cotton towels with rubber bands to hold them on around top too...You decide. The insulation insures that the candles cool much slower, reducing cracks, sink holes and wet spots. I've also prepped them this way on a cookie sheet and placed it in a 125° oven for about 10 min prior to pouring because my kitchen tends to be cooler than the rest of the house in cold temperatures and they will still start off too cold. Good luck and happy pouring!",n
+850,566,li,,n
+854,850,p,"Hi ....I'm wondering howithwhen to add scented wax beads rather than essential oils...that's the route I chose to go. Also, I thought I read somewhere that wicks come in different sizes depending on the diameter of the jar or container you're using for your candle? Is this true?",n
+857,850,ul,,n
+862,857,li,"Hi Karen - I've never used scented wax beads, so I'm afraid I can't offer any help on this. When to add them might vary depending on their size, so see if there are any instructions specific to the beads you purchased. Some wicks do have recommendations for certain diameter jars and even for the type of candle , so it's worth reading the label and buying wicks that will work for your size jar. I've never had any trouble using a standard sized wick for all my jars, but I'm never using jars that are more than 4 inches in diameter or so.",n
+869,857,li,Karen I'm curious how your candles with the scented beads turned out? I tried that once and the beads didnt melt into my soy wax. It wass if the two couldn't blend. Please let me know how that turns out.,n
+872,566,li,,n
+878,872,p,Can I make multiple wick candles of soy wax? What type of wicks must I use for a six or eight wick candle? And how much gap or distance must I leave between each wick?,n
+886,872,li,Distance should be 1 inch from each wick. 6-8 wick candles I've never seen ..depends on the diameter of the jar,n
+893,566,li,"Hi! Thanks for the tutorial! I have tried to make a few candles with 464 Golden Foods Soy Wax. They turn out look nice once they cool, and then I burn them. Once I blow out the wicks , and let the wax cool, I come back to...a dry pit. That is the only way I can describe it. Every single candle after burning , has become a dry pit. Not extremely attractive. Is this normal for Soy Candles? Or am I doing something utterly wrong? Thank you for any help!",n
+900,566,li,I've bought a big bag of eco soya pillar blend. Can I use this for jars and containers too?,n
+907,566,li,"Joanne, Eco Soya pillar blend absolutely will work for container candles. Be advised, a second pour will probably be required, so make sure to leave enough wax Soy wax HAS to be heated to 185F so that the little molecules will break down and let the scent combine. Als0, before you put your scent in, try mixing 1 tbsp of Crisco into the wax before adding scent. Add scent around 120F. Stir, stir, stir! Pour after 2 minutes of stirring. S-L-O-W-L-Y",n
+910,566,li,,n
+912,910,div,,n
+914,912,p,Tried microwaving paraffin wax after reading your tutorial. Did not go as well as yours looked. I kept have large chunks of paraffin but was too afraid to melt it all the way Perhaps I will try again later but it is definitely a huge time saver.,n
+916,912,p,"BTW - We're using a soy wax or paraffin blend which gives superior scent throw compared to pure soy wax. If your looking for the methodology, should melt the paraffin first then blend with the soy wax.",n
+924,910,li,Hi Winston - thanks for your note and comments. I've only used a microwave for soy wax - I actually wouldn't recommend the microwave for paraffin or for a blend as the heating time will likely be different.,n
+930,566,li,,n
+931,930,text,"Hi,",n
+933,930,br,"I am wondering if you can advise me , do I need to let my soywax tarts prove for four or five days before burning? I find that I don't get much burn from them once made, and just read that you have to leave then for the scents to melt into the wax,",n
+935,930,br,I use fragrance oil rather than essential oils. what are the differences there?,n
+937,930,br,Thanks in advance.,n
+943,566,li,,n
+944,943,text,Hi Jess! Thats an awesome tutorial there. I've been in love with soy candles since they started to get popular in Korea but never thought that I would end up making these myself.,n
+946,943,br,Thanks,n
+953,566,li,I bought my supplies at http,n
+958,566,li,,n
+960,958,div,,n
+962,960,p,Hi! I made soy wax candles and two things happened =,n
+963,960,p,,n
+964,963,text,1 The finish wasn't as neat as yours,n
+966,963,br,the jar....,n
+968,960,p,How can I avoid this?,n
+969,960,p,,n
+970,969,text,Thanks!,n
+972,969,br,Josefina,n
+976,958,li,,n
+982,976,p,"Hi Joesphina! It sounds like you may have poured them too warm. If you wait until your wax is the consistency of a slushie, you'll avoid those sink holes and pockets Ave your tops will be smoother. The deep melt pool is likely from the sink holes. Good luck!",n
+992,976,li,*and not ave. Auto correct strikes again!,n
+999,566,li,Thanks,n
+1006,566,li,"Hi! I carefully read ""How to make a soy candles"". Your step by step guideline is very helpful for us. It is wonderful to learn soy candles at home easily efforts...",n
+1009,566,li,,n
+1015,1009,p,Is there a link,n
+1023,1009,li,"Hi Robin - I actually just made those with construction paper. I'd love to do a printable for folks, so thanks for flagging that for me. I'll put it on my list!",n
+1029,566,li,,n
+1030,1029,text,We would like to thank you all over again,n
+1032,1029,br,"ideas you offered Janet when preparing a post-graduate research plus, most importantly, for providing many of the ideas in one blog post.",n
+1034,1029,br,"your blog a year ago,",n
+1036,1029,br,we'd have been kept from the useless measures we were having,n
+1038,1029,br,to take. Thanks to you.,n
+1041,566,li,,n
+1044,1041,p,,n
+1045,1044,text,Thankyou for the easy to follow instructions! My boyfriend and I spent the afternoon making candles to give as Christmas presents and they turned out so perfectly! We’ll be making them again using your instructions,n
+1047,1044,br,Merry Christmas!,n
+1055,1041,li,"That's so great, Sophie! These make such fun Christmas presents! Thanks so much for letting me know. Merry Christmas!",n
+1058,566,li,,n
+1064,1058,p,Thank you so much! I think I am going to put mine in tea cups . I am so exited!!!!!!!!!!!,n
+1068,1058,li,,n
+1072,1068,p,That sounds so cute - what a great idea!,n
+1082,1068,li,"Love this! I began making candles for myself which I shared with others and the passion continued to grow all from blogs like these! This is really great, Jess and it's awesome to hear how many people have benefited from it too! Keep up the great work!",n
+1089,566,li,Bookmarking,n
+1095,566,li,,n
+1096,1095,text,How to Make Soy Candles -,n
+1098,1095,br,"Now I am going to do my breakfast, when having my breakfast coming over again to read other news.- calator.tel",n
+1101,566,li,,n
+1104,1101,p,,n
+1105,1104,text,How many cups are in the 5lb bag? I have 18 4oz jars to fill and wondering if the 5lb bag is good?,n
+1107,1104,br,"Also, have you ever soaked the wick in essential oil? Pros or cons? Thx!",n
+1110,1101,ul,,n
+1115,1110,li,"I think it should be the right amount, Liz. I've used a 5lb bag to make 4 oz candles, and if I remember correctly, I think it made more than 20 4-oz jars. I've never soaked the wick in essential oil - I'd be so curious to learn more about that technique.",n
+1122,1110,li,16oz or lb measurements,n
+1128,566,li,,n
+1131,1128,br,"Hi Jess,",n
+1133,1128,br,"What a fantastic recipe and your pictures and step by step guide is very straight forward. I found you by accident as I was looking at different soya candle production methods for a college course. We are to do a PLC assessment and my group chose Soya candles. Writing up a PLC is mind numbing, but finding your page with all of your lovely hints, tips and recipes was just what I needed to lift the monotony. I have shared your page with friends. And will be giving this a try. Thanks again",n
+1136,0,div,,n
+1137,1136,h3,,n
+1138,1137,text,Leave a Reply,n
+1140,1137,small,Cancel reply,n
+1141,1136,form,,n
+1142,1141,p,,n
+1144,1142,span,Your email address will not be published.,n
+1146,1142,span,Required fields are marked,n
+1149,1141,div,,n
+1151,1149,label,Recipe Rating,n
+1155,1149,span,Recipe Rating,n
+1175,1141,p,Comment,n
+1181,1141,p,Name,n
+1187,1141,p,Email,n
+1199,1141,p,Δ,n
+1203,0,p,This site uses Akismet to reduce spam. Learn how your comment data is processed .,n

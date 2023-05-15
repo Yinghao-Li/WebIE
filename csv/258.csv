@@ -1,0 +1,59 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,,n
+29,4,h1,Pet first aid supplies checklist,n
+35,4,div,,n
+38,35,p,"As a pet owner, you need to make sure to have basic first aid supplies for your pets in your household. Carefully putting together a well-provisioned first aid kit will make you more ready to deal with a medical emergency if one confronts you for your dog, cat or other pet. Have this kit in the house and fully stocked with supplies at all times, next to the first aid kit for your family. Many of the items in a family first aid kit can be used for pets, too.",n
+40,35,p,"View our Pet First Aid brochure​ , which also contains a first aid kit checklist.",n
+44,35,table,,n
+45,44,tr,,n
+46,45,td,,n
+47,46,text,Phone numbers and your pet's medical record,n
+51,46,strong,Veterinarian,n
+55,46,strong,Emergency veterinary clinic,n
+59,46,strong,Animal Poison Control Center,n
+61,46,br,ANI-HELP,n
+66,45,td,"Know these numbers before you need them. If you do not know the number of the emergency clinic in your area, ask your veterinarian or go to the Veterinary Emergency and Critical Care Society Web site for a searchable list of emergency clinics by state or visit MyVeterinarian.com, enter the zip code, and check the ""emergency"" box to get a listing of emergency providers in the area.",n
+69,44,tr,,n
+71,69,td,Gauze,y
+73,69,td,For wrapping wounds or muzzling the injured animal,n
+74,44,tr,,n
+76,74,td,clean cloth,y
+78,74,td,To control bleeding or protect wounds,n
+79,44,tr,,n
+80,79,td,,n
+81,80,text,Adhesive tape,y
+84,80,strong,,n
+85,84,text,"*do NOT use human adhesive bandages eg, Band-Aids",n
+87,84,sup,®,n
+88,84,text,on pets,n
+90,79,td,For securing the gauze wrap or bandage,n
+91,44,tr,,n
+92,91,td,,n
+93,92,text,magnesia,n
+95,92,br,Activated charcoal,y
+97,91,td,To absorb poison,n
+103,44,tr,,n
+105,103,td,Hydrogen peroxide,y
+107,103,td,To induce vomiting,n
+113,44,tr,,n
+114,113,td,,n
+115,114,text,Digital Thermometer,y
+117,114,br,"—you will need a ""fever"" thermometer because the temperature scale of regular thermometers doesn't go high enough for pets",n
+119,113,td,To check your pet's temperature. Do not insert a thermometer in your pet's mouth—the temperature must be taken rectally.,n
+122,44,tr,,n
+124,122,td,Eye dropper,y
+126,122,td,To give oral treatments or flush wounds,n
+127,44,tr,,n
+129,127,td,Muzzle,n
+130,127,td,,n
+131,130,text,To cover your pet's head.,n
+133,130,br,"If your pet is vomiting, do not muzzle it!",n
+136,44,tr,,n
+138,136,td,Leash,y
+140,136,td,To transport your pet,n
+141,44,tr,,n
+143,141,td,Stretcher,y
+145,141,td,To stabilize the injured animal and prevent further injury during transport,n
+147,35,p,"You can print out a copy of this checklist to use as a shopping list, and keep a copy on your refrigerator or next to your pet first aid kit for quick reference in emergencies.",n
+150,35,p,"Always remember that any first aid administered to your pet should be followed by immediate veterinary care. First aid care is not a substitute for veterinary care, but it may save your pet's life until it receives veterinary treatment.",n

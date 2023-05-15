@@ -1,0 +1,139 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+6,0,p,,n
+7,6,text,Call,n
+9,6,br,Serving South Central Pennsylvania,n
+11,0,div,,n
+13,11,div,,n
+16,13,span,Toggle navigation,n
+20,13,text,MENU,n
+22,11,ul,,n
+24,22,li,Home,n
+26,22,li,About,n
+28,22,li,Services,n
+29,22,li,,n
+30,29,text,Gallery,n
+32,29,ul,,n
+34,32,li,Gallery,n
+36,32,li,Before or After Photos,n
+38,22,li,Project Profiles,n
+39,22,li,,n
+40,39,text,Testimonials,n
+42,39,ul,,n
+44,42,li,Testimonials,n
+46,42,li,Leave a Review,n
+48,22,li,Blog,n
+50,22,li,Contact Us,n
+52,0,div,,n
+55,52,div,,n
+57,55,article,,n
+58,57,p,,n
+59,58,text,Essential,n
+61,58,strong,Tools For Painting A Room,n
+64,57,p,Just Add Paint wants to save you a trip to the store…,n
+66,57,h2,Products Included In Your Paint Supply Checklist,n
+67,57,p,,n
+68,67,text,It should be noted that,n
+70,67,strong,Just Add Paint,n
+71,67,text,"has no affiliation with any particular paint company or hardware store! This list is meant to be as comprehensive as possible with the products we know best, and not every item will be necessary for every sized project. Try not to feel overwhelmed by the amount of items shown here. Some may be improvised, some you may already have, and some can be found in various “lesser” but still useful versions at many box stores near you.",n
+73,57,p,"I will try to point out certain products for which there are no good substitutes, or that are an absolute necessity for a good final result. Fortunately, there aren’t too many items you simply cannot live without. Please note that the brand names of products we use will often be specified. This is not an advertisement, but rather just information on products we have found to work best and most effectively for us.",n
+77,57,h2,Your Essential Paint Supply Checklist – Getting Started,n
+78,57,p,,n
+79,78,text,"We will try to explain why we include each of these products in our paint supply checklist over others , in order to help you make an educated choice for yourself. Please note that items in",n
+83,78,span,RED,n
+84,78,text,"are helpful tips, and items in",n
+86,78,span,BURGUNDY,n
+87,78,text,are safety related. Items in,n
+89,78,span,GREEN,n
+90,78,text,are used,n
+94,57,li,,n
+96,94,strong,Paint-,n
+97,94,text,"While an entire book could be written on this subject alone, we use Sherwin Williams paint 95% of the time. They offer many great products that have been tested over the years. There are other excellent brands available at both Lowe’s and Home Depot, and these paints have improved greatly over the past several years, and in some cases are able to compete with Sherwin products. As professionals, however, we prefer to use paint from a company that does JUST paint. The advice of the professionals at a Sherwin location can save you, the suffering often inflicted on those who use the “trial and error” method of figuring out what to use! PPG and Benjamin Moore stores also have great, equivalent products and knowledgeable staff, but they are harder to find in our area so we use less of them.",n
+103,57,li,,n
+105,103,strong,Paint Tray and Liners,y
+106,103,text,"– We exclusively use HANDY PAINT TRAY and Liners. These trays hold an entire gallon of paint, This tray can be used without liners, if you don’t mind washing it our after each use, but we always use liners with ours. This allows us to remove the liner to switch colors, but mostly just saves a huge amount of time during clean up. Also,",n
+109,103,span,"remember to grab extra liners, because they can be flipped upside-down and used to protect the paint in the tray from drying during short breaks.",n
+114,57,li,,n
+116,114,strong,Roller Cage,y
+117,114,text,"– This is the frame that holds your paint roller. For 100% of our projects, we use 9 inch Wooster cages. These seem to be the most durable, longest lasting cages. Probably the biggest factor in choosing these, however, is the quick release mechanism. This is a small button that allows you to lock and unlock the roller cage onto your paint pole. This saves a HUGE amount of time, by allowing you to quickly switch to a different sized pole, as your painting project requires. These same cages also allow for use with a standard screw-tip pole, which may work fine for many jobs.",n
+122,57,li,,n
+124,122,strong,Paint Poles,y
+125,122,text,"– We use 100% Wooster Sherlock GT Convertible or Lightning Poles. These poles are all compatible with the quick release Wooster cages. If you are doing a small room with a standard 8 foot ceiling, we suggest either the Javelin GT, or the Sherlock GT 2-4ft extension pole, which adjusts from, you guessed it, 2-4 feet in length. These poles come in many other sizes up to 8-16 feet and as small as 1-2 feet, and we suggest buying a slightly longer pole than you think you may need if your project includes tall walls. You can always use the pole at a shorter length, but if it isn’t long enough to easily reach the tallest area in your project, you will be “caught short!!” If you buy only one pole, we suggest the 2-4ft Sherlock GT Convertible. It will reach a standard ceiling, but also adjusts short enough that you can roll in a furniture crowded room, or in a small bathroom, with ease. All of these poles can be ordered through Amazon, and are available at many Ace Hardware stores.",n
+130,57,li,,n
+132,130,strong,Roller Covers,y
+133,130,text,"– Roller Cover choices are a matter of great debate for painters. The ultimate goal, as we see it, is to find a roller cover that holds enough paint to create at least one full strip of paint from floor to ceiling per dip, while also being thin enough to create a smooth final texture on the wall. A discussion of the mechanics for how this works, which paints and sheen types work best with which roller types, etc…could easily take up an entire article. To simplify, we suggest that people doing paint projects on their own use microfiber roller covers of either 9 or 16 or ½ of an inch on the walls, and ½ or ¾ of an inch on the ceilings. The ½ or 9 or 16 inch size are available at Sherwin Williams from Purdy, and from Arroworthy through several other retailers including PPG and online. The ¾ is available through Arroworthy.",n
+142,57,li,,n
+144,142,strong,Paint Brush,y
+145,142,text,"– There are about 100 different types of paint brushes available, each with excellent qualities of their own. To keep things simple, we suggest that DIY people choose a good, all around brush that is easy to use and clean. Our favorite is the Wooster Ultra or Pro Firm Mink in the 2.5“ flat sash version. These are available at Ace Hardware and Online from Amazon. The bristles are synthetic, and are soft enough that they won’t cause hand fatigue as quickly as a stiffer brush. They also tend to be easier to paint trim and tight spot with because they distribute your material evenly and with great precision. If these brushes are cleaned and stored properly after use, they can last a very long time.",n
+150,57,li,,n
+152,150,strong,Paint Pail or “cut pot”,y
+153,150,text,"– We use the Handy Pail “Handy Roller Pail.” This is a bucket that can hold both a paintbrush, and a mini-whizz roller and cage, which will be described next. It uses disposable liners, and is easy to hold onto by the attached handle. This setup allows you to move easily around the room while dipping your brush as needed. These are available on Amazon, and in some Home Depot and Sherwin Williams locations. In many situations, we find that simply using the gallon the paint came in works just as well. When you fill your paint tray from the 1",n
+159,150,text,"gallon, simply hold back enough paint, and dip your brush in that to paint. The easy to hold with the built in handle,",n
+161,150,span,"and if you are on a ladder or moving around a lot, it can actually be attached to the belt loop on your pants by a carabiner. This makes climbing on a ladder to paint high edges much safer, because you will have both hands free!",n
+166,57,li,,n
+168,166,strong,Mini Whizz Roller and Cage,y
+169,166,text,"– When painting certain types of flat trim, such as wide window sills or doors, it is sometimes easiest to use a small 4” or 6” “mini whizz” roller. These are small microfiber rollers that apply trim paint very smoothly, while saving a huge amount of time by eliminating brushwork on larger trim areas. I recommend the 4” version, as it is easier to fit into the red handy pails, and can also be used with a standard paint gallon if a screen, is placed inside. We purchase 4” Sherwin Williams mini rollers, and cages.",n
+178,57,li,,n
+180,178,strong,Painter’s Tape-,y
+181,178,text,"We suggest two main types of painter’s tape- Yellow Frog Tape and 3M Blue Tape. Both are available in various widths, but we find in general that 1.5 inch tape offers the best overall protection. The yellow frog tape is a delicate surface tape, used both to protect surfaces from paint spritz, and to help create smoother lines along trim by masking the trim off from the wall to be painted in a perfect line. It can also be used to tape along windows, in order to allow for easier painting of thin frames around window panes. The blue tape is a general purpose tape. It can be used to secure masking materials to a thin strip of yellow tape, or on its own on non-damagable surfaces. It has a much stronger adhesion than yellow tape, which makes it better for holding things securely, but worse for using on any surface that might possibly be damaged. We also use this tape to remove fuzz from paint rollers- a process that will be described later.",n
+189,57,li,,n
+191,189,strong,Drop Cloths,y
+192,189,text,"– These are heavy duty, re-usable rubberized sheets used to cover surfaces and protect them from paint. They come in a wide variety of sizes. We like to use “runners” around the exterior of rooms or in rooms with lots of furniture in the middle. . If you are doing a one-time project and do not wish to invest in a “runner”, a roll of butcher block or rosin paper can be substituted and cut to length. For covering floors in empty rooms, the large, square, room size drop cloths work best. There are several important things to remember with drop cloths. 1",n
+196,189,text,", they can be slippery when used over hardwood floors. Exceptional caution is required when using runners on stairs. Also remember that you should",n
+198,189,span,NEVER place an angled ladder on top of a drop cloth. Many accidents happen when the cloth slips along the floor and the ladder rides right along with it. The soft rubber feet of the ladder are only effective when in direct contact with the floor.,n
+199,189,text,"Finally, remember that drop cloths can also hold paint on top of themselves, so check your shoes each time you step off the drop cloth to make sure you don’t bring paint off the protection on the bottom of your shoe.",n
+205,57,li,,n
+208,205,span,Spackle,y
+210,205,text,"Spackle is a wet compound that is used to fill holes and make other general repairs to drywall. It comes in many types, though for DIY projects, we recommend the absolute easiest to use product we have ever found- Sherwin Williams Spackle Paste. It is sold by the pint at any location, and is incredibly fast drying, easy to smooth out, and dries to a very hard finish. It is also remarkably easy to sand to a very smooth finish, even for a beginner. As a final benefit, it can be wet sanded when used in small areas, such as for filling nail or tack holes in walls.",n
+212,57,li,,n
+215,212,span,Spackle Knife,y
+217,212,text,This tool is used to smooth spackle onto problem areas of the wall. We have found that a 3 or 4 inch knife is easiest to control and use on small areas.,n
+219,57,li,,n
+222,219,span,Sanding Block or Sand Paper,y
+224,219,text,"We use a very fine grit sanding block to sand most small areas of spackle where patches were created. This does create some fine sanding dust, so whenever possible, we recommend using a wet cloth to simply wipe away excess spackle and smooth out what is left.",n
+226,57,li,,n
+229,226,span,Caulk,y
+231,226,text,"This product is used to fill gaps between trim and wall surfaces, and, with a proprietary JAP technique, can be used to seal cracks in drywall or plaster, as well.",n
+233,57,li,,n
+236,233,span,Caulk Gun,y
+238,233,text,"This tool is used to apply caulk in a smooth and controlled fashion. The cheaper the caulk gun, the harder it is to use and control. Please get a decent model!",n
+240,57,li,,n
+243,240,span,SMOOTH Wet Rag,y
+245,240,text,"Yes, this is actually a tool. As with light spackle paste sanding, a smooth wet rag is used to smooth out thin beads of caulk that have been applied to seal gaps between trim and wall surfaces. Light pressure with a clean, smooth rag will yield the best possible results.",n
+247,57,li,,n
+250,247,span,Primer,y
+252,247,text,"We almost exclusively use Oil or Shellac-Based primers for our work, because many newer latex paints are of such high quality that traditional latex primer is unnecessary. Primer is applied over trouble surfaces, or over freshly patched or repaired surfaces, in order to give paint the best possible surface to adhere too, and eliminate flashing of patches under the paint. Please note that both oil and shellac-based primers require the use of an Organic Vapor Respirator . Please do not take any chances with your health or the health of your Family. Please also note shellac-based primers have a much quicker dry time and the smell tends to dissipate much more quickly than oil.",n
+256,57,h3,Other Essential Tools For Your Paint Supply Checklist,n
+258,57,p,"Every paint project is different, and each will require its own set of tools to complete. Most single room DIY jobs could easily be completed with just a multi-tool! As long as you have a Phillips and Flat Head screwdriver, Sharp knife blade or razor cutter, and a pair of pliers, you are pretty much ready to rock!! Also consider a Hammer and Nail Set if you are working with newly installed or unfinished trim.",n
+260,57,p,"Depending on the level of difficulty you may encounter preparing your room for painting, you may find that it is preferable to have full size, stand along versions of these standard tools. In the case that you find yourself removing large amounts of screws or other hardware, a power drill or bit driver may be very helpful.",n
+261,57,p,,n
+264,261,strong,"A good addition to your paint supply checklist is a small set of screwdrivers. Just remember that when replacing old, brittle outlet covers, take it easy and go slow when you tighten it. I heard a crazy rumor that they can be broken easily if you are careless and rush the job!!",n
+265,261,text,Do not forget furniture sliders for hardwood floors or carpets as needed- they will make your life so much easier. Remember also that stirring sticks and paint can openers are often provided free with the purchase of paint. Don’t forget to ask for some when you pick up your paint!,n
+269,57,p,We hope this list helps you accomplish your painting task as easily as possible! Please check out our website at Justaddpaint.net like us on facebook www.facebook.com or justaddpaint for more tips and tricks for DIY painting projects. Good Luck!!,n
+270,57,p,,n
+271,270,text,List by W. Grant Tankersley writing for,n
+274,270,span,Just Add Paint,n
+286,57,div,Sharing is caring!,n
+325,55,div,,n
+326,325,h3,,n
+327,326,text,Leave a Reply,n
+329,326,small,Cancel reply,n
+330,325,form,,n
+331,330,p,,n
+333,331,span,Your email address will not be published.,n
+335,331,span,Required fields are marked,n
+340,330,p,Comment,n
+346,330,p,Name,n
+352,330,p,Email,n
+358,330,p,Website,n
+363,330,p,"Save my name, email, and website in this browser",n
+372,330,p,Δ,n
+378,52,div,Customer Testimonial,n
+383,52,p,"“ These guys are GREAT!!! Professional, courteous, and just pleasant people to have working in your home. They did an AMAZING job on the stairway. And while doing it, they even sounded as though they liked how the transformation was coming along. I highly recommend this group. In fact, I have more jobs for them lined up in the near future. ” – S. Hengst, Homeowner",n
+398,0,div,,n
+400,398,p,,n
+401,400,text,Just Add Paint!,n
+403,400,br,-0686,n
+405,400,br,5 South West Avenue,n
+407,400,br,"Shiremanstown, PA 17011",n
+410,398,p,"Serving South Central Pennsylvania, including Harrisburg, Carlisle, Camp Hill and Mechanicsburg.",n

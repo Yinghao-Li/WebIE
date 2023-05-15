@@ -1,0 +1,145 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+9,3,div,,n
+17,9,h1,Beauty Kit Checklist,n
+19,9,div,,n
+21,19,div,,n
+24,21,p,Foundation,y
+26,21,p,Waterproof Liquid,y
+28,21,p,Waterproof Liquid-Mini's,y
+30,21,p,Generation V Liquid-Mini's,y
+32,21,p,Compact Creme Palette,y
+34,21,p,HD Primer,y
+37,21,p,Concealer,y
+39,21,p,5 Color Palette,y
+42,21,p,Loose Powder,y
+44,21,p,Loose Powder,y
+47,21,p,Mascara,y
+49,21,p,Coating Mascara,y
+51,21,p,Fiber Mascara,y
+54,21,p,Palette,y
+56,21,p,Eye Shadow Palette,y
+58,21,p,Blush Palette,y
+60,21,p,Lip Palette,y
+62,21,p,Countour or Highlight Palette,y
+64,19,div,,n
+67,64,p,Lip Gloss,y
+69,64,p,Charming,y
+71,64,p,Kiss Proof,y
+74,64,p,Liner,y
+76,64,p,Deluxe Lip Pencils,y
+78,64,p,Creme Eye Liners,y
+80,64,p,Eye Pencils,y
+83,64,p,Brushes,y
+85,64,p,12 Piece Brush Set | Stilazzi,y
+88,19,div,,n
+92,88,p,Accessories,y
+94,88,p,Individual Eyelashs,y
+96,88,p,Strip Eyelashs,y
+98,88,p,Lash Curler,y
+100,88,p,Pencil Sharpener,y
+102,88,p,Metal Spatula and Plate,y
+104,88,p,Disposable Sponages,y
+106,88,p,Disposable Mascara Wands,y
+108,88,p,Makeup Kit Label,y
+110,88,p,Makeup Kit,y
+118,9,h1,Special FX Kit Checklist,n
+120,9,div,,n
+122,120,div,,n
+125,122,p,Product List,n
+127,122,p,3rd Degree,n
+129,122,p,99% Alcohol 40z,n
+131,122,p,Acetone,y
+133,122,p,Age stipple Whell,y
+135,122,p,Balloon Latex 4oz,y
+137,122,p,Barrier Foam,y
+139,122,p,Bruise Wheel,y
+141,122,p,Clown White Creme,y
+143,122,p,Crepe wool - Black,y
+145,122,p,Crepe Wool- Dark Brown,y
+147,122,p,Crepe Wool- Light Blonde,y
+149,122,p,Crepe Wool- Light Brown,y
+151,122,p,Double Palette Cup,y
+153,122,p,Foam Latex Appliance,y
+155,122,p,Glycerine 20z,y
+157,122,p,Green marble Sealer,y
+159,122,p,Ice Fx Kit 10z,y
+161,122,p,Isopropyl Myristate 4oz,y
+163,122,p,Grease Paint,y
+165,122,p,Liquid Blood 4oz,y
+167,122,p,Matte Spirit Gum,y
+169,122,p,Mustache and Bread,y
+171,122,p,Nose and Scar Wax,y
+173,122,p,Plastic Bald Cap,y
+175,122,p,Powder Puff,y
+177,122,p,Pros Aide 4oz,y
+179,122,p,Pros Aide Transfer,y
+181,122,p,Rainbow Wheel,y
+183,122,p,RCMA No Color Powder,y
+185,120,div,,n
+188,185,p,Product List Cont.,n
+190,185,p,Rigid Collodion,y
+192,185,p,Slip Latex 4oz,y
+194,185,p,Snow White Hair Color,y
+196,185,p,Spirit Gum Remover,y
+198,185,p,Super White Powder,y
+200,185,p,Tattoo Cover Wheel,y
+202,185,p,Thick Blood 10z,y
+204,185,p,Tooth decay,y
+206,185,p,Wolfe Palette,y
+208,185,p,Set Bag,y
+211,185,p,Brushes and Tools,y
+213,185,p,Black Stipple Coarse Sponge,y
+215,185,p,Orange Stipple Sponge,y
+217,185,p,Blending Fluff,y
+219,185,p,Chip Brush,y
+221,185,p,Chisel Pointer,y
+223,185,p,Jumbo Powder Dome,y
+225,185,p,Medium Camouflage,y
+227,185,p,Metal Spatula,y
+229,185,p,Oval Concealer,y
+231,185,p,Oval,y
+233,185,p,Pro-Deluxe,y
+235,185,p,Sable Angle,y
+237,185,p,Sable Pointed,y
+239,185,p,Angle Liner,y
+241,185,p,Camouflage,y
+243,185,p,Pointed Liner,y
+247,3,div,,n
+250,247,div,,n
+252,250,h4,Ask us anything!,n
+253,250,div,,n
+254,253,p,,n
+255,254,text,Call or send us a text.,n
+258,254,font,-1117,n
+260,253,h4,School Address,n
+261,253,p,,n
+262,261,text,"One Embarcadero Center,",n
+264,261,br,Suite R-1206,n
+266,261,br,"San Francisco, CA 94111",n
+268,247,div,,n
+270,268,h4,Authorization and Accreditation,n
+271,268,div,,n
+274,271,p,California BPPE,n
+278,271,p,National Accreditor,n
+281,271,p,Click to access sites,n
+283,247,div,,n
+285,283,h4,Discloure and Consumer Info,n
+287,283,ul,,n
+289,287,li,School Catalog,n
+291,287,li,School Performance Fact Sheet,n
+293,287,li,Annual Report,n
+295,287,li,Net Price Calculator,n
+297,287,li,Clery Act Report,n
+299,287,li,CARES – Students,n
+301,287,li,CARES – Institution,n
+303,287,li,Site Privacy Policy,n
+305,3,div,,n
+306,305,ul,,n
+308,306,li,Getting Started,n
+310,306,li,Why Blush,n
+312,306,li,Programs,n
+314,306,li,Student Services,n
+316,306,li,Services,n
+319,305,div,Makeup • 2021,n

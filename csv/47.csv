@@ -1,0 +1,109 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+7,0,div,,n
+26,7,div,New 2022 Summer Collection,n
+35,7,div,,n
+39,35,h2,$13.95,n
+42,35,div,2oz Powders,n
+55,7,h2,New OPI,n
+61,0,div,,n
+65,61,h2,NEW GELAXY GEL,n
+68,61,div,,n
+88,68,div,Notpolish Gelaxy - GEL01 Night Star,n
+143,68,div,Notpolish Gelaxy - GEL02 Big Tipper,n
+198,68,div,Notpolish Gelaxy - GEL03 Aurora,n
+253,68,div,Notpolish Gelaxy - GEL04 Beam Me Up,n
+308,68,div,Notpolish Gelaxy - GEL05 7 Rings,n
+356,0,div,,n
+359,356,h2,Bulk Buy and Save,n
+360,356,div,,n
+366,360,div,DND DC,n
+372,360,div,OPI Collection,n
+378,360,div,Notpolish,n
+384,360,div,iGel Collections,n
+390,360,div,DCH Acrylic Blending System,n
+396,360,div,Glam and Glits Collections,n
+402,360,div,DND Collections,n
+408,360,div,Kiara Sky Collections,n
+414,360,div,Chisel Collections,n
+416,0,div,,n
+420,416,h2,New Arrivals,n
+423,416,div,,n
+438,423,div,,n
+441,438,div,UV or LED Handsfree Nail Lamp,y
+445,438,div,,n
+447,445,span,$35,n
+451,445,span,$35.00,n
+465,423,div,,n
+469,465,div,Quick shop,n
+472,465,div,Sold Out,n
+475,465,div,,n
+478,475,div,Quick Soak Bowl,n
+482,475,div,,n
+484,482,span,$14,n
+488,482,span,$14.00,n
+519,423,div,OPI Ridge Filler,y
+573,423,div,OPI Natural Nail Strengthener,n
+624,423,div,,n
+627,624,div,CND Shellac Wear Extender 0.42oz,n
+630,624,div,,n
+633,630,span,,n
+635,633,span,$19,n
+639,633,span,$19.95,n
+642,630,span,,n
+644,642,span,$24,n
+648,642,span,$24.95,n
+650,630,span,Save $5,n
+676,423,div,,n
+679,676,div,Deluxe Caddy With Insert - Blue,y
+683,676,div,,n
+685,683,span,$22,n
+689,683,span,$22.00,n
+716,423,div,,n
+719,716,div,Kiara Sky Stick It Nail Glue,y
+723,716,div,,n
+727,723,span,$1,n
+733,723,span,$1.00,n
+762,423,div,Gelish Structure - Clear Brush,n
+801,423,div,Gelish Structure - Cover Pink,n
+840,423,div,Gelish Structure - Translucent,n
+867,0,div,,n
+868,867,div,,n
+872,868,div,Nail Removal,n
+875,868,p,"From lacquer remover, to gel tools, to soaking bowls. Everything you need to get gel, acrylic and dip off.",n
+877,867,div,,n
+881,877,div,Nail Art,n
+884,877,p,"Have you seen our nail art selections?! We have everything from foils, crystals, chromes, glitters to nail stickers!",n
+886,867,div,,n
+890,886,div,Gelly | Press It Tip,n
+893,886,p,The perfect manicure everytime!,n
+900,0,div,,n
+902,900,p,"Wе are a wholesale dіѕtrіbutоr оf nail supplies, equipment, and furnishings to the beauty industry. A соmbіnаtіоn of hard work, great customers, dеdісаtеd еmрlоуееѕ, superior manufacturers, and blessings have рrореllеd uѕ to bе one of the nation’s largest nail supply distributors. Our inventory of personal and professional nail salon supplies includes brands like OPI, CND, IBD, DND, SNS, ANC, NOTPOLISH, DCH Blending Acrylics, Kiara Sky, Glam and Glits, Apres, Young Nails, Cre8tion, Lechat, Gelish, Today's Product, and many more.",n
+904,900,p,Our goal is to serve customers impartially with a broad range of products at a соmреtіtіvе рrісе. Wе hоре you find this to be the case in our efforts to earn your business. Thank you for the opportunity to be your provider of personal and wholesale nail salon supplies.,n
+906,900,p,"Nail Company Wholesale Supply іѕ based оn thе belief that оur сuѕtоmеrѕ’ nееdѕ аrе of the utmost іmроrtаnсе. Our рrоfеѕѕіоnаl tеаm is соmmіttеd tо mееtіng thоѕе needs. As a rеѕult, a hіgh реrсеntаgе of оur buѕіnеѕѕ comes frоm referrals and rереаt сuѕtоmеrѕ. We provide a personal lеvеl оf service and product customization that is unраrаllеlеd in thе buѕіnеѕѕ. If you have any questions about our professional nail salon supplies, please feel free to give us a call at 850-434-6245.",n
+908,0,div,,n
+912,908,h2,From our customers,n
+916,908,div,,n
+918,916,div,,n
+923,918,p,Great place a awesome staff! I love going here they are nice an have everything I want all in one stop shop. Ordering from Online was also great!!,n
+925,918,cite,Bonnie Morales,n
+927,916,div,,n
+932,927,p,"Love this place! I found them online, tried them out and received my products within a few days! Ordered again, a week after, forgot to add something, called to see if they could add it to my order to save on shipping and they were able to accommodate with no hesitation! The person that helped me was very nice. Will continue to purchase from them. I definitely found a hidden gem!",n
+934,927,cite,KJ Hill,n
+936,916,div,,n
+940,936,p,,n
+941,940,text,"Honestly at 1st I was worried of placing an order; in these times. But it was the best thing I did! And by far, I’m more then thankful that I choose Nail Company Wholesale as my distributor",n
+943,940,br,Number one their prices are great!,n
+945,940,br,2 Their Customer service and detail in packaging is A++ and lastly my order came super fast !! I’m definitely going to continue business with them! Thankful for them in this time !,n
+947,936,cite,Ana Ovalle,n
+949,916,div,,n
+953,949,p,,n
+954,953,text,"This is the best company I’ve ever bought from! I can see when they create labels, get my order to usps, etc. and it’s always done in a timely manner!",n
+956,953,br,"Also, their customer service is TOP NOTCH! Emily always texts me personally when there’s an issue with my order and does her best to help me resolve it! She also always responds when I have questions. She is extremely professional and so sweet! Phone calls with her are just as pleasant. You can definitely tell she really cares about customers. I’ll never buy from anywhere else!",n
+958,949,cite,Taylor Shaw,n
+960,916,div,,n
+965,960,p,"They are AMAZING!! I’m in this place at least once a week. Huge selection , super friendly and very helpful. I came in today with an emergency , I needed a charger for my uv lamp and they went above and beyond to help me!",n
+967,960,cite,Kylie Jordan,n
+969,916,div,,n
+974,969,p,Their prices on their products are unbeatable and their shipping was amazing!!! When there was an issue with my product they got in touch with me right away to let me know that it was out of stock and if I wanted a refund or an exchange. I will absolutely use them in the future for all of my nail care needs.,n
+976,969,cite,Bethany Lundie,n

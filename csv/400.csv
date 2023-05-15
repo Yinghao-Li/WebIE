@@ -1,0 +1,196 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,,n
+15,4,h1,Olympic Archery Equipment List.,n
+18,4,p,"I remember watching the Olympic style archers at the target archery club when I was a young boy. The long stabilizers attached to the bow, the equipment and techniques used were fascinating.",n
+24,4,p,"A year or so later and I shot my first Olympic style target recurve bow and I was hooked. I continued to shoot the compound bow and longbow as well, but the allure of the Olympic style archery is addictive.",n
+26,4,p,"Because of confusion for beginners about the type of bow Olympic Archers use, here is an Olympic archery equipment list of the type of gear they use. And some information about the equipment.",n
+31,4,h2,,n
+33,31,strong,What,n
+35,31,strong,bow is used in Olympic archery?,n
+45,4,p,A recurve bow is used only in Olympic archery.,n
+47,4,p,"a riser, bowstring and limbs.",y
+49,4,p,The riser has screw mounts for a stabilizer and target sights. A Berger button hole is also in the riser for the arrow rest or plunger button.,n
+52,4,p,"Olympic archery doesn’t allow compound bows, or release aid devices in the competition.",n
+54,4,p,The ILF design is a popular system with Olympic archers.,n
+57,4,p,"The ILF system means that you can swap and change different brands of limbs and risers. As an example if you have a brand like a “Win and Win” ILF riser, you can use the ILF limbs from “Sebastian Flute” on the riser.",n
+73,4,p,The ILF limbs and ILF risers also have different lengths. The riser length and limbs can also be swapped and changed to accommodate the archers shooting style and height.,n
+76,4,p,"Some popular and the best recurve target bow brands are; Hoyt Archery, Spigarelli, Win and Win, Gillo, Uukha and MK archery to name a few.",n
+83,4,h3,arrows do Olympic Archers use?,n
+85,4,p,carbon. Some target arrows are a combination of aluminum and carbon.,n
+94,4,p,"Because of the long distance Olympic archers shoot, carbon arrows have an advantage because of the lighter weight. This helps the archer reach the longer distances of the targets.",n
+97,4,p,"The best quality target arrows have very high tolerances during manufacturing process. This means they will be very straight and the weight will nearly be exactly the same, helping with consistently and therefore accuracy. Because of the quality standards and materials used, the best target arrows are very expensive.",n
+103,4,p,"Some better brand of target arrows are Easton Archery, Gold Tip Arrows, Carbon Express Arrows, Beman Arrows, Victory Arrows and Carbon Tech Arrows.",n
+112,4,p,"Aluminum arrows are not as popular today as ten to twenty years ago as they are regarded as too heavy for most recurve target shooters, compared to carbon arrows. Although some archers like the straightness, tolerances and price factor of the aluminum arrows.",n
+121,4,p,"Olympic archers don’t use wood arrows today, as they are too heavy and inconsistent in weight, straightness and arrow spine stiffness.",n
+127,4,p,The arrow fletching used is normally plastic vanes and are generally put on the arrow with a slight offset.,n
+129,4,p,"The plastic vanes are shorter in length and lower profile then traditional hunting arrows, as they don’t have to control a broadhead.",n
+134,4,p,Recurve target bow sight.,y
+136,4,p,With Olympic style archery the recurve bow is shot with a target sight.,n
+138,4,p,The bow sight normally has a single pin.,n
+140,4,p,A target bow sight has a long extension to put the sight a long distance from the archer’s eye.,n
+142,4,p,"This distance helps in accuracy, similar to a rifle’s front and rear sight compared to a hand gun front and rear sight. With the shorter hand gun sight, it is harder to be as accurate.",n
+153,4,p,"Some top target bow sights are Shibuya, Win and Win, Axcel and Black Gold recurve sights.",n
+158,4,p,Target stabilizers.,y
+161,4,p,Archery bow stabilizer can serve several functions.,n
+163,4,p,A stabilizer helps the archer hold the bow steady on the target. Also when the bowstring is released it helps the bow steady.,n
+165,4,p,"The weight of the stabilizer also helps absorb vibration and shock of the bows energy, and it reduces the noise of the bow as well.",n
+167,4,p,"Some Olympic bows have “V” bars, to help balance and prevent torque as well.",n
+174,4,p,Bowstrings.,y
+176,4,p,The target recurve bow uses an endless loop bowstring.,n
+178,4,p,The endless loop bowstring can be made more consistently as opposed to a traditional Flemish twist string.,n
+179,4,p,,n
+180,179,text,"For more information about how often you should wax your bowstring and change it, click on",n
+181,179,span,,n
+183,181,strong,Bowstrings,n
+184,181,text,.,n
+190,4,p,Arrow rest.,y
+194,4,p,The Olympic style recurve bow uses an arrow rest in combined with a plunger or Berger button.,n
+196,4,p,"The arrow rest’s purpose is to hold the arrow steady when the archer is at full draw, yet have minimal contact with the arrow or fletching when the arrow is released.",n
+198,4,p,"This minimal contact is important for accuracy, otherwise the arrow may kick out, if the arrow or fletching contacts the arrow rest.",n
+200,4,p,Most recurve arrow rests use a springy type wire that will flex or pivot away when the arrow’s fletching contacts it.,n
+202,4,p,The plunger helps absorb sideways pressure of the arrow when it is released. The plunger’s tension can normally be adjusted from a frim tension to a soft action.,n
+207,4,p,Clicker.,y
+210,4,p,With a recurve bow the archer can pull the bow back a fare way. A clicker helps the archer know when to release the arrow as the bow is drawn to a certain length.,n
+212,4,p,This helps the Olympic style archer be consistent with the draw length and helps with accuracy.,n
+214,4,p,"The clicker goes over the arrow. When the bow is drawn back the clicker then is on the point of the arrow. When the bow is drawn back a little bit more using back tension, the clicker makes a sound or clicks when it hits the riser, hence its name.",n
+218,4,p,"A clicker is generally not used on a longbow, compound bow or traditional recurve bow.",n
+219,4,p,,n
+220,219,text,"For more information about draw length, click on –",n
+223,219,span,How To Figure Out Your Draw Length.,n
+228,4,p,Hip quiver.,y
+231,4,p,The hip quiver is a convenient way,n
+234,4,p,Some hip quivers have tubes to separate the arrows. Most arrow hip quivers will hold around eight to a dozen arrows in it.,n
+236,4,p,Arrow quivers also protect the archer from the sharp arrow points.,n
+238,4,p,"the best hip quivers are Aurora, Easton Arrows, Neet and Hoyt Archery brands.",n
+243,4,p,Armguard.,y
+245,4,p,the bowstring.,y
+247,4,p,An armguard also helps hold bulky clothing from interfering with the bowstring. As an example a bulky jacket sleeve might get in the road of the bowstring and reduce accuracy.,n
+249,4,p,"plastics, leather or material.",n
+263,4,p,Finger Tab.,y
+266,4,p,The finger tab is worn over the fingers to protect them from the bowstring being released.,n
+268,4,p,The archery tab also help give a cleaner release to the bowstring as well.,n
+270,4,p,Most tabs will have a spacer that help prevent the fingers pinching the arrow nock when the bowstring is drawn back at a sharp angle.,n
+272,4,p,A metal palm plate is also in some tabs also gives the tab a consistent feel in the hand.,n
+279,4,p,Some tabs also have a shelf to locate against the archers chin for an additional reference point when at full draw.,n
+281,4,p,"The AAE finger tabs, Fairweather, Axcel and Win and Win finger tabs are popular models. Cordovan leather is used in the top brands as it gives a smooth slick feel.",n
+286,4,p,"Wrist sling, finger sling and bow sling.",n
+288,4,p,"A wrist sling, bow sling and finger sling might be worn by the archer. This helps minimize interference that archers grip with the bow and can help accuracy.",n
+290,4,p,"Without the sling the archer might grip the recurve bow too tightly and torque the bow, reducing accuracy. The sling helps by holding the bow when the arrow is release and the bow won’t jump out of the archer’s hand.",n
+292,4,p,The difference in a wrist sling compared to a bow sling is the bow sling attaches directly to the bow. The archer puts his hand into the bow sling.,n
+294,4,p,"The wrist sling isn’t attached directly to the bow, but goes on the archer’s wrist bow hand and around the grip. The wrist sling might be made out of a thin cordage, paracord or even a shoe lace.",n
+296,4,p,A finger sling attaches from the thumb around the bow grip to the finger.,n
+300,4,p,,n
+302,300,strong,Additional Olympic,n
+304,300,strong,archery equipment list.,n
+308,4,p,Bow stand.,y
+310,4,p,A bow stand is a handy piece of equipment. The archer simply puts his bow on it while they retrieve the arrows from the target.,n
+312,4,p,The bow stand helps keep the bow out of the dirt and mud. Also it save other archers stepping on it and damaging the bow.,n
+314,4,p,"A stand also help make it easier to pick up and put down the bow during the rounds and keeps the bow sights and stabilizers from getting bumped and moved, thus affecting the accuracy.",n
+316,4,p,"A lot of the target archery bow stands have three collapsible, or screw in legs. They stands can be made of carbon, fiberglass or metal.",n
+321,4,p,Bow Square.,y
+328,4,p,A bow square or “T” square helps align the arrow position on the bow string and arrow rest. This is used for setting up the nocking point on the bowstring.,n
+330,4,p,the bow limbs.,y
+335,4,p,Nocking Pliers.,y
+337,4,p,These are used to help clamp on the metal or brass noc set that goes on the bowstring. The noc set helps position the arrow on the bowstring for consistency.,n
+339,4,p,Nocking pliers also help remove the noc set from the bowstring without damaging the string.,n
+341,4,p,"A lot of Olympic archers use a tied on nock set on the bow string, instead of the metal noc set.",n
+343,4,p,"The tied on version is a bit lighter on the bowstring. Some archers believe it also doesn’t squash or interfere with the arrow nock as much while on the bowstring, compared to a metal noc set.",n
+347,4,table,,n
+353,347,h3,Olympic Archery List.,n
+357,347,strong,Bow riser.,y
+359,347,tr,,n
+361,359,strong,Bow limbs.,y
+362,359,text,limbs in case one limb cracks.,n
+364,347,tr,,n
+366,364,strong,Bowstring.,y
+367,364,text,"Have two bowstrings pre-shot in, with nock sets attached. In case the bowstring fails.",n
+371,347,strong,Arrow rest.,y
+375,347,strong,Plunger button.,y
+379,347,strong,Clicker.,y
+383,347,strong,Bow sight.,y
+385,347,tr,,n
+387,385,strong,Bow stabilizer.,y
+388,385,text,And V-bars.,y
+392,347,strong,Arrows.,y
+394,347,tr,,n
+396,394,strong,Hip quiver.,y
+397,394,text,And belt and sweat cloth.,y
+399,347,tr,,n
+401,399,strong,Arrow puller.,y
+402,399,text,hard target butts.,y
+406,347,strong,Finger tab.,y
+410,347,strong,Wrist sling.,y
+412,347,tr,,n
+414,412,strong,Armguard.,y
+415,412,text,A chest guard might also be included.,y
+421,347,strong,Bow stand.,y
+425,347,strong,Bow square.,y
+429,347,strong,Nocking pliers.,y
+431,347,tr,,n
+433,431,strong,Spare noc sets.,y
+434,431,text,Or material,y
+438,347,strong,Kisser button.,y
+440,347,tr,,n
+442,440,strong,Bow case.,y
+443,440,text,To protect and carry bow riser and limbs. To hold extra items.,n
+445,347,tr,,n
+447,445,strong,Arrow case.,y
+448,445,text,"To protect the arrows, and to hold spare arrows.",n
+450,347,tr,,n
+452,450,strong,Hex or Allen keys.,y
+453,450,text,For adjusting bow sights and tightening bolts and accessories.,n
+455,347,tr,,n
+457,455,strong,Leatherman tool or multi tool.,y
+458,455,text,For fixing equipment. A Swiss Army Knife is also handy.,n
+460,347,tr,,n
+462,460,strong,Spare bolts and screws.,y
+463,460,text,In case the bow sight or arrow rest loses a screw.,n
+465,347,tr,,n
+467,465,strong,Note pad and pencil.,y
+468,465,text,"sight markings, etc.",y
+470,347,tr,,n
+472,470,strong,Sharpie.,y
+473,470,text,In case you have to mark the fletching or number the arrows,n
+475,347,tr,,n
+477,475,strong,Spotting scope and tripod.,y
+478,475,text,Or binoculars.,y
+480,347,tr,,n
+482,480,strong,Hat.,y
+483,480,text,For sun protection.,n
+485,347,tr,,n
+487,485,strong,Appropriate clothing.,y
+488,485,text,Jacket that isn’t too bulky so the bowstring doesn’t interfere with it. But can protect you from shooting in the rain and wind. Long sleeve shirt to protect the arms from sunburn.,n
+492,347,strong,Sunscreen.,y
+494,347,tr,,n
+496,494,strong,Archery Shooting Glasses.,y
+497,494,text,To also protect your eyes from the glare.,n
+499,347,tr,,n
+501,499,strong,Water bottle.,y
+502,499,text,To stay hydrated.,n
+506,347,strong,Snacks.,y
+508,347,tr,,n
+510,508,strong,Chair.,y
+511,508,text,To rest in between events.,n
+513,347,tr,,n
+515,513,strong,Archery Organization I.D.,n
+516,513,text,Membership card or affiliation I.D. number.,n
+518,347,tr,,n
+520,518,strong,the event.,n
+521,518,text,where the competition is.,n
+523,347,tr,,n
+525,523,strong,humor.,n
+526,523,text,"This is the number one thing to bring. It pays to bring the correct winning mindset to the competition. Also if the shooting doesn’t go as expected, remember to bring along a sense of humor.",n
+529,4,h4,,n
+531,529,strong,Conclusion. –,n
+533,529,strong,Olympic Archery equipment list.,n
+535,4,p,"Olympic archery can be challenging, but it is a great discipline to pursue.",n
+544,4,p,,n
+545,544,text,With all the,n
+548,544,span,Types Of Bows,n
+549,544,text,"and gear, it can be confusing as to what Olympic archer’s use, so we hope you enjoyed the Olympic archery equipment list.",n
+551,4,p,,n
+553,551,strong,Additional resources. –,n
+554,551,text,"These two books will really improve your Olympic Archery, both in knowledge of archery equipment, technique and winning mindset.",n
+556,4,p,"Understanding Winning Archery, by Al Henderson.",n
+558,4,p,"Winning, by Rick McKinney.",n

@@ -1,0 +1,75 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+16,1,div,,n
+20,16,h4,20% OFF Noble Outfitters™ Running Strong Belt,n
+24,16,div,,n
+26,24,h4,Extra 50% OFF Dover Saddlery® Beverly Full-Seat Breech,n
+28,24,p,Use Code CMSS50!,n
+32,16,h4,20% OFF Noble Outfitters™ Show Ready Gloves,n
+38,16,h4,20% OFF Noble Outfitters™ Ashley Performance Shirt,n
+49,1,div,Shop by Brand,n
+86,1,div,,n
+89,86,h2,Recommended For You,n
+556,86,ul,,n
+558,556,li,1,n
+560,556,li,7,n
+562,556,li,13,n
+577,1,center,,n
+579,577,font,Use #itsfromdover on Facebook and Instagram to be featured on our homepage!,n
+582,577,font,Roll over or click each customer image to read comments and see who posted.,n
+584,1,div,,n
+588,584,div,,n
+601,588,div,,n
+602,601,text,the Week,n
+604,601,br,"This week, check out Kayla’s barn favs!",n
+606,601,br,#itsfromdover #doversaddlerywarrington,n
+629,588,div,,n
+630,629,text,so happy to be seeing big improvements in tangos stadium! in love with these photos from the weekend! tango is jumping novice with such ease!,n
+633,629,br,#hsluckystrike #ottb #eventing #showjumping #eventhorse #thoroughbred #itsfromdover #smartpak #teal #ilovemyhorse,n
+663,588,div,,n
+664,663,text,"Another show in the books with the most perfect unicorn. Our score went up by 4 points AND I actually smiled during my test for the first time ever. My boyfriend came to watch, and so did one of the patients from my work! Otto was relaxed and ready to show off his moves. Thankful for the best trainer and the best horse",n
+669,663,br,#dressage #dressagehorse #dressageshow #horses #leasehorses #trakehner #trakehnertribe #smartperkspays #itsfromdover #smartpak #equestrian #equestrianlife #farming #barnlife #maine #ariatboots #tractorsupply #geldings #grayhorse #horsegirl #dressagequeen #showseason #love #lovemyhorse #goodboy #canadian #boardingbarn #eventing #blueribbon #boopmynose,n
+718,588,div,,n
+720,718,div,,n
+721,720,text,"To say we are excited is an understatement. We can’t wait to convert this unique property into Philadelphia Urban Riding Academy, for our horses and the community. #PURAPowered",n
+725,720,br,PURA was recently awarded a $500k RACP Grant by the state. We have to match those funds to receive the state awarded grant. Hit the share button - spread the word.,n
+728,720,br,www.thepura.org,n
+731,720,br,#THEConcreteCowgirl #ConcreteCowboy #ConcreteToShowJumping #ConcreteHorsemanship #theCONCRETEequestrian #NorthRun #Wrangler #EQUILINE #SmartPak #StatelineTack #DoverSaddlery #PBR #BlackReinsMag #BlackEquestrians #YBE,n
+751,718,div,Yesterday,n
+766,588,div,,n
+767,766,text,Best buds,n
+787,766,br,#ottbs #ottb #horse #horses #pony #ponies #ottbsofinstagram #painthorse #thoroughbred #doversaddlery #thoroughbreds #hunterjumper #clydesdale #warmblood #rollsroyce #tattoos #bay #thoroughbredsofinstagram #love #live #happy #pink #punk #summer #bud #cute #equestrian #dog #puppy #hunter,n
+839,588,div,Woohoo! So excited! Celebratory ride tonight after Finding out me and Bacchus got High Points Champs again for the Hunter WT division for the Show Master May show! #equestrianlife #highpoint #hunter #walktrot #hunterjumper #hunterjumpers #quarterhorse #highpointchampion #itsfromdover #doversaddlery,n
+870,588,div,,n
+871,870,text,#leadlinepony #leadline #itsfromdover laylou_pinks_horse_show_bows doversaddlerycroftonmd,n
+876,870,br,essexclassics r.j.classics patuxentrunstables,n
+898,588,div,#itsfromdover #essexclassics #leadlineclass laylou_pinks_horse_show_bows doversaddlerycroftonmd,n
+922,588,div,,n
+923,922,text,Cinder's game face we can't wait,n
+941,922,br,#ranchhorseturnedeventer #eventingnation #eventingquarterhorse #crosscountry,n
+946,922,br,#stadiumjumping #eventerproblems #dressage #dressagerider #usea #usdf #aqha #styledequestrian #equestrianoutfit #equestrianootd,n
+957,922,br,#smartpak #smartpakequine #piperbysmartpak #kerrits #kerritsrootd #doversaddlery #rideroftheweek #troxelhelmets #whatthehelmet #totalsaddlefit #ovation,n
+979,584,text,Powered by Curator.io,n
+986,1,div,Powered by Curator.io,n
+991,1,div,,n
+993,991,div,,n
+995,993,h4,About Us,n
+997,993,p,"At Dover Saddlery, English riders find the riding apparel, tack and horse care supplies they need to spend more quality time in the saddle. We're proud to provide the top quality equestrian products you want and need, from tall boots and breeches to horse blankets and saddle pads . Every item we carry has been selected by knowledgeable equestrians – riders just like you who've tested the top horse gear to ensure you get the best.",n
+1007,991,div,,n
+1009,1007,h4,Riding Apparel,n
+1011,1007,p,"For premium English riding apparel, look no further than Dover Saddlery. You'll find equestrian clothing from top brands like Kerrits, Ariat, Animo, Pikeur, Tailored Sportsman and more. Dover is your source for riding gear for any season. Shop for riding boots and chaps , riding breeches , riding gloves, helmets , show clothing - you'll find it all at Dover Saddlery.",n
+1020,991,div,,n
+1022,1020,h4,Tack and Equipment,n
+1024,1020,p,"Dover Saddlery is well-known for its English saddles and saddle accessories . We've got superior quality dressage saddles and classic hunter or jumper saddles, saddles for young riders and saddle pads and saddle care products for riders of all skill levels. Dover has an extensive inventory of horse tack , too. You'll find all the equestrian training gear and riding gear you need: Bits, bridles, harnesses, horse blankets and more.",n
+1037,991,div,,n
+1039,1037,h4,Horse Supplies,n
+1041,1037,p,"Caring for a horse is a serious commitment, and Dover has the horse care supplies you need. Shop for wormers , liniments, joint supplements and other horse care products. Dover is your go-to source for horse grooming supplies , hoof care, mane and tail shampoo, and more. All the horse supplies you need to care for your horse are at Dover Saddlery.",n
+1050,991,div,,n
+1052,1050,h4,"Paddock Boots, Tall Boots and Muck Boots",n
+1054,1050,p,"You'll find every boot you'll need at Dover Saddlery. Our riding boot collection has something for every rider, from tall boots to winter riding boots . We also carry an extensive selection of paddock boots and muck boots to keep your feet warm and dry in any weather condition. From the paddock to the show ring, Dover Saddlery is your destination for equestrian boots and footwear.",n
+1066,991,div,,n
+1068,1066,h4,Dover Equestrian Library,n
+1069,1066,p,,n
+1071,1069,strong,Horse Tack and Riding Apparel Resources,n
+1072,1069,text,"What's the best way to care for riding boots? Which hoof boots should I choose for my horse? How do I properly fit an English saddle? You'll find answers to these questions and others in The Dover Library, an authoritative collection of articles related to equestrian apparel, tack, and horse care.",n

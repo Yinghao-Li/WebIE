@@ -1,0 +1,245 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,article,,n
+6,1,div,,n
+17,6,div,,n
+21,17,h2,Shop ALL Supplies!,n
+25,17,div,,n
+26,25,p,,n
+28,26,strong,Visit my Amazon Resource page,n
+29,26,text,recommended products for,n
+33,26,br,", online and in person , plus my",n
+32,26,strong,Tutorial Tidbits,n
+35,26,strong,workshops,n
+38,26,strong,Patreon Page.,n
+39,25,p,,n
+41,39,strong,Supply lists,n
+42,39,text,with helpful Amazon links,n
+44,39,strong,can be found listed below,n
+45,39,text,". I am an Amazon affiliate, so your purchase helps me keep things funded on my end, the price is the same to you.",n
+46,25,p,,n
+48,46,strong,Patreon Subscribers,n
+49,46,text,"can find links in the lists below for products featured in my tutorials, or visit the Amazon Resource Page link listed above.",n
+51,6,div,,n
+58,51,div,,n
+62,58,h3,LANDSCAPE COLLAGE TECHNIQUES,n
+78,58,ul,,n
+83,78,li,to transfer your photo to the board as a sketch,n
+112,78,li,12x16 min to 16x20 max sized deep wood painting panel so that I can wire and hang it without framing. .,n
+272,51,div,,n
+275,272,h2,Fabulous Florals!,n
+293,272,li,,n
+294,293,text,Chalk or,n
+296,293,strong,white conté crayon,n
+297,293,text,",",n
+490,51,div,,n
+494,490,h4,Custom Designed Supplies,n
+495,490,p,,n
+497,495,strong,Birds included in my video lessons,n
+498,495,text,"Cardinal, Bluebird, Oriole, Robin, Chickadee, Hummingbird, BlueJay, Finch",n
+501,495,strong,Available Art Foamies Bird and Branch Stamp sets include,n
+502,495,text,"Cardinal, Oriole, Robin, Bluebird and Flora Elements Pack",n
+503,490,ul,,n
+505,503,li,,n
+509,505,strong,10”,n
+510,505,text,for your underpainting sketch–You can sketch your birds and skip these if you like but they sure are FUN! There are,n
+512,505,strong,FOUR bird stamps with branches,n
+513,505,text,"which line up with four bird lessons in the course but you are not required to purchase the stamps, you can always sketch your birds, or use a combo of both. there are",n
+515,505,strong,FOUR BONUS BIRD LESSONS,n
+516,505,text,included,n
+518,505,strong,EIGHT BIRD PIECES,n
+519,505,text,in this series,n
+521,503,li,,n
+523,521,strong,Art Foamies Flora Elements Pack,y
+524,521,text,for embellishing your birds,n
+526,503,li,,n
+528,526,strong,RubberMoon individual flower and leaf,y
+529,526,text,vulcanized red rubber stamps,y
+531,503,li,,n
+533,531,strong,RubberMoon vulcanized red rubber post mark,y
+535,531,text,stamp set,y
+537,503,li,,n
+539,537,strong,RubberMoon black and white ink pad,n
+541,537,strong,s,n
+544,503,li,,n
+546,544,strong,Art Foamies Stamp Buddies,y
+547,544,text,"for inking up your 10” Bird stamps, load with your own paint",n
+549,503,li,,n
+551,549,strong,Elizabeth St Hilaire Washi Tape,y
+552,549,text,produced by RubberMoon for embellishing your hand-made envelopes–there will also be an option to make envelopes with atlas book pages,n
+568,51,div,,n
+581,568,p,– BASIC SUPPLIES,n
+582,568,ul,,n
+597,582,li,,n
+599,597,strong,10x10 Wood Painting Panel or Cradled Canvas Panel,y
+600,597,text,cradled so that you can add an envelope to the depth of the back (natural wood needs to be primed first with,n
+602,597,strong,GAC-100,n
+603,597,text,and two coats of gesso). Cradled canvas panels are primed and ready to go. We will be creating FOUR projects and you will have FOUR bonus lessons for a total of EIGHT 10x10’s.,n
+605,597,strong,"I am working on Fredrix Cradled Canvas Board,",n
+606,597,text,primed and ready to go,n
+608,582,li,,n
+610,608,strong,P,n
+612,608,strong,aint Brushes,n
+635,582,li,,n
+638,635,text,using,n
+641,635,text,"in the eight projects, feel free to use a combination!",n
+643,582,li,,n
+645,643,strong,"Pencil, Pink Pearl Eraser, Drafting Brush",n
+646,643,text,for use with transfer paper,n
+649,568,p,– SUPPLIES SPECIFIC TO VINTAGE USPS EPHEMERA BACKGROUNDS,n
+650,568,ul,,n
+652,650,li,,n
+654,652,strong,Golden Heavy Gel Matte,y
+655,652,text,for the encaustic effect,n
+660,650,li,for weathered look,n
+662,650,li,,n
+664,662,strong,Tracing paper pad,y
+665,662,text,for grunge edge effect,n
+669,650,li,Black Gesso,y
+672,650,li,,n
+674,672,strong,Black Pastel,y
+675,672,text,stick or,y
+677,672,strong,vine charcoal,y
+680,650,li,,n
+682,680,strong,Ranger Mini Ink Blending Tool,y
+683,680,text,for sepia vignette edge,n
+685,650,li,,n
+687,685,strong,Ranger Archival Ink Pad Sepia,y
+688,685,text,for sepia vignette edge and post stamps,n
+690,650,li,,n
+692,690,strong,Golden Green Blue Interference Fluid Acrylic,y
+693,690,text,for the Hummingbird encaustic ephemera background effect,n
+758,568,p,– SUPPLIES SPECIFIC TO MAKING ENVELOPES FOR THE BACK,n
+759,568,ul,,n
+761,759,li,,n
+763,761,strong,Glue Sticks,y
+764,761,text,"I have a specific brand on the Amazon page that is art quality, matte finish, invisible–for embellishing ready-made envelopes",n
+768,759,li,Washi Tape,y
+771,759,li,,n
+773,771,strong,Oversized Atlas Pages,y
+774,771,text,or maps or fun paper,y
+778,759,li,Tim Holtz Idea-Ology Collage Paper Typeset or Composer,n
+782,759,li,Tim Holtz Collage Ephemera packs,n
+785,568,p,– SUPPLIES SPECIFIC TO ANTIQUING PAPER,n
+786,568,ul,,n
+788,786,li,,n
+790,788,strong,Instant Coffee,y
+791,788,text,for making papers look vintage,n
+793,786,li,,n
+795,793,strong,Vinyl Lace Placemats,y
+796,793,text,for adding pattern to vintage paper effect,n
+799,568,p,– SUPPLIES SPECIFIC TO COLLAGE APPLICATION,n
+800,568,ul,,n
+825,800,li,,n
+827,825,strong,Vintage papers with a US Mail focus,y
+828,825,text,", postcard backs, old letters, addressed envelopes, vintage papers",y
+830,800,li,,n
+832,830,strong,Off-Paper Postage Stamps,y
+833,830,text,for mixed media backgrounds,n
+836,568,p,– SUPPLIES SPECIFIC TO VARNISHING AND FINISHING YOUR WORK,n
+837,568,ul,,n
+839,837,li,,n
+841,839,strong,Golden Satin UVLS Varnish,y
+842,839,text,"I prefer a satin finish, but you may prefer matte or gloss OR",n
+844,837,li,,n
+846,844,strong,Golden Semi Gloss UV Top Coat,y
+847,844,text,"This applies like collage glue, no worries about bubbles, adds brush texture",n
+854,837,li,,n
+856,854,strong,"Clean, soft bristled, flat, wide brushes",y
+857,854,text,for varnishing your work,n
+859,837,li,,n
+861,859,strong,Hanging Hardware,y
+862,859,text,to wire and hang your pieces,n
+864,837,li,,n
+866,864,strong,Permanent Pens,y
+867,864,text,should you decide to handwrite your poems,n
+872,51,div,,n
+876,872,h2,Fabulous Frida and Florals,n
+892,872,ul,,n
+931,892,li,,n
+933,931,strong,Frida Kahlo,n
+934,931,text,"sized up to your substrate in black and white or color, non shiny paper. Look online for resources. Choose one that will size up to what you need, one that is clear and easy to see the details. Consider a head and shoulders shot so that the features are bigger and easier to draw.",n
+936,892,li,,n
+938,936,strong,Ephemera,n
+939,936,text,", sheet music, old letters, Spanish printed material, notes, post cards, etc. I suggest",n
+941,936,strong,Frida Kahlo,n
+942,936,text,", featuring, her own handwriting!",n
+955,892,li,for priming your wood panels UNLESS you are working on a pre-primed surface,n
+1005,872,li,,n
+1007,1005,strong,NOTE,n
+1008,1005,text,you may use watered down white gesso to tone back the background,n
+1179,1,div,,n
+1182,1179,h2,Building Better Backgrounds,n
+1193,1179,p,,n
+1195,1193,strong,Golden Fluid Acrylic Paint Colors and Starter Set,y
+1199,1193,strong,"Golden Gesso, White, Black",y
+1203,1193,strong,Utrecht Extra Heavy Gesso,y
+1211,1193,strong,"Soft Bristle Brushes, Glue Brushes, Painting Brushes, Water Bucket",y
+1215,1193,strong,Makeup Sponges,y
+1219,1193,strong,Spanish Moss,y
+1223,1193,strong,Small Soap Spray Bottles,y
+1227,1193,strong,Dawn Original Blue,y
+1231,1193,strong,Posca Chisel Tip Markers,y
+1235,1193,strong,Posca Fine Tip Markers,y
+1239,1193,strong,Derwent InkTense Pencils,y
+1251,1193,strong,Golden Heavy Molding Paste,y
+1255,1193,strong,Golden Coarse Molding Paste,y
+1259,1193,strong,Golden Hard Molding Paste,y
+1263,1193,strong,Golden Soft Gel Gloss,y
+1267,1193,strong,BIG Princeton Catalyst #24 Flat Brush,y
+1271,1193,strong,Princeton Catalyst #8 Short Handle Filbert,y
+1275,1193,strong,Desk Fan,y
+1279,1193,strong,My Joggles Stencil Designs,y
+1283,1193,strong,Rice Paper 9x12 Sumi-E Sketch pad,y
+1287,1193,strong,Metallic Polka-Dot tissue paper,y
+1291,1193,strong,Mona Lisa Metallic Leaf,y
+1295,1193,strong,Mona Lisa Metallic Leaf Adhesive,y
+1302,1,div,,n
+1309,1302,div,,n
+1323,1309,ul,,n
+1392,1323,li,,n
+1394,1392,strong,Mona Lisa Gold Simple Leaf,n
+1395,1392,text,with transfer papers,n
+1399,1323,li,Metal Leaf Adhesive,n
+1490,1309,p,SUPPLIES SPECIFIC TO PAINTING COLLAGE APPLICATION,n
+1596,1302,div,,n
+1598,1596,h2,Birds and Blooms,n
+1602,1596,ul,,n
+1607,1602,li,"to transfer your photo to the board as a sketch, I prefer this brand",n
+1616,1602,li,Pencil and Eraser,n
+1637,1602,li,I’m working on a 12x12 or 10x10 deep wood painting panel so that I can wire and hang it without framing.,n
+1795,1302,div,,n
+1797,1795,h2,Pet and Animal Portraits,n
+1800,1795,p,SUPPLIES SPECIFIC TO SKETCHING AND UNDER-PAINTING,n
+1801,1795,ul,,n
+1804,1801,li,"Graphite transfer paper to transfer your photo to the board as a sketch, I prefer this brand",y
+1811,1801,li,Eraser,y
+1816,1801,li,Dusting brush,y
+1820,1801,li,"Golden Fluid Acrylic Paint Starter Set for underpainting your subject matter and hand-painting your papers. Keep in mind the colors of your reference photo and your ability to mix color, purchase additional colors of paints accordingly, I suggest starting with 1 oz bottles.",y
+1825,1801,li,Container of Gesso for priming your wood panels and adding white to certain paint colors in order to make them more opaque.,y
+1829,1801,li,Wood Painting Panel I’m working on a 16x20 or 24×20 deep wood painting panel so that I can wire and hang it without framing.,y
+1838,1801,li,Canvas Panels or Fredrix Mixed Media Canvas Board,y
+1842,1801,li,Paint Brushes,y
+1858,1801,li,,n
+1859,1858,text,Ampersand Aquabord Panel this product is a clay coated hardboard that takes paint in a similar manner to paper. I like to use this substrate when,n
+1862,1858,br,I’m planning to leave the background painted. I am using a flat panel which I will frame when finished. If you want to purchase a panel,n
+1864,1858,br,"that does not require framing, they make a deep cradled Aquabord Panel.",n
+1870,1795,p,SUPPLIES SPECIFIC TO HAND-PAINTING PAPER,n
+1874,1795,li,Hard Rubber Brayer,n
+1876,1795,ul,,n
+1879,1876,li,Gel Press Printing Plate 8×10 and or or the BIG one,y
+1892,1876,li,Punchinella or Sequin Waste or Honeycomb Ribbon,y
+1898,1876,li,Princeton Catalyst Wedge,y
+1917,1876,li,"Decorative Papers with fibers, texture or fuzzy edges",y
+1921,1876,li,"Dry Waxed Deli Paper translucent like tissue, but tougher",y
+1942,1795,ul,,n
+1945,1942,li,"Liquitex Gloss Gel Medium this is the collage glue, I use gloss because it keeps the colors more vibrant",n
+1949,1942,li,"Paint Brushes, I like Princeton Catalyst short handle #8 filbert specifically",n
+1993,1302,div,,n
+1995,1993,h3,Monoprinting,n
+1996,1993,ul,,n
+1999,1996,li,Gel Press Reusable 8x10 Monoprinting Plate,y
+2003,1996,li,colors – here’s a good starter set,y
+2007,1996,li,Hard Rubber Brayer,y
+2021,1996,li,Catalyst Wedges,y
+2025,1996,li,Punchinella or Sequin Waste,y

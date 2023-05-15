@@ -1,0 +1,647 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+5,1,div,,n
+9,5,h1,,n
+12,9,div,,n
+14,12,span,"of over 7,000 results for",n
+17,12,span,"""Calligraphy Supplies""",n
+24,9,div,,n
+26,24,label,Sort by,n
+27,24,select,,n
+29,27,option,Featured,n
+31,27,option,Price,n
+33,27,option,Price,n
+35,27,option,Avg. Customer Review,n
+37,27,option,Newest Arrivals,n
+40,24,span,,n
+42,40,span,Sort by,n
+44,40,span,Featured,n
+51,5,div,,n
+53,51,div,,n
+60,53,span,,n
+64,60,div,,n
+78,64,div,,n
+80,78,span,Shop,n
+82,78,span,now,n
+85,64,div,,n
+91,85,div,,n
+92,91,span,,n
+94,92,span,Pretty Simple Lettering,n
+96,92,span,Pretty Simple Lettering,n
+102,91,div,694,n
+108,85,div,,n
+109,108,span,,n
+111,109,span,Lettering and Modern Calligraphy,n
+113,109,span,Lettering and Modern Calligraphy,n
+115,108,div,,n
+117,115,span,5 stars.,n
+119,115,span,749,n
+125,85,div,,n
+126,125,span,,n
+128,126,span,Good Days Start With Gratitude,n
+130,126,span,Good Days Start With Gratitude,n
+136,125,div,282,n
+150,60,div,RESULTS,n
+170,60,div,,n
+190,170,h2,Daveliou Complete 20 Piece Calligraphy Set,y
+199,170,div,771,n
+206,170,div,-14%,n
+261,60,div,,n
+281,261,h2,Daveliou Complete 19 Piece Deluxe Calligraphy Set,y
+290,261,div,189,n
+343,60,div,,n
+347,343,h2,"Dainayw Hand Lettering Pens, Calligraphy Brush Pen, 8 Size Black Markers Set for Artist Sketch, Technical, Beginners Writing, Art Drawings, Signature, Water Color Illustrations, Journaling",y
+356,343,div,799,n
+364,343,div,$11.89,n
+419,60,div,,n
+420,419,div,,n
+423,420,h2,Studio Series Calligraphy Paper Pad,y
+435,420,div,"Dec 1, 2014",n
+444,419,div,339,n
+447,419,div,,n
+448,447,div,,n
+450,448,div,Perfect Paperback,n
+452,448,div,,n
+454,452,span,$9.54,n
+455,452,span,,n
+459,455,span,9,n
+463,455,span,54,n
+506,447,div,$4.75,n
+534,60,div,,n
+538,534,h2,"Tebik Calligraphy Pens Set, 22 Pack Hand Lettering Pens Kit, Calligraphy Markers with for Beginners Writing, Journaling, Signature, Art Drawing, Illustrations, Card Making, Design",y
+547,534,div,460,n
+604,60,div,,n
+612,604,div,Debug info copied.,n
+632,604,div,,n
+642,632,h2,"Calligraphy Brush Pens Pack of 3 Small, Medium and Large Markers for Hand Lettering, Art Drawing, Sketching, Scrapbooking, Journaling - Beginner Kit with Fadeproof Black Ink",y
+651,632,div,050,n
+653,632,div,,n
+655,653,span,-13%,n
+656,653,span,,n
+658,656,span,$5.99,n
+663,656,span,5,n
+715,60,div,,n
+719,715,h2,"U.S. Art Supply 35-Piece Calligraphy Pen Writing Set - 4 Calligraphy Pens, 5 Size Styles of Pen Nibs, 22 Ink Cartridges, Instructional Handbook, Practice Paper Pad - Kids, Students, Adults Starter Kit",y
+728,715,div,999,n
+734,715,div,,n
+736,734,span,$21.99,n
+741,734,span,21,n
+849,60,div,$19.12,n
+877,60,div,,n
+878,877,div,,n
+881,878,h2,Studio Series Calligraphy Pen Set,y
+893,878,div,"Jan 27, 2015",n
+902,877,div,345,n
+906,877,div,,n
+908,906,div,Hardcover,n
+909,906,div,,n
+911,909,span,-9%,n
+912,909,span,,n
+914,912,span,$22.62,n
+915,912,span,,n
+919,915,span,22,n
+923,915,span,62,n
+984,60,div,,n
+988,984,h2,"Brush Marker Coloring Pens,for Bullet Journal Diary Hand Lettering Drawing Plan Calendar Doodle Diy Notes Calligraphy Kids Adult Coloring Book Art Projects School Supplies",y
+991,984,div,,n
+992,991,div,,n
+994,992,div,,n
+996,994,span,$7.99,n
+1001,994,span,7,n
+1009,992,div,40% off promotion available,n
+1028,991,div,Only 12 left in stock - order soon.,n
+1038,60,div,,n
+1046,1038,div,,n
+1048,1046,span,,n
+1050,1048,span,Amazon's,n
+1052,1048,span,Choice,n
+1054,1046,span,for Calligraphy Supplies,n
+1061,1038,div,,n
+1065,1061,h2,"Strathmore STR- 50 Sheet Tape Bound Calligraphy Pad, 8.5 by 11""",y
+1074,1061,div,753,n
+1077,1061,div,,n
+1078,1077,div,,n
+1080,1078,div,,n
+1082,1080,span,$6.89,n
+1087,1080,span,6,n
+1101,1078,div,50% off gift wrap service,n
+1123,1077,div,$4.37,n
+1153,60,div,,n
+1173,1153,h2,"Fountain Dip Pen Writing Quill Vintage Pen with Black Ink 11 Nibs, Calligraphy Pens Set for Beginners HO-Q-301",y
+1182,1153,div,161,n
+1235,60,div,,n
+1239,1235,h2,"Stanpetix Calligraphy Set Wooden Dip Pen 17 Pieces with Calligraphy Pen, 4 Color Inks, 11 Replaceable Nibs, Pen Holder and Elegant Box",y
+1248,1235,div,125,n
+1252,1235,div,,n
+1258,1252,div,Save 13%,n
+1260,1252,div,,n
+1262,1260,span,$13.99,n
+1267,1260,span,13,n
+1281,1252,div,Lowest price in 30 days,n
+1303,60,div,,n
+1311,1303,div,,n
+1314,1311,div,Editorial recommendations,n
+1315,1311,div,,n
+1318,1315,text,The Angle,n
+1320,1315,span,·,n
+1321,1315,text,Earns commissions,n
+1330,1303,span,,n
+1337,1330,li,,n
+1340,1337,h5,The best calligraphy kit,n
+1343,1337,div,"Dec 23, 2021",n
+1353,1337,div,Read full article,n
+1356,1330,li,,n
+1360,1356,div,Best Overall,n
+1368,1356,div,,n
+1372,1368,h2,"Plotube Calligraphy Pen Set – Includes Wooden Dip Pen, Antique Brass Holder, 11 Nibs, 7 Ink Bottle and Beginner's Manual",y
+1381,1368,div,511,n
+1384,1368,div,,n
+1386,1384,span,$32.95,n
+1391,1384,span,32,n
+1422,1330,li,,n
+1426,1422,div,Best Value,n
+1434,1422,div,,n
+1438,1434,h2,SCHOWE Antique Two-Color Feather Pen Quill Pen Dip Pen With Envelope Writing Paper Calligraphy Pen and Ink Set,y
+1447,1434,div,279,n
+1449,1434,div,,n
+1451,1449,span,-29%,n
+1454,1449,span,$16.99,n
+1489,1330,li,Best All-Around,n
+1551,1330,li,,n
+1555,1551,div,Best,n
+1563,1551,div,,n
+1567,1563,h2,"MISULOVE Hand Lettering Pens, Calligraphy Pens, Brush Markers Set, Soft and Hard Tip, Black Ink Refillable - 4 Size for Beginners Writing, Art Drawings, Water Color Illustrations, Journaling",y
+1576,1563,div,861,n
+1579,1563,div,,n
+1581,1579,span,$8.97,n
+1590,1579,span,97,n
+1617,1330,li,,n
+1621,1617,div,Best,n
+1629,1617,div,,n
+1633,1629,h2,"PILOT Parallel 4 Nib Calligraphy Pen Set, 1.5mm, 2.4mm, 3.8mm and 6.0mm Nibs, Includes 4 Black and 4 Red Ink Cartridges",y
+1642,1629,div,916,n
+1644,1629,div,,n
+1646,1644,span,-52%,n
+1647,1644,span,,n
+1649,1647,span,$19.18,n
+1650,1647,span,,n
+1654,1650,span,19,n
+1658,1650,span,18,n
+1799,60,div,,n
+1803,1799,h2,"Dyvicl Hand Lettering Pens, Calligraphy Brush Pens Art Markers for Beginners Writing, Sketching, Art Drawing, Illustration, Scrapbooking, Journaling, Black Ink Pen Set, 12 Size",y
+1812,1799,div,151,n
+1816,1799,div,,n
+1817,1816,div,,n
+1819,1817,span,-6%,n
+1822,1817,span,$16.89,n
+1839,1816,div,,n
+1842,1839,span,10% coupon applied at checkout,n
+1845,1839,span,Save 10%,n
+1882,60,div,,n
+1886,1882,h2,"Primrosia 30 Pastel Acrylic Paint Pens – Extra Fine Tip Marker Set. Art supplies for Bullet Journals, Planners, Drawing, Scrapbooking, Coloring, Calligraphy and Lettering",y
+1895,1882,div,12,n
+1901,1882,div,,n
+1903,1901,span,$41.99,n
+1908,1901,span,41,n
+1955,60,div,,n
+1975,1955,h2,"Quill Pen and Ink Wax Seal Stamp Set,includes Quill Pen,Glass Dipping Pen,Wooden Dipping Pen,6 Bottles of Ink,8 Sheets of Writing Paper,Envelope,Wax Granules,Round Wax-Green",y
+1984,1955,div,330,n
+1990,1955,div,,n
+1992,1990,span,$35.00,n
+1993,1990,span,,n
+1997,1993,span,35,n
+2001,1993,span,00,n
+2037,60,div,,n
+2041,2037,h2,MULHUE Pottery Porcelain Multifunctional Ink Dish,y
+2043,2037,div,,n
+2047,2043,span,5 stars,n
+2050,2043,span,32,n
+2058,2037,div,$11.99,n
+2103,60,div,,n
+2107,2103,h2,"20Pcs Multifunction Plastic Ink Dish Plate with Brush Pen Rest Holder Chinese Calligraphy Painting Practice Ink Dish Calligraphy Supplies, White",y
+2116,2103,div,3,n
+2153,2103,div,Only 13 left in stock - order soon.,n
+2173,60,div,,n
+2177,2173,h2,"Arteza Real Brush Pens, 48 Colors, Watercolor Markers with Flexible Nylon Brush Tips, 0.5-mm Line Size, Art Supplies for Creating Illustrations, Calligraphy, and Watercolor Effects",y
+2186,2173,div,222,n
+2189,2173,div,,n
+2190,2189,div,,n
+2192,2190,div,,n
+2194,2192,span,$36.99,n
+2199,2192,span,36,n
+2207,2190,div,,n
+2210,2207,div,$33.29 with Subscribe and Save discount,n
+2212,2207,div,,n
+2215,2212,span,20% coupon applied at checkout,n
+2218,2212,span,Save 20%,n
+2242,2189,div,$33.89,n
+2270,60,div,,n
+2274,2270,h2,60 Colors Dual Tip Brush Pens-Fine and Brush Point Coloring Markers for Drawing Calligraphy Sketching Book Journal Kids Beginners Calligraphy Artists Adults,y
+2283,2270,div,848,n
+2289,2270,div,,n
+2291,2289,span,$17.99,n
+2296,2289,span,17,n
+2451,60,div,,n
+2471,2451,h2,Hethrone Calligraphy Pens Set,y
+2480,2451,div,327,n
+2529,60,div,,n
+2531,2529,span,Previous,n
+2533,2529,span,1,n
+2534,2529,text,2 3,n
+2538,2529,span,20,n
+2539,2529,text,Next,n
+2545,60,div,,n
+2549,2545,div,Need help?,n
+2550,2545,div,,n
+2551,2550,text,Visit the help section,n
+2553,2550,span,or,n
+2554,2550,text,contact us,n
+2562,53,div,Go back to filtering menu,n
+2568,51,div,,n
+2570,2568,div,Skip to main search results,n
+2576,2568,div,,n
+2577,2576,div,,n
+2580,2577,div,Eligible,n
+2583,2577,li,,n
+2589,2583,span,Free Shipping by Amazon,n
+2592,2583,div,All customers get FREE Shipping on orders over $25 shipped by Amazon,n
+2593,2576,div,,n
+2596,2593,div,Climate Pledge Friendly,n
+2605,2593,li,Climate Pledge Friendly,n
+2606,2576,div,,n
+2609,2606,div,Department,n
+2610,2606,ul,,n
+2614,2610,li,"Painting, Drawing and Art Supplies",n
+2618,2610,li,Drawing Pens,n
+2622,2610,li,Drawing Markers,n
+2626,2610,li,Calligraphy Pens,n
+2630,2610,li,Paper Craft Supplies,n
+2634,2610,li,Books,n
+2638,2610,li,Calligraphy Guides,n
+2642,2610,li,Pen and Ink Drawing,n
+2646,2610,li,Mixed-Media Craft,n
+2649,2610,li,,n
+2651,2649,ul,,n
+2655,2651,li,"Arts, Crafts and Sewing",n
+2659,2651,li,Office Products,n
+2663,2651,li,Electronics,n
+2667,2651,li,Home and Kitchen,n
+2671,2651,li,Industrial and Scientific,n
+2675,2651,li,Toys and Games,n
+2679,2651,li,"Health, Household and Baby Care",n
+2683,2651,li,Tools and Home Improvement,n
+2687,2651,li,Beauty and Personal Care,n
+2691,2651,li,Automotive Parts and Accessories,n
+2695,2651,li,Sports and Outdoors,n
+2697,2649,span,See All 15 Departments,n
+2698,2576,div,,n
+2701,2698,div,Customer Reviews,n
+2702,2698,ul,,n
+2707,2702,li,4 Stars and Up,n
+2714,2702,li,3 Stars and Up,n
+2721,2702,li,2 Stars and Up,n
+2728,2702,li,1 Star and Up,n
+2731,2576,div,,n
+2734,2731,div,Brand,n
+2735,2731,ul,,n
+2743,2735,li,Sakura,n
+2751,2735,li,Tombow,n
+2759,2735,li,Pentel,n
+2767,2735,li,ARTEZA,n
+2775,2735,li,Cricut,n
+2783,2735,li,uni,n
+2791,2735,li,Faber-Castell,n
+2804,2735,li,STAEDTLER,n
+2807,2576,div,,n
+2810,2807,div,Price,n
+2811,2807,ul,,n
+2815,2811,li,Under $25,n
+2819,2811,li,$25 to $50,n
+2823,2811,li,$50 to $100,n
+2827,2811,li,$100 to $200,n
+2831,2811,li,$200 and Above,n
+2852,2807,div,Deals,n
+2861,2807,li,Today's Deals,n
+2862,2576,div,,n
+2865,2862,div,Writing Instrument Ink Color,n
+2866,2862,ul,,n
+2874,2866,li,Aqua,n
+2882,2866,li,Black,n
+2890,2866,li,Blue,n
+2898,2866,li,Brown,n
+2906,2866,li,Gold,n
+2914,2866,li,Gray,n
+2922,2866,li,Green,n
+2927,2866,li,,n
+2935,2927,li,Multicolor,n
+2943,2927,li,Pink,n
+2951,2927,li,Purple,n
+2959,2927,li,Red,n
+2967,2927,li,Silver,n
+2975,2927,li,Turquoise,n
+2983,2927,li,White,n
+2991,2927,li,Yellow,n
+2996,2862,div,Writing Instrument Features,n
+2997,2862,ul,,n
+3005,2997,li,Eco Friendly,n
+3013,2997,li,Erasable,n
+3021,2997,li,Lightweight,n
+3029,2997,li,Non Toxic,n
+3037,2997,li,Refillable,n
+3045,2997,li,Washable,n
+3048,2862,div,Writing Instrument Included Components,n
+3049,2862,ul,,n
+3057,3049,li,Ink Bottle,n
+3065,3049,li,Ink Cartridge,n
+3073,3049,li,Storage Case,n
+3076,2862,div,Writing Instrument Closure Type,n
+3077,2862,ul,,n
+3085,3077,li,Retractable,n
+3093,3077,li,Screw Off Cap,n
+3101,3077,li,Twist,n
+3104,2862,div,Writing Instrument Theme,n
+3105,2862,ul,,n
+3113,3105,li,Fantasy,n
+3121,3105,li,Floral,n
+3129,3105,li,Rainbow,n
+3132,2862,div,Writing Instrument Material,n
+3133,2862,ul,,n
+3141,3133,li,Cardboard,n
+3149,3133,li,Ceramic,n
+3157,3133,li,Feather,n
+3165,3133,li,Glass,n
+3173,3133,li,Leather,n
+3181,3133,li,Metal,n
+3189,3133,li,Plastic,n
+3197,3133,li,Resin,n
+3205,3133,li,Rubber,n
+3213,3133,li,Silicone,n
+3221,3133,li,Stone,n
+3229,3133,li,Wood,n
+3232,2862,div,Writing Instrument Hand Orientation,n
+3241,2862,li,Ambidextrous,n
+3244,2862,div,Subscription Options,n
+3253,2862,li,Subscribe and Save Eligible,n
+3256,2862,div,From Our Brands,n
+3265,2862,li,Our Brands,n
+3268,2862,div,Packaging Option,n
+3277,2862,li,Frustration-Free Packaging,n
+3280,2862,div,International Shipping,n
+3289,2862,li,International Shipping Eligible,n
+3292,2862,div,Condition,n
+3293,2862,ul,,n
+3297,3293,li,New,n
+3301,3293,li,Collectible,n
+3305,3293,li,Used,n
+3308,2862,div,Availability,n
+3317,2862,li,Stock,n
+3365,1,div,,n
+3368,3365,div,Back to top,n
+3370,3365,div,,n
+3371,3370,div,,n
+3373,3371,div,Get to Know Us,n
+3374,3371,ul,,n
+3376,3374,li,Careers,n
+3378,3374,li,Amazon Newsletter,n
+3380,3374,li,About Amazon,n
+3382,3374,li,Sustainability,n
+3384,3374,li,Press Center,n
+3386,3374,li,Investor Relations,n
+3388,3374,li,Amazon Devices,n
+3390,3374,li,Amazon Science,n
+3392,3370,div,,n
+3394,3392,div,Make Money with Us,n
+3395,3392,ul,,n
+3397,3395,li,Sell products on Amazon,n
+3399,3395,li,Sell apps on Amazon,n
+3401,3395,li,Supply to Amazon,n
+3403,3395,li,Become an Affiliate,n
+3405,3395,li,Become a Delivery Driver,n
+3407,3395,li,Start a package delivery business,n
+3409,3395,li,Advertise Your Products,n
+3411,3395,li,Self-Publish with Us,n
+3413,3395,li,Host an Amazon Hub,n
+3414,3395,li,,n
+3416,3414,span,›,n
+3417,3414,text,See More Ways to Make Money,n
+3419,3370,div,,n
+3421,3419,div,Amazon Payment Products,n
+3422,3419,ul,,n
+3424,3422,li,Amazon Rewards Visa Signature Cards,n
+3426,3422,li,Amazon Store Card,n
+3428,3422,li,Amazon Secured Card,n
+3430,3422,li,Amazon Business Card,n
+3432,3422,li,Shop with Points,n
+3434,3422,li,Credit Card Marketplace,n
+3436,3422,li,Reload Your Balance,n
+3438,3422,li,Amazon Currency Converter,n
+3440,3370,div,,n
+3442,3440,div,Let Us Help You,n
+3443,3440,ul,,n
+3445,3443,li,Amazon and COVID-19,n
+3447,3443,li,Your Account,n
+3449,3443,li,Your Orders,n
+3451,3443,li,Shipping Rates and Policies,n
+3453,3443,li,Amazon Prime,n
+3455,3443,li,Returns and Replacements,n
+3457,3443,li,Manage Your Content and Devices,n
+3459,3443,li,Amazon Assistant,n
+3461,3443,li,Help,n
+3468,3365,div,,n
+3471,3468,span,English,n
+3474,3468,span,Choose a language,n
+3477,3468,span,United States,n
+3479,3468,span,Choose a country or region,n
+3482,3365,div,,n
+3483,3482,tr,,n
+3484,3483,td,,n
+3485,3484,text,Amazon Music,n
+3487,3484,span,,n
+3488,3487,text,Stream millions,n
+3490,3487,br,of songs,n
+3492,3483,td,,n
+3493,3492,text,Amazon Advertising,n
+3495,3492,span,,n
+3496,3495,text,"Find, attract, and",n
+3498,3495,br,engage customers,n
+3500,3483,td,,n
+3501,3500,text,Amazon Drive,n
+3503,3500,span,,n
+3504,3503,text,Cloud storage,n
+3506,3503,br,from Amazon,n
+3508,3483,td,,n
+3509,3508,text,6pm,n
+3511,3508,span,,n
+3512,3511,text,Score deals,n
+3514,3511,br,on fashion brands,n
+3516,3483,td,,n
+3517,3516,text,AbeBooks,n
+3519,3516,span,,n
+3520,3519,text,"Books, art",n
+3522,3519,br,and collectibles,n
+3524,3483,td,,n
+3525,3524,text,ACX,n
+3528,3524,span,Audiobook Publishing,n
+3532,3483,td,,n
+3533,3532,text,Alexa,n
+3535,3532,span,,n
+3536,3535,text,Actionable Analytics,n
+3538,3535,br,for the Web,n
+3541,3482,tr,,n
+3542,3541,td,,n
+3543,3542,text,Sell on Amazon,n
+3546,3542,span,Start a Selling Account,n
+3548,3541,td,,n
+3549,3548,text,Amazon Business,n
+3551,3548,span,,n
+3552,3551,text,Everything For,n
+3554,3551,br,Your Business,n
+3556,3541,td,,n
+3557,3556,text,Amazon Fresh,n
+3559,3556,span,,n
+3560,3559,text,Groceries and More,n
+3562,3559,br,Right To Your Door,n
+3564,3541,td,,n
+3565,3564,text,AmazonGlobal,n
+3567,3564,span,,n
+3568,3567,text,Ship Orders,n
+3570,3567,br,Internationally,n
+3572,3541,td,,n
+3573,3572,text,Home Services,n
+3575,3572,span,,n
+3576,3575,text,Experienced Pros,n
+3578,3575,br,Happiness Guarantee,n
+3580,3541,td,,n
+3581,3580,text,Amazon Ignite,n
+3583,3580,span,,n
+3584,3583,text,Sell your original,n
+3586,3583,br,Digital Educational,n
+3588,3583,br,Resources,n
+3590,3541,td,,n
+3591,3590,text,Amazon Web Services,n
+3593,3590,span,,n
+3594,3593,text,Scalable Cloud,n
+3596,3593,br,Computing Services,n
+3599,3482,tr,,n
+3600,3599,td,,n
+3601,3600,text,Audible,n
+3603,3600,span,,n
+3604,3603,text,Listen to Books and Original,n
+3606,3603,br,Audio Performances,n
+3608,3599,td,,n
+3609,3608,text,Book Depository,n
+3611,3608,span,,n
+3612,3611,text,Books With Free,n
+3614,3611,br,Delivery Worldwide,n
+3616,3599,td,,n
+3617,3616,text,Box Office Mojo,n
+3619,3616,span,,n
+3620,3619,text,Find Movie,n
+3622,3619,br,Box Office Data,n
+3624,3599,td,,n
+3625,3624,text,ComiXology,n
+3627,3624,span,,n
+3628,3627,text,Thousands of,n
+3630,3627,br,Digital Comics,n
+3632,3599,td,,n
+3633,3632,text,DPReview,n
+3635,3632,span,,n
+3636,3635,text,Digital,n
+3638,3635,br,Photography,n
+3640,3599,td,,n
+3641,3640,text,Fabric,n
+3643,3640,span,,n
+3644,3643,text,"Sewing, Quilting",n
+3646,3643,br,and Knitting,n
+3648,3599,td,,n
+3649,3648,text,Goodreads,n
+3651,3648,span,,n
+3652,3651,text,Book reviews,n
+3654,3651,br,and recommendations,n
+3657,3482,tr,,n
+3658,3657,td,,n
+3659,3658,text,IMDb,n
+3661,3658,span,,n
+3662,3661,text,"Movies, TV",n
+3664,3661,br,and Celebrities,n
+3666,3657,td,,n
+3667,3666,text,IMDbPro,n
+3669,3666,span,,n
+3670,3669,text,Get Info Entertainment,n
+3672,3669,br,Professionals Need,n
+3674,3657,td,,n
+3675,3674,text,Kindle Direct Publishing,n
+3678,3674,span,Indie Digital and Print Publishing,n
+3682,3657,td,,n
+3683,3682,text,Amazon Photos,n
+3685,3682,span,,n
+3686,3685,text,Unlimited Photo Storage,n
+3688,3685,br,Free With Prime,n
+3690,3657,td,,n
+3691,3690,text,Prime Video Direct,n
+3694,3690,span,Video Distribution,n
+3698,3657,td,,n
+3699,3698,text,Shopbop,n
+3701,3698,span,,n
+3702,3701,text,Designer,n
+3704,3701,br,Fashion Brands,n
+3706,3657,td,,n
+3707,3706,text,Amazon Warehouse,n
+3709,3706,span,,n
+3710,3709,text,Great Deals on,n
+3712,3709,br,Quality Used Products,n
+3715,3482,tr,,n
+3716,3715,td,,n
+3717,3716,text,Whole Foods Market,n
+3719,3716,span,,n
+3720,3719,text,America’s Healthiest,n
+3722,3719,br,Grocery Store,n
+3724,3715,td,,n
+3725,3724,text,Woot!,n
+3727,3724,span,,n
+3728,3727,text,Deals and,n
+3730,3727,br,Shenanigans,n
+3732,3715,td,,n
+3733,3732,text,Zappos,n
+3735,3732,span,,n
+3736,3735,text,Shoes and,n
+3738,3735,br,Clothing,n
+3740,3715,td,,n
+3741,3740,text,Ring,n
+3743,3740,span,,n
+3744,3743,text,Smart Home,n
+3746,3743,br,Security Systems,n
+3748,3715,td,,n
+3749,3748,text,eero WiFi,n
+3751,3748,span,,n
+3752,3751,text,Stream 4K Video,n
+3754,3751,br,in Every Room,n
+3756,3715,td,,n
+3757,3756,text,Blink,n
+3759,3756,span,,n
+3760,3759,text,Smart Security,n
+3762,3759,br,for Every Home,n
+3764,3715,td,,n
+3765,3764,text,Neighbors App,n
+3767,3764,span,,n
+3768,3767,text,Real-Time Crime,n
+3770,3767,br,and Safety Alerts,n
+3773,3482,tr,,n
+3777,3773,td,,n
+3778,3777,text,Amazon Subscription Boxes,n
+3781,3777,span,Top subscription boxes – right to your door,n
+3783,3773,td,,n
+3784,3783,text,PillPack,n
+3787,3783,span,Pharmacy Simplified,n
+3789,3773,td,,n
+3790,3789,text,Amazon Renewed,n
+3792,3789,span,,n
+3793,3792,text,Like-new products,n
+3795,3792,br,you can trust,n
+3799,3365,div,,n
+3800,3799,ul,,n
+3802,3800,li,Use,n
+3804,3800,li,Privacy Notice,n
+3806,3800,li,Interest-Based Ads,n
+3808,3799,span,"©, Amazon.com, Inc. or its affiliates",n

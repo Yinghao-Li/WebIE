@@ -1,0 +1,173 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+29,0,div,,n
+43,29,h1,Crossfit Equipment List,n
+44,29,div,,n
+48,44,h2,Contents,n
+51,44,ul,,n
+53,51,li,Crossfit Equipment,y
+55,51,li,Accessories,y
+63,51,li,Boxes,y
+65,51,li,Bumper Weights,y
+71,51,li,Jump Ropes,y
+89,29,div,,n
+91,89,h2,Crossfit Equipment,y
+93,89,p,"Crossfit is a multidisciplinary sport that utilizes functional movements to produce difficult workouts. What makes it multidisciplinary is the fact that there is Olympic lifting, calisthenics, free weight exercises, long distance running, sprints, and even swims incorporated into the workouts. For this reason, a good amount of equipment is needed in order to participate in the sport.",n
+97,29,div,,n
+99,97,h2,Accessories,y
+101,97,p,"Crossfit is a sport with multiple disciplines of fitness, so there will be a lot of accessories that cover all of them. For example, you need a barbell and bumper plates for Olympic lifts such as power cleans and jerks. However, you will also need kettlebells for swings, presses, squats, and many more. The key to being successful in crossfit is having the necessary equipment to participate in the workouts. You can always improvise, but having the ones listed down below are highly recommended.",n
+102,29,div,,n
+104,102,h2,Barbells,y
+106,102,p,"If you are going to get into crossfit, then it is almost impossible to avoid compound lifts such as the deadlift, back squat, press, snatch, and the clean and jerk. All of these lifts are done with barbells.",n
+108,102,p,"The standard barbell in crossfit is the Olympic bar. This is 7.2 feet tall, 2 inches in diameter, and weighs 45 pounds. These are about $300.",n
+110,102,p,"Another common barbell in a crossfit gym is the hex-bar. This is a hexagonal bar that you can step into, and do exercises such as deadlifts, or farmer walks. This allows the barbell to be at the center of your body. When you do deadlifts with a traditional barbell, the weight is out in front of you and puts more pressure on your back. They can cost between $90-250.",n
+111,29,div,,n
+113,111,h2,Barbell Safety Collars,y
+115,111,p,"A huge part of crossfit is training with barbells. This is naturally going to be dangerous because you are loading weight on either end of the barbell, and throwing it around for Olympic lifts. A step you can take to prevent any injuries is getting some barbell collars. These attach to the outside of the barbell and keep your weight in place so it does not slip out. If you do not have collars, your weight may begin to slip to the outside of your barbell, and cause you to tip over.",n
+117,111,p,"These come in different shapes and styles, so here are some things you should consider.",n
+119,111,p,"First, you should look into what type of collar you want. There are two main types of collars: spring clip and hexagon clip.",n
+121,111,p,The spring clip has a plastic end to it where you can squeeze and expand the clip so it can slide into the barbell. They cost about $20.,n
+123,111,p,"Hexagon clips are made of plastic or nylon, and have rubber interiors that hold the bar in place. You can simply flip a latch and the barbell is secure. It is quicker and more efficient than the spring clip, but both get the job done. A good hexagon clip can cost $22.",n
+124,29,div,,n
+126,124,h2,Battle Ropes,y
+128,124,p,"Some people do not get into crossfit because it is difficult, but most of the equipment is fun to use. One of those is the battle rope. This is a thick rope that is wrapped around a floor anchor. It is a versatile exercise modality that trains power, endurance, and strength. On top of that, you are using your entire body during movements, making it an extremely functional piece of equipment. Battle ropes come in different lengths and weights, so prices can range from $50-90.",n
+130,124,p,exercises you can do with battle ropes:,n
+131,124,ul,,n
+133,131,li,Rope Slams,y
+135,131,li,Rope Russian Twists,y
+137,124,p,"With a battle rope slam exercise you start with the rope down by your legs, raise them up above your head while getting on your toes, and then slam hard. This trains your shoulders, legs and core.",n
+139,124,p,"With a battle rope Russian twist exercise you start in a seated position with the rope on one side of your body. Then you twist your torso while keeping your legs still and slam the rope on the other side. You should lean back far enough to feel this in your core, but not too far back where you fall.",n
+140,29,div,,n
+142,140,h2,Boxes,y
+145,140,p,"Crossfit boxes are used for box jumps. They are also known as plyo-boxes because they are short for plyometric. Plyometric exercises are anything that is explosive; for example, box jumps and clapping push ups.",n
+147,140,p,These boxes vary in height and material so you should get a box that you are capable of jumping on and off of.,n
+149,140,p,"They are also made of different materials. Crossfit boxes can be wooden boxes, but they can also be metal or soft cubes. The soft cubes are the best for exercises like box jumps because if you fall, you will not scrape your shins. However, they are much more expensive than wooden and metal boxes.",n
+151,140,p,the soft cubes can cost up to $975.,n
+153,140,p,metal boxes are about $270.,n
+155,140,p,wooden boxes is about $125.,n
+156,140,div,,n
+158,156,h2,Bumper Weights,y
+160,156,p,"In a traditional gym, weights are made of metal and are not meant to be slammed on the floor. However, in crossfit, bumper plates are used. These are weights that are slid onto each side of a barbell. They are made of rubber which makes the weight bounce in the air after it is used, and is therefore less likely to break.",n
+162,156,p,"Each bumper has a label of how much it weighs on the side, and some are even color coordinated.",n
+164,156,p,There are regular bumper weights and ones used for competition. The ones used in competition do not bounce as much. This lets you grab your bar right away and start your next repetition.,n
+166,156,p,"People should be careful while using bumper plates because of their tendency to bounce. You should be constantly aware of where your barbell is, and should not throw it.",n
+168,156,p,"Also, when buying bumper plates, you will notice that some of them are labeled ""kg"" for kilogram. To convert it to pounds, take the number of kilograms and multiply it by 2.2.",n
+170,156,p,"The cost of bumper plates varies depending on how many pounds are in a set. They range from $295 for a 160 pound set, to about $1,500 for a 1,000 pound set.",n
+171,140,div,,n
+173,171,h2,Cross Training Shoes,y
+175,171,p,Cross training shoes are exactly what they sound like,n
+179,171,p,"When looking for a cross training shoe, it should have extra heel support, increased midsole material, and a breathable outer later. The heel support is for support during jumping and Olympic lifts. Increased midsole material gives you more grip on rope climbs and supports you during squats. Lastly, the breathable outer layer allows your feet to cool down.",n
+181,171,p,They can range from $80 to $150 depending on the brand.,n
+182,140,div,,n
+184,182,h2,Dumbbells,y
+186,182,p,"When talking about crossfit equipment, it does not get more versatile than dumbbells. They are basically miniature barbells you can hold in your hands, but their weights can be already attached, and you can do a variety of exercises with them. You can do lower body, upper body, and core as well as strength, plyometric, or bodybuilding exercises.",n
+190,182,p,"Dumbbells vary in weight, but the same rules apply no matter how heavy or light you are lifting: do not throw your dumbbells. This puts yourself, as well as other people at the gym, at risk for injury. The last thing you want is to drop and dumbbell on your toe.",n
+192,182,p,"Training with dumbbells also allows you to do unilateral movements, or movements with one arm. This can help strengthen any muscular imbalances you may have, and can develop core strength in the process.",n
+194,182,p,"Dumbbells can either come in block sets where you can adjust the weight with a button, or in individual sets.",n
+196,182,p,"Block sets are about $150 to $300, and individual sets up to 50 pounds can be $660.",n
+197,140,div,,n
+199,197,h2,Jump Ropes,y
+201,197,p,"Jumping rope is one of the more simple exercises in crossfit, but it has legitimate benefits. It helps with footwork, endurance, speed, and coordination. In crossfit, it is common to do double-unders, which is when the rope does two revolutions around you.",n
+203,197,p,"Beginners should use larger ropes to first get some rhythm, but once you start doing double-unders you will need a jump rope that is thin and lightweight.",n
+205,197,p,"When buying a jump rope you should also consider how tall you are. Obviously, the taller you are, the longer rope you will need. It also helps to get a rope that is adjustable.",n
+207,197,p,A quality lightweight rope can cost between $20 and $50.,n
+208,140,div,,n
+210,208,h2,Kettlebells,y
+212,208,p,"Unlike dumbbells, kettlebells have their center of mass away from their handle, so you are able to swing and do explosive movements with it. A common exercise in crossfit is the kettlebell swing, where you hang the weight in between your legs and use your hips to swing the weight up to your shoulders, and back down; creating a pendulum with your arms.",n
+214,208,p,When looking for kettlebells you should consider the size of the handle and what the kettlebell is made out of. You should not pick one you cannot grip because the handle is too wide. It can be made out of steel or powder coating.,n
+216,208,p,They can cost between $20 and $200 depending on the weight and material.,n
+217,140,div,,n
+219,217,h2,Medicine Balls,y
+221,217,p,Medicine balls are another piece of equipment that come in different sizes and styles. They are made to either bounce or slam.,n
+223,217,p,Rubber balls that have air in them bounce back to you when you throw them against a wall or the floor. You just need to have quick reflexes for when it comes back.,n
+225,217,p,"Medicine balls can also be filled with sand and used to slam. The difference is that it does not bounce back, so you will have to pick it up to start another repetition.",n
+227,217,p,"Depending on the size, style and how many are in a set, they can cost between $20 and $150.",n
+228,140,div,,n
+230,228,h2,Power Rack,y
+232,228,p,"Heavy lifting is often done in crossfit, so it is recommended to invest in a power rack. These racks are for when you are doing power lifts such as back squats, front squats, rack pulls, presses or even shoulder shrugs. Each rack comes with hooks that can be put into holes of the rack.",n
+234,228,p,"These hooks are for when you rack, or put back, your weight, and are adjusted based on your height. Generally, you want the hooks at shoulder level. Some power racks even have a pull up bar attached so you can do pull ups or muscle ups; which is when you pull yourself up to the bar and do a chest dip at the top.",n
+236,228,p,Power racks can be about $500.,n
+237,140,div,,n
+239,237,h2,Pushing Sled,y
+241,237,p,"If your goal is to increase your power, then you definitely need to invest in a sled. They can be pushed, pulled or dragged. Here is how it works.",n
+243,237,p,"The sled comes with two long poles and fits into holes at the front of the sled. To add resistance, take some bumper plates and place them on the pole on the middle of the sled. Now you are ready to roll, or push, in this case.",n
+245,237,p,"By placing your hands on the poles and driving your legs, you are able to move the sled with your entire body.",n
+247,237,p,"To pull or drag the sled, you can place a suspension rope, which usually is sold separately, onto the back of the sled if there is a place to put it. Some sleds do, but others are strictly for pushing.",n
+249,237,p,Sled prices can range from $.,n
+250,140,div,,n
+252,250,h2,Sprint Bike,y
+254,250,p,"Sprint bikes, or assault bikes, are stationary bikes used to train endurance in crossfit. Although they are used to train endurance, they are usually not used for long distances, hence the name.",n
+256,250,p,"When using a sprint bike, you usually exercise in short intervals between 10-45 seconds. The point of the exercise is to increase power output, and most bikes have a screen on them that tells you how many watts of energy you are putting out. If you have a trainer, they may tell you to keep it at 500 watts when sprinting, and 200 while cooling down in between sets.",n
+258,250,p,Prices range from $300 to $1200.,n
+259,140,div,,n
+261,259,h2,Weighted Vests,y
+263,259,p,"If running , jumping, or push ups weren't hard enough, sometimes crossfit workouts require a weighted vest. This is just a way to add some extra resistance to your exercises.",n
+267,259,p,"Wearing these vests during a workout session improves your strength and endurance. Some can weigh up to 140 pounds, but even a small increase of 10 pounds can make a significant difference on how you work out. Good news is, the weights can be adjusted on your vest.",n
+269,259,p,"These vests vary in weight so you should pick one that you can handle, and should start off light and increase weight as you get stronger. You should also pick a vest that is snug, so it does not move around a lot during your workout.",n
+271,259,p,"They can range between $20 and $400 depending on the weight, brand, and style.",n
+272,140,div,,n
+274,272,h2,Yoga Mats,y
+277,272,p,"Floor gyms are going to be dirty and uncomfortable, so you should have a yoga mat with you because you may do exercises on the ground during your session.",n
+279,272,p,"Yoga mats are used for stretching, core exercises such as planks and v-ups, and body weight exercises like push ups and cobras.",n
+281,272,p,"The mat provides an extra cushion so your back, knees, or hands are not irritated by the floor and can prevent you from slipping. It also can prevent any unnecessary bacteria from getting on your skin.",n
+283,272,p,Most are about six feet long and are made of foam. They usually cost $16 to $70.,n
+284,140,div,,n
+286,284,h2,FAQ,n
+287,284,div,,n
+288,287,div,,n
+291,288,h3,What Equipment do you Need,n
+293,288,div,,n
+296,293,p,Some equipment you will need to do crossfit,n
+297,293,ul,,n
+307,297,li,Bumper weights,y
+319,297,li,Boxes,y
+321,297,li,Jump rope,y
+329,287,div,,n
+332,329,h3,What Makes Crossfit Equipment Unique?,n
+334,329,div,,n
+336,334,p,"Crossfit equipment is unique because of its versatility. The unpredictability of the competitions requires the equipment used during training to have multifunctional use. For example, kettlebells can be used for strength exercises such as squats, presses, or rows. They can also be used for power exercises such as swings and weighted squat jumps.",n
+338,334,p,"Battle ropes are another versatile piece of equipment. They are usually attached to the ground, which allows you to move each individual rope in a drumming motion or slamming them at the same time. They can also be used for jumping jacks, jump slams, and even Russian twists, which is a core exercise.",n
+339,287,div,,n
+342,339,h3,What is the Most Important Crossfit Equipment to Buy?,n
+346,339,p,"The most important crossfit equipment to buy have to be shoes, free weights , medicine balls, a power rack, and some yoga mats. These are the most important and simplest pieces of equipment you can buy for several reasons. First, free weights can be used for virtually any type of exercise; Whether it is Olympic lifts or explosive movements. Second, a power rack is essential for barbell movements such as squats and presses, but they can also be used for pull ups and stretching.",n
+347,287,div,,n
+350,347,h3,What is the Estimated Total Cost,n
+354,347,p,"Crossfit equipment can be pretty expensive, but that should not deter you from participating in the sport. Dumbbells and kettlebells can vary in cost depending on how much they weigh, but if you want to buy a set of different weights it can cost you about $200 to $300 dollars for kettlebells and $1200 to $1400 for dumbbells. Barbells can cost about $200 and their sets of bumper plates can cost up to $1000. Medicine balls can cost up to $100 depending on the weight. A good yoga mat can cost about $40. A sturdy power rack comes out to about $350.",n
+358,140,div,,n
+360,358,h2,Pages Related to Crossfit Equipment List,n
+361,358,ul,,n
+363,361,li,Crossfit Skills,n
+365,361,li,List Of Crossfit Exercises,n
+367,361,li,How Does Scoring Work In Crossfit?,n
+369,361,li,10 Most Common Crossfit Injuries,n
+371,361,li,CrossFit,n
+373,361,li,Crossfit 101,n
+377,140,footer,,n
+378,377,div,,n
+379,378,div,,n
+381,379,span,Company,n
+382,379,ul,,n
+384,382,li,About,n
+386,382,li,Careers,n
+388,382,li,Shop,n
+389,378,div,,n
+391,389,span,Contact,n
+394,389,li,Contact Us,n
+397,378,div,,n
+399,397,span,Legal,n
+400,397,ul,,n
+402,400,li,Terms,n
+404,400,li,Privacy,n
+405,378,nav,,n
+407,405,span,Social,n
+408,405,ul,,n
+410,408,li,Facebook,n
+412,408,li,Instagram,n
+414,408,li,LinkedIn,n
+416,408,li,Medium,n
+418,408,li,Pinterest,n
+420,408,li,Twitter,n
+422,408,li,YouTube,n
+423,377,div,,n
+425,423,span,Rookie Road may earn a commission when you buy through links on our site.,n
+427,423,span,Copyright ©Rookie Road Inc. All rights reserved.,n

@@ -1,0 +1,416 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+6,1,div,Search Browse Explore Your Job Alerts Your Saved Jobs,n
+11,1,div,,n
+16,11,div,Keywords,n
+18,11,div,,n
+19,18,span,,n
+20,19,select,,n
+22,20,option,Search All Locations,n
+24,20,option,Alabama,n
+26,20,option,Alaska,n
+28,20,option,Arizona,n
+30,20,option,Arkansas,n
+32,20,option,California,n
+34,20,option,Colorado,n
+36,20,option,Connecticut,n
+38,20,option,D.C.,n
+40,20,option,Delaware,n
+42,20,option,Florida,n
+44,20,option,Georgia,n
+46,20,option,Hawaii,n
+48,20,option,Idaho,n
+50,20,option,Illinois,n
+52,20,option,Indiana,n
+54,20,option,Iowa,n
+56,20,option,Kansas,n
+58,20,option,Kentucky,n
+60,20,option,Louisiana,n
+62,20,option,Maine,n
+64,20,option,Maryland,n
+66,20,option,Massachusetts,n
+68,20,option,Michigan,n
+70,20,option,Minnesota,n
+72,20,option,Mississippi,n
+74,20,option,Missouri,n
+76,20,option,Montana,n
+78,20,option,Nationwide,n
+80,20,option,Nebraska,n
+82,20,option,Nevada,n
+84,20,option,New Hampshire,n
+86,20,option,New Jersey,n
+88,20,option,New Mexico,n
+90,20,option,New York,n
+92,20,option,North Carolina,n
+94,20,option,North Dakota,n
+96,20,option,Ohio,n
+98,20,option,Oklahoma,n
+100,20,option,Oregon,n
+102,20,option,Pennsylvania,n
+104,20,option,Rhode Island,n
+106,20,option,South Carolina,n
+108,20,option,South Dakota,n
+110,20,option,Tennessee,n
+112,20,option,Texas,n
+114,20,option,Utah,n
+116,20,option,Vermont,n
+118,20,option,Virginia,n
+120,20,option,Washington,n
+122,20,option,West Virginia,n
+124,20,option,Wisconsin,n
+126,20,option,Wyoming,n
+128,20,option,Canada,n
+130,20,option,International,n
+131,19,div,,n
+134,131,span,All locations,n
+135,131,div,,n
+142,135,span,Search All Locations,n
+147,135,span,Alabama,n
+152,135,span,Alaska,n
+157,135,span,Arizona,n
+162,135,span,Arkansas,n
+167,135,span,California,n
+172,135,span,Colorado,n
+177,135,span,Connecticut,n
+182,135,span,D.C.,n
+187,135,span,Delaware,n
+192,135,span,Florida,n
+197,135,span,Georgia,n
+202,135,span,Hawaii,n
+207,135,span,Idaho,n
+212,135,span,Illinois,n
+217,135,span,Indiana,n
+222,135,span,Iowa,n
+227,135,span,Kansas,n
+232,135,span,Kentucky,n
+237,135,span,Louisiana,n
+242,135,span,Maine,n
+247,135,span,Maryland,n
+252,135,span,Massachusetts,n
+257,135,span,Michigan,n
+262,135,span,Minnesota,n
+267,135,span,Mississippi,n
+272,135,span,Missouri,n
+277,135,span,Montana,n
+282,135,span,Nationwide,n
+287,135,span,Nebraska,n
+292,135,span,Nevada,n
+297,135,span,New Hampshire,n
+302,135,span,New Jersey,n
+307,135,span,New Mexico,n
+312,135,span,New York,n
+317,135,span,North Carolina,n
+322,135,span,North Dakota,n
+327,135,span,Ohio,n
+332,135,span,Oklahoma,n
+337,135,span,Oregon,n
+342,135,span,Pennsylvania,n
+347,135,span,Rhode Island,n
+352,135,span,South Carolina,n
+357,135,span,South Dakota,n
+362,135,span,Tennessee,n
+367,135,span,Texas,n
+372,135,span,Utah,n
+377,135,span,Vermont,n
+382,135,span,Virginia,n
+387,135,span,Washington,n
+392,135,span,West Virginia,n
+397,135,span,Wisconsin,n
+402,135,span,Wyoming,n
+407,135,span,Canada,n
+412,135,span,International,n
+414,18,label,Location,n
+418,11,div,SEARCH,n
+422,11,div,FILTER,n
+428,1,div,Active Advanced Search Filters,n
+433,0,div,,n
+436,433,div,Search Filters,n
+438,433,div,,n
+441,438,div,Use this area to filter your search results. Each filter option allows,n
+442,438,div,,n
+443,442,label,,n
+444,443,text,Category,n
+446,443,select,,n
+448,446,option,Academic or Faculty,n
+450,446,option,Academic or Faculty - Faculty,n
+452,446,option,Academic or Faculty - Research,n
+454,446,option,Coaching,n
+456,446,option,Coaching - Baseball,n
+458,446,option,Coaching - Basketball,n
+460,446,option,Coaching - Bowling,n
+462,446,option,Coaching - Cross Country,n
+464,446,option,Coaching - Fencing,n
+466,446,option,Coaching - Field Hockey,n
+468,446,option,Coaching - Football,n
+470,446,option,Coaching - Golf,n
+472,446,option,Coaching - Gymnastics,n
+474,446,option,Coaching - Ice Hockey,n
+476,446,option,Coaching - Lacrosse,n
+478,446,option,Coaching - Other,n
+480,446,option,Coaching - Rifle,n
+482,446,option,Coaching - Rowing,n
+484,446,option,Coaching - Skiing,n
+486,446,option,Coaching - Soccer,n
+488,446,option,Coaching - Softball,n
+490,446,option,Coaching - Strength and Conditioning,n
+492,446,option,Coaching - Swimming and Diving,n
+494,446,option,Coaching - Tennis,n
+496,446,option,Coaching - Track and Field,n
+498,446,option,Coaching - Volleyball,n
+500,446,option,Coaching - Water Polo,n
+502,446,option,Coaching - Wrestling,n
+504,446,option,Executive,n
+506,446,option,Executive - Associate Athletics Director,n
+508,446,option,Executive - Athletics Director,n
+510,446,option,Executive - Business Manager,n
+512,446,option,Executive - Commissioner,n
+514,446,option,Executive - Event Manager,n
+516,446,option,Executive - Executive Director,n
+518,446,option,Executive - Front Office,n
+520,446,option,Officiating,n
+522,446,option,Officiating - Baseball,n
+524,446,option,Officiating - Basketball,n
+526,446,option,Officiating - Bowling,n
+528,446,option,Officiating - Cross Country,n
+530,446,option,Officiating - Fencing,n
+532,446,option,Officiating - Field Hockey,n
+534,446,option,Officiating - Football,n
+536,446,option,Officiating - Golf,n
+538,446,option,Officiating - Gymnastics,n
+540,446,option,Officiating - Ice Hockey,n
+542,446,option,Officiating - Lacrosse,n
+544,446,option,Officiating - Other,n
+546,446,option,Officiating - Rifle,n
+548,446,option,Officiating - Rowing,n
+550,446,option,Officiating - Skiing,n
+552,446,option,Officiating - Soccer,n
+554,446,option,Officiating - Softball,n
+556,446,option,Officiating - Swimming and Diving,n
+558,446,option,Officiating - Tennis,n
+560,446,option,Officiating - Track and Field,n
+562,446,option,Officiating - Volleyball,n
+564,446,option,Officiating - Water Polo,n
+566,446,option,Officiating - Wrestling,n
+568,446,option,Operations,n
+570,446,option,Operations - Academic Support,n
+572,446,option,Operations - Administrative Support,n
+574,446,option,Operations - Building Maintenance and Engineering,n
+576,446,option,Operations - Business Office,n
+578,446,option,Operations - Compliance,n
+580,446,option,Operations - Concessions or Catering,n
+582,446,option,Operations - Development,n
+584,446,option,Operations - Equipment Manager,n
+586,446,option,Operations - Event Management,n
+588,446,option,Operations - Facility Management,n
+590,446,option,Operations - Food and Beverage,n
+592,446,option,Operations - Grounds and Fields,n
+594,446,option,Operations - Guest Services,n
+596,446,option,Operations - Marketing or Promotions,n
+598,446,option,Operations - Membership Coordinator,n
+600,446,option,Operations - Parking and Traffic,n
+602,446,option,Operations - Player Development,n
+604,446,option,Operations - Recruiting,n
+606,446,option,Operations - Sports Information,n
+608,446,option,Operations - Ticket Office,n
+610,446,option,Operations - Travel Coordinator,n
+612,446,option,Operations - Video Services,n
+614,446,option,Parks,n
+616,446,option,Safety and Security,n
+618,446,option,Safety and Security - Crowd Management,n
+620,446,option,Safety and Security - Law Enforcement or Police,n
+622,446,option,Safety and Security - Venue Security,n
+624,446,option,Sales or Marketing or Sponsorship,n
+626,446,option,Sales or Marketing or Sponsorship - Event Promotion,n
+628,446,option,Sales or Marketing or Sponsorship - Events or Booking,n
+630,446,option,Sales or Marketing or Sponsorship - Suites and VIP Services,n
+632,446,option,Sports Medicine,n
+634,446,option,Sports Medicine - Athletic Training,n
+636,446,option,Sports Medicine - Nutritionist,n
+638,446,option,Sports Medicine - Orthopedic,n
+640,446,option,Sports Medicine - Personal Training,n
+642,446,option,Sports Medicine - Physical Therapy,n
+644,446,option,Sports Medicine - Physician,n
+646,446,option,Sports Medicine - Strength and Conditioning,n
+654,442,label,,n
+655,654,text,Type,n
+657,654,select,,n
+659,657,option,Contract,n
+661,657,option,Full-time,n
+663,657,option,Part-time,n
+665,657,option,Seasonal,n
+673,442,label,,n
+674,673,text,Level,n
+676,673,select,,n
+678,676,option,Entry Level,n
+680,676,option,Experienced,n
+682,676,option,Graduate Assistant,n
+684,676,option,Internship,n
+692,442,label,,n
+693,692,text,Education,n
+695,692,select,,n
+697,695,option,2 Year Degree,n
+699,695,option,4 Year Degree,n
+701,695,option,Doctorate,n
+703,695,option,High School,n
+705,695,option,Masters,n
+707,695,option,Some College,n
+715,438,div,,n
+717,715,button,Apply Filters,n
+719,715,button,Clear All Filters,n
+720,0,div,,n
+721,720,div,,n
+722,721,div,,n
+723,722,div,,n
+724,723,text,Search Results,n
+726,723,span,1388,n
+727,723,text,Jobs,n
+728,722,div,,n
+730,728,button,Sort By,n
+731,728,ul,,n
+733,731,li,Relevance,n
+735,731,li,Newest,n
+737,731,li,Closest,n
+738,722,text,Save Agent,n
+744,721,div,,n
+756,744,p,"Normal, Illinois",n
+768,744,div,,n
+770,768,div,Head Women's Golf Coach,n
+772,768,div,Murray State University,n
+774,768,p,"Murray, Kentucky",n
+784,744,div,,n
+786,784,div,Senior Associate Athletics Director,n
+788,784,div,St. Joseph's University,n
+790,784,p,"Philadelphia, Pennsylvania",n
+802,744,div,,n
+804,802,div,Graduate Assistant - Sports Information,n
+806,802,div,Belhaven University,n
+808,802,p,"Jackson, Mississippi",n
+820,744,div,,n
+822,820,div,Volunteer Assistant Volleyball Coach,n
+824,820,div,Oregon Athletic Department,n
+826,820,p,"Eugene, Oregon",n
+838,744,div,,n
+840,838,div,Head Women's Tennis Coach,n
+842,838,div,Arkansas Tech University,n
+844,838,p,"Russellville, Arkansas",n
+856,744,div,Men's Basketball Head Coach-Recruiting Coordinator,n
+872,744,div,10 month - M W Tennis Head Coach - Facilities and Events Coordinator,n
+888,744,div,,n
+890,888,div,Hockey Operations,n
+892,888,div,MIAMI UNIVERSITY,n
+894,888,p,"Oxford, Ohio",n
+904,744,div,,n
+906,904,div,Softball,n
+908,904,div,"Wayland Baptist University - Plainview, TX",n
+910,904,p,"Plainview, Texas",n
+920,744,div,,n
+922,920,div,Graduate Assistant - Women's Golf,n
+924,920,div,Akron,n
+926,920,p,"Akron, Ohio",n
+938,744,div,,n
+940,938,div,Student Engagement Internship or Graduate Position - Michigan State,n
+942,938,div,www.msuspartans.com,n
+944,938,p,"East Lansing, Michigan",n
+952,744,div,,n
+956,952,div,,n
+958,956,div,Head Women's Basketball coach,n
+960,956,div,Technology,n
+962,956,p,"Boston, Massachusetts",n
+965,952,div,,n
+966,965,text,Featured!,n
+968,965,span,Featured!,n
+976,744,div,,n
+978,976,div,Assistant Athletic Trainer,n
+980,976,div,Technology,n
+982,976,p,"Hoboken, New Jersey",n
+994,744,div,M W Volleyball Head Coach-Alumni Engagement Officer,n
+1012,744,div,Assistant Track and Field Coach,n
+1028,744,div,,n
+1030,1028,div,"Events and Operations Manager, Atlantic Union Bank Center",n
+1032,1028,div,James Madison University,n
+1034,1028,p,"Harrisonburg, Virginia",n
+1046,744,div,,n
+1048,1046,div,Football Student Services Coordinator,n
+1050,1046,div,Wisconsin-Madison,n
+1052,1046,p,"Madison, Wisconsin",n
+1064,744,div,Head Coach - Beach Volleyball,n
+1082,744,div,Compliance,n
+1096,744,div,,n
+1098,1096,div,Assistant Men's and Women's Cross Country and Track and Field Coach,n
+1100,1096,div,Western Illinois University,n
+1102,1096,p,"Macomb, Illinois",n
+1116,744,div,Compliance Coordinator,n
+1132,744,div,Assistant Coach - Softball,n
+1148,744,div,,n
+1150,1148,div,"Assistant Coach, Volleyball",n
+1152,1148,div,Youngstown State University,n
+1154,1148,p,"Youngstown, Ohio",n
+1164,744,div,,n
+1166,1164,div,Community Outreach,n
+1168,1164,div,Connecticut,n
+1170,1164,p,"Storrs, Connecticut",n
+1178,744,div,Load More,n
+1184,720,div,,n
+1186,1184,button,Return to Search Results,n
+1187,1184,div,,n
+1188,1187,div,,n
+1189,1188,div,,n
+1191,1189,span,Expand,n
+1193,1189,span,Show Other Jobs,n
+1194,1188,div,,n
+1196,1194,span,Job Saved,n
+1198,1194,span,Save Job,n
+1216,1187,div,APPLY NOW,n
+1219,1184,div,,n
+1222,1219,div,Application,n
+1225,1219,div,,n
+1245,1225,div,First Name,n
+1249,1225,div,Last Name,n
+1253,1225,div,Email address,n
+1257,1225,div,Apply on Employer's Site,n
+1259,1225,div,The application opened in a new tab.,n
+1261,1225,div,By using this feature you agree to our Terms and Conditions and Privacy Policy .,n
+1266,1184,div,,n
+1269,1266,div,,n
+1271,1269,div,Details,n
+1272,1269,p,,n
+1274,1272,strong,Posted,n
+1275,1272,text,27-Jun-22,n
+1276,1269,p,,n
+1278,1276,strong,Location,n
+1279,1276,text,"Normal, Illinois",n
+1280,1269,p,,n
+1282,1280,strong,Type,n
+1283,1280,text,Full-time,n
+1286,1269,p,Categories,n
+1288,1269,div,Operations,n
+1290,1269,div,Operations - Equipment Manager,n
+1294,1269,p,Sector,n
+1296,1269,div,Collegiate Sports,n
+1298,1266,text,General Summary,n
+1300,1266,p,"The Assistant Director of Equipment Operations provides specific and specialized equipment support to assigned sport programs. Handles all purchasing, receiving, issuing, returns, maintenance, and repairs of equipment for assigned sports. Is required to know and uphold University, Department, and State of Illinois policies and procedures surrounding equipment purchases and acquisition. For assigned sport programs, assists coaches in the development and monitoring of the equipment portion of the overall sport budget.",n
+1302,1266,p,Required Qualifications,n
+1304,1266,p,Work Hours,n
+1306,1266,p,Functional Expectations,n
+1308,1266,p,Proposed Starting Date,n
+1310,1266,p,Salary Rate or Pay Rate,n
+1312,1266,p,Required Applicant Documents,n
+1314,1266,p,PLEASE NOTE,n
+1316,1266,p,Optional Applicant Documents Transcripts-See Special Instructions to Applicants section,n
+1318,1266,p,PLEASE NOTE,n
+1322,1184,div,Create a Job Alert,n
+1324,1184,div,,n
+1325,1324,div,,n
+1328,1325,div,About Illinois State University,n
+1330,1325,div,,n
+1331,1330,text,Illinois State University,n
+1333,1330,span,...,n
+1335,1330,span,w.ilstu.edu or Illinois State University is an Equal Opportunity Employer. Minority or Female or Disability or Veteran.,n
+1337,1330,div,Show more,n
+1339,1330,div,Show less,n
+1341,1324,span,Connections working at Illinois State University,n
+1342,1184,div,,n
+1343,1342,text,More Jobs from This Employer,n
+1346,1342,div,https,n
+1348,0,div,Loading. Please wait.,n

@@ -1,0 +1,185 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+5,2,p,,n
+7,5,span,If you’ve ever gone on a multi-day fishing trip you know there’s a lot of stuff to pack! Having a checklist to do a quick inventory check has become a great asset that speeds up the packing process and helps ensure you’ve got everything you could possibly need!,n
+9,5,span,My fishing buddies and I created this checklist and have added to it over the years. It has been super helpful and covers just about everything you need. There’s also a section to add any extra items you want to remember to bring for your next trip.,n
+11,2,h2,What Fishing Gear to Pack,n
+12,2,ul,,n
+13,12,li,,n
+15,13,strong,Tackle Box,y
+16,13,text,"– I’m normally over-froth leading up to a fishing trip and check my tackle box every chance I get! This also gives you the opportunity to make sure you have all the lures , bait, hooks and terminal tackle you’ll need.",n
+21,12,li,,n
+23,21,strong,Rods,y
+24,21,text,– Before I leave on any fishing trip I always check all my rods to confirm that all the guide loops are still intact.,n
+25,12,li,,n
+27,25,strong,Reels,y
+28,25,text,– Make sure you’ve got fresh line on your reels before your trip!,n
+29,12,li,,n
+31,29,strong,Rod Holders,y
+32,29,text,– Rod holders are great for fishing from shore or a boat. Check out the article I wrote about how to make your own rod holder here .,n
+35,12,li,,n
+37,35,strong,Zip Ties,y
+38,35,text,"– I’ve found zip ties to come in hand on virtually every fishing trip I’ve ever been on. If you’re fishing from a boat, it’s almost guaranteed one of the rod holders will broken. This is where zip ties come in handy. You can use zip ties to attach rod holders you’ve made to the boat!",n
+39,12,li,,n
+41,39,strong,Bucket,y
+42,39,text,"– Buckets don’t get the credit they deserve in the fishing world! Buckets can be used as a chair, trashcan, rod holder, fish bucket, ice bucket, whatever!",n
+43,12,li,,n
+45,43,strong,Stringer,y
+46,43,text,"– A stringer keeps all the fish you’ve caught in one place and on one stringer line. When the fish are really biting and you’re keeping some to eat, it’s great to have your own personal stringer so you know exactly which fish you’ve personally caught.",n
+47,12,li,,n
+49,47,strong,Net,y
+50,47,text,"– It’s not always easy to get a fish out of the water and onto shore or your boat. Often there are rock, trees and mud in the way. That’s where a net comes in very handy. A net comes in super handy when you’ve got a big fish hooked up while fishing from a boat.",n
+51,12,li,,n
+53,51,strong,Zip Lock Bags,y
+54,51,text,– These will come in handy,n
+55,12,li,,n
+57,55,strong,Sharpie Permanent Marker,y
+58,55,text,– If you decide to keep your fish to cook at home I recommend having a sharpie permanenat marker on hand. If you fish at a spot that has a tackle shop on site they’ll likely have a freezer for you to keep your fish.,n
+59,12,li,,n
+61,59,strong,Newspaper,y
+62,59,text,"– It may seem strange, but there’s a long history of people wrapping their fish in newspaper before freezing them. Go ahead and Newspaper is super absorbent and keeps the slime from fish from getting all over the place.",n
+65,2,p,,n
+67,65,strong,our favorite lures,n
+68,65,text,"Thomas Buoyant, Kastmaster, Super Duper and Panther Martin’s",n
+70,2,h2,What Clothes to Pack,n
+71,2,ul,,n
+72,71,li,,n
+74,72,strong,T Shirts,y
+75,72,text,"– After a long day on the water, you’ll likely be sweating and covered in fish. Trust me, the people around the camp site will appreciate you having a few extra “hanging out after fishing” shirts!",n
+76,71,li,,n
+78,76,strong,Drawers,y
+79,76,text,underwear.,n
+80,71,li,,n
+82,80,strong,Socks,y
+83,80,text,"– When packing, I normally count how many days I’ll be gone and then add 2 extra pairs on top of that number. Socks take up very little space and you’ll appreciate a clean pair when you need them!",n
+84,71,li,,n
+86,84,strong,Shorts,y
+87,84,text,"– Regardless of weather, I always throw at least one pair of shorts in. They take up almost no room and if it gets hot, you’ll be all set!",n
+88,71,li,,n
+90,88,strong,Jeans,y
+91,88,text,"the trip but hey, they’re my fishing jeans!",n
+92,71,li,,n
+94,92,strong,Boots,y
+95,92,text,– Boots come in handy if your fishing muddy banks. They keep the mud out and ofter provide sufficient grip.,n
+96,71,li,,n
+98,96,strong,Sandals,y
+99,96,text,"– Just like shorts, these take up very little space and are nice to have around if it’s hot and you just want to keep it casual.",n
+100,71,li,,n
+102,100,strong,Long Johns,y
+103,100,text,"– When it’s cold, windy and wet, you’ll be happy you have them. They come in handy keeping you warm on the campsite at night too.",n
+104,71,li,,n
+106,104,strong,Fleece,y
+107,104,text,– I like to wear a fleece under a water and windproof jacket. Fleece is comfortable and super warm.,n
+108,71,li,,n
+110,108,strong,Heavy Jacket,y
+111,108,text,"– This takes up a little more space when packing, but a if you’re expecting bad weather, it’s a must!",n
+112,71,li,,n
+114,112,strong,Wind Breaker,y
+115,112,text,"– This is good for mild days with lots of wind. A windbreaker isn’t big or bulky so you can freely move around, but it helps keep the wind and a little water off.",n
+116,71,li,,n
+118,116,strong,Hat,y
+119,116,text,– Crucial item. It’s very important to protect your skin from the sun while on the water all day.,n
+120,71,li,,n
+122,120,strong,Fishing Shirt,y
+123,120,text,– There are tons of fancy fishing shirts out there but all I really need with this is something with a chest pocket! I love having a chest pocket on my shirt while fishing. any crucial items I can throw in my chest pocket and know that it’s easily accessible.,n
+124,71,li,,n
+126,124,strong,Gloves,y
+127,124,text,– I should actually say two pairs of gloves. One specifically made for handing fish and another pair for keeping your hands warm at night while camping.,n
+128,71,li,,n
+130,128,strong,Flannel,y
+131,128,text,– You should always bring a flannel – It’s fishing!,n
+132,71,li,,n
+134,132,strong,Sunglasses with Strap,y
+135,132,text,– Staring at the water all day in addition to the sun reflecting of the water can really do a number on your eyes. A good pair of polarized sunglasses are always great to have on hand. I also highly recommend having a strap. I’ve see way to many people lose expensive sunglasses while reaching down to grab a fish. A sunglass strap is inexpensive and will save you from having to get in the water to retrieve your sunnies!,n
+136,71,li,,n
+138,136,strong,Beanie,y
+139,136,text,– When it’s cold and wet a beanie is key to keeping you warm.,n
+140,71,li,,n
+142,140,strong,Wool Socks,y
+143,140,text,– Being cold to the core is no fun. A nice pair of wool socks will help keep your body warm by trapping the warmth in.,n
+145,2,h2,What Food to Pack,n
+146,2,ul,,n
+147,146,li,,n
+149,147,strong,Water,y
+150,147,text,– It’s important to stay hydrated. Drink lots of water while fishing. Dehydration can easily ruin a fishing trip.,n
+151,146,li,,n
+153,151,strong,Adult Beverages,y
+154,151,text,– Whatever floats your boat!,n
+157,146,li,Mixers,y
+159,146,li,,n
+161,159,strong,Snacks,y
+162,159,text,"– I typically like to hit the grocery store and cover all the bases. I make sure I have some sweet, salty and savory snacks. Having a nice little selection is key!",n
+165,146,li,Breakfast Food,y
+169,146,li,Lunch Food,y
+173,146,li,Dinner Food,y
+176,2,h2,What Campsite Gear to Pack,n
+177,2,ul,,n
+178,177,li,,n
+180,178,strong,Sleeping Bag,y
+181,178,text,"– Trust me, you’ll not be a happy camper if your spending the night in a tent with no sleeping bag!",n
+182,177,li,,n
+184,182,strong,Lantern,y
+185,182,text,– This is ideal for setting up around any campsite or using if your fishing on a boat or from shore at night.,n
+186,177,li,,n
+188,186,strong,Flashlight,y
+189,186,text,– It’s always nice to have a hand held flashlight if you need to go for a stroll after the sun goes down.,n
+190,177,li,,n
+192,190,strong,Headlamp,y
+193,190,text,– This acts as a failsafe if your normal flashlight goes down!,n
+194,177,li,,n
+196,194,strong,Sunscreen,y
+197,194,text,– Apply early and ofter! You can easily get fried after a long day on the water.,n
+198,177,li,,n
+200,198,strong,Chapstick,y
+201,198,text,– Cracked lips for a full week after your fishing trip will be a fun reminder of the good times you had – BUT – they’re also pretty painful.,n
+202,177,li,,n
+204,202,strong,Lighter,y
+205,202,text,– Great to easily start your bonfire.,n
+206,177,li,,n
+208,206,strong,Pillow,y
+209,206,text,"– Just like the sleeping bag, you’ll not be happy if you forget this! I fish way better the next day when I get a good night’s sleep.",n
+210,177,li,,n
+212,210,strong,Bottle Opener,y
+213,210,text,– Craft IPA’s more often than not require bottle openers. They take up no space at all and you can throw it in your tackle box. Just buy one and consider it your fishing bottle opener for the rest of your life.,n
+214,177,li,,n
+216,214,strong,Milk Crate,y
+217,214,text,– These are good as a way to lug miscellaneous items from your campsite or lodging to your boat,n
+218,177,li,,n
+220,218,strong,Motor Oil,y
+221,218,text,"– If you’re going on a long road trip, I always recommending having this just in cast.",n
+224,177,li,Coolant,y
+226,177,li,,n
+228,226,strong,Cash,y
+229,226,text,"– Often fishing spots will have a small diner onsite. Often these places only accept cash, so plan out how much you think you’ll spend before hand and pull out enough cash before your trip.",n
+230,177,li,,n
+232,230,strong,Tumbler,y
+233,230,text,"– This is good for water or mixed drinks. Any cup will do, but tumblers are typically more durable and will keep your drinks both cooler and warmer depending on what it is.",n
+234,177,li,,n
+236,234,strong,Coolers,y
+237,234,text,– Having a good cooler is very important for storing food and drinks. You can also pack your fish with ice in the cooler on your drive home.,n
+238,177,li,,n
+240,238,strong,Toiletries,y
+241,238,text,– The essentials. You know what you need!,n
+242,177,li,,n
+244,242,strong,Phone Charger,y
+245,242,text,"– If you’re staying somewhere with power, don’t forget your charger. It’s always great to look back at pictures from trips of years past and think about the great times you’ve had.",n
+246,177,li,,n
+248,246,strong,First Aid Kit –,y
+249,246,text,Occasionally fishing comes with minor cuts and bruises. A small first aid kit is inexpensive and you’ll be happy you have it when you need it!,n
+251,2,p,I hope this packing list helps and good luck on your next trip!,n
+254,2,div,,n
+256,254,h3,Share this,n
+258,254,ul,,n
+261,258,li,Twitter,n
+264,258,li,Facebook,n
+272,0,h3,Recent Content,n
+273,0,div,,n
+274,273,article,,n
+277,274,span,link to What Should I Put in my Tackle Box?,n
+280,274,p,,n
+281,280,text,The key to having a successful day fishing is having everything you need to land those big fish!,n
+283,280,strong,essential items every angler should have in their tackle...,n
+292,273,strong,,n
+295,292,span,link to The Ultimate Beginner's Guide to Deep Sea Fishing,n
+299,292,p,If you are looking at taking a break from your daily life with a bit of deep sea fishing then you might be wondering what you need to take into account to make your watery adventure a...,n

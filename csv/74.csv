@@ -1,0 +1,115 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,article,,n
+3,2,div,,n
+10,3,h1,The Must-Have Gym Equipment You Need,n
+12,3,div,,n
+13,12,div,,n
+14,13,div,,n
+15,14,div,,n
+17,15,span,By,n
+18,15,div,,n
+19,18,text,Paul Rogers,n
+20,18,div,,n
+21,20,div,,n
+23,21,div,Paul Rogers,n
+25,21,div,"Paul Rogers is a personal trainer with experience in a wide range of sports, including track, triathlon, marathon, hockey, tennis, and baseball.",n
+29,20,div,editorial process,n
+31,14,div,"Updated on February 24, 2020",n
+33,13,div,,n
+34,33,span,,n
+35,34,span,,n
+37,35,span,Reviewed,n
+40,35,div,"Verywell Fit articles are reviewed by nutrition and exercise professionals. Reviewers confirm the content is thorough and accurate, reflecting the latest evidence-based research. Content is reviewed before publication and upon substantial updates. Learn more .",n
+43,34,text,by,n
+46,33,div,,n
+47,46,div,,n
+53,47,div,Reviewed by,n
+56,47,div,"Tara Laferrara is a certified NASM personal trainer, yoga teacher, and fitness coach. She also created her own online training program, the TL Method.",n
+60,46,div,Review Board,n
+64,12,div,Print,n
+70,2,div,,n
+71,70,div,,n
+73,71,p,"When decking out your home gym or personal training studio with equipment, it is smart to be selective. You probably don't have the space that big gyms and health clubs have to house every piece of equipment imaginable.",n
+76,71,p,"To help you narrow down what you really need, consider these 10 pieces of equipment that are perfect for the small-scale gym. Keep in mind, however, that you don't necessarily need everything on this list. A basic set-up, including essentials such as a bench, some dumbbells, and resistance bands, can still provide a great workout.",n
+81,71,h2,Training Bench,y
+83,71,p,"A training bench is an adjustable platform used for performing weight training exercises. You should be able to adjust the backrest, so you can move it from a flat position to an incline. You'll find a range of benches online, but look for a well-constructed and easily adjustable bench. A personal training studio may need at least two of these.",n
+88,71,h2,Dumbbell Set,y
+90,71,p,"This is probably your most important gym equipment purchase. Get a set of dumbbells , ranging from very light to very heavy, depending on who will be using them. Dumbbells come in a variety of sizes, shapes, and materials these days, from plastic-coated to colorful to straight metal, so take your pick. Get a set with a rack to save space.",n
+101,71,h2,Barbell Set,y
+103,71,p,You have two options,n
+108,71,h2,Kettlebell Set,y
+109,71,p,,n
+110,109,text,"Kettlebells provide an alternative to dumbbells because they activate a slightly different muscle profile, particularly the core.",n
+113,109,span,1,n
+114,109,text,"Although not necessarily superior, they are popular and worth purchasing. Kettlebells come in a variety of weights, sizes, and even shapes.",n
+119,71,h2,Pull-Up Frame and Bar,y
+121,71,p,"This is for doing chin-ups and pull-ups . Look for a squat rack with a pull-up bar up top, and you'll save on cost and space.",n
+128,71,h2,Treadmill,y
+130,71,p,"Invest in some type of cardio equipment. If you can afford it, you might be able to include several different types of machines. But if you can only afford one, the treadmill is a smart choice.",n
+133,71,p,"You'll want a treadmill that has varying inclines and speeds and provides heart rate monitoring. Get a robust, commercial gym-standard treadmill if you can afford it, and check out the machines with virtual tracks or other add-ons if you're willing to spend more.",n
+137,71,div,Before You Buy a Treadmill,n
+142,71,h2,Stationary Bicycle,y
+143,71,p,,n
+144,143,text,The stationary bike is an alternative to the treadmill and rowing machine for cardiovascular endurance training. A bike provides a low-impact way to get the heart rate elevated.,n
+146,143,span,2,n
+147,143,text,these three machines emphasizes slightly different neuromuscular approaches to aerobic fitness.,n
+152,71,h2,Rowing Machine,y
+153,71,p,,n
+154,153,text,"You can do a lot with a total-body rowing machine . Unlike the bike and treadmill that focus more on the lower body, the rower offers a head-to-toe workout, engaging the legs, core and upper body. Plus, it helps burn a ton of calories and is another option for low-impact cardio.",n
+158,153,span,3,n
+163,71,h2,Fitness Ball,y
+165,71,p,"You can design a lot of exercises around a fitness ball, especially core exercises. It adds an extra stability challenge to moves like chest presses, bicep curls, dead bugs, or plank knee tucks. So add it to your gym equipment arsenal.",n
+169,71,div,Exercise Ball Core Workout,n
+174,71,h2,Accessories,n
+176,71,p,"Add smaller equipment items like a rollout wheel for abs, a wooden bar for upper body stretching, and bands and tubes for rehabilitation and resistance exercises .",n
+181,71,h2,A Word from Verywell,n
+183,71,p,"Equipment like cable machines, lever machines, Smith machines, and others are standard equipment in most large gyms, but they're not necessary for all gyms. Consider your audience and budget before you purchase.",n
+186,71,p,"Another thing to consider before investing in equipment of any type is the space required to safely operate such equipment, especially when more than one person is exercising at one time. Keep your insurance up to date and figure out a smart way to lay out the room.",n
+187,70,div,,n
+188,187,div,,n
+191,188,div,Was this page helpful?,n
+194,188,div,,n
+196,194,div,Thanks,n
+199,194,div,,n
+202,199,p,Get exercise tips to make your workouts less work and more fun.,n
+203,199,div,,n
+207,203,div,Sign Up,n
+209,203,span,You're in!,n
+211,203,p,"Thank you, ,",n
+213,203,p,There was an error. Please try again.,n
+214,188,div,,n
+216,214,div,What are your concerns?,n
+218,214,button,Other,n
+220,214,button,Inaccurate,n
+222,214,button,Hard to Understand,n
+226,214,form,Submit,n
+229,187,div,,n
+233,229,div,3 Sources,n
+234,229,div,,n
+236,234,div,"Verywell Fit uses only high-quality sources, including peer-reviewed studies, to support the facts within our articles. Read our editorial process to learn more about how we fact-check and keep our content accurate, reliable, and trustworthy.",n
+240,234,div,,n
+243,240,li,American Council on Exercise. Kettlebells Kick Butt . April 2013.,n
+248,240,li,"Chavarrias M, Carlos-Vivas J, Collado-Mateo D, Pérez-Gómez J. Health Benefits of Indoor Cycling: A Systematic Review . Medicina . 2019;55:452. Published 2019 Aug 8. doi:10.3390 or medicina55080452",n
+255,240,li,"De las Casas H, Kleis K, Richter H, Sparks K, van den Bogert A. Eccentric training with a powered rowing machine . Medicine in Novel Technology and Devices . 2019;2:100008. doi:10.1016 or j.medntd.2019.100008",n
+301,0,div,,n
+302,301,section,,n
+304,302,span,Related Articles,n
+306,302,ul,,n
+314,306,li,2022,n
+323,306,li,2022,n
+332,306,li,Squats,n
+341,306,li,"The Best Home Gyms, Recommended by a Personal Trainer",n
+350,306,li,The Best Fitness Mirrors to Level-Up Your At-Home Workout,n
+359,306,li,Portable Exercise Equipment of 2022,n
+368,306,li,"11 Best Dumbbell Racks, Recommended by a Personal Trainer",n
+377,306,li,The Best CrossFit Equipment to Help You Crush Your WOD,n
+387,301,ul,,n
+395,387,li,"The 10 Best Ab Machines, Recommended and Tested by Experts in Our Lab",n
+404,387,li,"Here Are the Best Weight Benches, A Useful Addition to Any Home Gym",n
+413,387,li,2022,n
+422,387,li,5 Ways to Strengthen Your Upper Body,n
+431,387,li,Here’s What You Can Get on Sale Before Prime Day,n
+440,387,li,45-Minute Back and Biceps Workout With Supersets,n
+449,387,li,A Simple Beginner Back Day Workout,n
+458,387,li,The Best Stair Climbers,n

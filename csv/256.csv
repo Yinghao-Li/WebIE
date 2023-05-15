@@ -1,0 +1,81 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+214,0,div,,n
+217,214,div,,n
+219,217,h1,Painting Checklist,n
+221,217,p,Paint and home improvement stores can be overwhelming. But they don't have to be if you have a painting checklist prepared before you go. That's why Dutch Boy created this house-painting supplies checklist so you can spend less time in the store and more time at home completing your project.,n
+224,214,h3,Preparing to Paint,n
+225,214,ul,,n
+229,225,li,Ladder,y
+233,225,li,Wire Brush,y
+237,225,li,Primer,y
+241,225,li,Dust Mask,y
+245,225,li,Putty Knife,y
+249,225,li,Wall Cleaner,y
+253,225,li,Safety Goggles,y
+257,225,li,Sandpaper,y
+261,225,li,Mildew Stain Remover,y
+265,225,li,Gloves,y
+269,225,li,Electric Sander,y
+273,225,li,Caulk and Caulking Gun,y
+277,225,li,Dropcloth,y
+281,225,li,Sanding Block,y
+285,225,li,"Spackle, Wood Filler",y
+289,225,li,Painter's Tape,y
+293,225,li,Sponges,y
+297,225,li,Stir Sticks,y
+301,225,li,Screwdriver,y
+305,225,li,"Paint Scrapers, Blades",y
+308,214,h3,Painting,n
+309,214,ul,,n
+313,309,li,Paintbrush,y
+317,309,li,Paint Tray Liners,y
+321,309,li,Extension Pole,y
+325,309,li,Angled Paintbrush,y
+329,309,li,Roller Frame,y
+333,309,li,Paint Pads,y
+337,309,li,Paint Tray,y
+341,309,li,Roller Covers,y
+345,309,li,Faux Finishing Tools,y
+348,214,h3,Cleanup,n
+349,214,ul,,n
+353,349,li,Appropriate Solvents,y
+357,349,li,Buckets,y
+361,349,li,Shop Towels,y
+363,0,div,,n
+365,363,div,,n
+367,365,h3,Company Information,n
+368,365,ul,,n
+370,368,li,Accessibility Statement,n
+372,368,li,About,n
+374,368,li,Contact Us,n
+376,368,li,Press Room,n
+378,368,li,Privacy,n
+380,368,li,CA Supply Chains Act,n
+382,368,li,Do Not Sell My Personal Information,n
+384,368,li,Use,n
+386,368,li,Warranty,n
+388,365,p,"© 2022 Dutch Boy® Group, All Rights Reserved.",n
+391,363,h3,Connect With Us,n
+400,0,div,,n
+402,400,div,,n
+403,402,div,,n
+405,403,h1,We want to tailor your online experience!,n
+407,403,p,Select your shopping location.*,n
+415,402,li,Other fine hardware stores and home centers,n
+417,402,div,,n
+419,417,button,Save And Continue,n
+421,417,br,or,n
+423,417,div,,n
+424,423,text,Skip This Step,n
+426,423,br,and be taken to the Menards experience,n
+429,400,p,*This site uses cookies to save many of your preferences. You must enable cookies in order for these preferences to be saved. Please see our Privacy Policy for more information.,n
+432,0,section,,n
+433,432,div,,n
+435,433,div,"This site uses cookies and other tracking technologies to improve your browsing experience, analyze site traffic, and improve our marketing efforts. See our Privacy Policy for more information on these technologies.",n
+443,433,div,Show More,n
+452,433,div,Tag,n
+455,432,div,,n
+458,455,div,X,n
+462,455,div,OK,n
+465,432,div,GDPR Compliance - Powered By Ensighten,n

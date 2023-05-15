@@ -1,0 +1,101 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,,n
+8,4,div,,n
+13,8,h1,Scuba Diving Equipment and Gear,n
+14,8,div,,n
+16,14,span,Posted at 15:25h,n
+17,14,text,"in Divemaster , Scuba Diving Tips , Tips and Tricks",n
+24,14,span,by boadmin,n
+27,14,text,0 Comments,n
+28,8,div,,n
+30,28,p,"Before jumping into the depths of the blue ocean, and in order to enjoy a safe and fun dive, a diver must be equipped with adequate knowledge, physical skills and a good set of scuba diving equipment.",n
+32,28,p,"As human bodies are not accustomed to seeing, staying and breathing underwater, the right diving gear will equip you with everything you need to do so. Be well prepared by learning to dive and, most importantly, provide yourself with the right equipment. Here is a list of the basic scuba diving equipment you will need.",n
+37,28,h2,Diving Mask and Snorkel,y
+40,28,p,"Since your eyes aren’t designed to see underwater, one of the most important pieces of equipment to have is the diving mask. The diving mask will create air space in front of your eyes to let you see clearly underwater. As for snorkels, not every diver will need one. However, it’s normally suggested for beginners to carry one, while more experienced divers will see it as optional. This breathing tube comes in handy when you’re swimming facedown on the surface. In addition, snorkels also help to save the air in your tank.",n
+43,28,h2,Wetsuit or Drysuit,y
+46,28,p,Photo Source,n
+49,28,p,"When do you use a wetsuit versus a drysuit? Use wetsuits when diving in warmer water and drysuits in colder water. Normally, wetsuits are skin-tight and made of neoprene that locks a layer of water around the body to keep it warm. On the other hand drysuits, as the name indicates, will keep you completely dry. Drysuits are more loosely fitted compared to a wetsuit and operate as an incubator to keep you warm.",n
+52,28,h2,Scuba Gloves,y
+58,28,p,"Just like your wetsuit, scuba gloves help to keep your hands warm underwater. Additionally, it also prevents skin injuries when you explore difficult underwater environments .",n
+63,28,h2,Fins,y
+66,28,p,"Fins are another important essential to your scuba diving equipment. When diving, fins let you move through the water seamlessly, without wasting too much energy. There are two types of scuba fins: open heel and full-foot. Open heel fins are commonly used in cold water. Like their name suggests, they are open at the heel and use straps to secure your feet. Full-foot fins completely cover your feet and are normally used in warmer water.",n
+69,28,h2,Scuba Tank,y
+72,28,p,"Another vital component of your diving gear is the scuba tank. It stores large volumes of air, allowing you to breathe underwater. Generally made of steel or aluminum, scuba tanks come in various styles and sizes. You can either rent them or invest in one if you plan to dive frequently.",n
+75,28,h2,Regulator,y
+77,28,p,"Never forget the regulator, as this is what allows you to breathe underwater. The regulator has a part called the first stage that connects to your scuba tank and moves air from the tank when you inhale. There is also a part called the second stage, which is what you put in your mouth to breath from. When selecting your diving regulator, always choose the one that provides you with the best comfort and performance.",n
+80,28,h2,"Depth Gauge, Submersible Pressure Gauge , and Compass",y
+83,28,p,Photo Source,n
+86,28,p,"As the name indicates, a depth gauge specifies the current and maximum depth reached during a dive. Your SPG will also show how much remaining air you have in your scuba tank. This is to ensure you can end your dive before your air supply gets too low. A compass is another vital piece of scuba diving equipment that helps you to navigate underwater. All of these devices come in both digital and analog form, which you can choose depending on your preference.",n
+89,28,h2,Dive Computer,y
+95,28,p,"A dive computer monitors the duration of your dive, the depth you are at, and how much longer you can safely stay at depth. Some dive computers are also able to track how much air you have left. Since renting a dive computer can be costly, it would be better to purchase your own.",n
+97,28,p,"Experience Bali’s underwater world with Blue Season Bali,",n
+101,8,div,,n
+103,101,h5,TAGS,n
+104,101,text,"Bali Scuba Diving Equipment , diving in bali , Scuba Diving Bali , Scuba Diving in Bali , scuba equipment , scuba gear , Tips",n
+117,8,section,,n
+119,117,h2,Related Posts,n
+121,117,div,,n
+127,121,h3,Becoming a PADI Open Water Diver,n
+133,121,h3,How to use a Surface Marker Buoy,n
+139,121,h3,7 Tips to Comfortably Equalise Your Ears While Scuba Diving,n
+143,8,div,,n
+144,143,h3,,n
+145,144,text,Post A Comment,n
+147,144,small,Cancel reply,n
+148,143,form,,n
+151,148,p,Comment,n
+155,148,p,Name,n
+161,148,p,Email,n
+167,148,p,Website,n
+172,148,p,"Save my name, email, and website in this browser",n
+177,4,div,,n
+178,177,section,,n
+180,178,h5,Recent Posts,n
+181,178,ul,,n
+183,181,li,Becoming a PADI Open Water Diver,n
+185,181,li,Top 5 Places to Hangout in Sanur After a Dive Trip,n
+187,181,li,5 Sea Creatures You Have to See in Bali,n
+189,181,li,Snorkeling in Crystal Clear Nusa Lembongan,n
+191,181,li,5 Reasons to Scuba Dive in Bali,n
+192,177,section,,n
+194,192,h5,Categories,n
+195,192,ul,,n
+197,195,li,Activities,n
+199,195,li,Best Dive Job,n
+201,195,li,BSB Events,n
+203,195,li,Courses,n
+205,195,li,Daily Living,n
+207,195,li,Dive Sites,n
+209,195,li,Dive Trips,n
+211,195,li,Divemaster,n
+213,195,li,Divemaster Interns,n
+215,195,li,Diving Equipment,n
+217,195,li,Ecosystem Issue,n
+219,195,li,Education,n
+221,195,li,Environment,n
+223,195,li,Food,n
+225,195,li,Freediving,n
+227,195,li,Instructor,n
+229,195,li,Internships,n
+231,195,li,Jargon Buster,n
+233,195,li,Lifestyle,n
+235,195,li,Marine Life,n
+237,195,li,Marketing,n
+239,195,li,meet the team,n
+241,195,li,Miscelanous,n
+243,195,li,Newbie,n
+245,195,li,Photo Gallery,n
+247,195,li,Promos,n
+249,195,li,Protection Effort,n
+251,195,li,Scuba Diving Tips,n
+253,195,li,Seminar,n
+255,195,li,Snorkeling,n
+257,195,li,Tips and Tricks,n
+259,195,li,Uncategorized,n
+260,177,section,,n
+262,260,h5,Tags,n
+264,260,div,bali Bali Coral Reef bali diving Bali life Bali Scuba Diving Equipment blue season bali Blue Season Bali Diving Activity Career in Bali Diving Industry dive divemaster divemaster intern Divemaster Internships Bali dive site dive sites Dive Trip Bali Dive USAT Liberty Wreck diving diving in bali Environment Project idc IDC Activity Manta Point manta ray Manta Rays marine life mola mola Nusa Penida Ocean Environment padang bai padi padi5star padi idc Project Aware scuba scuba diving Scuba Diving Bali Scuba Diving in Bali Scuba Diving Tips scuba instructor snorkeling sunfish Tips Tulamben underwater Underwater Photography,n
+319,0,div,,n
+324,319,p,Ready to sign up,n
+328,319,div,Contact Us,n

@@ -1,0 +1,369 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1558,0,div,,n
+1561,1558,div,,n
+1564,1561,div,,n
+1568,1564,h1,Basketball Training Equipment,n
+1574,1564,li,25 Comments,n
+1576,1564,div,,n
+1619,1576,h2,Basketball Training Equipment,n
+1621,1576,p,"Having the right tools makes all the difference. As an athlete, or as a team, you want to make sure that you are not only working hard but that you are working smart and maximizing your gym time. Being able to do that has a lot to do with the equipment that you have at hand. If you want to be able to prepare at an elite level, you need to set yourself up to do so.",n
+1623,1576,p,"With most programs being on a pretty tight budget and a lot of companies out there claiming to have a “miracle product” for sale, we decided to put together our list of the best basketball products on the market. These are the basketball training tools that we use when filming different basketball drills for Basketball HQ and in-person with Tampa Basketball Training .",n
+1629,1576,p,"Hopefully, you can look through this list of the best basketball training equipment and find something that will help you. I am sure that we missed a couple of good training tools, so if you have one that you really like and feel it should be on the list, comment below.",n
+1633,1576,h2,Basketball Training Equipment,n
+1640,1576,h3,Wilson Evolution Basketball,y
+1651,1576,p,$54.95,n
+1655,1576,p,"Every player needs a good basketball that they can bring with them to work on their game. One of our favorite basketballs is the Wilson Evolution Basketball. This basketball has an excellent grip and is one of the favorites among players. It is also very durable and will provide quality use for years. If you are looking for a new basketball, this is one of the best basketballs out there.",n
+1664,1576,h3,Dribbling Goggles,y
+1675,1576,p,$3.99,n
+1679,1576,p,"A lot of younger players struggle to keep their eyes up while dribbling a basketball . With dribbling goggles, though, it blocks the player’s eyes from being able to glance down at the basketball. Start learning to dribble with your eyes up with this great ball-handling tool.",n
+1689,1576,h3,Ball Hog Gloves,y
+1700,1576,p,$30,n
+1704,1576,p,"The idea behind ball hog gloves is to make it harder to control the basketball with the gloves on. That way, when you get into a game situation and are not wearing the gloves anymore, you have more control over the ball. Develop your ball control and touch by using the ball hog gloves.",n
+1711,1576,h3,Weighted Basketball Trainer,y
+1722,1576,p,$169.95,n
+1726,1576,p,There are all kinds of weighted basketball that come in different sizes and weights. This particular weighted basketball trainer weighs 3 pounds and is official size. It is going to help a player work on extending their shooting range and also their hand strength when dribbling.,n
+1733,1576,h3,The D Man,y
+1748,1576,p,"If you look at the shooting percentages between shooting a contested shot compared to an uncontested shot, you will first make sure that your team is contesting more shots on defense, but secondly, you will see the value of the D Man and learning to shoot over a contested hand. You can use the D Man to work on finishes, shooting, or as a defender to make dribble moves past.",n
+1757,1576,h3,Agility Ladder,y
+1768,1576,p,$19.99,n
+1772,1576,p,"Footwork in basketball is key, regardless of position. A great way to improve a player’s footwork is the agility ladder. There are multiple different types of footwork combinations that you can do with an agility ladder to challenge and improve a player’s footwork. So whether you are a beginner or a pro, agility ladders add a lot of value.",n
+1781,1576,h3,Weighted Speed Vest,y
+1792,1576,p,$80.99,n
+1796,1576,p,"The weighted speed vest is going to help develop a player’s explosiveness and speed. The idea behind using a weighted vest is that the player will train with the weights on to make their body push harder. That way, when they remove the vest, they trick their body to output the same amount of energy, but this time the athlete is lighter, making them more explosive.",n
+1806,1576,h3,Air Relax Leg Recovery System,y
+1813,1576,p,Players,n
+1817,1576,p,$545,n
+1821,1576,p,"The quicker a player is able to recover, the sooner they will be able to get back to working on their game. And, rather than feeling sore for their next workout, they will feel refreshed and ready to go. The Air Relax Leg Recovery System is going to allow players to maximize their recovery time. It uses air to squeeze your leg and remove lactic acid and muscle stiffness and soreness.",n
+1831,1576,h3,Jump Rope,y
+1846,1576,p,"A great way to improve footwork and quickness is a jump rope. It is also a great way to warm up before a practice or workout. Whether you are a big man or a guard, jumping rope is a great tool.",n
+1857,1576,h3,Elevation Training Mask,y
+1868,1576,p,$39.97,n
+1872,1576,p,"This mask is a multi-sport training tool, but it is perfect for developing a player’s conditioning and endurance. The goal of the mask is to simulate a high altitude situation that is going to force the athlete to improve their breathing. That way, when the mask is removed, the player will be able to breathe easier and hopefully run harder and longer.",n
+1881,1576,h3,The Big Cone,y
+1896,1576,p,"No more having to pull out trash cans or set up chairs; the Big Cone will allow you to easily set up and takedown “stationary defenders” for working on ball handling , finishing, and more. The Big Cone also can double as a storage unit if needed.",n
+1908,1576,h3,Resistance Bands,y
+1919,1576,p,$39.90,n
+1923,1576,p,"Resistance bands are great for working on making explosive movements that translate over to a game. You can work on being able to blow by an opponent, sliding to cut off an offensive player, and so many more movements that are used within a game.",n
+1932,1576,h3,Agility Hurdles,y
+1947,1576,p,Agility hurdles are great because they force a player to get their feet up off the ground and move quickly. They can either be used for footwork drills or vertical training; both essential in today’s game of basketball.,n
+1955,1576,h3,PowerHandz,y
+1970,1576,p,"Similar to the Ball Hog gloves listed above, the goal of the PowerHandz Gloves is to force the ball handler to get out of their comfort zone and work to develop their handles. These gloves are weighted and come with an anti-friction surface. The weighted gloves aspect will help with developing quicker hands, and the smooth surface on the gloves will help to develop better ball control.",n
+1978,1576,h3,Disc Cones,y
+1993,1576,p,"Whether it is working on ball handling, defense, footwork, etc., disc cones are great to have. They are a must for any trainer or coach, but they also make a great training tool for players as well. The benefit of disc cones over regular cones is that they are easier to transport, store, and for the price, you can get a lot more cones.",n
+2000,1576,h3,Multipurpose Resistance Bands,y
+2011,1576,p,Varies,n
+2015,1576,p,"Similar to the speed and explosiveness training resistance bands, these multipurpose bands can be used for speed, vertical, etc., but they can also be used to work on flexibility, strength, and more. I would recommend getting one of these bands based solely on stretching and improving flexibility, but with all the other things you can do with them as well, they are a no-brainer.",n
+2024,1576,h3,Tennis Balls,y
+2035,1576,p,$15.88,n
+2039,1576,p,"Hand-eye coordination is a big part of basketball, and a great way to improve a player’s coordination is to include tennis balls into different drills. You can use them in ball handling drills , catching drills, quickness or speed drills, etc.",n
+2049,1576,h3,Pro Shot Finger Spacer,y
+2064,1576,p,"This training tool is designed to force players to keep proper finger spacing when shooting and dribbling. It works really well with shooting, though. A lot of times, younger players struggle with proper finger positioning on their shooting hand, and this tool will help with that.",n
+2072,1576,h3,Kick Out Ball Return,y
+2083,1576,p,$38.99,n
+2087,1576,p,"This is another great product brought by SKLZ, and it is going to allow a player to shoot and then have the ball returned to them on the make. If you are not able to consistently have a rebounder when you shoot, this product will help to save you a lot of time and energy running down the ball after you shoot, which will allow for more time and energy spent on actual shooting.",n
+2096,1576,h3,Blocking Pad,y
+2107,1576,p,$49.99,n
+2111,1576,p,"Great players are able to be physical and handle contact. Whether it is being able to shield off an aggressive defender, boxing out, finishing at the basket , or whatever it might be, players need to learn to play through contact. The blocking pad is a great way to do this while being safe.",n
+2121,1576,h3,Solo Assist,y
+2132,1576,p,$129.99,n
+2136,1576,p,"Unfortunately, you do not always have a passer at your disposal as a player when you are training, and as a coach with 12 plus players in the gym, sometimes your only responsibility can’t be just passing. The Solo Assist allows for a passer and lets you practice different shots, moves, etc., that require a passer.",n
+2144,1576,h3,Dribble Stick,y
+2155,1576,p,$99.99,n
+2159,1576,p,"Ball handling has a lot to do with ball control and being able to put the ball where you want it to go. The Dribble Stick helps to promote ball control by forcing the player to dribble over or under different height levels. With this basketball training tool, you can practice quick hand to hand combinations, ball control, and much more.",n
+2167,1576,h3,Double Double,y
+2178,1576,p,$39.99,n
+2182,1576,p,"This is two basketball training tools in one. The Double-Double is first going to allow shooters to work on their shooting by making the rim smaller. If the player can make it in the smaller ring at a high clip, then their shooting percentage should go way up without the ring in.",n
+2184,1576,p,"Secondly, it provides an excellent cap to the rim as well. The cap has different raised grooves on it, which will allow for working on rebounding . Missing on purpose without a cap rarely ends up coming off as a game miss would; the Double Double will help to simulate natural game misses.",n
+2195,1576,h3,Control Basketball Set,y
+2210,1576,p,"Getting out of your comfort zone is a must when it comes to improving as a ball handler. The Control Basketball Set is going to provide three basketballs that are of different sizes and weights. One ball focuses on quickness, another on touch, and the third on building hand and finger strength.",n
+2216,1576,h3,Resistance Sprints Parachute,y
+2227,1576,p,$10.99,n
+2231,1576,p,"This is not a basketball-specific training tool, but it is great for helping improve speed. A resistance band is great for working on sprints as well, but the resistance parachute will allow you to run for a longer distance and will push you to go your max speed.",n
+2233,1576,p,"The goal is to trick your muscles into working harder than they need to when the parachute is on. That way, when you remove the parachute and execute the same sprints, your body will continue to put out that extra energy, but this time you will not have the parachute holding you back.",n
+2237,1576,h2,Basketball Training Equipment Conclusion,n
+2239,1576,p,"As a basketball player or coach, how you spend your time in the gym is valuable. The whole goal of this article is to help provide you with training tools that are going to allow you to maximize your time and effort in the gym. Having the right tools can make all the difference.",n
+2241,1576,p,"If you are looking for some more basketball-related products, check out our list of the Best Basketball Books and our list of the Top 25 Basketball Gifts .",n
+2247,1576,p,"Also, please remember to share your comments on any great basketball training equipment that we may have missed. We are always looking to update this list with any new great training tools that we are able to discover.",n
+2252,1576,p,"Basketball HQ is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.",n
+2294,1576,div,,n
+2297,2294,div,Shop Now,n
+2305,2294,div,,n
+2344,2305,div,,n
+2350,2344,div,Dr. Dish iC3 Basketball Rebounder Net Return…,n
+2354,2344,div,$599.99,n
+2430,2305,div,,n
+2436,2430,div,Basketball Training,n
+2440,2430,div,$29.99,n
+2516,2305,div,,n
+2522,2516,div,GoSports XTRAMAN Blocker Pop-Up De…,n
+2526,2516,div,$64.99,n
+2602,2305,div,,n
+2608,2602,div,SKLZ Quickster Soccer Goal Portable Soccer …,n
+2610,2602,div,,n
+2612,2610,span,$49.99,n
+2614,2610,span,$54.99,n
+2689,2305,div,,n
+2695,2689,div,How to Be Better At Basketball in 21 days…,n
+2699,2689,div,$13.99,n
+2775,2305,div,,n
+2781,2775,div,GoSports Padded Blocking Guards - 2…,n
+2785,2775,div,$39.99,n
+2861,2305,div,,n
+2867,2861,div,SKLZ DMBK-D-Man A Trainer Defensi…,n
+2871,2861,div,$99.99,n
+2947,2305,div,,n
+2953,2947,div,GoSports Basketball Rebounder with Adju…,n
+2957,2947,div,$79.99,n
+3003,1561,div,,n
+3011,3003,h4,Follow Us On Social,n
+3014,3003,div,,n
+3017,3014,span,Facebook-f,n
+3020,3014,span,Pinterest,n
+3023,3014,span,Twitter,n
+3026,3014,span,Instagram,n
+3030,3003,h4,Latest Content,n
+3033,3003,div,,n
+3039,3033,h3,Two Chair Dribble Basketball Passing Drill,n
+3047,3033,h3,Stationary Ball Handling Warm Up Basketball Drill,n
+3055,3033,h3,Fundamental Passing Warm Up Basketball Drill,n
+3063,3033,h3,Frenzy Basketball Passing Drill,n
+3075,3003,div,,n
+3081,3075,div,Get The Latest Updates,n
+3085,3075,h3,Subscribe To Our Weekly Newsletter,n
+3089,3075,div,"No spam, notifications only about new products, updates.",n
+3097,3075,div,,n
+3100,3097,div,Email Address,n
+3107,3097,div,subscribe,n
+3111,3003,h4,Categories,n
+3470,1558,div,,n
+3473,3470,div,,n
+3480,3473,h4,Share,n
+3486,3473,div,,n
+3492,3486,div,Facebook,n
+3498,3486,div,Twitter,n
+3504,3486,div,Pinterest,n
+3510,3486,div,LinkedIn,n
+3520,3470,div,"Kyle Ohman was a thousand point scorer at Liberty University , was ranked the 19th best shooter in the country by Fox Sports his senior year. Kyle has also played professionally in Spain. Most recently he coached a high school team that played on a national level and beat the 12th ranked team in the nation. Coach Ohman has a promising career in the basketball industry as a coach and trainer.",n
+3523,3470,div,,n
+3525,3523,h3,25 Responses,n
+3526,3523,ol,,n
+3528,3526,li,,n
+3529,3528,footer,,n
+3532,3529,div,Dion,n
+3537,3529,div,"November 2, 2015 at 4:23 pm",n
+3540,3528,p,A pool noodle is good,n
+3542,3526,li,,n
+3543,3542,footer,,n
+3546,3543,div,Tommy Hulihan,n
+3551,3543,div,"November 3, 2015 at 9:31 am",n
+3554,3542,p,Shooting Strap is also a great piece of basketball training equipment for correcting off hand involvement in shooting as well as teaching younger players how to shoot a weak hand lay-up,n
+3556,3526,li,,n
+3557,3556,footer,,n
+3560,3557,div,Morten Ruus,n
+3565,3557,div,"November 10, 2015 at 3:03 pm",n
+3568,3556,p,Great article about training equipment,n
+3570,3526,li,,n
+3571,3570,footer,,n
+3574,3571,div,Billy,n
+3579,3571,div,"March 11, 2016 at 5:58 pm",n
+3582,3570,p,I think the Shooting Coach shooting basketball is a great way to develop you shooting fundamentals.,n
+3584,3526,li,,n
+3585,3584,footer,,n
+3588,3585,div,Daniel,n
+3593,3585,div,"March 11, 2016 at 6:01 pm",n
+3596,3584,p,"Game Elevations – Driveway Drills individual training manuals have helped my players find individual training drills, along with a resource to structure their workouts. They have 6 books plus a master training manual for about $3.99 for a digital e-book. You can find online at http: or or www.gameelevation.com . Have used the Shooting Coach also . Can find online at http: or or www.shootingcoach.com",n
+3601,3526,li,,n
+3602,3601,footer,,n
+3605,3602,div,Josh,n
+3610,3602,div,"March 11, 2016 at 9:40 pm",n
+3613,3601,p,Dick Baumgartner’s Sure Shot Basketball is the absolute best for teaching proper hand placement on the ball for shooting!,n
+3615,3526,li,,n
+3616,3615,footer,,n
+3619,3616,div,James Knox,n
+3624,3616,div,"March 16, 2016 at 1:57 pm",n
+3625,3615,div,,n
+3627,3625,p,"Hallo Basketball HQ,",n
+3629,3625,p,"my Name is Coach Knox, and I have been Teaching Basketball here in Germany",n
+3631,3625,p,I would like to know how much Money would the Blocking Pad cost me.,n
+3633,3625,p,"I need 2 Pads, also with total expenses, including Transportation fees?",n
+3635,3625,p,"I live here close to Stuttgart, Thank you for any assistance, and wishing your Team a good Day.",n
+3637,3625,p,Greetings Coach J. Knox.,n
+3639,3526,li,,n
+3640,3639,footer,,n
+3643,3640,div,Bob Topp,n
+3648,3640,div,"March 20, 2016 at 9:35 pm",n
+3651,3639,p,Agreed about the shooting strap and the hand print ball to show proper grip to younger players.,n
+3653,3526,li,,n
+3654,3653,footer,,n
+3657,3654,div,Kyle Ohman,n
+3662,3654,div,"March 23, 2016 at 10:37 am",n
+3665,3653,p,"James, thanks for the comment. All of the equipment is listed on Amazon. Just click on the link and it will take you to where you can purchase it. Hope that helps!",n
+3667,3526,li,,n
+3668,3667,footer,,n
+3671,3668,div,Amri Aromzi,n
+3676,3668,div,"April 24, 2016 at 12:24 pm",n
+3679,3667,p,Shotlock is a great tool,n
+3681,3526,li,,n
+3682,3681,footer,,n
+3685,3682,div,Kolio,n
+3690,3682,div,"July 7, 2016 at 9:16 am",n
+3693,3681,p,Thanks,n
+3695,3526,li,,n
+3696,3695,footer,,n
+3699,3696,div,Duane Jourdeans,n
+3704,3696,div,"October 29, 2016 at 2:36 pm",n
+3707,3695,p,Let me know if you would like to try out a Sweep Stick.,n
+3709,3526,li,,n
+3710,3709,footer,,n
+3713,3710,div,Mackenzie Grove,n
+3718,3710,div,"February 6, 2017 at 8:44 am",n
+3721,3709,p,Great article about training equipment for basketball players.I think the Shooting Coach shooting basketball is a great way to develop you shooting fundamentals.,n
+3723,3526,li,,n
+3724,3723,footer,,n
+3727,3724,div,Keith Spencer,n
+3732,3724,div,"May 3, 2017 at 11:41 am",n
+3735,3723,p,The XrossOver training vest is another powerful tool that helps advance your ball handling skills.,n
+3737,3526,li,,n
+3738,3737,footer,,n
+3741,3738,div,Marty,n
+3746,3738,div,"June 11, 2017 at 2:41 am",n
+3749,3737,p,Can’t believe the sweep stick was not on this list. The ball security and first step training it teaches are a must at all levels.,n
+3751,3526,li,,n
+3752,3751,footer,,n
+3755,3752,div,John P.,n
+3760,3752,div,"June 21, 2017 at 12:48 am",n
+3763,3751,p,I really like the dribble stick for my daughter. She’s learning how to dribble and it’s been awesome seeing her grow!,n
+3765,3526,li,,n
+3766,3765,footer,,n
+3769,3766,div,Chad Briscoe,n
+3774,3766,div,"April 30, 2018 at 2:09 pm",n
+3775,3765,div,,n
+3777,3775,p,"There is a new Basketball Training Tool that is making some huge noise, called “Ball By Yourself Basketball” a basketball that allow players from 6 yrs to adults to train by themselves, working on dribbling, passing, shooting and footwork without EVER chasing loose balls again. Players with injuries can use this tool as a rehab tool to assist with basic drills while having. restrictions This tool also helps with timing, rhythm as well as self-esteem and confidence with new beginners, through repetition.",n
+3779,3775,p,"Several older adults using this tool for rehab purposes, those with arthritis are also praising it for an opportunity to attain great exercise while working on their muscle restriction movement. This tool which is currently Patent Pending and the functioning prototypes are now selling on it’s website.",n
+3781,3526,li,,n
+3782,3781,footer,,n
+3785,3782,div,Mike Hyde,n
+3790,3782,div,"June 18, 2018 at 11:38 am",n
+3792,3781,p,,n
+3793,3792,text,"Please allow me to suggest The PerfectShot, a product that places the arms in the proper position, keeps the elbows in, all without touching the shooter. Fully adjustable to all sizes of player, trains right and left handed shooters, helps the bigs with inside shots, even trains the proper arm positioning for dribbling. Look at the web below for a teaching video!",n
+3795,3792,br,www. theperfectsportsgroup.com,n
+3797,3526,li,,n
+3798,3797,footer,,n
+3801,3798,div,harry@newspec.com.au,n
+3806,3798,div,"July 18, 2018 at 4:10 am",n
+3809,3797,p,I am a basketball fan and player and this web is outstanding and best training for me to learn i really thankfull for this,n
+3811,3526,li,,n
+3812,3811,footer,,n
+3815,3812,div,Waleed Hussain,n
+3820,3812,div,"May 11, 2019 at 5:18 am",n
+3821,3811,div,,n
+3823,3821,p,"We are Manufacturing Gloves and Uniforms of Baseball or American Football or Basketball or Ice Hockey or Soccer, Compression Products or Mixture Sports Items or Bags or Gloves or Accessories etc….",n
+3825,3821,p,Kindly look up at our website,n
+3827,3821,p,,n
+3828,3827,text,items.,n
+3830,3827,br,Our prices are very competitive with good delivery and great quality.,n
+3832,3821,p,Hope to get positive response from you.,n
+3834,3526,li,,n
+3835,3834,footer,,n
+3838,3835,div,zachary Mills,n
+3843,3835,div,"March 22, 2020 at 9:49 pm",n
+3844,3834,div,,n
+3846,3844,p,"A weighted vest makes a big difference in your basketball specific workouts, well for me i felt it did. Same as the weighted ball, help tighten up my handles.",n
+3848,3844,p,"Great article, didnt even think of other equipment, thankfully i found the article i will be looking to implement into my youth team off season practice!",n
+3850,3526,li,,n
+3851,3850,footer,,n
+3854,3851,div,Alejandrina Ampt,n
+3859,3851,div,"July 5, 2020 at 10:19 pm",n
+3862,3850,p,"Good afternoon, I was just taking a look at your site and submitted this message via your contact form. The “contact us” page on your site sends you these messages to your email account which is the reason you are reading through my message at this moment correct? This is the holy grail with any kind of advertising, making people actually READ your advertisement and that’s exactly what I just accomplished with you! If you have an advertisement you would like to promote to thousands of websites via their contact forms in the US or to any country worldwide send me a quick note now, I can even focus on particular niches and my pricing is super low. Shoot me an email here: Benja57mik57@gmail.com",n
+3865,3526,li,,n
+3866,3865,footer,,n
+3869,3866,div,Danise Hansen,n
+3874,3866,div,"September 18, 2020 at 8:25 am",n
+3877,3865,p,Thanks,n
+3879,3526,li,,n
+3880,3879,footer,,n
+3883,3880,div,Bob Schmidtty,n
+3888,3880,div,"November 17, 2020 at 5:32 pm",n
+3891,3879,p,this was very helpful thank you. #BLM,n
+3893,3526,li,,n
+3894,3893,footer,,n
+3897,3894,div,Asad Waseem,n
+3902,3894,div,"February 2, 2021 at 5:31 am",n
+3903,3893,div,,n
+3905,3903,p,"Get Custom Sublimated Basketball Uniforms with your team logo , name and number at WASII Sports",n
+3907,3903,p,wasiisports96 gmail.com,n
+3908,3523,div,,n
+3910,3908,h2,Leave a Reply,n
+3911,3908,form,,n
+3912,3911,p,,n
+3914,3912,span,Your email address will not be published.,n
+3916,3912,span,Required fields are marked,n
+3921,3911,p,Comment,n
+3927,3911,p,Name,n
+3933,3911,p,Email,n
+3939,3911,p,Website,n
+3944,3911,p,"Save my name, email, and website in this browser",n
+3953,3911,p,Δ,n
+3967,1558,div,,n
+3968,3967,div,,n
+3971,3968,span,Prev,n
+3972,3968,span,,n
+3974,3972,span,Previous,n
+3976,3972,span,Best Basketball Coaching Books,n
+3982,3967,div,Best Basketball Books,n
+3991,1558,div,,n
+3997,3991,div,On Key,n
+4001,3991,h2,Related Posts,n
+4004,3991,div,,n
+4008,4004,div,,n
+4010,4008,h3,Solo Assist Review,n
+4013,4008,p,This review was written by Basketball HQ co-founder and skill development trainer Kyle Ohman. One of the things that I firmly believe in as,n
+4017,4004,div,,n
+4019,4017,h3,Physiclo Resistance Tights Review,n
+4022,4017,p,"As a basketball player or a coach, you are always looking for ways to gain an edge on the competition and improve yourself. However,",n
+4026,4004,div,,n
+4028,4026,h3,Best Basketball Gifts,n
+4031,4026,p,Best Basketball Gifts,n
+4035,4004,div,,n
+4037,4035,h3,Best Basketball Coaching Books,n
+4040,4035,p,Best Basketball Coaching Books,n
+4046,1558,div,,n
+4052,4046,div,On Trend,n
+4055,4046,div,,n
+4062,4055,h2,Most Popular Posts,n
+4072,4055,div,Explore more,n
+4075,4046,div,,n
+4076,4075,div,,n
+4078,4076,text,Basketball Training Equipment,n
+4080,4076,span,7K Total Shares,n
+4082,4075,div,,n
+4084,4082,text,Best Basketball Books,n
+4086,4082,span,8K Total Shares,n
+4088,4075,div,,n
+4090,4088,text,Best Basketballs,n
+4092,4088,span,4K Total Shares,n
+4094,4075,div,,n
+4096,4094,text,Best Basketball Coaching Books,n
+4098,4094,span,7K Total Shares,n
+4100,4075,div,,n
+4102,4100,text,Best Basketball Gifts,n
+4104,4100,span,0K Total Shares,n
+4106,4075,div,,n
+4108,4106,text,8 Keys to Becoming a Great Point Guard in Basketball,n
+4110,4106,span,3K Total Shares,n
+4112,4075,div,,n
+4114,4112,text,5 Ways to Earn Playing Time in Basketball,n
+4116,4112,span,7K Total Shares,n
+4118,4075,div,,n
+4120,4118,text,5 Things Every Basketball Point Guard Should Know,n
+4122,4118,span,6K Total Shares,n
+4170,0,div,,n
+4178,4170,p,basketballhq.com Training Videos,n
+4185,4170,h2,All Rights Reserved © 2021,n
+4215,0,span,Sumo,n
+4223,0,div,,n
+4239,4223,div,SUBSCRIBE NOW,n
+4244,4223,p,DON'T MISS OUR WEEKLY CONTENT,n
+4249,4223,p,Interested? Enter your email below,n
+4259,4223,div,No Thanks,n

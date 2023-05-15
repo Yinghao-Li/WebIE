@@ -1,0 +1,104 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+44,0,div,,n
+61,44,h1,Rugby Equipment List,n
+62,44,div,,n
+66,62,h2,Contents,n
+69,62,ul,,n
+71,69,li,Rugby Equipment,n
+89,69,li,Shoulder Pads or Upper Body Padding,n
+95,69,li,Tackling Pads or Hit Shield,n
+99,69,li,Rugby Equipment,n
+103,44,div,,n
+105,103,h2,Rugby Equipment,n
+107,103,p,"Rugby is a fast-paced team sport typically played on a grass field. Teams use strength and speed to move the ball down the field. The team on offense tries to pass the ball backward and run toward the goal line while the defensive team tries to stop them by tackling them to the ground. Points are scored by moving the ball past the goal line or kicking it through the uprights, which stand at either end of the field. The sport requires a lot of manpower and most of the equipment is used to keep players safe.",n
+110,103,p,"The most basic pieces of equipment needed for a rugby match are a ball, cleats, and uniforms. The ball is round and oblong, like a cross between an American football and a soccer ball. Rugby cleats are often similar to football cleats because the two sports use very similar movements on grass surfaces. Uniforms include a player's shirt, shorts, and socks. Many players wear other protective equipment, such as a mouthguard, light padding, and headgear. Cones and tackling pads are important tools for training and practicing rugby.",n
+120,103,p,"The rugby ball is shaped unlike any other. It is an oblong ball that is completely round and smooth. Rugby headgear is also unique because it's seldom seen in any other sports. Classic rugby shirts have collars and some are long-sleeved, but in the modern game, they can range from these to more skin-tight wears.",n
+122,103,p,"The ball is the most critical piece of rugby equipment ; it is impossible to play a game of rugby without a ball. Rugby players also need shirts, shorts, socks, and cleats to play in organized competitions. Having the right kind of cleats is notably important, too. Most players also elect to wear headgear or mouthguards for added safety. Some competitions require this protective gear, especially in youth leagues . Children are more vulnerable to long-term rugby injuries than adults.",n
+129,44,div,,n
+131,129,h2,Ball,y
+133,129,p,"A rugby ball is a uniquely shaped ball that is oval similar to an American football but also completely round and smooth like a soccer ball. The original rugby ball was made out an inflated pig's bladder encased in leather. However, the modern rugby balls are now made out of natural rubber or synthetic materials that are better able to withstand the elements. Rugby balls themselves are anywhere from $22 to $38 with higher-end replica balls costing more than that.",n
+134,44,div,,n
+136,134,h2,Cleats,y
+138,134,p,"Cleats are used to get a solid grip on the playing surface. Cleats are also often referred to as ""boots."" Forwards mostly wear heavy-duty cleats with good grip and ankle support. Backs tend to wear lightweight cleats for better speed and agility. Cleats are also customisable with either leather or synthetic cleats available. Leather molds to the feet well, but synthetic is lighter and usually less expensive. The bottom of your cleats can either have screw-in studs which allows for adjusting your studs based upon weather conditions, or studs that can't be removed. Cleats themselves can be anywhere from $50 to $100 depending on brand and quality.",n
+141,44,div,,n
+143,141,h2,Cones,y
+145,141,p,"Rugby cones are another piece of equipment that is key in training and practice; the cones themselves are roughly $10. Rugby cones can be used in a wide variety of drills and ways. Firstly, a common use is using them as a place marker for different distances a player has to run and pass. Then the cones can also be used as markers for accuracy during passing drills to see how close players get to the target. Finally cones are usually used in practice games as you will place cones along the sidelines and also to mark the try scoring area.",n
+150,44,div,,n
+152,150,h2,Headgear or Scrum Caps,y
+154,150,p,"Rugby players have always had some type of protective headgear over the years, but once the game turned professional in 1995, headgear requirements became strict. Rugby headgear is usually made from light synthetic materials that help protect a player from head trauma. For front row forwards this is especially important because it helps prevent injuries to the head and ears as they have their heads down in the scrum . Typical rugby headgear or scrum caps go between $25 and $50 at most retailers.",n
+157,44,div,,n
+159,157,h2,Jersey or Shirt,y
+161,157,p,"Jerseys are an essential part of a team uniform. Jersey numbers are determined by position on the field. 1-8 are players in the scrum , 9 is the scrum half, and 10-15 are backs. The jersey or shirt used to be made with heavy duty cotton, but since cotton gets very heavy when raining they switched to synthetic materials that don't soak up water as much. You also need to make sure to get a jersey that is the right fit; if it is too small it will rip, and if it is too big it makes you easier to tackle. Rugby shirts typically can go from $40 to $80.",n
+162,44,div,,n
+164,162,h2,Mouthguard,y
+166,162,p,"The mouthguard, or gum shield, is another important piece of protective equipment for rugby players. The mouthguard doesn't only just protect your teeth and gums, but also can reduce damage to your jaw, and reduces your risk of getting concussed. As everyone has different shaped mouths, making sure that you have a mouthpiece that fits your mouth well is important. You can do this by either trying different mouth guards to see which fits best, or you can do the ""boil in the bag"" type of mouthpiece where you boil it and put the hot mold over your teeth to get the most accurate fit. Mouthguards themselves can be anywhere from $15 to $35 in price.",n
+167,44,div,,n
+169,167,h2,Scrum Machines,y
+171,167,p,"Scrum machines are another often used piece of equipment in rugby practices. It is a large metal piece of equipment with wheels on it and pads that come out from it on which the forwards push on to move it forward. This is important for forwards as it helps them develop their scrummaging skills as a team and increases their strength. They are often used to improve where weaknesses are seen in a team's scrum during a game. A scrum machine is only for if you have a full team and isn't necessary for an individual as they are very expensive, going for thousands of dollars.",n
+172,44,div,,n
+174,172,h2,Shorts,y
+176,172,p,"Shorts are the other half of the uniform. They're made of thick cotton and are rolled to thigh length. Similar to the jersey, the shorts are made with thick material and stitching so that shorts can be tugged by other players and teammates. Additionally, there are special types of shorts for Second Row Forwards; they now use special line-out shorts which have reinforced stitching to help them get lifted in the line out. Shorts are also typically worn tight to the body to prevent being pulled down by opponents. However, you also want to make sure that your shorts are comfortable as if the shorts are too tight then that could not only be embarrassing, but also cause injury. Rugby shorts typically go from $15 to $30.",n
+177,44,div,,n
+179,177,h2,Shoulder Pads or Upper Body Padding,y
+181,177,p,"Shoulder pads are another piece of protective equipment that is important to rugby players. Rugby shoulder pads actually have heavy restrictions on them as pros are only allowed to have shoulder pads that are no thicker than 1cm. While the pads themselves are very small, they have been proven to reduce shoulder damage when making tackles. Additionally, in rugby upper body padding there is also some extra protective material over your chest which is another of your most vulnerable body parts. The typical cost of upper body padding is at least $50 and can go closer to $100 for higher end ones.",n
+182,44,div,,n
+184,182,h2,Socks,y
+186,182,p,"Rugby socks are very similar in style to that of soccer socks as they typically will come up to right beneath the knee. It is important to make sure that the rugby socks fit snug to prevent them falling down, but they should also be breathable to prevent excess sweating that could affect the player. Most good quality rugby socks will also have extra padding for the foot around the heel and toes to prevent rubbing and rankles. Rugby socks will go for around $10 to $20.",n
+187,44,div,,n
+189,187,h2,Tackle Dummy Or Bag,y
+191,187,p,"Rugby tackling bags are another piece of equipment that is typically used in practices to help improve rugby skills. Tackle bags' main use are obviously to help players improve their tackling skill. This is typically done by having players practice tackling at different heights and angles to give them extra experience and make them better tacklers. Also, tackling bags can be used with attacking moves to help players improve their defensive skills. The cost of a tackling bag for rugby can be $60 to over $100 depending on type and shape of the bag.",n
+192,44,div,,n
+194,192,h2,Tackling Pads or Hit Shield,y
+196,192,p,"Rugby tackling pads or hit shields are quite similar to tackling bags. Rugby tackling pads are typically used in practices also but are held by another person instead of being placed on the ground like a tackling bag. These tackling pads are then used to help develop much of the same skills as that of a tackling bag helping players learn better tackling techniques and allowing them to practice them against an actual person holding the pads. The typical cost for a tackling pad is at least $60 but can be more depending on shape, size, and brand.",n
+197,44,div,,n
+199,197,h2,Water Bottle,y
+201,197,p,"A water bottle is another thing that every rugby player should have also. A water bottle is something that is commonly used in all sports, but yet is still a key and necessary piece of equipment for rugby. Rugby is such a physical and demanding game that players need to maintain proper hydration to keep at peak performance and prevent dehydration and injury. Most athletic water bottles cost a few dollars, but typically aren't more than $10 unless they are a large size or come with specialized equipment.",n
+202,44,div,,n
+204,202,h2,Rugby Equipment,y
+205,202,ul,,n
+223,205,li,Shoulder Pads or Upper Body Pads,y
+229,205,li,Tackling Pads or Hit Shields,y
+232,44,div,,n
+234,232,h2,FAQ,n
+236,232,div,,n
+239,236,h3,How much does Rugby equipment cost?,n
+243,236,p,"Equipment ranges in cost based on quality and brand. For example, rugby balls range from about $10 to well over $100 each. Shirts, shorts, and socks are usually supplied by the team itself, but may still require a fee. Cleats can be the most expensive equipment item, with brand-name pairs of cleats hovering around $100 on their own. Most headgear costs around $40 to $70. Overall, all necessary rugby gear can usually be found for less than $200 in total. If purchasing additional training equipment, the cost can be a little higher; basic cones and training pads can add about $50.",n
+247,44,div,,n
+249,247,h2,Pages Related to Rugby Equipment List,n
+250,247,ul,,n
+252,250,li,What is Wheelchair Rugby?,n
+254,250,li,Top 5 Ranked Mens Rugby Players Of All Time,n
+256,250,li,Who Created Rugby?,n
+258,250,li,Rugby Players,n
+260,250,li,Top 10 Richest Rugby Players,n
+262,250,li,What is Rugby?,n
+266,44,footer,,n
+267,266,div,,n
+268,267,div,,n
+270,268,span,Company,n
+271,268,ul,,n
+273,271,li,About,n
+275,271,li,Careers,n
+277,271,li,Shop,n
+278,267,div,,n
+280,278,span,Contact,n
+283,278,li,Contact Us,n
+286,267,div,,n
+288,286,span,Legal,n
+289,286,ul,,n
+291,289,li,Terms,n
+293,289,li,Privacy,n
+294,267,nav,,n
+296,294,span,Social,n
+297,294,ul,,n
+299,297,li,Facebook,n
+301,297,li,Instagram,n
+303,297,li,LinkedIn,n
+305,297,li,Medium,n
+307,297,li,Pinterest,n
+309,297,li,Twitter,n
+311,297,li,YouTube,n
+312,266,div,,n
+314,312,span,Rookie Road may earn a commission when you buy through links on our site.,n
+316,312,span,Copyright ©Rookie Road Inc. All rights reserved.,n

@@ -1,0 +1,66 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+3,2,div,,n
+14,3,h1,Football Equipment and Facilities,n
+15,3,ul,,n
+18,15,li,Football Field Dimensions,n
+21,15,li,"A Ball, Some Friends, and a Soccer Goal — an article about all you need for a game.",n
+24,15,li,Official Balls of the World Cup,n
+27,15,li,Goal Line Technology and other technology,n
+30,15,li,Football Equipment,n
+42,3,h2,Related Pages,n
+45,3,li,Football resources,n
+48,3,div,"Any comments, suggestions, or corrections? Please let us know .",n
+51,2,div,,n
+52,51,div,,n
+54,52,h2,Search This Site,n
+71,52,div,×,n
+81,51,div,,n
+83,81,h2,More Football,n
+84,81,ul,,n
+86,84,li,Soccer Home,n
+88,84,li,Fitness,n
+90,84,li,Fitness Testing,n
+92,84,li,FIFA World Cup,n
+94,84,li,Tournaments,n
+96,84,li,Player Profiles,n
+98,84,li,Football Calendar,n
+99,51,div,,n
+101,99,h2,Sport Extra,n
+103,99,p,"Check out the 800+ sports in the Encyclopedia of Every Sport . Well not every sport, as there is a list of unusual sports , extinct sports and newly created sports . How to get on these lists? See What is a sport? We also have sports winners lists , and about major sports events and a summary of every year .",n
+122,0,p,,n
+124,122,strong,CITE THIS PAGE,n
+125,122,text,"Robert Wood, ""Football Equipment and Facilities."" Topend Sports Website, 2008, https: or or www.topendsports.com or sport or soccer or equipment.htm, Accessed 27 June 2022 → How to Cite",n
+132,0,div,,n
+133,132,div,,n
+134,133,div,,n
+137,134,p,PAGES,n
+138,134,p,,n
+139,138,text,home,n
+141,138,br,search,n
+143,138,br,sitemap,n
+145,138,br,store,n
+146,133,div,,n
+147,146,p,,n
+149,147,strong,SOCIAL,n
+151,147,strong,MEDIA,n
+152,146,p,,n
+153,152,text,newsletter,n
+155,152,br,facebook,n
+157,152,br,twitter,n
+158,133,div,,n
+161,158,p,SECURITY,n
+162,158,p,,n
+163,162,text,privacy,n
+165,162,br,disclaimer,n
+167,162,br,copyright,n
+168,133,div,,n
+171,168,p,ABOUT,n
+172,168,p,,n
+173,172,text,contact,n
+175,172,br,author info,n
+177,172,br,advertising,n
+179,132,p,,n
+181,179,br,©Topend Sports Network,n
+184,179,br,Page last modified,n

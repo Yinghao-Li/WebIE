@@ -1,0 +1,116 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+8,2,div,,n
+9,8,div,,n
+190,9,h1,Golf Balls,n
+193,9,p,"If you’re just getting started with golf, the first rule of buying golf balls is quantity over quality. You will buy the balls, but you may not own them for long. Your first rounds of golf will most likely involve lakes, creeks, woods, and potentially random yards of strangers. In other words, don’t get too attached.",n
+197,9,p,Did you know that top-end golf balls cost $60 per dozen? You don’t want to lose $5 everytime you hit a wild tee shot.,n
+200,9,p,"The good news, there are plenty of options for you that cost a fraction of this price. You can choose from numerous brands and colors .",n
+203,9,h4,Golf Ball Purchasing Tips,n
+204,9,ul,,n
+206,204,li,"For beginners, the performance of the golf ball doesn’t make a difference - go with the brand, model, price of your choice.",n
+208,204,li,Do you want some free golf balls? Maybe take an evening walk around your local course and hunt for balls that others have lost.,n
+209,204,li,,n
+210,209,text,Discount golf equipment idea,n
+212,209,span,"if you are interested in trying premium balls without the premium price you can buy refurbished balls - they have been used before, but are often “like new” (",n
+214,209,span,https,n
+216,209,span,.,n
+219,9,h2,Other Golf Equipment and Accessories,n
+222,9,p,"You have your clubs, your bag, and plenty of balls - what additional golf equipment or accessories do you need to attack the course? For this section, we have provided a list of golf items and tagged them as either “Day 1”, “Recommended” or “Optional”.",n
+225,9,h4,Day 1 Golf Equipment,n
+228,9,p,Acquire These Before You Head Out To Play,n
+229,9,ul,,n
+230,229,li,,n
+232,230,strong,Golf Tees,y
+233,230,text,- they will cost you very little and some courses offer,n
+234,229,li,,n
+236,234,strong,Ball Mark,y
+237,234,text,"- you can use a coin or your favorite poker chip - once your ball has reached the green, you should mark it until it’s your turn to putt.",n
+239,229,li,Golf Bag Rain Hood - you simply never know when a rain shower may pop up. Don't let your clubs get wet and potentially ruined. Invest in a golf bag rain hood that is designed to fit your golf bag of choice.,n
+241,229,li,,n
+243,241,strong,Golf Valuables Pouch,y
+244,241,text,"- Clip it to your bag and use it to carry your keys, wallet, cell phone, extra tees, etc!",n
+245,229,li,,n
+247,245,strong,Divot Tool,y
+249,245,span,"- take care of the course - when your ball hits the green it’ll leave a mark - if you don’t have a tool, you can fix with a tee.",n
+250,229,li,,n
+252,250,strong,Golf Towel,y
+254,250,span,- use to keep your hands dry or clean dirt or mud off your ball.,n
+255,229,li,,n
+257,255,strong,Sunscreen,y
+259,255,span,- stay safe - don’t let you day on the course be ruined by a burn.,n
+261,9,div,Shop The Golf Towel Collection,n
+266,9,h4,Recommended Golf Equipment,n
+269,9,p,"You Can Play Without These Accessories, But Why Would You?",n
+270,9,ul,,n
+271,270,li,,n
+273,271,strong,Golf Glove,y
+275,271,span,- keep you grip secure on hot and humid days.,n
+276,270,li,,n
+278,276,strong,Golf Hat,y
+280,276,span,your favorite PGA professional.,n
+281,270,li,,n
+283,281,strong,Club Brush,y
+285,281,span,- give you clubs a quick brush between shots - designed to attach to your bag for ease of use.,n
+286,270,li,,n
+288,286,strong,Golf Shoes,y
+290,286,span,"- designed for comfort on the course and with spikes to help you stay on balance - you can play in any athletic shoes, but golf shoes have advantages.",n
+291,270,li,,n
+293,291,strong,Golf Umbrella,y
+295,291,span,"- if you play golf, you will get stuck in the rain - golf umbrellas are lightweight and designed to keep you and your golf equipment dry.",n
+298,9,h4,Optional Golf Equipment,n
+301,9,p,You’ll Probably Want To Add These Items To Your Golf Equipment As You Become A More Experienced Player,n
+302,9,ul,,n
+303,302,li,,n
+305,303,strong,Push Cart,y
+307,303,span,"- if you enjoy walking the course, but want to save the back.",n
+308,302,li,,n
+310,308,strong,Rangefinder,y
+312,308,span,"- an expensive device, but allows you quickly determine distance to the pin or any other object you plan to aim towards.",n
+313,302,li,,n
+315,313,strong,Ball Retriever,y
+317,313,span,"- do you hate losing balls you can see, but can’t reach? Ball retrievers are not for everyone.",n
+318,302,li,,n
+320,318,strong,Rain Gloves,y
+322,318,span,- do you play regardless of the weather forecast? Golf rain gloves allow you to grip your clubs even if you and your clubs are soaked.,n
+323,302,li,,n
+325,323,strong,Hand Warmers,y
+327,323,span,- inexpensive to purchase and they’ll make your round much more enjoyable on a cold day.,n
+330,9,h2,Purchasing All Your Golf Equipment,n
+333,9,p,Building out your golf equipment is part of the fun of enjoying this great sport. You don’t need to buy everything at once and you can definitely use techniques to find discount golf equipment. Enjoy the process of finding the products that work the best for your game.,n
+336,9,p,"Golf is a game you can play for the rest of your life, so don’t feel rushed. Take your time. Find the equipment that fits your approach to the game. Enjoy your strolls down the fairway. Play well and hit ‘em straight!",n
+337,8,div,,n
+339,337,span,Share,n
+341,337,span,Share on Facebook,n
+343,337,span,Tweet,n
+345,337,span,Tweet on Twitter,n
+347,337,span,Pin it,n
+349,337,span,Pin on Pinterest,n
+350,8,div,,n
+352,350,h3,Related Posts,n
+353,350,div,,n
+361,353,div,,n
+363,361,div,Best Golf Gloves For Every Budget,n
+364,361,div,,n
+365,364,text,golf accessories · golf apparel · golf clothing ·,n
+372,364,time,"Jun 24, 2022",n
+380,353,div,,n
+382,380,div,The 15 Best Golf Blogs You Need To Read In 2022,n
+383,380,div,,n
+384,383,text,golf content · golf tips ·,n
+389,383,time,"Jun 08, 2022",n
+391,8,div,,n
+394,391,li,,n
+395,394,div,,n
+397,395,div,golftopicreviews,n
+400,395,div,"Jan 11, 2022",n
+404,394,p,This is an excellent post. You covered both topics very well. I cover some golf ball,n
+407,391,h3,Leave a comment,n
+409,391,div,,n
+412,409,div,,n
+415,412,div,Name,n
+419,412,div,Email,n
+422,409,label,Message,n
+426,409,p,"Please note, comments must be approved before they are published",n
+430,2,div,loma bag series,n

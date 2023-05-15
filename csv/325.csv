@@ -1,0 +1,75 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+6,0,h1,Rocket Fish Swimming,n
+262,0,div,,n
+267,262,div,,n
+271,267,h2,Team Suits,n
+272,267,p,,n
+274,272,span,"Team suits, required",n
+276,272,span,can be purchased,n
+277,272,text,online,n
+279,272,span,or in person from Competitive Aquatic Supply,n
+280,267,p,,n
+281,280,text,https,n
+284,280,br,15661 Container Lane,n
+286,280,br,"Huntington Beach, CA 92649",n
+288,280,br,421–5192,n
+291,267,div,,n
+302,291,p,Nike Nylon Core Solid Fast Back Tank,n
+310,291,strong,Nike Nylon Core Solid Thin Strap Tank,n
+321,291,p,Nike Nylon Core Solid Jammer,n
+330,291,p,Nike Nylon Core Solid Brief,n
+336,267,h2,Equipment List,n
+337,267,p,,n
+339,337,span,Equipment can be found at,n
+340,337,text,CAS,n
+342,337,span,or,n
+343,337,text,Swim Outlet,n
+345,337,span,.,n
+347,267,h3,A and B1 Groups,n
+349,267,div,,n
+354,349,thead,Recommended brands and styles,n
+355,349,tbody,,n
+358,355,tr,,n
+361,358,p,__________________________________________________________________________,n
+364,358,p,Mesh Bag,y
+366,358,p,Backpack style preferred,n
+371,355,tr,,n
+374,371,p,Pull Buoy,n
+375,371,p,,n
+376,375,text,Junior,n
+378,375,br,Adult,n
+381,355,tr,,n
+384,381,p,Fins,y
+386,381,p,TYR Crossblade Training Fin,y
+389,355,tr,,n
+392,389,p,Snorkel,y
+394,389,p,ylon-a or Speedo Bullet Head,n
+397,355,tr,,n
+400,397,p,Hand Paddles,y
+402,397,p,Finis Agility Paddles or ISO Paddles,y
+408,355,p,Goggles,y
+411,267,h3,B2 Group,n
+413,267,ul,,n
+414,413,li,,n
+416,414,strong,Mesh Bag,y
+417,414,text,– Backpack style preferred,n
+418,413,li,,n
+420,418,strong,Pull Buoy,n
+421,418,text,– Junior,n
+430,267,h3,C Group,n
+442,267,h2,Other Stuff,n
+445,267,p,Spring 2022 gear,n
+449,267,p,"On a seasonal basis, we also offer premium team gear:",n
+452,267,div,,n
+455,452,tr,,n
+460,455,p,Premium Team Bag,n
+462,455,p,Great,n
+468,452,tr,,n
+470,468,p,Premium Team Parka,n
+472,468,p,Keeps you warm on deck before and after practice and wonderful,n
+474,267,p,​,n
+490,262,div,,n
+492,490,p,"© Copyright SportsEngine, Inc. This website is powered by TeamUnify but is owned by and subject to the Organization’s privacy policy.",n
+496,490,p,"© Copyright SportsEngine, Inc. This website is powered by GoMotion but is owned by and subject to the Organization’s privacy policy.",n
+500,490,div,Privacy Statement,n

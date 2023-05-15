@@ -1,0 +1,108 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+117,0,div,,n
+119,117,h1,Ten Hiking Essentials,n
+128,117,div,,n
+131,128,div,,n
+133,131,p,Use the ten hiking essentials as a checklist to keep yourself and your group safe outdoors during everything from a day hike to a multi-day backpacking trip. Check the weather forecast before you head out. Know the rules and regulations of the area. Certain seasons will call for additional gear but you will always want to make sure you carry these ten things.,n
+135,131,h2,Ten Hiking Essentials,n
+138,131,h3,Hiking Boots or Athletic Shoes,y
+140,131,p,Make sure to choose footwear that will keep you safe on the trail. No sandals.,n
+143,131,h3,Water,y
+145,131,p,Always carry water with you while hiking. Keep in mind that fluid loss is heightened in winter and summer. Consider carrying a filter water and or or water purification tablets. Read directions and use both carefully to ensure the water you find in streams and lakes is safe to drink.,n
+148,131,h3,Navigation,y
+150,131,p,Bring a physical waterproof or tear-resistant Trail Conference map and a compass. Learn how to use both these tools to determine where you are or where you're going. You can also access digital Trail Conference maps using Avenza’s free PDF Maps app on your mobile device.,n
+157,131,h3,Food,y
+159,131,p,"Depending on the length of your trip, pack a sandwich, trail mix, fruit, seeds, or chocolate for when you get hungry.",n
+162,131,h3,Sunscreen and Insect Repellent,y
+164,131,p,Apply regularly to protect yourself even on cloudy days. SPF 30 is recommended.,n
+167,131,h3,Rain Gear and Extra Clothing,y
+169,131,p,"Be prepared for changing weather, even if it's not in the forecast. Take a rain jacket and consider dressing in layers so you can pull on or remove items as the weather changes. Avoid cotton base layers. Cotton traps water against your skin and is slow to dry. Choose synthetic shirts, sweaters and or or vests.",n
+172,131,h3,First Aid Kit,y
+174,131,p,Choose a compact and weatherproof first aid kit. Know how to use each item in it.,n
+177,131,h3,Headlamp or Flashlight,y
+179,131,p,A small headlamp or flashlight will be useful if you find yourself on the trail after sunset. Carry an extra set of batteries in your pack.,n
+182,131,h3,Matches or Lighter,y
+184,131,p,"In an emergency, you may need to keep yourself or someone else warm until help arrives. Carry matches in a waterproof container.",n
+187,131,h3,Tools,y
+189,131,p,A knife is an important tool to carry while hiking. A physical list of emergency numbers for the area and a lightweight emergency blanket can also be useful additions to your pack.,n
+198,128,div,,n
+200,198,h2,Comment,n
+201,198,div,,n
+204,201,h3,A not about hiking essentials,n
+210,201,div,"on Mon, 12 or 12 or:19",n
+215,201,div,"The equipment required for hiking depends on the length of the hike, but day hikers generally carry at least water, food, a map, and rain-proof gear. Hikers usually wear sturdy hiking boots for mountain walking and backpacking, as protection from the rough terrain, as well as providing increased stability. The Mountaineers club recommends a list of ""Ten Essentials"" equipment for hiking, including a compass, a trekking pole, sunglasses, sunscreen, a flashlight, a first aid kit, a fire starter, and a knife. Other groups recommend items such as hat, gloves, insect repellent, and an emergency blanket. A GPS navigation device can also be helpful and route cards may be used as a guide.",n
+223,198,div,,n
+226,223,h3,Gear to Take Hiking,n
+232,223,div,"on Wed, 08 or 21 or:50",n
+237,223,ul,,n
+238,237,li,,n
+240,238,strong,Footwear,n
+241,238,text,- I would strongly favor hiking boots over athletic shoes. Unless they are high top style shoes they lack the support to help prevent ankle injuries.,n
+242,237,li,,n
+244,242,strong,Signal mirror and whistle,n
+245,242,text,"-These two items can make the difference between being found or not if lost or injured. Some packs have a whistle built into the sternum strap buckle, or you can buy such a buckle aftermarket and replace the existing buckle.",n
+246,237,li,,n
+248,246,strong,strong cord and bandana,n
+249,246,text,"-Having a few feet of strong, small diameter cord can help if you need to make splint, and combined with the bandana can create a sling for an injured arm. The bandana on its own is useful for other things too.",n
+250,237,li,,n
+252,250,strong,Fire building,n
+253,250,text,"-It's actually not so easy to build a fire. One tip to make it easier to start a fire is to bring your own fire starter. Cotton balls work very well for this purpose, are very light and take up little space in a pack. Even better than dry cotton balls are cotton balls soaked in olive oil. One can also bring small wax candles for this purpose.",n
+261,0,footer,,n
+263,261,div,,n
+264,263,section,,n
+266,264,h2,Trail News,n
+267,264,div,,n
+268,267,div,,n
+274,268,div,"bollard project in Essex County, New Jersey",n
+280,268,div,Become an Invasive Strike Force Surveyor!,n
+286,268,div,New York Invasive Species Awareness Week is June!,n
+288,267,div,View all trail news,n
+289,263,section,,n
+291,289,h2,More News,n
+292,289,div,,n
+293,292,div,,n
+299,293,div,Trail Conference Awarded ExtremeTerrain Clean Trail Grant,n
+305,293,div,Put Your Business on the Map! Sponsor a Trail Conference Map Set,n
+311,293,div,Trail Runners Go the Distance,n
+314,292,div,View all more news,n
+315,263,section,,n
+317,315,h2,Upcoming Events,n
+318,315,div,,n
+319,318,div,,n
+320,319,div,,n
+325,320,div,25,n
+329,320,span,Tread Construction and Repair Workshop | Sterling Forest - Laurel Pond Meadow Parking Lot,n
+330,319,div,,n
+335,330,div,26,n
+339,330,span,Harriman Trail Crew Work Trip | Harriman State Park - Tuxedo Train Station Commuter Lot,n
+340,319,div,,n
+345,340,div,30,n
+349,340,span,Catskills Trail Crew Worktrip at the Platte Clove Preserve | Catskill Mountains - Platte Clove Preserve,n
+351,318,div,View all upcoming events,n
+354,261,div,,n
+356,354,h2,Volunteer,n
+358,354,div,,n
+360,358,div,Keep our trails happy. Volunteers rock!,n
+363,358,div,Find opportunity,n
+365,261,div,,n
+370,365,div,Donate Now,n
+373,365,div,,n
+375,373,h2,Quick Links,n
+376,373,p,,n
+377,376,text,Find Hikes and Parks,n
+379,376,br,Volunteer,n
+381,376,br,My Dashboard,n
+383,376,br,News Center,n
+385,376,br,About Us,n
+387,376,br,Shop,n
+389,365,div,,n
+394,389,div,Login or Register,n
+398,389,div,E-News Signup,n
+402,389,div,,n
+404,402,h2,Search form,n
+412,402,div,Search,n
+425,261,p,,n
+426,425,text,"Copyright ©New York-New Jersey Trail Conference, www.nynjtc.org | Privacy Policy | Photo Credits",n
+434,425,br,About Us Contact Us Donate Join,n
+440,0,button,back to top,n

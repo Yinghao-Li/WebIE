@@ -1,0 +1,111 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+38,0,div,,n
+52,38,h1,Wrestling Equipment List,n
+53,38,div,,n
+57,53,h2,Contents,n
+60,53,ul,,n
+62,60,li,Wrestling Equipment,n
+94,60,li,Wrestling Equipment,n
+98,38,div,,n
+100,98,h2,Wrestling Equipment,y
+102,98,p,"Wrestling is one of the oldest sports in the world, having been depicted dating all the way back to 3000 BC! Wrestling is considered a combat sport involving two competitors, each trying to hold the other down onto the mat for at least two seconds, keeping their opponents’ shoulders pinned on the ground for that time. Wrestling involves strength, grappling, and strategy and is a popular sport that takes on many forms throughout the world. The most common types of wrestling in the world are Freestyle, where wrestlers can use their legs, and Greco Roman, where wrestlers cannot hold the other competitor at any point below their waist.",n
+106,38,div,,n
+108,106,h2,Bags,y
+110,106,p,"Like any good athlete, a wrestler has to come prepared. The best way to organize your gear is to have a designated bag for it. Wrestlers have more equipment that you would expect for a match so it’s important to make it all easily portable. Equipment bags should be well ventilated and are usually in a large backpack style for plenty of room. You can buy one for around $40.",n
+111,38,div,,n
+113,111,h2,Champion Belts,y
+115,111,p,Crowning a winner is an essential element of every match and tournament and one of the best ways to celebrate is with a championship belt. These belts are usually made of leather with a large metal plaque in the center with the name of the tournament and weight class engraved on it. High schools will occasionally award medals in lieu of a belt but a championship belt is usually a staple of wrestling victories. Replica belts from professional tournaments or personalized belts can sell for up to $200. This is an expensive price point but worth it for a champion’s glory.,n
+116,38,div,,n
+118,116,h2,Ear Guards,y
+120,116,p,"Ear guards are incredibly important for a wrestler’s safety. They are made of protective foam with a strong plastic shell in order to cup and protect the wearer’s ears from incoming blows. Without ear protection, it is easy for an athlete to get cauliflower ear, a condition that swells one’s ears because of repeated trauma to the ear that causes a blood clot. Ear guards with more breathable and comfortable material to minimize distraction during a match can be sold for up to $50 at wrestling gear shops and online.",n
+121,38,div,,n
+123,121,h2,Headgear,y
+125,121,p,It is also smart to have gear protecting the top of your head when wrestling. Some ear guards also have padding near the forehead to protect wrestlers from concussions or other head trauma. These are held on with the same straps around the ears and chin of the wrestler as the ear guards and most often come as one piece of gear. There can also occasionally be a chin guard attached for maximum protection. These kinds of headgear are often sold in the $30 to $50 price range.,n
+126,38,div,,n
+128,126,h2,Kick Pads,y
+130,126,p,"Kick pads are used often in professional wrestling for flair as well as an extra layer of protection for those whose styles involve more contact to the knees. In high school level wrestling, it is not incredibly common to see them being used in-match but they can be used for protection in practice and in some matches. They add a padded layer to the shins and are usually attached with thick straps or a type of drawstring. Kick pads can be as expensive as $100 from professional wrestling shops.",n
+131,38,div,,n
+133,131,h2,Knee Pads,y
+135,131,p,"Knee pads are a common form of leg protection seen at lower wrestling levels. During a match, it’s easy to get burns or bruises on your knees from being on the mat so it is fairly common to see wrestlers wear knee pads. They are styled like sleeves that can be pulled on from the bottom of your leg with a foam padding piece directly over the knee. They are made of flexible, spandex material to allow for a full range of motion during a match while still staying protected. A set of two can cost up to $30 at sports outlets.",n
+136,38,div,,n
+138,136,h2,Masks,y
+140,136,p,"Masks are very common in certain types of professional wrestling. They don’t provide much protection or comfort but certainly add style to any match. Historically, wrestling masks are eye catching, colorful and made to match a wrestler’s in-ring character. These kinds of masks aren’t used at the collegiate or high school level of wrestling but they are still available for purchase in the $20 price range.",n
+141,38,div,,n
+143,141,h2,Mat Tapes,y
+145,141,p,"PVC tape is an unsung hero of the wrestling world. It is important that during each match, the mat will not be shifted and because of the nature of wrestling, the adhesive that keeps it in place must be durable. An improperly attached mat could greatly affect a match and could actually result in one or both of the athletes getting injured from slipping. It is key for mat tape to perform well for the safety of wrestlers and for the quality of each match. Rolls of it are very inexpensive at around $5 a roll.",n
+146,38,div,,n
+148,146,h2,Mats,y
+150,146,p,"Competition wrestling mats are essential for any match or tournament. They provide a surface for athletes to wrestle without injuring themselves on solid ground. These mats can be as expensive as $1,000 so this is usually a piece of equipment schools or organizing groups provide for participants. They are thick foam covered in a vinyl material so that wrestlers’ shoes can grip easily. They are typically portable and stored by folding them for convenience. Most often, these mats are attached to a gym floor.",n
+151,38,div,,n
+153,151,h2,Mouthguards,y
+155,151,p,"Mouthguards are a key piece of equipment for any contact sport. They are used to protect the teeth of those engaged in the match. They are usually made of plastic and rubber and made to absorb the shock of a blow to the face. Individual mouth guards for wrestling are sold in the $15 to $20 price range. Although small, these guards are some of the most important pieces of safety gear in wrestling and almost all sports.",n
+156,38,div,,n
+158,156,h2,Rings,y
+160,156,p,Physical wrestling rings are not required but can be a good way to set hard limits on where the athletes are allowed to fight. Many kinds of wrestling mats will come with a ring design on them to be cost effective but it isn’t uncommon to see organizations with actual boundaries surrounding a canvas ring. It is also possible to designate your wrestling space with sets of portable rings that can sit on top of a separate mat to be cost effective. Products like this have elastic bands for ropes and can be sold for around $150 from professional boxing or wrestling shops.,n
+163,38,div,,n
+165,163,h2,Shoes,y
+167,163,p,"Wrestling shoes are very important for the success of an athlete. These shoes are specifically designed to provide grip on the mat in order to be able to execute sharp pivots and shift around opponents. With the wrong type of shoes in a match, any wrestler would have difficulty gaining the traction they need to execute their moves correctly and would be at a great disadvantage before the bout even begins. One of the top producers of wrestling shoes is Adidas. Depending on style and fit, these shoes can range from $60 to $140.",n
+168,38,div,,n
+170,168,h2,Singlets,y
+172,168,p,"Singlets are the typical dress for any wrestler. They are leotards, skin tight suits without sleeves, made of spandex, with the addition of longer leg material that stops around the mid thigh. The light weight and tight uniform is meant to allow for maximum movement and as little restriction as possible. There are no hanging pieces to interfere during a match or get caught on anything. They can have different designs and colors and are sold for around $30 to $50 by companies who specialize in wrestling gear.",n
+173,38,div,,n
+175,173,h2,Training Equipment,y
+177,173,p,"There are many different kinds of training equipment that wrestlers can use for strength and stamina training. Many of these, such as weights, can be applied to any sport that requires toned muscles. However, one piece of training gear specific to wrestling is the practice dummy. These dummies are used to practice takedowns and different positions before you are ready to physically engage with another person. Training pieces like this can be bought at a variety of price points, depending on the size and quality of the dummy.",n
+180,38,div,,n
+182,180,h2,Unitards,y
+184,180,p,"A unitard is similar to a singlet because of its skin tight material and function as a uniform but instead of the legs only extending to the thighs, unitard bottoms end at the hips like a bathing suit. They are simply another kind of outfit designed to optimize a wrestler’s range of movement while in a match. They are less common than a singlet at the collegiate and high school levels but come in the same variety of design and color.",n
+187,38,h2,Wrestling Equipment,n
+219,38,div,,n
+221,219,h2,FAQ,n
+222,219,div,,n
+223,222,div,,n
+226,223,h3,What equipment is used in wrestling?,n
+230,223,p,"Wrestling does not require much equipment, since the sport consists of two competitors using only their bodies to pin the other to the mat. Since wrestling is a very physical combat sport, wrestlers must wear protective gear like mouthguards, ear guards, knee pads, and headgear to prevent injury and keep them healthy for future fights. A mat is also a very important part of wrestling, giving wrestlers a softer surface to compete on than a wooden floor. Wrestling shoes allow wrestlers to get their footing on these mats so that they can compete with fluid and fast movements.",n
+231,222,div,,n
+234,231,h3,What makes wrestling equipment unique?,n
+238,231,p,"Wrestling equipment, unlike many other major sports, requires very little equipment. A wrestler only uses what is on his or her body to protect themself and gain any advantage over their opponent. The equipment used is very minimalistic, especially because wrestlers are not allowed to use additional tools to aid them in pinning their opponent during a match.",n
+239,222,div,,n
+242,239,h3,What is the most important wrestling equipment to get?,n
+246,239,p,"The most important pieces of wrestling equipment to buy are a wrestling singlet or unitard, wrestling shoes, and some kind of protection, like headgear, knee pads, or a mouthguard, depending on your preferences and the competition’s rules . A singlet or unitard is required to fight, since you need to be clothed to compete but should not be able to conceal any padding or additional tools. Wrestling shoes help you to move on the mat and protective gear can keep you wrestling for a longer time, since it helps you avoid injury.",n
+249,222,div,,n
+252,249,h3,How much does wrestling equipment cost?,n
+256,249,p,"Since you do not typically need to purchase a big piece of equipment for wrestling, like the mat or ring, wrestling can be a relatively cheap sport to participate in. Wrestling singlets can cost anywhere from $10 to $50, depending on quality and material. Headgear also varies depending on size and quality, but the price typically falls around $30. Wrestling shoes are the most expensive piece of wrestling equipment, varying based on quality and production company. A good pair of wrestling shoes could cost you around $90, but many cheaper options are available, especially if you are just getting started.",n
+260,38,div,,n
+262,260,h2,Pages Related to Wrestling Equipment List,n
+263,260,ul,,n
+265,263,li,Wrestling 101,n
+267,263,li,What is Greco Roman Wrestling?,n
+269,263,li,What is Wrestling?,n
+271,263,li,Wrestling Terms List,n
+273,263,li,Wrestling Leagues,n
+275,263,li,Wrestling Positions,n
+279,38,footer,,n
+280,279,div,,n
+281,280,div,,n
+283,281,span,Company,n
+284,281,ul,,n
+286,284,li,About,n
+288,284,li,Careers,n
+290,284,li,Shop,n
+291,280,div,,n
+293,291,span,Contact,n
+296,291,li,Contact Us,n
+299,280,div,,n
+301,299,span,Legal,n
+302,299,ul,,n
+304,302,li,Terms,n
+306,302,li,Privacy,n
+307,280,nav,,n
+309,307,span,Social,n
+310,307,ul,,n
+312,310,li,Facebook,n
+314,310,li,Instagram,n
+316,310,li,LinkedIn,n
+318,310,li,Medium,n
+320,310,li,Pinterest,n
+322,310,li,Twitter,n
+324,310,li,YouTube,n
+325,279,div,,n
+327,325,span,Rookie Road may earn a commission when you buy through links on our site.,n
+329,325,span,Copyright ©Rookie Road Inc. All rights reserved.,n

@@ -1,0 +1,56 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,article,,n
+2,1,section,,n
+4,2,div,"Home » Outdoor » Hunt or Fish » The 4 Types of Archery Bows: Recurve, Longbow, Compound, and Crossbow",n
+11,2,p,"Archery is a 10,000-year-old tool in the human arsenal. These days, it takes on a few different types of archery forms that are useful in multiple scenarios, from hunting to competition to recreation.",n
+12,2,p,,n
+14,12,strong,Folks pick up bows,n
+15,12,text,"And they have a long and lauded place in human history. These days, a myriad of bow types are available for a variety of uses.",n
+17,2,p,We compiled a list of bow types to help you determine which setup is going to be right for you. The good news is you can take on more than just one.,n
+19,2,h2,a Bow,n
+21,2,p,archery bows comprise three main parts,n
+23,2,p,"Before we can look at each style of bow, it’s important to know what you’re looking at. These parts may look and act differently in different styles, but they serve the same purposes across styles.",n
+25,2,h3,Limbs,y
+27,2,p,The limbs flex and provide the force that will move into your arrow and push it forward. They are attached to the riser and hold the bowstring at both string nocks.,n
+29,2,h3,Riser,y
+31,2,p,"The riser is the center part of the bow, containing the grip, arrow rest, and the sight window. This is often made of wood and sometimes composite materials. The riser you need changes depending on if you’re left- or right-handed. Be sure to know what arm you draw with before buying!",n
+33,2,h3,Bowstring,y
+35,2,p,The bowstring is a string made of various materials with a loop at each end. The bowstring holds the arrow and creates more energy to give you a better shot.,n
+37,2,p,"Bow technology has come a long way, transforming from wood to fiberglass and carbon fiber. However, the basic styles haven’t strayed far from their origins.",n
+39,2,h2,Archery Bows,n
+41,2,h3,Recurve,y
+45,2,p,"Crafted for both the beginner and the expert, the recurve bow is one of the oldest bows known to man. Early bows date back to 800 B.C. The history of the recurve bow makes it the most tried-and-true bow type on our list.",n
+47,2,p,"Both limbs curve away from the archer, which can lead to confusion while stringing the bow. The bend in the limbs provides more energy to be released into a shot than other straight-limbed bows, which means it’s capable of a lot of power.",n
+52,2,p,"Recurve bows are often made from several layers of fiberglass, carbon, or wood, with a wood or composite riser. For this reason, as with all bows, dry firing can be extremely dangerous. Any bow can experience damage from dry firing, and that damage can hurt you in the process. Avoid it at all costs.",n
+54,2,p,"On the plus side, a recurve is the perfect bow to both learn and advance with. Recurves are currently the only bow allowed in the Olympic Games, so if sport shooting is your goal, then a recurve is what you need.",n
+56,2,p,"If you’re just now learning archery, try out the Samick Sage Takedown as a first bow. It comes highly recommended for beginners and has a wide variety of options for draw weight and size.",n
+60,2,h3,Longbow,y
+63,2,p,"Straight from the medieval era, the longbow excels in its simplicity. Essentially, it’s a long wooden pole with a string on both ends.",n
+65,2,p,"Due to the lack of technological advancements, the longbow is the most difficult of these four types to handle and shoot accurately. As the bow gets longer, the draw weight also increases. These bows required incredibly strong archers in warfare and provided deadly power.",n
+67,2,p,"Now that we have left that period behind, the longbow is most often used for target shooting. But skilled hunters still take longbows and recurves into the field. And they can take down any type of game with them.",n
+69,2,p,The difficulty in drawing back the longbow without helpful additions like sights makes the longbow one for the masters. But this is the simplest bow to make if you’re looking to start a hobby as a bowyer.,n
+71,2,h3,Compound,y
+75,2,p,The compound bow is probably archery’s greatest technological advancements. It wasn’t until the 1960s that the compound bow was born.,n
+77,2,p,"Applying a system of pulleys, cams, and cables to the bow allows the archer to hold heavy draw weights with little effort. This means that once you get past the strain of the initial draw, you can hold your bow steady and take more time to aim effectively.",n
+79,2,p,"While you can find a much more traditional wooden look with recurves and longbows, the compound bow is almost exclusively made from composite materials. Wood often changes in flex and strength when the weather changes. On the opposite end, these composite materials are durable, longlasting, and strong.",n
+81,2,p,"The action of a compound bow can be dialed in to an extreme amount for accuracy at long distances, using sights and releases. And power is much easier to achieve with rotating cams and let-off. It’s no surprise that hunters most often reach for a compound bow when going out in search of wild game .",n
+87,2,h3,Crossbow,y
+91,2,p,"The crossbow has taken the traditional style of archery, turned it on its side, and added a trigger release mechanism.",n
+93,2,p,"The simple point-and-shoot method can be applied with crossbows much easier than with other bow types. Because the crossbow takes on this style of shooting, it’s easy to use for people who want to get into bowhunting but don’t have much time to practice.",n
+95,2,p,"Crossbows have much shorter limbs and a nearly nonexistent riser, as the grip is elsewhere on the bow. The shorter bow requires a much higher draw weight, so a crank mechanism is used to pull back the bowstring. Once the arrow is nocked, it’s simple to aim and pull the trigger.",n
+97,2,p,"In most states, it’s only legal to hunt with crossbows in rifle or shotgun seasons, so it’s important to know your state’s regulations for crossbows. This is also a great option for folks with disabilities that prevent them from shooting a regular bow.",n
+99,2,h2,Final Thoughts,n
+101,2,p,"The bow you choose can take you to the Olympics, to the elk woods, or simply to your backyard for a bit of fun.",n
+105,2,p,"With all types of archery, the more practice put in, the more you’ll find yourself landing on the bullseye. Happy shooting!",n
+106,1,footer,,n
+110,106,div,Share now,n
+116,106,div,,n
+118,116,span,Read More,n
+119,116,div,,n
+121,119,div,Hunting,n
+124,119,div,Hunt or Fish,n
+127,116,div,archery,n
+129,1,h3,,n
+131,129,span,Up Next,n
+132,129,text,5 Archery Targets,n

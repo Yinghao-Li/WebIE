@@ -1,0 +1,25 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+3,2,p,,n
+5,3,strong,All students are responsible to come to school with the following,n
+7,3,strong,general school supplies,n
+11,2,li,Paper,y
+15,2,li,Pencils,y
+19,2,li,Pens,y
+23,2,li,carrier,y
+28,2,p,"As students go to their classes, the teachers may require other items, such as",n
+30,2,p,superstar supply list,n
+33,2,p,Classroom basics you will need,n
+34,2,ul,,n
+36,34,li,Organizer or planner,y
+38,34,li,Backpack,y
+40,34,li,3-ring binder or paper,y
+42,34,li,Pens or pencils or eraser or highlighters,y
+44,34,li,Pocket folders,y
+46,34,li,Basic calculator like TI Scientific calculator 30X,y
+49,2,p,All students who take PE will need,n
+50,2,ul,,n
+52,50,li,Swimsuit and towel,y
+54,50,li,Non-marking tennis shoes,y
+56,50,li,Shorts or sweat pants and t-shirt,y

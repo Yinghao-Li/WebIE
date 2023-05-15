@@ -1,0 +1,167 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+3,2,ul,,n
+5,3,li,GALLERY,n
+6,3,li,,n
+7,6,text,SERVICES,n
+8,6,ul,,n
+10,8,li,Weddings and Events,n
+12,8,li,Brand Activations,n
+14,8,li,Other Services,n
+16,3,li,LEARN,n
+17,3,li,,n
+18,17,text,SHOP,n
+19,17,ul,,n
+21,19,li,Learn Calligraphy and Supplies,n
+23,19,li,Wax Seals,n
+25,3,li,ABOUT,n
+26,2,div,,n
+27,26,text,Cart,n
+29,26,span,0,n
+39,0,div,,n
+46,39,div,,n
+47,46,section,,n
+48,47,section,,n
+50,48,div,"October 7, 2017",n
+52,48,div,BLOG,n
+53,47,section,,n
+56,53,p,"Hi Everyone! After seeing the ongoing comments about what ink, nibs, pens I use in my Instagram posts, I’ve decided to make an official blog post that lists all of my favourite calligraphy supplies, to date. Unlike my beginner’s guide, which primarily covers the basic materials to get you started in calligraphy, this list is more based on MY personal preferences and experiences. So it’s important that you spend the time to try out different supplies and see what works best for yourself as well.",n
+58,53,p,"I will include links to websites you can buy the supplies from. However, do note that many of these materials can be accessed in many different stores depending on your location, so have a browse online before placing that order! (;",n
+61,53,p,Nibs,n
+64,53,p,"Let’s start with one of the most commonly asked materials, nibs. There are so hundreds of options and I love to explore as many different types of nibs as I can. I have recently fell into the world of vintage nibs, so I will also cover that a little bit. Contemporary nibs are quite easy to access and there are a list of commonly used nibs. I no longer use stiff nibs such as G nibs as I have developed a light hand for writing after practicing Spencerian script and flowy modern script. Moreover, soft nibs work better on more surfaces, including delicate handmade paper.",n
+66,53,p,I have included links to Instagram videos where I used each nib!,n
+67,53,ul,,n
+69,67,li,Gillott 404,n
+71,67,li,Leonardt EF Principle,n
+73,67,li,Blanzy 2552,n
+76,67,li,Blanzy Poure Incomparable,n
+79,67,li,Hunt 101,n
+81,67,li,Nikko G,n
+85,53,p,Ink and Gouache,y
+88,53,p,,n
+89,88,text,Surely you guys already know that I can’t live without my,n
+91,88,strong,Finetec Palettes,n
+92,88,text,"! If this is new to you, no they are not eyeshadow , Finetec pearl colors and metallic gouache with extremely fine pigments and they really reflect the light.",n
+94,53,p,And extra points,n
+96,53,p,,n
+97,96,text,A good quality and versatile white ink is a must if you are doing calligraphy. The traditional,n
+99,96,strong,Dr Ph Martin’s Bleedproof white,n
+100,96,text,"has been my favourite white ink since I started using it. It is widely used by artists in many fields so it can be found in most art stores. When you first open the bottle, it might come in a thick suspended paste, all you have to do is add water to it mix it until it feels like an inky consistency.",n
+102,53,p,Pearl Ex,y
+105,53,p,,n
+106,105,text,Tip,n
+108,105,strong,Gum Arabic,n
+109,105,text,"next to me as paints and inks aren’t always made perfect for every situation. Writing on some surfaces can require more Gum Arabic than writing on other surfaces, so it’s always convenient for me to reach for that drop bottle and remix my ink.",n
+110,53,p,,n
+112,110,strong,Gouache,n
+115,110,strong,Winsor and Newton Designers’ Gouache,n
+116,110,text,because they produce very fine lines and come in beautiful colours. I often mix a tiny amount with generic inks to achieve subtle colour variations or ombre effects.,n
+120,53,p,Pen Holders,y
+123,53,p,"Now it’s time for these beautiful handcrafted tools. I absolutely love collecting pen holders, not that I have many yet though! The wooden holder in the middle is a basic wooden oblique holder while the two on either side are handmade by Huy Hoang Dao . I have also recently ordered a beautiful resin holder made by Luis Creations and I can’t wait to show you guys. Functionality is a different story however, while custom made holders can be jaw-dropingly beautiful, I use my $23 wooden oblique holder just as much as the other two. A few features to take note on when purchasing new pen holders, other than aesthetics, are:",n
+130,53,ul,,n
+132,130,li,Length – Can depend on how much movement you use in your writing.,n
+134,130,li,Regular vs Thick,n
+136,130,li,Shape – I’d say more,n
+140,53,p,Brushes,y
+142,53,p,,n
+143,142,text,I love my set of,n
+145,142,strong,Pentel Aqua Brushes,n
+146,142,text,as they are so convenient and versatile. They are sold in three sizes and I find them extremely useful for detailed work and also brush pen lettering.,n
+150,53,p,Other Tools,n
+152,53,p,,n
+154,152,strong,Laser level,y
+155,152,text,The one I’m using here is the,n
+157,152,strong,Bosch Laser level,y
+158,152,text,and it saves me SO MUCH time. There are many small laser levels and I’m sure they all work the same way. I normally line up my writing paper and laser adjacent to lined paper so that I can follow a consistent spacing.,n
+163,53,p,‘Soap’ Calligrapher Ink Stirrer,y
+164,53,p,,n
+165,164,text,"From making a card with metallic ink to addressing 300 wedding place cards, this pretty has saved me so much time! Forget the laboratory magnetic stirrers, this one is certainly a calligrapher’s statement piece. It is designed by the Australian Designer and Pen-maker Luis Creations . This ink stirrer is specifically designed for calligraphers so it is a light and portable battery-run magnetic stirrer with incredible aesthetics! What’s even better about it is that it comes with very tiny magnetic bars with a raised centre, allowing it to fit nicely in small ink jars and also work quietly. I am also excited to have the chance to stock some of these ‘Soap’ ink stirrers and you can find them",n
+171,164,strong,here,n
+172,164,text,.,n
+174,53,p,"And that’s it for now, hope you enjoyed this blog and that it does come into use! I may come back and edit this blog every now and then just to add the new magical items to my family. ^_^",n
+177,53,p,"Love,",n
+179,53,p,Charlotte,n
+183,47,section,Calligraphy favorite favourite ink lettering nib paint pens supplies tools,n
+193,46,nav,,n
+195,193,span,,n
+196,195,text,Newer Post,n
+198,195,strong,An Interview with Vanessa Li,n
+200,193,span,,n
+201,200,text,Older Post,n
+203,200,strong,Beginner’s Guide to Calligraphy | Getting Started,n
+205,39,div,,n
+206,205,div,,n
+208,206,h2,10 Comments,n
+210,206,p,Join the discussion and tell us your opinion.,n
+211,205,div,,n
+214,211,div,,n
+216,214,div,Fiona Ariva reply,n
+219,214,div,"October 31, 2017 at 11:00 am",n
+222,214,p,"Thanks for sharing with us your favourite tools with us Char, and most of all, sharing your calligraphic talents! <3",n
+226,211,div,,n
+230,226,div,,n
+231,230,text,"November 1, 2017 at 1:36 am",n
+235,230,div,Fiona Ariva,n
+238,226,p,"Thank you so much Fee, you as well! So sweet! <3",n
+241,211,div,,n
+243,241,div,Yasar reply,n
+246,241,div,"November 5, 2017 at 11:14 pm",n
+249,241,p,Thank you,n
+253,211,div,,n
+257,253,div,,n
+258,257,text,"April 26, 2018 at 2:57 am",n
+262,257,div,Yasar,n
+265,253,p,I’m glad you found it helpful!,n
+268,211,div,,n
+270,268,div,Cathie reply,n
+273,268,div,"December 1, 2017 at 3:45 am",n
+276,268,p,Thank you,n
+280,211,div,,n
+284,280,div,,n
+285,284,text,"April 26, 2018 at 2:58 am",n
+289,284,div,Cathie,n
+292,280,p,Thank you Cathie! I will be updating this list every few months to add my new favourite products,n
+295,211,div,,n
+297,295,div,Vicky Stone reply,n
+300,295,div,"January 22, 2018 at 4:43 pm",n
+303,295,p,I love your work and the way you write. Thanks for sharing! Please sign me up for your blog posts!,n
+307,211,div,,n
+311,307,div,,n
+312,311,text,"April 26, 2018 at 2:59 am",n
+316,311,div,Vicky Stone,n
+319,307,p,"Thank you Vicky, I’m glad it’s helpful. You can sign up for the blog posts via the ‘subscribe’ on my home page",n
+322,211,div,,n
+324,322,div,guomao reply,n
+327,322,div,"May 2, 2018 at 8:24 am",n
+330,322,p,!,n
+333,211,div,,n
+335,333,div,Rosia Terrall reply,n
+338,333,div,"May 26, 2018 at 4:43 pm",n
+341,333,p,I really can’t believe how great this site is. Keep up the good work. I’m going to tell all my friends about this place.,n
+344,39,div,,n
+345,344,h3,,n
+346,345,text,Leave a reply,n
+348,345,small,Cancel reply,n
+349,344,form,,n
+352,349,p,Comment,n
+356,349,p,Name,n
+362,349,p,Email,n
+368,349,p,Website,n
+389,349,p,Sign me up,n
+394,0,footer,,n
+397,394,div,,n
+399,397,div,,n
+401,399,p,About,n
+403,399,p,Service,n
+405,399,p,Privacy Policy,n
+407,399,p,Refund Policy,n
+409,399,p,Contact Us,n
+415,397,div,Search for,n
+421,394,div,,n
+423,421,ul,,n
+426,423,li,Email,n
+429,423,li,Facebook,n
+432,423,li,Instagram,n
+436,421,p,© Charlart Script 2018. All Rights Reserved | ABN 25 859 685 769,n
+438,0,p,Beginner's Kits Restocked! Flat Rate Shipping USD15 on international orders. AUD11 for AUS Orders. New Worksheets: Capital letter flourishing Set! Dismiss,n

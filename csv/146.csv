@@ -1,0 +1,469 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+187,0,div,,n
+195,187,div,,n
+196,195,div,,n
+208,196,h1,How to Play Softball,n
+209,196,div,,n
+211,209,div,,n
+212,211,div,,n
+215,212,div,,n
+217,215,span,Explore this Article,n
+218,215,div,,n
+220,218,div,parts,n
+241,218,div,,n
+243,241,span,+,n
+244,241,text,Show 2 more...,n
+245,218,div,,n
+247,245,span,-,n
+248,245,text,Show less...,n
+250,218,div,Other Sections,n
+252,218,div,Expert Q and A,n
+253,218,div,,n
+254,253,text,Video,n
+256,253,span,WATCH NOW,n
+258,218,div,Related Articles,n
+260,218,div,References,n
+262,218,div,Article Summary,n
+265,212,div,,n
+266,265,text,Co-authored by Haley Snyder,n
+268,265,p,,n
+270,268,span,Last Updated,n
+271,268,text,References Approved,n
+274,212,div,,n
+276,274,div,ARTICLE,n
+279,274,div,VIDEO,n
+280,212,div,,n
+282,280,div,X,n
+284,280,p,,n
+285,284,text,"This article was co-authored by Haley Snyder . Haley Snyder is a former Division I Student-Athlete and Softball Player. With over a decade of experience, she specializes in softball mechanics, fundamentals, and pitching. Haley holds a BA and MA from Stanford University, where she competed in the PAC-12 Conference as a pitcher.",n
+290,284,br,the page.,n
+295,284,br,"wikiHow marks an article as reader-approved once it receives enough positive feedback. This article has 17 testimonials from our readers, earning it our reader-approved status.",n
+298,284,br,"This article has been viewed 630,117 times.",n
+301,212,p,"Softball is a fun game in which people of all ages can participate. Although not everyone can have a top-notch coach to help teach them the basics, learning how to play softball on your own is easy and enjoyable!",n
+315,211,h2,Steps,n
+316,211,div,,n
+317,316,div,,n
+326,317,h3,5,n
+329,317,div,,n
+339,329,li,,n
+340,339,text,"Know the difference between softball and baseball. Softball and baseball are variations of the same game. The primary difference is that a softball is pitched underhand, while a baseball is pitched overhand. As the name implies, there is also a difference in the balls used.",n
+350,339,ul,,n
+352,350,li,Softballs are larger and a bit heavier than baseballs. Softballs are less dense and slightly softer than baseballs. Softballs are typically white but may be colored neon green or yellow in the interests of visibility .,n
+354,350,li,Softball fields are typically smaller than baseball fields . Softball games last for seven innings instead of the nine innings typical of higher-level baseball games.,n
+364,350,li,The bats used in softball are a little shorter and have a wider barrel than the bats used in baseball.,n
+380,329,li,,n
+381,380,text,"Understand the difference between slow-pitch and fast-pitch softball. There are two types of softball competition, with slight differences between them. Both follow the same general rules.",n
+383,380,ul,,n
+385,383,li,"Slow-pitch is typically coed, and, as the name suggests, the ball is pitched by lobbing it in a high, slow arc toward home plate.",n
+395,383,li,Fast-pitch is played primarily by women and features very quick pitches with large wind-ups.,n
+409,329,li,,n
+410,409,text,"Know the rules. Most softball games consist of seven innings, each with two halves. The first half is when the visiting team bats. The second half is when the home team bats. Each half-inning is played until the fielding team manages to put out three batters or baserunners.",n
+412,409,ul,,n
+413,412,li,,n
+414,413,text,four things happens,n
+424,413,ul,,n
+426,424,li,"The batter gets three strikes against him or her. A strike occurs when the batter swings at a pitch but misses it , or when the pitch passes through the strike zone but the batter does not swing at it.",n
+428,424,li,"The pitcher throws four ""balls,"" which are pitches that fail to pass through the strike zone and which are not swung at by the batter. In this case the batter ""walks,"" meaning s or he is awarded first base.",n
+438,424,li,"The pitcher hits the batter with a pitch. In this case, too, the batter is awarded first base.",n
+440,424,li,"The batter reaches base safely by virtue of a hit, a fielder's choice, or a fielding error .",n
+442,412,li,"To get a batter out, a pitcher can record three strikes against the batter, or a fielder can catch a batted fly-ball before it hits the ground.",n
+444,412,li,"If the batter hits a ground ball, s or he will be out at first base if a fielder can secure the batted ball and throw it to the first baseman who steps on first base before the batter can do so.",n
+446,412,li,"To get a runner out, an infielder can tag the runner with the ball while the runner is between bases.",n
+448,412,li,"In the case of a ""force out,"" a runner is forced to advance to the next base when there is nowhere else for him or her to go, and s or he may be put out by any infielder who while holding the ball steps on the base before the runner arrives there. In this case the fielder does not have to tag the runner. A force out commonly occurs when a batter hits the ball to an infielder, who throws it to first base before the batter can run there.",n
+450,412,li,"When a batter hits a fair ball s or he may attempt to run as far around the bases as s or he thinks possible without being tagged out by the defense. Every time a runner crosses home plate, they score one ""run"" for their team.",n
+452,412,li,"At the end of seven innings, the team with more runs wins the game. If the score is tied, the choice can be made to let the game end in a tie or play one or more extra innings until one team is ahead at the end of an inning.",n
+464,329,li,,n
+465,464,text,"Know the positions. When a team is fielding , each player is assigned a specific position on the field. There are two general areas of the field, the infield and the outfield.",n
+467,464,ul,,n
+469,467,li,"The infield is the dirt section of the field. The infielders consist of the pitcher, catcher, first baseman, second baseman, shortstop, and third baseman.",n
+471,467,li,"The outfield is the grassy section farther from home plate consisting of left, center, and right field with an outfielder stationed in each. Some leagues allow a fourth outfielder such that the positions are left, left-center, right-center and right field.",n
+473,467,li,"Although the catcher and pitcher are infielders, they are specialized positions that involve added practice time, often separate from the rest of the team.",n
+481,316,div,,n
+490,481,h3,5,n
+493,481,div,,n
+503,493,li,,n
+504,503,text,"Find the right glove. When you're playing defense, you'll wear a leather glove on your non-throwing hand to help you catch thrown or batted balls.",n
+514,503,ul,,n
+516,514,li,"If you purchase a new glove, you will want to ""break it in"" by removing the stiffness of the new leather. There are several methods of doing this, including baking the glove in an oven with special oil applied, leaving it in the sun, or playing a lot of catch with it.",n
+518,514,li,Playing the catcher position in fast-pitch requires a special glove. The gloves of catchers are called mitts. They are made of heavier construction than the typical softball glove.,n
+538,493,li,,n
+539,538,text,"Choose a bat. Softball bats are not all the same. They must be chosen with a player’s size and strength in mind. When you look for a bat, look at three primary factors: the length, the weight, and the style.",n
+541,538,ul,,n
+543,541,li,"To find a bat that is the right length, stand up straight and hold a bat by its knob at the end. If you can hold your arm straight down, and the bat touches the ground, it is the right length for you. If you have to bend your elbow, it is too long. If the bat doesn't touch the ground, it's too short.",n
+545,541,li,"To find a bat that is the right weight, look at the drop. The drop is the numerical difference between the bat's height and its weight . The drop will range anywhere from -8 to -12. Lighter bats , are good for weak or slow batters. Heavier bats , are best for strong batters. You can also test the suitability of the bat's weight by placing it in your throwing hand and holding it straight out in front of you. If you can easily hold it at arm's length for a full minute or more, it is not too heavy for you.",n
+547,541,li,"There are two main types of softball bats available, aluminum and composite. Each type is appropriate for both beginners and experienced players, but aluminum bats are more popular. These are also available in single- or double-walled construction. Single-walled are cheaper but slightly less effective than double-walled bats. Composite bats will hit the ball farther, but they can crack easily in cold weather.",n
+565,493,li,"Purchase a batting helmet. Playing softball, especially fast-pitch, can be dangerous if you don’t take safety precautions. Most fast-pitch leagues require batters to use a caged batting helmet , but even if they don’t, it is best to wear one when you are up to bat.",n
+584,493,li,"Get a pair of cleated shoes. Cleats are used in several sports and give you better traction while running after a ball or between bases. For softball, rubber or plastic cleats are appropriate. Metal cleats are typically banned in softball leagues, as they pose a danger to sliding runners and infielders who try to tag them.",n
+603,493,li,"Look for additional, optional gear. These include batting gloves, which cushion the hands, protect against blisters, and improve bat grip. If you are a fast-pitch catcher, you will want to use a mask, chest protector and shin guards. Some players who frequently slide into bases choose to wear sliding pads.",n
+611,316,div,,n
+620,611,h3,5,n
+623,611,div,,n
+638,623,li,,n
+639,638,text,Ready your stance. When you’re up to bat it is not enough just to stand at the plate. Here are a few batting-stance tips to keep in mind every time you go up to hit:,n
+641,638,ul,,n
+643,641,li,Keep your feet at shoulder width from each other. Place them equi-distant from home plate .,n
+653,641,li,Bend your knees and lean slightly toward home plate.,n
+655,641,li,Put more weight on your back leg. When you swing you will push off using your back leg for power.,n
+657,641,li,"Keep the appropriate distance from the plate. To know how far away you should stand, stick your bat straight out over home plate as if you were in mid-swing. The barrel of the bat should be above the center of the plate. If not, back up or move closer to the plate.",n
+674,623,li,,n
+675,674,text,"Hold the bat in a comfortable grip. When you bat you should be holding the rubber grip near the knobbed end. Your throwing hand should be higher on the bat than your non-throwing hand, and your hands should be touching each other as they grip the bat.",n
+677,674,ul,,n
+679,677,li,the bat.,n
+681,677,li,When you take your stance the bat should be held at a slight angle from vertical above your back shoulder.,n
+683,677,li,Hold the bat with your hands near your ear.,n
+701,623,li,Prepare to swing. Maintain your batting stance as the pitch comes toward you. Keep your knees bent and the bat positioned near your ear.,n
+719,623,li,,n
+720,719,text,Swing to hit the ball. Keep the bat horizontal as it sweeps through the strike zone. Don't reach for a bad pitch. Patiently wait for a good pitch. Swinging at a bad pitch rarely results in a hit.,n
+722,719,ul,,n
+724,722,li,"Swing ""shoulder to shoulder."" This means that your chin starts out near your non-throwing shoulder, and you swing all the way around so that your throwing shoulder finishes near your chin.",n
+726,722,li,"Swing hard with a strong follow-through. This means to continue the swing until the bat almost touches your non-throwing shoulder. If you hit the ball, don’t drop the bat as soon as you make contact, as you will lose half of your power. Use all your strength and continue the swing until the bat has moved to the other side of your body.",n
+728,722,li,"Move your feet. Most batters take a small step with their front foot toward the pitcher as they swing. The back foot normally remains planted, although you may find that you pivot on the ball of your back foot as you swing.",n
+730,722,li,"An exception to the rule of keeping your back foot planted on the ground occurs if you're trying to hit to the opposite field. For instance, if a right-handed batter is trying to hit to right field, s or he may want to move her or his right foot farther from the plate just before swinging, thus facing more toward right field.",n
+732,722,li,Rotate your body with the swing. Remain flexible while you swing by twisting your torso slightly. This will add power to your swing.,n
+734,722,li,Keep your eye on the ball. Watch it all the way from the pitcher's hand to the point of contact with the bat. This will improve your chances of hitting the ball solidly.,n
+736,722,li,"Once you hit the ball, softball etiquette requires that you not throw the bat. Instead, drop it as carefully as possible outside the baseline so that nobody trips over it.",n
+753,623,li,,n
+754,753,text,Move toward first base once you've hit a fair ball. Your goal is to get on base safely.,n
+758,753,li,"If you're not sure whether your batted ball will land in fair territory, run hard toward first base until an umpire has indicated the ball is foul. Your first-base coach will help you decide whether to stop at first base or keep running. Your job is making it safely to or beyond first base rather than watching what is happening in the outfield. That's the coach's job.",n
+765,316,div,,n
+774,765,h3,5,n
+777,765,div,,n
+793,777,li,Stretch your arms before starting to throw. Injuring your arm is easy to do if you don’t warm up your muscles first.,n
+811,777,li,,n
+812,811,text,"Start by throwing to a nearby target. Although it's easy to get excited and start throwing at a target 100 feet away, this is definitely not what you should do. Throwing too hard at first can increase the likelihood of injuring yourself.",n
+814,811,ul,,n
+816,814,li,"Start throwing at a target ten feet away. This may seem too close, but as your arm gets loosened up you will gradually back away from your target.",n
+818,814,li,"To emphasize basics, start out by throwing from a kneeling position while holding your throwing elbow in place. This will force you to snap your wrist as you throw, a technique you should always use when throwing, because it adds power to your throw. After doing this for a while you can progress to standing.",n
+820,814,li,After every twenty or so throws you can back farther from your target. Don't back so far that you're making uncomfortably long throws repeatedly. Save that for the games.,n
+837,777,li,,n
+838,837,text,Get in the correct throwing stance. Start by standing perpendicular to your line of throw. When you begin the throw your throwing shoulder will face away from your target.,n
+840,837,ul,,n
+842,840,li,Your feet should be level with each other and shoulder-width apart.,n
+844,840,li,"To start a throw, you will probably want to hold the ball inside your glove near your chest. Keep a grip on the ball while it's in the glove.",n
+862,777,li,Grip the ball correctly. The best way to hold the ball is with your fingertips touching a seam.,n
+888,777,li,,n
+889,888,text,"Wind up your arm to throw. Pull the ball from your glove, drop your arm down and back, then bring it up and around past your head to throw.",n
+891,888,ul,,n
+893,891,li,Avoid drawing your elbow straight back as if you were pulling a slingshot or bow and arrow. This will limit the power and distance of your throw.,n
+895,891,li,"Don’t worry about dropping your throwing arm all the way down your side before bringing it back and around. Wind up your arm, and use the full weight of your body to aid in making the throw.",n
+898,777,li,,n
+911,898,div,6,n
+913,898,div,"Aim for your target. If you are playing catch, your target should always be your partner’s chest. This goes for game throws, too.",n
+917,777,li,,n
+930,917,div,7,n
+931,917,div,,n
+932,931,text,"Make the throw. Bring your throwing arm down and back, and then around past the top of your head. Release the ball when your arm is fully extended in front of you. The release point depends on how high and far you want to throw. A higher release point means a higher throw.",n
+942,931,ul,,n
+944,942,li,You should have a strong follow-through on every throw you make. Your throwing hand should end up near the middle of your body after you have released the ball. This will help prevent you from developing a sidearm delivery and causing injury to your shoulder or elbow.,n
+946,942,li,Turn your shoulders and head toward your target on every throw. Be sure to maintain eye contact with your target. This will help direct the muscles in your body to throw where you want. Looking away can cause the ball to fly off in the wrong direction.,n
+948,942,li,"Take a small step with your front foot on a short throw, a longer step for a longer throw.",n
+950,942,li,"Use your gloved hand to point at your target as you wind up to throw, and then drop that arm to your side as you deliver the ball.",n
+952,942,li,pitches so it's harder,n
+971,777,li,,n
+984,971,div,8,n
+985,971,div,,n
+986,985,text,"Don’t worry about speed at first. The most important part of throwing is accuracy, not speed or strength. When you are first learning, focus on simply getting the ball to your target. You'll develop speed soon enough.",n
+990,985,li,"As you practice, try pitching the ball at different speeds. Eventually, try having at least 1 pitch that's at least 10 mph faster than your other pitches.",n
+1013,316,div,,n
+1022,1013,h3,5,n
+1025,1013,div,,n
+1040,1025,li,,n
+1041,1040,text,Hold your glove properly. When you are playing catch it's important that your glove be held in front of your chest.,n
+1043,1040,ul,,n
+1045,1043,li,"Don't hold your glove with the pocket facing you or with the fingers pointing toward the ground. If you try to catch a ball like that, it could bounce up and hit you in the face.",n
+1047,1043,li,"Don't hold your glove vertically, because if you don’t have a good grip on the ball it might pop out of your glove right after you’ve caught it.",n
+1049,1043,li,"Hold the glove wide open so that there is room for the ball to land. If your glove is even partially closed, the ball may hit the outside of the glove and fall to the ground instead of landing inside.",n
+1066,1025,li,,n
+1067,1066,text,"Get in the ready position. If you are playing catch, the best position to be in is the ""ready position,"" with your knees slightly bent and your torso leaning slightly forward on the balls of your feet. This allows you to shuffle in any direction to catch a ball not headed straight for you.",n
+1069,1066,ul,,n
+1071,1069,li,Keeping your feet too close together could cause you to trip or make it harder to get a good jump on a ball hit far away from you.,n
+1073,1069,li,"Keep your eyes open. Softballs, contrary to what the name suggests, can be painful if they hit you. Keep your glove in the ready position to catch a stray ball coming your way.",n
+1090,1025,li,,n
+1091,1090,text,Play catch whenever you can. The best way to practice catching is simply to play catch. Practice throwing and catching in the ready position. Concentrate on holding your glove the right way.,n
+1093,1090,ul,,n
+1095,1093,li,"To start, have balls thrown toward your chest. This is the most basic catching practice and will help you to warm up.",n
+1097,1093,li,Squeeze the ball in your glove every time you make a catch to keep it from bouncing out of the glove. Use your throwing hand to trap the ball inside as soon as it enters the glove.,n
+1099,1093,li,Have your partner throw balls slowly to start before making stronger throws. This will help you get used to the contact and grip necessary to catch the ball.,n
+1116,1025,li,,n
+1117,1116,text,Learn to catch grounders. A grounder is a ball hit or thrown that rolls or bounces along the ground. You catch them with a different method than balls in the air.,n
+1119,1116,ul,,n
+1121,1119,li,"Get in the ready position, but instead of holding your glove to your chest, hold it near the ground. The tips of the fingers should touch the dirt or grass to prevent the ball from rolling under the glove.",n
+1131,1119,li,"Be ready to move to either side, as rocks or tufts of grass can cause the ball to make a sudden change in direction.",n
+1133,1119,li,"Although your glove should be open toward the ball with the fingertips touching the ground, don’t hold it so that the ball could bounce up and hit you in the face. Keep it at a slight angle to prevent this.",n
+1143,1119,li,Stand up after catching a grounder to make a throw. Don’t try to make a throw from your position near the ground.,n
+1160,1025,li,,n
+1161,1160,text,Learn how to catch pop-flies. A pop-fly is a ball hit high in the air above the infield or shallow outfield.,n
+1163,1160,ul,,n
+1165,1163,li,Hold your glove near your face.,n
+1167,1163,li,"Move under the ball. If you need to back up, don't run backwards, because you could trip and fall. Instead turn your body so that you can run back sideways while looking up at the ball.",n
+1169,1163,li,Position yourself so that you don't have to reach out to catch the ball. Stand directly beneath it so that you catch it near your face. Reaching for it will increase the likelihood that the ball will bounce off or out of your glove.,n
+1171,1163,li,"If necessary, block out the sun or field lights with your glove to help you see before making the catch.",n
+1173,1163,li,Bring the glove back to your chest before grabbing the ball with your throwing hand. This will help you realign your body into the proper throwing position.,n
+1180,316,div,,n
+1184,1180,h2,Community Q and A,n
+1185,1180,div,,n
+1186,1185,div,,n
+1189,1186,div,Search,n
+1191,1186,text,Add New Question,n
+1192,1186,ul,,n
+1195,1192,li,,n
+1199,1195,div,How do you become a good softball pitcher?,n
+1200,1195,div,,n
+1221,1200,div,"Try to throw different types of pitches during the game. For instance, you'll want a pitch that works well inside and another that works well outside.",n
+1235,1200,div,9,n
+1238,1192,li,,n
+1242,1238,div,How do you teach a beginner to throw a softball?,n
+1243,1238,div,,n
+1264,1243,div,Remind them to throw the ball underhand when they're pitching and overhand when they're fielding.,n
+1275,1243,div,11,n
+1281,1192,li,,n
+1285,1281,div,How do you tell if you hit a home run?,n
+1286,1281,div,,n
+1297,1286,div,"Just because you hit the ball high, doesn't mean it was a home run. If the ball goes over the fence, that is an automatic home run. Also, if you hit one far but it doesn't go over the fence, it could still be a home run - but you would have to run very fast, and the fielders would try to get you out.",n
+1305,1286,div,,n
+1308,1305,span,18,n
+1311,1305,span,120,n
+1314,1192,li,,n
+1318,1314,div,"I have a school team, but I don't know if I should try out. It seems fun, but I'm a little scared. Should I do it?",n
+1319,1314,div,,n
+1328,1319,div,Ashley Raia,n
+1332,1319,div,"Go for it. Don't be scared. My first year of playing I was scared too and I didn't know anything at all, but I ended up loving it.",n
+1346,1319,div,110,n
+1349,1192,li,,n
+1353,1349,div,"I've never played softball. I want to, but I don't think I'll be very good. Any tips?",n
+1354,1349,div,,n
+1365,1354,div,"You can practice at home to start with and then join a team when you've built up more confidence. Plenty of people aren't very good when they start off, but you'll be surprised at how quickly you can make progress.",n
+1373,1354,div,,n
+1376,1373,span,25,n
+1379,1373,span,134,n
+1382,1192,li,,n
+1386,1382,div,Is it possible to break my foot playing softball?,n
+1387,1382,div,,n
+1402,1387,div,"It has happened, but not very often. Your feet are most at risk when you slide into a base .",n
+1416,1387,div,47,n
+1419,1192,li,,n
+1423,1419,div,How can I get better at throwing far if nobody is around me?,n
+1424,1419,div,,n
+1435,1424,div,"If you have an open field area near your house, you can practice throwing it as far as you can. You'll just have to run and get the ball yourself.",n
+1443,1424,div,,n
+1446,1443,span,17,n
+1449,1443,span,69,n
+1452,1192,li,,n
+1456,1452,div,What do I do if I catch the ball outfield?,n
+1457,1452,div,,n
+1468,1457,div,"It depends on a lot of things. First, if there already two outs and the ball comes all the way to you in the air and you catch it, that's the third out of the inning, and you can just run the ball back to the pitching mound on your way to the dugout. Second, if you catch a fly ball with less than two outs and there are one or more runners on base, throw the ball to the infielder closest to you, or if a runner is trying to advance to another base after you've caught the ball, throw it to the base the runner is heading for. Third, if the ball hits the ground before you catch it, throw the ball to second base. There are other possible scenarios. Ask your coach for more details.",n
+1476,1457,div,,n
+1479,1476,span,19,n
+1482,1476,span,79,n
+1485,1192,li,,n
+1489,1485,div,How do I know when to stop at a base?,n
+1490,1485,div,,n
+1505,1490,div,"Your coaches or teammates should help you by yelling instructions to you about when to stop running. Otherwise, watch the ball if you can, and see where it is, and whether an opponent is trying to throw you out or preparing to tag you. In other words, stop at any base if you think you cannot advance safely to the next base without being tagged.",n
+1519,1490,div,33,n
+1522,1192,li,,n
+1526,1522,div,Can you get bruised easily?,n
+1527,1522,div,,n
+1538,1527,div,"Definitely. Softball is kind of dangerous, but super fun. Bruises probably won't hurt very much anyway.",n
+1546,1527,div,,n
+1549,1546,span,20,n
+1552,1546,span,75,n
+1553,1186,text,See more answers,n
+1557,1185,div,Ask a Question,n
+1558,1185,div,,n
+1561,1558,div,200 characters left,n
+1564,1558,div,Include your email address to get a message when this question is answered.,n
+1565,1558,text,Submit,n
+1577,211,h2,,n
+1580,1577,span,Video,n
+1581,1577,text,Read Video Transcript,n
+1584,1577,label,.,n
+1586,1577,div,"By using this service, some information may be shared with YouTube.",n
+1598,211,div,,n
+1601,1598,h2,You Might Also Like,n
+1602,1598,div,,n
+1656,1602,div,Keep Score,n
+1667,1602,div,Hit a Slowpitch Softball,n
+1678,1602,div,Break in a Softball Glove,n
+1689,1602,div,Juice a Softball Bat,n
+1700,1602,div,Pitch a Fast Pitch Softball,n
+1711,1602,div,Hit the Ball Properly in Softball,n
+1722,1602,div,Swing a Softball Bat,n
+1733,1602,div,Throw a Changeup in Fast Pitch Softball,n
+1744,1602,div,Buy a Girl's Softball Bat,n
+1755,1602,div,Grip a Softball Bat,n
+1766,209,div,,n
+1770,1766,h2,References,n
+1772,1766,div,,n
+1784,1772,li,http,n
+1796,1772,li,https,n
+1800,1772,li,https,n
+1804,1772,li,https,n
+1812,209,div,More References,n
+1838,209,div,,n
+1841,1838,h2,About This Article,n
+1843,1838,div,,n
+1858,1843,div,"This article was co-authored by Haley Snyder . Haley Snyder is a former Division I Student-Athlete and Softball Player. With over a decade of experience, she specializes in softball mechanics, fundamentals, and pitching. Haley holds a BA and MA from Stanford University, where she competed in the PAC-12 Conference as a pitcher. This article has been viewed 630,117 times.",n
+1893,1843,div,,n
+1894,1893,text,Categories,n
+1896,1893,span,Softball,n
+1898,1838,div,,n
+1900,1898,span,Article Summary,n
+1903,1898,p,,n
+1904,1903,text,"Softball is a fun sport where 2 teams, consisting of at least 9 players each, try to score runs by hitting a softball, rounding the bases, and crossing the home plate. Softball games are 7 innings long. Each inning has 2 halves: the top half and the bottom half. To start the top half of the first inning, the fielding team splits up into 9 positions on the field: pitcher, catcher, first baseman, second baseman, third baseman, shortstop, left fielder, center fielder, and right fielder. The batting team decides on a batting order and the first batter steps up to the home plate. The pitcher throws the ball to the batter using an underhanded throwing motion and the batter attempts to hit the ball. The batter's goal is to successfully hit the ball into fair territory and run around as many bases as possible. Once the batter runs around all 3 bases and crosses home plate without getting out, they score a run for their team. The 3 most common ways a batter gets out is by hitting the ball up in the air so that a fielder is able to catch it before it hits the ground, by swinging and missing the pitch 3 times, or by hitting a ground ball and being tagged by a fielder with the ball while running between the bases. Once the batter hits the ball into fair territory, they must run to at least first base without getting out. The batter can try to run more than 1 base but they must stop on a base without being tagged out to be “safe.” At this point, the next batter steps up to the plate and takes their turn. Once the fielding team manages to put out 3 batters or baserunners, the top of the first inning is over. During the second half of the inning, the teams switch positions so the fielding team gets a chance to bat. Gameplay continues this way for 7 innings and the team with the most runs after 7 innings wins the game.",n
+1906,1903,span,"equipment you’ll need, read on!",n
+1910,1898,div,Did this summary help you?,n
+1919,1838,div,,n
+1920,1919,text,In other languages,n
+1921,1919,div,,n
+1922,1921,div,,n
+1924,1922,span,Español,n
+1925,1922,text,jugar sóftbol,n
+1926,1921,div,,n
+1928,1926,span,Italiano,n
+1929,1926,text,Giocare a Softball,n
+1930,1921,div,,n
+1932,1930,span,Русский,n
+1933,1930,text,играть в софтбол,n
+1934,1921,div,,n
+1936,1934,span,Português,n
+1937,1934,text,Jogar Softbol,n
+1942,1921,div,,n
+1944,1942,span,Français,n
+1945,1942,text,jouer au softball,n
+1946,1921,div,,n
+1948,1946,span,Deutsch,n
+1949,1946,text,Softball spielen,n
+1950,1838,ul,,n
+1952,1950,li,Print,n
+1954,1950,li,Send fan mail to authors,n
+1957,1838,div,Thanks to all authors,n
+1961,209,div,,n
+1964,1961,h2,Reader Success Stories,n
+1965,1961,div,,n
+1985,1965,div,More reader stories Hide reader stories,n
+1987,1965,text,Share your story,n
+1994,209,h2,Did this article help you?,n
+2012,195,div,,n
+2014,2012,div,"Cookies make wikiHow better. By continuing to use our site, you agree to our cookie policy .",n
+2032,2012,div,,n
+2050,2032,div,Click a star to vote,n
+2053,2032,div,people told us that this article helped them.,n
+2070,2012,div,,n
+2088,2070,div,,n
+2089,2088,div,,n
+2093,2089,div,,n
+2095,2093,p,Rodney Swain,n
+2097,2093,p,"Jan 15, 2021",n
+2098,2089,div,,n
+2099,2098,text,"""You can practice at home to start with and then join a team when you've built up more confidence. Plenty of people",n
+2101,2098,span,"aren't very good when they start off, but you'll be surprised at how quickly you can make progress.""",n
+2106,2088,div,,n
+2110,2106,div,,n
+2112,2110,p,Mackenzie Montoya,n
+2114,2110,p,"Nov 8, 2016",n
+2115,2106,div,,n
+2116,2115,text,"""The whole article helped me! Thank you very much! Softball season starts in two months, and I don't know how to",n
+2118,2115,span,"play. I believe that this article has helped me a lot. Thank You!""",n
+2123,2088,div,,n
+2127,2123,div,,n
+2129,2127,p,Annie Wester,n
+2131,2127,p,"Apr 6, 2017",n
+2132,2123,div,,n
+2133,2132,text,"""I want to play softball in 7th grade, and they have tryouts. I understand softball, but not enough to play the",n
+2135,2132,span,"sport well. This article helped me a lot to understand it better!""",n
+2141,2123,div,Rated this article,n
+2148,2088,div,,n
+2152,2148,div,,n
+2154,2152,p,Dannae Martin,n
+2156,2152,p,"Nov 30, 2016",n
+2157,2148,div,,n
+2158,2157,text,"""I'm writing a report about softball and I have to write about how to play it. This helps because it has everything",n
+2160,2157,span,"that I need to know.""",n
+2166,2070,div,Share yours! More success stories Hide success stories,n
+2171,2012,h3,You Might Also Like,n
+2217,2012,div,,n
+2229,2217,div,Program Using Javascript,n
+2240,2217,div,Avoid Misgendering,n
+2251,2217,div,Deal with Puberty As a Trans Teen,n
+2262,2217,div,Avoid Queerbaiting in Writing,n
+2273,2217,div,Use a Brita Pitcher,n
+2284,2217,div,Look Taller in Shoes,n
+2287,2012,div,,n
+2299,2287,div,Celebrate the Summer Solstice,n
+2309,2287,div,Which Zodiac Sign is the Strongest?,n
+2320,2287,div,Create a Calmer Household,n
+2331,2287,div,Chill a Drink Quickly,n
+2341,2287,div,Are My Running Shoes Worn Out? 11 Ways to Tell,n
+2352,2287,div,Cool Yourself Without Air Conditioning,n
+2355,2012,div,,n
+2367,2355,div,Identify Homophobia,n
+2378,2355,div,Store Gift Bags,n
+2389,2355,div,Grow King Oyster Mushrooms,n
+2400,2355,div,Prune a Jade Plant,n
+2411,2355,div,Make Rice Cakes,n
+2422,2355,div,Enjoy Being Single After Divorce,n
+2425,2012,div,,n
+2427,2425,h3,New Pages,n
+2436,2425,div,Right Hand Itching,n
+2446,2425,div,What Age Will I Die Based on My Zodiac Sign?,n
+2456,2425,div,How to Find Your South Node,n
+2466,2425,div,How to Soul Connect with Someone,n
+2476,2425,div,How to Connect a Cricut Printer to a Computer,n
+2487,2425,div,Find Queer Roommates,n
+2490,2012,div,,n
+2502,2490,div,Sing Clearly,n
+2513,2490,div,Tie a Loop Knot,n
+2524,2490,div,Build a Chicken Run,n
+2535,2490,div,Season Shrimp,n
+2546,2490,div,Core a Pineapple,n
+2557,2490,div,Deal with a Bossy Coworker,n
+2560,2012,div,,n
+2562,2560,h3,Watch Articles,n
+2572,2560,div,French Braid,n
+2583,2560,div,Grow a Beard Faster,n
+2594,2560,div,Lint when Washing Clothes,n
+2605,2560,div,Make Your Own Makeup Brush Cleanser,n
+2616,2560,div,Make Fresh Flowers Last Longer,n
+2627,2560,div,Make Fluffy Pancakes,n
+2630,2012,div,,n
+2642,2630,div,Make a Man Feel Sexy,n
+2653,2630,div,Clean Earbuds,n
+2664,2630,div,Deal with a Passive Aggressive Relationship,n
+2675,2630,div,Stop Loving Your Ex,n
+2686,2630,div,Itchy Skin with Home Remedies,n
+2697,2630,div,Wear Your Hair with a Hat,n
+2706,187,div,,n
+2719,2706,div,,n
+2722,2719,div,wikiHow Newsletter,n
+2724,2719,div,You're all set!,n
+2725,2719,div,,n
+2726,2725,text,Helpful how-tos delivered to,n
+2728,2725,br,your inbox every week!,n
+2730,2719,text,Sign me up!,n
+2732,2719,div,By signing up you are agreeing to receive emails according to our privacy policy.,n
+2741,2706,ul,,n
+2747,2741,li,Experts,n
+2749,2741,li,Jobs,n
+2751,2741,li,Contact Us,n
+2753,2741,li,Site Map,n
+2755,2741,li,Use,n
+2757,2741,li,Privacy Policy,n
+2759,2741,li,Do Not Sell My Info,n
+2761,2741,li,Not Selling Info,n
+2763,2741,li,Contribute,n
+2767,2706,p,Follow Us,n
+2769,187,div,,n
+2771,2769,button,×,n
+2772,2769,div,,n
+2774,2772,p,wikiHow Tech Help Pro,n
+2776,2772,p,Develop the tech skills you need,n
+2777,2772,text,Let's do this!,n
+2778,187,div,,n
+2779,2778,text,X,n
+2780,2778,div,,n
+2781,2780,div,,n
+2783,2781,h4,Join us in our mission,n
+2785,2781,p,"For over a decade, we’ve been on a mission: to help everyone in the world learn how to do anything. Today, we’re asking that you join us. Any amount that you can contribute helps us to continue providing readers like you with trusted, accurate and up-to-date information. Please consider supporting our continued work with a contribution to wikiHow.",n
+2788,2780,div,Let’s do this!,n
+2818,0,div,913,n

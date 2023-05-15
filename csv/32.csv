@@ -1,0 +1,223 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+8,2,p,"There are few greater pleasures in life than watching a big old trout sip your fly off the surface, followed by 10 minutes of an adrenaline-fuelled fight!",n
+10,2,p,my favorite ways to fish.,n
+14,2,p,"If you are just getting started, you’ll need a list of essentials to start you on your journey.",n
+16,2,p,"Well, I’ve got you covered.",n
+18,2,p,I’m going to give you a complete fly fishing gear list to help you on your way.,n
+23,2,div,,n
+25,23,p,Contents,n
+26,23,ul,,n
+27,26,li,,n
+28,27,text,Basic Fly Fishing Tackle,n
+29,27,ul,,n
+31,29,li,Fly Fishing Rod,y
+33,29,li,A Good Fly Fishing Reel,y
+35,29,li,The Best Fly Fishing Line,y
+37,29,li,Fly Fishing Leader,y
+39,29,li,Flies and Fly Boxes,y
+40,26,li,,n
+41,40,text,Fly Fishing Clothing,y
+42,40,ul,,n
+44,42,li,Baselayers,y
+46,42,li,Waders,y
+48,42,li,Boots,y
+50,42,li,Jacket,y
+52,42,li,Vest,y
+54,42,li,Fly Fishing Pack,y
+55,26,li,,n
+56,55,text,Other Tools and Equipment,n
+57,55,ul,,n
+59,57,li,Fly Fishing Landing Net,y
+61,57,li,Fly Fishing Nippers,y
+63,57,li,Fishing Pliers,y
+65,57,li,Fly Floatant,y
+67,57,li,Polarized Fishing Glasses,y
+68,26,li,,n
+69,68,text,Optional Extras,n
+70,68,ul,,n
+72,70,li,A Good Fly Fishing Hat,y
+74,70,li,Bug Repellent,y
+76,70,li,Sunscreen,y
+78,70,li,Medication,y
+80,70,li,A Camera,y
+82,70,li,Wading Staff,y
+84,70,li,Gloves,y
+86,70,li,Spare Socks,y
+88,70,li,Trash Bag,y
+90,70,li,Wader Repair Kit,y
+92,26,li,Summary,n
+94,23,p,,n
+96,94,strong,Disclosure,n
+97,94,text,"At BonfireBob, we recommend products based on unbiased research, however, BonfireBob.com is reader-supported and as an Amazon Associate we earn from qualifying purchases if you shop through the links on this page. For more information, see disclosure here .",n
+101,2,p,Want to know what I mean by ‘essentials’?,n
+103,2,p,"I literally mean the bare minimum required to get you out onto the water catching fish. Provided you stick to my beginner fly fishing gear checklist, you will literally have everything you need for a good day out.",n
+107,2,h2,Basic Fly Fishing Tackle,y
+110,2,h3,Fly Fishing Rod,y
+112,2,p,"Ok, so call me Mr. Obvious!",n
+118,2,p,"This is truly one of the most essential pieces of fishing tackle for fly fishing. There’s a massive selection of rods out there, and it can be hard when you are a beginner to know what’s right and wrong.",n
+120,2,p,"Don’t worry, I’ve got you.",n
+122,2,p,"Fly fishing rods are slightly different than the rods you might be used to. They have a really short handle and a super-fast and whippy action. The reason for this action is that fly fishing is really “bare bones”. You have your line and your fly, and that’s about it as far as casting weight goes. So, you need a rod that is capable of accelerating and throwing the line easily.",n
+124,2,p,advice,n
+132,2,p,"Pick something lightweight that is easy to cast. Casting is the hardest part of fly fishing and is a little bit of an art form. By choosing an easy to cast rod, you’ll create a good technique that you can build on later.",n
+134,2,p,"Fly rods are rated in ‘weights’ depending on how heavy duty they are. The higher the number, the heavier the rod. For beginners, I’d recommend a rod rated between #4-6.",n
+137,2,h3,A Good Fly Fishing Reel,y
+139,2,p,"Just like the rods, fly fishing reels are a little different. They are essentially line holders; you don’t fight the fish using the reel, and you don’t use the reel to cast either.",n
+141,2,p,Really?,n
+143,2,p,"Yup, you normally use your hands to pull the line and bring it back in. Here’s a video to show you what I mean.",n
+147,2,p,"Essentially a reel should have two things. It should have enough capacity to hold your line, and its size should be well balanced with the rod.",n
+150,2,h3,The Best Fly Fishing Line,y
+152,2,p,"Again, fly fishing is a little different. When choosing the best fly fishing line, it can get quite technical and is an article all on its own.",n
+154,2,p,"Generally, when it comes to line, there are two general types:",n
+156,2,ul,,n
+158,156,li,Floating Line,n
+160,156,li,Sinking Line,n
+163,2,p,"Let me make a recommendation, for a beginner, go for a floating line. You’ll be able to fish 95% of the time using it.",n
+165,2,p,"A floating line can be used to present flies on the surface or flies beneath the surface . A sinking line can only be used to fish beneath the surface of the water. Unless you are fishing in really deep water or fly fishing in the depths of winter, you won’t need a sinking line.",n
+167,2,p,Are all lines the same?,n
+169,2,p,"Not quite. The line is given a number rating. The larger the number, the heavier the line. This must also match the rod. If your rod is rated #5, you will need a #5 line too!",n
+171,2,p,"To further confuse matters, the line has different ‘biases’ or ‘tapers’. A single fly line has a variable thickness, designed to give it different handling characteristics when casting. Weight forward line starts thick and gradually gets thinner.",n
+177,2,p,You can also get a belly tapered fly line. This is where the middle of the fly line is thicker and tapers towards the ends. This is great for fishing really light flies that require a delicate presentation.,n
+179,2,p,There’s a great video here on understanding the differences in fly lines.,n
+184,2,h3,Fly Fishing Leader,y
+186,2,p,"Fly fishing line is pretty thick. And no trout are going to eat something tied to a piece of luminous green washing line. So, you’ll need a thin leader at the end of your mainline to make your fly look natural.",n
+188,2,p,"There are several types of leaders , and I’m not going to talk here about the benefits of mono vs fluoro… But be aware that there are advantages to both.",n
+192,2,p,And the breaking strain?,n
+198,2,p,"I find that a 6lb leader will cover you for most eventualities. I’ve landed 18lb trout on a 6lb leader, and it is fine enough to ensure a great fly presentation. Once you get into the groove, you’ll find that you will take several different leader spools to cover you for many eventualities.",n
+200,2,p,You’ll find that many fly fishing vests and packs have a dedicated ‘leader bridge’ designed to hold several spools at once.,n
+205,2,h3,Flies and Fly Boxes,y
+207,2,p,Flies are another essential item that you have to take. A fly is essentially a man-made lure designed to imitate something in the fish’s natural environment.,n
+209,2,p,And I’m going to be upfront and honest here…,n
+215,2,p,"Once you buy one fly, you will embark on a slippery slope from which there is no return.",n
+217,2,p,Buying flies,n
+223,2,p,"When it comes to choosing the best fly for beginners , you want some general advice. Mine would be this.",n
+227,2,p,"Pick a few well-known patterns and buy them in a range of colors and sizes. Take an equal mixture of dry and wet flies, and you should be covered. If you want a list of the flies I normally take, I’ve got a great article on flies just here .",n
+235,2,p,"You don’t need a massive fly box . Choose one that will easily fit in the pocket of a vest. Over your fishing career, you are probably going to accumulate several. If you haven’t got room in your fishing vest , an over the shoulder sling might be the answer",n
+245,2,h2,Fly Fishing Clothing,y
+247,2,p,"When fly fishing, you are going to be stood in the water",n
+249,2,p,"Believe me, it gets cold.",n
+251,2,p,"So, you want to be well dressed. When choosing fly fishing clothing, I use two criteria to make sure I’ve got the best gear. Generally, I want to be warm and dry.",n
+253,2,p,essentials to wear when fly fishing:,n
+256,2,h3,Baselayers,y
+258,2,p,"I find a lightweight base layer or two keeps me pretty warm. The best thing is if I am too warm, I can shed a layer to fine-tune my comfort.",n
+264,2,p,"Up top, I wear at least a tee shirt and a thick sweater or body warmer. You can get custom made fly fishing shirts that are designed to keep the cold out.",n
+266,2,p,"On my legs, I tend to just wear sweatpants or something comfortable.",n
+270,2,h3,Waders,y
+272,2,p,Waders are a key piece of fly fishing attire. Fly fishing waders are normally one-piece garments with a high waist that allow you to stand pretty much up to your armpits in the river or lake without getting wet.,n
+278,2,p,The best fishing waders normally have adjustable shoulder straps to allow you to alter the fit and give you ultimate comfort. The bottom of your fly fishing waders normally has neoprene ‘socks’ attached to keep your feet snug and dry.,n
+282,2,p,Do you know what I look,n
+284,2,p,"Durability. Waders are one of those things that it pays to spend a little extra on. Durability is crucial. If you get a hole in your waders or they let you down, you are going to have a really miserable day.",n
+286,2,p,"To learn more about waders, check out my fly fishing waders guide here . There are quite a few to choose from and plenty of options if you are on a budget.",n
+291,2,h3,Boots,y
+293,2,p,"Combined with your waders, you will need a set of fly fishing boots . These boots generally have two types of sole, and the style you choose will depend on where you are going to fish.",n
+297,2,p,"For rocky bottoms, you will need a pair of felt-soled wading boots. These ensure a really good grip.",n
+303,2,p,"Alternatively, for muddy and slippery lake beds, the best option might be rubber-soled boots. These often come with stud attachments designed to give great traction.",n
+305,2,p,It is possible to buy boots where you can get the best of both worlds. They have removable studs allowing you to fish in a variety of conditions.,n
+307,2,p,What size fly fishing boots should I buy?,n
+309,2,p,"Generally, you’ll have a thick pair of socks and your waders on underneath your boots. My advice would be to check the sizing guide, but I go a size bigger than my usual boot size to allow for some extra padding and insulation underneath.",n
+313,2,h3,Jacket,y
+315,2,p,"Ok, so if you are wading, your bottom half might be submerged, but you still want to keep your torso dry.",n
+321,2,p,"The best fly fishing jackets don’t need to be expensive. I tend to opt for a really lightweight outer shell. Not only does this keep me dry, but I can pack it down and stow it in my fishing pack when I’m not using it.",n
+329,2,p,"The best fly fishing jackets tend to be breathable too. When you are fly fishing, you are going to be moving a lot, and it can get a little ‘humid’ with all the action.",n
+332,2,h3,Vest,y
+334,2,p,Here is a piece of fly fishing clothing that you mustn’t be without. A great fly fishing vest is nearly as important as your rod and reel.,n
+338,2,p,"Try and view it as a wearable tackle bag. You’ll carry everything in your vest. And when I say ‘everything,’ I mean everything!",n
+341,2,p,Want to know what I mean?,n
+343,2,p,"If I tipped my fly fishing vest out onto the counter, you’d find:- Fly boxes, flies, leaders, pliers, a landing net, pliers, scissors, nippers, bottles of floatant, and even a set of scales.",n
+345,2,p,"Fly fishing vests allow you to travel light while still having all of your bits and pieces kept close to hand. They look pretty cool too! If you want to see what I mean, swing over to my article on the best fly fishing vests .",n
+349,2,p,"Check this video out too, you’ll be amazed at how much you can fit into a vest. They are really vital.",n
+354,2,h3,Fly Fishing Pack,y
+356,2,p,A good fly fishing pack will work in tandem alongside a vest. Your fly fishing pack can be used to supplement your vest to store items.,n
+358,2,p,"A fly fishing pack can come in many forms. You’ll find some are hip-mounted, some are chest-mounted, and others can be worn over the shoulder. You can see examples of the best fly fishing packs here .",n
+362,2,p,"Which you choose is down to personal preference, but they can be super useful, especially when you are wading.",n
+365,2,h2,Other Tools and Equipment,n
+368,2,h3,Fly Fishing Landing Net,y
+370,2,p,No fly fishing equipment list would be complete without my trusty landing net.,n
+376,2,p,"For fly fishing, you’ll find that landing nets are purposely designed to be portable. Most will include a clip or mount that allows you to carry it on your vest, leaving you hands-free to enjoy your fishing.",n
+378,2,p,"I favor a one-piece wooden net. However, you can also get folding landing nets. Some are super lightweight and made of futuristic compounds like carbon fiber.",n
+380,2,p,"I’ve got a great article about landing nets here , where I give some quality suggestions.",n
+385,2,h3,Fly Fishing Nippers,y
+387,2,p,"When it comes to fly fishing, you want to make sure your fly’s presentation is perfect. No tag ends here, thanks! A pair of fly fishing nippers are invaluable when it comes to making everything nice and neat.",n
+389,2,p,Fly fishing nippers aren’t expensive and are a really quick and convenient way to snip through the line. You can see some great examples of nippers in my guide here.,n
+393,2,p,"I like to pair mine with a zinger and attach them to my vest, so I’ve got them easily to hand.",n
+396,2,h3,Fishing Pliers,y
+398,2,p,"A decent pair of fishing pliers are a must when fly fishing. Trout don’t hold back when they attack a fly, and if you are practicing catch and release, it is vital that you can unhook them quickly and easily.",n
+402,2,p,"Most fishing pliers are multi-functional tools too! You can use them for cutting line, squashing barbs, fixing tackle, and a whole host of other things. If you pick a lightweight pair, then you’ll fit them in your vest or fishing backpack , no problem.",n
+409,2,h3,Fly Floatant,y
+411,2,p,"When you are dry fly fishing, you want your fly to float. This is often easier said than done. If you are a beginner, there is a good chance you will struggle to keep your fly floating.",n
+413,2,p,But there’s an answer.,n
+415,2,p,"floatant with you, and you’ll be able to fish with greater success.",n
+418,2,h3,Polarized Fishing Glasses,y
+420,2,p,Do you know why I love fly fishing?,n
+422,2,p,"It’s really visual. Watching a fish notice your fly, then swim closer and closer before rushing to smash into it has to be one of the most exhilarating experiences you can have when fishing. Stalking trout in pools and streams is so rewarding.",n
+428,2,p,"But, to do this, you need to see the fish. I find the easiest way is to wear a pair of polarized glasses . They allow you to see under the water by blocking certain wavelengths of light.",n
+432,2,p,Another benefit is that they stop you from getting a headache. Squinting into the glare all day long can be painful. I’ve had more than one day ruined by forgetting my sunglasses.,n
+436,2,h2,Optional Extras,n
+438,2,p,"Alright, look. I get it…",n
+440,2,p,"You are one of those anglers who like to be fully prepped with everything you might need. While the above list and ideas will get you out fishing, if you want to be completely prepared, there are a few optional extras that you could consider adding to your list.",n
+442,2,p,Don’t blame me when your pockets are full.,n
+444,2,p,Here are other bits you might need to consider,n
+447,2,h3,A Good Fly Fishing Hat,y
+449,2,p,"Listen, there is nothing fancy here. And provided you have a head , a hat is really easy to transport. Just stick it on your dome and go!",n
+451,2,p,There are a few features that you could maybe keep a lookout for:,n
+453,2,p,A peak or brim. This is down to personal preference.,n
+455,2,p,Me?,n
+457,2,p,"I prefer a baseball cap. If you are smart about it, you could even stick a foam or fur patch and use it to store flies!",n
+459,2,p,A peak will keep the glare off and stop you from burning your face. You also have the option of flipping it around to protect your neck if you’ve got the sun behind you.,n
+461,2,p,The other alternative is a hat with a wide brim.,n
+464,2,h3,Bug Repellent,y
+466,2,p,Flies on the water are good. Bugs on your skin… Not so much.,n
+468,2,p,"If you’ve timed it right and arrived during a hatch, there’ll be all sorts of creepy crawlies around. And some of them bite! To guard against this, I normally take a small bottle of insect repellent.",n
+470,2,p,The only thing eating should be the fish!,n
+472,2,p,"Oh, and before I forget, if you buy a bottle containing Deet, be careful where you spray it. The active ingredient of mosquito repellent will eat through rubber, plastic, and even the handle of your rod given enough time.",n
+476,2,h3,Sunscreen,y
+478,2,p,As Baz Lurhmann said…,n
+480,2,p,“Wear. Sunscreen”,n
+482,2,p,"You only get one skin, and you’ve got to look after it. Even cloudy days can cause a nasty burn, and the water reflects UV rays too.",n
+484,2,p,factor 40 to cover all of those areas that are exposed.,n
+487,2,h3,Medication,y
+489,2,p,"Not everyone will need this, but there’s nothing worse than being an hour down the road excited about fishing before you remember that you haven’t packed your meds.",n
+491,2,p,"If you need regular medication, I’d suggest packing it the night before.",n
+493,2,p,"For those who don’t require prescribed medication, you could still consider taking some painkillers. Squinting at bright water all day can give you a headache.",n
+496,2,h3,A Camera,y
+498,2,p,“And it was this big”…,n
+501,2,p,"You say to your buddies, stretching your arms. Yeah, right.",n
+503,2,p,"Take a camera, and you’ve got documented proof of how great a fisherman you are. We aren’t talking war correspondent SLRs either. Some sports cameras are really reasonably priced and compact.",n
+506,2,h3,Wading Staff,y
+508,2,p,"If you are negotiating deep or fast-moving water, this one is a must.",n
+510,2,p,A decent wading staff will allow you to support yourself against the current. It is also great for feeling ahead and checking depths.,n
+512,2,p,It’s no fun having full waders…,n
+514,2,p,Ask me how I know.,n
+518,2,h3,Gloves,y
+520,2,p,Wet hands + wind equals cold hands. Even on warmer days.,n
+522,2,p,Fly fishing requires the use of your fingers at all times. No good if they are frozen. There are some really neat fishing gloves around that will keep your hands warm and allow you to use your fingers.,n
+527,2,h3,Spare Socks,y
+529,2,p,Look.,n
+531,2,p,Fishing involves standing in water.,n
+533,2,p,"It is a practical certainty that at some point, your feet are going to get wet.",n
+537,2,p,Speak,n
+539,2,p,Here’s the answer. Take a Ziploc bag and throw a spare pair of socks in. Then stow this in your day pack. Instant comfort and dry feet!,n
+542,2,h3,Trash Bag,y
+544,2,p,"Not everyone is as conscientious as you, and if you go to an often fished spot, you are bound to find bits of trash lying around.",n
+546,2,p,"Why not kill two birds with one stone and help keep your fishing environment looking nice. 10 minutes at the end of the day is all it takes. It also gives you an organized place to throw your own bits, such as soda cans, chip bags, and bits of loose line.",n
+549,2,h3,Wader Repair Kit,y
+551,2,p,I’ve talked about spare socks and wet feet already. A hole in your waders is normally the cause.,n
+553,2,p,Here’s how to deal with it quickly.,n
+555,2,p,"Tubes, patches and contact glue. They are really great for patching your waders up on the go. This is actually essential. You’ll never want one more than when you haven’t got one in your pocket.",n
+557,2,p,And here is something just,n
+560,2,h2,Summary,y
+562,2,p,tackle on my essential fly fishing gear list.,n
+564,2,p,"But, once you’ve got it all packed away, you’ll be surprised at how light you are actually traveling.",n
+566,2,p,"There are plenty of other accessories. However, the above should get you out and catching in no time.",n
+568,2,p,What essentials do you take? Have I missed something off my list?,n
+570,2,p,Let me know in the comments.,n
+577,0,p,The author of this post is Bob Hoffmann. Bob has spend most of his childhood fishing with his father and now share all his knowledge with other anglers. Feel free to leave a comment below.,n
+579,0,h3,Recent Content,n
+580,0,div,,n
+581,580,article,,n
+584,581,span,Pedals - The 10 Best Pedal Fishing Kayaks in 2022,n
+588,581,p,"When humans first decided to create a watercraft out of a wood frame covered with seal skins, little did they realize how popular kayaking would become. The materials have changed somewhat, and...",n
+592,580,article,,n
+595,592,span,"link to The 9 Best Stand Up Fishing Kayaks in 2022 - Don’t Rock the Boat, Baby!",n
+599,592,p,"Are you one of those anglers who are keen to try kayak fishing but are a little apprehensive about stability? You’re not alone. Tipping over, falling out, or capsizing are some of the most...",n

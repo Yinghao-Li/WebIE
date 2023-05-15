@@ -1,0 +1,88 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,article,,n
+6,1,div,,n
+7,6,div,,n
+9,7,h1,Ice Fishing Gear List and Tips,n
+10,7,p,,n
+13,10,span,"Ice fishing can be as simple as a fishing rod, some live bait",n
+16,10,span,",",n
+19,10,span,"and a device to drill a hole. However,",n
+22,10,span,those are the bare bones when it comes to ice fishing gear.,n
+25,10,span,Whether you are a beginner ice angler or a seasoned pro on the,n
+28,10,span,hardwater,n
+31,10,span,", there are ice fishing essentials every angler needs.",n
+37,7,h3,Essential Ice Fishing Gear List,n
+39,7,p,"Let’s make the assumption you already have ice fishing clothing, such as cold weather outerwear and insulated boots, and your necessary license. Our focus can then be on the ice fishing equipment required to put fish on the ice. There are 9 essential items that every angler needs on their ice fishing gear list:",n
+43,7,ol,,n
+45,43,li,Jigging ice fishing rod and reel,y
+48,43,li,Live bait container stocked with live bait,y
+51,43,li,"Terminal tackle such as line clippers, fish grabbers, pliers, hooks, sinkers, etc.",y
+54,43,li,Ice fishing tip ups,y
+57,43,li,Ice fishing electronics,y
+60,43,li,Ice augur and skimmer,y
+63,43,li,Retractable ice pick,y
+66,43,li,Sled to tote all your ice fishing equipment,y
+69,43,li,"Bucket, chair or ice shanty to set up shop",y
+72,7,h3,Tips On the Most Important Ice Fishing Gear,n
+74,7,p,"As you can see from the ice fishing essentials above, ice fishing requires a few unique items and some items with a different twist. For success on the ice, here are a few tips on the most important ice fishing equipment!",n
+77,7,h4,Ice Fishing Rods and Reels,y
+80,7,p,"There are essentially two different styles of ice fishing rods. One is a jigging rod, which is a smaller version of the more traditional fishing rod and reel combo. An ice fishing jigging rod is at most 3-feet in length and has an ultralight action with a small spinning reel. One good jigging rod is enough for most anglers. However, an important tip is to pay attention to the type of fishing line you use. Use as light of line as you can for what you expect to catch. Also, specifically designed ice fishing line works better than normal fishing line because it withstands cold water better, is abrasion resistant, and is less visible under the ice.",n
+83,7,p,"The other style of rods anglers should have in their ice fishing gear is the tip up. Ice fishing tip ups are unique to ice fishing. They are comprised of a spool of line set just below the hole under the water, with typically some type of live bait hanging below. When the fish grabs the bait, a flag, or type of indicator, pops up to alert you of the strike. Tip ups allow you to fish multiple holes, but remember not to overdo it. You are much more successful setting fewer tip ups than having more than you can get to when a fish pops the flag.",n
+88,7,h4,Alive Bait,y
+94,7,p,"Live bait is by far the most popular fishing bait for ice anglers. The problem is, live bait has a tough time staying alive in sub-freezing temperatures. You can catch more fish under the ice if you have fresh, live bait such as minnows. However, most live bait containers fall short when it comes to ice fishing. Traditional minnow buckets are cumbersome to tote along and make it difficult to keep minnows alive . Although not exclusively designed for ice fishing, one of the best new ice fishing gadgets is the live bait container from Bait Up ™. It’s small, innovative design lets you freshen water from your ice hole as well as stow it out of the elements. Both features keep your live bait alive longer which equals more fish.",n
+108,7,h4,Ice Fishing Electronics and Why They Are Worth It,n
+110,7,p,"Fish finders and other electronics for ice fishing are not all that new. They are, however, much more advanced and helpful for ice anglers than they use to be.",n
+113,7,p,"Electronics can put a dent in your ice fishing gear budget, but they are worth it. No longer do you need to drill dozens of holes before you find the sweet spot. Ice fishing electronics allow you to find fish faster and mark hotspots for future trips.",n
+116,7,p,Having the right ice fishing gear makes for a much more successful time on the water. The 9 ice fishing gear essentials outlined above are critical no matter what level of ice angler you are. Pair those with safe ice on top of plentiful lakes and you have a winning ice fishing combination.,n
+118,6,footer,,n
+119,118,span,,n
+121,119,strong,Tags,n
+123,119,span,"ice fishing clothing , ice fishing electronics , ice fishing equipment , ice fishing essentials , ice fishing gear list , new ice fishing gadgets",n
+134,118,div,,n
+136,134,h5,Share this entry,n
+137,134,ul,,n
+140,137,li,Share on Facebook,n
+143,137,li,Share on Twitter,n
+146,137,li,Share on WhatsApp,n
+149,137,li,Share on Pinterest,n
+152,137,li,Share on LinkedIn,n
+155,137,li,Share on Tumblr,n
+158,137,li,Share on Vk,n
+161,137,li,Share on Reddit,n
+164,137,li,Share by Mail,n
+167,1,span,,n
+168,167,span,,n
+170,168,span,https,n
+172,168,span,856,n
+174,168,span,1280,n
+180,167,span,http,n
+185,167,span,-20 20:34:14,n
+187,167,span,-12 19:43:04,n
+190,167,span,Ice Fishing Gear Essentials,n
+192,0,div,,n
+194,192,h5,You might also like,n
+201,192,div,Ice Fishing Bait,n
+202,0,div,,n
+205,202,div,,n
+207,205,span,0,n
+209,205,span,replies,n
+212,202,div,,n
+214,212,h3,Leave a Reply,n
+215,212,span,,n
+216,215,text,Want to join the discussion?,n
+218,215,br,Feel free to contribute!,n
+219,212,div,,n
+220,219,h3,,n
+221,220,text,Leave a Reply,n
+223,220,small,Cancel reply,n
+224,219,form,,n
+225,224,p,,n
+227,225,span,Your email address will not be published.,n
+229,225,span,Required fields are marked,n
+234,224,p,Name,n
+240,224,p,Email,n
+246,224,p,Website,n
+250,224,p,Comment,n
+257,224,p,follow-up comments by email.,n
+261,224,p,new posts by email.,n

@@ -1,0 +1,190 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,article,,n
+14,1,div,,n
+24,14,h1,All The Products You Need to Build a Solid Makeup Collection,n
+26,14,div,,n
+27,26,div,,n
+28,27,div,,n
+30,28,span,By,n
+31,28,div,,n
+32,31,text,Ashley Rebecca,n
+33,31,div,,n
+34,33,div,,n
+39,34,div,Ashley Rebecca,n
+41,34,ul,,n
+44,41,li,Instagram,n
+47,41,li,Twitter,n
+49,34,div,"Ashley Rebecca is an NYC-based makeup artist and a regular contributor for Byrdie covering makeup, skincare, and haircare.",n
+51,33,div,Byrdie's Editorial Guidelines,n
+53,27,div,"Updated on Jun 17, 2022",n
+55,26,div,,n
+60,55,div,,n
+70,60,div,Jaleesa Jaikaran is a New York-based makeup artist who specializes in the transformative powers makeup can have.,n
+72,60,div,About Byrdie's Beauty and Wellness Board,n
+74,55,div,Makeup Artist,n
+87,1,div,,n
+88,87,div,,n
+90,88,p,"Building an expertly curated makeup collection in the modern beauty age can leave you feeling like you need a carry-on to haul everything around with you. We reached out to professional makeup artists Brittany Whitfield and Tim Mackay for help identifying the must-haves in anyone's collection, and the good news is that you can leave your wheeled luggage at home for this one.",n
+97,88,div,,n
+99,97,p,Meet the Expert,n
+101,97,ul,,n
+103,101,li,Brittany Whitfield is a professional makeup artist living and working in New York City. She is also the brand founder of Crash and Blend .,n
+107,101,li,"Tim Mackay is a professional makeup artist working in television, print, editorial, and events. His celebrity clients include Yara Shahidi, Yaya DeCosta, and June Diane Raphael.",n
+111,88,p,Keep reading to see their expert picks,n
+112,87,div,,n
+113,112,div,,n
+116,113,div,01,n
+119,113,div,,n
+123,119,h2,Skin Prep or Foundation Primer,y
+132,119,div,Magic Cream,n
+139,119,p,"Priming your face for whatever is going on top is a great way to create the perfect canvas for your makeup. There are several types of primer that you can choose depending on your skin, but we're here to let you in on a little secret: good skincare is just as effective at priming the skin as some primers are. ""Charlotte Tilbury Magic Cream tones down redness, plumps skin, and improves skin texture for makeup application or wear,"" says Mackay, ""and for non-wearers, too"" Whether you're concerned about pores, redness, or anti-aging, there's a primer option for everybody. Whitfield swears by Weleda Skinfood Light . ""It effortlessly creates a healthy glow, no matter how much product you pile on,"" she says.",n
+145,112,div,,n
+148,145,div,02,n
+151,145,div,,n
+155,151,h2,"Liquid Foundation, CC Cream, or Tinted Moisturizer",y
+160,151,div,,n
+162,160,span,L'Oreal Paris,n
+164,160,span,True Match Super Blendable Foundation Makeup with SPF 17,n
+167,160,span,$9.00,n
+171,151,p,"The great thing about foundation is the variety of formulas it comes in to fit every need. One common misconception about foundations is that it also needs to be heavy on the skin to look good. "" has an excellent shade range and a beautiful finish,"" says Whitfield. If barely-there is more your speed, Mackay loves Dior Backstage Foundation for its natural yet buildable coverage.",n
+179,151,p,"""I recommend applying foundation with a sponge or at least going back with your sponge to really press in the foundation to the skin,"" says Mackay. ""It ensures that it will last longer on the skin and won’t transfer as easily as it would if applied with a brush. Plus, it can look much more natural.""",n
+183,112,div,,n
+186,183,div,03,n
+189,183,div,,n
+193,189,h2,Concealer,y
+198,189,div,,n
+200,198,span,Jouer,n
+202,198,span,Essential High Coverage Concealer,n
+205,198,span,$24.00,n
+209,189,p,"Concealer comes in many textures and coverage levels, but the main places you'll be using it is under the eyes for dark circles and also on blemishes to help tone down redness. "" has amazing coverage without looking cakey,"" promises Mackay. Whitfield loves Covergirl TruBlend Undercover Full Coverage Concealer , which she says can also be sheered out with moisturizer for use as a foundation.",n
+219,112,div,,n
+222,219,div,04,n
+225,219,div,,n
+229,225,h2,Eyebrow Pencil,y
+234,225,div,,n
+236,234,span,Eyebrow Queen,n
+238,234,span,Brow Pro Pencil,n
+241,234,span,$31.00,n
+245,225,p,"Your eyebrows are one of the most important features on your face, but many over time have over-plucked, waxed, or have experienced thinning hair, all causes that create a less fuller looking eyebrow. With a pencil, you can easily shape the arch and fill in with light strokes to create a hair-like appearance. Whitfield swears by British brand Eyebrow Queen. ""These are a holy grail. They give such a good payoff with a fine point. The spoolie is precise and thin."" Mackay also recommends products from Fenty Beauty or Benefit Cosmetics for their excellent shade ranges and precision.",n
+253,112,div,,n
+256,253,div,05,n
+259,253,div,,n
+263,259,h2,Eyeshadow,y
+268,259,div,,n
+270,268,span,Too Faced,n
+272,268,span,Natural Lust Palette,n
+279,259,p,"Whether you prefer powder or cream textured eyeshadow , it's necessary to create beautiful eye makeup looks. Eyeshadow doesn't need to be overwhelming; start with something geared toward everyday wear, like the Too Faced Natural Lust Palette, says Mackay. "" a beautiful range of tones and textures with a few pops of color and great blend-ability."" When you're ready to start experimenting, Whitfield says the only way to go is Pat McGrath Labs .",n
+285,112,div,,n
+288,285,div,06,n
+291,285,div,,n
+295,291,h2,Eyeliner,y
+300,291,div,,n
+302,300,span,Maybelline,n
+304,300,span,Eyestudio Lasting Drama Waterproof Gel Pencil,n
+307,300,span,$8.00,n
+311,291,p,"Eyeliner is a great way to define your eyes and comes in many forms: pencil and liquid are the two most common kinds on the shelves. Creamy pencils are easy to apply, and some formulas, like the Maybelline Lasting Drama Waterproof Gel pencils, set down to a budge-proof finish. "" dry down quickly, so don't mistake them for a kohl or an eyeshadow base, unless they're blended immediately,"" warns Whitfield. If it's cat-eye or bust for you, Mackay recommends the Stila Micro Tip Stay All Day Waterproof Liquid Eyeliner as a beginner-friendly, high-precision option.",n
+316,112,div,,n
+319,316,div,07,n
+322,316,div,,n
+326,322,h2,Mascara,y
+331,322,div,,n
+335,331,span,At Lash'd Lengthening and Curling Mascara,n
+338,331,span,$27.00,n
+342,322,p,"Wake up your lashes daily with mascara ; it will make a huge difference in your eyes. Mascara is the best product to use for an instant lift, and it's amazing what it can do for all the different eye makeup looks you wear. Whitfield swears by Marc Jacobs At Lash'd because it ""volumizes like mad and won't clump or create 'spider legs,'"" and Mackay is a fan of L'Oreal Lash Paradise Waterproof .",n
+348,112,div,,n
+351,348,div,08,n
+354,348,div,,n
+358,354,h2,Eyelash Curler,y
+363,354,div,,n
+365,363,span,Kevyn Aucoin,n
+367,363,span,Eyelash Curler,n
+370,363,span,$21.00,n
+374,354,p,"If you are one of the mythical few whose eyelashes are naturally curly, we congratulate you. For the rest of us commoners, we have to rely on the straight-up medieval-looking lash curler. There are mechanical, clamp-styled, and heated, mini-curling-iron types; the lift a good curl provides makes a huge difference in making the eye appear bigger and more open, whether or not you're going to put mascara on top. Whitfield says her ride-or-die curler is Kevyn Aucoin's because it ""really gets close to the lash line.""",n
+376,112,div,,n
+379,376,div,09,n
+382,376,div,,n
+386,382,h2,Setting or Finishing Powder,y
+391,382,div,,n
+393,391,span,Dior,n
+395,391,span,Diorskin Forever and Ever Control Extreme Perfection and Matte Finish Invisible Loose Powder,n
+402,382,p,"Modern setting powders aren't your talc-filled dust that your grandma used to beat on with a powder puff —it's been around since the beginning for a reason). Using a setting powder can help lock liquid products into place, extending wear, smoothing texture, and, in some cases, like Whitfield's favorite pick, Diorskin Forever and Ever loose powder, controls oil. ""This powder blots oil well for all skin tones,"" she says. Mackay likes Fenty Beauty's Pro Filt'r Instant Retouch Setting Powder for both the finish and the sheer amount of powdery goodness you get in one package.",n
+410,382,p,"As a general rule, all of your liquid and cream products should be applied before any powder products. Powder on top of cream helps lock things in place; cream on top of powder will cause chunks and separation.",n
+412,112,div,,n
+415,412,div,10,n
+418,412,div,,n
+422,418,h2,Bronzer,y
+427,418,div,,n
+429,427,span,Fenty Beauty,n
+431,427,span,Sun Stalk'r Instant Warmth Bronzer,n
+434,427,span,$34.00,n
+438,418,p,"Bronzer is an essential step for injecting depth, dimension, and natural color into the face so you can further enhance with blush and highlighter. Both Whitfield and Mackay swear by Fenty Beauty to achieve sun-kissed perfection: Whitfield adores the Match Stix for how great it layers on every complexion, and Mackay digs the Fenty Beauty Bronzer because it's matte and comes in so many warm and cool shades.",n
+442,112,div,,n
+445,442,div,11,n
+448,442,div,,n
+452,448,h2,Blush,y
+457,448,div,,n
+461,457,span,Cheek to Chic Blush in Pillow Talk,n
+464,457,span,$40.00,n
+468,448,p,"Blush puts that glow back into your cheek after your foundation has stripped your face of excess color, but it's not a one-way ticket to Clown Town. There are plenty of great natural colors to sweep gently across the apples of your cheeks; Mackay recommends ""Charlotte Tilbury Pillow Talk Blush. It's soft, natural, and comes in various shades for different skin tones."" For an on-the-go option, try a cream stick like Milk Makeup's Mini Lip + Cheek Stick .",n
+475,448,p,"Speaking of on-the-go, there are a few things that Whitfield and Mackay agree should be in any going-out clutch or party purse: lip balm for hydration and a sheen of highlight in a pinch, q-tips for easy cleanup, and some lip product: pencil, lip color, or put your cream cheek product on double-duty.",n
+477,112,div,,n
+480,477,div,12,n
+483,477,div,,n
+487,483,h2,Highlighter,y
+492,483,div,,n
+494,492,span,Becca Cosmetics,n
+496,492,span,Shimmering Skin Perfector in Champagne Pop,n
+499,492,span,$38.00,n
+503,483,p,"Highlighting the high planes of the face is a surefire way to have people asking what your skin secrets are. Whitfield says that flexible products, like Cover FX's Custom Enhancer Drops , are a kit staple. ""You can thin them out if you want, or if you want a galactic highlight, use them as-is,"" she instructs. Powders like Becca Cosmetics' Shimmering Skin Perfector may seem counterintuitive—a powder, glowy?— but it ""can look dewy with a hydrating mist,"" promises Mackay.",n
+507,112,div,,n
+510,507,div,13,n
+513,507,div,,n
+517,513,h2,Lip Liner,y
+522,513,div,,n
+526,522,span,Lip Pencil,n
+529,522,span,$19.00,n
+533,513,p,"Before there were lip fillers, there were lip liners. These OGs of reshaping define lip lines, create sharp, crisp edges, and help prevent creamy lip products from migrating outward throughout the day. KVD Vegan Beauty Everlasting Lip Liner has ""beautiful shades that last on the skin,"" says Mackay of his go-to; for Whitfield, it's ""MAC Cosmetics! No-brainer!"" In a pinch, you can fill in your whole lip for a quick lipstick substitute.",n
+537,112,div,,n
+540,537,div,14,n
+543,537,div,,n
+547,543,h2,Lipstick or Lip Gloss,y
+552,543,div,,n
+556,552,span,Enamored Hi Shine Gloss Lip Lacquer,n
+561,552,span,$20.00,n
+565,543,p,"You can never have enough lipstick , but which formulas are the most comfortable and longest-lasting? Depending on what lipstick finish you want, there's definitely plenty to choose from in every category imaginable. Mackay promises the Dior Lip Tattoos are ""gorgeous and long-wearing"" , and Whitfield says Marc Jacobs Enamored Hi-Shine Gloss Lip Lacquer can ""add a pop to neutral lip color preferences,"" and a little peppermint tingle.",n
+569,112,div,,n
+572,569,div,15,n
+575,569,div,,n
+579,575,h2,Setting Spray,y
+584,575,div,,n
+586,584,span,Skindinavia,n
+588,584,span,The Makeup Setting Spray,n
+595,575,p,"If you want your makeup to last all day or through a special occasion, pick up a setting spray to spritz on after you're done applying to set it. The spray will form a film that keeps your products sealed into place on even the sweatiest of dance floors. Mackay loves Charlotte Tilbury's Airbrush Flawless Setting Spray , and with a name like that, who wouldn't? Whitfield keeps it old-school with the original Makeup Setting Spray from Skindinavia.",n
+599,112,div,,n
+602,599,div,16,n
+605,599,div,,n
+609,605,h2,Makeup Brushes,y
+618,605,div,205 Synthetic Mascara Fan Brush,n
+625,605,p,"Leonardo da Vinci didn't paint the Mona Lisa with his fingers, and good tools for your face canvas are also a must. Especially for eye products, brushes provide precision that your fingers cannot. The basics include a flat, stiff brush for packing on the product; a fluffy brush for blending and soft washes of color; and a smaller, more detailed brush, like an angled or pencil style, for precision work. And one unusual tool Whitfield calls her secret weapon for mascara? ""A mini eye fan brush,"" she reveals. "" the only thing that gets close to the root of the lash, and it's incredible for blending falsies and for bottom lashes."" Try the #205 Brush from MAC Cosmetics for your very own professional lash hack.",n
+632,87,div,2022,n
+683,0,div,,n
+685,683,h2,Related Stories,n
+686,683,ul,,n
+695,686,li,Setting Powder vs. Setting Spray,n
+704,686,li,the Best Makeup Brands We'll Never Grow Tired Of,n
+713,686,li,8 Makeup Artists Tell Us The Black-Owned Beauty Products They Keep In Their Kit,n
+722,686,li,The 12 Biggest NYFW Fall or Winter 2022 Beauty Trends So Far,n
+731,686,li,Rare Beauty by Selena Gomez,n
+740,686,li,5 Winter Makeup Trends You Don’t Need a Pro To Create,n
+749,686,li,A Guide to Dramatic Makeup,n
+758,686,li,The Best Airbrush Makeup,n
+761,683,ul,,n
+770,761,li,35 Romantic Wedding Makeup Looks to Wear on Your Big Day,n
+779,761,li,"50 Glowy, Natural Makeup Looks",n
+788,761,li,Reviewed,n
+797,761,li,The 15 Foundations Celebrity Makeup Artists Use on All Their Clients,n
+806,761,li,The Best BB Creams When You Can’t Deal With Foundation,n
+815,761,li,Sculpt and Define With the Best Contour Sticks Available,n
+824,761,li,2021,n
+833,761,li,"The 13 Best Drugstore Primers, All Under $25",n

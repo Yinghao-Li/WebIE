@@ -1,0 +1,486 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+8,3,h1,Bowling ball,n
+9,3,div,,n
+11,9,div,"From Wikipedia, the free encyclopedia",n
+15,9,text,Jump to navigation Jump to search,n
+17,9,div,,n
+18,17,div,,n
+20,18,div,"For other uses, see Bowling ball .",n
+27,18,div,"bowling balls, portrayed on boards of a bowling lane.",n
+29,18,p,bowling .,n
+39,18,p,"Balls used in ten-pin bowling and American nine-pin bowling traditionally have holes for two fingers and the thumb. Balls used in five-pin bowling , candlepin bowling , duckpin bowling , and European nine-pin bowling have no holes, and are small enough to be held in the palm of the hand.",n
+52,18,div,,n
+56,52,h2,Contents,n
+59,52,ul,,n
+60,59,li,,n
+62,60,span,1,n
+65,60,ul,,n
+68,65,li,1,n
+73,65,li,2,n
+78,65,li,3,n
+81,65,li,,n
+83,81,span,4,n
+86,81,ul,,n
+89,86,li,4.1,n
+94,86,li,4.2,n
+99,86,li,4.3,n
+104,86,li,4.4,n
+109,65,li,5,n
+114,59,li,2,n
+119,59,li,3,n
+124,59,li,4,n
+129,59,li,5,n
+134,59,li,6,n
+139,59,li,7,n
+144,59,li,8,n
+149,59,li,9,n
+172,18,div,,n
+176,172,div,"An 1892 advertisement. Lignum vitae balls of various diameters were used, in addition to larger, ""regulation"" balls.",n
+184,172,div,This 1894 patent shows how bowling balls once had a thumb hole and only a single finger hole. Bowling balls of the era were made of lignum vitae .,n
+192,172,div,"A polyester house ball, having large, loose-fitting, non-custom finger and thumb holes in a conventional grip .",n
+198,172,div,"A custom-drilled polyester ball, having custom finger inserts in a fingertip grip . Pin location is between finger holes and thumb hole . Ball is used as a ""straight ball"" for some spare shots.",n
+206,172,div,"A custom-drilled polyurethane ball, having custom finger inserts in a fingertip grip . This ball has a pin up layout, with the mass bias indicator visible. Urethane coverstocks provide gentler, less angular hooking motion than reactive resin balls.",n
+214,172,div,"A custom-drilled reactive resin ball, having custom finger inserts in a fingertip grip . This ball has a pin up layout , with the mass bias indicator also visible. Reactive resin coverstocks increase hook potential.",n
+219,18,p,,n
+220,219,text,"The USBC and World Bowling promulgate bowling ball specifications. USBC specifications include physical requirements for weight ), diameter —8.595 inches ), surface hardness, surface roughness, hole drilling limitations (example: a single balance hole including the thumb hole for ""two-handed"" bowlers",n
+229,219,text,"), balance, plug limitations, and exterior markings , as well as requirements for dynamic performance characteristics such as radius of gyration , RG differential , and coefficient of friction .",n
+232,219,text,"The USBC banned weight holes in competition, effective August 1, 2020, to prevent their changing ball dynamics.",n
+254,18,div,ten-pin bowling ball coverstock technology.,n
+259,18,p,,n
+260,259,text,lignum vitae until the 1905 introduction of rubber balls.,n
+265,259,text,"Polyester balls were introduced in 1959 and, despite developing less hook-generating lane friction than rubber balls, by the 1970s plastic dominated over rubber balls which then became obsolete with the early-1980s development of polyurethane balls.",n
+268,259,text,"Urethane balls developed more friction with the newly-developed polyurethane lane finishes of the day, sparking the evolution of coverstock technology to pursue ever-stronger hooks with correspondingly higher entry angles .",n
+275,18,p,,n
+276,275,text,"The early 1990s brought development of reactive resin balls by introducing additives in urethane surface materials to create microscopic oil-absorbing pores that increase the ""tackiness"" that enhances traction.",n
+283,275,text,"In the ""particle-enhanced"" balls developed in the late 1990s, microscopic particles embedded in reactive coverstocks reach through oil lane coatings to provide even greater traction.",n
+288,275,text,"Ball manufacturers developed closely guarded proprietary blends including ground-up material such as glass, ceramic or rubber, to enhance friction.",n
+292,18,p,"Within the reactive category are solid reactive coverstocks , pearl reactive coverstocks , hybrid reactive coverstocks , and particle coverstocks .",n
+310,18,p,"Hook potential has increased so much that dry lane conditions or certain spare shots sometimes cause bowlers to use plastic or urethane balls, to purposely avoid the larger hook provided by reactive technology.",n
+328,18,p,,n
+329,328,text,"A ball's drilling layout refers to how and where holes are drilled, in relation to the ball's locator pin and mass bias marker.",n
+337,328,text,Layout is determined with reference to each bowler's positive axis point .,n
+342,328,text,"""Pin down"" layouts place the pin between the finger holes and the thumb hole, while ""pin up"" layouts place the pin further from thumb hole than the finger holes .",n
+347,328,text,"Bowling ball motion is influenced by how far the pin and the mass bias are from the PAP, the distances determining track flare .",n
+352,328,text,"Track flare—the sequence of oil rings showing migration of the ball's axis on successive revolutions through the oil pattern—is popularly thought to influence entry angle ,",n
+357,328,text,but Freeman and Hatfield discount its contribution to ball motion.,n
+364,18,div,"The ball initially skids after first contact with the oily part of the lane, but enters a roll phase as full traction is eventually obtained in the dry portion of the lane. Side rotation and hook are not illustrated.",n
+365,18,p,,n
+366,365,text,"Holes may be drilled for a conventional grip , a fingertip grip , or less standard grips such as the Sarge Easter grip .",n
+375,365,text,"Many bowlers using the so-called ""two-handed delivery"" do not insert their thumbs, thus allowing their fingers to impart even more torque than the fingertip grip.",n
+382,18,p,,n
+383,382,text,"Finger inserts and thumb slugs are custom-fit urethane tubes inserted into the drilled holes, generally for balls with a fingertip grip.",n
+386,382,text,Finger inserts enhance the torque provided by the fingers after the thumb exits the ball.,n
+407,18,div,,n
+408,407,text,various quantities as the ball moves down the lane:,n
+410,407,ul,,n
+412,410,li,"ball speed and direction ,",n
+414,410,li,"rev rate ,",n
+416,410,li,axis rotation,n
+418,410,li,graph,n
+419,18,p,,n
+420,419,text,a variety of factors influences ball motion and its effect on scoring results.,n
+429,419,text,"The factors may be categorized as the bowler's delivery, the bowling ball's design, and the condition of the lane.",n
+439,18,p,,n
+440,439,text,Bowling ball motion,n
+443,439,text,"is commonly broken down into sequential skid, hook, and roll phases.",n
+448,439,text,"As the ball travels down the lane in the skid and hook phases, frictional contact with the lane causes the ball's forward speed to continually decrease, but to continually increase its rev rate .",n
+457,439,text,"Especially as the ball encounters greater friction in the last ≈20 feet of the lane, the ball's axis rotation causes the ball to hook away from its original direction.",n
+464,439,text,"Concurrently, lane friction continually decreases the angle of axis rotation until it exactly matches the direction of the ball's forward motion, and rev rate increases until it exactly matches the ball's forward speed: full traction is achieved and the ball enters the roll phase in which forward speed continues to decrease.",n
+476,18,p,,n
+477,476,text,Release ratio denotes the ratio of the ball's forward speed to its rev rate at time of release.,n
+481,476,text,This ratio continually decreases throughout the ball's travel until it reaches exactly 1.0 when full traction is achieved upon entering the roll phase.,n
+484,476,text,"A too- high release ratio causes the ball to reach the pins while still in the hook phase , and a too- low release ratio causes the ball to enter the roll phase before reaching the pins .",n
+499,476,text,"Ball speed and rev rate are said to be matched if the ball enters the roll phase immediately before impacting the pins, maximizing power imparted to the pins yet helping to provide an entry angle that minimizes ball deflection.",n
+507,18,div,,n
+511,507,div,Axis rotation Blue arrows,n
+522,507,div,greater degrees of axis tilt.,n
+526,507,div,,n
+527,526,text,"Bowling ball motion is affected by various characteristics of delivery, as discussed by, for example, Freeman and Hatfield .",n
+530,526,text,a variety of factors.,n
+531,18,p,,n
+532,531,text,"ball delivery affect a ball's motion throughout its skid, hook and roll phases.",n
+535,531,text,"The particular way in which energy is imparted to a ball—with varying proportions of that energy divided among ball speed, axis control and rev rate—determines the ball's motion.",n
+538,531,text,"The following discussion considers delivery characteristics separately, with the understanding that ball motion is determined by a complex interaction of a variety of factors.",n
+544,18,p,"Greater ball speeds give the ball less time to hook, thus reducing observed hook though imparting more kinetic energy to the pins; conversely, slower speeds allow more time for greater hook though reducing kinetic energy.",n
+550,18,p,"Greater rev rates cause the ball to experience more frictional lane contact per revolution and thus greater and earlier hook ; conversely, smaller rev rates cause less frictional engagement and allow the ball to hook less and later .",n
+553,18,p,,n
+554,553,text,"Analysis of the influence of axis rotation is more complex: There is a degree of axis rotation—generally 25° to 35° and varying with ball speed and rev rate—that may be considered optimal in that hook is maximized; however, this optimum axis rotation also causes minimal length.",n
+561,553,text,"Specifically, Freeman and Hatfield report optimal axis rotation to be arcsin",n
+564,553,text,"where ω is rev rate , r is ball radius , and v is ball speed .",n
+574,553,text,"Below and above optimal axis rotation, more length and less hook are encountered, with greater-than-optimal axis rotation causing a sharper hook.",n
+578,18,p,"Greater degrees of initial axis tilt cause the ball to rotate on smaller-circumference ""tracks"" , thus reducing the amount of frictional contact to provide greater length and less hook; conversely, smaller degrees of axis tilt involve larger-circumference tracks with more frictional contact per revolution, thus providing less length and more hook.",n
+582,18,p,"Loft—the distance past the foul line at which the ball first contacts the lane—determines the effective length of the lane as experienced by the ball: greater loft distances effectively shorten the lane and provide greater length, while smaller loft distances engage the lane earlier and cause an earlier hook.",n
+599,18,div,,n
+601,599,text,"Bowling ball motion is affected by ball design, as discussed by,",n
+606,599,text,"See also the USBC ball motion study by Stremmel, Ridenour and Stervenz .",n
+614,18,div,,n
+617,614,div,,n
+618,617,text,"RG , plotted on orthogonal axes.",n
+621,617,text,differential to ball motion.,n
+627,614,div,"Track flare —not to be confused with "" flare potential ""—is progression of the ball's oil track reflecting migration of the ball's axis of rotation on successive revolutions.",n
+635,18,p,,n
+636,635,text,"Various characteristics of ball core structure and coverstock composition affect a ball's motion throughout its skid, hook and roll phases.",n
+641,635,text,"Such motion is largely governed by the lane's frictional interaction with the ball, which exhibits both chemical friction characteristics and physical friction characteristics.",n
+650,635,text,"Also, the ball's internal structure—especially the density, shape and orientation of its core —substantially affect ball motion.",n
+653,18,p,,n
+654,653,text,"A ""dull"" ball surface, having spikes and pores,",n
+657,653,text,"provides greater friction in the oil-covered front end of the lane but reduced frictional contact in the dry back end of the lane, and thus enables an earlier hook.",n
+660,653,text,"In contrast, a ""gloss"" ball surface tends to glide atop oil on the front end but establishes greater frictional contact in the dry back end, thus promoting a sharper hook downlane.",n
+665,653,text,"Accordingly, because different lane conditions and bowler styles favor different hook profiles, there is no single ""best"" surface.",n
+668,18,p,,n
+669,668,text,"A 2005-2008 USBC Ball Motion Study found that the ball design factors that most contributed to ball motion were the microscopic ""spikes"" and pores on the ball's surface , the respective coefficients of friction between ball and lane in the oiled and dry parts of the lane, and the ball's oil absorption rate, followed in dominance by certain characteristics of the ball's core .",n
+674,668,text,"Freeman and Hatfield explain that in most circumstances it is chemical friction—controlled by the manufacturer's proprietary coverstock formulation governing its ""stickiness""—that primarily determines ball motion.",n
+677,668,text,"Further, surface finish—modifiable by sandpaper, polish and the like—is also a material factor.",n
+680,18,p,,n
+681,680,text,"Though manufacturer literature often specifies track flare —exhibited by successive tracks of oil in a ""bowtie"" pattern and caused by RG differential—the USBC ball motion study showed flare's influence to be small,",n
+688,680,text,"flare exists to present a ""dry"" surface",n
+691,680,text,"Similarly, though manufacturer literature often describes specific core shapes, differently-shaped cores can make exactly the same contribution to ball motion if they have the same overall RG characteristics.",n
+695,18,p,"""Weak"" layouts hook sooner but have milder backend reaction, while ""strong"" layouts enable greater skid lengths and more angular backend reaction.",n
+703,18,div,,n
+706,703,div,,n
+707,706,text,"Bowling ball cores are described by various technical specifications such as RG, differential of RG, intermediate differential, and symmetry.",n
+710,706,text,"Diagram shows general concepts, not actual cores.",n
+714,703,div,"Bowling balls with cores exposed, as displayed in the International Bowling Museum .",n
+718,18,p,"Manufacturers commonly cite specifications relating to a bowling ball's core, include radius of gyration , differential of RG , and intermediate differential .",n
+733,18,p,,n
+734,733,text,"Analytically, the United States Bowling Congress defines RG as ""the distance from the axis of rotation at which the total mass of a body might be concentrated without changing its moment of inertia "".",n
+741,733,text,"In practice, a higher RG indicates that a ball's mass is distributed more toward its cover—making it ""cover heavy""—which tends to make the ball enter the roll phase later .",n
+744,733,text,"Conversely, a lower RG indicates the ball's mass is distributed more towards its center—making it ""center heavy""—which tends to make it enter the roll phase sooner.",n
+747,18,p,,n
+748,747,text,RG is the difference between maximum and minimum RGs measured with respect to different axes.,n
+751,747,text,"Differential indicates the ball's track flare potential, and contributes to how sharply a ball can hook .",n
+758,747,text,A higher differential indicates greater track flare potential—more angular motion from the break point to the pocket—and a lower differential indicates lower flare potential and a smoother arc to the hook.,n
+761,18,p,,n
+762,761,text,The lesser-used intermediate differential rating quantifies the degree to which a bowling ball core is symmetrical or asymmetrical.,n
+772,761,text,"Analytically, ID is defined by the USBC as the ""difference in radius of gyration between the Y and Z axes"".",n
+775,761,text,"In practice, a higher ID indicates greater asymmetry, which causes more area to be created at the break point to cause the ball to respond more quickly to friction than symmetrical balls.",n
+779,18,p,"Informally, a low-differential ball has been likened to one whose core is a spherical object ; a high-differential ball has been likened to a tall drinking glass ; and a high-mass-bias ball has been likened to a tall drinking mug with a handle on the side .",n
+783,18,p,"Higher-friction surfaces cause balls to hook earlier, and lower-friction surfaces cause balls to skid longer before reacting .",n
+787,18,p,"Reactive cover stocks finishes include matte , shiny , pearl , and hybrid .",n
+809,18,div,,n
+814,809,div,"Bowling ball motion is affected by lanes' inherent characteristics , oil viscosity, environmental factors , and previous ball traffic.",n
+825,809,div,Adjusting screws at the sides of bowling lanes in this 1895 cross-sectional diagram show the recognized importance of controlling lane topography to provide a flat and level surface for repeatable ball motion.,n
+830,18,p,,n
+831,830,text,"The phenomenon of lane transition occurs when balls remove oil from the lane as they pass, and deposit some of that oil on originally dry parts of the lane.",n
+838,830,text,"The process of oil removal, commonly called breakdown, forms dry paths that subsequently cause balls to experience increased friction and to hook sooner.",n
+845,830,text,"Conversely, the process of oil deposition, commonly called carry down, occurs when balls form oil tracks in formerly dry areas, tracks that subsequently cause balls to experience less friction and delayed hook.",n
+852,830,text,"Balls tend to ""roll out"" in response to breakdown, and, conversely, tend to skid longer in response to carry down—both resulting in light hits.",n
+855,830,text,"the balls that were previously rolled,",n
+858,830,text,and carry down is mitigated by modern balls having substantial track flare.,n
+862,18,p,"Lane materials with softer surfaces such as wood engage the ball with more friction and thus provide more hook potential, while harder surfaces like synthetic compositions provide less friction and thus provide less hook potential.",n
+865,18,p,,n
+866,865,text,"Higher- viscosity lane oils engage balls with more friction and thus cause slower speeds and shorter length but provide more hook potential and reduced lane transition; conversely, lane oils of lower viscosity are more slippery and thus support greater speeds and length but offer less hook potential and allow faster lane transition.",n
+871,865,text,"Various factors influence an oil's native viscosity, including temperature and humidity .",n
+874,865,text,"Also, high humidity increases friction that reduces skid distance so the ball tends to hook sooner.",n
+878,18,p,"The lanes' physical topography—hills and valleys that diverge from an ideal planar surface—can substantially and unpredictably affect ball motion, even if the lane is within permissible tolerances.",n
+890,18,p,,n
+891,890,text,"The USBC maintains a list,",n
+894,890,text,about 100 bowling ball manufacturers and their approved bowling balls.,n
+908,18,div,A duckpin bowling ball in an adult hand.,n
+909,18,p,,n
+910,909,text,Duckpin bowling balls are regulated to be from 4.75–5.00 inches in diameter and to weigh between 3 pounds 6 ounces and 3 pounds 12 ounces .,n
+914,909,text,They lack finger holes.,n
+917,909,text,"Though duckpin balls are slightly larger than candlepin balls, they have less than 60% the diameter of ten-pin balls, to match the smaller size of duckpins.",n
+920,909,text,Duckpin balls are sometimes used for scaled-down ten-pin bowling lanes installed in arcades and other amusement facilities .,n
+940,18,p,"The basic specifications of five-pin balls are the same a duckpin balls: diameters from 4.75 to 5.0 in , weights from 3 pounds 6 ounces to 3 pounds 12 ounces ; the balls have no finger holes.",n
+952,18,p,,n
+953,952,text,"Candlepin bowling balls have a weight of between 2 lb 4 oz and 2 lb 7 oz , and a diameter of 4.5 in —much smaller than the 8.5 in balls in ten-pin bowling, and even smaller than the 5.0 in balls in duckpin bowling .",n
+958,952,text,"Candlepin balls deflect significantly upon impact, being even lighter than the 2 lb 8 oz candlepins themselves.",n
+970,18,p,,n
+971,970,text,American nine-pin bowling uses the same ball as in ten-pin bowling.,n
+979,970,text,"European nine-pin bowling balls are smaller, sized between ten-pin and duckpin balls, and have no holes.",n
+987,970,text,The ball is 16 cm in diameter and weighs approximately 2.85 kg .,n
+993,970,text,"There are also special balls for novice players, which is 14 cm in diameter and weigh 1.9 kg , often with two finger holes.",n
+1020,18,ul,,n
+1022,1020,li,,n
+1023,1022,text,"Benner, Donald; Mours, Nicole; Ridenour, Paul; USBC, Equipment Specifications and Certifications Division . ""Pin Carry Study: Bowl Expo 2009""",n
+1027,1022,text,. bowl.com . Archived,n
+1033,1022,text,"from the original on December 7, 2010.",n
+1037,1020,li,,n
+1038,1037,text,"Freeman, James; Hatfield, Ron . Bowling Beyond the Basics: What's Really Happening on the Lanes, and What You Can Do about It . BowlSmart. ISBN",n
+1043,1037,bdi,73 241000 8,n
+1046,1020,li,,n
+1048,1046,cite,,n
+1049,1048,text,"Stremmel, Neil; Ridenour, Paul; Stervenz, Scott . ""Identifying the Critical Factors That Contribute to Bowling Ball Motion on a Bowling Lane""",n
+1053,1048,text,. United States Bowling Congress. Archived,n
+1057,1048,text,"from the original on June 3, 2012.",n
+1059,1046,text,Study began in 2005. Publication date is estimated based on article content.,n
+1063,1020,li,"United States Bowling Congress . ""USBC Equipment Specifications and Certifications Manual""",n
+1077,1020,li,,n
+1078,1077,text,"United States Bowling Congress . ""Bowling Technology Study: An Examination and Discussion on Technology's Impact in the Sport of Bowling""",n
+1088,1077,text,"from the original on December 31, 2018.",n
+1092,1020,li,,n
+1093,1092,text,"United States Bowling Congress . ""Playing Rules""",n
+1103,1092,text,"from the original on November 2, 2021.",n
+1115,18,div,,n
+1121,1115,li,,n
+1122,1121,text,"""Bowling""",n
+1125,1121,text,". Spalding's Athletic Library . Vol. 1, no. 3. New York: American Sports Publishing Company. December 1892. Archived from the original",n
+1131,1121,text,"on March 27, 2020.",n
+1159,1115,li,"Carrubba, Rich . ""Bowling Ball Evolution"" . BowlingBall.com . Archived from the original on September 17, 2018.",n
+1173,1115,li,"Wiseman, Lucas; United States Bowling Congress . ""USBC Modifies Rule on Bowling Ball Gripping holes"" . bowl.com . Archived from the original on July 7, 2017.",n
+1186,1115,li,,n
+1187,1186,text,"""USBC Equipment Specifications and Certifications Manual""",n
+1190,1186,text,. bowl.com . February 2012. Archived,n
+1204,1115,li,"Bigham, Terry . ""Bowling Technology Study Conclusion or Research Summary and Specification Updates"" . Bowl.com . United States Bowling Congress . Archived from the original on May 26, 2019.",n
+1228,1115,li,"Siefers, Nick . ""Understanding the relationship between core and cover stock"" . BowlingDigital.com . Archived from the original on September 20, 2018.",n
+1256,1115,li,"""Bowling Balls",n
+1269,1115,li,"Barry, Dan . ""Perfection Made Easy; Bowling a 300 Game Just Isn't the Feat It Used to Be"" . The New York Times . Archived from the original on June 7, 2016.",n
+1283,1115,li,"Carrubba, Rich . ""Reactive Bowling Balls"" . BowlingBall.com . Archived from the original on August 6, 2020.",n
+1305,1115,li,"""How Should My Bowling Ball Be Drilled?"" . BowlingBall.com . January 2015. Archived from the original on July 11, 2015.",n
+1326,1115,li,"Carrubba, Rich . ""Your Bowling Ball Positive Axis Point"" . BowlingBall.com . Archived from the original on July 9, 2017.",n
+1346,1115,li,"Hickland, Ronald . ""What is the difference between Pin up and Pin down Drilling on a Bowling Ball?"" . CTDbowling.com News section .",n
+1369,1115,li,"Freeman and Hatfield 2018 , Chapter 9 .",n
+1381,1115,li,"Freeman and Hatfield 2018 , Chapter 5 .",n
+1395,1115,li,"""Finger Inserts For New Bowlers"" . BowlingBall.com . 2013. Archived from the original on January 16, 2019.",n
+1408,1115,li,"""What Are The Boiled Down Factors Affecting Bowling Ball Motion?"" . BowlingBall.com . April 13, 2015. Archived from the original on August 18, 2015.",n
+1427,1115,li,"Carrubba, Rich . ""The Simple Keys Of Bowling Ball Motion"" . BowlingBall.com . Archived from the original on July 23, 2021.",n
+1447,1115,li,"""Your Bowling Ball Motion"" . BowlingBall.com . December 29, 2016. Archived from the original on February 9, 2017.",n
+1466,1115,li,"""Variables You Encounter When Bowling"" . BowlingBall.com . April 18, 2016. Archived from the original on October 12, 2016.",n
+1483,1115,li,"Stremmel, Ridenour and Stervenz 2008 , p. 3.",n
+1491,1115,li,"""Bowling Ball Reaction Keys"" . BowlingBall.com . July 28, 2016. Archived from the original on November 10, 2016.",n
+1498,1115,li,,n
+1499,1498,span,,n
+1522,1499,sup,j,n
+1524,1499,sup,k,n
+1526,1498,span,"Freeman and Hatfield 2018 , Chapter 8 .",n
+1541,1115,li,,n
+1542,1541,text,•,n
+1545,1541,cite,"O'Keefe, Bryan . ""Bowling Release Ratio"" . usbcbowlingacademy.com . Archived from the original on April 2, 2016.",n
+1555,1541,br,•,n
+1558,1541,cite,"""Adjusting Entry Angle"" . bowl.com . 2015. Archived from the original on April 17, 2017.",n
+1590,1115,li,"Freeman and Hatfield 2018 , Chapter 13 .",n
+1598,1115,li,"Rose, Tyrel . ""Improving Your Release or Tools, techniques, and practice drills for developing a more effective release"" . Bowling This Month . Archived from the original on April 5, 2019.",n
+1617,1115,li,,n
+1618,1617,text,"Stremmel, Ridenour and Stervenz 2008 , p.",n
+1623,1617,span,page needed,n
+1652,1115,li,"""Bowling Ball RG And Differential Range Ratings"" . BowlingBall.com . 2014. Archived from the original on December 26, 2014",n
+1669,1115,li,"Stremmel, Ridenour and Stervenz 2008 , p. 8.",n
+1683,1115,li,"""Ball Dynamics and Hook Potential"" . BowlingBall.com . 2005. Archived from the original on November 24, 2005",n
+1707,1115,li,,n
+1708,1707,text,"""Technical Terms""",n
+1711,1707,text,. bowl.com . United States Bowling Congress. Archived,n
+1717,1707,text,"from the original on September 20, 2018",n
+1737,1115,li,"""Understand Your Bowling Ball Reaction"" . BowlingBall.com . May 22, 2016. Archived from the original on December 2, 2018.",n
+1766,1115,li,"Freeman and Hatfield 2018 , Chapter 14 .",n
+1780,1115,li,"Freeman and Hatfield 2018 , Chapter 16 .",n
+1794,1115,li,"""Bowling Lane Adjusting From Pair To Pair"" . BowlingBall.com . June 28, 2016. Archived from the original on October 31, 2016.",n
+1804,1115,li,,n
+1807,1804,cite,"""Bowling Catalog E"" . Gutenberg.org . Narragansett Machine Company. 1895. Archived from the original on July 1, 2018.",n
+1814,1804,text,Project Gutenberg release date,n
+1830,1115,li,"""Changing Lane Oil Conditions"" . BowlingBall.com . 2015. Archived from the original on September 18, 2015.",n
+1843,1115,li,"""Approved Ball List"" . bowl.com . Archived from the original on November 6, 2018.",n
+1864,1115,li,"""Duckpin Bowling"" . paramountindustriesinc.com . 2017. Archived from the original on April 11, 2017.",n
+1876,1115,li,,n
+1877,1876,text,"""Accessories and Equipment or Accessoires et équipements """,n
+1880,1876,text,. PhippsBowling.com . 2016. Archived,n
+1886,1876,text,"from the original on March 28, 2017.",n
+1897,1115,li,,n
+1900,1897,cite,"New Hampshire Candlepin Bowling Association . ""Candlepin Bowling Rules or Pin specifications and ~ or Ball specifications"" . Archived from the original on January 26, 2016.",n
+1906,1897,text,2013 date estimated based on earliest archive date.,n
+1913,1115,li,"""Basics of candlepin vs. tenpin bowling"" . The Boston Globe . May 4, 2014. Archived from the original on May 13, 2014.",n
+1929,18,ul,,n
+1933,1929,li,"""Bowling Balls",n
+1943,1929,li,"Carrubba, Rich . ""Bowling Ball Evolution"" . BowlingBall.com . Archived from the original on September 17, 2018.",n
+1954,1929,li,"Horaczek, Stan . ""The insides of pro bowling balls will make your head spin"" . Popular Science . Archived from the original on August 27, 2021.",n
+1963,1929,li,"Bowling"" , Veritasium .",n
+1972,18,table,,n
+1973,1972,text,Wikimedia Commons has media related to,n
+1975,1972,span,Bowling balls,n
+1980,18,div,,n
+1997,1980,div,Ten-pin bowling,n
+1998,1980,tr,,n
+2000,1998,th,Equipment,n
+2003,1998,ul,,n
+2005,2003,li,Ball,y
+2007,2003,li,Pin,y
+2009,2003,li,Pinsetter,y
+2010,1980,tr,,n
+2012,2010,th,Organizations,n
+2015,2010,ul,,n
+2017,2015,li,BTBA,n
+2019,2015,li,ETBF,n
+2021,2015,li,JBC,n
+2023,2015,li,JPBA,n
+2025,2015,li,PBA,n
+2027,2015,li,PTBC,n
+2029,2015,li,PWBA,n
+2031,2015,li,USBC,n
+2033,2015,li,World Bowling,n
+2035,2015,li,WTBA,n
+2036,1980,tr,,n
+2038,2036,th,Tournaments,n
+2041,2036,ul,,n
+2043,2041,li,WTBA World Tenpin Bowling Championships,n
+2045,2041,li,WTBA World Singles Championships,n
+2047,2041,li,World Games,n
+2049,2041,li,Asian Games,n
+2051,2041,li,Pan American Games,n
+2053,2041,li,QubicaAMF Bowling World Cup,n
+2055,2041,li,European Bowling Tour,n
+2057,2041,li,European Bowling Tour Masters,n
+2059,2041,li,NCAA Bowling Championship,n
+2061,2041,li,PBA Tour,n
+2063,2041,li,Champions,n
+2065,2041,li,PBA World Championship,n
+2067,2041,li,U.S. Open,n
+2069,2041,li,U.S. Women's Open,n
+2071,2041,li,USBC Masters,n
+2073,2041,li,USBC Queens,n
+2075,2041,li,Weber Cup,n
+2077,2041,li,Commonwealth Tenpin Bowling Championships,n
+2079,2041,li,Mediterranean Challenge Cup,n
+2081,2041,li,World Ranking Masters,n
+2083,2041,li,World Tenpin Masters,n
+2084,1980,tr,,n
+2086,2084,th,Terms,n
+2089,2084,ul,,n
+2091,2089,li,900 series,n
+2093,2089,li,Dutch 200,n
+2097,2089,li,Hook,n
+2099,2089,li,Open frame,n
+2101,2089,li,Perfect game,n
+2103,2089,li,Spare,n
+2105,2089,li,Split,n
+2107,2089,li,Strike,n
+2112,18,div,,n
+2130,2112,div,Bowling,n
+2134,2112,ul,,n
+2136,2134,li,Basque bowls,n
+2137,2134,li,,n
+2138,2137,text,Belgian,n
+2139,2137,ul,,n
+2141,2139,li,Feather,n
+2143,2139,li,Rolle Bolle,n
+2145,2134,li,Borella,n
+2146,2134,li,,n
+2147,2146,text,Boules,n
+2148,2146,ul,,n
+2150,2148,li,Bocce,n
+2152,2148,li,Bocce volo,n
+2154,2148,li,Boccia,n
+2156,2148,li,Bolas criollas,n
+2158,2148,li,Bowls,n
+2160,2148,li,Jeu provençal,n
+2162,2148,li,Pétanque,n
+2164,2148,li,Raffa,n
+2166,2148,li,Taistelupetankki,n
+2168,2134,li,Candlepin,n
+2170,2134,li,Cantabrian bolo palma,n
+2172,2134,li,Duckpin,n
+2174,2134,li,Finnish skittles,n
+2176,2134,li,Five-pin,n
+2178,2134,li,Gorodki,n
+2180,2134,li,Irish road bowling,n
+2182,2134,li,Kubb,n
+2184,2134,li,Mölkky,n
+2186,2134,li,Nine-pin,n
+2188,2134,li,Skittles,n
+2190,2134,li,Ten-pin,n
+2192,2134,li,Turkey,n
+2195,17,div,"Retrieved from "" https",n
+2198,9,div,,n
+2199,2198,div,,n
+2200,2199,text,Categories,n
+2202,2199,ul,,n
+2204,2202,li,Balls,n
+2206,2202,li,Ten-pin bowling,n
+2208,2202,li,Bowling,n
+2209,2198,div,,n
+2210,2209,text,Hidden categories,n
+2211,2209,ul,,n
+2213,2211,li,Wikipedia articles needing page number citations from November 2020,n
+2215,2211,li,Pages using multiple image with auto scaled images,n
+2217,2211,li,All articles with unsourced statements,n
+2219,2211,li,Articles with unsourced statements from July 2019,n
+2221,2211,li,Articles with unsourced statements from February 2022,n
+2223,2211,li,Commons category link is on Wikidata,n
+2224,0,div,,n
+2226,2224,h2,Navigation menu,n
+2227,2224,div,,n
+2228,2227,nav,,n
+2231,2228,h3,Personal tools,y
+2233,2228,ul,,n
+2236,2233,li,Not logged in,n
+2242,2233,li,Contributions,n
+2245,2233,li,Create account,n
+2248,2233,li,Log in,n
+2249,2227,div,,n
+2250,2249,nav,,n
+2253,2250,h3,Namespaces,n
+2258,2250,li,Article,n
+2266,2249,span,English,n
+2269,2227,div,,n
+2270,2269,nav,,n
+2273,2270,h3,Views,n
+2275,2270,ul,,n
+2278,2275,li,Read,n
+2281,2275,li,Edit,n
+2284,2275,li,View history,n
+2289,2269,span,More,n
+2296,2269,h3,Search,n
+2303,2224,div,,n
+2305,2303,nav,,n
+2308,2305,h3,Navigation,n
+2310,2305,ul,,n
+2313,2310,li,Main page,n
+2316,2310,li,Contents,n
+2319,2310,li,Current events,n
+2322,2310,li,Random article,n
+2328,2310,li,Contact us,n
+2331,2310,li,Donate,n
+2332,2303,nav,,n
+2335,2332,h3,Contribute,n
+2337,2332,ul,,n
+2340,2337,li,Help,n
+2343,2337,li,Learn to edit,n
+2346,2337,li,Community portal,n
+2349,2337,li,Recent changes,n
+2353,2303,nav,,n
+2356,2353,h3,Tools,n
+2358,2353,ul,,n
+2361,2358,li,What links here,n
+2364,2358,li,Related changes,n
+2370,2358,li,Special pages,n
+2373,2358,li,Permanent link,n
+2376,2358,li,Page information,n
+2379,2358,li,Cite this page,n
+2382,2358,li,Wikidata item,n
+2383,2303,nav,,n
+2386,2383,h3,Print or export,n
+2388,2383,ul,,n
+2391,2388,li,Download as PDF,n
+2394,2388,li,Printable version,n
+2395,2303,nav,,n
+2398,2395,h3,In other projects,n
+2403,2395,li,Wikimedia Commons,n
+2404,2303,nav,,n
+2408,2404,h3,Languages,n
+2409,2404,div,,n
+2410,2409,ul,,n
+2413,2410,li,Dansk,n
+2416,2410,li,Español,n
+2419,2410,li,فارسی,n
+2422,2410,li,Français,n
+2428,2410,li,Nederlands,n
+2431,2410,li,Polski,n
+2434,2410,li,Română,n
+2437,2410,li,Svenska,n
+2440,2410,li,Türkçe,n
+2445,2410,button,4 more,n
+2448,2409,div,Edit links,n
+2449,0,footer,,n
+2450,2449,ul,,n
+2452,2450,li,"This page was last edited on 21 June 2022, at 03:14",n
+2457,2450,li,"Text is available under the Creative Commons Attribution-ShareAlike License 3.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.",n
+2466,2449,ul,,n
+2468,2466,li,Privacy policy,n
+2472,2466,li,Disclaimers,n
+2474,2466,li,Contact Wikipedia,n
+2476,2466,li,Mobile view,n
+2478,2466,li,Developers,n
+2480,2466,li,Statistics,n
+2482,2466,li,Cookie statement,n
+2484,2466,li,Edit preview settings,n

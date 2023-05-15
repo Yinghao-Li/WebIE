@@ -1,0 +1,62 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+3,2,text,Home,n
+6,2,text,Learn,n
+10,2,span,Best CrossFit Equipment and Gear,n
+12,0,div,,n
+18,12,div,,n
+19,18,div,,n
+21,19,p,"When summer and winter roll through, an open-air CrossFit box turns into an oven or an icebox. Now pair this with the craziness from the coronavirus scare. Is it any wonder that you might be considering building your own CrossFit gym at home?",n
+23,19,p,"To give you a better idea of what you’ll need to get started, here is the best CrossFit equipment and gear for CrossFit workouts at home.",n
+26,19,h2,Box,y
+28,19,p,"Only seems appropriate to kick off our list with a piece of equipment so essential, they named the CrossFit gym after it: the box.",n
+32,19,p,It pays to spend a bit more on a high-quality box. The last thing you want is to perform a step-up with 50-pound dumbbells on a wobbly and unsteady box.,n
+34,19,p,Look for a box made with thick and durable wood; preferably one with a steady stream of recent positive reviews.,n
+36,19,p,"Also, while the break-down-build-up boxes are convenient, we’d recommend buying one that comes built for you and can’t be taken apart. In this way, you can rest assured that what you bought is solid.",n
+39,19,h2,Pull-Up Bar,y
+41,19,p,"Another CrossFit staple, a pull-up bar is going to play a part in most of your metcon work.",n
+45,19,p,"You’ll need a pull-up bar for exercises like the kipping pull-up, toes to bar, and muscle-up.",n
+47,19,p,"We highly recommend getting a permanent pull-up bar professionally installed. Given the ballistic movements of CrossFit, you don’t want to risk it with a poorly installed pull-up bar.",n
+50,19,h2,Gymnastic Rings,y
+52,19,p,plastic or wooden gymnastic rings .,n
+56,19,p,"You’ll need a set of rings for exercises like the front lever, iron cross hold, and ring rows.",n
+58,19,p,"Plastic and wooden gym rings both work great. Most times, it’s a matter of preference. Buy a pair of each and see which one you like better.",n
+61,19,h2,Weight Bench,y
+63,19,p,"For weight-based skill work like the chest press, a weight bench is essential.",n
+65,19,p,"We recommend a bench that can be adjusted in three planes of motion: decline, flat, and incline. What’s more, the bench should have a wide base so you don’t have to worry about tipping to one side should you lose form.",n
+68,19,h2,Barbell and Weight Plates,y
+70,19,p,"Continuing with your skill work essentials, you’ll need a durable barbell for exercises like the back squat, front squat, deadlift, snatch, clean and press, and bench press. Always opt for an Olympic barbell as this is the standard in CrossFit.",n
+74,19,p,"As far as weight plates , we recommend selecting a brand that has a thick rubber coating. A lot of CrossFit exercises will have you dropping the barbell on the floor. In order to protect the barbell plate from cracking, you need a durable coating on the outside.",n
+79,19,h2,Battle Ropes,y
+81,19,p,Battle ropes will serve a dual purpose for your CrossFit workouts – both of which are essential for your metabolic conditioning workouts:,n
+83,19,p,"First, when used on the ground, battle ropes can be paired with most other CrossFit staples to target your shoulders and core.",n
+87,19,p,"Second, you can use the battle rope as a climbing rope, to work your back, forearms, and shoulders.",n
+90,19,h2,Speed Rope,y
+92,19,p,"Ideal for a warm-up, a speed jump rope is also a great way to mix up your workouts.",n
+94,19,p,"What’s more, you’ll need a speed rope for exercises like double unders as a traditional jump rope is too thick and heavy.",n
+99,19,h2,CrossFit Gear,y
+101,19,p,"Think of gear as the accessories to your workouts. They aren’t responsible for the heavy lifting like a barbell, but they do support your performance and results.",n
+104,19,h2,Squat Pad,y
+106,19,p,Keep your neck safe with a squat pad . You can also use this pad for hip-based exercises such as the bridge.,n
+111,19,h2,Knee Sleeves,y
+113,19,p,"For newcomers and experienced CrossFitters alike, some of the workouts can be rough on your joints, which is why recovery in CrossFit is so important.",n
+115,19,p,"Knee sleeves are made with a compression-based material – the same material you’ll find in compression socks. This material has been shown to increase blood flow and alleviate inflammation, helping to support your CrossFit performance and recovery.",n
+119,19,h2,Lifting Straps,y
+121,19,p,Lifting straps will save your hands from excessive calluses forming or from tearing open a callus.,n
+123,19,p,Lifting straps should be used during weight-based skill work such as deadlifts as well as bodyweight metcon work like kipping pull-ups.,n
+126,19,h2,Abdominal Mat,y
+128,19,p,"For crunches and core exercises, an abdominal mat is a must. Most of the core work that isn’t based on the pull-up bar like toes to bar is going to take place on the ground.",n
+132,19,p,"An abdominal pad will provide a comfortable surface to exercise on. Also, given its rounded structure, you’ll achieve a better range of motion for greater muscle activation.",n
+135,19,h2,Wrist Wraps,y
+137,19,p,"If you’ve had wrist issues in the past, we can’t recommend wrist wraps enough. CrossFit focuses on Olympic weightlifting. Exercises like the snatch can compromise your wrist if you have a history of wrist issues or if you’re untrained.",n
+142,19,h2,What’s Your Go-To CrossFit Equipment?,n
+144,19,p,"When building your CrossFit gym at home, which pieces of equipment will you buy first? Do you already have a decked-out CrossFit home gym? Tag us on Instagram so we can share your setup and give other some great ideas.",n
+147,18,div,,n
+149,147,span,Share,n
+151,147,span,Share on Facebook,n
+153,147,span,Tweet,n
+155,147,span,Tweet on Twitter,n
+157,147,span,Pin it,n
+159,147,span,Pin on Pinterest,n
+162,12,div,Learn,n

@@ -1,0 +1,172 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+8,3,h1,Rugby union equipment,n
+9,3,div,,n
+11,9,div,"From Wikipedia, the free encyclopedia",n
+15,9,text,Jump to navigation Jump to search,n
+17,9,div,,n
+18,17,div,,n
+24,18,div,the playing stripes of the top clubs and countries,n
+26,18,p,"A traditional rugby union kit consists of a jersey and shorts , long rugby socks and boots with studs . The other main piece of equipment is the rugby ball .",n
+39,18,p,,n
+40,39,text,"Some modest padding is allowed on the head, shoulders and collarbone, but it must be sufficiently light, thin and compressible to meet World Rugby standards.",n
+47,39,text,the teeth.,n
+52,18,div,,n
+56,52,h2,Contents,n
+59,52,ul,,n
+62,59,li,1,n
+67,59,li,2,n
+72,59,li,3,n
+75,59,li,,n
+77,75,span,4,n
+80,75,ul,,n
+83,80,li,1,n
+88,80,li,2,n
+93,59,li,5,n
+98,59,li,6,n
+111,18,div,Main article,n
+114,18,p,"The ball used in rugby union is a prolate spheroid essentially elliptical in profile. Traditionally made of brown leather, modern footballs are manufactured of synthetic waterproof materials, and in a variety of colors and patterns.",n
+124,18,p,,n
+125,124,text,"Traditionally, rugby boots were of a high cut above the ankle. Over the years, such boots have become less common, although many players still wear mid-cut boots, just below the ankle. Additional ankle support was seen as appropriate given the nature of the game, particularly the stresses of forward play",n
+128,124,text,physical contact involved. Higher cut boots also provided some protection against knocks.,n
+130,18,p,"Modern boots are now more similar to football boots , with a low cut offering less ankle support but maximum flexibility with minimum weight.",n
+133,18,p,,n
+134,133,text,"It is essential for safety considerations, particularly in the scrum , that forwards wear boots with removable studs. The studs may be metal or plastic and must conform to Regulation 12 of World Rugby.",n
+139,133,text,"This regulation dictates the permissible dimensions of the studs and also defines a standard for the hardness of the material. Backs would be advised, on most ground types, to wear boots with some form of a stud, to ensure adequate grip when changing direction.",n
+143,18,p,Referees are required to check all players' studs before a game and ensure that the studs conform to the laws and have no sharp edges. Any studs that are worn down so that the steel fixing is showing must be changed before the player is allowed to join in the game. The intent of the standard and these pre-match checks is to eliminate the potential for a stud to cause a cut if it comes into contact with a player's skin.,n
+146,18,p,"Generally, there are two types of stud pattern worn: the 8 stud or the 6 stud. The 8 stud is most often worn by the tight forwards to provide them with extra grip for scrummaging and mauling. The 6 stud is worn by backs as it allows for more agility and quicker movement around the field. Plastic ""blade"" studs, common in football , are an increasingly frequent choice among backs.",n
+160,18,div,Main article,n
+163,18,p,"Rugby union uses H-shaped goalposts at each end of the playing field. The posts are 5.6 metres apart, and the crossbar is 3 metres from the ground.",n
+174,18,p,equipment are used,n
+185,18,p,"These are used during training and warmup in rugby union. Tackle bags are padded equipment which allows players to tackle without another player being involved. Tackle bags come in two forms: the rucking shield and the tackle bag. The rucking shield is held in the hand of a coach or fellow player and allows the tackler to drive against the person holding the shield safely. The tackle bag stands on the ground held loosely by another person, and allows the tackler to practice a full tackle.",n
+197,18,div,Main article,n
+200,18,p,"A scrum machine, or scrummaging machine, is a padded, weighty device against which a pack of rugby football forwards can practice scrummaging and rucking to improve the strength and skills of their players.",n
+224,18,div,,n
+225,224,li,,n
+226,225,span,,n
+227,226,text,^,n
+229,226,span,Jump up to,n
+231,226,sup,a,n
+233,226,sup,b,n
+235,225,span,"""REGULATION 12. PROVISIONS RELATING TO PLAYERS’ DRESS"" , IRB",n
+237,224,li,,n
+239,237,span,^,n
+241,237,span,,n
+242,241,text,"""Rugby Boots For Forwards""",n
+243,241,span,,n
+244,243,text,. Retrieved,n
+246,243,span,11 July,n
+247,243,text,2011,n
+253,18,div,,n
+255,253,tr,,n
+257,255,span,hide,n
+259,255,ul,,n
+262,259,li,v,n
+265,259,li,t,n
+268,259,li,e,n
+270,255,div,Rugby union equipment,n
+271,253,tr,,n
+273,271,th,Clothing and protective gear,n
+276,271,ul,,n
+278,276,li,Compression shorts,y
+280,276,li,Compression sportswear,y
+282,276,li,Mouthguard,y
+284,276,li,Shirt,y
+286,276,li,Shorts,y
+288,276,li,Socks,y
+290,276,li,Scrum cap,y
+292,276,li,Shin guard,y
+293,253,tr,,n
+295,293,th,Training and playing equipment or gear,n
+298,293,ul,,n
+300,298,li,Goal posts,y
+302,298,li,Rugby ball,y
+305,253,tr,,n
+307,305,th,Related articles,n
+312,305,li,Rugby union numbering schemes,n
+315,17,div,"Retrieved from "" https",n
+318,9,div,,n
+319,318,div,,n
+320,319,text,Categories,n
+324,319,li,Rugby union equipment,n
+325,318,div,,n
+326,325,text,Hidden categories,n
+327,325,ul,,n
+329,327,li,Articles with short description,n
+331,327,li,Short description with empty Wikidata description,n
+332,0,div,,n
+334,332,h2,Navigation menu,n
+335,332,div,,n
+336,335,nav,,n
+339,336,h3,Personal tools,n
+341,336,ul,,n
+344,341,li,Not logged in,n
+350,341,li,Contributions,n
+353,341,li,Create account,n
+356,341,li,Log in,n
+357,335,div,,n
+358,357,nav,,n
+361,358,h3,Namespaces,n
+366,358,li,Article,n
+374,357,span,English,n
+377,335,div,,n
+378,377,nav,,n
+381,378,h3,Views,n
+383,378,ul,,n
+386,383,li,Read,n
+389,383,li,Edit,n
+392,383,li,View history,n
+397,377,span,More,n
+404,377,h3,Search,n
+411,332,div,,n
+413,411,nav,,n
+416,413,h3,Navigation,n
+418,413,ul,,n
+421,418,li,Main page,n
+424,418,li,Contents,n
+427,418,li,Current events,n
+430,418,li,Random article,n
+436,418,li,Contact us,n
+439,418,li,Donate,n
+440,411,nav,,n
+443,440,h3,Contribute,n
+445,440,ul,,n
+448,445,li,Help,n
+451,445,li,Learn to edit,n
+454,445,li,Community portal,n
+457,445,li,Recent changes,n
+461,411,nav,,n
+464,461,h3,Tools,n
+466,461,ul,,n
+469,466,li,What links here,n
+472,466,li,Related changes,n
+478,466,li,Special pages,n
+481,466,li,Permanent link,n
+484,466,li,Page information,n
+487,466,li,Cite this page,n
+490,466,li,Wikidata item,n
+491,411,nav,,n
+494,491,h3,Print or export,n
+496,491,ul,,n
+499,496,li,Download as PDF,n
+502,496,li,Printable version,n
+503,411,nav,,n
+506,503,h3,In other projects,n
+511,503,li,Wikimedia Commons,n
+512,411,nav,,n
+516,512,h3,Languages,n
+524,512,div,Edit links,n
+525,0,footer,,n
+526,525,ul,,n
+528,526,li,"This page was last edited on 27 February 2022, at 13:13",n
+533,526,li,"Text is available under the Creative Commons Attribution-ShareAlike License 3.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.",n
+542,525,ul,,n
+544,542,li,Privacy policy,n
+548,542,li,Disclaimers,n
+550,542,li,Contact Wikipedia,n
+552,542,li,Mobile view,n
+554,542,li,Developers,n
+556,542,li,Statistics,n
+558,542,li,Cookie statement,n
+560,542,li,Edit preview settings,n

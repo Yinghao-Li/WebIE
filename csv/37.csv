@@ -1,0 +1,83 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,article,,n
+4,2,div,,n
+8,4,ul,,n
+11,8,li,Pin,n
+14,8,li,Share,n
+17,8,li,Email,n
+19,4,div,,n
+22,19,h3,More Cocktail 101,n
+23,19,p,,n
+24,23,text,How to Use Eggs in Cocktails »,n
+26,23,br,Selecting and Caring,n
+28,23,br,How to Muddle Mint »,n
+30,23,br,How to Make Shrub Syrups »,n
+32,23,br,All About Bitters »,n
+34,23,br,How to Host a Spirits Tasting »,n
+43,19,p,"Every well-stocked home bar starts somewhere, and most start with a bottle or three of booze. If you're just getting started, you might be wondering how to...well, get started, how to choose those first couple of bottles.",n
+52,19,p,"Over the next couple of weeks, I'm going to detail a couple of philosophies or approaches you can take to provisioning your very own watering hole and provide tips on how to store your hooch once you get it home.",n
+61,19,h3,How to Shop,n
+63,19,p,"Most articles about stocking a home bar go briefly over the major categories of spirits: vodka, gin, bourbon, scotch, tequila, and so on. And then they say, basically, buy one of each of those. And maybe some triple sec and vermouth and even perhaps a bottle of bitters.",n
+68,19,p,"I'm not going about things that way. I mean, sure, if you're hosting a party, that might be an approach you'd take. But I don't think it's helpful for most people.",n
+76,19,p,,n
+77,76,text,"First, that approach doesn't help you figure out why you're buying this stuff in the first place. Is it just to have one of everything? It's better, I think, to",n
+79,76,strong,have a goal in mind,n
+80,76,text,"—perhaps a specific drink you want to get good at making, or a spirit that you want to explore in depth.",n
+89,19,p,"Next, it's expensive. Stocking a bar by buying one bottle of every category of spirit, even if you go down-market, will cost you at the very least $150, unless you're buying stuff bottled in plastic, and even then, such a shopping trip still won't be cheap.",n
+97,19,p,"Finally, it doesn't mirror the way you do most other shopping. Certainly, if you're a home cook , you can go to your local megamart and buy a chicken, pork shoulder, beef roast, rack of lamb, a steak or two, some chicken parts, ribs, a couple of Cornish hens, and a duck. Now, that might resemble the fridge in the Serious Eats HQ kitchen, but few people I know actually shop that way.",n
+106,19,p,,n
+107,106,text,It's simply more efficient to shop after doing some general meal planning. And that's also an approach you can take to stocking a home bar. Call it,n
+109,106,strong,drink planning,n
+110,106,text,.,n
+118,19,h3,Care and Storage,n
+120,19,p,"Before we start that discussion, though, let's talk about how to stash your stuff once you get it home.",n
+123,19,p,"Unlike some wines and beers, liquors and liqueurs do not mature in bottle. Over time, though, an open bottle of spirit will start to lose some of its character as it reacts with oxygen and sunlight, but this process is gradual. If you have a bottle that you've spent a good sum on, and you want to savor it over the course of a year or more, you might decant it into smaller, tightly stoppered bottles to mitigate the effects of oxygenation .",n
+127,19,p,,n
+128,127,text,Most,n
+130,127,strong,liquors,n
+131,127,text,", such as rum, bourbon, scotch, gin, vodka, and brandy can be stored safely at room temperature on a pantry shelf or in a closet. The alcohol in them is strong enough to preserve them. High-proof liqueurs such as most absinthe and Chartreuse can also be stored at room temperature.",n
+133,19,p,,n
+134,133,text,Vermouth is a wine and should be stored as such—,n
+136,133,strong,refrigerate it after opening,n
+137,133,text,". Now, because it's a fortified wine, it will last longer than most table wines, but it will still spoil eventually. So chill it! Also, many of the vermouths newer to the American market, such as Dolin and Carpano Antica, are delicious on their own, when served chilled or over ice.",n
+139,19,p,,n
+141,139,strong,Liqueurs,n
+142,139,text,"I've seen varying advice on these. Many bartenders like to keep lower-proof liqueurs, such as Campari or Benedictine, in the refrigerator, reasoning that like wine, its lower proof makes it more prone to spoilage. In the end, I think it depends mostly on how quickly you empty a bottle. If you'll finish a liqueur within a few months, you can probably keep it at room temperature, as long as you keep it tightly closed.",n
+144,19,p,,n
+146,144,strong,"Simple syrups, orgeat, and other syrupy ingredients need to be refrigerated",n
+147,144,text,", if you're planning to keep them around for longer than a day or two. You can fortify a simple syrup with vodka or grain alcohol to help preserve it longer, but it will still need to be chilled. I prefer to make small batches of simple syrup frequently, and use it up within a week, rather than store it for longer.",n
+151,19,h3,Drink Planning,n
+152,19,p,,n
+153,152,text,"Okay, going back to the meal-planning idea,",n
+155,152,strong,the way you shop,n
+156,152,text,". Unless you stock up your fridge so it resembles a meat locker, you probably base your grocery shopping around specific meal ideas. Perhaps you want to make brick chicken, kale salad, and fregola with mushrooms. You'll buy whatever items you don't already own, and if you have any raw ingredients left over , you'll keep them in your pantry until you need them again.",n
+158,19,p,,n
+159,158,text,Drink planning works the same way.,n
+161,158,strong,Pick a cocktail,n
+162,158,text,", and then assemble everything you need to make it. Whatever you don't use immediately, you can keep around for later cocktail experimentation.",n
+165,19,p,"Let's say you love margaritas. Buy a good tequila, some triple sec, and maybe agave nectar. Then start mixing margaritas. When you have the money, go buy a different good tequila. Mix the same margarita, but this time, use the new tequila—or if you're drinking with a friend, mix one with each and sample them side by side.",n
+168,19,p,"The cocktail authority Robert Hess suggests picking a drink you want to explore and stocking accordingly. So if you like the Sidecar , buy a cognac and a triple sec. When you have money, buy a second cognac and compare the two. Then buy a second triple sec. If you're really serious about the Sidecar, buy a third bottle of each. Suddenly, you have a great supply of cognac on hand. Then move on to another cocktail.",n
+173,19,p,"Another drink that rewards experimentation is the martini. Gins come in all formulations and flavors these days, and most of them make a killer martini. I like to mix my martinis a little differently based on the gin bottling I'm using. A dry, juniper-rich gin in the London Dry style, such as Beefeater, can take a little more vermouth than can a sweeter, more floral gin such as Aviation. So if you experiment with various martini proportions, you can build up a great gin selection in no time.",n
+176,19,p,"Next week, we'll consider another strategy for stocking a home bar. Meanwhile, what are the cocktails you just can't get enough of? Have you ever experimented with using different brands of the same base liquor, to see which you prefer?",n
+182,2,div,,n
+184,182,h4,More Serious Eats Recipes,n
+186,182,div,,n
+187,186,div,,n
+198,187,div,How to Make Cocktails at Home,n
+210,187,div,Cocktail 101,n
+222,187,div,Easy Cocktails,n
+234,187,div,25 Classic Cocktail Recipes Everyone Should Know,n
+246,187,div,Drink Calculator,n
+258,187,div,Tiki 101,n
+270,187,div,How to Plan,n
+282,187,div,How to Stock Your Wine Fridge,n
+286,186,div,,n
+297,286,div,23 Rye Cocktails to Chase Away the Winter Blues,n
+309,286,div,The Serious Eats Guide to Absinthe,n
+321,286,div,What to Make With Gin,n
+333,286,div,What to Pack,n
+345,286,div,Why a Control State Liquor Store Might Be Your Best Bet,n
+357,286,div,So You Want to Write a Cocktail Book...,n
+369,286,div,The Serious Eats Guide to Rye Whiskey,n
+381,286,div,How to Plan Thanksgiving Dinner,n

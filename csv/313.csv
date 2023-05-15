@@ -1,0 +1,203 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+9,1,div,,n
+10,9,div,,n
+25,10,h1,Starting A Coffee Shop. Step 5,n
+28,10,div,,n
+30,28,div,,n
+32,30,div,"Jul 9, 2018",n
+34,30,div,McdonaldPaper,n
+37,28,div,,n
+39,37,p,"Once you have a location, design and plan for your coffee shop , it's time to start outfitting your shop. That means finding the right equipment and networking with suppliers.",n
+43,37,p,"It's important to remember that your shop's equipment will be the lifeblood of your business. If you can't make a decent cup of coffee, customers won't even think about coming back.",n
+45,37,p,"With that in mind, let's take a more in-depth look at the equipment you'll need as well as other supplies.",n
+47,37,h2,Starting a Coffee Shop,n
+49,37,p,"Walk into most coffee shops and you'll find an array of machines and tools behind the counter. Will your shop need all of this equipment? That depends on what type of shop you open. A full-fledged coffee shop will likely need quite a bit of equipment. But a small specialty shop, like one that only serves pour-over coffee, will have vastly different needs.",n
+51,37,p,"For the sake of simplicity, let's say that you're running a full-fledged coffee shop. Here's a list of coffee shop equipment you'll need:",n
+53,37,h3,Commercial Espresso Machine,y
+55,37,p,"Most coffee drinks contain espresso. Unless you only plan to serve regular, American-style coffee, you'll need to invest in a quality commercial espresso machine.",n
+61,37,p,"A quality commercial espresso machine can easily push your budget through the roof. We'll talk more about mitigating these costs shortly, but it's important to note that these machines are worth the cost.",n
+63,37,p,When you shop,n
+64,37,ul,,n
+66,64,li,,n
+68,66,strong,Manual,n
+69,66,text,"These machines are nostalgic, but complicated to operate. They require the user to push the water through the coffee manually, which typically creates an inconsistent final product. Generally, these are not ideal for coffee shop use.",n
+71,64,li,,n
+73,71,strong,Semi-Auto,n
+74,71,text,"Equipped with an electric pump, semi-auto machines maintain consistent pressure and offer automated boiler temperature controls. Semi-automatic machines are one of the most popular types of machines in use today.",n
+76,64,li,,n
+78,76,strong,Super Automatic,n
+79,76,text,"The best-of-the-best. These machines have all the bells and whistles, including built-in grinders. Super automatic machines are convenient, but very expensive and take away from the whole barista experience .",n
+81,37,p,"The right machine will depend on your shop and what you plan to serve. Most coffee shops use semi-automatic machines because they're more economical and still require a barista. Customers feel that they're getting the ""complete"" coffee shop experience when they actually see the barista making the coffee.",n
+83,37,p,Take your time when choosing an espresso machine for your shop. Find one that fits into your budget and still provides a really great shot of espresso.,n
+85,37,h3,Automatic Drip Coffee Maker,y
+87,37,p,"Some folks will walk into your shop and order a plain old cup of coffee. To serve these customers, you'll need at least one automatic drip coffee maker.",n
+89,37,p,Here's the good news,n
+95,37,p,"Make sure that you invest in a commercial drip machine , as these will have the durability and capacity to meet your shop's large volume needs.",n
+99,37,p,"Ideally, you want a machine that brews large quantities of coffee quickly. This will keep you from having to continuously brew coffee throughout the day.",n
+101,37,p,"If you plan to offer multiple different blends, consider buying at least one machine for each blend. Don't go too crazy with the number of blends you offer. Most coffee shop owners suggest offering three to four blends at most.",n
+103,37,h3,Industrial Grinder,y
+105,37,p,Most coffee experts agree,n
+111,37,p,grinders,n
+112,37,p,,n
+114,112,strong,Blade grinders,y
+115,112,text,"use blades to cut the beans. This sounds like an efficient way to grind coffee, but it's important to remember that the blades hit the beans pretty hard. The end result is an inconsistent grind . The longer your grind, the finer the grind will be. Blade grinders are cheap, but the uneven grind makes them inappropriate for espresso and Turkish coffee drinks.",n
+116,37,p,,n
+118,116,strong,Burr grinders,y
+119,116,text,"have two burrs. One burr stays still while the other rotates. Burr grinders crush the beans instead of chopping them to bits. The force of impact is evenly distributed among the beans, which results in a more even grind. For this reason, many coffee shops use burr grinds, especially for brewing espresso drinks. Espresso requires a very fine, even grind to get the best taste. The only drawback? Burr grinders can be quite expensive.",n
+121,37,p,"If you decide that a burr grinder is the right choice for your shop, you'll also need to consider whether you want a flat or conical model. Many shop owners prefer conical burr grinders because they can be adjusted by degrees.",n
+123,37,h3,Refrigeration System,y
+125,37,p,"Every coffee shop needs an adequate refrigeration system . Many coffee drinks require milk, which requires refrigeration to stay fresh.",n
+129,37,p,"If you plan to serve food, other beverages or milk alternatives , you'll need to refrigerate these items, too.",n
+131,37,p,"Your shop's refrigerators should be easy for baristas to access. And you'll likely need refrigeration in your display cases to keep baked goods, pastries and other food items fresh.",n
+135,37,h3,Pumps and Containers,y
+137,37,p,It's easy to overlook the little things when outfitting a coffee shop. Items like pumps and containers help keep your shop organized and make your employees' jobs easier.,n
+141,37,p,"Pumps should be used to store syrups, and boxes and crates should be used to store coffee beans near the coffee machines.",n
+143,37,p,"Consider your shop's storage needs, and make sure that you have an effective, ergonomic system that gives baristas easy access to everything they need.",n
+145,37,h3,"Toasters, Ovens and Other Cooking Equipment",y
+147,37,p,"If your coffee shop will serve hot food, you'll need to invest in toasters and or or ovens . Look for models that are quick and efficient, so your shop can serve food without sacrificing the efficiency of your operation.",n
+151,37,h3,Freezers,y
+153,37,p,"Frozen food can be flash-baked in ovens for quick serving of food items, and frozen ingredients can be used to prepare blended or frozen drinks in a flash.",n
+155,37,p,"While not necessary for every shop, most establishments can benefit from having at least one freezer . Ideally, you'd have one in the back to store a bulk supply and one in the front for easy access.",n
+159,37,h3,Commercial Blenders,y
+161,37,p,"Blended coffee drinks are popular with consumers, as are blended fruit drinks. If you plan to add these items to your menu, you'll need to invest in a few quality commercial blenders .",n
+165,37,h3,Display Case,y
+167,37,p,"If you plan to sell baked goods that do not need to be refrigerated, you'll need a display case . These clear cases put your foods on display, making them more enticing to customers.",n
+175,37,h3,POS System and Shelving,y
+177,37,p,"Along with food and drink equipment, you'll also need a POS system to process customer orders.",n
+179,37,p,"If you plan to sell bags of coffee, mugs and other items, you may also want to invest in some shelving to put these items on display.",n
+181,37,p,"Keep in mind that your equipment needs will vary depending on what your shop serves. If you only serve pour-over coffee, for example, you'll have no need for an espresso machine or even a drip brewer. You'll only need to invest in quality pour-overs that allow you to make more than one cup of coffee at a time.",n
+183,37,h3,Other Equipment,n
+184,37,ul,,n
+186,184,li,Sinks,y
+188,184,li,Dishwasher,y
+190,184,li,Mugs and espresso cups,y
+192,184,li,Plates,y
+194,184,li,Scales,y
+196,184,li,Thermometers,y
+198,184,li,Measuring spoons and timers,y
+200,184,li,Creamers,y
+202,184,li,Sugar pourers,y
+204,184,li,Condiment organizers,y
+206,184,li,Frothing pitchers,y
+208,184,li,Knock boxes,y
+210,184,li,Tampers,y
+212,184,li,Silverware,y
+214,37,h2,Other Supplies You'll Need,n
+216,37,p,"Think of your equipment as fixed items in your shop. They require a higher upfront investment, but they will continue to serve you on a daily basis.",n
+222,37,p,"Supplies, on the other hand, are variable items. You'll stock up on supplies, but eventually, you'll run out and need to buy more.",n
+224,37,p,The typical coffee shop supplies list will include,n
+225,37,ul,,n
+227,225,li,Coffee,y
+229,225,li,Disposable cups,y
+231,225,li,Paper Hot Cups and Lids,y
+233,225,li,Cup sleeves,y
+235,225,li,Cup carriers,y
+237,225,li,Coffee to go boxes,y
+239,225,li,Cake boxes,y
+241,225,li,Disposable bags,y
+243,225,li,Paper bags,y
+245,225,li,Milk and creamer,y
+247,225,li,Straws and stirrers,y
+249,225,li,Napkins,y
+251,225,li,Coffee filters,y
+253,225,li,Cleaning supplies,y
+255,225,li,Sugar and other sweeteners,y
+257,225,li,Flavoring syrups,y
+259,37,h2,What are the Costs to Equip a Coffee Shop?,n
+261,37,p,"How much does coffee shop equipment cost? That depends on whether you're buying new or used equipment, or whether you're leasing your equipment.",n
+267,37,p,"Because you're just getting started, cash flow may be tight. In this case, you might consider a coffee shop equipment lease. This will allow you to obtain the equipment you need without having to spend a lot of money upfront.",n
+269,37,p,"Typically, shop owners will own the equipment at the end of the lease, similar to how financing works.",n
+270,37,p,,n
+271,270,text,"If you have the budget, you can buy new equipment . A brand new commercial espresso machine alone can cost",n
+275,270,strong,"$1,000-$40,000",n
+276,270,text,"or more, depending on the quality and functionality.",n
+278,37,p,"Costs can be prohibitive, which is why many shop owners choose to purchase used espresso machines. Finding coffee shop equipment used for sale can be a challenge, but you'll spend a fraction of what you'd spend on new equipment.",n
+280,37,h2,Finding the Right Coffee Shop Supplier,n
+282,37,p,"When it comes to ordering coffee and your disposable supplies , you need a reputable and reliable supplier. You should be able to buy coffee shop cups wholesale to save money.",n
+288,37,p,There are many coffee shop suppliers out there. Talk with other shop owners to ask for recommendations and do your research online to see what others are saying about vendors.,n
+290,37,p,"Take your time when choosing a coffee supplier, as the quality of your coffee will determine whether customers come back to your establishment.",n
+293,37,h2,Learn more on how to open a coffee shop,n
+294,37,ul,,n
+296,294,li,Starting A Coffee Shop. Step 1,n
+298,294,li,Starting A Coffee Shop. Step 2,n
+300,294,li,Starting A Coffee Shop. Step 3,n
+302,294,li,Starting A Coffee Shop. Step 4,n
+304,294,li,Starting A Coffee Shop. Step 6,n
+306,294,li,Starting A Coffee Shop. Step 7,n
+308,294,li,Starting A Coffee Shop. Step 8,n
+310,294,li,Starting A Coffee Shop. Step 9,n
+312,294,li,Starting A Coffee Shop. Step 10,n
+315,37,h2,Commercial Equipment,n
+317,37,p,Get professional advice and estimates on the necessary equipment as well as a list of supplies needed to start a restaurant.,n
+320,37,p,Richard,n
+322,37,p,-0600,n
+324,37,p,richard@mcdonaldpaper.com,n
+327,9,div,,n
+328,327,div,,n
+331,328,div,Categories,n
+333,328,ul,,n
+335,333,li,Start and Manage a Restaurant,n
+337,333,li,Restaurant Financials,n
+339,333,li,Menu and Pricing,n
+341,333,li,Restaurant Staff,n
+343,333,li,Equipment and Supplies Management,n
+345,333,li,Marketing and Promotion,n
+347,333,li,Restaurant Design,n
+349,333,li,Software and Tools,n
+351,333,li,News,n
+353,333,li,Recipes,n
+354,327,div,,n
+357,354,div,Lastest Posts,n
+359,354,ul,,n
+363,359,li,,n
+364,363,text,Food Service Packaging Materials,n
+366,363,span,"Jun 22, 2022",n
+370,359,li,,n
+371,370,text,The Senate Failed to Pass RRF,n
+373,370,span,"Jun 16, 2022",n
+377,359,li,,n
+378,377,text,Meet the Restaurant Robots Transforming Food Service,n
+380,377,span,"Jun 8, 2022",n
+384,359,li,,n
+385,384,text,Commercial Pasta Cookers,n
+387,384,span,"Jun 3, 2022",n
+391,359,li,,n
+392,391,text,Restaurants,n
+394,391,span,"May 26, 2022",n
+398,359,li,,n
+399,398,text,What Equipment Do You Need to Run a Mexican Restaurant?,n
+401,398,span,"May 18, 2022",n
+405,1,div,,n
+408,405,div,,n
+414,408,ul,,n
+417,414,li,"999 3rd Ave, Brooklyn, NY 11232",n
+420,414,li,Tel,n
+423,414,li,Fax,n
+426,414,li,service@mcdonaldpaper.com,n
+427,408,div,,n
+429,427,h6,Information,n
+430,427,ul,,n
+434,430,li,Coupons,n
+436,430,li,Custom Printed Products,n
+438,430,li,Private Label,n
+440,430,li,Government and Fortune 500,n
+444,430,li,Brands,n
+446,430,li,Career,n
+448,408,div,,n
+450,448,h6,Customer service,n
+451,448,ul,,n
+455,451,li,Track my Order,n
+457,451,li,FAQ,n
+459,451,li,Financing,n
+461,451,li,Payment and Delivery,n
+463,451,li,Returns Policy,n
+465,451,li,Privacy Policy,n
+467,451,li,Customer Forms and NET,n
+473,408,div,,n
+475,473,p,SIGN UP FOR OUR NEWSLETTER,n
+486,473,div,Subscribe,n
+521,405,div,,n
+524,521,div,©McDonald Paper and Restaurant Supplies,n
+528,521,li,Payment and Delivery,n

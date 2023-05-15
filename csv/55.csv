@@ -1,0 +1,193 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+665,0,div,,n
+672,665,div,,n
+675,672,h1,Artistic gymnastics equipment,n
+676,672,div,,n
+677,676,p,,n
+678,677,text,"The origins of artistic gymnastics date back to ancient times; there is evidence of the discipline having been practised in China, Egypt and Greece.",n
+680,677,br,gymnastics were developed in nineteenth-century Europe.,n
+682,677,br,"Several gymnastics schools were established in Italy at the turn of the 1800s, and the Italian Gymnastics Federation was founded in Venice in 1869.",n
+683,676,p,,n
+684,683,text,"Practised by both men and women, this sport requires a great deal of effort, constant training, balance and muscular strength. In order for athletes to carry out the various exercises safely, gyms must be equipped with suitable, robust and durable",n
+686,683,strong,artistic gymnastics equipment,n
+687,683,text,.,n
+688,665,div,,n
+696,688,div,Supports and blocks,y
+704,688,div,"Horse, vaulting buck and vaulting box",y
+712,688,div,Springboard,y
+720,688,div,"Balance axle, beam, parallel bars",y
+728,688,div,Accessories,y
+736,688,div,Accessories,y
+744,688,div,Ballet,y
+752,688,div,Mirror,y
+760,688,div,Skip ropes and tetherballs,y
+768,688,div,"Sticks, hoops and indian clubs",y
+776,688,div,Mattress and mats,y
+784,688,div,Furniture,y
+792,688,div,"Climbing poles, rings, ropes",y
+800,688,div,Wall bars and ladders,y
+808,688,div,Stall bars and benches,y
+816,688,div,Equipements,y
+824,688,div,Trampoline,y
+828,665,p,,n
+831,828,strong,Gymnastics,n
+832,828,text,- bestseller,n
+835,665,div,,n
+840,835,div,,n
+843,840,p,Art. G183,n
+846,840,p,Cover,n
+854,835,div,,n
+857,854,p,Art. G173,n
+860,854,p,Asymmetrical women parallel bars,n
+868,835,div,,n
+871,868,p,Art. G180,n
+874,868,p,Woman balance beam height 50 cm,n
+882,835,div,,n
+885,882,p,Art. G182,n
+888,882,p,Woman balance beam adjustable from 50 cm to 120 cm.,n
+896,835,div,,n
+899,896,p,Art. G405 or 3,n
+902,896,p,Round ballet bar 3 m,n
+910,835,div,,n
+913,910,p,Art. G408,n
+916,910,p,Movable supports,n
+924,835,div,,n
+927,924,p,Art. G400,n
+930,924,p,Portable mirror,n
+938,835,div,,n
+941,938,p,Art. G350 or 1,n
+944,938,p,Rubber mattress cm. 200 x 100 x 5 h.,n
+952,835,div,,n
+955,952,p,Art. G351 or 1,n
+958,952,p,Rubber mattress cm. 200 x 100 x 10 h.,n
+966,835,div,,n
+969,966,p,Art. G352 or 1,n
+972,966,p,Rubber mattress cm. 200 x 100 x 20 h.,n
+980,835,div,,n
+983,980,p,Art. G353 or 1,n
+986,980,p,Rubber mattress cm. 200 x 100 x 30 h.,n
+994,835,div,,n
+997,994,p,Art. G354 or 1,n
+1000,994,p,Rubber mattress cm. 200 x 100 x 40 h.,n
+1008,835,div,,n
+1011,1008,p,Art. G355 or 3,n
+1014,1008,p,"Mattress dimensions cm.400x200x40, 45°cut",n
+1022,835,div,,n
+1025,1022,p,Art. G356,n
+1028,1022,p,Mattress with sizes on request,n
+1036,835,div,,n
+1039,1036,p,Art. G380.1,n
+1042,1036,p,Gym mat k 14 dimensions cm.200x100x3,n
+1050,835,div,,n
+1053,1050,p,Art. G381.1,n
+1056,1050,p,Gym mat k 16 dimensions cm.200x100x4,n
+1064,835,div,,n
+1067,1064,p,Art. G382.1,n
+1070,1064,p,Gym mat k 20 dimensions cm.200x100x5,n
+1078,835,div,,n
+1081,1078,p,Art. G370,n
+1084,1078,p,Judo tatami,n
+1092,835,div,,n
+1095,1092,p,Art. G202,n
+1098,1092,p,Mini trampoline,n
+1106,835,div,,n
+1109,1106,p,Art. G210,n
+1112,1106,p,Span stall bar,n
+1120,835,div,,n
+1123,1120,p,Art. G163,n
+1126,1120,p,Gymnova Olympic flexible board,n
+1134,835,div,,n
+1137,1134,p,Art. G400 or B,n
+1140,1134,p,Kristall wall mirror,n
+1148,835,div,,n
+1151,1148,p,Art. K822 or 2,n
+1154,1148,p,Ball cart dimensions 100x75x90h cm,n
+1162,835,div,,n
+1165,1162,p,Art. G203,n
+1168,1162,p,Elastic trampoline dimensions cm. 113x113,n
+1176,835,div,,n
+1179,1176,p,Art. G86,n
+1182,1176,p,Rubber tetherball 2 kg,n
+1190,835,div,,n
+1193,1190,p,Art. G171,n
+1196,1190,p,Woman parallel bars,n
+1204,835,div,,n
+1207,1204,p,Art. G54,n
+1210,1204,p,Hoop flat section diam. 60 cm,n
+1218,835,div,,n
+1221,1218,p,Art. G142,n
+1224,1218,p,Gymnastics track,n
+1232,835,div,,n
+1235,1232,p,Art. G400 or R,n
+1238,1232,p,Modular and portable dance mirror,n
+1246,835,div,,n
+1249,1246,p,Art. G211,n
+1252,1246,p,Double span stall bar,n
+1260,835,div,,n
+1263,1260,p,Art. G112 or 3,n
+1266,1260,p,Standard balls trolley dim.cm.153x76x165h.,n
+1271,665,div,,n
+1273,1271,h2,Gymnastics facilities,n
+1274,1271,p,,n
+1275,1274,text,"Gymnastics is largely practised during school PE lessons. Children therefore come into contact with the sport at a very young age, so it is important that they learn all the activities that form part of gymnastics in a totally safe environment.",n
+1277,1274,br,"To ensure a gym is fully set up for gymnastics, certain equipment is required. This includes the Swedish ladder or wall bars, a pommel horse with handles, and springboards.",n
+1279,1274,strong,parallel bars,n
+1281,1271,p,,n
+1282,1281,text,equipment,n
+1284,1281,strong,beam,y
+1285,1281,text,", a fundamental tool to improve balance and learn the splits, cartwheels, handstands and various other acrobatic moves.",n
+1287,1281,br,"Dance classes of all kinds are often held in gyms, so it is important that the room is fitted with mirrors to allow students to observe their own form.",n
+1288,1271,p,,n
+1289,1288,text,In addition to equipment,n
+1291,1288,strong,equipment,n
+1292,1288,text,"such as sticks, hoops, clubs, mats and balls.",n
+1294,1288,br,Our catalogue also features equipment,n
+1297,0,div,,n
+1298,1297,div,,n
+1300,1298,p,Artisport Srl,n
+1302,1298,p,,n
+1303,1302,text,Legal and administrative office,n
+1305,1302,br,"via Fornaci,Revine Lago - Italia",n
+1307,1302,br,Tel,n
+1309,1302,br,Fax,n
+1311,1302,br,Email,n
+1313,1302,br,Capiatale sociale,n
+1315,1302,br,C.F. e P.IVA,n
+1317,1302,br,Registro imprese,n
+1319,1297,div,,n
+1321,1319,p,Pages,n
+1337,1319,li,Privacy Policy,n
+1339,1297,div,,n
+1341,1339,p,Extra,n
+1344,1339,p,"Subscribe to the newsletter to be updated with new offers, products and news from Artisport",n
+1347,1339,div,Inserisci qui la tua mail,n
+1350,1339,div,,n
+1352,1350,span,EU GDPR,n
+1353,1350,p,,n
+1354,1353,text,"By ticking the ˝Accept˝ checkbox you give us your consent to keep your name, surname and e-mail address in order to send you commercial communications and offers relating to products on sale on our site. Your data will be kept for the time necessary to perform the service. You can at any time request the consultation, correction or deletion of your data using this form .",n
+1359,1353,br,This data will only be shared with MailChimp - USA - which will be responsible for sending e-mails effectively. Privacy Policy .,n
+1364,1353,br,You can consult our privacy and data privacy policy on this page .,n
+1371,1339,div,Accept,n
+1374,1339,div,Enter,n
+1377,0,div,Internet-project realized by Manifattura Web,n
+1381,0,div,,n
+1382,1381,div,,n
+1383,1382,button,,n
+1385,1383,span,×,n
+1387,1383,span,close,n
+1389,1382,h5,Add this product to your Quote Request list,n
+1408,1381,div,ADD,n
+1412,0,div,,n
+1414,1412,div,Press again to continue 0 or 1,n
+1415,1412,div,,n
+1417,1415,div,Notice,n
+1418,1415,div,,n
+1420,1418,p,"We and selected third parties use cookies or similar technologies for technical purposes and, with your consent, for “measurement” as specified in the cookie policy . Denying consent may make related features unavailable.",n
+1424,1418,p,"You can freely give, deny, or withdraw your consent at any time.",n
+1425,1412,div,,n
+1428,1425,div,Learn more and customize,n
+1429,1425,div,,n
+1431,1429,button,Reject,n
+1433,1429,button,Accept,n
+1435,1412,button,×,n

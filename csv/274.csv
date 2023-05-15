@@ -1,0 +1,317 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+12,0,div,,n
+15,12,div,,n
+16,15,div,,n
+17,16,text,Products,n
+19,16,span,2060,n
+21,15,div,,n
+22,21,text,Articles and Information,n
+24,21,span,10,n
+31,12,ul,,n
+36,31,div,Recipe,n
+39,31,div,Polio Vaccine and Immunization | Rite Aid,n
+42,31,div,Mumps Vaccine and Immunization | Rite Aid,n
+45,31,div,Rite Aid Photo,n
+50,31,div,Beauty Rest 101,n
+53,31,div,Online Store Terms and Conditions,n
+56,31,div,Medicare Part D | Help With Medicare Part D,n
+57,12,div,,n
+63,57,div,Filter By,n
+64,57,div,,n
+65,64,div,,n
+72,65,div,Close,n
+74,65,div,Clear All,n
+75,64,div,,n
+77,75,li,,n
+80,77,div,Bonuscash Value,n
+89,77,li,00,n
+101,75,li,,n
+104,101,div,Category,n
+107,101,ul,,n
+113,107,li,Beauty,n
+121,107,li,Hair Care and Accessories,n
+129,107,li,Promotions,n
+137,107,li,Shampoo and Conditioner,n
+145,107,li,Proud Planet,n
+161,107,li,Styling Products,n
+169,107,li,Hair Color,n
+177,107,li,Enhanced Beauty,n
+185,107,li,Tools and Accessories,n
+201,107,li,Ingredient Preference,n
+209,107,li,Personal Care,n
+241,107,li,Black Owned or Founded Brands,n
+249,107,li,Hair and Scalp Treatment,n
+257,107,li,Free-From Beauty Products,n
+281,107,li,Total Beauty,n
+297,107,li,Women Owned or Founded Brands,n
+305,107,li,Hair,n
+321,107,li,Men's Grooming,n
+337,107,li,Appliances,n
+393,107,li,Hair Regrowth and Thickening,n
+409,107,li,Personal Care and Beauty,n
+425,107,li,Valentine's,n
+449,107,li,Makeup and Sun Care,n
+457,107,li,Pride 2021,n
+497,107,li,Rite Aid Brands,n
+537,107,li,Perms and Straightners,n
+617,107,li,Travel Size,n
+641,107,li,Explore New Beauty,n
+657,107,li,Bath and Body,n
+713,107,li,All Skin Care,n
+769,107,li,Rite Aid Brand,n
+817,107,li,Skin Care,n
+849,107,li,Beauty and Hair,n
+865,107,li,Bodywash and Soap,n
+909,75,li,,n
+912,909,div,Manufacturer,n
+915,909,ul,,n
+1393,915,li,Mane'N Tail,n
+1401,915,li,Twist,n
+1409,915,li,Difeel,n
+1417,915,li,Godefroy,n
+1425,915,li,Hot Tools,n
+1433,915,li,Jamaican,n
+1441,915,li,Love Beauty and Planet,n
+1449,915,li,Maui Moisture,n
+1457,915,li,Paul Mitchell,n
+1465,915,li,Rogaine,n
+1473,915,li,Sauce Beauty,n
+1481,915,li,Soft Sheen-Carson,n
+1489,915,li,Sunny Isle,n
+1497,915,li,artnaturals,n
+1505,915,li,Africa's Best,n
+1513,915,li,Alaffia,n
+1521,915,li,Alikay,n
+1529,915,li,Doo Gro,n
+1537,915,li,Hollywood Beauty,n
+1545,915,li,Murrays,n
+1553,915,li,Neutrogena,n
+1561,915,li,Pura D'or,n
+1569,915,li,Renpure,n
+1577,915,li,Selsun Blue,n
+1585,915,li,Wahl,n
+1593,915,li,tgin,n
+1601,915,li,As I Am,n
+1609,915,li,Barlow's,n
+1617,915,li,Color Oops,n
+1625,915,li,Cremo,n
+1633,915,li,Ebin,n
+1641,915,li,Everpro,n
+1649,915,li,Finesse,n
+1657,915,li,Nourish and Shine,n
+1665,915,li,Purezero,n
+1673,915,li,Salon Grafix,n
+1681,915,li,She Is Bomb,n
+1689,915,li,Tropic Isle,n
+1697,915,li,Wakati,n
+1705,915,li,BB,n
+1713,915,li,BigSexyHair,n
+1717,75,li,,n
+1720,1717,div,Price,n
+1723,1717,ul,,n
+1728,1723,li,$0 - $5,n
+1733,1723,li,$5 - $10,n
+1738,1723,li,$10 - $15,n
+1743,1723,li,$15 - $20,n
+1748,1723,li,$20 - $25,n
+1753,1723,li,$25 - $30,n
+1758,1723,li,$30 - $35,n
+1763,1723,li,$35 - $40,n
+1768,1723,li,$40 - $45,n
+1773,1723,li,$45 - $50,n
+1778,1723,li,$50 - $55,n
+1783,1723,li,$55 - $60,n
+1788,1723,li,$60 - $65,n
+1793,1723,li,$65 - $70,n
+1798,1723,li,$70 - $80,n
+1803,1723,li,$80 - $86,n
+1805,75,li,,n
+1808,1805,div,Sub Brand,n
+1811,1805,ul,,n
+1817,1811,li,Fructis,n
+1825,1811,li,Superior Preference,n
+1833,1811,li,Colorsilk,n
+1841,1811,li,Nutrisse,n
+1849,1811,li,Excellence Crme,n
+1857,1811,li,Nice'n Easy,n
+1865,1811,li,Elvive,n
+1881,1811,li,Feria,n
+1889,1811,li,Whole Blends,n
+1897,1811,li,Root Touch-Up,n
+1905,1811,li,Natural Instincts,n
+1913,1811,li,Pink,n
+1921,1811,li,Olia,n
+1929,1811,li,Pro-V,n
+1937,1811,li,Colorista,n
+1945,1811,li,Ever,n
+1953,1811,li,Nutrisse Ultra Color,n
+1961,1811,li,Advanced Haircare,n
+1969,1811,li,Frizz Ease,n
+1977,1811,li,S Curl,n
+1985,1811,li,Advanced Hairstyle,n
+1993,1811,li,Magic Root,n
+2001,1811,li,Mustache and Beard,n
+2009,1811,li,EverPure,n
+2017,1811,li,Hair Repair,n
+2025,1811,li,Nutrisse Ultra Coverage,n
+2033,1811,li,Color Sensation,n
+2041,1811,li,Men+Care,n
+2049,1811,li,Root Rescue,n
+2057,1811,li,Elnett,n
+2065,1811,li,Excellence Creme,n
+2073,1811,li,Ampro Pro-Styl Clear Ice,n
+2081,1811,li,ControlGX,n
+2089,1811,li,Couleur Experte,n
+2097,1811,li,Kids,n
+2105,1811,li,Nourish and Care,n
+2113,1811,li,Nutrient Blends,n
+2121,1811,li,Studio Line,n
+2129,1811,li,Ampro Pro-Styl,n
+2137,1811,li,Bio,n
+2145,1811,li,Clinical Strength,n
+2153,1811,li,Color Effects Frost and Glow,n
+2161,1811,li,Color Perfect,n
+2169,1811,li,Essentials,n
+2177,1811,li,La Petite Frost,n
+2185,1811,li,New Sub Brand,n
+2193,1811,li,24 Hour Edge Tamer,n
+2201,1811,li,25 Hour Edge Tamer,n
+2209,1811,li,Aveeno Baby,n
+2217,1811,li,Color Effects Platinum,n
+2225,1811,li,DermaSeries,n
+2233,1811,li,Frost and Design,n
+2241,1811,li,Mega,n
+2249,1811,li,Silk Therapy,n
+2257,1811,li,Smoothies,n
+2265,1811,li,Strictly Curls,n
+2273,1811,li,Tugaboos,n
+2281,1811,li,Volumazing,n
+2285,75,li,,n
+2288,2285,div,Deal Type,n
+2291,2285,ul,,n
+2305,2291,li,BonusCash,n
+2313,2291,li,Digital Coupons,n
+2317,75,li,,n
+2320,2317,div,Allergy Option,n
+2323,2317,ul,,n
+2345,2323,li,Hypoallergenic,n
+2353,2323,li,Dairy Free,n
+2361,2323,li,Talc Free,n
+2369,2323,li,Allergen Free,n
+2377,2323,li,Egg Free,n
+2385,2323,li,Fish Free,n
+2401,2323,li,Latex Free,n
+2409,2323,li,Soy Free,n
+2417,2323,li,Lanolin Free,n
+2425,2323,li,Shellfish Free,n
+2429,75,li,,n
+2432,2429,div,Ingredient Preference,n
+2435,2429,ul,,n
+2441,2435,li,Made in the USA,n
+2473,2435,li,Phthalate-Free,n
+2505,2435,li,Alcohol Free,n
+2513,2435,li,Paraffin Free,n
+2521,2435,li,Anti-oxidants,n
+2529,2435,li,Organic,n
+2537,2435,li,Petroleum Free,n
+2545,2435,li,Dermatologist Tested,n
+2553,2435,li,Non-GMO,n
+2561,2435,li,All Natural,n
+2569,2435,li,Aluminum Free,n
+2585,2435,li,Oil free,n
+2593,2435,li,AHA or Glycolic Acid,n
+2601,2435,li,Hyaluronic Acid,n
+2609,2435,li,Preservative Free,n
+2617,2435,li,Peptides,n
+2625,2435,li,Salicylic Acid,n
+2633,2435,li,Sugar Free,n
+2637,75,li,,n
+2640,2637,div,Form,n
+2643,2637,ul,,n
+2649,2643,li,Cream,n
+2657,2643,li,Liquid,n
+2665,2643,li,Spray,n
+2673,2643,li,Gel,n
+2681,2643,li,Oil,n
+2689,2643,li,Serum,n
+2697,2643,li,Mousse,n
+2705,2643,li,Foam,n
+2713,2643,li,Mask,n
+2721,2643,li,Powder,n
+2729,2643,li,Gloss,n
+2737,2643,li,Moisturizer,n
+2745,2643,li,Wash,n
+2753,2643,li,Balm,n
+2761,2643,li,Capsule,n
+2769,2643,li,Liquid Gel,n
+2777,2643,li,Tablet,n
+2785,2643,li,Gummy,n
+2793,2643,li,Packet,n
+2801,2643,li,Drops,n
+2809,2643,li,Foundation,n
+2817,2643,li,Softgel,n
+2825,2643,li,Solid,n
+2829,75,li,,n
+2832,2829,div,Gender,n
+2835,2829,ul,,n
+2841,2835,li,Women,n
+2849,2835,li,Men,n
+2853,75,li,,n
+2856,2853,div,Age,n
+2859,2853,ul,,n
+2865,2859,li,Adult,n
+2873,2859,li,All Age Groups,n
+2881,2859,li,Child,n
+2889,2859,li,Baby or Infant,n
+2893,75,li,,n
+2896,2893,div,Where Sold,n
+2899,2893,ul,,n
+2905,2899,li,Online,n
+2913,2899,li,In Store Only,n
+2917,75,li,,n
+2920,2917,div,Skin Type,n
+2923,2917,ul,,n
+2937,2923,li,Combination,n
+2953,2923,li,Sensitive,n
+2957,75,li,,n
+2960,2957,div,Hair Type,n
+2963,2957,ul,,n
+2969,2963,li,Curly Hair,n
+2977,2963,li,Wavy,n
+2993,2963,li,Damaged Hair,n
+3001,2963,li,Color Treated,n
+3009,2963,li,Thick,n
+3017,2963,li,Thin,n
+3025,2963,li,Tight Curls,n
+3033,2963,li,Straight,n
+3041,2963,li,Textured,n
+3056,75,li,Digital Coupon Value,n
+3136,57,ul,,n
+3154,3136,li,Men's Rogaine 5% Minoxidil Foam,n
+3178,3136,li,Consort,n
+3206,3136,li,Infusium Repair and Renew Leave-in-Treatment Spray - 13 oz,n
+3230,3136,li,"L'Oreal Paris Excellence Triple Protection Color Creme, Level 3 Permanent, 5G Medium Golden Brown",n
+3256,3136,li,Infusium Repair and Renew Shampoo - 13.5 oz,n
+3282,3136,li,"Color Sensation Hair Color Cream, 5.21 Grape Expectations",n
+3312,3136,li,"Rogaine Unscented Men's Hair Regrowth Treatment - 2 fl oz, 3 pk",n
+3338,3136,li,"Aqua Net Extra Super Hold Hairspray, Unscented - 11 oz",n
+3364,3136,li,Revlon Colorsilk Beautiful Color Permanent Hair Color - 10 Black,n
+3392,3136,li,"Consort For Men Non-Aerosol Hair Spray, Unscented Extra Hold - 8 fl oz",n
+3420,3136,li,Wahl Home Pro Haircutting Kit,n
+3448,3136,li,Neutrogena T or Gel Therapeutic Dandruff Treatment Shampoo - 8.5 fl oz,n
+3476,3136,li,Groom and Clean Greaseless Hair Control - 4.5 oz,n
+3504,3136,li,"L'Oreal Paris Feria Multi-Faceted Shimmering Color, R48 Red Velvet",n
+3538,3136,li,"Rogaine Women's Hair Daily Regrowth Treatment, 5% Minoxidil Topical Aerosol, 2.11 fl oz - 2 pk",n
+3562,3136,li,Revlon Colorsilk Beautiful Color Permanent Hair Color - 66 Cherry Red,n
+3590,3136,li,"Garnier Nutrisse Nourishing Hair Color Creme, Permanent, Black Cherry 42",n
+3618,3136,li,Daylogic 5% Minoxidil Men's Foam - 3 pk,n
+3642,3136,li,"Just For Men Mustache and Beard Brush-In Color Gel, Dark Brown M-45",n
+3670,3136,li,Sun Bum Blonder Hair Lightener - 4 fl oz,n
+3698,3136,li,Mielle Rosemary Mint Scalp and Hair Strengthening Oil - 2 fl oz,n
+3726,3136,li,Kinky Curly Original Curling Custard Natural Styling Gel - 8 oz,n
+3754,3136,li,"L'Oreal Paris Feria Power Toner, Long Lasting Anti Brass Toner - Ice Blonde 9P, 1 ct",n
+3784,3136,li,"Clairol Natural Instincts Non-Permanent Hair Color, Light Brown Shade 6",n
+3866,12,div,,n
+3869,3866,span,Back,n
+3871,3866,span,to top,n

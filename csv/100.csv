@@ -1,0 +1,105 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,ul,,n
+7,5,li,WORLDWIDE DELIVERY AVAILABLE,n
+9,5,li,2021 CRICKET BATS,n
+11,5,li,30 DAYS RETURN,n
+13,5,li,CUSTOMER SERVICE 01727 736953,n
+17,0,div,,n
+19,17,li,Home,n
+21,17,li,All About Cricket Equipment,n
+23,0,div,,n
+24,23,div,,n
+27,24,p,"Cricket is a game that requires a wealth of equipment in order to stay safe and reach optimum performance levels. This can include protective gear, cricket training equipment and cricket ground equipment. This handy guide outlines what you should look out for when purchasing cricket equipment and what cricket training items are available on the market to help you develop your skillset.",n
+28,24,div,,n
+30,28,h4,BATSMEN STAY SAFE,n
+32,28,p,"Without the correct gear, cricket can be a dangerous sport and health and safety guidelines should be adhered to. Whether you are a professional cricketer facing 80mph-plus fast bowlers or a youngster starting out, there is a number of key cricket equipment that a batsman should consider essential:",n
+35,24,p,Cricket Bat,y
+38,24,p,Batting Leg-Guards,y
+41,24,p,Batting Gloves,y
+44,24,p,Thigh Guard or Lower Body Protector,y
+47,24,p,Abdominal Protector or Box,y
+50,24,p,Batting Helmet,y
+51,24,div,,n
+53,51,p,"In order to fully maximise your protection, you may also want to consider purchasing an arm guard or a chest guard. Better quality equipment can also provide you with greater protection. For instance, an Aero Strippers lower body protector offers greater all-round protection than the average, traditional Thigh Guard - providing protection for both thighs and front hip. If you are a wicketkeeper, a helmet, wicketkeeping pads, inner gloves, abdominal guard and wicket-keeping gloves are considered essential.",n
+55,51,p,Please view our Cricket Protection and Wicketkeeping range.,n
+61,51,p,"Obviously you're going to need a Cricket Bag to store all of this equipment. Our cricket bags come in many different shapes and sizes, and include ruck sacks, holdalls and wheelie bags.",n
+62,24,div,,n
+64,62,h4,CRICKET TRAINING EQUIPMENT,n
+66,62,p,"There are many pieces of equipment, both large and small, that can help you enhance your game and boost your team's credentials.",n
+68,62,p,"Thin practice cricket bats to train your eye or specialist fielding training cricket bats are available on the market, as are practice training balls that can help you drill your batting skills, eradicate your weaknesses of spin or swing bowling, or test your fielding reflexes. There is also training equipment that helps you to hone your fielding skills even if none of your friends are available to train, such as crazy catch nets.",n
+70,62,p,"Other products include baseball-inspired catching mitts, side-arm cricket ball thrower, and batting tees. There is also fitness training equipment that will help you to enhance your stamina for the new season, like training hurdles and training ladders. By purchasing some of this equipment you really are giving yourself the best chance to develop your game and it is worth asking your cricket club whether they would foot the bill.",n
+72,62,p,"For more information, please see our Training Aid products and Training Cricket Balls .",n
+77,24,div,,n
+79,77,h4,CRICKET GROUND EQUIPMENT,n
+81,77,p,"Bowling machine, artificial coaching turfs and cricket nets or lanes could be considered both training equipment and ground equipment - they are a vital feature of your cricket ground designed to improve the performance levels of your membership.",n
+83,77,p,Bowling machines by reliable brands such as Flicx or Bola are now considered an essential purchase for any ambitious cricket club looking to hone its players' skills. A Bowling machine is an ideal way to turn your weakest shots into strengths withits ability to pitch the ball on a consistent spot on the pitch - and it can even impart swing and spin.,n
+85,77,p,"You may wish to view our Bola Bowling Machines , Flicx Bowling Machines or Bowling Machine Balls.",n
+92,77,p,"Every top cricket ground will have its own cricket nets and training pitches to try to mock a match situation and to provide superb training conditions for mid-week cricket training sessions. Cricket nets provide safe practice and practicality, whilst cricket coaching pitches are designed to aid technical development. Some village cricket clubs still opt for an artificial turf for match-day as it requires very little upkeep compared to a usual cricket square.",n
+94,77,p,"Please take a look at our Flicx Cricket Nets , Cricket Pitches and Training Accessories.",n
+100,77,p,,n
+102,100,strong,TIP,n
+103,100,text,If your cricket club runs itself in alliance with ECB club guidelinesand is a vital part of your local community then your club may be eligible for government funding to put towards such equipment.,n
+104,24,div,,n
+106,104,h4,MATCH DAY CRICKET EQUIPMENT,n
+107,104,div,,n
+109,107,p,"Training is all well and good but a cricket club must be fully prepared and well-stocked for match action. Therefore, as a cricket club you should consider the below cricket items essential:",n
+110,107,ul,,n
+112,110,li,Cricket Stumps,y
+114,110,li,Cricket Scoreboard,y
+116,110,li,Cricket Balls,y
+118,110,li,Umpire's Coat or Ball Counter,y
+120,110,li,Cricket Bails,y
+122,110,li,Boundary ropes or flags,y
+124,110,li,Cricket Scorebook,y
+126,107,p,"All respectable cricket clubs will also own sight screens, pitch rollers, pitch covers and mowing equipment.",n
+128,104,h4,ADDITIONAL EQUIPMENT,n
+129,104,div,,n
+131,129,p,"If you have a thriving colts cricket section then as well as owning an array of soft cricket balls, you will also want to purchase several Cricket Sets to provide useful gear for training sessions. Similarly, if you are a wandering side, a casual cricket team who plays sporadically or perhaps your club has a lot of occasional players, you may want to invest in a Club Cricket Kit. Furthermore, if you are an individual who loves matching cricket gear and is particularly fond of a particular cricket brand, then a cost-effective Cricket Bundle is a fantastic option - you can buy your pro-quality batting essentials in one easy order. Other links that may interest you:",n
+132,129,ul,,n
+134,132,li,All about Cricket Bats,y
+136,132,li,Cricket Training Gear,y
+138,132,li,Cricket Clothing,y
+140,132,li,Cricket Accessories,y
+143,104,p,WE HOPE THAT WE'VE HELPED,n
+145,104,p,If you still have more questions about cricket equipment then please feel free to send us an email at: info@cricketdirect.com,n
+148,104,p,We hope we have given you a clear view of what cricket equipment you need to play the game safe and effectively - from both an individual and club perspective.,n
+150,104,p,"Now you know what you need, we suggest that you take advantage of our unrivalled collection of pro-quality cricket gear at affordable prices.",n
+151,24,div,,n
+153,151,h2,Great Reasons to Shop with Cricket Direct,n
+155,151,ul,,n
+157,155,li,Professional cricketers shop with us,n
+159,155,li,Top quality products and exclusive offers,n
+161,155,li,Unrivalled product selection,n
+163,155,li,Latest cricket ranges on the market,n
+165,155,li,Professional and dependable brands,n
+167,155,li,100% safe and secure shopping,n
+169,155,li,Prompt worldwide delivery,n
+171,155,li,Staff that know the game and its requirements,n
+174,23,div,,n
+176,174,h2,READY TO BUY SOME CRICKET EQUIPMENT?,n
+178,174,p,Take me to ...,n
+179,174,div,,n
+182,179,h4,Cricket Bats,y
+185,179,h4,Batting Pads,y
+188,179,h4,Batting Gloves,y
+191,179,h4,Wicket Keeping,y
+194,179,h4,Cricket Helmets,y
+197,179,h4,Cricket Bags,y
+200,179,h4,Cricket Accessories,y
+203,179,h4,Cricket Balls,y
+206,179,h4,Cricket Shoes,y
+209,179,h4,Cricket Protection,y
+212,179,h4,Feed Buddy,y
+215,179,h4,Pulseroll,y
+220,0,ul,,n
+224,220,li,Request a Catalogue,n
+229,220,li,,n
+232,229,h4,Subscribe to Email,n
+236,229,button,Subscribe Now,n
+240,220,li,Design Your Own Brochure,n
+252,0,h2,Request a Catalog,n
+273,0,div,,n
+275,273,h2,Subscribe to Email,n
+290,273,div,Subscribe,n
+298,0,h2,Design your Brochure,n

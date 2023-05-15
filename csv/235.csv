@@ -1,0 +1,105 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,,n
+22,4,div,,n
+23,22,div,,n
+25,23,h1,Personal Gear Checklist,n
+27,23,div,Use this list as a guide to fine tune your own personal gear checklist for a safe and enjoyable time on the water.,n
+33,22,div,,n
+41,33,h3,Foul Weather Gear,n
+42,33,ul,,n
+44,42,li,Foul weather jacket,y
+46,42,li,Foul weather bibs or pants,y
+48,42,li,Sea boots or boat shoes,y
+50,33,h3,Other Apparel,n
+51,33,ul,,n
+53,51,li,Synthetic fleece or wool insulating layers,y
+55,51,li,Quick-drying base layer clothing,y
+61,51,li,Gloves,y
+63,51,li,Hat,y
+69,51,li,Warm socks,y
+72,51,li,Waterproof watch,y
+75,51,li,Polarized sunglasses,y
+77,51,li,Sunglasses retainer,y
+79,33,h3,Safety,n
+82,33,ul,,n
+84,82,li,Personal Flotation Device —USCG approved,y
+87,82,li,Signal mirror and whistle —Both are small and easy to carry,y
+90,82,li,Sunscreen,y
+92,82,li,First aid kit,y
+94,82,li,Hand bearing compass,y
+96,82,li,Rigging knife,y
+98,82,li,Headlamp,y
+100,82,li,Bright flashlight,y
+102,82,li,Extra batteries,y
+104,82,li,Handheld GPS,y
+106,82,li,Handheld VHF,y
+108,82,li,Weather radio or a handheld VHF with weather alert functions,y
+110,33,h3,Offshore,n
+111,33,ul,,n
+113,111,li,Safety harness,y
+115,111,li,Safety harness tether,y
+117,111,li,"Personal Locator Beacon , Garmin inReach or SPOT Satellite Personal Tracker",y
+120,111,li,Flares,y
+122,33,ul,,n
+124,122,li,Men's clothing accessories and Women's clothing accessories,n
+129,122,li,Safety products,n
+139,4,div,,n
+140,139,div,,n
+141,140,div,,n
+143,141,div,Stay Informed,n
+145,141,div,Join,n
+157,141,div,Tell us how we're doing,n
+160,140,div,,n
+162,160,button,Support,n
+164,160,div,Support,n
+165,160,ul,,n
+167,165,li,Pricing Policy,n
+169,165,li,Help Center,n
+171,165,li,Shipping Information,n
+173,165,li,Order Lookup,n
+175,165,li,Returns,n
+177,165,li,International Orders,n
+179,165,li,Product Recalls,n
+181,165,li,Product Rebates,n
+184,140,div,,n
+186,184,button,Extras,n
+188,184,div,Extras,n
+189,184,ul,,n
+191,189,li,Gift Cards,n
+193,189,li,West Advantage Rewards,n
+195,189,li,Rigging Services,n
+197,189,li,Custom Boat Graphics,n
+199,189,li,Plus Product Protection Plan,n
+202,140,div,,n
+204,202,button,About,n
+206,202,div,About,n
+207,202,ul,,n
+209,207,li,Company Info,n
+211,207,li,Careers,n
+213,207,li,Press Room,n
+215,207,li,BlueFuture®,n
+217,207,li,West Marine Partners,n
+219,207,li,West Marine Pro,n
+221,207,li,Boat U.S,n
+226,140,div,Find a Store,n
+237,139,div,,n
+240,237,div,© West Marine All Rights Reserved,n
+243,237,div,,n
+245,243,span,Privacy Policy or,n
+248,243,span,Use or,n
+251,243,span,Web Accessibility or,n
+254,243,span,Do Not Sell My Information or,n
+257,243,span,CA Privacy Act or,n
+260,243,span,CA Transparency Act,n
+270,0,div,,n
+272,270,div,Tracking Consent,n
+275,270,div,,n
+279,275,h3,Welcome to Our New Site,n
+283,275,strong,You'll need to reset your password to access your account.,n
+287,275,center,"If you don't know your login information or your email address has changed, please contact Customer Service for further assistance.",n
+291,275,p,Tracking Consent,n
+293,275,p,"By continuing to use this website, you’re agreeing to our Privacy Policy and Terms of Use. Also, we use cookies and other tracking technologies to improve your browsing experience on our website, analyze our website traffic, and to provide real-time personalized recommendations. By clicking yes, you agree to the use of Cookies.",n
+299,270,div,,n
+301,299,button,Yes,n
+303,299,button,No,n

@@ -1,0 +1,482 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+7,5,div,,n
+51,7,div,,n
+53,51,h1,Art Supply Lists,n
+54,51,div,,n
+56,54,p,"Certain art classes require materials which must be supplied by students and brought to the first day of class. These materials lists can be found on this page. If you have questions regarding materials and supplies or have any additional questions, please call the Leisure Education Office at 480-312-7957 or email LeisureEducation@ScottsdaleAz.gov .",n
+62,54,h2,Drawing,n
+63,54,ul,,n
+65,63,li,Consalvo - DrawithPaint,n
+69,63,li,Taylor - DrawithPaint,n
+73,63,li,Consalvo - Drawing I,n
+77,63,li,Milman - Drawing,n
+81,54,h2,Oil and Acrylic,n
+82,54,ul,,n
+84,82,li,Consalvo - Oil and Acrylic,n
+88,82,li,"Consalvo - Oil Painting, Intermediate",n
+92,82,li,Fried - Acrylic,n
+96,82,li,Fried - Oil,n
+100,82,li,Roberts - Oil and Acrylic,n
+104,82,li,Taylor - Oil and Acrylic,n
+108,54,h2,Painting or Pastel or Watercolor,n
+109,54,ul,,n
+111,109,li,Amsellem - Watercolor,n
+115,109,li,Godwin - Art Explorers,n
+119,109,li,Godwin - Watercolor,n
+123,109,li,Schneider - Pastel,n
+127,109,li,Taylor - Watercolor,n
+131,109,li,Khamis - Paint Studio,n
+135,54,h2,Cooking,n
+136,54,ul,,n
+138,136,li,Sampson - Arizona Food History Recipes and Supply List,n
+142,136,li,Sampson - Vietnamese Cooking,n
+146,136,li,Sampson - Healthy Morning Recipes,n
+150,136,li,Sampson - Cheesecake,n
+154,136,li,Sampson - Cupcake Decorating,n
+158,136,li,Sampson - Love Is In The Air,n
+162,136,li,Sampson - Mediterranean Diet Recipes and Supply List,n
+166,136,li,Sampson - Indian Made Easy Recipes and Supply List,n
+170,136,li,Sampson - Pasta Making,n
+174,136,li,Pie Class,n
+178,136,li,Buttercream Basics,n
+181,51,div,,n
+182,181,div,,n
+185,182,h3,Contact Information,n
+186,182,div,,n
+187,186,p,,n
+189,187,strong,Leisure Education Office,n
+191,187,br,7447 E. Indian School Road Suite 300,n
+198,187,br,-7957,n
+197,187,abbr,P,n
+200,187,br,LeisureEducation@ScottsdaleAz.gov,n
+201,186,p,,n
+202,201,text,Hours,n
+204,201,br,8 a.m. - 5 p.m.,n
+205,181,div,,n
+208,205,h3,Brochure Links,n
+209,205,ul,,n
+211,209,li,FAQs,n
+213,209,li,Art Supply Lists,n
+215,209,li,Become an Instructor,n
+217,209,li,Financial Assistance,n
+219,181,h2,Get Signed Up,y
+220,181,div,,n
+223,220,h3,Registration and Services,n
+226,220,h4,,n
+227,226,text,Download,n
+229,226,br,Spring 2022 Activity Guide,n
+231,220,div,Camp Registration Reserve a Facility Reserve a Field,n
+234,7,footer,,n
+237,234,div,,n
+238,237,div,,n
+240,238,h2,Connect with Us,n
+241,238,ul,,n
+244,241,li,Watch Scottsdale Video Network,n
+247,241,li,Facebook,n
+250,241,li,Twitter,n
+253,241,li,Instagram,n
+256,241,li,Linkedin,n
+258,238,p,View all social media,n
+260,237,div,,n
+262,260,h2,Need Help?,n
+263,260,text,-3111,n
+265,260,p,General City Information or Speak to a Citizen Service Specialist,n
+267,237,div,,n
+269,267,h2,Stay Up To Date,n
+271,267,div,,n
+273,271,label,Enter email address,n
+277,271,span,Manage,n
+279,267,p,Manage Newsletter Subscriptions,n
+285,234,div,,n
+287,285,address,3939 N. Drinkwater Blvd.,n
+290,285,ul,,n
+292,290,li,P,n
+294,290,li,TTY,n
+296,290,li,F,n
+298,290,li,Ask a question,n
+301,285,p,Scottsdale. All Rights Reserved.,n
+307,234,ul,,n
+309,307,li,Legal Policies,n
+313,307,li,Site Map,n
+317,307,li,Staff Login,n
+320,307,li,,n
+322,320,span,Google Translate Disclaimer,n
+324,320,text,Translate,n
+326,234,span,Scroll to top,n
+329,234,div,,n
+332,329,h3,Google Translate Disclaimer,n
+333,329,div,,n
+335,333,p,"To view the site or page in another language, adjust your browser language settings for the language you prefer to use. Check your browser's help section for instructions on how to change the language. Here are instructions for some common browsers:",n
+336,333,ul,,n
+338,336,li,Chrome,n
+340,336,li,Microsoft Edge,n
+342,336,li,Firefox,n
+344,336,li,iOS,n
+346,336,li,Safari,n
+348,333,p,The Chrome and Microsoft Edge browsers also offer in place translation by,n
+349,333,ol,,n
+351,349,li,Right-Click on page,n
+353,349,li,"Select ""Translate to Language """,n
+357,5,div,,n
+359,357,h2,Scottsdale,n
+360,357,ul,,n
+361,360,li,,n
+362,361,text,News and Information,n
+364,361,h2,News and Information,n
+365,361,ul,,n
+367,365,li,News Articles,y
+369,365,li,Social Media Center,y
+371,365,li,Media Contacts,y
+373,365,li,Scottsdale Video Network,y
+375,365,li,City Map Center,y
+376,365,li,,n
+377,376,text,About Scottsdale,y
+379,376,h2,About Scottsdale,y
+380,376,ul,,n
+382,380,li,About Scottsdale,y
+384,380,li,Awards and Recognition,y
+386,380,li,Scottsdale,y
+388,380,li,Scottsdale History,y
+390,380,li,Historic Photos,y
+391,365,li,,n
+392,391,text,Contact Scottsdale,y
+394,391,h2,Contact Scottsdale,y
+395,391,ul,,n
+397,395,li,Contact Us,y
+399,395,li,Email a Question or Complaint,y
+402,360,li,,n
+403,402,text,City Hall,n
+405,402,h2,City Hall,n
+406,402,ul,,n
+407,406,li,,n
+408,407,text,Mayor and City Council,n
+410,407,h2,Mayor and City Council,n
+411,407,ul,,n
+413,411,li,Mayor and City Council,n
+415,411,li,Council Agendas and Minutes,n
+416,411,li,,n
+417,416,text,Council Subcommittees,n
+419,416,h2,Council Subcommittees,n
+420,416,ul,,n
+422,420,li,Audit Committee,n
+424,420,li,Council Subcommittee on Education,n
+426,420,li,Economic Development Subcommittee,n
+428,411,li,the City Address,n
+430,411,li,City Charter,n
+432,411,li,Constitution Contest,n
+434,411,li,Contact the Council,n
+436,411,li,Council Meeting Information,n
+438,411,li,Council Mission and Priorities,n
+440,411,li,Mayor's Youth Council,n
+441,406,li,,n
+442,441,text,Boards and Commissions,n
+444,441,h2,Boards and Commissions,n
+445,441,ul,,n
+447,445,li,Find a Board or Commission,n
+449,445,li,Board Vacancies,n
+451,445,li,Board and Commission Archives,n
+452,406,li,,n
+453,452,text,City Treasurer - Budget and Finance,n
+455,452,h2,City Treasurer - Budget and Finance,n
+456,452,ul,,n
+458,456,li,Adopted Budget,n
+460,456,li,Bond Descriptions,n
+462,456,li,Budget,n
+464,456,li,Annual Comprehensive Finance Report,n
+466,456,li,Monthly Financial Reports,n
+467,406,li,,n
+468,467,text,City Manager,n
+470,467,h2,City Manager,n
+471,467,ul,,n
+473,471,li,City Manager,n
+475,471,li,Diversity,n
+477,471,li,Government Relations,n
+479,471,li,Performance Management,n
+481,471,li,Scottsdale Citizen Survey,n
+483,471,li,Sister Cities,n
+484,406,li,,n
+485,484,text,City Clerk,n
+487,484,h2,City Clerk,n
+488,484,ul,,n
+490,488,li,City Clerk,n
+492,488,li,Charter History,n
+494,488,li,Election Information,n
+496,488,li,Marriage License Information,n
+498,488,li,Public Meeting Posting Sites,n
+500,488,li,Recently Adopted Ordinances,n
+502,488,li,the City Addresses,n
+504,406,li,City Attorney,n
+506,406,li,City Auditor,n
+507,406,li,,n
+508,507,text,Human Resources,n
+510,507,h2,Human Resources,n
+511,507,ul,,n
+513,511,li,Human Resources,n
+515,511,li,Benefits Information,n
+517,511,li,Employment Opportunities,n
+519,511,li,Job Interest Card,n
+521,406,li,Public Notice,n
+522,360,li,,n
+523,522,text,Things To Do,n
+525,522,h2,Things To Do,n
+526,522,ul,,n
+528,526,li,Events Calendar,y
+530,526,li,Library,y
+531,526,li,,n
+532,531,text,"Parks, Pools and Community Centers",y
+534,531,h2,"Parks, Pools and Community Centers",y
+535,531,ul,,n
+537,535,li,Parks and Recreation Home,y
+539,535,li,Scottsdale Sports Complex,y
+541,535,li,Reservations,y
+543,535,li,Skateparks,y
+544,526,li,,n
+547,544,h2,Sports,y
+548,544,ul,,n
+550,548,li,All Sports,y
+552,548,li,Basketball,y
+554,548,li,Cycling,y
+556,548,li,Fishing and Boating,y
+558,548,li,Flag Football,y
+560,548,li,Kickball,y
+562,548,li,Pickleball,y
+564,548,li,Softball,y
+566,548,li,Swimming,y
+568,548,li,Tennis,y
+570,548,li,Indoor Volleyball,y
+572,548,li,Sand Volleyball,y
+574,548,li,Youth Sports,y
+576,526,li,WestWorld,y
+578,526,li,Stadium,y
+580,526,li,Old Town Scottsdale,y
+582,526,li,McDowell Sonoran Preserve,y
+584,526,li,Mighty Mud Mania,y
+587,360,li,,n
+588,587,text,Resident Services,n
+590,587,h2,Resident Services,n
+591,587,ul,,n
+593,591,li,Pay Utility bill,y
+594,591,li,,n
+595,594,text,City Court,y
+597,594,h2,City Court,y
+598,594,ul,,n
+600,598,li,Court,y
+602,598,li,Find a Case or Make a Payment,y
+604,598,li,Defensive Driving School,y
+606,598,li,Court Calendar,y
+608,598,li,Juror Information,y
+609,591,li,,n
+610,609,text,Fire,y
+612,609,h2,Fire,y
+613,609,ul,,n
+615,613,li,Fire,y
+617,613,li,Station Locations,y
+619,613,li,Scottsdale Fire Recruitment,y
+620,613,li,,n
+621,620,text,Safety,y
+623,620,h2,Safety,y
+624,620,ul,,n
+626,624,li,Car Seat Inspections,y
+628,624,li,CPR Clases,y
+630,624,li,Drug Disposal,y
+632,624,li,Firework Safety,y
+634,624,li,Pool Safety,y
+636,624,li,Smoke Alarms,y
+638,624,li,Snakes and Bees,y
+640,624,li,Residential Sprinkler Program,y
+643,591,li,,n
+644,643,text,Police,y
+646,643,h2,Police,y
+647,643,ul,,n
+649,647,li,Police,y
+651,647,li,Community Partnerships and Programs,y
+653,647,li,Crime Statistics,y
+655,647,li,Join Scottsdale PD,y
+657,647,li,Locations,y
+659,647,li,Records Request,y
+661,647,li,Security Personel Training,y
+663,647,li,Submit a Crime Tip,y
+665,647,li,Towed Vehicle,y
+667,647,li,Photo Enforcement,y
+668,591,li,,n
+669,668,text,Water,y
+671,668,h2,Water,y
+672,668,ul,,n
+674,672,li,Water,y
+676,672,li,Developer Services,y
+678,672,li,Rates and Fees,y
+680,672,li,Rebates,y
+682,672,li,Water Supply,y
+684,672,li,Water Quality,y
+686,591,li,Streets and Road Maintenance,y
+687,591,li,,n
+688,687,text,Solid Waste - Trash and Recycling,y
+690,687,h2,Solid Waste - Trash and Recycling,y
+691,687,ul,,n
+693,691,li,Solid Waste,y
+695,691,li,Holiday Collection Schedule,y
+697,691,li,Brush and Bulk Collection,y
+699,691,li,Household Hazardous Waste,y
+701,691,li,Trash and Recycling Collection Guidelines,y
+703,691,li,Resident Landfill Program,y
+705,691,li,Accepted Recyclables List,y
+707,691,li,Commercial Services,y
+710,360,li,,n
+711,710,text,Community Programs,n
+713,710,h2,Community Programs,n
+714,710,ul,,n
+716,714,li,Emergency Preparedness,n
+717,714,li,,n
+718,717,text,Citizen Service,n
+720,717,h2,Citizen Service,n
+721,717,ul,,n
+723,721,li,Citizen Service,n
+725,721,li,Adopt-a-Road,n
+727,721,li,Neighborhood College,n
+729,721,li,Code Enforcement,n
+731,721,li,Mediation Program,n
+733,721,li,Operation Fix-It,n
+735,721,li,Neighborhood Watch,n
+737,721,li,Neighborhood Notification Program,n
+739,721,li,Neighborhood Cleanup Program,n
+741,721,li,Spirit Of Scottsdale Awards,n
+743,721,li,Block Parties,n
+745,721,li,Scottsdale City Government 101,n
+747,721,li,Curb Painting Kit,n
+749,721,li,Stop Handbills Information,n
+751,714,li,Passports,n
+752,714,li,,n
+753,752,text,Scottsdale Shares,n
+755,752,h2,Scottsdale Shares,n
+756,752,ul,,n
+758,756,li,Scottsdale Shares,n
+760,756,li,Scottsdale Cares,n
+762,714,li,Seniors,n
+763,714,li,,n
+764,763,text,Human Services,n
+766,763,h2,Human Services,n
+767,763,ul,,n
+769,767,li,Human Services,n
+771,767,li,Adaptive Services,n
+773,767,li,Community Assistance Office,n
+775,767,li,Community Development Block Grant,n
+777,767,li,Family Advocacy Center,n
+779,767,li,Family Resource Center,n
+781,767,li,Family Self-Sufficiency Program,n
+783,767,li,Federal and Local Grants,n
+785,767,li,Funding Information,n
+787,767,li,Housing Rehabilitation Programs,n
+789,767,li,Section 8 Housing,n
+791,767,li,Paiute Neighborhood Center,n
+793,767,li,One Stop Career Center,n
+795,767,li,Vista del Camino Community Center,n
+797,767,li,Youth and Family Services,n
+799,714,li,Victim Services,n
+800,360,li,,n
+801,800,text,Planning and Development,n
+803,800,h2,Planning and Development,n
+804,800,ul,,n
+806,804,li,Planning and Development Home,y
+807,804,li,,n
+808,807,text,Development Process,y
+810,807,h2,Development Process,y
+811,807,ul,,n
+813,811,li,Home Improvements,y
+815,811,li,Residential Development,y
+817,811,li,Commercial Development,y
+819,811,li,Pre-Application and Case Submittal,y
+821,811,li,Plan Submittal and Plan Review,y
+823,811,li,Permit Services,y
+825,811,li,Inspection Services,y
+827,811,li,"Records, Research and Reports",y
+829,811,li,Forms,y
+830,804,li,,n
+831,830,text,Architectural and Engineering Design Guidelines,y
+833,830,h2,Architectural and Engineering Design Guidelines,y
+834,830,ul,,n
+836,834,li,Architectural and Engineering Design Guidelines,y
+838,834,li,Design Standards and Procedures Manual,y
+840,834,li,MAG Supplements,y
+842,834,li,Traffic Signals,y
+844,834,li,Standard Design Detail Drawings,y
+846,834,li,Master Bid Item List,y
+848,804,li,Codes and Ordinances,y
+850,804,li,Construction Projects,y
+852,804,li,General Plan,y
+854,804,li,Green Building,y
+856,804,li,Historic Preservation,y
+858,804,li,Long Range Planning,y
+860,804,li,Environmental Initiatives,y
+861,360,li,,n
+862,861,text,Business Resources,n
+864,861,h2,Business Resources,n
+865,861,ul,,n
+867,865,li,Economic Development,y
+869,865,li,Purchasing,y
+870,865,li,,n
+871,870,text,Licensing,y
+873,870,h2,Licensing,y
+874,870,ul,,n
+876,874,li,Licenses,y
+878,874,li,Alarm Use Regulations,y
+880,874,li,Alarm Awareness School,y
+882,874,li,Model City Tax Code,y
+883,865,li,,n
+884,883,text,Sales and Use Tax Information,y
+886,883,h2,Sales and Use Tax Information,y
+887,883,ul,,n
+889,887,li,Sales and Use Tax,y
+891,887,li,Tax Audits,y
+892,865,li,,n
+893,892,text,Special Events,y
+895,892,h2,Special Events,y
+896,892,ul,,n
+898,896,li,Special Events,y
+900,896,li,Obtaining a Liquor Permit,y
+902,896,li,Special Event Packet FAQs,y
+904,865,li,Tourism Reports,y
+905,360,li,,n
+906,905,text,Scottsdale in Transit,n
+908,905,h2,Scottsdale in Transit,n
+909,905,ul,,n
+910,909,li,,n
+911,910,text,Airport,n
+913,910,h2,Airport,n
+914,910,ul,,n
+916,914,li,Airport,n
+918,914,li,Airport Noise Information,n
+920,914,li,Airport Operations,n
+922,914,li,Airport or Airpark Businesses,n
+924,914,li,Permits and Forms,n
+926,914,li,Pilot Information,n
+928,914,li,Regulatory Documents,n
+930,914,li,Submit an Aircraft Noise Complaint,n
+932,914,li,Terminal Area Redevelopment,n
+934,914,li,U.S. Customs User Fee Schedule,n
+936,909,li,Trolley Services,n
+937,909,li,,n
+938,937,text,Transportation,n
+940,937,h2,Transportation,n
+941,937,ul,,n
+943,941,li,Transportation,y
+945,941,li,Paths and Trails,y
+947,941,li,Streets and Traffic,y
+949,941,li,Traffic Management,y
+951,941,li,Current Traffic Restrictions,y
+953,941,li,Transit,y
+955,360,li,Division Directory,n
+957,360,li,Services Directory,n
+960,0,div,,n
+962,960,div,AddThis Sharing Sidebar,n
+963,960,div,,n
+965,963,span,Share to Facebook,n
+972,963,span,Share to Twitter,n
+975,963,span,Share to LinkedIn,n
+978,963,span,More AddThis Share options,n
+986,963,div,Hide,n
+989,960,div,Show,n
+991,0,div,,n
+993,991,button,Close,n
+997,991,div,AddThis,n

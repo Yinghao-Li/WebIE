@@ -1,0 +1,131 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+14,0,li,Sign in,n
+19,0,div,,n
+22,19,td,Home,n
+26,19,div,Configuration,n
+29,19,div,,n
+31,29,br,Reports,n
+34,29,li,Dashboard,n
+38,19,div,Messaging,n
+43,19,div,Members,n
+48,19,div,Teams,n
+51,19,div,,n
+53,51,br,Facilities,n
+56,51,li,Facility Manager,n
+58,19,div,,n
+60,58,br,Scheduling,n
+63,58,li,Master Calendar,n
+67,19,div,Tools,n
+70,19,div,,n
+72,70,br,Support,n
+73,70,ul,,n
+75,73,li,Changelog,n
+77,73,li,Help Docs,n
+79,73,li,Coaches Help,n
+81,73,li,Video Help,n
+83,73,li,Help Forums,n
+86,73,li,Contact Support,n
+94,0,table,,n
+95,94,text,Sponsored By,n
+98,94,span,Newsholme Financial Services,n
+104,0,div,,n
+114,104,tr,,n
+129,114,div,,n
+130,129,tr,,n
+134,130,li,Info,n
+206,130,li,,n
+207,206,text,Team,n
+208,206,ul,,n
+211,208,li,Choose a Team,n
+213,208,li,Schedule,n
+215,208,li,Multi-Schedule,n
+219,130,li,Carmel Rams Schedule,n
+225,130,li,,n
+226,225,text,Coach and Volunteer Application,n
+227,225,ul,,n
+229,227,li,2022 Coach Application,n
+231,227,li,Volunteer Hours,n
+234,130,li,,n
+235,234,text,Fundraising,n
+238,234,li,2022 Fundraising Initiatives,n
+239,129,tr,,n
+242,239,li,,n
+243,242,text,Registration,n
+244,242,ul,,n
+246,244,li,2022 Registration Info,n
+248,244,li,CLICK HERE to Register,n
+251,239,li,,n
+252,251,text,Spirit Wear,n
+255,251,li,2022 Cheerleading Accessories,n
+259,239,li,Taconic League,n
+262,239,li,,n
+263,262,text,Videos,n
+264,262,ul,,n
+266,264,li,CRYFaC Organization Video,n
+268,264,li,What is Head's Up Football?,n
+270,264,li,8U or Rookie Tackle,n
+274,114,table,,n
+354,274,td,My my My my,n
+369,274,td,,n
+372,369,div,For full functionality of this site it is necessary to enable JavaScript. Here are the instructions how to enable JavaScript in your web browser .,n
+375,369,div,,n
+379,375,div,Football Equipment or Uniform Care,n
+381,375,div,,n
+385,381,div,GAME JERSEY CARE INSTRUCTIONS,n
+388,381,div,"Each player will receive a home game jersey, an away game jersey and a practice jersey. These jerseys are expensive and are easily damaged if not washed properly. Please use the following directions when washing these jerseys:",n
+392,381,div,IMPORTANT,n
+395,381,div,"IMMEDIATELY AFTER GAMES, WASH YOUR GAME JERSEY - DO NOT LET THEM SIT DIRTY…..the perspiration on them greatly increases the risk of dye or color migration and lessens the life of the jersey.",n
+398,381,div,WASH jerseys INSIDE OUT with a Mild Detergent using in COLD WATER on GENTLE CYCLE and then HANG DRY . DO NOT BLEACH and DO NOT PUT IN THE DRYER! White jerseys will turn yellow if bleach products or bleach alternative products are used.,n
+401,381,div,"DO NOT DRY CLEAN, DO NOT IRON OR PRESS GARMENTS!",n
+404,381,div,Screen-printing will melt and the rib trims will lose their stretch.,n
+411,381,div,"You are responsible for the proper care and use of equipment provided to you. Please ensure that equipment is returned on the requested return date, is laundered and in good repair. Your attention will enable Beaverton Youth Football to control costs and provide equipment to all future participants.",n
+415,381,div,HELMET CARE,n
+418,381,div,Try keeping your helmet clean and free of debris. You can do this by simply wiping with a damp cloth. NEVER use abrasive cleaners or solvents to clean helmet. The Carmel Rams Youth Football Equipment Managers have special helmet cleaning solutions if a damp cloth will not work.,n
+421,381,div,Always inspect your helmet - paying particular attention to the fasteners that attach the facemask and chin strap. If the helmet appears damaged in any way - IMMEDIATELY show your Coach or one of the Rams Youth Football Equipment Managers. NEVER play or participate in contact drills with a damaged helmet.,n
+424,381,div,"DO NOT PUT ANY TAPE OR ADHESIVE MATERIALS ON THE HELMETS, EXCEPT FOR HELMET DECALS. Duct, medical or electrical tape can damage the paint on the helmets.",n
+429,381,div,WASH and CARE INSTRUCTIONS FOR INTEGRATED PANTS and JERSEYS,n
+432,381,div,"COLD WATER WASH, please. Wash them separately from other garments.",n
+435,381,div,Keep whites and colors apart.,n
+438,381,div,DO NOT DRY CLEAN OR PRESS garments. This will discolor the fabric.,n
+440,381,div,"Do not allow perspiration soaked or muddy garments to lie in a pile or rest on top of each other for any period of time. Launder them immediately if they really, really need it. However, it is not necessary to launder after every wearing. Simply hang them on a plastic or wooden hanger until the next day of practice.",n
+443,381,div,"DO NOT OVER-WASH pants. If you are having difficulty getting the white practice pants clean, spray them with pre wash spray and wash them using Oxyclean.",n
+446,381,div,DO NOT remove the belt or pads. FASTEN HOOK and LOOP belts before washing so they don't bounce around in the washer.,n
+449,381,div,DO NOT use chlorine bleach. DO NOT use fabric softeners. DO NOT soak the pants. Softeners deteriorate garments with spandex. They also restrict the effectiveness of Dri-Fit technology and act as a magnet to dirt.,n
+452,381,div,Use MILD powdered detergent. Detergents with pH under 10 are recommended for athletic uniforms. Powdered detergents are recommended for athletic colors.,n
+454,381,div,"REMOVE garments from the machine immediately after washing. This will help avoid color bleeding, particularly on color blocked garments.",n
+457,381,div,"Air Dry – DO NOT PUT THE PANTS IN THE DRYER. IT RUINS THE BELTS, MELTS THE PADS AND FABRIC.",n
+460,381,div,"Allow the pants and game jersey to AIR DRY. If you must dry them, do so on the LOWEST setting. Line Drying is recommended, particularly with these garments.",n
+463,381,div,Be sure these garments are completely dry before storing.,n
+466,381,div,"ONCE again, COLD WASH and AIR DRYING are the best way to launder these items so that they stay looking new!",n
+469,381,div,HELPFUL INFORMATION,n
+473,381,div,HELMET,y
+476,381,div,"In general, helmets are not comfortable. They are tight, heavy and difficult to get used to, but they protect the most important part of our body. Players will be fitted for their helmet, and should wear them for at least a week before asking for a larger size. It takes about that long to get used to wearing one.",n
+478,381,div,,n
+479,478,text,"Helmets can be adjusted by adding or removing air, or changing the ear pads.",n
+481,478,br,Please see your coach if you want to make adjustments. Never add or remove air from a helmet on your own.,n
+485,381,div,PANTS,y
+486,381,div,,n
+487,486,text,Pants should extend to just below the knee cap.,n
+489,486,br,The knee pad should cover the knee cap and not be above or below it.,n
+493,381,div,Shoulder Pads,y
+495,381,div,Should be tight against the chest and back with draw string pulled tight. Inside pad that sits on the shoulders should extend just past the outside of player shoulder.,n
+499,381,div,Extra Equipment,n
+501,381,div,"It is the responsibility of each player to arrive at practice and games with all their equipment including their mouth piece. Coaches will have a supply of extra mouth pieces and helmet ear pads, along with repair equipment, but if a player shows up without a mouth piece, or full set of pads, they will not be able to participate.",n
+510,104,div,,n
+511,510,text,Youth Sports and,n
+515,510,strong,"Carmel Rams Youth Sports, Inc.",n
+516,510,text,. All rights reserved.,n
+519,510,span,Visitor #,n
+522,510,span,939,n
+524,510,br,Server in . or or Privacy Policy or or Do Not Sell My Personal Information or or CA Notice or or Terms or or User Guide or or Legal or or Get the Mobile App,n
+527,510,strong,1,n
+529,510,strong,,n
+531,529,span,02,n
+532,529,text,s,n
+552,0,div,,n
+553,552,div,,n
+555,553,button,x,n
+557,553,p,New Privacy Policy,n
+559,552,div,We have made changes to our Privacy Policy . By using this site you agree to the Privacy Policy and Terms of Service .,n
+573,0,div,Close,n

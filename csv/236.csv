@@ -1,0 +1,513 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+9,3,ul,,n
+11,9,li,Portal,n
+12,9,li,,n
+13,12,text,Forums,n
+14,12,div,,n
+16,14,h2,Visit our Popular Forums,n
+17,14,ul,,n
+19,17,h2,The Fleet,y
+25,17,li,Powered Boats,y
+27,17,li,General Sailing,y
+29,17,li,Antares Yachts,y
+33,17,li,Lagoon Catamarans,y
+35,17,h2,Cruising Business,y
+43,17,li,Commercial Posts,y
+45,17,li,Vendor Spotlight,y
+46,14,ul,,n
+48,46,h2,Life Aboard a Boat,y
+50,46,li,Provisioning,y
+52,46,li,"Families, Kids, and Pets Afloat",y
+54,46,li,"Recreation, Entertainment, and Fun",y
+56,46,li,Boat Ownership and Making a Living,y
+58,46,li,Liveaboard's Forum,y
+60,46,h2,"Seamanship, Navigation and Boat Handling",y
+62,46,li,Seamanship and Boat Handling,y
+64,46,li,Navigation,y
+66,46,li,OpenCPN,y
+68,46,li,"Training, Licensing, and Certification",y
+70,46,li,"Health, Safety, and Related Gear",y
+72,46,li,"the Road, Regulations, and Red Tape",y
+73,14,ul,,n
+75,73,h2,Engineering and Systems,y
+77,73,li,Const. or Maint. or Refit,y
+79,73,li,Product or Service Reviews,y
+81,73,li,Electronics,y
+83,73,li,Electrical,y
+85,73,li,Lithium Power Systems,y
+87,73,li,Engines and Propulsion,y
+89,73,li,Propellers and Drive Systems,y
+91,73,li,Plumbing or Fixtures,y
+93,73,li,Deck Hdw,y
+95,73,li,Aux. Equipment and Dinghy,y
+97,73,li,Anchoring and Mooring,y
+102,14,div,Join Now,n
+103,9,li,,n
+104,103,text,Photos,n
+105,103,div,,n
+107,105,ul,,n
+109,107,h2,Photo Categories,n
+111,107,li,Member Galleries,n
+113,107,li,Life Onboard,n
+115,107,li,Sailing in the Wind,n
+121,107,li,Power Boats,n
+123,107,li,Cruising Destinations,n
+125,107,li,Equipment,n
+127,107,li,Maint. and Boat Building,n
+129,107,li,Marine Life,n
+131,107,li,Scuba Diving and Divers,n
+133,107,li,General Photos,n
+136,105,h2,Recent Photos,n
+141,105,div,Upload a Photo,n
+142,9,li,,n
+143,142,text,Classifieds,n
+145,142,ul,,n
+147,145,h2,Listing Categories,n
+158,145,div,Add General Classified Listing Add Boat Listing Add Crew Listing,n
+161,9,li,,n
+162,161,text,Builders,n
+163,161,div,,n
+165,163,ul,,n
+167,165,li,Beneteau,n
+169,165,li,Catalina,n
+171,165,li,Hunter,n
+173,165,li,Jeanneau,n
+175,165,li,Searunner,n
+177,163,ul,,n
+181,177,li,Lagoon,n
+183,177,li,Antares,n
+185,177,li,Morgan,n
+187,177,li,African Cats,n
+191,163,li,view more »,n
+192,9,li,,n
+193,192,text,Crews,n
+196,192,ul,,n
+198,196,li,Crew Wanted,n
+200,196,li,Crew Available,n
+202,9,li,Library,n
+204,9,li,Rules,n
+206,9,li,Wiki,n
+207,9,li,,n
+208,207,text,More,n
+211,207,ul,,n
+213,211,li,Enhance Your Account,n
+215,211,li,Calendar,n
+217,211,li,Links,n
+219,211,li,Meet the Mods,n
+221,211,li,Meet the Advisors,n
+223,211,li,Signup,n
+227,3,div,,n
+229,227,div,,n
+232,229,table,,n
+235,232,td,,n
+239,235,tr,,n
+241,239,span,Cruisers and Sailing Forums,n
+243,239,span,> Engineering and Systems,n
+246,239,span,> Marine Electronics,n
+251,235,strong,Equipment list,n
+255,232,span,Click Here to Login,n
+259,229,div,,n
+262,259,td,Register,n
+263,259,td,,n
+264,263,text,Vendors,n
+267,263,div,,n
+270,267,tr,Sponsoring Vendors,n
+273,267,tr,Vendor Deals and Promos,n
+276,267,tr,Vendors,n
+279,267,tr,Display Vendors by Location,n
+282,267,tr,Display Vendors by Map,n
+285,267,tr,Register your Company,n
+287,259,td,FAQ,n
+289,259,td,Community,n
+291,259,td,Calendar,n
+293,259,td,Today's Posts,n
+295,259,td,Search,n
+297,259,td,Log in,n
+300,227,div,,n
+303,300,tr,Community Links,n
+306,300,tr,Social Groups,n
+309,300,tr,Pictures and Albums,n
+312,300,tr,Members List,n
+315,300,tr,Meet the Mods,n
+318,300,tr,Meet the Advisors,n
+321,300,tr,Signup,n
+322,227,div,,n
+324,322,table,,n
+327,324,tr,Search Forums,n
+340,324,div,,n
+343,340,label,Show Threads,n
+346,340,label,Show Posts,n
+349,324,tr,Tag Search,n
+358,322,table,,n
+361,358,tr,Google Custom Search,n
+371,358,tr,Search Links,n
+387,358,tr,Search Gallery,n
+405,227,div,Go to Page...,n
+414,227,table,,n
+415,414,td,,n
+449,415,table,,n
+453,449,div,This discussion is proudly sponsored by,n
+459,449,span,Please support our sponsors and let them know you heard about their products on Cruisers Forums. Advertise Here,n
+463,415,table,,n
+467,463,td,Thread Tools,n
+469,463,td,Search this Thread,n
+472,463,span,Rate Thread,n
+474,463,td,Display Modes,n
+475,415,div,,n
+478,475,div,,n
+479,478,tr,,n
+481,479,td,"-2017, 15:00",n
+485,479,strong,1,n
+504,478,tr,,n
+507,504,div,Equipment list,n
+509,504,div,,n
+510,509,text,"So here is my list of what I want to outfit her with. Looking for suggestions. Keep in mind I'm on a budget , she's not a large boat and again I'm on a budget .",n
+519,509,br,Nav or Sonar and electronics,y
+524,509,br,Hummingbird Helix 5 vs Garmin Echomap CHIRP vs Simrad Go7 XSE,y
+530,509,br,Lsatphone2 vs Iridium 9575 Extreme,y
+535,509,br,ICOM M324G vhf with GPS,y
+541,509,br,Shakespeare 5400-XT antenna,y
+545,509,br,3x ALL POWER 100w solar panels,y
+549,509,br,2x marine batteries,y
+553,509,br,Katadyn survival 35 desalinator,y
+556,509,br,12v 2000 gph bilge pump,y
+560,509,br,Emergency,y
+564,509,br,First aid fully loaded,y
+566,509,br,Echomax solar still desalinator,y
+570,509,br,Revere offshore life raft 6 person,y
+574,509,br,Paratech sea anchor 8000lbs 25',y
+579,509,br,Not sure if I'm leaving anything out. But that's what is on my list right now. What I'm looking for is advice on a better navigation system with route planning. Also not sure if anyone has any tips on sat phone or companies to go with.,n
+590,509,br,I was considering iPad with Navionics+ but I was looking at internet prices but I have yet to find an affordable one.,n
+603,475,div,,n
+604,603,tr,,n
+606,604,td,"-2017, 15:18",n
+610,604,strong,2,n
+634,603,div,,n
+635,634,text,"If you are on a budget, OpenCpn on a laptop with CM93 world charts is good for route planning, etc.",n
+646,634,br,"If it were me, I'd sell the manual watermaker and get a real one. Hanging out on a remote Tuamotus atoll is one of the great treats of SP.",n
+653,634,br,"I assume you have other gear , such as snorkel gear , chain rode with a serious anchor and windlass , a functional dinghy , ....",n
+675,475,div,,n
+676,675,tr,,n
+678,676,td,"-2017, 15:20",n
+682,676,strong,3,n
+683,675,tr,,n
+684,683,td,,n
+686,684,div,cyan,n
+690,684,div,,n
+693,690,div,Join Date,n
+695,690,div,Posts,n
+702,683,div,,n
+709,702,div,,n
+713,709,div,Paul L,n
+714,709,div,,n
+715,714,text,I,n
+717,714,br,"I assume you have other gear, such as snorkel gear, chain rode with a serious anchor and windlass , a functional dinghy , ....",n
+726,702,text,...Fishing gear.,n
+736,475,div,,n
+738,736,td,"-2017, 15:42",n
+742,736,strong,4,n
+781,475,div,,n
+783,781,h3,LATEST VIDEOS,n
+787,781,div,,n
+802,787,div,Auto,n
+823,787,div,More Videos,n
+827,787,div,,n
+829,827,span,18 seconds,n
+831,827,span,Volume 0%,n
+832,787,div,,n
+835,832,span,keyboard shortcuts,n
+836,832,div,,n
+837,836,div,,n
+839,837,span,Keyboard Shortcuts,n
+840,837,button,,n
+843,840,span,Enabled,n
+845,840,span,Disabled,n
+847,836,div,,n
+848,847,div,,n
+850,848,span,Play or Pause,n
+852,848,span,SPACE,n
+853,847,div,,n
+855,853,span,Increase Volume,n
+857,853,span,↑,n
+858,847,div,,n
+860,858,span,Decrease Volume,n
+862,858,span,↓,n
+863,847,div,,n
+865,863,span,Seek Forward,n
+867,863,span,→,n
+868,847,div,,n
+870,868,span,Seek Backward,n
+872,868,span,←,n
+873,847,div,,n
+875,873,span,Captions On or Off,n
+877,873,span,c,n
+878,847,div,,n
+880,878,span,Fullscreen or Exit Fullscreen,n
+882,878,span,f,n
+883,847,div,,n
+885,883,span,Mute or Unmute,n
+887,883,span,m,n
+890,847,div,Seek %,n
+894,787,div,,n
+908,894,div,,n
+910,908,div,Next Up,n
+912,908,div,Lykenikg-33313551,n
+914,908,div,33:33,n
+934,894,div,,n
+963,934,span,This ad will end in 17,n
+965,934,div,Live,n
+967,934,div,00:01,n
+969,934,div,00:16,n
+971,934,div,00:18,n
+991,475,div,,n
+992,991,tr,,n
+994,992,td,"-2017, 17:12",n
+998,992,strong,5,n
+999,991,tr,,n
+1000,999,td,,n
+1003,1000,div,Paul Elliott,n
+1010,1000,div,,n
+1013,1010,div,Join Date,n
+1015,1010,div,Posts,n
+1017,1010,div,Images,n
+1020,999,td,,n
+1025,1020,div,,n
+1038,1025,div,I usually use an 8lb fluke but never had a windlass before. Have always just pulled her up.,n
+1039,1025,text,"How big is your boat ? South Pacific anchorages are often deep, with coral and sharp rubble, so a long anchor chain is desirable. And there are better-suited anchors than a fluke or Danforth. But I've seen the locals anchor using a welded rebar grappling hook, so don't obsess about it too much.",n
+1047,1020,div,,n
+1050,1047,br,"Paul Elliott, S or V VALIS - Pacific Seacraft 44 #16 - Friday Harbor, WA",n
+1052,1047,br,www.sailvalis.com,n
+1061,475,div,,n
+1062,1061,tr,,n
+1064,1062,td,"-2017, 17:19",n
+1068,1062,strong,6,n
+1115,1061,div,"You will need to upgrade your anchor gear for the SP, assuming your boat is larger than a small kayak . As Paul E said many SP anchorages are deep and you have no choice in many areas but to anchor near coral bommies. A rope anchor rode would not let me sleep at night.",n
+1133,475,div,,n
+1134,1133,tr,,n
+1136,1134,td,"-2017, 18:46",n
+1140,1134,strong,7,n
+1164,1133,div,,n
+1165,1164,text,Okay. I could always switch anchors if your have a better suggestion for what I should use. Right now my anchor is nylon rope with a chain end. I believe the chain is around 6' in length. The boat is a 23' Grampian . Nothing fancy but I think she can make the journey. Will be a bit crampt but I'll make due.,n
+1172,1164,br,I can look into a windlass if I upgraded to a larger anchor or longer chain. However my only concerns are if I start adding more electrical needs my battery bank grows. I'm still trying to sort my electrical needs and replenishing capabilities as it is.,n
+1181,1164,br,Right now I have 2 deep cycle agm 100ah batteries and 3x 100w solar panels . I was considering investing in a turbine for days where there will be little sun. However people spoke against them especially on such a small boat . I'm also still trying to figure out if I'll be able to run a small fridge or if that is going to drain me too fast. All in all I only have about 1560lbs to work with for adding weight before I start going into the danger zone. I still have myself to deduct from that weight.,n
+1202,475,div,,n
+1203,1202,tr,,n
+1205,1203,td,"-2017, 19:14",n
+1209,1203,strong,8,n
+1233,1202,div,,n
+1234,1233,text,"There are manual windlasses available. Since you aren't going to have a giant anchor, if you are feeling strong then haul it by hand. You will require much more chain and a more significant anchor than what you have. Get a new gen anchor like a Spade, Manson, Rocna , ....",n
+1238,1233,br,Lifting a chain rode single handed by hand in 25kt tradewinds can be a real challenge. Especially when you are surrounded by bommies.,n
+1242,1233,br,"Not sure where you are used to anchoring , but you will experience significant depths in the SP. It is not an option to head close based on your draft . The depths are throughout the anchorage then jump to a 6in. deep reef.",n
+1258,475,div,,n
+1259,1258,tr,,n
+1261,1259,td,"-2017, 19:46",n
+1265,1259,strong,9,n
+1266,1258,tr,,n
+1267,1266,td,,n
+1269,1267,div,wholybee,n
+1273,1267,div,,n
+1279,1273,br,Boat,n
+1276,1273,div,Join Date,n
+1278,1273,div,Location,n
+1282,1273,div,Posts,n
+1290,1266,div,"Handheld VHF , handheld GPS , EPIRB . Storm Sails .",n
+1317,475,div,,n
+1318,1317,tr,,n
+1320,1318,td,"-2017, 20:28",n
+1324,1318,strong,10,n
+1325,1317,tr,,n
+1326,1325,td,,n
+1329,1326,div,JPA Cate,n
+1335,1326,div,,n
+1341,1335,br,Boat,n
+1338,1335,div,Join Date,n
+1340,1335,div,Location,n
+1344,1335,div,Posts,n
+1346,1325,td,,n
+1352,1346,div,"Friends went round the world in a 26 foot boat, with a vhf and a depth sounder as the only electronics . Paper charts and sextant for navigation . If you look around, there are probably heaps of paper charts ready to go to the dumpster due to the popularity of chart plotters. Store the paper charts flat, in giant trash bags for ""raincoats,"" under the cushion of the V-berth, or folded in half under another berth cushion. Possibly, if you have a quarter berth, that might be the driest place.",n
+1381,1346,div,Who scorns the calm has forgotten the storm.,n
+1387,475,div,,n
+1388,1387,tr,,n
+1390,1388,td,"-2017, 21:15",n
+1394,1388,strong,11,n
+1395,1387,tr,,n
+1396,1395,td,,n
+1398,1396,div,gjordan,n
+1402,1396,div,,n
+1405,1402,div,Join Date,n
+1407,1402,div,Posts,n
+1415,1395,div,"Your 8 lb anchor with 6 foot of chain is a nice little anchor to row out if needed to keep you from swinging or to use as a stern anchor to keep your bow into the swell so you dont roll all night, but as your main anchor it is way too small. I am a big fan of all chain, but your boat is so light that the weight would effect the sailing too much. 75 to 100 foot of 1 or 4 inch chain and the rest nylon will give you enough chain to never have the nylon against the bottom and yet not be too heavy to handle. A windlass would be nice, but the weight and cost would be more than you might want. A ""chain stopper"" that allows you to pull chain, but doesnt let it slip back out while you are raising the hook will probably work fine and is lighter and less money . You really should carry a third anchor and rode since loosing an anchor is not unusual and only having one is a pain. You dont say where you are located, but swap meets and Craigslist are the budget cruisers friend. Good luck. ____Grant.",n
+1428,475,div,,n
+1429,1428,tr,,n
+1431,1429,td,"-2017, 03:51",n
+1435,1429,strong,12,n
+1459,1428,div,,n
+1466,1459,div,,n
+1470,1466,div,JPA Cate,n
+1472,1466,div,"Friends went round the world in a 26 foot boat, with a vhf and a depth sounder as the only electronics. Paper charts and sextant for navigation. If you look around, there are probably heaps of paper charts ready to go to the dumpster due to the popularity of chart plotters. Store the paper charts flat, in giant trash bags for ""raincoats,"" under the cushion of the V-berth, or folded in half under another berth cushion. Possibly, if you have a quarter berth, that might be the driest place.",n
+1490,1459,text,Thanks,n
+1493,1459,br,https,n
+1496,1459,br,I'll definitely be bringing a few paper charts in case electronics fail. I also have Cornell's Ocean Atlas: Pilot Charts volume 2 coming end of January as a reference book. As well as a series of other reference books on my kindle with a usb solar panel charger . Trying to take every precaution.,n
+1508,475,div,,n
+1509,1508,tr,,n
+1511,1509,td,"-2017, 03:59",n
+1515,1509,strong,13,n
+1539,1508,div,,n
+1546,1539,div,,n
+1550,1546,div,gjordan,n
+1552,1546,div,"Your 8 lb anchor with 6 foot of chain is a nice little anchor to row out if needed to keep you from swinging or to use as a stern anchor to keep your bow into the swell so you dont roll all night, but as your main anchor it is way too small. I am a big fan of all chain, but your boat is so light that the weight would effect the sailing too much. 75 to 100 foot of 1 or 4 inch chain and the rest nylon will give you enough chain to never have the nylon against the bottom and yet not be too heavy to handle. A windlass would be nice, but the weight and cost would be more than you might want. A ""chain stopper"" that allows you to pull chain, but doesnt let it slip back out while you are raising the hook will probably work fine and is lighter and less money. You really should carry a third anchor and rode since loosing an anchor is not unusual and only having one is a pain. You dont say where you are located, but swap meets and Craigslist are the budget cruisers friend. Good luck. ____Grant.",n
+1553,1539,text,"I looked into a chain stopper. I think for manually lifting that might be a better solution. I could only find one manual winch and it ran about $1000. I could shop around scrap boatyards and see if any have one I could snag but unlikely. The 1 or 4"" chain stopper is reasonably priced. Would I stay around an 8-10lb anchor or upgrade to a 16lb? I estimate the chain at about 73lbs which is going to hurt but if you say that's what it takes to anchor safely. How much nylon should I run for that? Also would I be pulling all that on deck and securing it or is there a better option?",n
+1563,475,div,,n
+1564,1563,tr,,n
+1566,1564,td,"-2017, 04:12",n
+1570,1564,strong,14,n
+1594,1563,div,,n
+1607,1594,div,"I looked into a chain stopper. I think for manually lifting that might be a better solution. I could only find one manual winch and it ran about $1000. I could shop around scrap boatyards and see if any have one I could snag but unlikely. The 1 or 4"" chain stopper is reasonably priced. Would I stay around an 8-10lb anchor or upgrade to a 16lb? I estimate the chain at about 73lbs which is going to hurt but if you say that's what it takes to anchor safely. How much nylon should I run for that? Also would I be pulling all that on deck and securing it or is there a better option?",n
+1612,1594,text,"Check the anchor manufacturers sizing charts. When in doubt, go up one size.",n
+1614,1594,br,https,n
+1616,1594,br,Sizing Guide | Rocna Anchors or or Rock Solid,n
+1626,475,div,,n
+1627,1626,tr,,n
+1629,1627,td,"-2017, 04:18",n
+1633,1627,strong,15,n
+1657,1626,div,,n
+1664,1657,div,,n
+1668,1664,div,wholybee,n
+1670,1664,div,"Handheld VHF, handheld GPS, EPIRB . Storm Sails .",n
+1685,1657,text,I am going through the list now. I Will add a handheld vhf in my gear. I've decided for cost at least this trip I am going to go with the Iridium Go and use it with my laptop or phone to get weather alerts as well as have an emergency line to shore. I'll also have the fixed vhf which gives gps as a backup so I can do manual chart plots. I'll maybe grab the handheld Garmin GPS since it's in my budget and keep it along with the handheld vhf with my ditch bag.,n
+1696,1657,br,Not sure about storm sails. It looks like a daunting task setting them up especially on such a small boat with not a lot of room to maneuver the deck. I've seen larger boats setting them up with multiple manned crews take 20 minutes. I'm not sure how long it would take on a smaller boat like mine by myself. I'm still kind of leaning towards just reefing my main sail. Do one reef at night to be safe and she can do up to three. I could have a forth reef line added on it which would make it about the size of a storm sail. Again I'm open to opinions on that.,n
+1733,415,table,,n
+1736,1733,tr,Tags,n
+1739,1733,tr,"equipment , men",n
+1743,415,div,,n
+1745,1743,strong,«,n
+1746,1743,text,IC-R30 Communications Receiver | OpenCPN GPX -> Raymarine Axiom,n
+1755,415,div,,n
+1758,1755,tr,Thread Tools,n
+1761,1755,tr,Show Printable Version,n
+1764,415,div,,n
+1767,1764,tr,Display Modes,n
+1771,1764,strong,Linear Mode,n
+1774,1764,tr,Switch to Hybrid Mode,n
+1777,1764,tr,Switch to Threaded Mode,n
+1784,415,div,Search this Thread,n
+1800,415,div,,n
+1803,1800,tr,Rate This Thread,n
+1805,1800,tr,,n
+1809,1805,div,Excellent,n
+1813,1805,div,Good,n
+1817,1805,div,Average,n
+1821,1805,div,Bad,n
+1825,1805,div,Terrible,n
+1838,415,table,,n
+1842,1838,thead,Posting Rules,n
+1846,1838,div,,n
+1851,1846,div,post new threads,n
+1856,1846,div,post replies,n
+1861,1846,div,post attachments,n
+1866,1846,div,edit your posts,n
+1869,1846,div,BB code is,n
+1874,1846,div,Smilies are,n
+1879,1846,div,code is,n
+1884,1846,div,HTML code is,n
+1888,1846,div,Trackbacks are,n
+1893,1846,div,Pingbacks are,n
+1898,1846,div,Refbacks are,n
+1904,1846,div,Forum Rules,n
+1911,415,table,,n
+1915,1911,thead,Similar Threads,n
+1916,1911,tbody,,n
+1917,1916,tr,,n
+1919,1917,td,Thread,n
+1921,1917,td,Thread Starter,n
+1923,1917,td,Forum,n
+1925,1917,td,Replies,n
+1927,1917,td,Last Post,n
+1928,1916,tr,,n
+1931,1928,span,Radio signal list - E Pacific,n
+1934,1928,span,roland stockham,n
+1937,1928,span,Marine Electronics,n
+1940,1928,span,11,n
+1942,1928,span,,n
+1943,1942,text,-2016,n
+1945,1942,span,09:12,n
+1946,1916,tr,,n
+1948,1946,span,,n
+1950,1948,span,Crew Available,n
+1951,1948,text,Pacific Crossing - North America to S. Pacific or Australia or NZ,n
+1954,1946,span,Melissail,n
+1957,1946,span,Crew Archives,n
+1960,1946,span,7,n
+1962,1946,span,,n
+1963,1962,text,-2011,n
+1965,1962,span,20:03,n
+1966,1916,tr,,n
+1969,1966,span,Solar and Wind Charging Equipment List,n
+1972,1966,span,SV Demeter,n
+1975,1966,span,Electrical,n
+1978,1966,span,26,n
+1980,1966,span,,n
+1981,1980,text,-2010,n
+1983,1980,span,09:53,n
+1984,1916,tr,,n
+1987,1984,span,S. Pacific Waypoints List,n
+1990,1984,span,GordMay,n
+1993,1984,span,Pacific and South China Sea,n
+1996,1984,span,2,n
+1998,1984,span,,n
+1999,1998,text,-2008,n
+2001,1998,span,15:45,n
+2002,1916,tr,,n
+2005,2002,span,Crossing the Pacific in 2006,n
+2008,2002,span,Tom and Bette,n
+2011,2002,span,General Sailing Forum,n
+2014,2002,span,0,n
+2016,2002,span,,n
+2017,2016,text,-2005,n
+2019,2016,span,17:33,n
+2022,414,td,,n
+2023,2022,text,Advertise Here,n
+2029,2022,div,,n
+2034,2029,strong,Recent Discussions,n
+2035,2029,tbody,,n
+2039,2035,div,yellow flag thru Turks and Caicos...,n
+2043,2035,div,USCG Search,n
+2047,2035,div,New design performance catamarans...,n
+2051,2035,div,Missing boat in North Carolina...,n
+2055,2035,div,Organizing Nav Objects into Layers,n
+2059,2035,div,Volvo DVibration,n
+2063,2035,div,How to properly connect or join two...,n
+2067,2035,div,remote jobs ideas from a boat,n
+2071,2035,div,Removing steering wheel,n
+2075,2035,div,Yanmar SB8 injector pump issue,n
+2079,2035,div,What would you do with a ...,n
+2083,2035,div,Replacing a rib with a hard dinghy,n
+2089,2022,div,,n
+2094,2089,strong,Vendor Spotlight,n
+2095,2089,tbody,,n
+2099,2095,div,Excess Solar Panel Inventory Sale,n
+2103,2095,div,1990 AldenPrice Reduction...,n
+2107,2095,div,MANTUS MARINE GIVEAWAY -...,n
+2111,2095,div,ICW Quick Reference,n
+2115,227,div,,n
+2116,2115,text,All times are GMT -7. The time now is,n
+2118,2115,span,18:48,n
+2119,2115,text,.,n
+2121,3,form,,n
+2124,2121,table,,n
+2127,2124,td,,n
+2129,2127,option,-- Cruisers Forum v2.0,n
+2131,2127,option,-- Cruisers Forum v1.0,n
+2133,2127,option,-- Mobile,n
+2137,2124,div,Contact Us - Cruisers and Sailing Forums - Sitemap - Community Rules - Terms of Service - Privacy - Accessibility - Top,n
+2153,2121,br,Google+,n
+2171,3,div,,n
+2173,2171,div,close,n
+2175,2171,div,,n
+2178,2175,span,Enter your Email,n
+2185,2175,p,"Privacy Guaranteed - your email is never shared with anyone, opt out any time.",n
+2191,0,div,"ShowCase vBulletin Plugins by Drive Thru Online, Inc.",n
+2199,0,div,×,n
+2202,0,div,An Elite CafeMedia Lifestyle Publisher,n

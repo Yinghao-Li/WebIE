@@ -1,0 +1,393 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,form,,n
+22,5,h1,Interior Design,n
+26,5,div,,n
+30,26,div,,n
+31,30,text,What to Study > Programs >,n
+36,30,span,Interior Design,n
+47,26,div,,n
+48,47,div,,n
+50,48,h2,Degrees or certificates at a glance,n
+52,48,div,,n
+53,52,div,,n
+56,53,p,Associate in Applied Science - Interior Design,n
+59,53,div,,n
+62,59,p,Program Length,n
+65,59,p,6 quarters,n
+66,52,div,,n
+69,66,p,Associate in Applied Science-Transfer - Interior Design,n
+72,66,div,,n
+75,72,p,Start Quarter,n
+78,72,p,Fall,n
+83,52,div,,n
+86,83,p,Location,n
+89,83,p,Spokane Falls Community College,n
+94,52,div,,n
+97,94,p,Financial Aid Eligible,n
+100,94,p,Yes. Read more about Financial Aid .,n
+105,48,h2,Associate in Applied Science - Interior Design,n
+110,47,div,,n
+111,110,ul,,n
+113,111,li,Overview,n
+115,111,li,Careers and Opportunities,n
+117,111,li,Program Map,n
+119,111,li,Program Requirements,n
+121,111,li,What to Expect to Pay,n
+123,111,li,Meet the Faculty and Staff,n
+125,111,li,Special Application Requirements,n
+127,111,li,Contact Us,n
+128,110,div,,n
+130,128,div,,n
+132,130,p,"If you are imaginative and enjoy creating beautiful indoor spaces, a career as an interior designer could be a perfect fit.",n
+134,130,p,"In this program, you’ll learn to blend creativity with technical elements to design residential and commercial interiors. Courses in both science and art—combined with hands-on practice in the studio— will build your professional skills in problem solving, drawing, textiles and materials, sustainable design practices, computer-aided design and other areas essential for success in the field",n
+136,130,p,"Whether you want to continue your education at a four-year institution—or you plan to enter the field immediately—a degree from this program will help prepare you for opportunities in interior design and architecture firms, home improvement stores, furniture stores, specialty design shops and other organizations in the industry.",n
+139,128,div,,n
+153,139,div,,n
+156,153,div,,n
+158,156,strong,Furniture Finishers,n
+159,156,text,"- Shape, finish, and refinish damaged, worn, or used furniture or new high-grade furniture to specified color or finish.",n
+192,153,div,$15.55,n
+199,153,div,"$32,349.56",n
+202,153,div,,n
+213,202,div,,n
+218,213,tr,157.654,n
+223,213,tr,369.965,n
+228,213,tr,349.561,n
+233,213,tr,241.299,n
+238,213,tr,441.397,n
+240,202,div,$70.4 K - Senior,n
+248,153,div,7,n
+255,153,div,50,n
+263,153,div,14%,n
+277,139,div,,n
+280,277,div,,n
+282,280,strong,Interior Designers,n
+283,280,text,"- Plan, design, and furnish the internal space of rooms or buildings. Design interior environments or create physical layouts that are practical, aesthetic, and conducive to the intended purposes. May specialize in a particular field, style, or phase of interior design.",n
+316,277,div,$24.64,n
+323,277,div,"$51,274.83",n
+326,277,div,,n
+337,326,div,,n
+342,337,tr,757.399,n
+347,337,tr,654.55,n
+352,337,tr,274.83,n
+357,337,tr,374.72,n
+362,337,tr,213.009,n
+364,326,div,$179.2 K - Senior,n
+372,277,div,22,n
+379,277,div,155,n
+387,277,div,8%,n
+401,139,div,,n
+404,401,div,,n
+406,404,strong,Project Management Specialists,n
+407,404,text,"- Analyze and coordinate the schedule, timeline, procurement, staffing, and budget of a product or service on a per project basis. Lead and guide the work of technical staff. May serve as a point of contact for the client or customer.",n
+440,401,div,$32.99,n
+447,401,div,"$68,631.95",n
+450,401,div,,n
+461,450,div,,n
+466,461,tr,820.006,n
+471,461,tr,118.599,n
+476,461,tr,631.954,n
+481,461,tr,955.744,n
+486,461,tr,795.816,n
+488,450,div,$112.8 K - Senior,n
+496,401,div,353,n
+503,401,div,710,n
+511,401,div,5%,n
+525,139,div,,n
+528,525,div,,n
+530,528,strong,Wholesale and Manufacturing Sales Representatives,n
+531,528,text,- Sell goods for wholesalers or manufacturers to businesses or groups of individuals. Work requires substantial knowledge of items sold.,n
+564,525,div,$27.15,n
+571,525,div,"$56,489.81",n
+574,525,div,,n
+585,574,div,,n
+590,585,tr,186.143,n
+595,585,tr,926.184,n
+600,585,tr,489.814,n
+605,585,tr,707.449,n
+610,585,tr,577.016,n
+612,574,div,$117.6 K - Senior,n
+620,525,div,400,n
+627,525,div,399,n
+635,525,div,4%,n
+649,139,div,,n
+652,649,div,,n
+654,652,strong,Set and Exhibit Designers,n
+655,652,text,"- Design special exhibits and sets for film, video, television, and theater productions. May study scripts, confer with directors, and conduct research to determine appropriate architectural styles.",n
+678,649,div,a Master's or Professional degree,n
+688,649,div,$18.55,n
+695,649,div,"$38,584.43",n
+698,649,div,,n
+709,698,div,,n
+714,709,tr,127.248,n
+719,709,tr,115.215,n
+724,709,tr,584.43,n
+729,709,tr,373.379,n
+734,709,tr,538.357,n
+736,698,div,$151.5 K - Senior,n
+744,649,div,6,n
+751,649,div,59,n
+759,649,div,8%,n
+763,128,div,,n
+766,763,p,"You and your advisor will use this program map as a starting point in creating your own personal education plan, customized to your needs. We meet you where you are and help you reach your goals.",n
+768,763,div,,n
+771,768,h3,Program Map for,n
+774,768,div,Print or Download,n
+775,768,p,,n
+776,775,text,Choose program map,n
+778,775,select,,n
+780,778,option,Interior Design AAS map,n
+782,778,option,Interior Design AAS-T map,n
+787,763,div,,n
+790,787,p,Total Credits,n
+793,787,div,,n
+795,793,div,,n
+797,795,h2,First Quarter,n
+806,795,div,,n
+807,806,div,,n
+809,807,div,ART 101,n
+811,807,div,Drawing,n
+814,806,div,,n
+816,814,div,ENGL and 101,n
+818,814,div,English Composition I,n
+821,806,div,,n
+823,821,div,INTDS 170,n
+825,821,div,Introduction to Interior Design,n
+828,806,div,,n
+830,828,div,INTDS 173,n
+832,828,div,Drafting,n
+845,793,div,,n
+847,845,h2,Second Quarter,n
+856,845,div,,n
+857,856,div,,n
+859,857,div,BUS 123,n
+861,857,div,Practical Business Math Applications,n
+864,856,div,,n
+866,864,div,INTDS 106,n
+868,864,div,Sketching or Rendering,n
+871,856,div,,n
+873,871,div,INTDS 184,n
+875,871,div,Drawing Communication,n
+878,856,div,,n
+880,878,div,INTDS 280,n
+882,878,div,Textiles,n
+895,793,div,,n
+897,895,h2,Third Quarter,n
+906,895,div,,n
+907,906,div,,n
+909,907,div,CMST and 220,n
+911,907,div,Public Speaking,n
+914,906,div,,n
+916,914,div,INTDS 175,n
+918,914,div,Interior Design,n
+921,906,div,,n
+923,921,div,INTDS 285,n
+925,921,div,Computer Aided Design I,n
+935,895,div,14,n
+938,793,div,,n
+940,938,h2,Fourth Quarter,n
+949,938,div,,n
+950,949,div,,n
+952,950,div,INTDS 171,n
+954,950,div,Interior Design Studio I,n
+957,949,div,,n
+959,957,div,INTDS 185,n
+961,957,div,Building Systems or Lighting,n
+964,949,div,,n
+966,964,div,INTDS 286,n
+968,964,div,Computer Aided Design II,n
+978,938,div,15,n
+981,793,div,,n
+983,981,h2,Fifth Quarter,n
+992,981,div,,n
+993,992,div,,n
+995,993,div,INTDS 172,n
+997,993,div,Interior Design Studio II,n
+1000,992,div,,n
+1002,1000,div,INTDS 179,n
+1004,1000,div,Interiors I,n
+1007,992,div,,n
+1009,1007,div,INTDS 294,n
+1011,1007,div,Adobe,n
+1021,981,div,13,n
+1024,793,div,,n
+1026,1024,h2,Sixth Quarter,n
+1035,1024,div,,n
+1036,1035,div,,n
+1038,1036,div,INTDS 176,n
+1040,1036,div,Interior Design Studio III,n
+1043,1035,div,,n
+1045,1043,div,INTDS 180,n
+1047,1043,div,Interiors II,n
+1050,1035,div,,n
+1052,1050,div,INTDS 268,n
+1054,1050,div,Design Portfolio,n
+1057,1035,div,,n
+1059,1057,div,INTDS 275,n
+1061,1057,div,Professional Practices,n
+1074,128,div,,n
+1076,1074,p,"You and your advisor will use the Program Map located on this page to create a personal education plan customized to your interests and goals, your start quarter, full- or part-time status, any prior credits you have, and the classes available each quarter.",n
+1078,1074,p,"For an up-to-date list of all classes that satisfy the requirements for your degree or certificate, click here , then select the specific degree or certificate you are pursuing.",n
+1083,128,div,,n
+1084,1083,ul,,n
+1087,1084,li,Tuition,n
+1088,1084,li,,n
+1091,1088,h4,Resident,n
+1095,1088,div,686,n
+1096,1084,li,,n
+1099,1096,h4,Non-Resident,n
+1103,1096,div,730,n
+1104,1084,li,,n
+1107,1104,h4,International,n
+1111,1104,div,638,n
+1112,1084,li,,n
+1115,1112,h4,Max. Books,n
+1119,1112,div,942,n
+1120,1084,li,,n
+1123,1120,h4,Max. Course Fees,n
+1127,1120,div,558,n
+1128,1084,li,,n
+1131,1128,h4,Institutional Fees,n
+1135,1128,div,511,n
+1139,1083,h5,,n
+1140,1139,text,completing the program.,n
+1141,1139,span,,n
+1143,1141,span,More details,n
+1145,1141,div,,n
+1146,1145,text,"All dollar figures appearing below reflect the total cost of completing the program described by the Typical Student Schedule located on this web page, which are for the current graduation requirements of this program. Exact totals may vary depending on the catalog requirements you are following, if you have transferred in courses, or if you have been granted substitutions.",n
+1149,1145,br,"Tuition, program fees, and course fees are for the current academic year, as approved by the Community Colleges of Spokane Board of Trustees. Tuition and fees are subject to change by the Washington State Legislature and or or the Community Colleges of Spokane Board of Trustees.",n
+1152,1145,br,"Resident is what Washington residents pay. Non-Resident tuition is what out-of-state students pay. International tuition is what out-of-country students pay. For clarification on residency, see Determining your Residency Status .",n
+1154,1145,strong,tuition,n
+1162,1145,br,$942,n
+1161,1145,strong,Avg. Books and Supplies,n
+1164,1145,br,The cost for books and course-related material is an estimate based on the Washington Financial Aid Association’s annual student budget . The actual cost of textbooks and course-related supplies can vary widely depending on your program of study and the options you have for obtaining textbooks and other course material.,n
+1171,1145,br,"are one-time costs required for the program that are not included in course fees or in tuition. These fees include things like tools, equipment, and uniforms. Only a few programs have program fees.",n
+1170,1145,strong,Program Fees,n
+1176,1145,br,cover the cost of special equipment and materials needed to complete coursework. These fees are not included in tuition. Not all courses have fees and the actual costs that a student pays will vary depending on the courses taken.,n
+1175,1145,strong,Max. Course Fees,n
+1181,1145,br,"cover a variety of services for students, such as class registration, technology support, health clinic services, bus passes, and more. Most of these fees are instituted after a vote by the student body.",n
+1180,1145,strong,Institutional Fees,n
+1182,128,div,,n
+1193,1182,li,,n
+1197,1193,br,Vpa Pathway Specialist,n
+1212,1193,p,"joined the staff at SFCC in December 2016, shortly after moving to Spokane with her family. She has a broad range of experience in education and the arts; she has worked as a cultural and natural resource interpretive ranger for the National Park Service in New Mexico and Arizona, taught art and environmental education in Colorado and Western Washington, and managed museum education programming for school and family audiences. Heather is an artist, a gardener, a bit of a bookworm, and a cargo bike nerd. She is happy to be serving as a Guided Pathways Curriculum Advisor in the Visual, Performing, and Applied Arts Pathway.",n
+1220,1182,ul,,n
+1223,1220,li,,n
+1225,1223,strong,Margot Casstevens,n
+1229,1223,br,Margot.Casstevens@sfcc.spokane.edu,n
+1231,1223,br,-3705,n
+1240,1223,p,"Margot Casstevens joined the faculty at Spokane Falls Community College in 2009 and teaches design drawing, sketching, and rendering techniques. She received her BFA in drawing and printmaking from Washington University in St. Louis and her MFA in printmaking and sculpture from the University of South Florida. Her work has been shown both nationally and internationally. She and her husband own Punctum Studios.",n
+1244,1220,li,,n
+1246,1244,strong,Sunshine Giesler,n
+1250,1244,br,Sunshine.Giesler@sfcc.spokane.edu,n
+1252,1244,br,-3621,n
+1258,1244,div,,n
+1261,1258,p,Sunshine Giesler joined the faculty at Spokane Falls Community College in 2021 and teaches a variety of courses including hand drafting and CAD.,n
+1263,1258,p,Sunshine earned her Masters of Interior Design from WSU in 2008. She was the director of the interior design program at Monterey Peninsula College from 2008-16 and loved her time there. She currently practices interior design using primarily an e-design format with her firm Sunshine and Lew Interior Design.,n
+1267,1220,li,,n
+1269,1267,strong,Bonnie Glantz,n
+1271,1267,br,Dean Visual or Perform Arts,n
+1273,1267,br,Northern Iowa,n
+1275,1267,br,Bonnie.Glantz@sfcc.spokane.edu,n
+1277,1267,br,-3339,n
+1280,1267,div,Resources,n
+1284,1267,div,,n
+1287,1284,p,"Bonnie Glantz moved to Spokane to teach at SFCC in 2004 and subsequently fell in love with both the college and the Spokane area. In 2012, after 20 years teaching Spanish, Bonnie stepped up to interim dean to fill a vacancy. Much to her surprise, she found that she really enjoyed the job, so she applied and was offered the permanent dean position in 2013.",n
+1289,1284,p,"Bonnie’s favorite thing about the job is the opportunity make positive changes at the college and to take care of the faculty, staff, and students of the programs under her supervision . She loves that the job is complex and different every day, and she’s really proud of the work that is being done in the division.",n
+1291,1284,p,"She misses teaching Spanish, especially the daily contact with the students in the classroom, but fortunately has been “adopted” by the students, faculty, and staff in the Visual and Performing Arts.",n
+1295,1220,li,,n
+1301,1295,br,Deanna.Goguen@sfcc.spokane.edu,n
+1309,1295,div,,n
+1314,1309,p,– Interior Design Instructor,n
+1316,1309,p,"Deanna Goguen joined the faculty at Spokane Falls Community College in 2021 and teaches Adobe for Interior Design. Since earning her Master's of Arts or Interior Design degree from Washington State University, Deanna has successfully run her own firm - Designology Luxury Interiors. The studio specializes in high-end residential and retail projects, with clients all across the country.",n
+1318,1309,p,"When she is not working this Southern California transplant enjoys time with her family and her dog. She's an avid gardener, reader, and furniture flipper.",n
+1320,1309,p,"Her catchphrase is ""Make it designy!""",n
+1324,1220,li,,n
+1326,1324,strong,Tanja Huffman,n
+1328,1324,br,Interior Design,n
+1330,1324,br,"B.A., Washington State University",n
+1343,1324,p,"Tanja Huffman is the department chair and primary advisor for the interior design program. She joined the Spokane Falls Community College faculty in 2002 and teaches across the curriculum, including design studios, lighting design, materials and building systems. She is also a member of SFCC’s Facilities and Grounds Committee and the Academic Consulting Leadership Team.",n
+1347,1220,li,,n
+1349,1347,strong,Ann-Jeannette Seymour,n
+1353,1347,br,A.Seymour@sfcc.spokane.edu,n
+1361,1347,div,,n
+1364,1361,p,Ann-Jeannette Seymour re-joined the Interior Design faculty at Spokane Falls Community College in 2022. She has also taught at University of Idaho and was a Teacher’s Assistant at Washington State University. She earned her Masters of Arts in Interior Design from Washington State University in 2016.,n
+1366,1361,p,"Her design career ranges from directing retail design centers focused on kitchen and bath, high-end residential project management, commercial furniture design liaison for Starbucks, set design, private clients, flipping houses, theater renovations, teaching hand-technique skills, and being an architectural hand-rendering artist.",n
+1368,1361,p,"Outside of her design world and teaching she spends her time with family, urban sketches, performs improv, hikes, goes on spontaneous road trips, and is either watching or doing standup comedy!",n
+1385,128,div,,n
+1386,1385,p,,n
+1388,1386,strong,Pre-requisites,n
+1389,1386,text,No,n
+1393,1386,br,up to 22,n
+1392,1386,strong,students each start,n
+1397,1386,br,interiordesign@sfcc.spokane.edu,n
+1396,1386,strong,Contact,n
+1401,1386,br,"Applications begin spring quarter, open until filled",n
+1400,1386,strong,Applications deadline,n
+1402,1385,p,,n
+1404,1402,strong,Program Admission Process,n
+1406,1402,br,The Interior Design program is fall quarter entry and admits 20 students. The program is now full for the 2021-22 school year.,n
+1408,1402,br,Application to the program begins in spring and continues until filled. Early application is encouraged!,n
+1412,1402,br,Contact our Curriculum Advisor Heather Bellerud,n
+1411,1402,strong,Waiting,n
+1416,1402,br,"Our program is an open access program. As long as there are seats in the program and you have completed the admissions process, you will be admitted to the program. Historically, however, more students express interest in or apply to the program than there are seats available.",n
+1418,1402,br,the steps listed below.,n
+1419,1385,ol,,n
+1420,1419,li,,n
+1422,1420,p,Complete your online application,n
+1427,1420,li,"For assistance with admissions, call-4356",n
+1428,1419,li,,n
+1430,1428,p,Complete your online Bigfoot Orientation,n
+1434,1428,li,"Upon completing the application, you will receive the link",n
+1435,1419,li,,n
+1437,1435,p,Math and English Placement,n
+1438,1435,ul,,n
+1439,1438,li,,n
+1441,1439,p,Find out your placement in math and English,n
+1442,1439,ul,,n
+1445,1442,li,"Complete the free, online self-directed placement surveys",n
+1448,1442,li,OR submit high school transcripts if you’ve graduated within the past three years,n
+1451,1442,li,OR submit transcripts from prior college to be used,n
+1454,1438,li,your math or English placement to your interview,n
+1457,1438,li,For assistance with placement surveys email SFCC.NewStudentOrientation@sfcc.spokane.edu,n
+1459,1419,li,,n
+1461,1459,p,Send us an email at InteriorDesign@sfcc.spokane.edu to request admission into the program. Include,n
+1464,1459,ul,,n
+1467,1464,li,your name,n
+1470,1464,li,your student ID number,n
+1473,1464,li,your phone number,n
+1476,1464,li,which degree you are seeking,n
+1477,1385,p,,n
+1478,1477,text,"Once you are admitted to the program, you will receive a welcome email and instructions on how to register for your classes.",n
+1480,1477,br,"For assistance, you can always reach out to our faculty contact or our Curriculum Advisor. Please see above.",n
+1482,1477,strong,Contact,n
+1485,1477,br,Thank you,n
+1493,128,div,,n
+1494,1493,div,,n
+1496,1494,p,Have a question? Let's hear it.,n
+1498,1494,div,Apply to SFCC Now,n
+1500,1494,div,Request Info,n
+1502,1493,div,,n
+1505,1502,h4,Tanja Huffman,n
+1508,1502,p,Program Lead,n
+1513,1493,div,,n
+1516,1513,h4,Heather Bellerud,n
+1517,1513,p,,n
+1519,1517,strong,Pathways Specialist,n
+1525,1517,br,"Building 15, Room 106",n
+1530,5,div,,n
+1531,1530,section,,n
+1535,1531,div,Spokane - All rights reserved,n
+1537,1531,p,,n
+1538,1537,text,3410 W. Whistalks Way,n
+1540,1537,br,"Spokane, WA",n
+1545,1530,p,,n
+1546,1545,text,Accessibility,n
+1549,1545,text,Emergency Alert System,n
+1552,1545,text,Equal Opportunity Institution,n
+1555,1545,text,Online Catalog,n
+1558,1545,text,Privacy Policy,n
+1561,1545,text,Rule Making,n
+1564,1545,text,Right to Know,n
+1567,1545,text,Report a Website Problem,n

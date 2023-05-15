@@ -1,0 +1,71 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+8,0,div,,n
+49,8,div,,n
+51,49,section,,n
+52,51,section,,n
+55,52,h1,10 Travel Essentials to Pack in your Travel Bags,n
+57,52,div,,n
+62,57,div,Travel Hacks,n
+65,57,div,"Published Apr 06, 2021",n
+87,51,section,,n
+88,87,div,,n
+90,88,p,"Oh, the excitement of travelling! Destination decided, tickets booked, hotel booked, shopping done and the only thing left is to do the packing. Packing the bags before the trip is an exciting job for some, but others may struggle with it. You get your favourite clothes and the new ones you specially bought for this trip. The camera is a must. Well, the list of things to pack in your travel bag goes on.",n
+92,88,p,"Pack all you need on the trip, but you must not forget the essentials. It’s obvious that the travel essentials depend on your destination, but there are a few things you will need, doesn’t matter where you go.",n
+94,88,p,"We know how overwhelming holiday planning can get! So, to make it a tad easier, we made a travel essential list for you. Read on and happy packing!",n
+97,87,div,Shop and Earn Miles,n
+98,87,article,,n
+100,98,h3,Travel Wallet,y
+109,98,p,"It’s a good thing to be as organised as you can when you travel, to steer clear of the chaos! A travel wallet is just the right accessory you need. Use it to organise all your important documents, such as your Passport, AADHAR Card, travel tickets and the likes. Along with your documents, you can use them to store currencies, your credit cards , hotel key cards, and many other things that might come in handy. Don’t have a travel wallet? Order one from one of our many shopping partners , before your next trip.",n
+114,87,article,,n
+116,114,h3,clothes,y
+125,114,p,"While shopping for clothes for the trip, keep in mind the place you’re visiting. You will need different clothes for a destination covered with snow and for a destination filled with beaches. If you’re going somewhere cold, pack cardigans, sweaters and other winter clothes. On the other hand, if you’re visiting a beach, casual, light wears will do the job. Apart from the luggage that you check-in, carry a few clothing items in your cabin bag like a cardigan, hat, a couple of comfortable T-shirts, and shorts. It’s always better to be prepared just in case the airline loses your luggage or some other unfortunate incident happens.",n
+128,87,article,,n
+130,128,h3,Portable Charger and Charging Cords,y
+139,128,p,"This has to be one of the most important travel essentials. You wouldn’t want your tablet to die when you’re in the middle of an intense movie scene on the flight or train, would you? It would be even worse if you’re working while you travel or if your phone dies and all the travel information is on it. Also, no charge in your phone or camera means no pictures and you don’t want that! To avoid such issues, make sure to pack your chargers and a portable backup charger as well.",n
+140,87,article,,n
+142,140,h3,Toiletries,y
+151,140,p,"Keep a small set of toiletries in your carry-on bag like your toothbrush, toothpaste, dental floss and face wash. This way you won’t mess up your well-packed suitcase in public.",n
+152,87,article,,n
+154,152,h3,Medications,y
+163,152,p,"Now we all know how the saying goes, better safe than sorry! Make sure that you carry your prescription medicines along with some other medications just in case you feel under the weather due to a headache, stomach upset or any other issue. Better, make a small and portable first-aid box and carry it whenever you’re travelling.",n
+164,87,article,,n
+166,164,h3,"Sunscreen, Moisturiser and Lip Balm",y
+175,164,p,"When you’re travelling, sunscreen is one of the most important travel accessories. It will protect you from the harmful UV rays and keep your skin unharmed. If you’re travelling by air, apply some sunscreen during the flight as well, especially if you have got a window seat. Carry your moisturiser and lip balm along with the sunscreen, so that your skin stays moisturised and you look amazing in all your pictures.",n
+176,87,article,,n
+178,176,h3,Face Masks and Sanitisers,y
+187,176,p,"Considering the current scenario, we’ll have to wear face masks in public. You need to make sure that these masks are comfortable to wear for a long period of time. Along with these masks, don’t forget to carry a small bottle of sanitiser in your handbag as airports and railway stations receive a lot of people on a daily basis and it’s crucial for you to take care of your hygiene and wellbeing.",n
+188,87,article,,n
+190,188,h3,Entertainment,y
+199,188,p,"This might sound to some people like a very millennial thing, but don’t forget to pack your tablet, laptop or a book. You can’t keep staring out the window for the entire journey, can you? Long journeys tend to get boring, especially if they don’t come with an onboard entertainment system. Read your favourite book or watch a movie and even play games while you’re travelling to keep yourself entertained. Just imagine, you’re travelling on a train, it's raining outside and you’re reading Harry Potter- magical, isn't it?",n
+200,87,article,,n
+202,200,h3,Neck Pillow,y
+211,200,p,"You don’t want a bad neck pain while you’re on your trip, do you? Well, in that case, take a neck pillow with you. During a long wait before a flight or train, when you feel sleepy, this neck pillow will give you such comfort! What’s more, this U-shaped neck pillow is lightweight, so you can carry it easily. If this isn’t on the list of your travel essentials to buy, think twice!",n
+212,87,article,,n
+214,212,h3,Travel Pouch,y
+223,212,p,"This is one of the best travel accessories. You can fill up a travel pouch with the things mentioned above like extra face masks, sanitiser, sunscreen, moisturiser, lip balm, toiletries, and medicines. This way, you can get some weight off your backpack and wouldn’t even have to bother to get it from the cabin. You can also fill some snacks in it, just in case you feel hungry or want something to munch on as you enjoy your book or movie on the journey. Don’t forget to take these top 10 travel essentials along with you on your next holiday and have a great time!",n
+226,49,div,,n
+229,226,div,Get rewarded,n
+234,226,p,"Earn miles on every holiday, shopping spree, dinner and more.",n
+237,226,div,Earn Miles,n
+267,49,section,,n
+270,267,div,You Might Also Like,n
+272,267,div,,n
+286,272,h3,Gift Ideas,n
+303,272,h3,DIY Gifts For Your Mother To Show Them You Care,n
+307,272,article,,n
+320,307,h3,5 Unique Ways to Celebrate Mother's Day,n
+323,307,div,"Published May 04, 2022",n
+325,8,div,,n
+326,325,ul,,n
+328,326,li,About Us,n
+330,326,li,Careers,n
+332,326,li,Sitemap,n
+334,325,div,© Jet Privilege Pvt. Ltd. All Rights Reserved,n
+335,325,ul,,n
+337,335,li,Terms and Conditions,n
+339,335,li,Privacy Policy,n
+341,335,li,Disclaimer,n
+343,8,div,,n
+345,343,div,"By continuing to use the site, you are accepting our cookie and privacy policies.",n
+351,343,button,"Ok, Got It",n

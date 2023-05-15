@@ -1,0 +1,117 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+38,0,div,,n
+41,38,h1,Boating Safety,n
+45,38,div,,n
+47,45,span,AddThis Sharing Buttons,n
+48,45,div,,n
+50,48,span,Share to Facebook,n
+53,48,span,Share to Twitter,n
+56,48,span,Share to Email,n
+59,48,span,Share to More,n
+62,48,span,73,n
+63,0,div,,n
+65,63,ul,,n
+67,65,li,Course Schedules and Registration,n
+69,65,li,Course Descriptions,n
+71,65,li,Become a Training Partner or Instructor,n
+73,65,li,First Aid Tips and Resources,n
+74,65,li,,n
+75,74,text,Swimming and Water Safety Tips and Resources,n
+76,74,ul,,n
+78,76,li,Water Safety Activity Sheets,n
+80,76,li,"Swimming, Boating and Water Safety Tips",n
+85,76,li,Drowning Research,n
+87,76,li,Water Safety Quiz,n
+89,76,li,Swimming Health and Safety Legislation,n
+91,76,li,Rescuer Award,n
+93,76,li,Red Cross Aquatic Safety Plan,n
+95,65,li,How to confirm if a First Aid or CPR Certificate is valid,n
+97,63,div,,n
+98,97,div,,n
+102,98,h2,Boating Safety Equipment Requirements,n
+104,98,p,"Along with your Pleasure Craft Operator Card, you are required by law to carry marine safety equipment. At a bare minimum, you should always have with you:",n
+105,98,ul,,n
+107,105,li,appropriate size,n
+111,105,li,Buoyant heaving line at least 15 metres in length,n
+113,105,li,"Watertight flashlight OR Canadian approved flares – Type A,B or C",n
+115,105,li,Sound-signaling device,y
+117,105,li,"rope, chain or cable",y
+119,105,li,Bailer OR manual water pump,y
+121,105,li,Class 5 BC fire extinguisher,y
+123,98,p,Boating Safety,n
+125,98,p,"In addition to the safety equipment listed above, we highly recommend that you carry the following items – enough for everyone on board:",n
+126,98,ul,,n
+128,126,li,First Aid Kit,y
+130,126,li,Drinking water,y
+132,126,li,Sun-screen,y
+134,126,li,Hat,y
+136,126,li,Sunglasses,y
+138,126,li,Dry clothing,y
+140,126,li,Snacks,y
+142,126,li,Waterproof matches,y
+144,126,li,Knife,y
+146,98,h2,Alcohol and Drugs Awareness,n
+148,98,p,Every year hundreds of people die as a result of boating-related activities. Almost 65% of these deaths involve the use of alcohol.,n
+150,98,p,,n
+151,150,text,There is no safe way to mix alcohol and drugs with boating.,n
+153,150,br,Boat Smart... Boat Sober!,n
+155,98,h3,The Facts,n
+157,98,p,"Many people who would never drive their car after drinking alcohol or using drugs, don't think twice about combining boating and alcohol or drugs.",n
+158,98,ul,,n
+160,158,li,boaters in Canada admit to consuming alcohol every time they boat.,n
+162,158,li,66% report they drink alcohol sometimes when boating.,n
+164,158,li,recreational boating fatalities.,n
+166,98,p,"Many people think it's okay to drink and boat - but it's not. Drinking or using drugs while boating is just as illegal as driving while impaired, and can be even more dangerous.",n
+168,98,h3,Alcohol and the Boater,n
+171,98,p,How can alcohol affect the boater?,n
+174,98,li,Alcohol is alcohol,n
+177,98,p,Alcohol,n
+178,98,ul,,n
+180,178,li,"diminishes judgment and the ability to process information,",n
+182,178,li,"reduces motor skills, peripheral vision and balance,",n
+184,178,li,"slows reaction and reflex response time,",n
+186,178,li,"reduces depth perception, vision and focus,",n
+188,178,li,"disturbs the inner ear thus reducing your ability to distinguish the water surface if you fall in, and",n
+190,178,li,accelerates hypothermia.,n
+193,98,p,Be Responsible,n
+194,98,ul,,n
+196,194,li,"Wait until you are off the water before consuming alcohol. Remember, if you drink after a day of boating, be sure you have a designated driver for your vehicle.",n
+198,194,li,A person who has consumed alcohol or drugs should not be operating a boat,n
+200,194,li,Provide non-alcoholic beverages,n
+202,194,li,"Wear lifejackets or Personal Flotation Devices . It's the law to carry one that fits each person in the vessel, but Red Cross recommends wearing it every trip, for the whole trip.",n
+204,98,h2,Weather Conditions,n
+205,98,ul,,n
+207,205,li,Are you aware of the weather and water conditions and any hazards that may affect your trip? Plan ahead! The operator and all passengers should be well prepared. Work together and share the duties necessary to prepare.,n
+209,205,li,"To prepare a safe day on the water, you should always run through a Pre-departure Checklist. Click here to download your free copy!",n
+213,205,li,Visit The Weather Network,n
+218,98,h2,Boating Safety Links,n
+219,98,ul,,n
+221,219,li,Canadian Coast Guard,n
+223,219,li,Boating Safety,n
+225,219,li,Canadian Safe Boating Council,n
+227,219,li,Canadian Power and Sail Squadrons,n
+229,219,li,National Safe Boating Council,n
+231,219,li,"Boating Safety Sidekicks - US boating safety resources and activities for kids. Resources include online and downloadable products as well as games, and products that can be ordered.",n
+234,219,li,Boat U.S - The Boat US Foundation receives funds from the US Coast Guard,n
+237,219,li,AquaSmart - Safe boating activities,n
+240,219,li,Staying Safe on the Water - Boating safety tips and resources.,n
+244,97,ul,,n
+246,244,li,Backyard Pools,n
+248,244,li,Boating Safety,n
+250,244,li,Diving and Safe Water Entries,n
+252,244,li,Drown-Proofing Toddlers,n
+254,244,li,Holding Your Breath Underwater,n
+256,244,li,Hypothermia and Cold Water,n
+258,244,li,Ice Fishing,n
+260,244,li,Ice Safety,n
+262,244,li,Lifejackets and PFDs,n
+264,244,li,Open Water,n
+266,244,li,Pleasure Craft Operator Card,n
+268,244,li,Promotional Tools – Other Languages,n
+270,244,li,Recreational Water Toys,n
+272,244,li,Snowmobiling on ice,n
+274,244,li,Summer Water Safety,n
+276,244,li,Swimming and Water Safety Education Campaigns,n
+278,244,li,Swimming and Water Safety Public Education Resource Guide,n
+280,244,li,Water Park Safety,n

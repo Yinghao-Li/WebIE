@@ -1,0 +1,67 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,< Back,n
+4,0,article,,n
+5,4,div,,n
+7,5,h4,"Many of us want to volunteer at an animal shelter but just don’t have time. Don’t worry, you can still give by donating supplies.",n
+9,5,p,"Today, we’re giving you the ultimate wish list",n
+11,5,p,"Our schedules are often packed full of kids’ sports, work, and family events. But the calling to give back is still there, especially if your family has adopted a dog from a shelter. You know the joy that a dog brings to a family and the hard work it takes to get the dog ready for adoption.",n
+15,5,p,Animals need our help now more than ever. They are often found in a ditch left for dead or dropped off by owners who can no longer care for them. The job of the animal shelter is to show love and compassion to these animals until a forever home can be found. This mission takes time and countless supplies.,n
+17,5,p,"Here’s where you come in. All kinds of supplies are needed to keep a shelter operational. Animals come in wounded or malnourished and need medical care. They come in with broken spirits and need food, a comfortable bed free of feces and fleas, and a loving volunteer to take them for walks.",n
+19,5,p,"Sometimes the best care for these dogs is a foster family, like Chase pictured above. What a difference five weeks makes! If the dog needs substantial one on one care, if they are too shy or too energetic, a foster family can nurse and train them to become adoptable.",n
+21,5,p,"If you can’t find the time to volunteer, consider purchasing much needed supplies for a shelter in your area. They are always in need of items like medicines, food, blankets, toys, and office supplies.",n
+23,5,h4,We’ve put together an ultimate wish list to give you ideas:,n
+25,5,h5,Puppy or Kitten Supplies,n
+26,5,ul,,n
+28,26,li,Baby bottles with sizemonths nipples,y
+30,26,li,Puppy formula,y
+32,26,li,Dry and wet puppy food,y
+34,26,li,Dry and wet kitten food,y
+36,5,h5,General Supplies,n
+37,5,ul,,n
+39,37,li,Towels or blankets or washcloths,y
+41,37,li,Newspaper,y
+43,37,li,any size,y
+45,37,li,Baby gates,y
+47,37,li,all sizes,y
+49,37,li,all sizes,y
+51,37,li,Stainless steel food and water bowls,y
+53,37,li,Dry and wet dog food,y
+55,37,li,Dry and wet cat food,y
+57,37,li,Cat litter non-scoopable,y
+59,37,li,Pet beds,y
+61,37,li,Hay,y
+63,37,li,Radios – One shelter found that classical music is calming to their animals!,y
+65,5,h5,Toys or Training Supplies,n
+66,5,ul,,n
+68,66,li,Milk bones sm or med or lg,y
+70,66,li,Peanut butter,y
+72,66,li,Durable dog toys,y
+74,66,li,Cat plastic toys,y
+76,66,li,Treats,y
+78,66,li,Compressed rawhide bones,y
+80,5,h5,Medical Care Supplies,n
+81,5,ul,,n
+83,81,li,Heartworm medication,y
+85,81,li,Flea and tick medication,y
+87,81,li,First aid type supplies,y
+89,5,h5,General Office Supplies,n
+90,5,ul,,n
+92,90,li,Copy paper,y
+94,90,li,Pens,y
+96,90,li,AA and AAA batteries,y
+98,90,li,Permanent markers,y
+100,90,li,"Storage bins with lids, etc.",y
+102,5,h5,General cleaning supplies,n
+103,5,ul,,n
+105,103,li,Clorox bleach,y
+107,103,li,13 Gallon or 55 Gallon Trash Bags,y
+109,103,li,Laundry detergent,y
+111,103,li,Mop Heads and Nylon Brooms,y
+113,103,li,Ziplock Bags Quart Sizes,y
+115,103,li,Paper Towels,y
+118,5,p,Be sure to call your local shelter before purchasing because the individual shelter will be able to tell you if they need a specific brand or type of supply.,n
+120,5,p,"We don’t always have time to give to the animal shelters around us. But chances are, we have some extra cash to buy much needed supplies to support the missions of the various shelters. Let’s help some dogs out!",n
+121,4,footer,,n
+123,121,span,Posted in Tips,n
+126,121,span,Tagged Draft,n

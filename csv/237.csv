@@ -1,0 +1,135 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+10,3,h1,Category,n
+11,3,div,,n
+13,11,div,"From Wikipedia, the free encyclopedia",n
+17,11,text,Jump to navigation Jump to search,n
+19,11,div,,n
+20,19,div,,n
+22,20,p,Articles related to equipment used,n
+26,20,div,Not to be confused with Category,n
+29,19,div,,n
+30,29,div,,n
+32,30,h2,Subcategories,n
+34,30,p,3 total.,n
+36,30,div,,n
+40,36,ul,,n
+46,40,li,Sailing equipment manufacturers ‎,n
+56,40,li,Sailing vessel components ‎,n
+70,36,li,Windsurfing equipment ‎,n
+75,29,div,,n
+78,75,h2,"Pages in category ""Sailing equipment""",n
+80,75,p,"The following 12 pages are in this category, out of 12 total. This list may not reflect recent changes .",n
+84,75,div,,n
+85,84,div,,n
+87,85,h3,A,n
+90,85,li,Apparent wind indicator,n
+91,84,div,,n
+93,91,h3,B,n
+94,91,ul,,n
+96,94,li,Boat dolly,n
+98,94,li,Boomkicker,n
+100,94,li,Bosun's chair,n
+101,84,div,,n
+103,101,h3,D,n
+106,101,li,Dyneema Composite Fabric,n
+107,84,div,,n
+109,107,h3,O,n
+112,107,li,Oilskin,n
+113,84,div,,n
+115,113,h3,P,n
+118,113,li,Poldavis,n
+122,84,ul,,n
+124,122,li,Seaboot,n
+126,122,li,Sou'wester,n
+127,84,div,,n
+129,127,h3,T,n
+132,127,li,Trapeze,n
+136,84,ul,,n
+138,136,li,Sailing wear,n
+140,136,li,Wind transducer,n
+143,19,div,"Retrieved from "" https",n
+147,11,div,,n
+148,147,text,Categories,n
+150,147,ul,,n
+152,150,li,Sailing,n
+154,150,li,Water sports equipment,n
+155,0,div,,n
+157,155,h2,Navigation menu,n
+158,155,div,,n
+159,158,nav,,n
+162,159,h3,Personal tools,n
+164,159,ul,,n
+167,164,li,Not logged in,n
+173,164,li,Contributions,n
+176,164,li,Create account,n
+179,164,li,Log in,n
+180,158,div,,n
+181,180,nav,,n
+184,181,h3,Namespaces,n
+189,181,li,Category,n
+197,180,span,English,n
+200,158,div,,n
+201,200,nav,,n
+204,201,h3,Views,n
+206,201,ul,,n
+209,206,li,Read,n
+212,206,li,Edit,n
+215,206,li,View history,n
+220,200,span,More,n
+227,200,h3,Search,n
+234,155,div,,n
+236,234,nav,,n
+239,236,h3,Navigation,n
+241,236,ul,,n
+244,241,li,Main page,n
+247,241,li,Contents,n
+250,241,li,Current events,n
+253,241,li,Random article,n
+259,241,li,Contact us,n
+262,241,li,Donate,n
+263,234,nav,,n
+266,263,h3,Contribute,n
+268,263,ul,,n
+271,268,li,Help,n
+274,268,li,Learn to edit,n
+277,268,li,Community portal,n
+280,268,li,Recent changes,n
+284,234,nav,,n
+287,284,h3,Tools,n
+289,284,ul,,n
+292,289,li,What links here,n
+295,289,li,Related changes,n
+301,289,li,Special pages,n
+304,289,li,Permanent link,n
+307,289,li,Page information,n
+310,289,li,Wikidata item,n
+311,234,nav,,n
+314,311,h3,Print or export,n
+316,311,ul,,n
+319,316,li,Download as PDF,n
+322,316,li,Printable version,n
+323,234,nav,,n
+327,323,h3,Languages,n
+328,323,div,,n
+329,328,ul,,n
+332,329,li,العربية,n
+335,329,li,فارسی,n
+338,329,li,Italiano,n
+341,328,div,Edit links,n
+342,0,footer,,n
+343,342,ul,,n
+344,343,li,,n
+345,344,text,"This page was last edited on 5 April 2017, at 14:55",n
+348,344,text,.,n
+350,343,li,"Text is available under the Creative Commons Attribution-ShareAlike License 3.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.",n
+359,342,ul,,n
+361,359,li,Privacy policy,n
+365,359,li,Disclaimers,n
+367,359,li,Contact Wikipedia,n
+369,359,li,Mobile view,n
+371,359,li,Developers,n
+373,359,li,Statistics,n
+375,359,li,Cookie statement,n
+377,359,li,Edit preview settings,n

@@ -1,0 +1,636 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,article,,n
+3,1,div,,n
+4,3,section,,n
+6,4,h2,Introduction,n
+15,4,div,,n
+17,15,div,,n
+20,17,span,By Seakip18,n
+24,17,span,Follow,n
+27,15,div,More by the author,n
+32,15,div,,n
+33,32,text,About,n
+35,32,span,More About Seakip18 »,n
+37,4,p,,n
+38,37,text,"Making wine is actually pretty idiot proof, with the right stuff, equipment, and sanitizing again and again.",n
+41,37,br,"In this Instructable, you'll learn how to make fruit wines, including grape wines. This instructable will focus on the techniques, equipment and materials, rather than recipes.",n
+44,37,br,You'll need to procure some equipment and some chemicals but don't worry. Most of it will last many batches with the proper cleaning and maintaining.,n
+47,37,br,EDIT,n
+59,3,section,,n
+61,59,h2,Step 1,n
+63,59,p,,n
+64,63,text,"Winemaking, also known as",n
+66,63,strong,Homebrewing,n
+67,63,text,", is completely legal in the US and many other places. As follows is what I KNOW is legal in the US:",n
+69,63,br,"1. You can make up to 100 gallons by yourself or 200 max, if you live with other people, annually.",n
+71,63,br,You may not sale your homebrew.,n
+73,63,br,You must be 21 or legal drinking age to make and drink your homebrew. *,n
+75,63,br,You may not distill spirits.,n
+77,63,br,You may share and taste homebrewed beverages,n
+79,63,br,"*Technically it is 18, but you'd 99% of the time be seeking to consume or possess alcohol, which illegal.",n
+81,63,strong,is,n
+85,63,br,"Since you are producing substance that kills more people a year than most forms of cancer, you will need to treat alcoholic beverages with the respect they command.",n
+88,63,strong,Do not drink and drive.,n
+91,63,strong,Do not drink while pregnant.,n
+94,63,strong,"Do not drink if you suffer from liver, heart failure, or anything else just about.",n
+97,63,strong,Consult your doctor if you are unsure how alcohol will interact with any drugs you are taking.,n
+100,63,br,"Home wine making is not making moonshine. It will not cause you any more harm than consuming alcohol does. You will have few, if any, methyl alcohols that cause blindness. You would die from alcohol poisoning long before having to worry about this.",n
+103,63,br,Additionally,n
+105,63,br,Almost all commercial wines contain sulfites. This Instructable teaches users how to add sulfites if needed. This may be left off if sulfites cause alergic reactions to you or those you want to consume the wine. Potassium Metabisulfite MSDS,n
+108,63,br,Sodium Metabisulfite MSDS,n
+111,63,br,Potassium Sorbate is potentially added if additional sweeting is required. Do not add if you are allergic to it. Here is it's MSDS Potassium Sorbate MSDS,n
+115,63,br,"Finally, your final product will be about 12-18% alcohol. Keep that in mind when serving.",n
+118,63,br,"the way, let's go to it!",n
+121,63,br,1= Wiki Link,n
+133,3,section,,n
+135,133,h2,Step 2,n
+154,133,p,,n
+155,154,text,"You'll be able to make some of the stuff for this instructable but I fear that, if you want to keep homebrewing for long term, you'll be better off buying specific homebrew equipment anyways. Especially if you've got a Local Homebrew Store nearby.",n
+159,154,strong,Plastic Water Bottle or Glass Jug aka- the container,y
+161,154,br,"You can find these at any grocery store pretty much. Make sure you look at the bottom and see either 1 or 2 for the recycling. If it is anything else, it will not work.",n
+164,154,br,"The reason behind this is that you will be doing long-term fermentation or aging in this bottle. Using one that is not 1 or 2 will allow oxygen to seep in at the microscopic level. This can cause the wine to become oxidized and have a ""stale"" taste to it. Also, with #7 plastics, you do not know what it is made of. Therefore, you may have chemicals leech into your wine.",n
+167,154,br,Using glass jugs can be substituted as well. Make sure the jug is NOT scratched on the inside,n
+170,154,br,"Variable cost, no more than $20 or free if you have clean, unscratched plastic jug.",n
+174,154,strong,Rubber Stopper,y
+176,154,br,"Typically #8-9 will work, though if you can, test fit it to your just before buying. Only needed if you use the tubing or the commercial airlock. Drill a 1 or 4 hole in it.",n
+178,154,br,$1.19,n
+182,154,strong,Airlock,y
+184,154,br,This can be a few things,n
+186,154,br,"a. A balloon- The CO2 the yeast release will inflate it and cause it to expand. When the balloon expands to a certain point, the CO2 will begin to escape but not allow any air in. Use rubber bands to keep it attached to the neck of the container",n
+188,154,br,$.19 ?,n
+190,154,br,b. pvc pipe + vinyl tubing- pvc goes through the rubber stopper and attach the vinyl tubing to it.,n
+192,154,br,$2.19,n
+194,154,br,c. Commercial Airlock - cost usually around a $1.59. these three piece airlocks have alcohol or some sanitized liquid put in to keep the center pipe submerged. Highly recommended.,n
+196,154,br,$1.49,n
+200,154,strong,Stirrer,y
+202,154,br,"You'll need to throughly mix the solution. A long, plastic handle works great. Must fit into the neck of the bottle. If you cannot find one, a dowel with a spoon attached to it will work though you must dispose of after use",n
+204,154,br,Variable,n
+208,154,strong,Funnel,y
+210,154,br,For pouring liquid into the container,n
+212,154,br,$.79,n
+216,154,strong,Turkey Baster,y
+218,154,br,You'll need it,n
+222,154,strong,Bottles,y
+224,154,br,You will need something airtight to store the finished product in. 2L and jugs work best. Make sure you can securely tighten the top and clean them.,n
+226,154,br,Free hopefully.,n
+230,154,strong,The siphon,y
+232,154,br,"A 5-6' vinyl tubing. You will need to siphon the liquid from the container, ideally leaving out the yeast. If you have a homebrew store nearby, it's advisable to just buy a autosiphon .",n
+234,154,br,$6,n
+239,154,br,The most important equipment here. Get lots of it. You'll use it...alot. It even has it's own step.,n
+238,154,strong,Sanitizer,y
+242,154,br,"This is commonly cheap bleach, but you will need to use LOTS of water to rinse afterwords. Otherwise, you'll be left chemical smell. I do not recommend it, but it'll work in a pinch.",n
+245,154,br,You can also use any Iodine Sanitizing solution instead. It can be found at some grocery stores and just about any feed store for very cheap.,n
+248,154,br,"Ideally, getting B-T-F iodophor or Star-San 5 Star is the best choice. Follow the directions for mixing. They require no rinse if I remember correctly and the foam from Star San actually helps the yeast!",n
+251,154,br,You can get these at your local homebrew store or restaurant supply,n
+254,154,br,"Iodine and bleach are pretty cheap, but Star-San and Iodophor are the right tool for the job when it comes to home brewing.",n
+265,3,section,,n
+267,265,h2,Step 3,n
+282,265,p,,n
+283,282,text,fruit to ferment,n
+285,282,br,"Just about ANY fruit is capable of being made into a wine. If it's got juice, it's fermentable pretty much. You can go ahead and buy juice from the store. However, make sure you read the ingredients on the label. Concentrate is fine too.",n
+288,282,br,"It additives other than Asorbic Acid. If it contains any Sorbate at all, it will not work.",n
+290,282,strong,MUST NOT CONTAIN,n
+294,282,br,You will need to get enough to match the total amount you want to make. IE- a 5 gallon batch of wine needs 5 gallons of juice.,n
+297,282,br,"Alternatively, you can use fresh fruit and get juice from that. The juice you will get is superior to your bottled variety. It is a separate process on it's own, though, so for this Instructable, stick to juices that have already been squeezed for us.",n
+300,282,br,juice goes,n
+303,282,br,"2. Sugar- Yeast need this to grow. The type of sugar and amount you use will determine your alcohol and flavors. I recommend Corn Sugar, which can bought at health or alternative grocery stores. Homebrew Stores will have plenty on hand.",n
+305,282,br,You will need about 4 pounds which cost $.,n
+308,282,br,"You can experiment with Brown sugar, white sugar or even honey. Keep in mind though that if you use honey, it will take much longer to ferment.",n
+311,282,br,"If you do use sucrose, I recommend creating a simple syrup by using boiling cup of water for every of table sugar. Simple boil the water, stir in the sugar and boil for 10 minutes. You'll end up with a solution that is no longer sucrose, but glucose and fructose, which the yeast find easier to metabolize than sucrose.",n
+313,282,strong,one,n
+316,282,strong,2 cups,n
+320,282,br,"3. Yeast- The single most important thing to add. Again, a homebrew store is your best friend. I recommend Red Star Montrachet, but you are free to try many types of wine or champagne yeast. It is very cheap @ $.49 usually.",n
+323,282,br,"In a pinch or out of necessity, baker's yeast can be used, but expect worse flavors, clouder wine and other defects.",n
+326,282,br,Under no circumstances try to use distiller's or high-alcohol yielding yeast. You will regret the decision to ferment with it on the first sip.,n
+329,282,br,One packet is generally good,n
+332,282,br,Chemicals,n
+334,282,br,"These are pretty much going to be found at chemical supply or home brew stores. You don't need a large amount, but they are very cheap and can be used for lots of batches. They do not impart any undesirable flavor to the wine when used properly.",n
+337,282,br,"Sodium or Potassium Metabisulfite - Preserves the wine and allows yeast to grow unchallenged. When working with fresh fruit it is necessary or if you plan on using sorbates. You need this if your juice is pasteurized or bought from the store. However, if you got it on the side of the road, I recommend using it. $2.39",n
+339,282,strong,MAY NOT,n
+342,282,strong,DO NOT USE IF ALLERGIC TO SULFITES,n
+346,282,br,NOTE,n
+349,282,br,Potassium Sorbate - Let's you add sugar to the wine after fermenting without reactivating the yeast. $2.39,n
+351,282,strong,DO NOT ADD IF ALLERGIC TO SORBATES,n
+355,282,br,"Yeast Nutrient- Wine tends to be a bit more sparse in building blocks for yeast to thrive in. Giving them some nutrients helps them work faster and help reduce the chance of off flavors. Optional, but recommended $3.19",n
+359,282,strong,Word on Chemicals,n
+362,282,br,Don't go running just because we are using chemicals. What do you think is in that apple you're eating there? Tons of chemicals.,n
+365,282,br,"Unless you are allergic, I'd strongly urge you not to omit the recommended chemicals.This instructable is about making wine, so it would be a shame to leave out what wine maker's have being doing for centuries. If you follow the directions on the label and this instructable, you'll be fine.",n
+368,282,br,"Lastly, double check the labeling on the chemicals you get. Some will have varying amounts of ppm. They will usually have some instructions on amount. They may vary from the amounts used in this sample recipe.",n
+379,3,section,,n
+381,379,h2,Step 4,n
+396,379,p,,n
+397,396,text,"If the yeast are the most important part in this instructable, then sanitation is the most important step. If not done thoroughly and properly, your ""wine"" will just turn out to be a giant jug of vinegar and be hardly palatable at all! You can tell if this occurred by the stench of vinegar.",n
+400,396,br,"You are making a batch of basically acidic sugar water that any mold or bacteria would love to set up shop in. Even though you cannot see them, those spoilers are lying all over your equipment, in every microscopic cranny and nook. Before making wine or any fermented beverage, you need to get rid of them.",n
+403,396,br,"Using your chosen sanitizer, make sure your container, stirrer, funnel, air lock parts, measuring spoons and work area are sanitized. You will need to have a contact time of usually 30 seconds. Also make sure your hands are cleaned before beginning or at any step of dealing with the wine.",n
+406,396,br,"If you are using bleach, you will need to follow with a rinse to get any standing solution off, which means you need clean water. I suggest distilled water, but I also suggest .",n
+408,396,strong,not using bleach,n
+413,396,strong,Why not sterilize?,n
+416,396,br,"Sterilize means to kill all life off a surface. Nothing survives. Sanitation means to reduce the amount of bacteria, wild yeasts, etc. to negligible levels. You will be hard pressed to sterilize unless you can fit all of your equipment into a boiling pot or can autoclave it.",n
+419,396,br,Yeast do not need a sterilized surface. Just one that is sanitized so they set up shop and crowd out any invaders.,n
+431,3,section,,n
+433,431,h2,Step 5,n
+445,431,p,,n
+446,445,text,"In this instructable, we'll make Edwort's Apple wine aka Apfelwein . It's easy and cheap to make. Plus, it tastes great.",n
+451,445,br,"For five gallons, you will need",n
+454,445,br,apple juice or cider,n
+456,445,br,2 pounds Sugar,n
+458,445,br,1 Yeast packet,n
+460,445,br,yeast nutrient,n
+462,445,br,2.5% Potassium or Sodium Metabisulfite,n
+466,445,strong,Note,n
+469,445,br,Recipes for other wines exists. I'm just using this recipe as an example for the process to follow.,n
+472,445,br,Making the Sulfite Solution,n
+475,445,br,Take 1 or 2 teaspoon of your Sulfite and mix it into 125 mL or 4.25 fluid ounces. Take 100mL or 3 1 or 3 oz and discard the remaining amount.,n
+478,445,br,"If you want to make smaller or bigger batches, scale accordingly @ ~20mL a gallon.",n
+480,445,br,"For those chemistry nerds, you're aiming",n
+490,3,section,,n
+492,490,h2,Step 6,n
+507,490,p,,n
+508,507,text,"Depending on how many bottles, you may need to combine steps 1 and 2:",n
+511,507,br,1. Pour half of a bottle of apple juice or cider into the container then put one pound of sugar into bottle and shake it to dissolve the sugar into it. Pour another half of a bottle of apple juice or cider in.,n
+514,507,br,sugar.,n
+517,507,br,"3. Pour your Sulfite and yeast nutrient into that bottle, mix it thoroughly and then pour into the container.",n
+520,507,br,4. Pour in enough apple juice till you have about enough space for half a bottle of apple juice or cider,n
+523,507,br,5. Save the bottles and wash them out. You'll need them for storing the finished product. Make sure you do a good job of cleaning them as they will get gross very quickly if left dirty. Any left over sanitizing solution will do a wonderful job.,n
+533,3,section,,n
+535,533,h2,Step 7,n
+538,533,p,"Mix the container thoroughly for about 1-2 minutes. You want a nice vortex to form. This is referred to as ""degassing"" the wine. It is getting any dissolved gases out of the liquid.",n
+548,3,section,,n
+550,548,h2,Step 8,n
+553,548,p,"Pour your yeast through the funnel into the mixture. This is referred to as ""pitching"" the yeast. Keep the funnel in the neck for the moment.",n
+563,3,section,,n
+565,563,h2,Step 9,n
+567,563,p,,n
+568,567,text,"Now, depending on what yeast you are using you may be able to get away with filling it right up to the neck. I would recommend you leave about 3-4 inches below where the neck begins at the bottom as there will be a foam build up.",n
+571,567,br,"Anyways, pour the remaining amount of juice in, washing the yeast out of the funnel and leaving enough space.",n
+574,567,br,No further mixing is needed.,n
+584,3,section,,n
+586,584,h2,Step 10,n
+596,584,p,,n
+597,596,text,"airlock, attach it.",n
+599,596,br,Balloon- Attach to the neck and secure it with rubber bands.,n
+602,596,br,2. Commercially Airlock -stick it into the rubber stopper and stick that into the neck of the container. Fill the big piece up to the line with vodka or any other type of alcohol and put the smaller piece on top. Put top on the whole assembly.,n
+605,596,br,PVC.,n
+608,596,br,"If you are using tubing airlock, you will need to submerge the hose into a jar or glass once you've placed the container it the proper location.",n
+618,3,section,,n
+620,618,h2,Step 11,n
+630,618,p,,n
+631,630,text,"Place it somewhere relatively cool and out of the way. Animals and kids love to play with the airlock, so it's best in the bottom of a closet, out of the way.",n
+634,630,br,"Check your airlock occasionally and make sure it is still firmly attached, especially the first few days. ""DO NOT REMOVE IT.""",n
+637,630,br,Check often to see if the sanitized liquid is gone from the commercial or tubing airlocks. Refill it if needed.,n
+640,630,br,"If the foam gunks up into any of them, do not panic. Remove them, clean them off, sanitize, and place them back on. That gunk has a layer of CO2 keeping the air out.",n
+642,630,br,I keep a spare airlock,n
+645,630,br,"You may smell a something akin to a ""Rhino Fart"" Don't worry. It will dissipate in time.",n
+648,630,br,"Leave it there for about 4-5 weeks. Once it becomes clear, it's ready for tasting and drinking. Some wines are quicker, some require longer. The key is to wait until it clears up.",n
+651,630,br,"One exception is that if you used anything other than wine yeast, it may not clear up. You can generally expect it to be done at 4 weeks then.",n
+654,630,br,"You can use other equipment to judge if it is done, but that is another tool you'd need to buy.",n
+664,3,section,,n
+666,664,h2,Step 12,n
+676,664,p,,n
+678,676,strong,Adjusting to taste,n
+680,676,br,"Once the wine has finished and begun to clear on it's own, you can modify it to your taste. Sanitize your turkey baster by submerging it in a jar of sanitized liquid and sucking some into the baster. Discard the sucked up liquid and and pull a sample from the container. Don't let the airlock get too far.",n
+683,676,br,You'll want to get about a glassful of wine before judging. Feel free to seal the container back up and come back to it if you want to judge later.,n
+686,676,br,"If it's fine, proceed to the next step.",n
+689,676,br,"If it needs to be sweetened, follow the below.",n
+692,676,br,Sanitize the mixing handle from earlier.,n
+695,676,br,sample.,n
+698,676,br,sugar to 4 cups of water. Let it cool.,n
+701,676,br,"4. Pour into sample about a 1 or 2 oz at a time. Mix it thoroughly and taste. Do not drink. Once it is good, read on. Go ahead and pour that sample into a glass and enjoy! Don't return it to the container.",n
+704,676,br,"For every 1 or 2 ounce you added to the sample, pour 4 fl. oz. of sugar solution per gallon into your container.",n
+706,676,br,"For instance, if the sample needed .75 fl. oz to taste good and I had 3 gallons, I would add 18 fl. oz. to it.",n
+709,676,br,5. Add potassium sorbate into the container. Use 1 or 4 teaspoon per gallon of wine OR follow the directions on your package.,n
+712,676,br,6. Add 1 or 4 tsp of Potassium Metabisulfite if you've made a 5-6 gallon batch. Look at the earlier step on how to scale the solution if you need to make it smaller or bigger.,n
+715,676,br,"This is optional if you went ahead with sulfites from the start. If not, then you will need to add it.",n
+718,676,br,"Again, omit if you are allergic to sulfites, though Sorbate works better in the presence of sulfite. This will also help long term stability.",n
+721,676,br,"You are looking for 70 or so ppm in the final beverage. You can use less if you are worried about sulfur tastes or don't plan on keeping much wine on hand. It is needed though, if you plan on aging for an extended time.",n
+724,676,br,7. Mix the container. Get a nice vortex and do so for a 4-5 minutes. You will knock yeast back up into the solution. Don't worry. It will settle back down in time.,n
+727,676,br,Replace the airlock.,n
+730,676,br,"9. Go ahead and leave it alone for about a few days or so. Once yeast and other stuff settle back down at the bottom of the container and it is has cleared again, go to the next step.",n
+733,676,br,"Don't be afraid to wait up to a week or two. If it isn't getting clearer after that time, don't worry and just proceed to the next step. The wine is not ruined. It will just be a little cloudy.",n
+744,3,section,,n
+746,744,h2,Step 13,n
+756,744,p,,n
+758,756,strong,Bottling,n
+760,756,br,"Sanitize the siphon or siphon tubing, funnel and the caps and bottles you wish store the wine in. Additionally, you may wish to sanitize a coffee filter. I find that it's better to just avoid getting the siphon tube near the yeast in the first place.",n
+763,756,br,Remove the airlock and put the siphon into liquid. Make sure you do not let it sit on the yeast at the bottom of the container.,n
+766,756,br,A bathroom or laying down a towel is recommended.,n
+769,756,br,"OPTIONAL-if you have a big enough container and plan on bottling right away, you can further reduce yeast bottling by siphoning all of the liquid out of the container and into another, allowing it to settle for a minute or two, then bottling. Of course, make sure you sanitize the second container.",n
+772,756,br,"Having another person also helps as they can make sure the tubing stays in the container at the proper level, avoiding yeast. An autosiphon can do that, as well as eliminate step 4.",n
+775,756,br,cabinet or ledge.,n
+777,756,br,Put your bottles underneath it.,n
+779,756,br,"Making sure the tubing is still inside the container, let the other end fall below it.",n
+781,756,br,Suck on the tubing. Do not blow on it in anyway.,n
+783,756,br,"5. Once liquid is over the top of the container in the tubing, put your thumb over the end.",n
+785,756,br,"6. Grab a bottle and release your thumb. The liquid should start flowing out of the tubing. Fill the bottle through the funnel. Do not submerge the line into the bottle, as your mouth has touched the end.",n
+788,756,br,"If you want to remove yeast from the bottling, put the coffee filter in. It will not remove all of them, but will help to a degree. Keeping them in does not hurt though. I find that the coffee filter slows down the process too much also. YMMV.",n
+791,756,br,"7. Once it is filled, quickly grab another bottle and begin filling it. Cinch or otherwise cut off the flow of the tube. Continue until you are done.",n
+794,756,br,Place caps on the bottles.,n
+805,3,section,,n
+807,805,h2,Step 14,n
+809,805,p,,n
+810,809,text,"At this point, chill and serve your wine. Leave a little bit of wine at the bottom of every bottle to avoid getting yeast. Enjoy it in moderation.",n
+813,809,br,"Otherwise, do not blame me",n
+815,809,br,*Crazy hookups,n
+817,809,br,*DUI or DWI or vehicular homicide or far worse,n
+819,809,br,*Losing your money at poker,n
+821,809,br,*Shunned by your friends,n
+823,809,br,"you ""Rick Rolling""",n
+825,809,br,loved ones,n
+828,809,br,Read on if you want to learn more about what just happened.,n
+831,809,br,"The yeast in the container reproduced and turned the sugar + minerals+O2 in the liquid into more yeast cells + waste. This waste includes alcohol and CO2. The yeast have an alcohol ""tolerance"" and will not produce any further at a certain percentage. They do not die, however.",n
+834,809,br,"If you added additional sugars to the wine without the potassium sorbate, the yeast will reawaken and produce CO2, carbonating the wine and adding a minor amount of alcohol before becoming dormant again.",n
+837,809,br,"Too much sugar followed by immediately bottling creates what is called a ""Bottle Bomb"" The yeast will produce CO2 that has no way of escaping. This naturally carbonates the beveage, but too much and the material the beverage is in becomes compromised, high pressure rupturing it. Yikes.",n
+840,809,br,"The Potassium or Sodium Metabisulfite helps keep other organisms from setting up shop in the wine, Yeast, which has some sulfite tolerance as well, will far outnumber the rouge organisms and will be able to grow in the solution. This allows you to ferment wine for many months without it spoiling or oxidizing.",n
+843,809,br,You can find many resources and recipes on the web at great websites such as Jack Keller's Wine Making for more info.,n
+848,809,br,"If you are interested in making more wine, you'll probably want to get proper equipment to make the process smoother, so check for a local Homebrew store in your area. If there are none, you can check Austin Homebrew Supply Or Northern Brewer online.",n
+859,3,section,,n
+861,859,h2,Be the First to Share,n
+864,859,div,,n
+866,864,p,Did you make this project? Share it with us!,n
+868,864,button,I Made It!,n
+869,3,section,,n
+871,869,h2,Recommendations,n
+872,869,div,,n
+873,872,div,,n
+875,873,div,,n
+877,875,strong,Gingerbread Icecream Sandwiches - Robot Style!,n
+879,875,span,by -Happy Hedgehog Studios-,n
+890,873,div,30,n
+891,872,div,,n
+893,891,div,,n
+895,893,strong,Hand-Pulled Chocolate Cotton Candy,n
+897,893,span,by Jeromina,n
+900,893,span,in Candy,n
+908,891,div,89,n
+909,872,div,,n
+911,909,div,,n
+913,911,strong,Modeling Chocolate Unicorn Cake Topper,n
+915,911,span,by Sugar Hi,n
+918,911,span,in Cake,n
+926,909,div,51,n
+927,872,div,,n
+929,927,div,,n
+931,929,strong,HOMEMADE S’MORES ICE CREAM,n
+933,929,span,Season,n
+944,927,div,87,n
+945,869,ul,,n
+948,945,li,Fruits and Veggies Speed Challenge,n
+952,945,li,Leather Challenge,n
+956,945,li,Build a Tool Contest,n
+970,3,div,,n
+971,970,p,,n
+972,971,text,We have a be nice policy.,n
+976,971,br,Please be positive and constructive.,n
+978,970,button,Add Images,n
+980,970,button,Post,n
+981,3,section,,n
+983,981,h2,169 Comments,n
+984,981,div,,n
+985,984,article,,n
+992,985,div,,n
+993,992,text,jhcb,n
+997,992,p,2 years ago on Step 14,n
+1005,985,p,,n
+1006,1005,text,very comprehensive!,n
+1008,1005,br,My passion is,n
+1010,984,article,,n
+1017,1010,div,,n
+1018,1017,text,Ken2121,n
+1020,1017,p,3 years ago,n
+1028,1010,p,This article is a great resource. If you need additional help check this site! It helped me cut down at the store because I’ve found my own taste! https: or or bit.ly or 2TNDyv2,n
+1031,984,article,,n
+1038,1031,div,,n
+1039,1038,text,GeneC30,n
+1043,1038,p,3 years ago on Step 13,n
+1052,1031,p,"Under Step 13, how many oz's is the ""sample"" of wine you start with when mixing in the sugar solution? Adding 1 or 2oz of solution to 8oz of ""sample"" wine will result in a different ""taste"" then when added to 16oz of ""sample"" wine.",n
+1054,984,article,,n
+1061,1054,div,,n
+1062,1061,text,AmarB19,n
+1064,1061,p,3 years ago on Introduction,n
+1071,1054,div,,n
+1073,1071,p,"Hello ,",n
+1075,1071,p,You may follow the link,n
+1077,1071,p,"In the NEXT 6 minutes, YOU can start making your own delicious wine from the comfort of your own home! How to Make Wine",n
+1079,1071,p,https,n
+1081,1071,p,Let me be honest with you... Making wine at home is EASY.,n
+1083,1071,p,"Anyone, even if they can't read, can do it. Just get some juice, put in some sugar, then throw in some yeast and let 'er rip.",n
+1085,1071,p,"10 to 30 days later, you'll have something that slightly resembles wine. It'll taste like crap and none of your friends or family will touch it - but it WILL be wine and it will have alcohol in it.",n
+1087,1071,p,Will it be full-bodied and clear? Nope. Will you wait with bated breath in anticipation of the tears of wine on the glass? Nope - it'll be too thin and acidic. Will you taste the very sunshine that kissed the grapes as they hung on the vine? Hardly...,n
+1089,1071,p,"Like many wine makers before you, you could spend thousands of dollars on how-to guides, chemicals, equipment, fruits, juices, grapes..",n
+1091,1071,p,"If you are truly ready to make real home-made wine, want it to be drinkable, want it to be appreciated by friends and family, want it to be award-winning...",n
+1093,1071,p,"You're going to need a real, no-holds-barred Wine Making Course - written in plain English, and outlining every step you need to take to make the most amazing bottles of wine your palate has ever had the pleasure of savoring..",n
+1095,984,article,,n
+1102,1095,div,,n
+1103,1102,text,Sandramullen,n
+1107,1102,p,3 years ago on Step 11,n
+1116,1095,p,What can you do with wine that has stopped fermenting before all the auger is used up.,n
+1118,984,article,,n
+1126,1118,div,WestonP5,n
+1136,1118,p,what do you get when mix rice wine with fruit wine and distilled it,n
+1138,984,article,,n
+1145,1138,div,,n
+1146,1145,text,Ulu Meli,n
+1148,1145,p,7 years ago,n
+1156,1138,p,I just made 5 gal of passion fruit wine and found the part about adding more sugar very helpful. Thank you much !,n
+1160,984,article,,n
+1167,1160,div,,n
+1168,1167,text,ManuelV68,n
+1170,1167,button,Ulu Meli,n
+1172,1167,p,Reply 5 years ago,n
+1180,1160,p,When did you add more sugar,n
+1182,984,article,,n
+1190,1182,div,pnwitch,n
+1200,1182,p,"Have you tried using a stronger yeast in this? Because I would very much like to know why it would be regretful to do so, please.",n
+1202,984,article,,n
+1210,1202,div,Richard39,n
+1220,1202,p,I learned to Make wine using an easy method I found HERE .,n
+1224,984,article,,n
+1232,1224,div,abadfart,n
+1242,1224,p,"I have been brewing beer for a cople of years and plan to do a short run of both mead and wine this next month just to test my hand at it for a upcoming wedding. Just a hint on bottleing, if you have a dishwasher that is a grate place to bottle as you just run the dishwasher when you sre done and it is all clean",n
+1244,984,article,,n
+1252,1244,div,Phillip30,n
+1262,1244,p,This is so cool. I will love trying this at home. I have already tried to make my own wine at YourOwnWinery.com and it was amazing!,n
+1264,984,article,,n
+1272,1264,div,BobS98,n
+1280,1264,div,,n
+1282,1280,p,"hey Borderlander, I mistakenly used bread or bakers yeast. a winemaker friend said I should let it ferment a little longer than normal and taste it. is there anything else I can do to make it better?",n
+1284,1280,p,"after 3 months in the carboys it has created a huge amount of sediment, about 1.5"". I am racking it now.",n
+1286,1280,p,"thanks,",n
+1288,1280,p,Bob,n
+1290,984,article,,n
+1298,1290,div,Borderlander,n
+1308,1290,p,"95% of this instructable I liked but making wine for the past 7 years had that remaining 5% of it make me shudder. 1: if you add sugar to your wine regardless of reason your making flavored alcoholic horse piss. 2: if your equipment is sterile you will never need any chemical. 3: I don't care if Jesus turned water into wine, If he didn't do so in a glass carboy I wouldn't drink to save my soul 4:on the topic of bread yeast.....so what? granted it's not as good a specially developed strains but I assure you its pretty good if done right . And on a side note: if your wine is rather tart or even a little bitter it usually means it's a dry style wine so don't hate it. might just need a little aging to mature.",n
+1328,984,p,"At one point in the instructable, you mention adding yeast nutrient. Can you please elaborate on this? Is this different from the actual yeast itself? How much for a 4-5 gallon batch??",n
+1332,984,article,,n
+1342,1332,div,BubbleMama,n
+1351,1332,p,,n
+1352,1351,text,"Never mind, I found it.",n
+1354,1351,br,Thanks so much for making such a detailed and easy to follow instructable. I can't wait to try it!,n
+1356,984,article,,n
+1366,1356,p,6 years ago on Introduction,n
+1375,1356,p,"I am looking forward to making my very first batch of wine soon, but I am confused about one step. Many tutorials that I have read attach the airlock immediately after mixing in their sugar and yeast, but other sites instruct you to only cover the bucket with a towel to allow airflow for a while first. Which is correct? Which is better? Won't leaving the wine open to oxygen potentially contaminate it? My goal is to make tasty wine for long term storage . Thanks in advance!",n
+1378,1356,button,3 replies,n
+1379,984,article,,n
+1387,1379,div,BillD8,n
+1398,1379,p,,n
+1399,1398,text,It might be interesting to read about my first attempt at wine making.,n
+1401,1398,br,"I had a load of fresh black currents I had no use for, so decided to fill some very large jam jars with water, some sugar, and the berries. I was just gonna leave them like that, but in the fridge till I could use them soon.",n
+1403,1398,br,"I took one jar out to use a few berries, and accidentally put it in a cupboard.",n
+1405,1398,br,"Around two days later, I opened the cupboard, noticed the misplaced jar and was about to bin it when I had a thought about the bubbles I could see. So, I opened and smelled it.",n
+1407,1398,br,Yes. It was fermenting just as it was.,n
+1409,1398,br,"I moved the other jars into the same cupboard, and knowing that all the books ""fermentation lock"", I decided to try screwing the lids full on, then slowly loosen them so that the yeast when expelling oxygen would build up a tiny bit of pressure which should, I hoped, keep air from getting in, but would keep the oxygen flowing out.",n
+1411,1398,br,"After a few.days the fermenting in most of the jars.slowed, so I bought a.cheap.pack of bread yeast, dropped.a.little in each jar and forgot about them for over a week and a half.",n
+1414,1398,br,So came the day to open one and try.,n
+1416,1398,br,I put all the jars on the kitchen table. They all looked like giant jam jars full of quality red wine.,n
+1418,1398,br,"I chose one, opened it, smelled it. Nice.",n
+1420,1398,br,I then tasted it.,n
+1422,1398,br,BEAUTIFUL!,n
+1424,1398,br,And terribly strong.,n
+1426,1398,br,I can with all honesty say that it is yet one of the loveliest wines I have enjoyed. What a party too .,n
+1429,1398,br,"With regards towel or fermentation lock, it is really simple.having a barrier that helps prevent any aerial contamination.",n
+1431,1398,br,"Both a lock or towel, or even a slightly unscrewed jam jar can help.",n
+1433,1398,br,"The function appears to be in all of the above to allow gasses to escape, but not enter the container. Period.",n
+1436,1398,br,pressure inside your container.,n
+1438,1398,br,"And as this, albiet slight, pressure is greater than the pressure in the surrounding room, gasses can escape, but also ""push"" out external gasses, making it difficult for external contaminants to enter.",n
+1441,1398,br,"It is worth, always, when researching new projects of any kind to read up on not only what the exact function of each piece of equipment is, but also why and how it achieves it.",n
+1443,1398,br,"And by thinking in such a way, you can now be aware of the main principles.in spite of what limitations you appear to have.",n
+1445,984,article,,n
+1455,1445,div,BillD8,n
+1465,1445,p,Thanks,n
+1467,984,article,,n
+1474,1467,div,,n
+1475,1474,text,MartinW18,n
+1479,1474,p,Reply 6 years ago on Introduction,n
+1486,1467,div,,n
+1487,1486,p,,n
+1488,1487,text,"You'll be fine either way as long as it is only for a short amount of time in the very beginning! When a yeast has access to oxygen it will perform what is called aerobic respiration, which yields carbon dioxide and water as end products, but has higher energy output. .",n
+1491,1487,br,"When the yeast does not have access to oxygen, it performs an ANaerobic respiration, or fermentation, in which the end products are carbon dioxide and ethanol . But this process yields lower amount of energy.",n
+1494,1487,br,"What I assume people want to do when they don't seal the solution from air directly, is to kickstart the reproduction of the yeast with the high energy output aerobic respiration.",n
+1497,1487,br,"What I've always done is to shake the fermentation or brewing vessel with the small amount of air in it from the start, to increase oxygen concentration in the solution, and then seal it directly. And that has worked fine for me.",n
+1500,1486,br,OxygenNeededNot neededGlucose breakdownCompleteIncompleteEnd productCarbon dioxide and waterAnimal cells,n
+1503,981,button,More Comments,n
+1506,1,div,,n
+1507,1506,div,,n
+1510,1507,span,Open Menu,n
+1511,1507,ul,,n
+1513,1511,li,,n
+1516,1513,li,circuits,n
+1519,1513,li,workshop,n
+1522,1513,li,craft,n
+1525,1513,li,cooking,n
+1528,1513,li,living,n
+1531,1513,li,outside,n
+1533,1511,li,Log In Signup,n
+1537,1511,li,Search,n
+1539,1511,li,Following,n
+1540,1511,li,,n
+1541,1540,text,Projects,n
+1542,1540,ul,,n
+1547,1542,li,All Projects,n
+1548,1542,li,,n
+1550,1548,text,Circuits,n
+1551,1548,ul,,n
+1557,1551,li,Apple,n
+1563,1551,li,Assistive Tech,n
+1565,1551,li,Audio,n
+1567,1551,li,Cameras,n
+1569,1551,li,Clocks,n
+1571,1551,li,Computers,n
+1575,1551,li,Gadgets,n
+1577,1551,li,Lasers,n
+1579,1551,li,LEDs,n
+1581,1551,li,Linux,n
+1583,1551,li,Microcontrollers,n
+1585,1551,li,Microsoft,n
+1587,1551,li,Mobile,n
+1589,1551,li,Raspberry Pi,n
+1591,1551,li,Remote Control,n
+1595,1551,li,Robots,n
+1597,1551,li,Sensors,n
+1599,1551,li,Software,n
+1601,1551,li,Soldering,n
+1603,1551,li,Speakers,n
+1607,1551,li,USB,n
+1609,1551,li,Wearables,n
+1611,1551,li,Websites,n
+1613,1551,li,Wireless,n
+1614,1542,li,,n
+1616,1614,text,Workshop,n
+1617,1614,ul,,n
+1625,1617,li,Cars,n
+1629,1617,li,Electric Vehicles,n
+1631,1617,li,Energy,n
+1633,1617,li,Furniture,n
+1635,1617,li,Home Improvement,n
+1637,1617,li,Home Theater,n
+1639,1617,li,Hydroponics,n
+1641,1617,li,Knives,n
+1645,1617,li,Lighting,n
+1647,1617,li,Metalworking,n
+1649,1617,li,Molds and Casting,n
+1651,1617,li,Motorcycles,n
+1655,1617,li,Pallets,n
+1657,1617,li,Repair,n
+1661,1617,li,Shelves,n
+1663,1617,li,Solar,n
+1667,1617,li,Woodworking,n
+1669,1617,li,Workbenches,n
+1670,1542,li,,n
+1672,1670,text,Craft,n
+1673,1670,ul,,n
+1681,1673,li,Books and Journals,n
+1683,1673,li,Cardboard,n
+1685,1673,li,Cards,n
+1687,1673,li,Clay,n
+1689,1673,li,Costumes and Cosplay,n
+1691,1673,li,Digital Graphics,n
+1693,1673,li,Duct Tape,n
+1695,1673,li,Embroidery,n
+1697,1673,li,Fashion,n
+1699,1673,li,Felt,n
+1701,1673,li,Fiber Arts,n
+1703,1673,li,Gift Wrapping,n
+1705,1673,li,Jewelry,n
+1707,1673,li,Knitting and Crochet,n
+1709,1673,li,Leather,n
+1711,1673,li,Mason Jars,n
+1713,1673,li,No-Sew,n
+1715,1673,li,Paper,n
+1717,1673,li,Parties and Weddings,n
+1719,1673,li,Photography,n
+1721,1673,li,Printmaking,n
+1725,1673,li,Sewing,n
+1727,1673,li,Soapmaking,n
+1729,1673,li,Wallets,n
+1730,1542,li,,n
+1732,1730,text,Cooking,n
+1733,1730,ul,,n
+1739,1733,li,Bacon,n
+1741,1733,li,BBQ and Grilling,n
+1743,1733,li,Beverages,n
+1745,1733,li,Bread,n
+1747,1733,li,Breakfast,n
+1749,1733,li,Cake,n
+1751,1733,li,Candy,n
+1753,1733,li,Canning and Preserving,n
+1755,1733,li,Cocktails and Mocktails,n
+1757,1733,li,Coffee,n
+1759,1733,li,Cookies,n
+1761,1733,li,Cupcakes,n
+1763,1733,li,Dessert,n
+1765,1733,li,Homebrew,n
+1767,1733,li,Main Course,n
+1769,1733,li,Pasta,n
+1771,1733,li,Pie,n
+1773,1733,li,Pizza,n
+1775,1733,li,Salad,n
+1777,1733,li,Sandwiches,n
+1779,1733,li,Snacks and Appetizers,n
+1781,1733,li,Soups and Stews,n
+1783,1733,li,Vegetarian and Vegan,n
+1784,1542,li,,n
+1786,1784,text,Living,n
+1787,1784,ul,,n
+1793,1787,li,Beauty,n
+1795,1787,li,Christmas,n
+1797,1787,li,Cleaning,n
+1799,1787,li,Decorating,n
+1801,1787,li,Education,n
+1803,1787,li,Gardening,n
+1805,1787,li,Halloween,n
+1807,1787,li,Health,n
+1809,1787,li,Hiding Places,n
+1811,1787,li,Holidays,n
+1813,1787,li,Homesteading,n
+1815,1787,li,Kids,n
+1817,1787,li,Kitchen,n
+1819,1787,li,LEGO and K'NEX,n
+1821,1787,li,Life Hacks,n
+1825,1787,li,Office Supply Hacks,n
+1829,1787,li,Pest Control,n
+1831,1787,li,Pets,n
+1833,1787,li,"Pranks, Tricks, and Humor",n
+1835,1787,li,Relationships,n
+1837,1787,li,Toys and Games,n
+1839,1787,li,Travel,n
+1841,1787,li,Video Games,n
+1842,1542,li,,n
+1844,1842,text,Outside,n
+1845,1842,ul,,n
+1851,1845,li,Backyard,n
+1853,1845,li,Beach,n
+1855,1845,li,Bikes,n
+1857,1845,li,Birding,n
+1859,1845,li,Boats,n
+1861,1845,li,Camping,n
+1863,1845,li,Climbing,n
+1865,1845,li,Fire,n
+1867,1845,li,Fishing,n
+1869,1845,li,Hunting,n
+1871,1845,li,Kites,n
+1873,1845,li,Knots,n
+1875,1845,li,Launchers,n
+1877,1845,li,Paracord,n
+1879,1845,li,Rockets,n
+1881,1845,li,Siege Engines,n
+1883,1845,li,Skateboarding,n
+1885,1845,li,Snow,n
+1887,1845,li,Sports,n
+1889,1845,li,Survival,n
+1891,1845,li,Water,n
+1892,1542,li,,n
+1894,1892,text,Teachers,n
+1895,1892,ul,,n
+1901,1895,li,ELA,n
+1903,1895,li,Math,n
+1905,1895,li,Micro,n
+1909,1895,li,Social Studies,n
+1911,1895,li,Engineering,n
+1913,1895,li,Coding,n
+1917,1895,li,Robotics,n
+1927,1895,li,3D Design,n
+1933,1895,li,Theatre,n
+1935,1895,li,Wood Shop,n
+1937,1895,li,Metal Shop,n
+1939,1895,li,Resources,n
+1941,1895,li,Grades K-2,n
+1943,1895,li,Grades,n
+1945,1895,li,Grades,n
+1947,1895,li,Grades,n
+1949,1895,li,University+,n
+1951,1511,li,Contests,n
+1953,1511,li,Teachers,n
+1954,1511,li,,n
+1955,1954,text,Publish,n
+1956,1954,ul,,n
+1960,1956,li,New Instructable,n
+1962,1956,li,Drafts,n
+1964,1956,li,Published,n
+1966,1956,li,Why Publish Instructables?,n
+1968,1956,li,Writing an Instructable,n
+1969,1506,span,,n
+1971,1969,span,How to Make Wine,n
+1972,1969,text,by Seakip18,n
+1975,1969,button,Follow,n
+1976,1506,span,,n
+1981,1976,span,Favorite,n
+1984,1976,span,I Made It,n
+1987,1976,span,View Comments,n
+1990,1976,span,Share,n
+1993,1976,span,More Options,n
+1994,1506,div,,n
+1996,1994,button,Facebook,n
+1998,1994,button,Twitter,n
+2000,1994,button,Pinterest,n
+2002,1994,button,Google Classroom,n
+2003,1506,div,,n
+2005,2003,button,Flag,n
+2006,2003,ul,,n
+2008,2006,li,Wrong Category,n
+2010,2006,li,Inappropriate,n
+2012,2006,li,Incomplete,n
+2014,2006,li,Spam,n
+2016,2003,button,Add To Collection,n
+2018,2003,button,Add To Contest,n
+2020,2003,button,Edit,n

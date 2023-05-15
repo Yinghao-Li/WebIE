@@ -1,0 +1,176 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+29,0,div,,n
+43,29,h1,Field Hockey Equipment List,n
+44,29,div,,n
+48,44,h2,Contents,n
+51,44,ul,,n
+53,51,li,Field Hockey Equipment,y
+55,51,li,Accessories,y
+57,51,li,Balls,y
+59,51,li,Cleats,y
+63,51,li,Duct Tape,y
+65,51,li,Elbow Protector,y
+67,51,li,Eye Black,y
+69,51,li,Face Masks,y
+71,51,li,Field Hockey Socks,y
+73,51,li,Field Hockey Stick Bags,y
+75,51,li,Field Hockey Sticks,y
+77,51,li,Goalie Girdle,y
+79,51,li,Goalie Helmets,y
+81,51,li,Goals,y
+83,51,li,Goggles,y
+85,51,li,Grip Tape,y
+87,51,li,Jerseys,y
+89,51,li,Kits,y
+91,51,li,Leg Guards,y
+93,51,li,Mouth Guards,y
+95,51,li,Neck Protector,y
+97,51,li,Shin Guards,y
+99,51,li,Snacks,y
+101,51,li,Training Equipment,y
+103,51,li,Uniforms,y
+105,51,li,Water Bottles,y
+109,29,div,,n
+111,109,h2,Field Hockey Equipment,y
+113,109,p,"Field hockey is a team sport played by athletes using sticks with the objective of scoring more goals than their opponent. Field hockey is the third most popular sport world-wide behind soccer and cricket , and is primarily played in Europe and Southeast Asia. The sport is played with a small plastic ball that players hit with their sticks and dribble up the field. It is fundamentally similar rules-wise to ice hockey , but the goals are larger and the sport is played on turf or grass.",n
+123,29,div,,n
+125,123,h2,Accessories,y
+127,123,p,"Field hockey accessories can come in many forms. Some accessories can be considered certain training equipment, cones, or balls. In addition, field hockey accessories can be t-shirts, long sleeve shirts, pants, performance wear, or youth apparel. All of these accessories can be tailored or customized for the sport of field hockey.",n
+128,29,div,,n
+130,128,h2,Balls,y
+132,128,p,"A field hockey ball is the only type of equipment that can be used to play field hockey, like an ice hockey puck for ice hockey. A field hockey ball is a round, spherical like ball that is made of solid plastic. The ball is easy to stickhandle, to pass, or to shoot with. It can stay on the ground or fly in the air as well. A pack of a dozen balls can be bought for $50.",n
+133,29,div,,n
+135,133,h2,Cleats,y
+137,133,p,"Field hockey cleats are similar to a typical baseball or soccer cleat. However, field hockey cleats are made with longer rubber studs, so a player can have a better grip on the grass or turf field when running . It prevents them from wiping out. Popular field hockey cleat brands are often Asics or Under Armour. Prices range anywhere from $30 to $80.",n
+142,29,div,,n
+144,142,h2,Cones,y
+146,142,p,"Field hockey cones are like any other type of cone. The cones used are the same as those used in soccer, flag football , or ice hockey drills . A player often uses these cones while training to practice stickhandling, or a team may implement cones into their practice to aid a player in changing direction or when making a move around an opposing player. A pack of cones can be bought for $10.",n
+151,29,div,,n
+153,151,h2,Duct Tape,y
+155,151,p,Field hockey duct tape usually costs around $3 to $4 like a typical roll of ice hockey tape. Duct tape is an alternative to taping the top of a stick in grip tape. It is a player's personal preference as to what texture or type suits them best.,n
+156,29,div,,n
+158,156,h2,Elbow Protector,y
+160,156,p,"Field hockey elbow protectors range anywhere from $25 to $100. A lot of field hockey elbow protectors can also be used in lacrosse . The elbow protectors are made with cushions and protection to ensure a player does not get injured from a stick, ball, or by falling into the field hard.",n
+163,29,div,,n
+165,163,h2,Eye Black,y
+167,163,p,"Field hockey eye black not only makes a player look cool when running onto the field, but most importantly protects a player's eyes from the sun. The eye black absorbs the sunlight and heat radiating down and allows the player to feel comfortable and to be able to navigate their way around the field freely. Eye black is often used for NHL players during Outdoor Winter Classic games and only costs $3 a bottle.",n
+170,29,div,,n
+172,170,h2,Face Masks,y
+174,170,p,"Field hockey face masks are similar to those that NHL goaltenders used to wear when the game was first established. Depending on the prior injuries or the personal preferences of a player, face masks are somewhat popular. Field hockey masks have two holes for a player's eyes and goggles to fit through and two holes that a player's nostrils fit into . There are two horizontal buckle straps that loop around the back of a player's head, and there is one vertical strap that loops behind their head as well. This way, a player's face is protected and secure during gameplay. They typically range anywhere from $30 to $100.",n
+175,29,div,,n
+177,175,h2,Field Hockey Socks,y
+179,175,p,"Field hockey socks are high socks that fit shin guards under them, so the guards are secure and won't move around a lot. Field hockey socks, depending on the brand, are made out of top quality fabrics, which allows the player to feel comfortable on their feet when running around the field. They are typically about $10 a pair.",n
+180,29,div,,n
+182,180,h2,Field Hockey Stick Bags,y
+184,180,p,"A field hockey stick bag is the method of transport for carrying a player's field hockey sticks. When traveling from game to game, a stick bag protects the sticks from being cracked or broken, while also giving the player an easy way to hold the sticks with the strap on the side of the bag. Stick bags are not expensive and can typically hold anywhere between 1-4 sticks in each of them.",n
+185,29,div,,n
+187,185,h2,Field Hockey Sticks,y
+189,185,p,"A field hockey stick is what is needed to play the game and the most vital piece of equipment. There are various brands, shapes, and sizes of field hockey sticks. The top of the stick is usually taped with grip tape. Sticks are usually in the price range of $60 to $140. It is likely that a player will get used to a certain brand and will buy that type of stick continuously. The bottom part of the stick is what is used to pass and to shoot the ball around.",n
+190,29,div,,n
+192,190,h2,Goalie Girdle,y
+194,190,p,A field hockey goalie girdle is like an ice hockey shell for pants. A goalie girdle is made in a certain color or with a specific design that is worn over a goalie's pants above their padding. A goalie girdle often signifies which team a certain player belongs to. A goalie girdle is often made specifically for a player's team.,n
+195,29,div,,n
+197,195,h2,Goalie Helmets,y
+200,195,p,"Goalie helmets are similar to player helmets in a sense as the main job is to protect the goalie's head and block balls off their helmet if need be. However, a goalie helmet only consists of clip-ons on the side of the helmet with one strap under the chin. As a result, the goalie is able to turn their head and move easier inside the helmet. They are also more prone to their helmet falling off during the action, which can be dangerous. Many goalies customize their helmets based on whatever team they are playing for. Helmets cost between $100 and $200.",n
+201,29,div,,n
+203,201,h2,Goals,y
+205,201,p,"A field hockey goal is also known as a field hockey net. Once a player shoots the ball past the white goal line, between the posts, on the grass or turf, it's considered a goal. A field hockey goal is a mix between a soccer net and an ice hockey net. While it has the same shape of an ice hockey net and contains two posts and one crossbar, the length and width of a field hockey net differs. Instead of being 4 feet by 6 feet, a field hockey net is 7 feet by 12 feet.",n
+206,29,div,,n
+208,206,h2,Goggles,y
+210,206,p,Goggles used in field hockey are different from goggles used in swimming . Field hockey goggles are worn to protect a player's face and eyes from being hit with a stray ball or stick or by another player. They typically range in price from $20-$60 depending on the brand and how much protection it offers.,n
+213,29,div,,n
+215,213,h2,Grip Tape,y
+217,213,p,Grip tape is often used by a field or ice hockey player. Grip tape is typically more expensive than a normal roll of clear or colored tape. It is about $5-$10. A player may use grip tape because it feels more comfortable inside their hand or glove to hold and move around their stick.,n
+218,29,div,,n
+220,218,h2,Jerseys,y
+222,218,p,"A field hockey jersey is worn over a player's elbow protectors and shirt. A jersey often has the name of the team on the front, with the name of the individual player and their number on the back. A team often has a home and away jersey . Jerseys signify the team a player associates themself with.",n
+223,29,div,,n
+225,223,h2,Kits,y
+227,223,p,"Field hockey kits consist of a stick bag, shin guards, goggles, and a field hockey stick. These pieces of equipment are vital to acquire in order to be successful with the sport. A player must make sure they're getting equipment that will be suitable for them and fit well. Furthermore, it's important to find a brand that has the right stuff for you.",n
+228,29,div,,n
+230,228,h2,Leg Guards,y
+232,228,p,"Field hockey leg guards are similar to field hockey shin guards. Leg Guards protect the player's leg and knees from injury. Leg Guards are necessary because the plastic shell of protection and cushion of the pad is the only way a player can feel safe and secure enough to block a shot, take a stick slash, or fall to the ground. The price range usually ranges from about $30 to $150 depending on the manufacturer and protection.",n
+233,29,div,,n
+235,233,h2,Mouth Guards,y
+237,233,p,"Mouth guards are an underrated piece of equipment in field hockey. Many different competitive youth sporting leagues require players to wear them. Mouth guards make it so your teeth are better protected. Furthermore, if one is hit hard into the ground, the mouth guard can absorb a lot of the impact if one closes their mouth and bites down. This can also prevent serious concussions. Mouth guards vary in price depending on the size and if they are custom fit to a player's mouth.",n
+238,29,div,,n
+240,238,h2,Neck Protector,y
+242,238,p,"A field hockey player neck guard is similar to that of an ice hockey player. It is made with certain types of padding and cushions. A player's neck guard is placed around their neck and also covers their throat and collar bone. As a result, players have better protection from rising balls or sticks that may hit them or interfere with them throughout the game. Neck guards typically cost around $30.",n
+244,29,div,,n
+246,244,h2,Shin Guards,y
+248,244,p,"Field hockey shin guards are often referred to as shin pads. Shin guards protect the player's leg and knees from injury. Shin guards are necessary because the plastic shell of protection and cushion of the pad is the only way a player can feel safe and secure enough to block a shot, take a stick slash, or fall to the ground. Shin pads stay in position on the leg when a player moves around the field by using straps that loop around the back of a player's leg. The shin guards used in field hockey are similar to those used in soccer and cost approximately $30.",n
+249,29,div,,n
+251,249,h2,Snacks,y
+253,249,p,"Some preferable or healthy options of snacks to eat before a field hockey practice or game include the following: Protein, Carbohydrates, and Vitamins.",n
+254,249,ul,,n
+256,254,li,A wrap with chicken and salad,y
+258,254,li,Fruit salad or smoothies,y
+260,254,li,Yogurt,y
+262,254,li,Carbohydrates,y
+264,254,li,Bananas,y
+266,254,li,nuts or cashews,y
+267,29,div,,n
+269,267,h2,Training Equipment,y
+271,267,p,"Training equipment for field hockey is similar to the pieces of equipment used to train in ice hockey or roller hockey. A player may use training equipment to enhance certain skills off-ice, to increase stamina and conditioning, or for fun. Some types of training equipment include:",n
+272,267,ul,,n
+276,272,li,Goalkeeper Training,y
+278,272,li,Hurdles and Agility,y
+280,272,li,Practice Soccer Balls,y
+282,272,li,Rebounders,y
+284,272,li,Resistance Bands,y
+286,272,li,Speed Ladders,y
+288,272,li,Target Sheets,y
+289,29,div,,n
+291,289,h2,Uniforms,y
+293,289,p,"Field hockey uniforms are basically another name for field hockey jerseys. However, the only difference is that field hockey uniforms can be short sleeve or sleeveless, while jerseys are typically just short or long sleeve.",n
+294,29,div,,n
+296,294,h2,Water Bottles,y
+298,294,p,"Field hockey water bottles are like any typical water bottle for a soccer, ice hockey, or football player. A team brings several bottles to their bench and sideline, and a player squirts water from the straw or opening into their mouths from a few inches away. A Gatorade bottle is a perfect example.",n
+301,29,div,,n
+303,301,h2,FAQ,n
+304,301,div,,n
+305,304,div,,n
+308,305,h3,What is the most important field hockey equipment?,n
+312,305,p,"The most important pieces of equipment are the sticks and the ball. Only one ball is needed per game but every player must have a stick. Players wear shin guards and face masks to protect themselves from injuries since the ball is very hard, and the goalie wears additional padding all over their body since they are the most susceptible to taking hits. Matching jerseys are a vital part of the game so that players know who is on their team. Field hockey athletes wear cleats, and occasionally use accessories such as eye black, mouth guards, and wristbands to personalize their game.",n
+313,304,div,,n
+316,313,h3,How much does field hockey equipment cost?,n
+320,313,p,"A ball is usually around $5 while a stick can vary greatly from cheap options for $20 to high-quality sticks over $100. To get a durable stick without breaking the bank, there are many varieties valued at around $50 that are the best for non-professional players. A typical face mask will be between $20 to $30, and can be used for lacrosse as well.",n
+324,29,div,,n
+326,324,h2,Pages Related to Field Hockey Equipment List,n
+327,324,ul,,n
+329,327,li,How Dangerous Is Field Hockey?,n
+331,327,li,What is Field Hockey?,n
+333,327,li,Field Hockey,n
+335,327,li,5 Most Common Field Hockey Injuries,n
+337,327,li,How Does Scoring Work In Field Hockey?,n
+339,327,li,History Of Field Hockey,n
+343,29,footer,,n
+344,343,div,,n
+345,344,div,,n
+347,345,span,Company,n
+348,345,ul,,n
+350,348,li,About,n
+352,348,li,Careers,n
+354,348,li,Shop,n
+355,344,div,,n
+357,355,span,Contact,n
+360,355,li,Contact Us,n
+363,344,div,,n
+365,363,span,Legal,n
+366,363,ul,,n
+368,366,li,Terms,n
+370,366,li,Privacy,n
+371,344,nav,,n
+373,371,span,Social,n
+374,371,ul,,n
+376,374,li,Facebook,n
+378,374,li,Instagram,n
+380,374,li,LinkedIn,n
+382,374,li,Medium,n
+384,374,li,Pinterest,n
+386,374,li,Twitter,n
+388,374,li,YouTube,n
+389,343,div,,n
+391,389,span,Rookie Road may earn a commission when you buy through links on our site.,n
+393,389,span,Copyright ©Rookie Road Inc. All rights reserved.,n

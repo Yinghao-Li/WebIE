@@ -1,0 +1,931 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+178,3,div,,n
+179,178,div,,n
+180,179,div,,n
+182,180,h1,Packing a Kayak,n
+183,180,div,,n
+184,183,text,By,n
+186,183,span,Jeffrey Lee,n
+187,180,div,,n
+189,187,span,30,n
+191,187,span,Oct,n
+192,179,div,,n
+194,192,h3,How to pack your sea kayak,n
+196,192,p,,n
+197,196,text,sighting land and,n
+199,196,br,"work again after a cheerful, careless voyage.”",n
+201,196,br,Mark Twain,n
+203,192,p,"At some point early in our paddling lives, perhaps when we find ourselves approaching the end of a long paddling day but still a few miles from the takeout, we get to wondering.",n
+205,192,p,"“What if,” we surmise, thoughtfully stroking our stubbled chins, “I didn’t have to go home? What if I had, right here inside my boat, all the stuff I needed to eat and sleep and be comfortable for a night? Maybe two …?”",n
+210,192,p,"And so the ancient art of paddle-camping is rediscovered. But be careful; it was exactly this sort of fanciful reasoning that caused many a voyageur and mountain man to head for the woods, never to be seen again.",n
+212,192,p,Following are some tips and pointers to help make your own overnight kayak-camping adventures a bit more enjoyable.,n
+214,192,h3,Pack Light,n
+216,192,p,"If you’ve recently made the transition from car camping, you may wonder where in your kayak to stow the cast-iron Dutch oven, chaise lounge, and beer cooler. Kayak camping is not as restrictive as backpacking, but almost. Even much of your favorite gear that is easily swallowed by a canoe will have to be left behind when kayak camping, so some strict discipline is in order.",n
+218,192,h3,Size Matters,n
+220,192,p,"You’ll probably find it easier to use lots of smaller drybags instead of a few larger bags, to better adapt to the oddly-shaped interior of most kayaks. Your bags should be color coded for organization, and perhaps even labeled with identifying tags. Heavy vinyl bags are alright for food, as they are more resistant to puncture and probably allow less bear-attracting odor to waft through the woods, but they stubbornly stick to one another when packing into the boat. Most of my favorite bags are instead made of lightweight nylon or polyester fabric with an internal rubberized waterproof coating. Though perhaps requiring a bit more care to prevent punctures, these bags easily slide past one another when jammed into a cargo compartment, making packing more efficient. As you close each drybag, be sure to squeeze out as much air as possible before rolling down the neck seal, to conserve precious space inside your compartments.",n
+223,192,p,Fragile essentials and other valuables may require extra padding,n
+225,192,h3,Keep Your Balance,n
+227,192,p,"Heavier items like food and water should be packed near the middle of your kayak, preferably just behind the rear bulkhead, while lighter, bulky items like sleeping bags and clothing get packed toward the ends. Everything should be packed low and centered from side-to-side, to keep your boat stable and balanced. The only exception to these general rules is if you need to re-trim a boat for better handling. When one of my paddling partner’s skeg cable broke halfway through a trip, he wisely loaded his boat a little stern-heavy the following days, to alleviate weathercocking.",n
+230,192,p,"A few days before your first overnighter, try test-packing your kayak to see if all your intended gear will indeed fit. It probably won’t. As you choose items that won’t make the trip, just remind yourself that the whole purpose of kayak camping is to get away from it all.",n
+234,192,h3,A Packing List,n
+236,192,p,Rev. 13,n
+238,192,p,"I offer below my current personal packing list, suitable for multi-day, self-supported sea-kayak trips on the Great Lakes or inland waterways. I am constantly tinkering with this list, as evidenced by the revision number above, and will post new ones here as they evolve.",n
+240,192,p,"You will undoubtedly wonder about certain items on my list . So by all means, feel free to add and delete gear to make it your own personal packing list.",n
+246,192,p,"Believe it or not, all this stuff fits through the hatches of 14- to 18-foot sea kayaks, though sometimes I wonder how. If you’re paddling with others, there is no need to duplicate some of the equipment such as tents and cookware, but it’s often wise to have a spare stove or water filter, so use your best judgment, and hit the water!",n
+249,192,p,KAYAK,n
+250,192,ul,,n
+252,250,li,"Kayak with all hatch covers, etc.",y
+254,250,li,Deck Compass,y
+256,250,li,Paddle with Leash,y
+258,250,li,Spare Paddle,y
+260,250,li,PFD,y
+262,250,li,Spray Skirt,y
+264,250,li,Bilge Pump,y
+266,250,li,Paddle Float,y
+268,250,li,Sponge and Bailer,y
+270,250,li,Mapcase,y
+272,250,li,Tow Belt,y
+274,250,li,Hydration Pack,y
+277,192,p,Deck Bag,n
+278,192,ul,,n
+280,278,li,Waterproof Binoculars,y
+282,278,li,Spare Camera Batteries and Memory Cards,y
+284,278,li,"Sunscreen, UV Lip Balm, Pain Reliever",y
+286,278,li,Snacks,y
+288,278,li,VHF Marine Radio Protocol Cheat Sheet,y
+290,278,li,Waterproof Notepad and Pen,y
+293,192,p,Dayhatch or other accessible location,n
+294,192,ul,,n
+296,294,li,Water Bottles,y
+298,294,li,Coffee Thermos,y
+300,294,li,Lunch,y
+302,294,li,First-Aid Kit,y
+304,294,li,"Signal Flares, Air Horn and Spare Air Can",y
+306,294,li,Waterproof Headlamp,y
+308,294,li,Compact Photo Tripod,y
+310,294,li,Small Towel,y
+312,294,li,Latrine Kit,y
+313,192,p,,n
+315,313,strong,BAILOUT BAG or DITCH KIT or SURVIVAL,y
+317,313,br,Containing emergency survival gear,n
+318,192,p,,n
+320,318,strong,KAYAK REPAIR KIT,y
+322,318,br,Containing emergency repair supplies and tools,n
+325,192,p,PADDLING CLOTHING,n
+326,192,ul,,n
+328,326,li,Synthetic Undershorts or Swim Trunks,y
+330,326,li,Synthetic Long-sleeve Top,y
+332,326,li,Synthetic T-Shirt,y
+334,326,li,5mm Neoprene Long- or Shortsleeve Wetsuit Shirt,y
+336,326,li,Farmer John Neoprene Wetsuit,y
+338,326,li,Water Shoes,y
+340,326,li,"Synthetic Socks, 2 Pairs",y
+342,326,li,Gloves,y
+344,326,li,Hat,y
+346,326,li,Bandana,y
+348,326,li,Sunglasses,y
+350,326,li,Eyeglass Tether,y
+353,192,p,"PADDLING CLOTHING, Optional, in mesh bag inside cockpit",n
+354,192,ul,,n
+356,354,li,Drysuit or Drytop,y
+358,354,li,Neoprene Wetsuit Booties,y
+360,354,li,Synthetic Balaclava or Watch Cap,y
+363,192,p,SHELTER,n
+364,192,ul,,n
+366,364,li,"Tent with Ground Cloth, Extra Stakes",y
+368,364,li,"Rain Tarp, 10×10′, with Stakes",y
+370,364,li,Sleeping Bag,y
+372,364,li,Sleeping Pad,y
+374,364,li,Bear Bag Kit,y
+376,364,li,"Clothesline, 20′",y
+379,192,p,"SHELTER, Optional",n
+380,192,ul,,n
+382,380,li,Sleeping Bag Liner,y
+384,380,li,Complete Sleeping Hammock Rig,y
+386,380,li,Camp Chair,y
+388,380,li,Bear Repellent Spray,y
+391,192,p,GENERAL CLOTHING,n
+392,192,ul,,n
+394,392,li,"Synthetic Undershorts, 3 Pair",y
+396,392,li,Synthetic Fleece Long Underwear PJs,y
+398,392,li,"Camp Shirts, 2",y
+400,392,li,Socks,y
+402,392,li,Short Hiking Shoes,y
+404,392,li,Sandals,y
+406,392,li,Convertible Pants,y
+408,392,li,Synthetic Fleece Jacket,y
+410,392,li,Waterproof-Breathable Rain Jacket,y
+412,392,li,Synthetic Gloves,y
+414,392,li,Trash Bag,y
+417,192,p,PERSONAL,n
+418,192,ul,,n
+420,418,li,Insect Repellent,y
+422,418,li,Insect Headnet,y
+424,418,li,Earplugs,y
+426,418,li,"Waterproof Headlamp, Spare Batteries",y
+428,418,li,"Compact Handheld Flashlight, Spare Batteries",y
+430,418,li,Candle Lantern,y
+432,418,li,Orienteering Compass,y
+434,418,li,Multi-Tool,y
+436,418,li,"Book, Journal, Pen",y
+438,418,li,"Misc. Drybags, Duffels, Mesh Ditty Bags, Ziplocks, Tough Trash Bags with Rubber Bands",y
+441,192,p,KITCHEN,n
+442,192,ul,,n
+444,442,li,Food;,y
+446,442,li,"White-Gas Stove with Fuel, Priming Alchohol, Lighters;",y
+448,442,li,Cookware with Handle,y
+450,442,li,Can Opener,y
+452,442,li,Eatware,y
+454,442,li,Foil Lunch Pouch,y
+456,442,li,Coffee Filter,y
+458,442,li,Salt and Pepper,y
+460,442,li,Water,y
+462,442,li,"Dish Soap with Scrubby, Pot Scraper",y
+464,442,li,Hand Sanitizer,y
+466,442,li,Kitchen Knife,y
+468,442,li,Small Dish Towel,y
+470,442,li,"Firestarting Sticks, Matches, Lighter",y
+472,442,li,Ziplock Heavy-duty Freezer Bags,y
+475,192,p,IN CAR FOR DRIVE HOME,n
+476,192,ul,,n
+478,476,li,Large Trash Bags,y
+480,476,li,Street clothes,y
+482,476,li,Cell Phone Charger,y
+484,192,p,"What do you think? Leave a question or comment below, and use the social links to share with friends!",n
+488,179,div,,n
+490,488,div,Categories,n
+497,488,div,Tags,n
+499,178,div,,n
+501,499,h3,Comments,n
+502,499,ol,,n
+503,502,li,,n
+504,503,article,,n
+505,504,footer,,n
+507,505,div,lois vega,n
+512,505,div,"January 16, 2013 at 5:37 pm",n
+515,504,p,"Thanks, I will gather what I think I might need and do a test to see how much I can do without. I appreciate your notes. lois",n
+519,503,li,,n
+520,519,article,,n
+521,520,footer,,n
+523,521,div,Patrick Sims,n
+528,521,div,"July 2, 2017 at 7:36 am",n
+531,520,p,I have found that an axe is an essential item when overnight camping anytime. I always have one in the bottom of my front hatch.,n
+534,519,ul,,n
+536,534,li,,n
+544,536,div,"July 4, 2017 at 8:55 pm",n
+545,536,div,,n
+547,545,p,"Yes, if you plan to enjoy a campfire for cooking, etc., a small axe or hatchet, and perhaps even a small bow saw are important.",n
+549,545,p,Thanks!,n
+551,534,li,,n
+552,551,footer,,n
+554,552,div,Beetrecca BushRaft,n
+559,552,div,"September 6, 2021 at 1:14 am",n
+562,551,p,Also a machete is a handy tool to take as some river banks or possible camp sites may need clearance if you venture off out to the unknown..,n
+563,502,li,,n
+564,563,article,,n
+565,564,footer,,n
+567,565,div,Greg Hunt,n
+572,565,div,"April 30, 2013 at 9:39 am",n
+575,564,p,"I have Kakak camped on lake islands and the Arkansas River system for the last several years. Looking over this list I see it is fairly close to what has evolved into my camp set up. I would add, underwater sealing epoxy, a roll of duct tape, a roll of light gauge wire cable and a few light shackles. I have a 17 foot sea kayak with a rudder. The Cable and shackles are for repair of rudder cables. The epoxy and duct tape is in case of a breach in the hull. This has never happened as of yet. Still when several miles from land, you kayak is your life raft. Vigilance and preparation is absoluey needful. I have had two aquaintaces who died at sea in central California. One certaninly by shark attack and the other was lost with only his EPIRB and PFD found miles out. I am happiest when on large waters.",n
+578,563,ul,,n
+580,578,li,,n
+588,580,div,"April 30, 2013 at 10:10 am",n
+589,580,div,,n
+591,589,p,"Good advice, Greg.",n
+593,589,p,"In fact, I recently posted an article on making an emergency boat-repair kit, which would certainly include the items you mention. Of course, everyone’s kayak or canoe is different, so any such repair kit should be customized to your own needs, but it never hurts to have additional supplies to help fix someone else’s boat!",n
+597,589,p,"You may also appreciate my article on “A Paddler’s Bailout Bag”, for ideas on how to fix YOURSELF in case of an accident.",n
+601,589,p,"So sorry to hear about the loss of your friends. For many of us, the inherent danger is part of the allure of the wild open waters, but such stories also remind us to be careful out there …",n
+609,578,li,,n
+617,609,div,"September 15, 2015 at 3:28 pm",n
+620,609,p,I agree with your add-ons Greg.,n
+624,578,li,,n
+625,624,footer,,n
+627,625,div,Jason Blackburn,n
+632,625,div,"October 25, 2015 at 10:55 am",n
+635,624,p,"Hi Greg, I will be going to Lake Ouachita soon to do some island hopping and camping for about a week. I’m guessing you may have been there before. Can you recommend a good put in point? I’m a little worried about leaving the truck for 4-7 days in an isolated spot. I was considering Crystal Springs…any advice is appreciated. *Jason**",n
+638,502,li,,n
+639,638,article,,n
+640,639,footer,,n
+642,640,div,Sharon,n
+647,640,div,"May 18, 2013 at 10:36 am",n
+650,639,p,"Awesome list! Though I don’t have a ‘sea’ kayak, and stay pretty local because of my job , I’m so excited at the idea of camping out of my kayak!! I’m thinking about hitting the Kinzua Reservior this summer! YAY! Stop on by Kayak Lovers Anonymous on facebook and check out our kayak lovers!! Will be sharing your page as well. Hope you don’t mind!! Safe paddling!",n
+653,638,ul,,n
+655,653,li,,n
+663,655,div,"May 21, 2013 at 9:21 am",n
+664,655,div,,n
+666,664,p,"Sharon, yes many of the items listed here will work just as well for other camping too, on inland lakes, rivers, etc.. Of course, you’ll want to tailor it to your own style of camping, but it should be a good place to start.",n
+668,664,p,good paddling to be had on the Kinzua Reservoir!,n
+670,664,p,Will definitely check out your Kayak Lovers Anonymous Facebook page.,n
+678,653,li,,n
+679,678,footer,,n
+681,679,div,Dee,n
+686,679,div,"July 17, 2014 at 9:37 pm",n
+688,678,p,,n
+689,688,text,Hi Sharon ….,n
+691,688,br,I’m new to kayaking and i do venture out where is that river that you speak of?,n
+693,688,br,Dee,n
+696,502,li,,n
+697,696,article,,n
+705,697,div,"June 3, 2013 at 3:33 pm",n
+708,697,p,"At the end of September I’ll wet my boat in Macon Ga and paddle down to Darien Ga. This will be my first long paddle. I am so excited to do this. September can’t get here fast enought. Your packing list is most helpful, thank you!!",n
+712,696,li,,n
+713,712,article,,n
+721,713,div,"June 3, 2013 at 4:01 pm",n
+722,713,div,,n
+724,722,p,"Ron, that’s quite a paddle!",n
+726,722,p,The Ocmulgee and Altamaha are some real twisty rivers; looks like 300+ miles to the Atlantic Ocean. How long do you figure it’ll take you?,n
+728,722,p,Good luck!,n
+733,712,ul,,n
+735,733,li,,n
+743,735,div,"July 11, 2016 at 12:15 pm",n
+746,735,p,"Hey Jeff. It took 15 days for this paddle. I’ve done four more. 143 miles on the Satilla, 152 on the Oconee to the Altamaha, 93 on the Altamaha And I’m planning my next trip September 23 back to the Oconee. Also adding to your list. A usb battery charger at least 50000mah will give you at least three maybe for full phone charges.",n
+748,733,li,,n
+756,748,div,"July 14, 2016 at 9:33 pm",n
+757,748,div,,n
+759,757,p,"Ron, sounds like you’ve been racking up the miles!",n
+761,757,p,"And thanks for the suggestion of a USB charger; as more of us take digital devices on our trips, USB and solar chargers become valuable tools on our trips.",n
+763,757,p,Keep paddling!,n
+767,733,li,,n
+768,767,footer,,n
+770,768,div,Anna,n
+775,768,div,"July 4, 2017 at 8:12 pm",n
+778,767,p,I live at the at the start of the Altamaha and will be kayaking from here to Darien next weekend! This was a great list to start forming my own. Thanks!,n
+780,733,li,,n
+788,780,div,"July 4, 2017 at 9:00 pm",n
+789,780,div,,n
+791,789,p,unrestricted river to paddle; sounds like a great trip!,n
+793,789,p,any other ideas you learn.,n
+795,789,p,Enjoy the trip!,n
+796,502,li,,n
+797,796,article,,n
+798,797,footer,,n
+800,798,div,Jen Stockman,n
+805,798,div,"August 19, 2013 at 11:26 am",n
+808,797,p,"Thanks for the comprehensive list! We are planning a 3 day paddle on the Ozark Scenic Riverway in MO, and this has been very helpful just trying to get my thoughts organized. Normally we are car camping people, but this trip will be more of an adventure!",n
+813,796,li,,n
+821,813,div,"August 19, 2013 at 12:07 pm",n
+822,813,div,,n
+824,822,p,"Jen,",n
+826,822,p,Glad you found the list helpful!,n
+828,822,p,"I’ve only driven over the Ozark River, but it looks like some great paddling! Obviously, you’ll want to adapt my list to suit your own needs or preferance, but it should be a good place to start.",n
+829,822,p,,n
+830,829,text,"Not sure where you’re coming from, but another good daytrip in that region is the Cache River State Natural Area in Vienna, IL:",n
+832,829,br,https,n
+834,822,p,Hope you have a great trip!,n
+837,502,li,,n
+838,837,article,,n
+839,838,footer,,n
+841,839,div,Tommy,n
+846,839,div,"November 21, 2013 at 5:42 pm",n
+849,838,p,"One thing you didn’t put in the list that may be very helpful for survival campers is a small fishing kit. Rod, reel, hooks, jig heads and some lures or soft plastics to be loaded on to catch your own meals. One of my favorite part of camping is trying to live off the land or water while I’m out. But great list otherwise.",n
+852,837,ul,,n
+854,852,li,,n
+862,854,div,"November 23, 2013 at 5:06 pm",n
+865,854,p,"Tommy, good suggestion! I suppose I neglected to mention some simple fishing gear because I don’t fish myself, but certainly many paddlers do, and would be able to catch a meal in a pinch.",n
+869,852,li,,n
+870,869,footer,,n
+872,870,div,micah,n
+877,870,div,"December 19, 2016 at 6:56 pm",n
+880,869,p,"While i do agree with a small fishing setup, it should not be your only source of food for if you cant catch fish you will need some other form of sustenance.",n
+883,502,li,,n
+884,883,article,,n
+892,884,div,"January 28, 2014 at 5:58 pm",n
+893,884,div,,n
+895,893,p,"I think you are a bit mistaken on the need for smaller bags. The reason for small bags is they will fit through the hatches, not because they are more efficient. If you have a kayak without bulkheads or have decent sized hatches, it is better to use fewer large bags. One large well fitting bag wastes less space than several smaller bags with all the gaps around them. But the big win comes with loading and unloading the boat. Remember tide wait for no person. And sometimes the camp site is a bit of a distance from the kayak haul-up I’d rather bring two or three large bags up than go back and forth for several trips to get small bags.",n
+897,893,p,"Now I have one bag for clothes or electronics, one bag for shelter, one bag for food and one for odds and ends.",n
+899,893,p,"Sure, you can carry a duffle bag to haul all the little bags to camp in one carry. And you can then use that duffle bag to hang your food bags. Note, though you can suspend your food directly from the dry bag it’s in, those dry bag seams were not designed to hold that kind of weight in the air . But over all, my load or unload times have gotten steadily faster as the number of bags has gotten smaller.",n
+901,893,p,"My Kayak is like a station wagon compared to todays boats. I measured the inside hull diameter and bought duffle and top open dry bags that just fit. Much easier to load, easier to find stuff , less chance of leaving things behind .",n
+903,893,p,"Think of it like this – the next two times you go to the store, on one trip, use the fewest bags possible; load them up. Now note how long it takes you to load them in the car and take them into the house. On the second trip, give each item category it’s own bag, wine, milk, veggies, boxed items, cans – all in separate bags. Then see how long it takes to load them in the car and take them into the house. I rest my case",n
+906,883,ul,,n
+907,906,li,,n
+908,907,article,,n
+916,908,div,"January 28, 2014 at 6:11 pm",n
+917,908,div,,n
+919,917,p,"Paul,",n
+921,917,p,"Taken by itself, a larger single bag is indeed more space-efficient than two smaller bags. But we’re not just packing bags here, but also a kayak.",n
+923,917,p,"If one loads a kayak with the largest bags able to fit through the hatches, there will inevitably be large spaces between and around them——wasted space, unless one is able to pack smaller gear bags into that space. Especially in the oddly-shaped interior of a kayak, a better use of space can be had by using numerous medium and small bags vs. a few large bags.",n
+925,917,p,"Mathematicians studying geometry refer to this as “volumetric packing efficiency.” Say you’re planning a party and you want to chill 5 cases of beer. You might easily be able to shove 2-3 large intact cases of beer into the fridge, but unable to fit the others in. But if you remove all the cans or bottles from their large bulky cases and instead pack them all in there individually, you’ll fit a lot more beer in the fridge.",n
+927,917,p,"Using more, smaller bags also makes it easier to organize and retrieve individual bits of your camping gear, rather than trying to extricate a pocketknife or a pair of socks from the depths of a large duffel.",n
+929,917,p,"Though I always enjoy a bit of beachside scientific debate , I’ll gladly grant that if your system works better for you, by all means enjoy it!",n
+934,907,ul,,n
+936,934,li,,n
+944,936,div,"January 29, 2014 at 1:18 pm",n
+945,936,div,,n
+947,945,p,"Jeff, as I was thinking of your system again, and thinking about your beer analogy, and the weight of cans and bottles, I have to tip my hat to one advantage of SBL . When it comes to trimming the boat, with smaller bags, you do have more flexibility in adjusting the weight balance; especially on longer trips. I find in those situation that the original heavy components – water and food – get diminished and what was lighter items – clothes and shelter – become the heaviest. So what starts out in the stern may return in the bow and vice versa.",n
+949,945,p,"Too bad we can’t attach pictures. I’d post my “Kayak loading, the early years.” photo. I recall coming in from a multi-day trip with a pile of gear – a bit of which was lashed to the top deck. One spectator came up to me and said, “You must be a pro to pack all that stuff.” I told her that if I were a pro, all that stuff would be in the boat, not “on” it.",n
+951,934,li,,n
+959,951,div,"January 29, 2014 at 7:02 pm",n
+961,951,p,,n
+962,961,text,"Paul, yes trimming is very important. I generally pack heavy items like food, water as close to the cockpit as possible—usually just behind the rear bulkhead—so that as their weights are reduced thru the trip, they have little effect on the trim and balance.",n
+964,961,br,"I agree that all gear should be IN the boat, not ON it, and that’s usually my limiting factor: if it doesn’t fit, it stays home!",n
+966,961,br,Happy paddling!,n
+967,906,li,,n
+968,967,article,,n
+976,968,div,"January 29, 2014 at 5:48 am",n
+979,968,p,I have modified my yak to allow one boundary pack to slide behind my seat. I removed the stock seat and use a stadium seat. I also use it in the campsite. My yak is not like most yaks as it is a 1995 Wilderness Systems Chesapeake fiberglass and weighs 36 pounds. I built a yoke to clamp on the coaming. All my portages are done in one trip!,n
+984,967,li,,n
+992,984,div,"January 29, 2014 at 9:24 am",n
+995,984,p,"Sounds like a slick setup! The few times we’ve done portages with our kayaks were considerably more hassle than portaging a canoe, but your system sounds like it makes short work of it!",n
+996,502,li,,n
+997,996,article,,n
+1005,997,div,"January 29, 2014 at 6:44 pm",n
+1008,997,p,Thanks Jeff. It took a long time to figure things out. Last winter I put my yak in the basement to plan the set-up. I packed and repacked numerous times to make things work. I actually got my pack down to 25 pounds! I eliminated my gas fired stove and replaced it with a wood burning Solo Stove. This eliminated the need to carry the canisters of fuel. It consumes a lot of time trying to decide what you really and truly need to take. I try to resist any temptation of bringing comfort items such as a saw or cooler. I actually dehydrate my own food! All this talk is not helping my CABIN FEVER!,n
+1012,996,li,,n
+1013,1012,article,,n
+1021,1013,div,"January 29, 2014 at 6:56 pm",n
+1023,1013,p,,n
+1024,1023,text,"Yes, I am forever tinkering with my own ‘kit’ of gear, and trying to shave down the bulk; I’m envious of your 25 lb. weight!",n
+1026,1023,br,"The days are already growing longer, so paddling can’t be far away …!",n
+1031,1012,li,,n
+1039,1031,div,"January 29, 2014 at 7:13 pm",n
+1042,1031,p,I once had a kayak that had the front and rear hatches and had to pack the small bags. To make the portages I had to unload everything and pack it into an army duffle bag. Taking multiple trips is a drag and time consuming. I had to lighten the load as I am going on 66 years of age! I found a helpful web site called http: or or www.maddythegoose.com . Check it out!,n
+1045,502,li,,n
+1046,1045,article,,n
+1047,1046,footer,,n
+1049,1047,div,Neville,n
+1054,1047,div,"February 11, 2014 at 7:33 am",n
+1057,1046,p,"I see a lot of good ideas on here, I am a real believer in the smaller dry bags idea although I do use about 3 larger 20 litre bags for various items that can be packed together, small bags certainly fit into tight spaces easier, I have a skeg boat and there is some wasted space in the stern compared to a ruddered boat but I manage to fit my tent poles, pegs and bag alongside the skeg fitting. My 10 litre water bag is in front of my foot pegs and can’t move around.Everything else fits in various positions, I have 3 good hatches and a day hatch so it takes a good heap of gear.. Thank you for this site, I’m in Western Australia…",n
+1062,1045,li,,n
+1070,1062,div,"February 11, 2014 at 10:02 am",n
+1071,1062,div,,n
+1073,1071,p,"Neville, you raise a good point regarding adapting one’s gear or kit to the boat. Paul above describes his kayak as a bit more voluminous, so his larger bags work well for him. My boat is narrower and probably faster, but I sacrifice a good bit of space for that speed, which compels me to pack gear in tighter.",n
+1075,1071,p,I suppose it’s possible that the time I gain while on the water is lost in more careful packing,n
+1077,1071,p,Glad to have you join us from the Land Down Under!,n
+1080,502,li,,n
+1081,1080,article,,n
+1082,1081,footer,,n
+1084,1082,div,Peter,n
+1089,1082,div,"April 8, 2014 at 3:46 pm",n
+1090,1081,div,,n
+1092,1090,p,"Thanks everyone for an interesting discussion site. I’m always amused by the references or dry suits and bear bags, as I live on the East Coast of Australia, where we probably look similar from a distance to our mates from the northern climes, but we do it to keep the sun off, not the need to keep warm.",n
+1094,1090,p,"Planning a 10 day trip down the Myall River and Myall Lakes in a few weeks. Getting cooler, but still good for swimming, and we can swim all year round in Northern NSW.",n
+1096,1090,p,reading others helpful advice.,n
+1098,1090,p,"Keep smiling everybody, Peter",n
+1103,1080,li,,n
+1111,1103,div,"April 9, 2014 at 9:09 am",n
+1112,1103,div,,n
+1114,1112,p,Thanks,n
+1116,1112,p,"Yours is an example of how every paddler needs to adapt his technique and kit to suit his environment. Though we northern paddlers certainly need sun protection too , our real danger here is cold water.",n
+1118,1112,p,"In just a few weeks, we’ll be paddling the Apostle Island sea caves, which until recently looked like this:",n
+1121,1112,p,More photos here >>,n
+1124,1112,p,the season!,n
+1129,502,li,,n
+1130,1129,article,,n
+1131,1130,footer,,n
+1133,1131,div,Tim Harrell,n
+1138,1131,div,"May 12, 2014 at 10:47 am",n
+1139,1130,div,,n
+1141,1139,p,"This is a great list. While I like the idea of larger bags, the small ones work much better, just because of hatch size.",n
+1143,1139,p,"One thing I’m a little surprised to see is that you are packing your wine in glass bottles. Most rivers I know of here in Arkansas don’t allow glass. The danger to the environment being the key focus here. If I’m taking wine, we always decant it into a Nalgene . Beer can’t be decanted, but the choices for good canned beer are much better than they used to be. To be clear: I’m not partying on the river, just unwinding after a long paddle, so the quantity is not an issue, just the glass. My $0.02 anyway….",n
+1148,1129,li,,n
+1156,1148,div,"May 12, 2014 at 11:38 am",n
+1157,1148,div,,n
+1159,1157,p,"Thanks for writing, Tim! Apart from the somewhat tongue-in-cheek photo, we seldom carry wine on such kayak-touring trips, if only due to the weight. Re-usable plastic containers are better than those of the past, and carbonated beverages in aluminum cans are far more convenient, as they offer smaller serving sizes and can be compacted when emptied, with little remaining weight or bulk. And, as you say, the selection of quality beers now available in cans is quite good !",n
+1160,1157,p,,n
+1161,1160,text,"Unlike on most riverways, Great Lakes paddlers are often PROHIBITED from camping within 300 feet of the high water mark and other bodies of water, so are usually set up well away from the water. Most Great Lakes campsites do allow glass containers, though according to National Lakeshore regulations:",n
+1165,1160,br,"“All glass containers and products are prohibited on any land or water area regularly used for swimming, sunbathing, or wading.”",n
+1167,1157,p,"As in Arkansas and presumably many other rivers nationwide where campers are compelled to camp near the water, our Lower Wisconsin State Riverway wisely prohibits the use of any glassware.",n
+1169,1157,p,"So, paddlers and campers should always follow local regulations, and generally use caution when using any kind of glassware. Those of us who love the water usually lounge around camp in sandals or even barefoot, and no one wants to step on someone else’s broken bottle shard …",n
+1171,1157,p,And it should go without saying that we should all follow “The “Leave No Trace” Seven Principles for Paddlers”.,n
+1177,502,li,,n
+1178,1177,article,,n
+1179,1178,footer,,n
+1181,1179,div,Kyle,n
+1186,1179,div,"July 7, 2014 at 5:50 am",n
+1187,1178,div,,n
+1189,1187,p,"Hi Jeff,",n
+1191,1187,p,"I will be leaving in a week on a kayaking or backpacking trip out in the fjords of Norway. I’ve done an extensive amount of backpacking but this will be my first out-of-kayak trip so I have a question about drybag packing. For such a list, how many drybags do you require? You suggested many small bags as opposed to a few larger which makes sense not only in order to optimize the weight distribution in your kayak but just spatial constraints in general. What size small bags do you use? Are we talking 10-20L range?",n
+1192,1187,p,,n
+1193,1192,text,Thanks!,n
+1195,1192,br,Kyle,n
+1200,1177,li,,n
+1208,1200,div,"July 9, 2014 at 2:04 pm",n
+1209,1200,div,,n
+1211,1209,p,"Kyle, sounds like a fantastic trip! A few friends have enjoyed their own visits to Norway …",n
+1213,1209,p,"I’m currently using only about six 5-10-liter drybags for the packing list outlined here. But I typically only use drybags for those items which *require* complete dryness: clothing, food, electronics, first-aid kit,, etc.. I don’t bother packing less crucial gear in drybags: kitchenware, campstove, sandals, rain jacket, etc.. A two-person backpacking tent, even if completely soaked, can quickly be drip-dried and erected, and will soon dry out enough to inhabit.",n
+1215,1209,p,"A sleeping bag, of course, is no place to risk wetness, esp. if goose down. I swear by this clever compression dry-sack.",n
+1221,502,li,,n
+1222,1221,article,,n
+1223,1222,footer,,n
+1225,1223,div,lauren,n
+1230,1223,div,"August 6, 2014 at 10:30 pm",n
+1233,1222,p,Myself and a group of friends will be taking an overnight camping trip with a short paddle in knubble bay Maine this coming weekend and we appreciate this primer in packing a kayak. Thanks for the great tips!,n
+1238,1221,li,,n
+1246,1238,div,"August 7, 2014 at 6:39 am",n
+1247,1238,div,,n
+1249,1247,p,"Lauren, Looks like a beautiful place to kayak! An overnighter is a great way to break into kayak-camping and to work out your routine and gear list. And going with friends means you’ll probably have a backup in case someone forgets something.",n
+1251,1247,p,Glad the article helped. Have a great trip!,n
+1254,502,li,,n
+1255,1254,article,,n
+1256,1255,footer,,n
+1258,1256,div,Chelsea,n
+1263,1256,div,"August 29, 2014 at 11:14 am",n
+1264,1255,div,,n
+1266,1264,p,"I noticed you said the Great Lakes, I am from the Detroit area and was looking to plan a kayak camping trip with some friends, do you recommend an area? We were looking to go three days, two nights. Sort of like a kayak, make camp, wake up pack up and kayak more type of thing. Somewhere where we can put-in and take-out in different locations but all vehicles would be safe parked from start to end. Any recommendations? Anything is appreciated, it’s our first time planning this.",n
+1267,1264,p,,n
+1268,1267,text,"Thank you,",n
+1270,1267,br,Chelsea,n
+1275,1254,li,,n
+1283,1275,div,"August 29, 2014 at 5:19 pm",n
+1284,1275,div,,n
+1286,1284,p,"Chelsea, congratulations on getting into kayak-camping! Living in Detroit, you’re quite close to TWO Great Lakes.",n
+1288,1284,p,"Planning such a trip really depends on how far you want to drive, how far you want to paddle each day, and whether there are public lands available for camping along the way. Lake Michigan tends to offer fewer such places than Lake Superior, since so much of the shoreline is privately owned, but you can find them.",n
+1290,1284,p,"What you’re talking about is called a ‘shuttle’ trip, where you drop off a car at the destination, then drive back with all boats and gear to the put-in, then paddle a few days to the first car. Then, of course, you need to drive back to pick up the second car on the way back!",n
+1292,1284,p,Here are a few ideas,n
+1293,1284,p,,n
+1294,1293,text,Sleeping Bear Dunes Nat’l Park,n
+1296,1293,br,"Mainland backcountry camping is available at the White Pine campground near the Platte River campground, or at the Valley View campground north of Glen Arbor.",n
+1297,1284,p,,n
+1298,1297,text,Between Cheboygan and Bay City,n
+1300,1297,br,"From maps, it looks like there may be enough public land access in this part of the shoreline to piece together a 3-day trip.",n
+1301,1284,p,,n
+1302,1301,text,Wilderness State Park,n
+1304,1301,br,"By launching on the South side of the peninsula and paddling out and around the point, and back to the North shore, you could possibly do a 2-3-day trip and land quite close to your car, for a shorter shuttle. Check with the park for available campsites near the water.",n
+1306,1284,p,"The Lake Michigan shore west of St. Ignace is in the Sault Ste. Marie Forest Area, which may allow backcountry or shore camping. St. Ignace to Epoufette Bay, for example, is a distance of about 27 miles, or 3 ten-mile days of paddling.",n
+1307,1284,p,,n
+1308,1307,text,"Here is an index of paddling destinations and trip reports in Michigan, ranging from daytrips to multi-day:",n
+1310,1307,br,http,n
+1312,1284,p,"Hope this helps, and have fun!",n
+1315,502,li,,n
+1316,1315,article,,n
+1317,1316,footer,,n
+1319,1317,div,Steve Manning,n
+1324,1317,div,"September 25, 2014 at 4:26 pm",n
+1326,1316,p,,n
+1327,1326,text,Kayak Camping throughout the Adirondacks in upstate NY.,n
+1329,1326,br,Here are my thoughts,n
+1331,1326,br,"– it seems like that’s a lot of stuff…but you really can’t get much lighter…so consider “backpack” style stuff like your tent, flashlight, an MSR Universal stove, water filter, ultralight cook kit, etc",n
+1333,1326,br,gear.,n
+1335,1326,br,"– Portages with heavy ‘yaks are not fun, so for the extra 3 pounds, bring wheels and tie down straps",n
+1337,1326,br,"– Making a base camp and then doing day trips allows you to empty the kayaks and explore, as well as making any portages much easier.",n
+1339,1326,br,– ALWAYS have a first aid or survival kit in your kayak…,n
+1341,1326,br,"– NEVER leave food in your kayak…little critters will gnaw the crap out of it, and bears, well,,,",n
+1343,1326,br,– make sure your whistle works when wet or with water in it.,n
+1345,1326,br,"– remember firestarters, like fatwwod pieces. most wilderness camp areas get picked of descent wood, so you’ll need a good fire starting system to light the wood you scrounge",n
+1347,1326,br,– The more the merrier…and the lighter each kayak since everything get’s distributed,n
+1349,1326,br,– box wine take just the bladder and seal in a ziplock just in case. molds perfectly to fit,n
+1351,1326,br,"– ultra lightweight chair, like the REI one…no sitting on stumps or wet ground",n
+1353,1326,br,"food,,,just in case or if you decide to extend your trip",n
+1358,1315,li,,n
+1366,1358,div,"October 6, 2014 at 3:59 pm",n
+1369,1358,p,"I’m sure you know that wheels don’t always work in the ADK’s. Get a lighter yak and devise ways to load it and carry it. I have a 36 # yak. Removed the factory seat. I slide my waterproof Boundary Pack under the rear deck and use a stadium seat. I can use the seat in camp also. I also built a yoke to carry it over the portages with my pack on! One trip portages are quicker than multiple trips! If you can’t use this idea, you can pack your gear in smaller bags and bring a military duffle bag to pack these smaller bags in. Install your yoke, shoulder your duffle bag and lift your yak! The duffle bag folds until you need it.",n
+1372,502,li,,n
+1373,1372,article,,n
+1374,1373,footer,,n
+1376,1374,div,Andrew,n
+1381,1374,div,"September 26, 2014 at 7:17 pm",n
+1382,1373,div,,n
+1384,1382,p,"Hello all,",n
+1386,1382,p,Thank you for the great insight. My wife and I are planning a kayaking trip for 2 nights in the Everglades. The water there is not able to be filtered. Any thoughts on water storage? We have canoed the park and had no problem carrying a 5 gallon container. Would be a different story in a kayak. Any help would be appreciated.,n
+1391,1372,li,,n
+1399,1391,div,"October 6, 2014 at 12:01 pm",n
+1400,1391,div,,n
+1402,1400,p,Expandable water-storage bags like these from Cascade Designs are a great way to carry water in a kayak .,n
+1406,1400,p,"Lightweight, flexible, and available in a variety of sizes, these bags allow you to carry water for the changing needs of a trip, without the rigid bulk of typical camping water jugs.",n
+1408,1400,p,Have a great Everglades trip!,n
+1411,502,li,,n
+1412,1411,article,,n
+1413,1412,footer,,n
+1415,1413,div,Scott Evans,n
+1420,1413,div,"October 1, 2014 at 5:27 pm",n
+1423,1412,p,We just finished a circumnavigation of Isle Royale and the outer loop of the Apostle Islands and I definitely feel multiple smaller bags is best. Trying to find just the right thing at the right time is easier if you don’t have to unpack and repack a bigger drybag. After a long paddle it isn’t easy to remember which bag has what in it. Also for lunch breaks having cooking gear organized with food prepackaged saves time and effort. I use a Jetboil and dehydrated meals but for others being able to “cook” requires an alcohol stove. Boiling water in less than a minute is great for those of us that just want something quick and filling or that rejuvenating cup of tea.,n
+1428,1411,li,,n
+1436,1428,div,"October 6, 2014 at 11:52 am",n
+1437,1428,div,,n
+1439,1437,p,many smaller bags is definitely another plus when on a trip.,n
+1441,1437,p,"We also try to make a point to prepare our lunches while cooking breakfast, so we don’t have to break out the cooking gear again for a lunch break. Sandwiches, wraps, and other unheated foods work well for this. Sometimes we skip a proper lunch entirely and instead simply snack perpetually between breakfast and dinner, as a way of distributing our caloric input over the course of a long paddling day.",n
+1443,1437,p,Going all the way round Isle Royale is definitely on my list! How long did it take you?,n
+1446,502,li,,n
+1447,1446,article,,n
+1448,1447,footer,,n
+1450,1448,div,Lesley,n
+1455,1448,div,"October 4, 2014 at 4:01 am",n
+1458,1447,p,"Stumbled across this excellent site and discussion whilst browsing for new tips and tricks while waiting for summer to come here in NZ. We can kayak year round but always get in a longer trip over the summer holidays, and I am getting impatient….. One tip to add to the list, we tend to use smaller dry bags but stash a large mesh type bag behind my seat, when we are unpacking at the end of a day, and setting up a camp we fill it with the smaller bags, thread a paddle or pole through the handles and shoulder it to the campsite. It’s also useful for hanging in a tree with damp stuff. We don’t have to worry about bears but we do put all our food back into the hatches overnight to avoid rats, mice and opossums who will make holes in food bags and tents but luckily, leave the kayaks alone. Roll on summer!!!",n
+1463,1446,li,,n
+1471,1463,div,"October 6, 2014 at 11:43 am",n
+1472,1463,div,,n
+1474,1472,p,"Yes, a way to carry all those smaller bags is certainly helpful, and I like your idea of a large mesh bag, which compresses to nearly nothing when unused. Others like duffels or handled shopping bags from IKEA.",n
+1477,1472,p,Thanks,n
+1480,502,li,,n
+1481,1480,article,,n
+1482,1481,footer,,n
+1484,1482,div,Eliz. Williams,n
+1489,1482,div,"October 15, 2014 at 12:33 pm",n
+1491,1481,p,,n
+1492,1491,text,"Glad to find your site. I kayak and have done several overnight trips. I am going on a 4 day 3 night trip down the Suwanne River in Florida and am finding this a challenge to pack for. Each camping trip has led me to purchase smaller, lightweight camping equipment, but food is being the challenge for me. There are no restaurants along my route!!. I have not really tried dehydration yet. If you have any tips on that – please pass them on.",n
+1494,1491,br,I have enjoyed reading the comments about small bags or large bags and have picked up some great tips.,n
+1496,1491,br,Thanks for the ideas – will have another go at packing boat again tonight to keep from carrying anything on top.,n
+1500,1480,li,,n
+1501,1500,article,,n
+1509,1501,div,"October 15, 2014 at 2:29 pm",n
+1510,1501,div,,n
+1512,1510,p,"I’ve hesitated to write much regarding food because individual tastes of people are so varied. It seems that touring paddlers run the gamut from the Boundary Waters style of old-time ‘traditional’ Dutch Ovens and fresh-baked sourdough biscuits and gravy, to those who eat whatever the astronauts eat on the International Space Station.",n
+1514,1510,p,My personal approach to food is much like my approach to nearly everything else for kayak-touring: Simple. And cheap.,n
+1516,1510,p,"I typically take a dozen packets of instant oatmeal, a dozen bagels, and a small jar of peanut butter for breakfasts. While the water is boiling, I prepare something for lunch …",n
+1518,1510,p,"Another bagel, this time with a couple slices of summer sausage and super-hard cheddar cheese tucked inside.",n
+1520,1510,p,"For dinner, my trip partners and I take turns cooking each evening, and I usually make a large packet of quick-cook flavored rice or pasta, with a can of pre-cooked chicken or tuna chunks stirred in. These provide the necessary carbohydrates for energy, and protein for muscle maintenance.",n
+1524,1510,p,"Add a couple dozen granola or other snack bars for all-day munching, some powdered energy-drink mix, and the necessary water for drinking or cooking, and you have enough for a week of touring.",n
+1526,1510,p,"All my food for a one-week trip fits into a 10-liter drybag, and I often come home with some unused ‘leftover’ packages. All these items are readily available at your local grocery store for little money, and require little more than a backpacking stove and cookset.",n
+1528,1510,p,"Canned food is admittedly heavy, and the cans require rinsing and packing out, but they’re still far lighter than any cast-iron frying pan. And the grocery-store packets of dehydrated rice or pasta are far cheaper than the similar stuff at the backpacking shop.",n
+1530,1510,p,Hope this helps!,n
+1533,1500,ul,,n
+1535,1533,li,,n
+1536,1535,footer,,n
+1538,1536,div,Eliz Williams,n
+1543,1536,div,"October 23, 2014 at 8:40 pm",n
+1545,1535,p,,n
+1546,1545,text,"Thanks for the tips. With our trip being over, I learned alot. I did end up taking too much food but I didn’t go hungry. I did end up throwing extras away each day, simply because after 2 days, I knew what I was using and liked. Threw away or gave away what I knew I would not use. Also found that summer sausage and hard cheese were great. Tortillas and pita bread packed flat and were easy to store. Tuna in a pouch worked great. Also found the 90 second microwave rice pouches worked great with chicken were good, not too heavy and didn’t take up too much room. \",n
+1548,1545,br,"Next trip, I know I can leave alot of extras homes. I did snack frequently, nuts, trail mix and granola bars. Hate to say, but I did save room for small boxed wine!",n
+1550,1533,li,,n
+1558,1550,div,"October 24, 2014 at 9:19 am",n
+1559,1550,div,,n
+1561,1559,p,"Eliz,",n
+1563,1559,p,Good to hear you had a great trip! And learned something about your own camping-dining preferences.,n
+1565,1559,p,"Better to have too much food than too little, and one never knows when one will be delayed or stranded somewhere for an extra day or two, so a ‘reserve’ is smart. Still, I often assess the remaining food I bring back from a trip to see if I can do without it next time.",n
+1567,1559,p,"I keep meaning to try the pita bread, and my backpacking brother taught me a good use for tortillas: slather them with peanut butter and or or honey and roll ’em up tight like cigars, then carry them in zipper-lock baggies for snacking and lunches. He often brings a dozen such pre-made rolls for a week of paddling.",n
+1569,1559,p,And always—ALWAYS—leave some room,n
+1571,502,li,,n
+1572,1571,footer,,n
+1574,1572,div,Odell Proby,n
+1579,1572,div,"November 2, 2014 at 10:30 am",n
+1582,1571,p,"Good article, thanks.",n
+1586,502,li,,n
+1587,1586,footer,,n
+1589,1587,div,Paul C,n
+1594,1587,div,"February 9, 2015 at 1:04 pm",n
+1595,1586,div,,n
+1597,1595,p,Re,n
+1598,1595,p,,n
+1599,1598,text,My kit is stored inside a wide mouth stainless steel bottle that is not insulated and has no plastic parts…and is waterproof. I do waterproof the items inside just in case.,n
+1601,1598,br,I take a short piece of bailing wire to loop around the top so that I can boil water in it over a fire.,n
+1603,1598,br,"I pack a couple tea bags also, as a warm drink can be huge out there!",n
+1605,1595,p,PC….paddling cold Canadian waters!,n
+1608,502,li,,n
+1609,1608,article,,n
+1610,1609,footer,,n
+1612,1610,div,James Paulsen,n
+1617,1610,div,"February 13, 2015 at 5:22 am",n
+1620,1609,p,"We are taking our first kayak trip in March. We are paddling across the state of Florida. From Stuart to Cape Coral. Your article and many of the comments I have read have been very helpful. As this is our first long trip it will, I’m sure be a learning experience for us. The trip is around 160 miles. We are planning 6 days to make the trip. With good luck and gentle tides we are looking forward to a rewarding experience.",n
+1625,1608,li,,n
+1633,1625,div,"February 13, 2015 at 12:46 pm",n
+1634,1625,div,,n
+1636,1634,p,"James,",n
+1638,1634,p,"That sounds like quite a trip, in a beautiful area.",n
+1640,1634,p,"Glad you found some good packing tips here, and hope you have a great trip!",n
+1643,502,li,,n
+1644,1643,article,,n
+1645,1644,footer,,n
+1647,1645,div,Christian Lemieux,n
+1652,1645,div,"April 3, 2015 at 8:23 pm",n
+1655,1644,p,I am new to kayak-camping and i am looking forward to nice trips with friends and family. Thank you from Canada.,n
+1660,1643,li,,n
+1668,1660,div,"April 4, 2015 at 9:43 am",n
+1669,1660,div,,n
+1671,1669,p,kayak-camping!,n
+1673,1669,p,"Some of my earliest and best canoe-camping experiences were on family trips in Canada, and we still find some of the best paddling there. I’m sure you and your family will have a lot of fun.",n
+1675,1669,p,Have some great trips!,n
+1678,502,li,,n
+1679,1678,article,,n
+1680,1679,footer,,n
+1682,1680,div,JoLee P.,n
+1687,1680,div,"July 25, 2015 at 11:46 am",n
+1688,1679,div,,n
+1690,1688,p,I am so pleased to have found this informative–and well written!–site. Thanks,n
+1692,1688,p,"I’ve really fallen head-over-heels for kayaking. I recently bought my own kayak, which means that those multi-day trips I dreamed about during the 5 years of rentals have finally come within reach. My kayak is a Wilderness Tarpon 12-foot sit-on-top , so I’m not packing it exactly as one would a sea kayak… but I find that your suggestions are certainly adaptable to a sit-on-top.",n
+1694,1688,p,"Since I usually go out on my own rather than with a group, I am particularly focused on preparedness and safety. I appreciate the detailed advice or specs, which help to make this new adventure of kayak-camping a less intimidating prospect.",n
+1696,1688,p,Thanks again,n
+1701,1678,li,,n
+1709,1701,div,"July 25, 2015 at 8:41 pm",n
+1710,1701,div,,n
+1712,1710,p,"JoLee, thanks",n
+1714,1710,p,"Glad to hear you’ve found a kayak that works for your environment and for your style of paddling and camping; whatever gets you on the water! I had a chance a few years ago to enjoy a day-paddle through some Key Largo mangrove swamps in SOTs, and they are well suited to that type of paddling.",n
+1716,1710,p,camping.,n
+1721,502,li,,n
+1722,1721,article,,n
+1723,1722,footer,,n
+1725,1723,div,Victoria,n
+1730,1723,div,"July 31, 2015 at 5:35 pm",n
+1733,1722,p,"Thanks for the equipment list, I am a hiking addict, but have a heal spur at present so am going to do a 5 – 6 day trip down the Murray River , next week. This section will take me through a new National Park, with giant Red Gums and loads of water birds, should be good. Just decided to go yesterday, so all the help in quickly getting it together helps! I’m a but worried about all the water I will need to carry, and the weather , but she’ll be right!",n
+1738,1721,li,,n
+1746,1738,div,"August 1, 2015 at 7:22 am",n
+1747,1738,div,,n
+1749,1747,p,Sounds like a great trip in a beautiful place!,n
+1751,1747,p,"Paddling is a great way to explore the backcountry even if one has some kind of physical ailment or a disability because it is such a low-impact activity. Because the boat is carrying all the weight of you and your gear, the trip can be easier on one’s joints, etc..",n
+1755,1747,p,Glad the packing list was helpful; have a wonderful trip!,n
+1759,502,li,,n
+1767,1759,div,"September 15, 2015 at 3:38 pm",n
+1768,1759,div,,n
+1770,1768,p,"We just came back from spending 3 months kayaking the Alaska Inside Passage using our 22′ ocean tandem. We had almost all of the author’s list. We didn’t have a horn though contemplated one. We did use the DeLorme InReach Explorer which includes GPS, emergency locator, social network and messaging. We also had a marine radio.",n
+1772,1768,p,We prefer the large vinyl dry bags and honesty in all our years of ocean haven’t had a problem with sticking together. On this summer’s trip we tried some of the lighter weight bags….weren’t impressed.,n
+1774,1768,p,Being prepared,n
+1777,502,li,,n
+1778,1777,article,,n
+1779,1778,footer,,n
+1781,1779,div,Beth eix,n
+1786,1779,div,"September 29, 2015 at 12:07 am",n
+1789,1778,p,I have fully read this page. It is full of great advice. My husband and I are getting ready to do our first overnight trip on lake havasu as. Hopefully I will be able to convince him to do more. Thank you for all the helpful advice so every thing goes smoothly.,n
+1794,1777,li,,n
+1802,1794,div,"September 29, 2015 at 9:15 am",n
+1803,1794,div,,n
+1805,1803,p,"Glad you have found the article helpful, Beth! I hope it inspires your paddling partner with the confidence he needs to ‘go outside and play’.",n
+1807,1803,p,Have a good trip on Lake Havasu!,n
+1810,502,li,,n
+1811,1810,article,,n
+1812,1811,footer,,n
+1814,1812,div,will,n
+1819,1812,div,"December 4, 2015 at 3:05 pm",n
+1821,1811,p,,n
+1822,1821,text,ok. so what happened to packing light.,n
+1824,1821,br,stuff to fit in a kayak.,n
+1828,1810,li,,n
+1829,1828,article,,n
+1837,1829,div,"December 4, 2015 at 3:40 pm",n
+1838,1829,div,,n
+1840,1838,p,"Will,",n
+1842,1838,p,"Define “a lot”. I’ve paddled with campers who bring most of this stuff PLUS a 200-square-foot rain fly, hatchets and saws, 3-gallon stew kettles and two-burner stove, AND the kitchen sink ! So I suppose it’s all relative …",n
+1844,1838,p,"I’m currently paddling an Impex Force Cat 4, which is a pretty fast but quite low-volume slim boat, and to be sure, it can be a task to fit all this gear into that kayak. My buddy’s Valley Aquanaut, on the other hand, is a bit wider and slower but is a real gear hound, and I often marvel at the extra luxuries he’s able to bring along.",n
+1846,1838,p,"Hauling less gear around will certainly make your boat lighter, faster, and easier to pack, but at the cost of camping comfort. So each paddler must decide for him- or herself what stays and what goes. When I fly to a paddling destination and my gear volume is limited by airline restrictions, I have to trim my kit considerably. Feasible, but I do miss some of the usual creature comforts.",n
+1848,1838,p,"If you feel that you can get by with less gear, I think that you should. Just don’t try to mooch my beer …",n
+1853,1828,li,,n
+1854,1853,footer,,n
+1856,1854,div,Terry McLaughlin,n
+1861,1854,div,"March 13, 2016 at 9:09 pm",n
+1864,1853,p,My brother pack light and celebrate with bloody Mary’s! Beer is too heavy to carry on 1.5 mile portages over rugged terrain in the Adirondacks. We won’t mooch your beer because we’ll be drinking after our camp is set up and waiting for you to arrive!,n
+1866,502,li,,n
+1867,1866,footer,,n
+1869,1867,div,Melvin,n
+1874,1867,div,"January 21, 2016 at 5:57 am",n
+1877,1866,p,Really helpful article. I have bought a new boat and looking for the first trip. Really excited. Thanks for sharing great tips.,n
+1880,502,li,,n
+1881,1880,article,,n
+1882,1881,footer,,n
+1884,1882,div,Jim C,n
+1889,1882,div,"February 6, 2016 at 2:26 pm",n
+1892,1881,p,"I found this article very helpful as I start the research on one of my Bucket List items, round trip solo kayaking of the St Johns River in FL. 620 miles total. I will be starting in Jacksonville and going up river. I have RV camped for many years and have minor canoe experience, but none in a kayak. As I start to get older , it’s time to start on my list. I have the advantage being near civilization most of the trip, not like Alaska or the boonies of Lake Superior as many of the trips commented on were. My target date is mid-March. I don’t have much equipment yet, not even the kayak. I expect to look at several on Craigs List next week and then start practicing and seeing how much equipment it will hold. I have no deadline for this trip. If it take 2-3 months that’s OK. I would like to report on the trip periodically and would appreciate any thoughts on the best ways, blog, Facebook, website, etc. That sort of thing. Any conversation at all on my trip would be appreciated.",n
+1897,1880,li,,n
+1905,1897,div,"February 6, 2016 at 4:06 pm",n
+1906,1897,div,,n
+1908,1906,p,"Sounds like a fantastic trip, Jim!",n
+1910,1906,p,"I’ve paddled a canoe for a bit of the St. Johns River, near Blue Spring State Park, where one could carefully paddle among the wintering manatees. Paddling the entire river, especially upstream, would be a truly epic journey!",n
+1912,1906,p,"I would urge you to get your kayak and begin practicing as soon as possible, as your planned launch date is soon approaching. Pack your boat as you would for your trip and start paddling more and more miles to build your stamina and to estimate how far you are able to paddle in a typical day.",n
+1914,1906,p,"As for keeping in touch while on your trip, I think Facebook is perhaps the easiest and most effective, since it would require no special domain name or webhosting, let alone the work to setup a dedicated website or blog. Facebook also offers mobile apps to allow easy posting even from a muddy riverbank while camping, as long as you have a phone or data connection. It’s also an easy way to build a following or audience.",n
+1916,1906,p,"When you get a page setup, feel free to post it here for others to follow your trip, and of course post a link on the Superior Paddling Facebook page: https: or or www.facebook.com or pages or Superior-Paddling or 432617926804767",n
+1922,502,li,,n
+1923,1922,article,,n
+1924,1923,footer,,n
+1926,1924,div,JennyLee,n
+1931,1924,div,"February 10, 2016 at 7:56 pm",n
+1933,1923,p,,n
+1934,1933,text,"Thank you all for the input to this string. I am not a kayaker but am planning a pigramage that will take me miles up lake. I have about 8 months to pull together gear, get in shape and figure out how much nourishment I need to complete the trip. I will be making reference to these writings and taking ideas.",n
+1936,1933,br,Thanks. I have a long preparation but feel its more manageable now.,n
+1941,1922,li,,n
+1949,1941,div,"February 10, 2016 at 8:58 pm",n
+1950,1941,div,,n
+1952,1950,p,Good luck on your trip!,n
+1954,1950,p,"As I suggested to Jim above, start practicing as soon as possible and add more miles to build your fitness level. The first trip can be the most challenging, but also the most exciting!",n
+1960,502,li,,n
+1968,1960,div,"April 8, 2016 at 11:43 am",n
+1971,1960,p,"That’s a hilarious list. I don’t carry 1 or 3 that crap, lol, and I stay for 1-2 days, usually.",n
+1974,502,li,,n
+1975,1974,article,,n
+1983,1975,div,"April 8, 2016 at 11:57 am",n
+1984,1975,div,,n
+1986,1984,p,This is what I brought on my last trip,n
+1987,1984,p,,n
+1988,1987,text,EDC,y
+1990,1987,br,Small Bic,y
+1992,1987,br,Lines,y
+1994,1987,br,Yak,y
+1996,1987,br,Paddle,y
+1998,1987,br,Aux Paddle,y
+2000,1987,br,Life Jacket,y
+2002,1987,br,Bad Boy,y
+2004,1987,br,.22 Mag + 1 box,y
+2006,1987,br,Tent,y
+2008,1987,br,6X8 Blue tarp,y
+2010,1987,br,Folding Grill Grill,y
+2012,1987,br,Extra Bics,y
+2014,1987,br,Pic Repellent,y
+2016,1987,br,Spray repellent,y
+2018,1987,br,Pocket tackle box,y
+2020,1987,br,Bait,y
+2022,1987,br,Small Rod and Reel,y
+2024,1987,br,Needle Nose Pliers,y
+2026,1987,br,2 Flashlights,y
+2028,1987,br,Colorful bank marker…bottle tied to a tree,y
+2030,1987,br,Folding chair,y
+2031,1984,p,,n
+2032,2031,text,Dry Bags,y
+2034,2031,br,Soap,y
+2036,2031,br,Toothbrush or Toothpaste,y
+2038,2031,br,Trunks,y
+2040,2031,br,Sleeveless shirt,y
+2042,2031,br,Tennis Shoes,y
+2044,2031,br,Flip Flops,y
+2046,2031,br,Jeans,y
+2048,2031,br,Xtra Shorts,y
+2050,2031,br,Short Sleeve Shirt,y
+2052,2031,br,Long Socks,y
+2054,2031,br,Cell Phone,y
+2056,2031,br,Xtra Cell Battery,y
+2058,2031,br,Money Clip,y
+2059,1984,p,,n
+2060,2059,text,Rations,y
+2062,2059,br,16 oz Stainless cup,y
+2064,2059,br,Spoon,y
+2066,2059,br,Instant Coffee,y
+2068,2059,br,Lunch,y
+2070,2059,br,More Chips,y
+2072,2059,br,Honey Buns,y
+2074,2059,br,8 8 oz small Dr. Pepper,y
+2076,2059,br,Dinner,y
+2080,2059,br,Breakfast,y
+2082,2059,br,MRE Snacks,y
+2084,2059,br,Mustard Packs,y
+2086,2059,br,Water,y
+2088,2059,br,2 Kitchen bags,y
+2090,2059,br,1 Paper Towels,y
+2092,1984,p,Oops I forgot,n
+2097,1974,li,,n
+2105,2097,div,"April 8, 2016 at 12:41 pm",n
+2106,2097,div,,n
+2108,2106,p,"If one is paddling and camping in southern inland waters, you can probably forego much of the safety gear required in the open-water marine environments of the ocean or Great Lakes: cold-water immersion clothing, signal flares, tow belt, VHF marine radio, bear bags, etc.. The US Coast Guard patrols the waters we paddle precisely because they are so potentially dangerous and remote, so it would be foolhardy to kayak in such places without such crucial safety gear.",n
+2110,2106,p,"But even in milder inland waters, I don’t see on your list any of the usual outdoor essentials like maps, compass, small first-aid kit, even sunglasses or a rain jacket?",n
+2112,2106,p,"If we were going out for only “1-2 days”, we might get away with packing a couple of big lunches and some snacks, and sleeping in the same underwear we wore while paddling. But the 1-2-weeklong backcountry trips for which this list is used will usually benefit from a few hot meals, requiring more food and some minimalist cooking equipment.",n
+2114,2106,p,"And as we can expect to encounter sweltering 90-degree days and 40-degree rainy nights, and we are often several hours or even days from ‘civilization’ and safety, self-sufficiency is crucial.",n
+2116,2106,p,"As always, this list must be adapted to each paddler’s unique environment and situation.",n
+2118,2106,p,Paddle on!,n
+2122,502,li,,n
+2123,2122,footer,,n
+2125,2123,div,James Bergman,n
+2130,2123,div,"May 10, 2016 at 11:58 am",n
+2133,2122,p,"I love kayaking, and I agree that when you go out camping with one packing light is key. If you are going to be using the same campground next to your car, then you can pack your dutch oven chairs and any other niceties. However, if you are going to go on a prolonged trip you should probably pack just as carefully as you would for a backpacking trip. I think your list is a really good guide for this.",n
+2137,502,li,,n
+2138,2137,footer,,n
+2140,2138,div,shelby bublitz,n
+2145,2138,div,"May 11, 2016 at 7:01 pm",n
+2148,2137,p,"Color coded bags, excellent idea.",n
+2152,502,li,,n
+2153,2152,footer,,n
+2155,2153,div,Chase A,n
+2160,2153,div,"May 19, 2016 at 3:00 pm",n
+2163,2152,p,"A good addition to the personals list is a small waterproof container to hold any medications ,and if you didn’t mention toilet paper or a means of getting rid of your… Deposits is a shovel or trowel",n
+2166,502,li,,n
+2167,2166,article,,n
+2168,2167,footer,,n
+2170,2168,div,Chris Hugo,n
+2175,2168,div,"July 11, 2016 at 1:42 pm",n
+2178,2167,p,Great article! May we post a link to this on our club website. I think there are a lot of members that would find this useful.,n
+2183,2166,li,,n
+2191,2183,div,"July 14, 2016 at 9:18 pm",n
+2192,2183,div,,n
+2194,2192,p,"Chris, sorry for the late reply but I was out paddling last week, in Michigan’s Pictured Rocks Nat’l Lakeshore.",n
+2196,2192,p,"Yes, by all means feel free to link to my article! I hope your members find it helpful in planning their own canoeing and kayaking adventures.",n
+2198,2192,p,And I’m happy to include a link here to your club site: bluffcitycanoeclub.org,n
+2205,502,li,,n
+2206,2205,footer,,n
+2208,2206,div,Garry Pharris,n
+2213,2206,div,"September 3, 2016 at 5:50 pm",n
+2214,2205,div,,n
+2216,2214,p,"Last March , I spent 3 days and 2 nights in the Okefenokee National Wildlife Refuge, . My solo trip was only 20 miles long that took me through each type of habitat within the refuge.",n
+2218,2214,p,"Small dry bags did worked well inside the boat for packing, but I took to much gear on the deck in 2 deck bags, a soft sided kayak cooler and a large dry bag. Your advice to pre-pack your boat before the trip, I knew, but failed to carry it out before hand which resulted in the overloaded deck. I’m planning a return trip for this coming March with more care to reducing the volume by replacing some items and leaving others in the vehicle or home.",n
+2220,2214,p,"The Refuge requires leave-no-trace to the point that you must pack everything out . This is a wildlife refuge where plants and critters are more important than the visiting people. Because of this need to limit human impact on the wildlife is so great planning your meals is very important to the point that portion size and number of meals you bring into the refuge is a major consideration in trip planning. Any food not eaten must be carried out and not left in the composting toilets, or anywhere within the refuge.",n
+2222,2214,p,Anyone who is in need of a paddling destination during the months that ice is covering your favorite northern waters should look south where there are very good open waters to explore and the boat will only look out of place on your vehicle as long as there is snow on the sides of the roads.,n
+2226,502,li,,n
+2227,2226,footer,,n
+2229,2227,div,Annika Larson,n
+2234,2227,div,"March 30, 2017 at 6:34 pm",n
+2237,2226,p,We are planning on going on a kayak tour this summer. It’s important that we pack all the right things. I hadn’t thought of bringing a candle lantern as you suggested. Thanks for sharing!,n
+2241,502,li,,n
+2242,2241,footer,,n
+2244,2242,div,yakker,n
+2249,2242,div,"August 14, 2017 at 9:45 pm",n
+2252,2241,p,Boat Line or Para cord and a Tarp,n
+2256,502,li,,n
+2257,2256,footer,,n
+2259,2257,div,Eleanor Thomas,n
+2264,2257,div,"October 4, 2017 at 9:15 am",n
+2267,2256,p,"Absolutely essential if your route includes urban or rural sections is a lock and cable to secure your boat if you have to leave it unattended. I travel the Ontario canal systems, and frequently lock up my kayak when I head off to stock up in a town or at a lockstation. My kayak has a short, recessed metal rod to use to lock it up, but it is almost impossible to find a lock or cable that will fit through. My solution: I bought a gun lock which has a fine cable that slips neatly through the opening. I loop that through a standard bike cable, and hook the cable around a tree or picnic table or dock fitting or whatever. I carry the key in my life jacket and a spare in my day pack.",n
+2271,502,li,,n
+2272,2271,footer,,n
+2274,2272,div,Jordan Miner,n
+2279,2272,div,"May 16, 2018 at 4:55 pm",n
+2282,2271,p,"We’ve been looking into getting some kayak guided tours, and I’d love some help. I’m glad you talked about how you should look at what you’re going to use for shelter on a guided tour. I’m going to have to look for some good kayak guided tours and see what we can find!",n
+2286,502,li,,n
+2287,2286,footer,,n
+2289,2287,div,Joe Burns,n
+2294,2287,div,"September 22, 2018 at 8:05 am",n
+2297,2286,p,Great site. Thanks for the guidance. I’m an experienced wilderness canoe camper planning a solo kayak lake or river trip of 8-14 days next summer in northern Maine. I’ve done a little fresh water day kayaking but am not an experienced kayaker. I’ll be buying a kayak and am surprised that there doesn’t seem to be any kayak storage volume comparison chart anywhere online. I even called Wilderness Systems help line who make Dagger and Perception kayaks also and they don’t have any such thing. Seems like an important piece of info for multi-day kayak camping. Any guidance will be greatly appreciated.,n
+2300,502,li,,n
+2301,2300,article,,n
+2302,2301,footer,,n
+2304,2302,div,Elnore Macey,n
+2309,2302,div,"October 4, 2018 at 5:04 am",n
+2310,2301,div,,n
+2312,2310,p,Awesome packing list. What sleeping pad did you pack in or take with you? I have seen these : https: or or www.camp4.com or best-camping-mattress or Do you think that the TNH would be sufficient? it seems to fold small enough to pack?,n
+2316,2310,p,Were you really able to fit this amount of kit in? Your list seems to be essential but I am not convinced that I will get it all into my kit.,n
+2321,2300,li,,n
+2329,2321,div,"October 4, 2018 at 9:55 am",n
+2330,2321,div,,n
+2332,2330,p,Thanks,n
+2333,2330,p,,n
+2334,2333,text,"I’ve used a few sleeping pads over the years; of course, the most comfortable ones are quite bulky, while the most compact ones are the least comfortable. I’ve finally settled on the",n
+2336,2333,strong,"Big Agnes Insulated Air Core,",n
+2337,2333,text,it:,n
+2339,2333,br,https,n
+2341,2330,p,"As for other models, it’s difficult to recommend a particular one, partly because we’re all so different in our needs and preferences, and also because of the wide variety available. The TNH appears to be one to consider, though perhaps heavier and bulkier than some others.",n
+2343,2330,p,"Yes, all that gear indeed fits in my boats; one of which is a short-but-wide 14-footer, and another which is a long-but-narrow 18-footer. Though not listed, I often squeeze a 12-pack of a local brew into the rear hatch before setting out, too!",n
+2345,2330,p,"Admittedly, it’s an awful lot of stuff, so you may want to split the packing list into “Must-Have Essentials” and “Maybe, If It’ll Fit”. See what fits into your kayak, and works for you. As mentioned, test-packing in the back yard will help you work out the routine.",n
+2347,2330,p,"Hope this helps, and happy paddling!",n
+2351,502,li,,n
+2352,2351,footer,,n
+2354,2352,div,Dave Bailey,n
+2359,2352,div,"January 8, 2019 at 11:54 am",n
+2362,2351,p,A little advice on portage. They make a deer slide that rolls up small. Will fit in storage area and not take up a lot of room. You can strap your bags to it and drag. Beats carrying and a lot of trips around a dam etc.,n
+2366,502,li,,n
+2367,2366,footer,,n
+2369,2367,div,Sam Li,n
+2374,2367,div,"March 7, 2019 at 2:45 pm",n
+2377,2366,p,"I love what you said about test-packing your kayak in order to see if all of your gear will fit. I believe that having the right camping gear is imperative when it comes to enjoying your camping trip. My family is planning on going on a trip this summer, so I’ll make sure to contact a camping store that can give me a deal on the best gear on the market.",n
+2381,502,li,,n
+2382,2381,footer,,n
+2384,2382,div,Charles Barnwell,n
+2389,2382,div,"July 21, 2020 at 12:29 pm",n
+2392,2381,p,"Thanks for an excellent website incl your advice, and great discussion thread! I’ve boated since a child in Alaska, and now am learning to be a better sea kayaker in Homer, Alaska. Your advice is very helpful, and your site so well organized, and thoughtfully done. In particular the camping, emergency repair info is great.",n
+2396,502,li,,n
+2397,2396,footer,,n
+2399,2397,div,Larry lindgren,n
+2404,2397,div,"January 21, 2021 at 12:08 am",n
+2407,2396,p,"Great site and info. I am just starting out a different direction with inland river or pond or very small lake. I have two Pelicans, a 13 Hydyve and a 10 ‘ bounty Hunter as the freight mule. Behind that a Creek Cooler, b ou th towed with PVC pipe. Both taks are battery powered with solar charging and full navigation lights front and rear. Green fish light and iver head lights off the USB outlets. Both are Garmin striker4 equipment as well. I load very heavy and plan my outings less than a mile or more from the truck therefore multiple trips back to launching will be required to get it all in camp. The Coleman Big Sky tent will hold the cost, tables solves x3 and all cooking facilities. The tent also has 12v battery pack with solar charging for lighting and USB crank radio. Looking forward the February for the first adventure close to the ranch to see what can be weeded out. With two yaks I should be able to get most of the camp in first trip, fishing gear in the second. For now it’s all in the pickup box packed full. The fishing gear will ride to the lake side in the yaks which ride on a single axle PJ trailer fitted to the task with a rollercoaster ramp and winch system for launching. If anyone is in the south central region of Kansas be glad to hear from you. Tight lines. DS40_RANCH",n
+2411,502,li,,n
+2412,2411,footer,,n
+2414,2412,div,Jack Lyons,n
+2419,2412,div,"February 19, 2021 at 7:56 pm",n
+2420,2411,div,,n
+2421,2420,p,,n
+2422,2421,text,Hey !,n
+2424,2421,br,Thank you,n
+2426,2421,br,"I’m not a kayak camper, uh uh. BUT, juuuust MAYBE someday I’ll give it a shot.",n
+2428,2420,p,"If that day comes, the info you have provided will make my adventure vastly more enjoyable.",n
+2429,2420,p,,n
+2430,2429,text,"Gratefully,",n
+2432,2429,br,"Jack Lyons, uh huh",n
+2434,2429,br,2 or 19 or 2021,n
+2436,2429,br,email = kayakstar@aol.com,n
+2442,502,li,,n
+2443,2442,footer,,n
+2445,2443,div,Kathy,n
+2450,2443,div,"April 25, 2021 at 3:20 pm",n
+2451,2442,div,,n
+2453,2451,p,I am new to kayaking. Have been looking at a couple of days on the Colorado river near the Utah border. Anyone ever tried pulling a trailer? Like a small raft behind.,n
+2455,2451,p,Kathy,n
+2459,502,li,,n
+2460,2459,footer,,n
+2462,2460,div,Nlackdog,n
+2467,2460,div,"September 9, 2021 at 6:09 pm",n
+2468,2459,div,,n
+2469,2468,p,,n
+2470,2469,text,Been getting more and more into kayak camping in recent years. I love fishing and camping and this ours two of my favorites next to each other.,n
+2472,2469,br,I have a Wilderness Systems Tarpon 120 sit-on-top fishing kayak. It is great for fishing but not ideal for “touring”. We tend to go out to a lake or reservoir and base camp. Then do various day trips and come back to base camp.,n
+2473,2468,p,,n
+2474,2473,text,Your list is thorough but it does look crazy when you write it all down. Speaking of which….write it all down! I make an actual checklist with little checkboxes. Every season it evolves a little. It’s essential.to avoid leaving something behind .,n
+2476,2473,br,"Be as detailed as you need to be. For example, if everything regarding cooking and kitchen gear is ALWAYS in one bag….list KITCHEN BAG as one item. Otherwise, list everything….stove, gas cans, forks, spoons, towel, dishpan, cutting board. ..",n
+2478,2468,p,"I use a combination of small and large dry bags. I have a nice collection now, but it wasn’t cheap getting to this point. Buy the best you can afford. Cheap stuff will let you down in the worst way. Good stuff will last a long time. I have two large BajaBags from SealLine….that I have been using since about 1990.",n
+2480,2468,p,"I stated using a IceMule cooler and it’s pretty darned cool . There are various sizes. I like the 20L size. Pack in a frozen half gallon of lemonade or juice instead of ice. Freeze all your meat first It does a good job of keeping meats, cheese, eggs, butter, etc.cold for up to five days if you’re careful.",n
+2482,2468,p,"The larger heavy bags go in my rear deck well…which keeps them reasonably.low…but, they are certainly not centered fore or aft. Again, this is something that everyone is going to have to figure out with their own gear and their own boat.",n
+2484,2468,p,"My buddy and I go kayak camping together with almost the same kayak. We cannot quite get all our gear that we desire into our kayaks. We have started using what we call the “rubber ducky”. I have an older fiberglass WS Tarpon kayak. It’s ridiculously light. We tow it behind our kayaks and load it with heavy or bulky stuff that won’t fit safely on our boats. It works really well. But again, you really need to plan this stuff out before your trip…and go to a local.body of water to practice. With our setup I am fine on flat water, but seriously choppy water or high wind….I am going to postpone the journey. You HAVE to know your limits when you are heavily loaded. There’s much less tolerance than you would have with a good canoe.",n
+2488,502,li,,n
+2489,2488,footer,,n
+2491,2489,div,Jeremy,n
+2496,2489,div,"January 24, 2022 at 4:34 am",n
+2498,2488,p,,n
+2499,2498,text,"Hi all,",n
+2501,2498,br,And thank you Jeffrey!,n
+2503,2498,br,What a great multi-year spanning thread…,n
+2505,2498,br,reading!,n
+2507,2498,br,"I’m from South Australia, and planning my first multi-day solo kayak trip down the great Coorong, starting at the Murray mouth. I grew up exploring this area with 4WDs and small tinny’s, but the older and “wiser” me wants to experience it all at water level.",n
+2509,2498,br,"As with any estuary, it changes so much every year, every season, sometimes by the week, and even with daily tides, and so it definatley pays to know your environment before you pack.",n
+2511,2498,br,"I loved the discussion about small vs large dry packs… for me, this is about what your taking vs the shape of your yak. Small works for me. Packing anything can be like a game of tetris…",n
+2513,2498,br,"Sometimes a box fits, but maybe just take the bladder lol",n
+2515,2498,br,"Thanks everybody, i hope all your trips went safe and smooth!",n
+2518,178,div,,n
+2519,2518,h3,,n
+2520,2519,text,Leave a Reply,n
+2522,2519,small,Cancel reply,n
+2523,2518,form,,n
+2530,2523,p,Name,n
+2537,2523,p,Mail,n
+2544,2523,p,Website,n
+2548,2523,p,"Save my name, email, and website in this browser",n
+2552,2523,p,followup comments via e-mail. You can also subscribe without commenting.,n
+2559,2523,div,,n
+2562,2559,div,,n
+2563,2562,text,Current ye@r,n
+2565,2562,span,*,n
+2570,2559,div,Leave this field empty,n
+2580,3,div,,n
+2582,2580,strong,Superior Paddling,n
+2583,2580,text,| Copyright © 2022 All Rights Reserved,n
+2585,2580,br,"Contact Superior Paddling | Advertising Disclosure, Privacy Policy",n

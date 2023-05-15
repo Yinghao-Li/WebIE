@@ -1,0 +1,200 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+8,3,div,,n
+9,8,div,,n
+11,9,p,This page may contain affiliate links. Learn More.,n
+14,9,p,,n
+15,14,text,If you are new to daycare just returning to work or a veteran daycare mom it’s hard sometimes to get everything together that you need for daycare. These,n
+17,14,strong,daycare supplies,n
+18,14,text,are a must.,n
+28,9,p,"Every daycare has policies in place about what supplies parents should bring. I require parents to supply diapers and wipes or pull ups to leave here. I don’t like bags coming in and out. And a change of clothes to leave here in case of an accident. Other than that, bringing supplies is optional.",n
+32,9,div,,n
+35,32,div,Little Sprouts Learning,n
+38,32,div,,n
+45,38,div,Video Player is loading.,n
+49,38,span,Play Video,n
+50,38,div,,n
+54,50,span,Play,n
+59,50,div,Unmute,n
+66,50,div,,n
+68,66,span,Current Time,n
+70,66,span,0:00,n
+74,50,div,or,n
+77,50,div,Duration,n
+81,50,div,,n
+83,81,div,,n
+85,83,span,Loaded,n
+88,83,span,0%,n
+93,81,div,0:00,n
+95,50,div,,n
+97,95,span,Stream Type,n
+98,95,text,LIVE,n
+99,50,button,,n
+102,99,span,"Seek to live, currently behind live",n
+104,99,span,LIVE,n
+105,50,div,,n
+107,105,span,Remaining Time,n
+109,105,span,-,n
+113,50,div,,n
+115,113,div,1x,n
+119,113,span,Playback Rate,n
+122,50,div,,n
+126,122,span,Chapters,n
+130,122,li,Chapters,n
+131,50,div,,n
+135,131,span,Descriptions,n
+140,131,li,descriptions off,n
+143,50,div,,n
+147,143,span,Captions,n
+149,143,ul,,n
+150,149,li,,n
+152,150,span,captions settings,n
+154,150,span,", opens captions settings dialog",n
+157,149,li,captions off,n
+164,50,div,Audio Track,n
+170,50,span,Picture-in-Picture,n
+174,50,span,Fullscreen,n
+177,38,p,This is a modal window.,n
+179,38,div,,n
+181,179,p,dialog window. Escape will cancel and close the window.,n
+182,179,div,,n
+183,182,div,,n
+186,183,fieldset,Text,n
+216,183,fieldset,Background,n
+248,183,fieldset,Window,n
+278,182,div,,n
+279,278,fieldset,,n
+281,279,legend,Font Size,n
+282,279,select,,n
+284,282,option,50%,n
+286,282,option,75%,n
+288,282,option,100%,n
+290,282,option,125%,n
+292,282,option,150%,n
+294,282,option,175%,n
+296,282,option,200%,n
+298,282,option,300%,n
+300,282,option,400%,n
+301,278,fieldset,,n
+303,301,legend,Text Edge Style,n
+304,301,select,,n
+306,304,option,None,n
+308,304,option,Raised,n
+310,304,option,Depressed,n
+312,304,option,Uniform,n
+314,304,option,Dropshadow,n
+315,278,fieldset,,n
+317,315,legend,Font Family,n
+318,315,select,,n
+320,318,option,Proportional Sans-Serif,n
+322,318,option,Monospace Sans-Serif,n
+324,318,option,Proportional Serif,n
+326,318,option,Monospace Serif,n
+328,318,option,Casual,n
+330,318,option,Script,n
+332,318,option,Small Caps,n
+333,182,div,,n
+334,333,button,,n
+335,334,text,Reset,n
+337,334,span,restore all settings to the default values,n
+339,333,button,Done,n
+343,179,span,Close Modal Dialog,n
+345,179,p,dialog window.,n
+358,38,div,Your video will begin shortly,n
+369,9,p,"I like parents to be able to fill out paperwork, drop off a big load of supplies, and be done with it until I need refills. If parents want a certain diaper cream or bug spray used, they can supply that. If not, I have them sign a permission slip for what I use.",n
+371,9,p,"I provide bedding, cups, and eating supplies as well as all food. It will be up to your daycare what they will ask you to provide. I have a friend that requires parents bring a bicycle helmet for kids to wear in tornado drills that she has them put on if there is a warning. That way she knows there is an extra layer of protection if there really were a severe storm.",n
+373,9,p,"Many daycares require a bag daily that is filled with a change of clothes, bottles, diapers and wipes for that day. I can’t keep up with all that and prefer bags stay at home. Whatever works for the facility you choose is best.",n
+383,9,p,"I don’t keep kids under two so we don’t use bottles or pacifiers. They are welcome to bring one, but it will set on the cabinet until they leave. I don’t want to be responsible for ruining kids teeth, but I don’t judge what is done at home. You’re the parent and that’s your decision.",n
+385,9,p,"If a child requires medication, we fill out a medication permission form and I ask the parents the dosage instructions. Then, when it’s time to give the medication, I read the bottle and if there are any discrepancies, I ask parents again. I don’t want to make any mistakes on that, so I take it really seriously.",n
+387,9,h3,Home daycare supplies,n
+389,9,p,"Diapers. I like to have a case at a time with each package inside labeled with the child’s name. I usually only have a couple of kids in diapers at once since I keep older kids, so I don’t mind writing the name on them if they aren’t labeled. No biggie. I also don’t care one bit what brand you use. They are all fine to me. Generics, Gucci, whatever you like.",n
+391,9,p,"Wipes. I like a case of wipes labeled in the same way. I also only like Huggies wipes . The generic wipes are so thin my fingers go right through them and yuck. I don’t like wasting a big wad of them either. Most of them are slimy as are pampers-the worst baby wipes ever invented-and they make it really hard to clean off the goo. I’m wiping your baby’s booty, please make it easy for me to get away from the goo.",n
+395,9,p,"Also, I’m allergic to scent, so don’t bring the stinky stuff. Frangrance free is best for all the kids anyway. Think about your provider’s poor hands and all they need to do in a day. It’s easier and more comfortable without a rash.",n
+405,9,p,"I don’t do cloth diapers, but I know many providers do. I just don’t want to spend the extra time on it. I’ve had very few moms ever ask and they were gracious about my hesitancy. When my baby was born, they made her covered in rashes because her own pee broke her out. So I never learned how to use them.",n
+407,9,p,Diaper cream. I like to provide my own. I am a Flander’s buttocks ointment fan and I prefer not to use anything else so I supply it.,n
+411,9,p,"Change of clothes. I want an old set of clothes to leave here in case the child has an accident. I keep them in a plastic tote with the child’s name on them and hopefully we never need them. But when we do, it’s great to have them. Don’t forget undies and socks too if your child is potty trained.",n
+420,9,p,"Besides pottying in their pants, they could fall in the mud outside, spill their cup of milk, or any number of things that require a change. It’s great to have a back up plan.",n
+422,9,h3,Daycare supplies list,n
+424,9,p,Other things the daycare might have you supply could include:,n
+426,9,p,"Pacifier, bottles, sheets, blankets, rest mat, stuffed animal, bibs, formula or breast milk, snacks, art supplies, etc.",y
+428,9,p,"Milk. If you are providing formula or breast milk, send enough in labeled bottles for the day plus an extra. Bottles can get spilled when being heated. A provider could forget and leave it out after they try to feed. Or baby could be extra hungry.",n
+430,9,p,"If you use powdered formula, you could just bring a big can and some bottles and the provider could make them up as needed and let you know when they are getting low.",n
+432,9,p,"If you are sending breast milk, ask the provider how they want it packed. I took a week’s supply and kept it in my freezer and thawed the day before needed. A friend I know asks theirs be packed in bottles and thawed.",n
+434,9,p,"Whichever method your provider asks for, don’t be a grump about making it that way. They have many other kids to attend to and they need to have what works for them. I know a provider that had a parent quit a daycare because bringing prepared bottles was too hard.",n
+436,9,p,"Once your baby starts eating baby cereal and baby food, you can just bring a box of cereal and a week’s supply of baby food and leave them there so you won’t have to lug a bag everyday if that works for your provider. Remember, again, to label.",n
+445,9,h2,Daycare supplies,n
+447,9,p,"Other supplies your daycare may require and that all of us can use include: hand soap, tissues, extra wipes, glue sticks, glue, crayons, construction paper, crackers and snacks. These things will never be unappreciated. There are so many wonderful ways to appreciate your provider .",n
+451,9,p,"The best way is to speak kindly to them and let them know you appreciate their hard work. And if you’re having trouble with them, check out how to deal with daycare problem s here.",n
+457,9,h3,How to save on daycare supplies,n
+459,9,p,A great place to save on daycare supplies is discount school supply . They have a better price on most items for daycare. Amazon is another great place to get bulk supplies at a better price. Like this bundle of construction paper that any provider would be grateful for. They have bulk diapers and wipes too.,n
+472,9,p,"Buying school supplies in July and August when they have their back to school sales is a great way to save a ton of money. I buy all of my glue, glue sticks, markers and crayons then and use them for the whole year.",n
+474,9,p,"Also, don’t forget about dollar stores and thrift stores that sometimes have great supplies available.",n
+476,9,p,"Hopefully this has put your mind at ease as you begin your journey, or streamline your routines for daycare. Anything that makes your day and your life easier is worth writing about!",n
+478,9,p,Check out what home daycare essentials you really need here.,n
+484,8,div,,n
+486,484,span,Post Tags,n
+489,484,text,Daycare Supplies,n
+492,484,text,daycare supply list,n
+495,484,text,must haves,n
+496,3,nav,,n
+498,496,h2,Post navigation,n
+499,496,div,,n
+500,499,div,,n
+504,500,div,Previous,n
+505,500,text,Cooking Elote in a Cup Recipe with Kids,n
+506,499,div,,n
+509,506,div,Next,n
+511,506,text,Companion Plants,n
+514,3,div,,n
+516,514,h2,Similar Posts,n
+519,514,div,,n
+524,519,div,,n
+528,524,p,Many parents need full time daycare to go to work Monday through Friday 8-5. But part time daycare can work better for other families. Which is best for yours?,n
+535,524,p,Can Part Time Daycare Work For Your Business?,n
+541,519,div,,n
+545,541,p,"What do you think childcare providers can’t live without? When I asked the question to a bunch of providers, I got a lot of interesting answers.",n
+552,541,p,Must Have Items,n
+558,519,div,,n
+562,558,p,"Is your childcare bill a priority to you? Do you pay for childcare first, or do you see it as an afterthought?",n
+569,558,p,Can’t I Just Pay,n
+575,519,div,,n
+579,575,p,"Providing childcare in your home can easily cost as much as you make, but following these money saving tips for daycare providers will help!",n
+586,575,p,Money Saving Tips,n
+592,519,div,,n
+596,592,p,Starting a family childcare can be a daunting task. There is so much to learn and know to keep a business like this flourishing. You wouldn’t believe some of the mistakes I have made. I hope I can help you avoid some of them and work happier!,n
+603,592,p,What NOT to Do When Starting a Home Daycare,n
+609,519,div,,n
+613,609,p,It’s time to work on your family childcare taxes. It’s not as daunting as you think if you just take a few steps to get everything ready. Find out more.,n
+620,609,p,Must Haves,n
+622,3,div,,n
+624,622,h2,2 Comments,n
+626,622,li,,n
+627,626,article,,n
+628,627,footer,,n
+630,628,div,Yavonna,n
+635,628,div,"June 7, 2021 at 9:49 am",n
+638,627,p,things,n
+643,626,li,,n
+644,643,footer,,n
+646,644,div,Christina,n
+651,644,div,"June 7, 2021 at 12:39 pm",n
+654,643,p,Thank you,n
+657,622,div,,n
+658,657,h3,,n
+659,658,text,Leave a Reply,n
+661,658,small,Cancel reply,n
+662,657,form,,n
+663,662,p,,n
+665,663,span,Your email address will not be published.,n
+667,663,span,Required fields are marked,n
+670,662,div,,n
+672,670,label,Recipe Rating,n
+676,670,span,Recipe Rating,n
+697,662,p,Comment,n
+700,662,div,,n
+704,700,p,Name,n
+710,700,p,Email,n
+716,700,p,Website,n
+725,662,p,Δ,n
+729,622,p,This site uses Akismet to reduce spam. Learn how your comment data is processed .,n

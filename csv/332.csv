@@ -1,0 +1,282 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+19,0,text,Skip to main content,n
+22,0,phoenix-page,,n
+43,22,phoenix-overlay,,n
+45,43,phoenix-accordion,,n
+53,45,li,Basements,n
+61,45,li,Garages,n
+63,45,li,,n
+65,63,div,Home Appliances,n
+74,63,phoenix-accordion-panel,,n
+78,74,li,Air Conditioners,y
+82,74,li,Washers and Dryers,y
+86,74,li,"Stoves, Ovens and Ranges",y
+90,74,li,Microwaves,y
+94,74,li,Refrigerators and Freezers,y
+98,74,li,Furnaces,y
+102,74,li,Water Heaters,y
+106,74,li,Dishwashers,y
+108,45,li,,n
+110,108,div,Home Improvement,n
+119,108,phoenix-accordion-panel,,n
+123,119,li,Painting and Wallpaper,y
+127,119,li,Plumbing,y
+131,119,li,Stonework and Brickwork,y
+135,119,li,Electricity and Wiring,y
+139,119,li,Windows and Doors,y
+143,119,li,Heating and Cooling,y
+147,119,li,Flooring and Carpeting,y
+151,119,li,Drywall and Plaster,y
+155,119,li,Roofing,y
+159,119,li,Fireplaces,y
+163,119,li,Lighting,y
+165,45,li,,n
+167,165,div,Interior Design,n
+176,165,phoenix-accordion-panel,,n
+180,176,li,Home Furnishings,n
+184,176,li,Home Decor,n
+186,45,li,,n
+188,186,div,Landscaping,n
+197,186,phoenix-accordion-panel,,n
+201,197,li,Lawn Care,y
+205,197,li,Yard Design and Layout,y
+209,197,li,Sheds and Outdoor Structures,y
+213,197,li,Ponds and Fountains,y
+215,45,li,,n
+217,215,div,Cleaning,n
+226,215,phoenix-accordion-panel,,n
+234,226,li,Laundry,y
+242,226,li,Carpet,y
+246,226,li,Hacks and DIY,y
+250,226,li,Organizing and Decluttering,y
+252,45,li,,n
+254,252,div,Pest Control,n
+263,252,phoenix-accordion-panel,,n
+267,263,li,Bed Bugs,n
+271,263,li,Mice and Rats,n
+275,263,li,Cockroaches,n
+279,263,li,Ants,n
+283,45,li,Remodeling,n
+304,45,li,Safety and Disaster Prep,n
+308,45,li,Security,n
+312,45,li,Swimming Pools and Hot Tubs,n
+325,45,li,,n
+329,325,li,Beneficial Organisms,n
+333,325,li,Composting and Vermiculture,n
+337,325,li,Container,n
+341,325,li,Design,n
+345,325,li,Flower,n
+349,325,li,Food,n
+353,325,li,Garden Pest Control,n
+357,325,li,Hydroponics and Aquaponics,n
+361,325,li,Rock Gardens,n
+365,325,li,Soil,n
+369,325,li,Weeds,n
+386,43,li,Privacy Settings,n
+400,22,phoenix-overlay,"June 27, 2022",n
+402,22,div,,n
+410,402,phoenix-sticky-nav,,n
+419,410,li,Gardening,n
+422,410,li,Home Improvement,n
+425,410,li,Interior Design,n
+428,410,li,Landscaping,n
+455,402,div,,n
+465,455,div,,n
+467,465,p,Eugene is a trained engineer and self-taught home improvement enthusiast with almost 40 years of professional and DIY experience.,n
+469,465,h2,Tools,n
+471,465,p,"So you want to start doing maintenance in your first home to save money or you're fed up taking time off from work and waiting for tradesmen who don't turn up on time? Many of us are stuck at home under lockdown because of COVID19 with an appetite for trying new things to pass the time, so why not DIY? Anyone can do basic DIY and whether you want to progress to more advanced projects depends on how brave you are, your level of patience and whether you're willing to learn by trial and error, with a couple of disasters along the way! This guide identifies the most common tools required for basic home maintenance so you'll know what to ask for when you go to a store. Of course you don't have to buy them all at once! A toolkit is put together over a lifetime and tools can be bought as the need arises.",n
+474,465,h2,Tool Names,n
+476,465,p,useful tools that you can buy as you need them.,n
+477,465,ol,,n
+479,477,li,Hammers,y
+481,477,li,Philips and flat screwdrivers,y
+483,477,li,Pliers,y
+485,477,li,Snips,y
+487,477,li,Saws,y
+489,477,li,Locking pliers,y
+491,477,li,Measuring tapes,y
+493,477,li,Wrenches,y
+495,477,li,Socket set,y
+497,477,li,Pipe wrench and water pump pliers,y
+499,477,li,Ladders,y
+501,477,li,Voltage testers,y
+503,477,li,Torches,y
+505,477,li,Paint brushes,y
+507,477,li,Drill bits,y
+509,477,li,Metal detector or stud finder and live wire detector,y
+511,477,li,Cordless drill,y
+513,477,li,SDS drill,y
+515,477,li,Utility knife with disposable blades,y
+517,477,li,Tippex marker,y
+519,465,h2,Choosing Tools,n
+521,465,p,"These tools are sufficient for doing basic maintenance jobs around the home like tightening screws on cupboard doors, hanging pictures, tightening loose nuts, wiring mains plugs, tightening power sockets, cutting and fixing sections of timber and basic plumbing.",n
+523,465,p,"It's also a good idea to stock up on essential materials and fixings such as nails, wood screws, wall plugs, assorted nuts, bolts, washers and machine screws, insulating tape, spare blades for a utility knife, super-glue, epoxy resin and cable ties etc.",n
+525,465,h2,Hammers,y
+526,465,ul,,n
+527,526,li,,n
+530,527,strong,claw hammer,y
+531,527,text,"is used for hammering nails, pulling them out and general bashing of stuff. A standard hammer head weighs 1 lb, however you can buy lighter hammers for use with smaller gauge nails, e.g. a",n
+533,527,strong,tack hammer.,y
+534,526,li,,n
+537,534,strong,lump hammer,y
+540,534,strong,builder's hammer,y
+541,534,text,"has a heavy head, useful for breaking bricks or blocks, driving large nails, using with a cold chisel for chopping concrete and any other application that requires brute force.",n
+542,526,li,,n
+545,542,strong,sledge hammer,y
+546,542,text,"is a heavy two handed hammer used for driving posts into the ground, breaking concrete and similar heavy duty jobs that require a large impact force.",n
+549,465,h2,Philips and Flat Screwdrivers,y
+551,465,p,"Phillips and flat head screwdrivers, large and small. There are a few options:",n
+552,465,ul,,n
+554,552,li,Buy screwdrivers individually or as set,n
+556,552,li,screwdriver bits,n
+558,552,li,A cordless drill or driver combi with screwdriver bits,n
+560,465,p,Sets of screwdrivers sometimes include an awl for making holes prior to driving screws or drilling. This looks like a screwdriver but has a pointed tip which is pushed into wood or plastic and turned to make a hole.,n
+565,465,h2,Pliers,y
+567,465,p,"Standard pliers for holding, pulling, bending, twisting etc. They can also be used to undo small nuts.",n
+568,465,section,,n
+571,568,div,Scroll to Continue,n
+575,568,h2,Read More From Dengarden,n
+578,568,phoenix-recommendations,,n
+591,578,phoenix-super-link,"20 ""Must Haves""",n
+604,578,phoenix-super-link,A Complete Guide to Power Tools,n
+617,578,phoenix-super-link,Makita 18v Lithium Ion Cordless Drill Review,n
+619,465,p,"A long nose pliers is better for reaching into places that a standard jaw pliers can't access. It's also used for bending ends of wires, holding parts and is a standard tool for electrical or electronic work.",n
+621,465,h2,Snips,y
+623,465,p,"A wire snips is useful for cutting and stripping the insulation from wire when wiring plugs, socket outlets, lighting outlets. You can also use it to snip cable ties, tie wire or light gauge netted wire.",n
+626,465,h2,Saws,y
+627,465,ul,,n
+628,627,li,,n
+629,628,text,A standard carpenter's,n
+631,628,strong,hand saw,y
+632,628,text,for cutting wood . You can use it for crosscutting lengths of timber or for cutting through sheets of plywood or MDF,n
+633,627,li,,n
+636,633,strong,tenon saw,y
+637,633,text,is smaller with finer teeth and better suited,n
+638,627,li,,n
+641,638,strong,junior hacksaw,y
+642,638,text,"takes disposable blades and can be used for cutting small pieces of metal, bolts, threaded bar, PEX and copper pipe",n
+643,627,li,,n
+646,643,strong,mitre box,y
+647,643,text,"is an inexpensive guide that you can use for making neat square and angled cuts on the end of architrave, baseboard or other timber up to 2 x 4 in cross section",n
+652,465,h2,Locking-Pliers,y
+653,465,p,,n
+656,653,strong,locking pliers,y
+657,653,text,"can be used for holding nuts, bolts, bars or anything to prevent it turning. It can also be used as a general purpose clamp for holding two parts together.",n
+661,465,h2,Measuring Tapes,y
+662,465,ul,,n
+664,662,li,A 6 m measuring tape is perfect,n
+666,662,li,A smaller 3 m tape is small and compact and you can slip it into your pocket for measuring stuff while you go shopping for furniture or building materials,n
+669,465,h2,Wrenches,y
+671,465,p,"Wrenches, known as spanners in the UK, are used for tightening nuts, bolts, taps, plumbing fittings, wall fixings and anything else that requires a nut to be tightened.",n
+672,465,p,,n
+673,672,text,You can buy either,n
+675,672,strong,open ended wrenches,y
+678,672,strong,combination wrenches,y
+679,672,text,. The latter are open at one end and ring at the other end. The ring part makes for quicker tightening of nuts without having to take the wrench off the nut or bolt head and put it back on again. Ring or combination spanners can also be used for situations when a nut needs to be undone but the threaded section of the bolt extends too far beyond the nut to fit into a socket.,n
+681,465,p,"For domestic work, sockets or wrenches don't need to be greater than 3 or 4 inch AF or about 22 mm in size.",n
+682,465,p,,n
+683,682,text,You can use an,n
+685,682,strong,adjustable wrench,y
+686,682,text,"with jaws that can be adjusted to suit the size of a nut or bolt head. However unless you buy an expensive version, there can be a certain amount of play in the jaws when tightened, which can round the corners on a hex profile fixing if they're used often. They are useful however for dealing with large nuts or bolts when a fixed size wrench would be expensive.",n
+690,465,h2,Socket Set,y
+691,465,p,,n
+692,691,text,"A socket wrench and socket does the same job as a wrench but the ratchet action makes things quicker and easier because you can just pump the handle to tighten or release a nut or bolt. With a wrench you have to continually remove and replace the jaws of the wrench onto a nut or bolt head. A socket wrench is often used in conjunction with a standard wrench, the wrench for holding a nut and the socket wrench for releasing or tightening the bolt .",n
+694,691,br,The disadvantage of a socket wrench is that you can't use it to tighten nuts on long bolts or threaded bar because a socket mightn't be deep enough. You can always use a ring spanner in this scenario or a and wrench.,n
+696,691,strong,through socket,y
+699,465,p,Buy a 6 point set. These are less likely to wear or damage the corners of nuts and bolt heads or the socket itself than 12 point sockets.,n
+702,465,h2,Pipe Wrench and Water Pump Pliers,y
+704,465,p,"If you're going to do any home plumbing, these are useful tools to have for dismantling taps, radiator valves, unscrewing and tightening pipes and plumbing fittings and large nuts . The jaws and handles of a water pump pliers aren't in line, so it's easier to access and turn nuts on e.g. a radiator valve without the handles being obstructed by the wall.",n
+708,465,h2,Ladders,y
+709,465,ul,,n
+710,709,li,,n
+713,710,strong,step ladder,y
+714,710,text,"is virtually essential for interior and exterior maintenance. You'll inevitably need to clean windows, cut hedges, water hanging baskets, paint, clean cobwebs or clean low-level gutters. A step ladder is safer than standing on a chair or stool because you have a top bar to hold onto to prevent losing your balance",n
+715,709,li,,n
+716,715,text,An,n
+718,715,strong,extension ladder,y
+719,715,text,"allows you to access top gutters, paint your house, clean the outside of windows, cut limbs from trees etc",n
+722,465,h2,Voltage Testers,y
+723,465,ul,,n
+725,723,li,"A digital multimeter can be used to measure voltage, current, test continuity of fuses and wires and check batteries",n
+727,723,li,"A screwdriver phase tester or non-contact voltage tester can be used for detecting whether a cable or other electrical parts are ""live"". The neon bulb in a screwdriver tester glows when the tip of the screwdriver's blade is touched off a live conductor. It's essential to use one of these to double check power is definitely off after switching the power off using the MCB at the electrical panel. A non-contact voltage tester such as a Fluke VoltAlert doesn't require you to make contact with the live conductor and can be used for checking whether power is present at a socket outlet, on a power cord or other points in an electrical circuit or appliance.",n
+729,465,h2,What Multimeter to Buy?,n
+731,465,p,"Fluke, a leading US manufacturer of digital instrumentation, promotes the Fluke 113 model for general purpose use in the home or for car maintenance. This is an excellent meter and can measure AC and DC volts, resistance, check continuity and diodes. The meter is auto-ranging, so ranges don't have to be set. It is also a true-RMS meter. It doesn't measure current, so If you need to measure AC and DC current, the Fluke 115 has this added facility.",n
+739,465,p,"A Fluke non-contact detector ""VoltAlert"" like this one available from Amazon is a standard tool in any electricians tool kit, but useful for homeowners also. I use one of these for identifying which conductor is live whenever I'm doing any home maintenance. Unlike a neon screwdriver , you can use one of these in situations when live parts or wires are shrouded or covered with insulation and you can't make contact with wires. It also comes in useful for checking whether there's a break in a power flex and where the break occurs.",n
+743,465,h2,Torches,y
+744,465,ul,,n
+746,744,li,High powered LED torches are now available that produce a lot more light than traditional types that used an incandescent bulb. LEDs also last practically forever and don't break if you drop the torch.,n
+748,744,li,"A head torch is extremely useful, I use one for all sorts of maintenance around the house when I need my two hands free",n
+752,465,h2,Paint Brushes,y
+754,465,p,"At some stage you might decide to try your skills at painting. The 4 most useful sizes are 1 or 2 inch, 1 inch, 1 1 or 2 inch and 2 inch. For painting walls, a larger brush about 5 to 6 inches wide is needed.",n
+756,465,p,You can also use a roller,n
+760,465,h2,Drill bits,y
+762,465,p,You're going to need these,n
+763,465,ul,,n
+765,763,li,HSS bits,y
+767,763,li,Wood bits,y
+769,763,li,Masonry bits,y
+771,465,p,"See my guide ""Choosing the Right Drill Bit for Metal, Wood, Tiles, Glass, or Masonry"" for lots more info",n
+776,465,h2,Metal Detector or Stud Finder and Live Wire Detector,y
+778,465,p,This tool is for finding metal in walls and live wires before drilling. Many of these detectors also include a stud finder option that allows you to find studs that you can use for driving screws into when hanging pictures or cabinets.,n
+780,465,h2,Cordless Drill,y
+782,465,p,"A cordless drill is an essential power tool if you need to drive a lot of screws. A combi drill is used for drilling and driving screws. Most 18 volt drills can be used for drilling holes in concrete if you need to insert wall plugs for fixing stuff to walls, but an inexpensive corded SDS drill is faster and more powerful for drilling large holes.",n
+785,465,h2,SDS Drill,y
+786,465,p,,n
+787,786,text,"You can buy a corded or cordless version. A corded version is a lot cheaper, but obviously has the inconvenience of a trailing power cord.",n
+789,786,br,SDS drills have pneumatic percussion action so they can rapidly drill holes in masonry for wall plugs if you need to fix cupboards to walls. You can also easily drill larger holes in concrete when running plumbing tubing or cables.,n
+790,465,p,,n
+791,790,text,For more info on cordless and corded drills see my guide:,n
+794,790,br,A Complete Beginner's Guide to Power Tools,n
+797,465,h2,Utility Knife With Disposable Blades -,y
+799,465,p,"These are sometimes referred to generically as ""Stanley knives"" from the name of the manufacturer. Disposable blades are now a standard size for all manufacturer's knifes and readily available from discount stores. The most common type has a retractable blade, but folding versions are also available that stowaway the blade safely into a hollow slot in the handle. When not using your knife, keep the blade retracted into the casing to prevent accidental cuts.",n
+802,465,h2,Tippex Marker,y
+804,465,p,"Yes, I know they're used as correction pens, but a Tippex marker is great for marking dark surfaces. If you use a pencil or felt tip marker, it can be difficult to see the mark, but a Tippex marker produces a white line that's really prominent.",n
+807,465,h2,Recommended Books,n
+808,465,p,,n
+809,808,text,"I learned a huge amount of information from this book! The Collins Complete DIY Manual is an excellent guide, comprehensively covering plumbing, electrics, woodwork, heating, garden construction, paving, plasterwork, glass cutting, painting, tiling and all other aspects of home maintenance and improvement. This older version from Amazon UK contains a lot more info than the newer editions.",n
+815,808,br,Note that electrical wiring information in this manual is geared towards UK users and may not satisfy more recent and stricter regulations.,n
+818,465,p,This content is accurate and true to the best of the author’s knowledge and is not meant to substitute for formal and individualized advice from a qualified professional.,n
+821,465,p,© 2011 Eugene Brennan,n
+833,455,h2,Related Articles,n
+835,455,phoenix-hub,,n
+837,835,phoenix-non-personalized-recommendations-tracking,,n
+849,837,phoenix-super-link,,n
+852,849,div,Design,n
+855,849,phoenix-ellipsis,How to Start and Grow Clover,n
+857,849,div,,n
+859,857,span,By BWDuerr,n
+862,857,span,59 minutes ago,n
+874,837,phoenix-super-link,,n
+880,874,phoenix-ellipsis,How to Plant and Grow Sweet Bell Peppers From Seeds,n
+882,874,div,,n
+884,882,span,By L M Reid,n
+887,882,span,12 hours ago,n
+899,837,phoenix-super-link,,n
+905,899,phoenix-ellipsis,Why Every Serious Gardener Needs to Plant Yarrow,n
+907,899,div,,n
+909,907,span,By Fiona,n
+912,907,span,"Jun 26, 2022",n
+936,837,phoenix-super-link,,n
+942,936,phoenix-ellipsis,How to Decorate Every Room in Your Home With a Taurus Vibe,n
+949,936,div,"Jun 25, 2022",n
+967,837,phoenix-super-link,How to Decorate Every Room in Your Home Like an Aries,n
+986,837,phoenix-super-link,,n
+989,986,div,Container,n
+992,986,phoenix-ellipsis,Growing and Caring,n
+1017,837,phoenix-super-link,Goldenrod,n
+1042,837,phoenix-super-link,How to Grow Okra,n
+1052,835,phoenix-non-personalized-recommendations-tracking,,n
+1070,1052,phoenix-super-link,The Best and Worst Mulch,n
+1095,1052,phoenix-super-link,How to Raise and Divide Irises,n
+1120,1052,phoenix-super-link,How to Grow and Care,n
+1151,1052,phoenix-super-link,,n
+1157,1151,phoenix-ellipsis,Hydrophytes,n
+1161,1151,div,By AL,n
+1182,1052,phoenix-super-link,Bearded Iris and How to Plant Them,n
+1207,1052,phoenix-super-link,Growing Caladiums,n
+1232,1052,phoenix-super-link,How to Decorate Your Home,n
+1242,835,phoenix-footer-loader,,n
+1244,1242,div,Loading…,n
+1246,1242,div,See More,n
+1260,455,div,"© 2022 The Arena Media Brands, LLC and respective content providers on this website. HubPages® is a registered trademark of The Arena Platform, Inc. Other product and company names shown may be trademarks of their respective owners. The Arena Media Brands, LLC and respective content providers to this website may receive compensation for some links to products and services on this website.",n

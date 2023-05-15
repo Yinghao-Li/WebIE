@@ -1,0 +1,120 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+29,2,p,"How many times have you bought a plant that caught your eye, or received one as a gift, only to have it die a slow death in your home?",n
+31,2,p,"Have you ever admired a friend’s house filled with lush plants, and wondered, “What’s their secret?” How do these folks with a seemingly natural green thumb do it?",n
+40,2,h3,I used to be terrible at keeping house plants alive.,n
+42,2,p,a green one.,n
+44,2,p,"But after much research and trial and error, I started to get better at keeping my house plants alive.",n
+46,2,p,"Not only did I keep them alive, but they began to flourish. What made the difference? A little know-how, but mainly, having the right tools for the job.",n
+48,2,p,"How about we skip the trial and error, and I’ll give you the lowdown on what you need. If you want gorgeous houseplants that will provide you with clean air and beautify your home for years to come, read on.",n
+57,2,h3,We’re going to take a look at the tools you need to keep your plants happy and healthy.,n
+59,2,p,And the best part is everything you need is inexpensive. Many of the items on our list are things I see in thrift stores all the time for a few dollars each.,n
+61,2,p,I’m breaking this down into two lists.,n
+63,2,p,"The first is your must-have items; these are the tools every house plant owner should have. The second list is geared more towards things that are nice to have. They aren’t essential, but may make caring for your plants easier or might be a specialty item needed for a specific type of plant.",n
+65,2,p,"Cuddle up with your favorite pothos, and let’s take a look.",n
+68,2,h2,The Must-Have Essentials,n
+70,2,h3,Watering Can,y
+72,2,p,"For indoor plants, it’s best to have a watering can on the smaller side. Skip the big cans with the sprinkler head.",n
+74,2,p,"Many plants should be watered from the crown, or at the base under the leaves.",n
+76,2,p,Choose a watering can with a long and narrow gooseneck style spout to make controlling your water flow smooth and precise.,n
+89,2,p,"You can find watering cans at thrift stores, and if you want to keep your hobby as cheap as possible, use a sports squeeze water bottle .",n
+93,2,h3,Gloves,y
+104,2,p,"It’s a good idea to have a decent pair of gardening gloves for repotting. Because you won’t be dealing with tough weeds or other heavy-duty gardening tasks, you don’t need anything very rugged .",n
+108,2,p,"I prefer the knit types with a nitrile grip . And to make sure I have them when I need them, I store them right in my container of potting soil.",n
+112,2,h3,Potting Mix,y
+114,2,p,Speaking of…keep some potting mix on hand. You’ll often discover when you purchase a plant or during routine watering or feeding that one of your plants is root bound and needs to be repotted. And it’s handy if you do a lot of propagating.,n
+116,2,p,"I have a plastic tote for storing potting mix to keep it dry. As far as the potting mix goes, you don’t need anything fancy. Often I just grab a big ol’ yellow bag of Miracle-Gro Potting Mix .",n
+127,2,h3,Pots and Planters,y
+136,2,p,"I always try to keep a few planters on hand. Sometimes you’ll need to repot a plant, or you might come home with a new plant and need something nicer than the nursery pot it comes in.",n
+138,2,p,"I rarely buy pots new. You can find great planters at thrift stores, yard sales, or on places like Craigslist. I love finding kitschy planters to dress up plain plants, but you can never go wrong with the classic look of terracotta.",n
+147,2,h3,Spray Bottle or Plant Mister,y
+156,2,p,"Most of my house plants are native to tropical regions, so they do better in a more humid environment than the typical household. Keep a fine-mist spray bottle of water on hand.",n
+160,2,p,"Many types of plants enjoy having their leaves misted, and in doing so, you’re increasing the humidity around them.",n
+162,2,p,"Mist first thing in the morning, so the leaves have plenty of time to dry before the cooler nighttime temperatures.",n
+164,2,p,I love the look and the pump action of old bulb-style plant misters . It looks nicer sitting in my living room than a plastic spray bottle.,n
+168,2,p,"If you decide to go this route, be sure that the pump is made of metal, rather than plastic. The plastic pumps tend to break. You can often find vintage plant misters on eBay or Etsy.",n
+170,2,h3,Pebble Trays,y
+179,2,p,"Along with misting your plants, pebble trays are an easy way to add more moisture in the air for your plants. Any shallow dish will do, such as plastic plant drip trays . And pie plates work equally well.",n
+183,2,p,"Again, these are items that you can pick up on the cheap at most thrift stores.",n
+192,2,p,"Fill them with pea gravel, aquarium stones, or even decorative marbles.",n
+194,2,p,"You want to have plenty of surface area for the water to evaporate, so the dish you use should be a few inches wider than the pot you put on top of it.",n
+196,2,p,"Fill the plate with water, so it’s just below the tops of the stones. Your planter shouldn’t be sitting in water when set on the pebbles. Group other plants around the pebble tray to share the benefits of the extra humidity.",n
+198,2,h3,Waterproof pads or drip trays to protect furniture,y
+207,2,p,"Have you ever heard that saying, “You’re the reason we can’t have nice things?” Yeah, that’s me. I’m the reason I can’t have nice things. I’ve ruined several pieces of furniture by putting plants on them. Don’t be like me – protect your furniture.",n
+209,2,p,It only takes a few dollars to keep your furniture stain-free and your plants happy.,n
+211,2,p,"I recommend a cork mat with plastic backing, which will protect furniture from water stains and scratches from rough planter bottoms. I purchased several packs of these cork plant coasters from Amazon .",n
+222,2,h3,House Plant Fertilizer,y
+224,2,p,You should keep an all-purpose plant food on hand. I find that my plants are happiest when I fertilize them with every watering using fertilizer at about a ¼ strength.,n
+233,2,p,"Once a month, I skip the fertilizer and just water with plain water to flush out any salts that are building up.",n
+235,2,p,"Schultz All Purpose plant fertilizer is a personal favorite. It’s what my grandfather used, so it’s what I tried first when I started fertilizing regularly. One bottle seems to last forever, which is important if you’re trying to reduce single-use plastic.",n
+238,2,h2,The Nice to Have Goodies,n
+239,2,p,,n
+240,239,text,These are the things that I’ve picked up along the way as my plant,n
+242,239,s,addiction,n
+243,239,text,hobby grew.,n
+245,2,p,"Most of these items just make taking care of your plants a little easier, help with propagating or are items that you’ll use if you get into training plants to grow in a specific direction.",n
+247,2,h3,"Peat Moss, Vermiculite, Perlite, Worm Castings, Bark Chips",y
+249,2,p,"As you become accustomed to watering and feeding your plants, you may notice that some plants dry out faster than others, or are happier with a quick-draining potting mix. And that’s when it’s time to take matters into your own hands.",n
+258,2,p,these on hand means you can blend a custom potting soil,n
+260,2,p,I keep a bag of each in a sealed 5-gallon bucket so I can mix them right in the bottom of the bucket.,n
+264,2,h3,Soil Moisture Meter,y
+266,2,p,"If you want to get technical about watering, you’ll want a soil moisture meter .",n
+270,2,p,"These devices measure moisture down at the root level. And that’s were root rot, and a lot of other problems start if a plant isn’t watered correctly.",n
+272,2,p,It’s an excellent way to see how quickly the soil drains and retains moisture. Some of them even monitor pH and light.,n
+274,2,h3,Watering Globes,y
+276,2,p,"Not only are watering globes pretty, but they’re useful if you’re not going to be around to water for a while. Or if like me, you’re forgetful.",n
+280,2,p,"I have a couple of plants that are straight-up divas, and like their soil always slightly moist. Marantas, in particular, will get brown tips if they dry out too often.",n
+282,2,p,"Watering globes allow you to be a little forgetful or take a trip out of town without losing a plant. You can get them in different shapes, too; I adore these mushroom watering globes .",n
+293,2,p,P.S. These are great gifts,n
+295,2,h3,Gardening Scissors,y
+304,2,p,"Scissors are a must when you have house plants. Whether you have a leggy spider plant that needs a trim, or you plan on propagating, you’ll need a pair of sharp scissors.",n
+306,2,p,"Of course, you can use any pair you have around the house. But having a dedicated pair of scissors for your plants means you’re less likely to spread disease. And most gardening scissors have shorter blades making them easier to maneuver when trimming bushy plants.",n
+308,2,p,There’s nothing worse than accidentally trimming a perfectly healthy stem or leaf along with the brown one you meant to cut because your scissors were too long. Oops!,n
+310,2,p,"I love the heft and feel of a traditional pair of bonsai scissors , but even a reliable pair of cheap pruning snips are hard to beat.",n
+323,2,h3,Propagation Containers,y
+332,2,p,"Once you start growing house plants, you quickly realize you have more free plants growing right at your fingertips – get propagating!",n
+334,2,p,A standard propagation method is to put a stem in water so it will produce roots.,n
+336,2,p,"Many plants can propagate directly into soil. However, I prefer to propagate in water as it allows me to see the roots developing. I can transplant them into potting soil when the roots are long enough, ultimately giving my new plant a better start.",n
+340,2,p,Choose containers with a narrow opening to prevent the cutting from slipping under the water.,n
+343,2,p,Related Reading,n
+346,2,h3,Rooting Powder,y
+348,2,p,"Once you start propagating, you’ll find that rooting powder comes in handy.",n
+352,2,p,This powdered hormone encourages root development in plant cuttings.,n
+354,2,p,Using rooting powder is another way to ensure your little cuttings get the best start in life.,n
+356,2,p,"Use it for soil propagation, even use it on seeds to improve germination. One jar will last ages, even if you do a lot of propagating.",n
+365,2,h3,Plant Stands,y
+367,2,p,"As your house plant collection grows, you may find that some plants need a boost. When you group plants together, it helps to have one or two higher than the others for optimum growth and air circulation.",n
+369,2,p,"There are many types of plant stands out there. But get creative and use items from around your home or again, check out thrift stores.",n
+373,2,p,"If the actual stand will be out of sight, like behind a piece of furniture, a 5-gallon bucket upside down works beautifully.",n
+375,2,p,Plant stands are great for plants such as large palms and fiddle-leaf figs while they grow to their maximum height.,n
+377,2,h3,Plant Hangers,y
+379,2,p,"Again, with a growing plant collection, you may want to consider hanging a few. Having plants up at eye level provides visual appeal as well as proper airflow.",n
+381,2,p,"Even if you live in a rental, there are some great ways to hang plants without putting holes in your walls. Macramé plant hangers are a classic look that’s making a comeback.",n
+392,2,p,"But if the Boho style isn’t your thing, there are other options as well, like a hanging basket .",n
+396,2,p,"There are many styles to choose. And again, you can find these at yard sales or thrift stores for a couple of dollars.",n
+399,2,p,Related Reading,n
+402,2,h3,Coir Moss Stick or Pole,y
+411,2,p,"If you grow pothos or philodendron or any other type of climbing plant, get yourself a few moss poles .",n
+415,2,p,These types of plants naturally climb the sides of trees. The moss poles mimic the rough surface that they cling to. The poles are inexpensive and give your plant the support it needs to grow high.,n
+424,2,p,Why not have a go at making them yourself ?,n
+428,2,h3,Humidifier,y
+437,2,p,"This is probably one of the most useful things I’ve bought for my plants, and I benefit too.",n
+439,2,p,I picked up a small cool-mist humidifier to add moisture to my plants without a lot of fuss. I set it up and let it go until it runs out.,n
+450,2,p,"It’s virtually silent and has a built-in night light. I’ll move it to different plant groupings I have around my home, so everyone gets a turn. And it helps my home in the winter when the air is dry.",n
+452,2,p,"I will set it up in my bedroom at bedtime, and I sleep much better. Picking up this little humidifier was a good idea!",n
+456,2,h3,Small gardening tools,y
+458,2,p,"When it comes to house plants, most of the time, full-sized gardening tools are overkill. They’re too big for the smaller plants and pots you’re using.",n
+460,2,p,"And yes, using your hands is fine, but sometimes it’s nice having a set of tools that fit the job.",n
+462,2,p,Amazon has a great kit with about every tool you could ever need. But a small set of hand tools will also fit the bill.,n
+467,2,h3,Plant First Aid Kit,y
+469,2,p,Be prepared for sick plants. You’re more likely to save a plant if you already have what you need on hand. Put together a small ‘first aid kit’ for your house plants.,n
+478,2,p,"Items should include a bottle of isopropyl alcohol and some cotton pads to clean infected leaves, a spray bottle of insecticide soap , and a fungus gnat treatment .",n
+484,2,p,"Like most hobbies, creating a jungle-like environment in your home is easier to do when you have the right tools for the job.",n
+486,2,p,"Of course, you don’t need to purchase all of these at once. And some you may never need at all. But knowing what’s useful is half the battle.",n
+488,2,p,"With a well-stocked plant care tool kit, you’ll be on your way to a lush, green home filled with beautiful plants and clean air.",n
+509,0,nav,,n
+511,509,h2,Post navigation,n
+512,509,div,,n
+517,512,p,15 Innovative Strawberry Planting Ideas For Big Harvests In Tiny Spaces,n
+522,512,p,35 Gardening Jobs To Do In July,n

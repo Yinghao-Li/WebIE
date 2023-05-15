@@ -1,0 +1,171 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,article,,n
+3,2,div,,n
+7,3,div,,n
+9,7,h1,How to Choose the Right Transformer,n
+11,7,h2,Understanding Electrical Supplies and Controls,n
+14,3,div,,n
+15,14,div,,n
+17,15,span,By,n
+18,15,div,,n
+19,18,text,Ryan Kunkle,n
+20,18,div,,n
+21,20,div,,n
+23,21,div,Ryan Kunkle,n
+25,21,div,"Ryan Kunkle is a nationally recognized professional model train expert and writer with over 25 years of experience. He directs production at Lionel, the premier model train manufacturer, and he is the former president of the Conrail Historical Society. Ryan develops model train layouts for public and private display.",n
+26,20,div,,n
+28,26,span,Learn more about The Spruce Crafts',n
+29,26,text,Editorial Process,n
+31,14,div,Updated on 02 or 03 or 19,n
+36,2,div,,n
+38,36,p,"How do you choose the right power supply for your model trains? There isn't a one-size-fits-all solution, so you'll need to consider what you want to do and measure your options accordingly.",n
+43,36,h2,Starter Sets,n
+45,36,p,"Most people start with a pre-packaged train set . Starter sets almost always include a power supply along with the track and train. While better starter sets usually include a more robust transformer, as a general rule the power pack supplied with your starter set is just that—a start.",n
+50,36,p,"These small power supplies are designed to supply a few amps of power. That's about enough to run a single locomotive and perhaps power a few lighted accessories or passenger cars. As your layout grows so, too, will its power demand.",n
+57,36,p,"Don't just discard your starter set pack, though. It can be a great secondary power supply for lighted buildings , signals, and other accessories. Serving these devices with their own dedicated supply will not only allow you to supply them with a proper constant voltage, but it will also free your main power supply to handle the load of the train itself.",n
+64,36,h2,"Volts, Amps, and Watts",n
+66,36,p,"All power supplies will be rated for volts, amps, and watts. Understanding the difference is important in getting the right power supply for your needs.",n
+69,36,p,Here are some simple definitions,n
+71,36,ul,,n
+72,71,li,,n
+74,72,strong,Volts,n
+75,72,text,"determine the volume of power your train will receive and with conventional control is adjustable. Different scales generally run on different voltages. By varying the voltage, you can increase or decrease the speed of the train. A common analogy is the flow of water through a pipe.",n
+76,71,li,,n
+78,76,strong,Amps,n
+79,76,text,"are the amount of power. This does not change with the throttle. The more amperage you have available, the more you can do with it. If volts are the flow of water, amps are the force.",n
+80,71,li,,n
+82,80,strong,Watts,n
+83,80,text,"are simply the measure of the two combined as volts multiplied by amps. So an 8 volt, 10 amp power supply would be rated at 80 watts.",n
+86,36,p,"Most power supplies will be labeled as to the scales they are meant to handle. Within that range, it is generally recommended to go for the most robust power supply possible. You may never use all the amps, but it's usually cheaper to grow into a power supply than to continually upgrade.",n
+91,36,h2,"AC, DC, and DCC",n
+93,36,p,"Model train power falls into one of three categories. Alternating current is the preferred power for most O Gauge three-rail trains as well as some two-rail systems in smaller scales. In three-rail systems, the outer rails are both grounded, and the center rail is ""hot.""",n
+96,36,p,"Most two-rail track systems use direct current . One rail is positive, the other negative. The polarities can be reversed to change the direction of the train.",n
+99,36,p,"Digital command control systems uses digital information to control the electrical power to the train. DCC is less common in starter sets, but some are available. Most command systems use a constant AC power supply, and trains are controlled by impulses sent through the rails. These systems still require a power supply but it only needs to supply a constant voltage to the rails.",n
+105,36,h2,Radio and Bluetooth Control Systems,n
+107,36,p,"The next evolution in model train control is radio- or bluetooth-controlled trains. These sets use a remote control which talks directly to a receiver in the locomotive. In some cases. Some systems will use bluetooth technology enabling you to control the trains with your tablet or cell phone. Like command control, these trains still require a constant voltage to the rails. The power supply that comes with these sets is usually a very small wall pack plug-in that cannot be easily expanded. As your needs grow, you can employ a larger transformer of fixed voltage. Make sure you are getting the right type of power supply for your layout.",n
+112,36,h2,Your Power,n
+114,36,p,"It is important to remember that the real test of the power supply is the load you'll place on it. This comes primarily from the locomotive but also from lights and other accessories. A locomotive on a mile-long loop will draw as many amps as it does on a 4x8 platform. The chances are that little power supply isn't going to keep the train running over a full mile, however. You can use bus and feeder wires to more evenly distribute the power over your track.",n
+117,36,p,"Likewise, if you only want to run one train at a time, you can keep other trains on the track by wiring with blocks, and turning off trains that are not in use. This works for command control layouts too, since those parked trains are still drawing some current. By only supplying power to the trains that need it, you can greatly reduce your needs.",n
+122,36,h2,Circuit Protection,n
+124,36,p,"Like all electronic products, you want to make sure your power supplies are rated by the appropriate body for your country . Also, you must have a built-in circuit breaker to prevent a short circuit from causing permanent damage to the power supply or the trains. With the ever-increasing amount of small electronics in today's sophisticated models, this protection is more important than ever.",n
+127,36,p,"Most power supplies will perform very well for years if used within their limits. It is not uncommon to see 50-year-old transformers still going strong on a model railroad . You should take care, however, to replace worn cords and wires. Keep the power supplies in an area where they get plenty of air circulation to prevent overheating.",n
+132,36,p,"And if the power supply does fail, it is best not to repair it on your own. Many manufacturers assemble cases with special screws to prevent access to the inside and accidental shock. Take the hint.",n
+144,2,div,,n
+146,144,div,Featured Video,n
+149,144,div,,n
+166,149,div,"To get more stitches in knitting, an increase is needed. A common method of increasing stitches is known as make one, abbreviated as M1R or M1L, for make one left. This video shows you how to twist the stitch and make it nice and tight, so you don't get a hole when you knit. With simple, similar movements working in reverse, you will conquer this technique in no time.",n
+187,149,div,More Videos,n
+191,149,div,,n
+193,191,span,"1 minute, 46 seconds",n
+195,191,span,Volume 0%,n
+196,149,div,,n
+199,196,span,keyboard shortcuts,n
+200,196,div,,n
+201,200,div,,n
+203,201,span,Keyboard Shortcuts,n
+204,201,button,,n
+207,204,span,Enabled,n
+209,204,span,Disabled,n
+211,200,div,,n
+212,211,div,,n
+214,212,span,Play or Pause,n
+216,212,span,SPACE,n
+217,211,div,,n
+219,217,span,Increase Volume,n
+221,217,span,↑,n
+222,211,div,,n
+224,222,span,Decrease Volume,n
+226,222,span,↓,n
+227,211,div,,n
+229,227,span,Seek Forward,n
+231,227,span,→,n
+232,211,div,,n
+234,232,span,Seek Backward,n
+236,232,span,←,n
+237,211,div,,n
+239,237,span,Captions On or Off,n
+241,237,span,c,n
+242,211,div,,n
+244,242,span,Fullscreen or Exit Fullscreen,n
+246,242,span,f,n
+247,211,div,,n
+249,247,span,Mute or Unmute,n
+251,247,span,m,n
+254,211,div,Seek %,n
+257,149,div,,n
+271,257,div,,n
+273,271,div,Next Up,n
+275,271,div,3 Great Yarn Options,n
+277,271,div,03:00,n
+279,257,div,,n
+288,279,div,,n
+291,288,div,Settings,n
+292,288,div,,n
+294,292,button,Off,n
+296,292,button,English,n
+298,279,div,,n
+299,298,button,,n
+300,299,text,Font Color,n
+303,299,div,White,n
+306,298,button,Font Opacity,n
+312,298,button,Font Size,n
+317,298,button,,n
+318,317,text,Font Family,n
+321,317,div,Arial,n
+323,298,button,,n
+324,323,text,Character Edge,n
+327,323,div,None,n
+330,298,button,Background Color,n
+335,298,button,,n
+336,335,text,Background Opacity,n
+339,335,div,50%,n
+342,298,button,Window Color,n
+347,298,button,,n
+348,347,text,Window Opacity,n
+351,347,div,0%,n
+354,298,button,Reset,n
+384,279,div,,n
+386,384,button,200%,n
+388,384,button,175%,n
+390,384,button,150%,n
+392,384,button,125%,n
+400,279,div,,n
+402,400,button,Arial,n
+404,400,button,Courier,n
+406,400,button,Georgia,n
+408,400,button,Impact,n
+410,400,button,Lucida Console,n
+412,400,button,Tahoma,n
+414,400,button,Times New Roman,n
+416,400,button,Trebuchet MS,n
+418,400,button,Verdana,n
+420,279,div,,n
+422,420,button,None,n
+424,420,button,Raised,n
+426,420,button,Depressed,n
+428,420,button,Uniform,n
+430,420,button,Drop Shadow,n
+504,257,div,,n
+534,504,div,Live,n
+536,504,div,00:00,n
+559,144,div,How to Make One Left and Right in Knitting,n
+591,0,div,,n
+592,591,ul,,n
+601,592,li,Can You Combine Trains from Different Manufacturers?,n
+611,592,li,Run Several Trains Simultaneously with Block Operation,n
+621,592,li,Tips,n
+631,592,li,What Are the Wire Gauge Standards,n
+641,592,li,How You Can Make Your Christmas Tree Train Even Better,n
+651,592,li,Things to Check When Your Model Train Won't Run,n
+661,592,li,Learn the Digital Command Control Basics,n
+671,592,li,Model Train Switches,n
+675,591,ul,,n
+684,675,li,How to Build a Wye,n
+694,675,li,What's the Steepest Slope Your Model Trains Can Climb?,n
+704,675,li,Know These Principals Before You Buy an Electric Kiln,n
+714,675,li,Discover S Scale and S Gauge,n
+724,675,li,Building and Wiring Model Railroad Reverse Loops,n
+734,675,li,2022,n
+744,675,li,Bus Wiring,n
+754,675,li,Improving Model Train Operations,n

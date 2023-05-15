@@ -1,0 +1,130 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+43,3,h1,Boating Checklist,n
+47,3,div,,n
+50,47,ul,,n
+53,50,li,Boat,n
+55,50,li,Boating Checklist,n
+56,47,div,,n
+59,56,div,Main Content,n
+60,56,div,,n
+61,60,div,,n
+62,61,div,,n
+64,62,h3,Boating Safety Equipment Checklist En Español,n
+66,62,ul,,n
+68,66,li,Numbers Properly Displayed,n
+70,66,li,Registration Receipt On Board,n
+72,66,li,Wearable Life Jacket,y
+76,66,li,Throwable Flotation Device,y
+78,66,li,Fire Extinguisher,y
+80,66,li,Horn or Whistle,y
+82,66,li,Lights,y
+85,61,div,,n
+87,85,h4,Find Us on Google and App Store,n
+89,85,p,"For useful information about renting a boat for the first time and safety, check out this mobile app from Rental Boat Safety!",n
+92,85,p,Download here,n
+100,85,p,"At rentalboatsafety.com you will find instructional videos featuring Power Boats, Jet-Skis, Canoes, Kayaks, and more.",n
+104,60,h3,Fitting Life Jacket,n
+116,60,p,For more information contact the Kentucky Department of Fish and Wildlife Resources at 1-800-858-1549.,n
+118,60,div,,n
+119,118,div,,n
+121,119,h3,Lista de Control para la Navegación,n
+123,119,p,Lista de control de equipo de seguridad para la navegación de la División de Aplicación de la Ley del Departamento de Recursos de Pesca y Vida Silvestre de Kentucky.,n
+124,119,ul,,n
+126,124,li,Los números se muestran correctamente,n
+128,124,li,Recibo de registro a bordo,n
+130,124,li,Chaleco salvavidas portátil para cada persona a bordo,n
+132,124,li,Dispositivo flotante arrojadizo,n
+134,124,li,Extintor de incendios,n
+136,124,li,Bocina o silbato,n
+138,124,li,Luces,n
+140,118,div,,n
+142,140,h4,Encuéntrenos en Google y App Store,n
+144,140,p,"Para obtener información útil sobre rentar un bote por primera vez y seguridad, vea esta aplicación móvil de Rental Boat Safety.",n
+147,140,p,Descárguela aquí,n
+155,140,p,"En rentalboatsafety.com encontrará videos instructivos sobre botes de motor, motos acuáticas, canoas, kayaks y más.",n
+159,60,h3,Cómo ajustar un chaleco salvavidas,n
+171,60,p,"Para obtener más información, contacte al Departamento de Recursos de Pesca y Vida Salvaje al 1-800-858-1549.",n
+181,56,div,Relative Content,n
+185,3,div,,n
+186,185,div,,n
+188,186,h5,Translate Page,n
+191,186,div,,n
+193,191,div,,n
+195,193,option,Select Language,n
+197,193,option,Dutch,n
+199,193,option,French,n
+201,193,option,German,n
+203,193,option,Italian,n
+205,193,option,Japanese,n
+207,193,option,Korean,n
+209,193,option,Portuguese,n
+211,193,option,Russian,n
+213,193,option,Spanish,n
+215,193,option,Turkish,n
+216,191,text,Powered by,n
+218,191,span,Translate,n
+221,185,div,Jump to Top,n
+223,3,div,,n
+224,223,div,,n
+225,224,div,,n
+227,225,span,Boating,n
+228,225,ul,,n
+230,228,li,Education Classes,n
+232,228,li,Education Cards,n
+234,228,li,Regulations,n
+236,228,li,Boating Statutes,n
+238,228,li,Boating Safety,n
+239,224,div,,n
+241,239,span,Fishing,n
+242,239,ul,,n
+244,242,li,Recreational,n
+246,242,li,Commercial,n
+248,242,li,Tournament,n
+250,242,li,Fishing Forecasts,n
+252,242,li,Trout Stocking,n
+253,224,div,,n
+255,253,span,Hunting,n
+256,253,ul,,n
+258,256,li,Telecheck,n
+260,256,li,Hunter Education,n
+262,256,li,Game Species,n
+264,256,li,Season Dates,n
+266,256,li,Quota Hunts,n
+267,224,div,,n
+269,267,span,Wildlife,n
+270,267,ul,,n
+272,270,li,Wildlife Diversity,n
+274,270,li,Kentucky Wild,n
+276,270,li,WMAs,n
+278,270,li,Special Permits,n
+280,270,li,Landowner Services,n
+281,224,div,,n
+283,281,span,Education,n
+284,281,ul,,n
+286,284,li,Education and Outreach,n
+288,284,li,Salato,n
+290,284,li,Summer Camps,n
+292,284,li,Kentucky Afield,n
+294,284,li,NASP,n
+295,224,div,,n
+297,295,span,Connect,n
+298,295,ul,,n
+300,298,li,Contact Us,n
+302,298,li,Facebook,n
+304,298,li,Twitter,n
+306,298,li,Youtube,n
+308,298,li,Instagram,n
+310,223,div,,n
+313,310,p,Kentucky All Rights Reserved.,n
+315,310,ul,,n
+317,315,li,Careers,n
+319,315,li,Privacy Statement,n
+321,315,li,Security,n
+323,315,li,Disclaimer,n
+325,315,li,Accessibility,n
+330,3,div,×,n
+339,0,div,,n
+345,339,h1,Original text,n
+351,339,div,Contribute a better translation,n

@@ -1,0 +1,178 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+5,3,p,"Last updated on May 17th, 2022 at 09:10 pm",n
+7,3,p,"Looking for a list of equipment you might need at a swim meet? Start here. Then, because local conditions vary greatly, add or delete items as needed. For more, see Swim Meet Equipment and Supplies Overview .",n
+11,3,div,,n
+13,11,p,Contents,n
+18,11,ul,,n
+19,18,li,,n
+20,19,text,Swim Meet Equipment List,n
+21,19,ul,,n
+23,21,li,Swim Meet Timing Equipment and Electronics,n
+25,21,li,Physical Environment,n
+27,21,li,Office Supplies and Forms,n
+29,18,li,Swim Meet Equipment Manager Instructions,n
+30,18,li,,n
+31,30,text,Sharing Swim Meet Equipment Checklist via QR Code,n
+32,30,ul,,n
+34,32,li,What is a QR code?,n
+36,32,li,How to use a QR code,n
+38,32,li,Why use a QR code to share this post?,n
+39,18,li,,n
+40,39,text,Downloadable Swim Meet Equipment Checklist Files,n
+41,39,ul,,n
+43,41,li,Swim Meet Equipment Checklist -- PDF,n
+45,41,li,Swim Meet Equipment Checklist -- WORD,n
+47,41,li,Share this,n
+49,41,li,Like this,n
+51,41,li,Related,n
+54,3,h2,Swim Meet Equipment List,n
+57,3,h3,Swim Meet Timing Equipment and Electronics,n
+58,3,ul,,n
+59,58,li,,n
+61,59,strong,Touchpads,y
+62,59,text,and pool mounts,y
+63,58,li,,n
+65,63,strong,Deck Cable,y
+66,63,text,and,n
+68,63,strong,backup buttons,y
+69,58,li,,n
+71,69,strong,Starter,y
+73,69,ul,,n
+75,73,li,Microphone cord,y
+77,73,li,Cord that connects starter to deck cable,y
+79,73,li,Charger cord,y
+80,58,li,,n
+82,80,strong,Timing Console,y
+83,80,ul,,n
+85,83,li,Cords to connect console to meet printer,y
+89,83,li,Extra batteries,y
+91,83,li,Cord to connect to printer,y
+92,58,li,,n
+94,92,strong,Stopwatches,y
+95,92,ul,,n
+97,95,li,"Minimum 2 per lane recommended. If running lanes without touchpads or backup buttons, need 3 watches per lane",y
+100,95,li,2 watches,y
+102,95,li,Test to make sure all are in good working order,n
+104,95,li,Spare batteries and watches,y
+105,58,li,,n
+107,105,strong,Timing Clipboards,y
+110,105,li,1 per lane with TIMER CLIPBOARD INSTRUCTION SHEET attached,n
+115,58,li,,n
+117,115,strong,Power Cords,y
+118,115,ul,,n
+120,118,li,Power Strip,y
+122,118,li,Extension Cord,y
+123,58,li,,n
+125,123,strong,Meet Computer,y
+127,123,ul,,n
+129,127,li,Meet management software with appropriate interfaces,n
+131,127,li,Current meet database uploaded on to computer,n
+135,127,li,Printer driver,n
+137,127,li,Cord to connect printer to laptop,n
+139,127,li,Cord to connect meet computer to timing system,n
+140,58,li,,n
+142,140,strong,Printer,y
+144,140,ul,,n
+146,144,li,Power cordCord to connect printer to laptop,y
+148,144,li,Paper,y
+150,144,li,Spare toner or ink cartridge,y
+153,58,li,Complete Tool Box,y
+157,3,h3,Physical Environment,n
+158,3,ul,,n
+159,158,li,,n
+161,159,strong,Tent,y
+162,159,text,A must-have,n
+165,158,li,Tables,y
+169,158,li,Chairs,y
+170,158,li,,n
+172,170,strong,Lap Counters,y
+173,170,text,1 per lane,n
+176,158,li,Pace Clock,y
+180,158,li,Public Address Sound System,y
+181,158,li,,n
+182,181,text,National Anthem?,n
+183,181,ul,,n
+186,183,li,Flag,y
+189,183,li,"Someone to sing, play, or a recording",n
+193,3,h3,Office Supplies and Forms,n
+195,3,p,"It’s helpful to keep these supplies together in a box or bin. A fishing tackle box, or other box with divers, is helpful for keeping small items organized.",n
+196,3,ul,,n
+197,196,li,,n
+199,197,strong,Office Supplies,n
+200,197,ul,,n
+202,200,li,Tape,y
+206,200,li,Pencil sharpener,y
+208,200,li,Highlighter and or or marker,y
+210,200,li,Pens,y
+212,200,li,Stapler and staples,y
+214,200,li,Scissors,y
+216,200,li,Paper clips,y
+217,196,li,,n
+219,217,strong,Meet Administration Forms,n
+221,217,ul,,n
+223,221,li,Scratch cards and list,y
+225,221,li,DQ list,y
+227,221,li,No-show slips and list,y
+229,221,li,Computer change forms,y
+230,196,li,,n
+232,230,strong,Event File Box,n
+233,230,text,Box with numbered hanging folders or binder with numbered dividers. Need 1 folder or divider,n
+236,196,li,Signs,n
+240,196,li,Caution or Colored Plastic Tape,n
+244,196,li,Splash guard,n
+248,3,h2,Swim Meet Equipment Manager Instructions,n
+250,3,p,Is someone else managing the equipment during the meet? This Swim Meet Equipment Manager Instructions post helps aid effective delegation.,n
+255,3,h2,Sharing Swim Meet Equipment Checklist via QR Code,n
+261,3,h3,What is a QR code?,n
+263,3,p,"A QR Code is a type of 2D bar code used to provide easy access to information through a smartphone or other device. The Host Great Meets QR codes contain information that when scanned, leads a person directly to a specific post.",n
+266,3,h3,How to use a QR code,n
+268,3,p,"Many smartphones and other devices have barcode and QR code scanning built-in. Simply open the camera or barcode scanning app and point it at the code. Make sure all four corners of the code are in view. Let it focus and soon a link should appear on the screen. Click on the link. It will bring the device directly to the post. For more detailed instructions, see https: or or www.wikihow.com or Scan-a-QR-Code",n
+272,3,h3,Why use a QR code to share this post?,n
+274,3,p,"Sharing helpful information helps others do a good job. Boost their performance by sharing information in a way they can reference later if needed. Even if they don’t need it later, sharing both verbally and visually increases retention. Using a QR code also allows for quick, easy, paperless, and touchless sharing. This method is especially useful on wet pool decks.",n
+277,3,h2,Downloadable Swim Meet Equipment Checklist Files,n
+286,3,div,,n
+289,286,h3,Swim Meet Equipment Checklist -- PDF,n
+291,286,div,1 file 442 KB,n
+301,3,div,,n
+304,301,h3,Swim Meet Equipment Checklist -- WORD,n
+306,301,div,1 file 65 KB,n
+311,3,p,,n
+312,311,text,"If you’re preparing for a swim meet, check out The Ultimate Swim Meet To-Do List . Then, get a bird’s eye view of Who does What at Swim Meets and easy to follow links to related information. Perhaps you’re looking to host a small, simple, no-frills meet? If so, you might prefer these lists created for high school dual and other developmental swim meets .",n
+321,311,br,Need more help? See the series 20+ Ways to Get Swim Meet Timers and the post Officials: 20+ Ways to Get them for Swim Meets .,n
+328,311,br,"Also, discover a few quick and simple things you can do to effectively Increase Safety at Swim Meets .",n
+332,3,div,,n
+335,332,h3,Share this,n
+337,332,ul,,n
+341,337,li,Click to share on Twitter,n
+345,337,li,Click to share on Facebook,n
+349,337,li,Click to email a link to a friend,n
+353,337,li,Click to print,n
+357,337,li,Click to share on Pinterest,n
+361,337,li,Click to share on LinkedIn,n
+363,3,div,,n
+366,363,h3,Like this,n
+367,363,div,,n
+370,367,span,Like,n
+372,367,span,Loading...,n
+375,3,div,,n
+378,375,h3,Related,n
+379,375,div,,n
+382,379,p,Swim Meet Survival Guide,n
+385,379,p,Swim Meet Admin Area Information,n
+388,379,p,Swim Meet Timing Adjustment,n
+389,0,nav,,n
+391,389,span,Post navigation,n
+392,389,div,,n
+393,392,div,,n
+395,393,span,←,n
+396,393,text,Previous Post,n
+397,392,div,,n
+398,397,text,Next Post,n
+400,397,span,→,n
+401,0,div,,n
+403,401,h3,,n
+404,403,text,Leave a Comment,n
+406,403,small,Cancel reply,n
+412,401,p,This site uses Akismet to reduce spam. Learn how your comment data is processed .,n

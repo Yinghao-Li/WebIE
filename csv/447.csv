@@ -1,0 +1,247 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+4,1,span,Close Banner,n
+6,1,div,,n
+11,6,div,,n
+14,11,div,July 01 at 12:00AM EDT,n
+16,11,div,Live on cntraveler.com,n
+18,6,div,,n
+20,18,div,,n
+23,20,p,03,n
+25,20,div,Days,n
+31,18,div,,n
+34,31,p,08,n
+36,31,div,Hours,n
+42,18,div,,n
+45,42,p,44,n
+47,42,div,Minutes,n
+53,18,div,,n
+56,53,p,26,n
+58,53,div,Seconds,n
+60,6,div,,n
+62,60,span,Vote Now,n
+63,60,text,Live on cntraveler.com,n
+67,0,div,,n
+72,67,p,"All products featured on Condé Nast Traveler are independently selected by our editors. However, when you buy something through our retail links, we may earn an affiliate commission.",n
+77,67,div,,n
+79,77,p,"When it comes to ski trip packing lists, we’re big fans of lightening your luggage load.That might mean working your best layering magic and packing everything into an extra-large carry-on, so you don't have to worry about your cold weather gear not making a tight flight connection. Or consider renting heavy gear .",n
+83,77,p,"That said, from the slopes to après-ski fun , there are a few essential pieces of clothing and gear items that are best not rented. And when you know the trusted cold weather brands to invest in, you can count on that wool sweater, those Gore-Tex lined boots, leather mitts, and down jacket to last for many, many years to come.",n
+98,77,div,,n
+100,98,div,Subscribe today,n
+102,98,div,Plus 2 free gifts,n
+107,77,p,This article has been updated with new information since its original publish date.,n
+109,77,h2,Shoes,y
+111,77,p,"The best ski towns are often pedestrian-friendly and village-like , which means that after a day on the slopes, you’ll likely want to walk over to dinner and cocktails. You’ll need footwear that keeps you warm and dry while offering good traction on slippery surfaces, too. But that hardly means you have to go too heavy-duty and forgo style—sneaker-style boots might serve you just as well as something sturdier, too. Do consider sizing up for extra warmth, however. That way, you can layer a good pair of wool socks underneath to keep those toes extra cozy.",n
+117,77,h3,Women's boots,y
+118,77,div,,n
+123,118,div,,n
+126,123,h2,Dr. Martens 2976 Chelsea boots,y
+130,123,div,,n
+132,130,span,$180,n
+133,130,text,at Nordstrom,n
+141,118,h2,Aether shearling Dolomite boot,n
+149,77,div,,n
+154,149,div,,n
+157,154,h2,Canada Goose Journey boot,y
+161,154,div,,n
+163,161,span,$750,n
+164,161,text,at Canada Goose,n
+169,149,div,,n
+172,169,h2,Forsake Lucie Chelsea boot,y
+176,169,div,,n
+178,176,span,$150,n
+179,176,text,at Forsake,n
+181,77,h3,Men's boots,y
+182,77,div,,n
+187,182,div,,n
+190,187,h2,Aether Dolomite boot,y
+196,187,div,$400,n
+202,182,div,,n
+205,202,h2,Ugg Kirkson boot,y
+209,202,div,,n
+211,209,span,$210,n
+212,209,text,at Ugg,n
+213,77,div,,n
+218,213,div,,n
+221,218,h2,Blundstone 1609 Chelsea boots,y
+225,218,div,,n
+227,225,span,$220,n
+228,225,text,at Blundstone,n
+233,213,div,,n
+236,233,h2,Cariuma Caturi suede sneaker,y
+240,233,div,,n
+242,240,span,$169,n
+243,240,text,at Cariuma,n
+245,77,h2,Clothing,y
+247,77,p,"When you're spending time outside in the snow, layering is key. For your basic ski or snowboard kit, you’ll need wool long underwear , a synthetic or down jacket, and an outer shell to ward off wind and other elements. Of course, you can also consider going full jumpsuit or overalls on the mountain, too, to keep everything zipped into one neat package that’s both retro-cool and extra warm. When it’s time to segue to après-ski, shed those bulkier layers for cozy sweaters, down joggers, and tailored hoodies.",n
+249,77,h3,For the slopes,n
+252,77,div,,n
+257,252,div,,n
+260,257,h2,Houdini W's Leeward jacket,y
+261,257,div,,n
+264,261,div,,n
+266,264,span,$500,n
+267,264,text,at Houdini Sportswear,n
+270,261,div,,n
+272,270,del,$500,n
+274,270,span,$324,n
+275,270,text,at Moosejaw,n
+280,252,div,,n
+283,280,h2,Rab Microlight Alpine down jacket,y
+287,280,div,,n
+289,287,span,$280,n
+290,287,text,at Rab Equipment,n
+291,77,div,,n
+296,291,div,,n
+299,296,h2,We Norwegians ski jumpsuit,y
+303,296,div,,n
+305,303,span,$359,n
+306,303,text,at We Norwegians,n
+311,291,div,,n
+314,311,h2,La Liste Pro HS bib pants,y
+318,311,div,,n
+320,318,span,$675,n
+321,318,text,at Mammut,n
+322,77,div,,n
+327,322,div,,n
+330,327,h2,Bogner Joanie ski overalls,y
+334,327,div,,n
+336,334,span,"$2,000",n
+337,334,text,at Bogner,n
+342,322,div,,n
+345,342,h2,Helly Hansen W Aurora Infinity shell,y
+349,342,div,,n
+351,349,span,$600,n
+352,349,text,at Helly Hansen,n
+355,77,div,,n
+360,355,div,,n
+363,360,h2,Arc'teryx Beta jacket,y
+370,360,div,at Arc'teryx,n
+375,355,div,,n
+378,375,h2,66 North Tindur unisex down jacket,y
+384,375,div,$780,n
+386,77,div,,n
+391,386,div,,n
+394,391,h2,Dakine Stoker Gore-Tex 3L bib,y
+398,391,div,,n
+400,398,span,$480,n
+401,398,text,at Dakine,n
+406,386,div,,n
+409,406,h2,Stio Environ pant,y
+413,406,div,,n
+415,413,span,$399,n
+416,413,text,at Stio,n
+420,77,div,,n
+423,420,h2,Ibex Woolies 2 base layer,y
+427,420,div,,n
+429,427,span,$135,n
+430,427,text,at Ibex,n
+432,77,h3,For après-ski,n
+435,77,div,,n
+440,435,div,,n
+443,440,h2,Cotopaxi Fuego down parka,y
+447,440,div,,n
+449,447,del,$290,n
+451,447,span,$189,n
+452,447,text,at Cotopaxi,n
+460,435,h2,66 North Kaldi wool sweater,n
+468,77,div,,n
+473,468,div,,n
+476,473,h2,Athleta Apres Ski down jogger,y
+480,473,div,,n
+482,480,del,$149,n
+484,480,span,$120,n
+485,480,text,at Athleta,n
+490,468,div,,n
+493,490,h2,Summersalt The Brushed High Rise full length leggings,y
+497,490,div,,n
+499,497,span,$95,n
+500,497,text,at Summersalt,n
+503,77,div,,n
+508,503,div,,n
+511,508,h2,Flint and Tinder 10-Year Quarter Zip,y
+515,508,div,,n
+517,515,span,$138,n
+518,515,text,at Huckberry,n
+523,503,div,,n
+526,523,h2,Asket The Merino Roll Neck sweater,y
+530,523,div,,n
+532,530,span,$125,n
+533,530,text,at Asket,n
+534,77,div,,n
+539,534,div,,n
+542,539,h2,Aether Paulson insulated overshirt,y
+548,539,div,$375,n
+554,534,div,,n
+557,554,h2,Aether Solent pant,y
+563,554,div,$295,n
+566,77,h2,Luggage,y
+568,77,p,"Whether you’re wheeling a carry-on down the snowy streets of Snowmass or handing off a duffel full of ski gear to a bellhop in Park City , the luggage you bring on ski trips is going to need to be sturdy and designed to fit all the bulky items that winter requires .",n
+575,77,p,"Hopefully you won’t need to schlep a bag too far across the snow, but if so—say, while walking up to a snowy rental cabin —you’ll want one with rugged wheels to make the job easier. Sometimes a soft-sided duffel is an even better idea—especially if it can be pulled on wheels, when need be.",n
+580,77,div,Advertisement,n
+588,77,p,"Whether or not you’re bringing some of your own ski gear or plan to rent everything when you get there determines the luggage you’ll need. And savvy packers who aren’t bringing skis and snowboards along can definitely make a spacious carry-on work by bringing colors and layers that pair well together—and wearing bulky winter boots on the flight, of course.",n
+593,77,div,,n
+598,593,div,,n
+601,598,h2,Roam Luggage The Jaunt XL carry-on,n
+605,598,div,,n
+607,605,span,$575,n
+608,605,text,at Roam,n
+613,593,div,,n
+616,613,h2,Osprey Rolling Transporter 90 duffel,n
+622,613,div,$290,n
+624,77,div,,n
+629,624,div,,n
+632,629,h2,Monos Check-In Large,n
+636,629,div,,n
+638,636,del,$376,n
+640,636,span,$320,n
+641,636,text,at Monos,n
+646,624,div,,n
+649,646,h2,Dakine 50L Boot pack,n
+655,646,div,$70,n
+658,77,h2,Accessories,n
+660,77,p,"Hitting the slopes requires no shortage of moving parts, and keeping track of ski accessories as you run out the door to the gondola isn’t always easy. But as long as you remember the basics, you’ll be good to go: Ski goggles are a must, even if there’s no fresh snow in the forecast. Gloves or mittens, beanies, wool socks, and neck warmers will keep all the body parts where you first lose heat nice and toasty. Products to keep your skin happy, like sunscreen and lip balm, are key additions, too.",n
+664,77,h3,To wear,n
+665,77,div,,n
+670,665,div,,n
+673,670,h2,Vallon ski aviators,y
+677,670,div,,n
+679,677,span,$112,n
+680,677,text,at Vallon,n
+685,665,div,,n
+688,685,h2,Dragon Alliance NFX2 goggles,y
+695,685,div,at Dragon Alliance,n
+696,77,div,,n
+701,696,div,,n
+704,701,h2,Hestra leather mitts,y
+708,701,div,,n
+710,708,span,$160,n
+711,708,text,at Hestra Gloves,n
+716,696,div,,n
+719,716,h2,Smartwool Merino glove,y
+723,716,div,,n
+725,723,span,$30,n
+726,723,text,at Smartwool,n
+728,77,h3,To pack,n
+729,77,div,,n
+734,729,div,,n
+737,734,h2,Nite Ize Hitch phone anchor and lanyard,y
+743,734,div,$13,n
+749,729,div,,n
+752,749,h2,Sol Sunguard Altitude sport sunscreen,y
+758,749,div,$8,n
+760,77,div,,n
+765,760,div,,n
+768,765,h2,HotHands super warmers,n
+774,765,div,$6,n
+780,760,div,,n
+783,780,h2,Kiehl's Butterstick lip treatment,n
+787,780,div,,n
+789,787,span,$24,n
+790,787,text,at Kiehl's,n
+821,0,div,,n
+823,821,span,Topics,n
+825,821,span,Winter Sports and Pursuits,n
+827,821,span,Activewear,n
+829,821,span,Packing,n

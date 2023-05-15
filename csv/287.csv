@@ -1,0 +1,68 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+3,1,div,< Previous post,n
+5,1,div,Next post >,n
+6,0,article,,n
+7,6,div,,n
+10,7,p,"New teachers have a lot to learn, and a lot to buy. Many new teachers go into the first year trying to make sure they have all the important bases covered, and that might be enough, but why not use tips from seasoned veterans? Get your first teaching year under your belt with the right tools in hand.",n
+13,7,h2,New Teacher Tips,n
+16,7,p,"Before you buy any extra items for your classroom, check out what is already available for you for free. Many schools offer paper to cover bulletin boards, a laminating machine, etc. Ask around, and then take a look at your budget. There are certain items listed below that teachers have said made the school year easier.",n
+19,7,h3,Organizational Tools,n
+20,7,div,,n
+22,20,h4,Post-it Notes,y
+24,20,p,"You’ve heard it before, but everyone loves sticky notes . They are the perfect combination of form and function, coming in a variety of colors and sizes.",n
+27,7,div,,n
+29,27,h4,Bins and Boxes,y
+31,27,p,"You can’t go wrong with storage , and buying more than you need is always the better option. Choose bins of all different sizes and colors to fit your needs. Not only can you store supplies in them, but you can decorate them and add to the overall theme of the classroom.",n
+35,7,div,,n
+37,35,h4,Writing Utensils,y
+39,35,p,"This is a long list, but you’ll need to make sure you have them all: markers , highlighters , pencils , and pens . Keep special sets just for yourself to use, as many of the classroom supplies will be lost or damaged throughout the busy school year.",n
+50,7,div,,n
+52,50,h4,Filing Folders,y
+54,50,p,"Filing folders and a filing cabinet can be a life-saver when it comes to keeping important papers. Store your worksheets, colored printer paper , and student papers in neat filing folders to keep things neat and tidy. Hanging file folders can also go into file folder bins, which are lighter and easier to move than the average filing cabinet.",n
+62,7,p,Shop Teacher Desk Supplies,n
+65,7,h3,Classroom Decor,n
+66,7,div,,n
+68,66,h4,Calendar,y
+70,66,p,"The classroom calendar is a classic part of most rooms, and for good reason! Not only does it help students to get a feel for the months of the year and events coming up, but it helps you to keep track of important dates like student birthdays. Your calendar can be as functional or as decorative as you like!",n
+73,7,div,,n
+75,73,h4,Information Center,y
+77,73,p,"Keep important information like your classroom rules, procedures, and fire drill maps in one location. This will be helpful whenever you need to reference a rule about the dress code, and also will give students and substitute teachers one place to look if they have any questions. Use eye-catching bulletin board trimmers to make your information center blend in with the rest of your learning space.",n
+81,7,div,,n
+83,81,h4,Book Display,y
+85,81,p,"You might not be able to afford a full library display in your classroom, but there are plenty of more affordable ways to display books. Use a hanging folder system or magazine holders to incorporate classroom books into the decor, while also reminding students of all their options for reading when they have time.",n
+90,7,div,,n
+92,90,h4,Bulletin Board Decor,y
+94,90,p,"Bulletin boards can be made purely for decorative purposes or to give students important information. Choose what you want to be on the board and then look for some fun, decorative items to dress it up. Students are more likely to read a board that looks put together and coordinates with the rest of the room.",n
+100,7,h3,For Yourself,n
+103,7,h4,A Nice Water Bottle,n
+106,7,p,"As a teacher, you do a lot of walking and talking. Both of these activities can really make a person thirsty. Keep a nice water bottle on hand to make water consumption easier and more fun. A drink of cold water might be just the thing you need during a midday slump.",n
+109,7,h4,A Mug You Like,n
+112,7,p,"There are going to be days when you just need a cup of hot cocoa, coffee, or tea. When that day arrives , you’ll want to have a favorite mug to drink out of. Students often give teachers fun mugs as gifts, but you can also bring one in that showcases a bit of your personality.",n
+115,7,h4,Good Kleenex,n
+118,7,p,"School tends to be a place where germs collect, and most of us will have a cold or allergies at some point throughout a busy school year. Do yourself a favor and keep a box or pocket pack of nice kleenex on hand. Your nose will thank you!",n
+121,7,h4,A Photo or Several,n
+124,7,p,"Some days are tough, even if you love to teach. On those days, it can be a good reminder to have a photo or two of things that mean alot to you. That could be a beloved pet or spouse, or even a picture of a location that you like to spend time in.",n
+126,7,h2,More Teacher Life and Must-Have Supply Lists,n
+128,7,p,Looking for more inspiration and ideas to make this the best year yet? Check out the other blogs in the Teacher Life category and stop by the Teacher Must-Haves tag page. The School Specialty online store has thousands of great products for educators looking to add more fun to their learning space.,n
+130,7,p,Read More,n
+132,7,p,Read More,n
+135,7,h3,Do you have suggestions for first-year teachers? What should be on their must-have list? Share your comments and must-have items below!,n
+138,7,div,Facebook Comments,n
+145,6,p,Tagged With,n
+147,0,div,,n
+149,147,h3,Trackbacks,n
+150,147,ol,,n
+153,150,li,,n
+155,153,div,What are the essential classroom items,n
+160,153,div,"Jun 15, 2022 at 1:11 pm",n
+168,150,li,,n
+170,168,div,What do first year teachers need in the classroom? - What Type Degree,n
+175,168,div,"Jun 16, 2022 at 3:34 am",n
+183,150,li,,n
+185,183,div,How do I Create A Wish List,n
+190,183,div,"Jun 16, 2022 at 9:20 pm",n
+198,150,li,,n
+200,198,div,What did the shopping list tell students? - What Type Degree,n
+205,198,div,"Jun 17, 2022 at 1:31 am",n

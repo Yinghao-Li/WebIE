@@ -1,0 +1,111 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,­,n
+14,0,ul,,n
+16,14,li,Continue Shopping,n
+18,14,li,Your Cart is Empty,n
+26,0,div,,n
+27,26,div,,n
+30,27,ul,,n
+32,30,li,Products,n
+34,30,li,Our Company,n
+36,30,li,Pilates Community,n
+40,30,li,Log in,n
+42,27,div,No results found.,n
+45,26,div,Products,n
+75,26,div,Our Company,n
+83,26,div,Pilates Community,n
+97,0,div,,n
+99,97,div,,n
+101,99,span,Menu,n
+103,99,span,0,n
+117,97,div,,n
+133,117,div,WATCH FULL VIDEO,n
+138,117,div,,n
+149,138,div,,n
+151,149,div,,n
+154,151,h2,The Original,n
+158,151,h2,Manufacturer,n
+161,151,h2,of Pilates Apparatus.,n
+167,149,div,READ ABOUT US,n
+185,138,div,,n
+190,185,div,SHOP GRATZ MOST POPULAR PRODUCTS,n
+192,185,div,,n
+198,192,div,ARCHIVE REFORMER,y
+204,192,div,CADILLAC,y
+210,192,div,UNIVERSAL REFORMER,y
+216,192,div,STUDIO WALL UNIT,y
+217,185,div,,n
+223,217,div,INSTANT HALF CADILLAC,y
+229,217,div,GUILLOTINE TOWER,y
+235,217,div,HIGH or LOW or FOLDING MAT,y
+239,185,div,,n
+240,239,div,,n
+246,240,div,SHOP GRATZ CHAIR,y
+254,240,div,,n
+260,254,div,COMBO WUNDA or ELECTRIC CHAIR,y
+266,254,div,SMALL ARM CHAIR,y
+272,254,div,WUNDA CHAIR,y
+278,254,div,ELECTRIC CHAIR,y
+279,239,div,,n
+285,279,div,SHOP GRATZ BARREL,y
+293,279,div,,n
+299,293,div,LADDER BARREL,y
+305,293,div,SPINE CORRECTOR,y
+311,293,div,SMALL BARREL,y
+312,239,div,,n
+318,312,div,SHOP GRATZ SMALL APPARATUS,n
+329,312,div,,n
+330,329,div,,n
+336,330,div,MAGIC CIRCLE,y
+342,330,div,FOOT CORRECTOR,y
+348,330,div,NECK STRETCHER,y
+354,330,div,BEAN BAG ROLL,y
+355,329,div,,n
+361,355,div,REFORMER BOX,y
+367,355,div,HANDLES,y
+373,355,div,PUSH UP DEVICE,y
+377,355,div,SHOP MORE ACCESSORIES,y
+578,117,div,,n
+585,578,h2,PILATES TRAINING PROGRAMS,n
+593,578,div,Gratz is proud to share studios with a comprehensive Pilates Teacher Training Program that provides students and teachers an enhanced experience to develop and continue with their Pilates journey.,n
+598,578,div,"Studios listed are equipped with the original Gratz apparatus, and graduates and practitioners will carry on the work of Joseph Pilates by experienced and Master instructors.",n
+601,578,div,PILATES TRAINING PROGRAMS,n
+623,117,div,,n
+632,623,div,Laura B. Grant and Jonny Grant Update,n
+644,623,div,INTERVIEW WITH BROOKE SILER,n
+656,623,div,CHRIS ROBINSON - A TRUE APPRENTICE,n
+691,97,div,,n
+693,691,div,,n
+694,693,div,,n
+696,694,h6,Resources,n
+697,694,ul,,n
+699,697,li,Color Chart,n
+701,697,li,Assembly and Maintenance,n
+703,697,li,Cleaning Instructions,n
+705,697,li,Space Planning Assistance,n
+707,697,li,F.A.Q.s,n
+710,693,div,,n
+712,710,h6,Customer Care,n
+713,710,ul,,n
+715,713,li,Your Account or Order Status,n
+717,713,li,International Orders,n
+719,713,li,"Shipping, Handling and Pick Up",n
+721,713,li,Returns and Exchanges,n
+723,713,li,Payment,n
+725,713,li,Discounts and Special Offers,n
+727,713,li,Terms and Conditions,n
+728,693,div,,n
+730,728,h6,Pilates Community,n
+739,728,li,Pilates Training Programs,n
+746,693,div,,n
+748,746,h6,News and Updates,n
+750,746,p,"Sign up to get the latest on sales, new releases and more…",n
+779,691,p,© 2022 Gratz™ Pilates | Industries .,n
+782,691,select,,n
+784,782,option,English,n
+786,782,option,Korean,n
+799,0,ul,,n
+801,799,li,Products,n
+834,799,li,Our Company,n
+844,799,li,Pilates Community,n

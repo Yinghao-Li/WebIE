@@ -1,0 +1,145 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+10,0,div,,n
+579,10,div,,n
+607,579,h1,Pool,n
+610,579,div,,n
+611,610,div,,n
+613,611,div,,n
+615,613,span,x,n
+617,613,span,Close,n
+619,611,div,,n
+621,619,span,SHOP BY CATEGORY,n
+623,619,div,,n
+664,623,div,,n
+667,664,div,Filter by Price Range,n
+669,664,ul,,n
+671,669,li,Under $10,n
+675,669,li,$10 - $29.99,n
+679,669,li,$30 - $59.99,n
+683,669,li,$60 - $99.99,n
+687,669,li,$100 - $149.99,n
+691,669,li,$150 - $249.99,n
+695,669,li,$250 - $499.99,n
+699,669,li,$500 - $999.99,n
+703,669,li,$1000 - $1999.99,n
+707,669,li,$2000 and up,n
+710,623,div,,n
+713,710,div,More Ways to Shop,n
+715,710,ul,,n
+717,715,li,Closeout Items,n
+721,715,li,New Items,n
+724,623,div,,n
+727,724,div,Filter by Brand,n
+728,724,div,,n
+729,728,ul,,n
+731,729,li,AEGIS,n
+735,729,li,ARAMITH,n
+739,729,li,BCA,n
+743,729,li,BLACK JACK,n
+747,729,li,BLUE KNIGHT,n
+751,729,li,BRUNSWICK,n
+755,729,li,CAPELLE,n
+759,729,li,CUE SILK,n
+763,729,li,CUETEC,n
+767,729,li,DEAD STROKE,n
+771,729,li,DOWNEY,n
+775,729,li,DUO-FAST,n
+779,729,li,DYNAMITE,n
+783,729,li,ELKMASTER,n
+787,729,li,EVEREST,n
+791,729,li,GORINA,n
+795,729,li,ICE BREAKER+,n
+799,729,li,INSTROKE,n
+803,729,li,IVORINE IV,n
+807,729,li,KAMUI,n
+811,729,li,KARSEAL,n
+815,729,li,LE PROFESSIONAL,n
+819,729,li,LUCASI,n
+823,729,li,LUCKY CUE,n
+827,729,li,MAN-I-CUE,n
+831,729,li,MASTER CHALK,n
+835,729,li,MCDERMOTT,n
+839,729,li,MEUCCI,n
+843,729,li,MOORI,n
+847,729,li,MUELLERS,n
+851,729,li,OLHAUSEN,n
+855,729,li,PLAYER,n
+859,729,li,POCKET CHALKER,n
+863,729,li,PORPER,n
+867,729,li,PRACTICE PRO,n
+871,729,li,PREDATOR,n
+875,729,li,Q CLAW,n
+879,729,li,QUICK CLEAN,n
+883,729,li,RAT,n
+887,729,li,ROYAL OAK,n
+891,729,li,RT9,n
+895,729,li,SILVER CUP,n
+899,729,li,SIR JOSEPH,n
+903,729,li,SLO-ZAP,n
+907,729,li,SNIPER,n
+911,729,li,STAR,n
+915,729,li,STINGRAY,n
+919,729,li,TIGER,n
+923,729,li,TRIANGLE CHALK,n
+927,729,li,VALLEY,n
+931,729,li,VIKING,n
+935,729,li,WENGLER,n
+939,729,li,WHITE DIAMOND,n
+943,729,li,WILLARD S,n
+947,729,li,WIZARD,n
+951,729,li,ZAP-A-GAP,n
+955,729,li,Z-POXY,n
+959,728,div,More... Less...,n
+964,623,div,In Stock,n
+969,610,div,,n
+981,969,div,"Muellers has all your pool and billiards supplies from pool cues to pool cue cases, pool balls, billiard accessories like cue tip chalk, cue tip shapers and scuffers, and all your pool cue shaft maintenance needs. Everything can be found at Muellers.",n
+984,969,div,,n
+986,984,div,Categories,n
+989,984,div,Categories and Filters +,n
+992,984,div,"Custom Pool Cues Production Pool Cues Pool Cue Cases Cue Racks and Holders Pool Balls Pool Accessories Tips Cue Maintenance Supplies Cue Repair Supplies Pool Table Cloth Pool Table Lights Pool Table Accessories Pool Table Maintenance Training Aids Books and DVDs Clothing Posters, Signs, and Clocks Gifts and Accessories",n
+1108,579,div,,n
+1111,1108,div,Recently Viewed,n
+1118,1108,div,,n
+1120,1118,div,You don't have any recently viewed items.,n
+1122,1118,div,,n
+1124,1122,span,"Shopping history is enabled,",n
+1125,1122,text,turn off,n
+1127,1122,span,.,n
+1131,10,div,,n
+1133,1131,div,,n
+1134,1133,div,,n
+1135,1134,div,,n
+1137,1135,h5,Email Sign up,n
+1142,1135,div,Go,n
+1144,1135,small,Receive product news and offers from Mueller Recreational Products.,n
+1147,1134,div,,n
+1149,1147,h5,Follow Us,n
+1153,1147,li,Facebook,n
+1158,1134,div,,n
+1160,1158,h5,Need Help?,n
+1162,1158,text,-,n
+1165,1133,div,,n
+1166,1165,div,,n
+1168,1166,h5,About Mueller's,n
+1169,1166,ul,,n
+1171,1169,li,Contact Us,n
+1173,1169,li,Privacy Policy,n
+1175,1169,li,Retail Stores,n
+1177,1169,li,Site Map,n
+1178,1165,div,,n
+1180,1178,h5,Guest Services,n
+1181,1178,ul,,n
+1183,1181,li,Commercial Sign In,n
+1185,1181,li,Shipping Information,n
+1187,1181,li,Return Policy,n
+1188,1165,div,,n
+1190,1188,h5,And More...,n
+1191,1188,ul,,n
+1193,1191,li,Email Sign Up,n
+1195,1191,li,Wish Lists,n
+1197,1191,li,Featured Brands,n
+1200,1165,h5,Secure Payment Options,n
+1208,1131,div,Copyright © 2022 All Rights Reserved,n
+1230,10,span,top,n
+1231,10,text,Top,n

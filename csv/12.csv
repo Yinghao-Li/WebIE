@@ -1,0 +1,119 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+8,3,h1,Home entertainment,n
+9,3,div,,n
+11,9,div,"From Wikipedia, the free encyclopedia",n
+15,9,text,Jump to navigation Jump to search,n
+17,9,div,,n
+18,17,div,,n
+20,18,p,"Home entertainment refers to media, equipment, and methods used for delivery and enjoyment of various forms of entertainment in the home, and may refer to:",n
+22,18,ul,,n
+24,22,li,Home audio,y
+26,22,li,Home cinema,y
+28,22,li,Home video,y
+30,22,li,Magnetic tape,y
+32,22,li,Phonograph record,y
+34,22,li,Streaming media,y
+36,22,li,Video game,y
+38,22,li,Television,y
+40,22,li,Film,y
+41,18,h2,,n
+43,41,span,See also,n
+44,41,span,,n
+46,44,span,[,n
+47,44,text,edit,n
+49,44,span,],n
+52,18,li,Home entertainment system,n
+54,18,div,Topics referred to by the same term,n
+56,18,div,,n
+57,56,text,This disambiguation page lists articles associated with the title Home entertainment .,n
+64,56,small,"If an internal link led you here, you may wish to change the link to point directly to the intended article.",n
+69,17,div,"Retrieved from "" https",n
+72,9,div,,n
+73,72,div,,n
+74,73,text,Categories,n
+78,73,li,Disambiguation pages,n
+79,72,div,,n
+80,79,text,Hidden categories,n
+81,79,ul,,n
+83,81,li,Disambiguation pages with short descriptions,n
+85,81,li,Short description is different from Wikidata,n
+87,81,li,All article disambiguation pages,n
+89,81,li,All disambiguation pages,n
+90,0,div,,n
+92,90,h2,Navigation menu,n
+93,90,div,,n
+94,93,nav,,n
+97,94,h3,Personal tools,n
+99,94,ul,,n
+102,99,li,Not logged in,n
+108,99,li,Contributions,n
+111,99,li,Create account,n
+114,99,li,Log in,n
+115,93,div,,n
+116,115,nav,,n
+119,116,h3,Namespaces,n
+124,116,li,Article,n
+132,115,span,English,n
+135,93,div,,n
+136,135,nav,,n
+139,136,h3,Views,n
+141,136,ul,,n
+144,141,li,Read,n
+147,141,li,Edit,n
+150,141,li,View history,n
+155,135,span,More,n
+162,135,h3,Search,n
+169,90,div,,n
+171,169,nav,,n
+174,171,h3,Navigation,n
+176,171,ul,,n
+179,176,li,Main page,n
+182,176,li,Contents,n
+185,176,li,Current events,n
+188,176,li,Random article,n
+194,176,li,Contact us,n
+197,176,li,Donate,n
+198,169,nav,,n
+201,198,h3,Contribute,n
+203,198,ul,,n
+206,203,li,Help,n
+209,203,li,Learn to edit,n
+212,203,li,Community portal,n
+215,203,li,Recent changes,n
+219,169,nav,,n
+222,219,h3,Tools,n
+224,219,ul,,n
+227,224,li,What links here,n
+230,224,li,Related changes,n
+236,224,li,Special pages,n
+239,224,li,Permanent link,n
+242,224,li,Page information,n
+245,224,li,Cite this page,n
+248,224,li,Wikidata item,n
+249,169,nav,,n
+252,249,h3,Print or export,n
+254,249,ul,,n
+257,254,li,Download as PDF,n
+260,254,li,Printable version,n
+261,169,nav,,n
+265,261,h3,Languages,n
+266,261,div,,n
+270,266,li,Tiếng Việt,n
+273,266,div,Edit links,n
+274,0,footer,,n
+275,274,ul,,n
+276,275,li,,n
+277,276,text,"This page was last edited on 26 December 2019, at 22:51",n
+280,276,text,.,n
+282,275,li,"Text is available under the Creative Commons Attribution-ShareAlike License 3.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.",n
+291,274,ul,,n
+293,291,li,Privacy policy,n
+297,291,li,Disclaimers,n
+299,291,li,Contact Wikipedia,n
+301,291,li,Mobile view,n
+303,291,li,Developers,n
+305,291,li,Statistics,n
+307,291,li,Cookie statement,n
+309,291,li,Edit preview settings,n

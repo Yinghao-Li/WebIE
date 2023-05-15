@@ -1,0 +1,152 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+4,2,div,,n
+6,4,p,"If you purchase an independently reviewed product or service through a link on our website, Rolling Stone may receive an affiliate commission.",n
+8,4,p,"If you’re working from home, you’re going to need tools to make your place feel more like an office. It’s easy to lose focus if you don’t create the right work space.",n
+10,4,p,"For Shirley Lam, the founder and owner of the pet lifestyle site, Perro and Me , it’s all about building a little bit of structure. Lam, who runs the thriving online business out of her house in Vancouver, says it’s important to get in the mindset that you’re going to work. “Set your daily schedule in your calendar and stick to it as you would at the office,” she says. “And get dressed for work — do your hair, put on makeup and look office-appropriate, even if it’s just your home office.”",n
+16,4,p,Another tip,n
+18,4,div,,n
+22,18,div,,n
+25,22,h5,RS Recommends,n
+28,22,h5,RS Recommends,n
+29,18,div,,n
+36,29,h5,All Time,n
+38,29,h5,Album Guide,n
+41,4,p,"We’ve rounded up the most important tech accessories that will make your home office feel like an actual place of business. I’ve tested many of these products myself and as someone who lives in a New York City apartment, where space is limited, I can confidently attest that these picks will work even if you live in a cramped space.",n
+50,4,div,,n
+53,50,div,AdChoices,n
+55,50,div,ADVERTISING,n
+62,4,p,"Whether you’re a freelancer or self-quarantining, here’s what to get to keep you organized, focused, and ready to tackle your daily to-do list from the confines of home.",n
+64,4,h2,A Bluetooth Keyboard,y
+72,4,p,"Cable clutter was one of my most frequent distractions, which is why I recommend everyone gets a Bluetooth keyboard.",n
+74,4,p,"I recommend this one from Satechi because it has backlit keys , and the ability to pair it with multiple devices. If you want one keyboard to take between your home office and work office in a hybrid working environment, this is a huge feature.",n
+76,4,p,"Satechi’s keyboard can be recharged using a USB-C cable , so you don’t have to worry about keeping a stock of batteries. We tested this keyboard, and came away by its build quality, comfort, and battery life.",n
+77,4,p,,n
+81,77,span,Satechi Slim X2,n
+85,77,span,$79.99,n
+87,4,h2,A Bluetooth Mouse,y
+95,4,p,The perfect complement to Satechi’s Bluetooth keyboard is Logitech’s MX Anywhere 3 Bluetooth mouse.,n
+99,4,p,"The mouse is pretty small, but feels good in the hand and comfortable to use during long work sessions. Its scroll wheel moves smoothly, and its side buttons were easy to hit with a thumb in our experience. The smooth ridges on the side of the mouse give it enough grip that it won’t slip even if your palms get a little sweaty.",n
+101,4,p,"The MX Anywhere 3 shares one important feature with Satechi’s Slim X2: It can be paired with multiple devices, and lets you switch between them with the press of a button. You can apply additional customization when the mouse is paired with a computer by installing Logitech’s app, which is available on MacOs and Windows.",n
+103,4,p,"If you put a few minutes into unlocking this mouse’s full potential, you’ll never want to go back to wired mice again.",n
+104,4,p,,n
+108,104,span,Logitech MX Anywhere 3,n
+112,104,span,$75.80,n
+114,4,h2,A Standing Desk,y
+119,4,p,Flexispot,n
+122,4,p,"Some studies have shown that sitting for eight hours a day can lead to some pretty nasty physical side effects , and while there isn’t a consensus around this it’s better to be safe than sorry.",n
+126,4,p,Flexispot’s Vici Quick is a standing desk that lets you adjust its height between 28.7 inches and 48.4 inches. This wide range ensures you’ll find the level for your comfort. You can change its position by pressing the up and down arrows on a panel on the right side of the desk. You can also save specific heights into the panel’s memory for easy access.,n
+134,4,p,"The Vici Quick is 48 inches long and 24 inches wide, and can hold up to 110 pounds, so you’ll have no problem fitting your computer and other accessories on top of it. If you’ve never used a standing desk before, we recommend you get a cushioned mat to make it easier on your feet.",n
+137,4,p,,n
+141,137,span,Flexispot Vici Quick Standing Desk,n
+145,137,span,$299.99,n
+147,4,h2,A Comfortable Chair,y
+155,4,p,"When you do choose to sit, make sure you’re doing it in a comfortable chair. My go-to desk chair is this High Backed model from Amazon Basics.",n
+157,4,p,"You can adjust its height between roughly 41.3 and 45.1 inches, and swivel it a full 360-degrees. The seat rests on wheels, so you can easily move around, too.",n
+159,4,p,"This office chair had a generous amount of padding, and its slightly curved back encourages you to sit up straight. The arm rests are also comfortable, even during long computer sessions.",n
+161,4,p,"If you’ve been settling for a rigid chair from your kitchen table, this will be the biggest upgrade to your home office setup by far.",n
+164,4,h2,"A Large, High-Resolution Monitor",y
+169,4,p,ASUS,n
+172,4,p,Plugging your computer into an external monitor is one of the best ways to improve your productivity because it significantly expands your digital workspace.,n
+174,4,p,"Asus’s 28-Inch display has a maximum resolution of 4K, so text, images, and videos will look extremely clear. This monitor has a large screen, but its bezels are fairly small and its stand is small, so it won’t take up as much space on your desk.",n
+176,4,p,"The VP28UQG supports AMD FreeSync, a technology that helps it keep up with fast action when gaming, and ASUS’s “Eye Care” feature, which slowly reduces the amount of blue light it emits. This display has two HDMI ports and one DisplayPort input, so you can hook it up to your computer with space left over for a game console .",n
+180,4,p,"You can’t adjust the positioning of the monitor very much, but you can attach it to a different stand to improve its ergonomics. If you want to take comfort a step further, I recommend Mount It!’s desk mount , which gives you complete control over your display’s position.",n
+185,4,p,,n
+189,185,span,Asus VP28UQG,n
+193,185,span,$254.99,n
+195,4,h2,A Multi-Port Hub,y
+200,4,p,Anker,n
+203,4,p,"Many modern laptops have started shipping with fewer ports to allow the computer to fit into a smaller, lighter package. If you work at a desk, you can counteract that issue using Anker’s Apex Thunderbolt 4 Dock.",n
+211,4,p,"The Apex has two HDMI ports, an additional Thunderbolt 4 port, a Gigabit Ethernet Port, Four USB-A ports, an SD card slot, a combo headphone jack or audio input, and a USB-C PD port. You’ll get full access to these inputs by connecting the dock to your laptop’s Thunderbolt 4 port. If you have a laptop with a Thunderbolt 3 port, Anker has you covered with another dock .",n
+215,4,p,"If you get this dock, you’ll be able to connect your laptop to a dozen accessories at once using a single cable. The Apex will even charge your laptop while it’s connected. If you split your time between working on the couch and desk, this is a must-have accessory.",n
+216,4,p,,n
+220,216,span,Anker Apex 12-in-1 Thunderbolt 4 Dock,n
+224,216,span,$349.99,n
+226,4,h2,Bookshelf Speakers,y
+231,4,p,Edifier,n
+234,4,p,"Many people need to listen to music to work; I’m one of them, which is why I like Edifier’s R1280DBs desktop speakers, and recommend them to anyone who works remotely. They have a modern, classy look that’ll make your home office look more professional, but more importantly, they sound great.",n
+236,4,p,"They have a 4-inch bass driver and 1-inch tweeter, which create a surprising amount of depth, and EQ controls on the back help you dial in the sound based on your preferences. If you want more bass, you can connect a subwoofer directly to the speakers.",n
+238,4,p,"Edifier’s R1280DBs are equipped with two sets of line inputs, a coaxial input, an optical input, and Bluetooth.",n
+240,4,p,"Speakers in a home office can seem like a hotbed for distraction, but I’ve found listening to music I’m familiar with to help me keep focused. There’s just enough stimulation to keep me from looking for something else to look at or do, but not enough to splinter my attention from the task at hand.",n
+242,4,p,speakers to listen to.,n
+243,4,p,,n
+247,243,span,Edifier R1280DBs,n
+251,243,span,$159.99,n
+255,4,h2,Noise-Cancelling Headphones,y
+263,4,p,"If you work in a noisy environment, or prefer to listen to music on headphones, your best bet is getting Bang and Olufsen’s Beoplay HXs.",n
+265,4,p,"The headphones deliver excellent active noise-cancelling performance and audio quality in a relatively compact package. Bang and Olufsen says they last up to 30 hours per charge, which was consistent with our tests.",n
+267,4,p,"What puts the Beoplay HXs over the top, though, is their comfort. Bang and Olufsen opted to use memory foam for their ear cups and headband, so they fit perfectly on your head. They also considered the clamping force, so you’ll never feel like the ear pads are squeezing the sides of your head.",n
+275,4,p,"There are a ton of great sounding noise-cancelling over-ear Bluetooth headphones, but Bang and Olufsen’s emphasis on comfort sets the Beoplay HXs apart. It makes it easy to wear them for an entire workday without feeling like your ears are getting pinched, or your head is being weighed down.",n
+276,4,p,,n
+280,276,span,Bang and Olufsen Beoplay HX,n
+284,276,span,$499.00,n
+286,4,h2,A Powerful WiFi Router,y
+294,4,p,"If you’re working from home, it means your entire day relies on a strong internet connection. I’ve had the opportunity to try several modern routers, but Linksys’ Velop MX5 has consistently come out on top.",n
+296,4,p,"The tall, white router connects to the cable modem from your ISP , and creates a strong wireless network that extends up to 3,000 sq. ft. . The router supports Wi-Fi 6, the latest version of the wireless standard that’s faster, farther reaching, and more secure. Most tech isn’t built with Wi-Fi 6 yet, but all of your current devices will connect seamlessly.",n
+298,4,p,"I’m recommending this router because of its rock-solid dependability, and its ease of use. I’ve never experienced any slowdown, even when over a dozen devices were connected and being actively used. Keep in mind the speeds you get will depend on the plan you’ve selected with your ISP — a fast router cannot improve a slow connection. Setting up the router took about five minutes in Linksys’ app , which can also be used to diagnose Wi-Fi problems, see which devices are on your network, or set per-device parental controls.",n
+299,4,p,,n
+303,299,span,Linksys Velop MX5,n
+307,299,span,$399.99,n
+309,4,h2,An HD Webcam,y
+317,4,p,"Video conferencing has become a necessary part of many people’s jobs over the past year and a half, and it shows no signs of stopping. This reality means you need to have a good webcam to look professional.",n
+321,4,p,"Razer’s Kiyo is a 1080P webcam designed for gamers, but we can easily recommend it to everybody because it of its unique design. The camera is surrounded by a light ring, which is typically an optional accessory .",n
+323,4,p,"The camera’s light ring ensures you’ll never broadcast from a dim area, and will improve the clarity of your video quality substantially. The Kiyo has other impressive features like auto-focus, which ensures you always stay in frame if you move around.",n
+331,4,p,"If you’ve been relying on the webcam built into your laptop lid, Razer’s Kiyo Streaming Webcam will make a night-and-day difference in how you look when video conferencing.",n
+332,4,p,,n
+336,332,span,Razer Kiyo Streaming Webcam,n
+340,332,span,$71.62,n
+342,4,h2,An LED Light,y
+348,4,p,"Video conferencing has become a lot more common recently, which means you have to consider the lighting situation in your room.",n
+350,4,p,"Lume Cube’s video conferencing kit contains a mini LED panel with a suction cup attachment, which you can stick onto the back of your monitor or laptop lid. The included light diffuser will keep the LEDs from hurting your eyes when the light panel is on.",n
+352,4,p,"You can change the LED panels brightness and color temperature by using a switch on its side. A mini LED screen will show the LED panel’s brightness level and battery life, so you’ll have a good sense of how long you can use it before needing to plug it in.",n
+354,4,p,"I’ve used this accessory myself, and it works really effectively. The quality of my video is noticeably better, and I don’t have to rely on sunlight or overhead lighting during video calls.",n
+355,4,p,,n
+359,355,span,Lume Cube Video Conference Lighting Kit,n
+363,355,span,$69.99,n
+365,4,h2,A Dedicated Microphone,y
+373,4,p,"Once you have a good webcam setup, it’s time to compliment that with a good USB microphone. Our pick is Shure’s MV7, which stands head and shoulders above any microphone in its class.",n
+375,4,p,"The MV7 is built on a strong foundation. It’s a modernized take on Shure’s SM7B, the most iconic vocal microphone of all time. You can connect it to a computer’s USB-C or USB-A port .",n
+377,4,p,"The microphone is ready to use once it’s plugged in, but you can make adjustments to its sound in a couple of ways. You can manage the mic’s gain and the volume of audio going to its headphone jack by swiping your finger on a touch-sensitive ring located around the center of the microphone.",n
+379,4,p,"If you want to adjust more advanced settings, you’ll need to download Shure’s MOTIV Desktop app , which gives you fine-grain controls over its sound. Either way, Shure’s M7V is a great sounding microphone that’s easy to setup, an intuitive to use.",n
+380,4,p,,n
+384,380,span,Shure MV7,n
+388,380,span,$249.00,n
+390,2,footer,,n
+393,390,p,In This Article,n
+399,390,p,Want more Rolling Stone? Sign up,n
+404,390,div,,n
+423,404,div,You May Like,n
+426,404,div,,n
+427,426,div,,n
+432,427,div,Buzzdaily Winners,n
+435,427,span,,n
+437,435,span,2 Steps To Tell When A Slot is Close To Hitting The Jackpot,n
+439,435,span,Buzzdaily Winners,n
+444,426,div,,n
+449,444,div,Unify Health Labs,n
+452,444,span,,n
+454,452,span,"Wait, Randy Jackson Lost How Much Weight?",n
+456,452,span,Unify Health Labs,n
+458,452,button,Read More,n
+481,426,div,Cleaning Gutters,n
+488,426,div,,n
+493,488,div,TruthFinder,n
+496,488,span,,n
+498,496,span,Locate Almost Anyone By Entering Their Name,n
+500,496,span,TruthFinder,n
+505,426,div,,n
+510,505,div,Dating.com,n
+513,505,span,,n
+515,513,span,Stunningly Beautiful Girls from Portland Who Happen to Be Single,n
+517,513,span,Dating.com,n
+522,426,div,,n
+527,522,div,Safe Step Bath,n
+530,522,span,,n
+532,530,span,1 Day Walk-In Bath Installation,n
+534,530,span,Safe Step Bath,n
+547,390,div,,n
+550,547,div,Popular in the Community,n
+574,547,div,,n
+594,574,div,Skip,n
+596,574,div,Ads by,n

@@ -1,0 +1,235 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,article,,n
+4,1,div,,n
+5,4,text,You are here,n
+7,4,span,,n
+8,7,text,Home,n
+12,7,span,"Cooking and Baking Tips, Substitutions + Guides",n
+13,1,div,,n
+15,13,div,,n
+16,15,span,,n
+18,16,strong,By,n
+20,16,span,Julie Blanner,n
+23,15,span,6 Comments,n
+25,15,span,,n
+27,25,strong,Updated,n
+28,25,text,5 or 5 or 22,n
+34,13,p,This post may contain affiliate links. Please read our disclosure policy .,n
+37,1,div,,n
+40,37,p,"This is a can’t-miss FREE printable list of all the baking essentials you’ll need, and baking organization ideas for your baking cabinet or pantry. Find cute storage supply inspiration and a comprehensive list of all the supplies you could ever need!",n
+42,37,p,"Get tips and tricks for efficiently organizing your baking supplies. You’ll find pretty, practical storage ideas for every baking essential, including spices, flours, sugars, and more!",n
+47,37,p,"I enjoy sharing all my favorite baking tips and tricks with you. In fact, did you know I started a website dedicated entirely to cookie recipes? Check out Easy Cookie Recipes for the ultimate beginner’s guides to getting started.",n
+51,37,p,"Whether you’re a lifelong, experienced baker or not, one of the most important things you can do before baking season is to get organized .",n
+55,37,p,"I’ve shared a lot about our kitchen organization projects over the years- it just feels so good to simplify and streamline these items. Additionally, it’s important to frequently check the dates on items like baking powder, baking soda, and more!",n
+60,37,p,"Today we are focusing on creating a baking essentials cabinet. You’ll find a printable list that you can use to go through your baking pantry, checking the dates on items and ensuring you’ve got what you need when the urge to bake strikes!",n
+65,37,p,Use this handy Table of Contents tab to jump from section to section of this post and find exactly what you need!,n
+66,37,div,,n
+69,66,p,Contents,n
+72,66,ul,,n
+74,72,li,Baking Supplies,n
+75,72,li,,n
+76,75,text,Staple Baking Ingredients,y
+77,75,ul,,n
+79,77,li,Dry Ingredients,y
+81,77,li,Oils and Extracts,y
+83,77,li,Refrigerated Ingredients,y
+85,77,li,Optional Specialty Ingredients,y
+87,77,li,Spices,y
+88,72,li,,n
+89,88,text,Sources,n
+90,88,ul,,n
+92,90,li,"Kitchen Appliances, Utensils, and Tools",n
+94,90,li,Baking Storage Items,n
+96,90,li,More Baking and Decorating Supplies,n
+98,72,li,Frequently Asked Questions,n
+100,72,li,Baking Essentials,n
+102,72,li,More Baking Guides,n
+105,37,h2,Baking Supplies,n
+109,37,p,There is nothing more annoying than being in the middle of baking your favorite recipe and realizing you are missing an ingredient or a key kitchen gadget- like cookie cutters for Christmas cookies!,n
+115,37,p,"There are always substitutes but sometimes just having all the necessary baking tools and baking supplies, already on hand, is less of a headache.",n
+122,37,p,"To make baking an enjoyable pastime and not a chore, I have put together a selection baking ingredients and tools. These are staple ingredients that keep well in the pantry or freezer, and commonly used kitchen tools and appliances.",n
+124,37,p,"Throughout this post you’ll see three different kitchens! I’m sharing our Kansas Colonial kitchen, our St. Louis tudor , and our Lake Cottage . We love organizing and I hope you take some inspiration from all of these spaces!",n
+139,37,h2,Staple Baking Ingredients,y
+148,37,h3,Dry Ingredients,y
+150,37,ul,,n
+153,150,li,Flour,y
+156,150,li,White Sugar,y
+159,150,li,Brown Sugar,y
+162,150,li,Confectioners Sugar,y
+165,150,li,Baking Soda,y
+168,150,li,Baking Powder,y
+171,150,li,Salt,y
+174,150,li,Tartar,y
+177,150,li,Cocoa Powder,y
+183,37,h3,Oils and Extracts,y
+185,37,ul,,n
+188,185,li,Vanilla Extract,y
+191,185,li,Vegetable Oil,y
+194,185,li,Olive Oil,y
+196,185,li,Cooking Spray,y
+199,37,h3,Refrigerated Ingredients,y
+201,37,ul,,n
+202,201,li,,n
+204,202,span,Butter,y
+205,202,text,– learn how to soften butter or how to brown butter here.,n
+210,201,li,,n
+212,210,span,Cream Cheese,y
+213,210,text,– learn how to soften it fast!,n
+216,201,li,Eggs,y
+219,201,li,Milk,y
+222,201,li,Sour Cream,y
+229,37,h3,Optional Specialty Ingredients,n
+231,37,ul,,n
+234,231,li,Sprinkles,y
+237,231,li,High Quality Baking Chocolate,y
+240,231,li,Chocolate Chips,y
+243,231,li,Peanut Butter Chips,y
+246,231,li,White Chocolate Chips,y
+249,231,li,Chocolate Peppermint Chips,y
+252,231,li,Rolled Oats,y
+255,231,li,Corn Starch,y
+258,231,li,Nuts,y
+261,231,li,Marshmallows,y
+264,231,li,Marshmallow Creme,y
+267,231,li,Peanut Butter,y
+270,231,li,Corn Syrup,y
+273,231,li,Shortening,y
+276,231,li,Molasses,y
+279,231,li,Candies,y
+282,231,li,Orange Zest,y
+285,231,li,Lemon Zest,y
+288,231,li,Coarse Ground Sugar Granules,y
+291,231,li,Maple Extract,y
+294,231,li,Almond Extract,y
+297,231,li,Butter Extract,y
+300,231,li,Peppermint Extract,y
+303,231,li,Lemon Extract,y
+306,231,li,Canned Pumpkin,y
+309,231,li,Heavy Whipping Cream,y
+312,231,li,Half and Half,y
+315,231,li,Buttermilk,y
+318,231,li,Shredded Coconut,y
+321,231,li,Candied Fruit,y
+324,231,li,Sugared Fruit,y
+327,231,li,Hershey Kisses,y
+330,231,li,Cookie Butter,y
+333,231,li,Honey,y
+336,231,li,Gelatin,y
+339,231,li,Evaporated Milk,y
+342,231,li,Sweetened Condensed Milk,y
+349,37,h3,Spices,y
+353,37,p,Spices are a great pantry staple and a must in your list of baking supplies. They are easy to store and have a long shelf life. You can even make your own spice mixes.,n
+357,37,ul,,n
+360,357,li,Apple Pie Spice,y
+363,357,li,Cinnamon,y
+366,357,li,Allspice,y
+369,357,li,Nutmeg,y
+372,357,li,Cloves,y
+375,357,li,Pumpkin Pie Spice,y
+378,357,li,Ginger,y
+381,357,li,Cinnamon and Sugar,y
+385,37,h2,Sources,n
+389,37,h3,"Kitchen Appliances, Utensils, and Tools",y
+392,37,p,"If you’ve been baking for long, you’ll certainly have many of these items in your line-up already. Baking accessories often come down to personal preference and what we grew up using in our mother’s and grandmother’s kitchens.",n
+396,37,ul,,n
+397,396,li,,n
+399,397,span,KitchenAid Stand Mixer,y
+401,397,span,.,n
+404,396,li,Cookie Sheet Pans,y
+410,396,li,Measuring Cups,y
+412,396,li,,n
+414,412,span,Measuring,n
+416,412,span,Spoons,y
+417,396,li,,n
+419,417,span,Cookie Cutters,y
+421,417,span,6,n
+425,417,span,18 piece set,n
+430,396,li,Silpat,y
+433,396,li,Rolling Pin,y
+436,396,li,Spatula,y
+443,396,li,Cookie Spatula,y
+447,396,li,Cooling Rack,y
+450,396,li,Cookie Press,y
+453,396,li,Baking Pans,y
+456,396,li,Baking Cups,y
+459,396,li,Stainless Steel Whisk,y
+462,396,li,Scissors,y
+465,37,h3,Baking Storage Items,y
+467,37,ul,,n
+469,467,li,Weck jars,y
+471,467,li,Clear Jar with Glass Lid,y
+474,467,li,Gallon Crock,y
+477,467,li,12 Glass Jars with Bamboo Lids,y
+484,37,h3,More Baking and Decorating Supplies,n
+486,37,ul,,n
+489,486,li,Cake Stand,y
+492,486,li,Icing Tips,y
+495,486,li,Icing Bags,y
+498,486,li,Food Coloring,y
+504,486,li,Round Cake Pan,y
+507,486,li,Square Cake Pan,y
+511,37,ul,,n
+517,511,li,Wax Paper,y
+520,511,li,Cookie Cutters,y
+527,37,h2,Frequently Asked Questions,n
+529,37,div,,n
+530,529,div,,n
+532,530,strong,How do you store baking ingredients?,n
+533,530,p,,n
+534,533,text,"For longevity, I’ve found it best to remove paper packaging from most dry ingredients such as flour, sugar, baking soda, baking powder, etc, and store in well sealed, airtight containers.",n
+536,533,br,"Well labeled ingredients help with organization and look tidy in the pantry. Chalk those organization elements to another item for your list of baking accessories, in fact!",n
+539,529,div,,n
+541,539,strong,What are essentials,n
+543,539,p,"You’ll need the ingredients that your recipe requires, along with measuring spoons, measuring cups, a mixing bowl, and a mixer .",n
+544,529,div,,n
+546,544,strong,What are the seven basic baking ingredients?,n
+548,544,p,"The seven ingredients that most bakers will agree are necessities are as follows: flour, leaveners , salt, sugar, fats , and flavoring extracts or spices.",n
+555,37,h2,Baking Essentials,n
+558,37,p,I made this list to give you some basic guidelines on everything you’ll need as you head into baking season. This list is also helpful if you’re a beginning baker looking to stock up on all your baking supplies.,n
+571,37,p,"I like to laminate my chart for longevity, and store in my kitchen near my measuring utensils. You can also give it as a gift. Have you seen my list of the best gifts for bakers ? So many fun ideas!",n
+583,37,p,"I hope you find this baking supply list and baking tips helpful! If you do, please come back and leave a comment below. I’d love to hear from you! You can also pin this for later.",n
+588,37,h2,Favorite Pasta Recipes,n
+592,37,h2,More Baking Guides,n
+594,37,ul,,n
+596,594,li,Pearl Sugar,n
+598,594,li,Dry Versus Liquid Measuring Cups,n
+600,594,li,Printable Baking Substitutions list,n
+603,594,li,Printable Measurement Conversion chart,n
+606,594,li,Creme Fraiche Substitute,n
+616,37,div,,n
+621,616,p,FREE Sweet Bread Recipe eBook!,n
+633,616,div,"YES, I WANT IT!",n
+645,0,div,,n
+647,645,h3,You may also like...,n
+648,645,ul,,n
+654,648,li,Frosted Apple Butter Cookies,n
+660,648,li,The Ultimate Peanut Butter Cake,n
+666,648,li,Your Ultimate Guide to Baking Substitutions,n
+668,0,h2,Reader Interactions,n
+669,0,div,,n
+670,669,h3,,n
+671,670,text,Leave a Comment,n
+673,670,small,Cancel reply,n
+674,669,form,,n
+676,674,p,Have a question? Submit your question or comment below.,n
+677,674,div,,n
+679,677,label,Rate this Recipe,n
+683,677,span,Rate this Recipe,n
+702,674,p,,n
+703,702,text,Comment,n
+705,702,span,*,n
+709,674,p,Name,n
+713,674,p,Email,n
+718,674,p,"Save my name, email, and website in this browser",n
+727,674,p,Δ,n
+731,0,div,,n
+732,731,li,,n
+737,732,p,them is wonderful!,n
+744,732,li,,n
+746,744,text,Hi Kelly!,n
+748,744,br,"Thank you, I love those jars! You can find them in the kitchen section of my Amazon storefront, right here. Enjoy! https: or or www.amazon.com or shop or julieblanner",n
+757,731,li,Julie-this is perfect! Thank you!!!,n
+760,731,li,,n
+765,760,p,maria,n
+774,760,li,Did you intend to leave a comment?,n

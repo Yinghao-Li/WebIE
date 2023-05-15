@@ -1,0 +1,110 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+6,1,h6,,n
+7,6,text,HAPPY RPIDE MONTH 2022!,n
+9,6,br,Our online shop is open 24 or 7. Free UK delivery on orders over £100.,n
+19,1,ul,,n
+21,19,li,HOME,n
+23,19,li,ABOUT,n
+25,19,li,SERVICES,n
+27,19,li,PRICES,n
+29,19,li,SHOP,n
+31,19,li,GALLERY,n
+33,19,li,BLOG or VIDEO,n
+35,19,li,PAYMENT,n
+37,19,li,CONTACT,n
+62,1,p,Follow us,n
+66,1,div,,n
+70,66,p,SHOP MENU,n
+74,66,p,Gift Vouchers Beauty Box or Gift Sets Kryolan All Cosmetics Gift Cards Special Offers Accessories and Tools Sepcial Items,n
+90,1,h5,Essential Drag Makeup Tutorial,n
+95,1,div,,n
+100,95,h5,Essential Drag Makeup | Drag Makeup Beginners | Drag Makeup Essentials,n
+101,95,p,,n
+102,101,text,Date,n
+105,101,br,"The Covid19 Lockdown is boring! Let’s drag up gurls! Here we go, our essential drag makeup tutorial that your drag makeup can be done in just about 45 minutes. This eyebrow blocking technique by using spirit gum and eyebrow wax will last for hours or a day! It works well with oily skin, sweaty face. It’s unlikely that you will have any problems with cracking eyebrows!",n
+108,101,br,Giving tutorial by our principle MUA,n
+112,101,br,Filming,n
+114,101,br,Watch this on our Youtube Channel,n
+118,101,br,the used cosmetics or makeup available on our online shop,n
+123,101,strong,cosmetics used in order,n
+127,101,br,Toner,y
+129,101,br,- Any mild toner.,y
+132,101,br,Eyebrow blocking,y
+134,101,br,- Kryolan Mastrix Spirit Gum .,y
+138,101,br,- Kryolan Eyebrow Plastic,y
+143,101,br,Color Correcting Concealer,y
+145,101,br,- Dermacolor Camouflage Creme,y
+150,101,br,Foundation,y
+152,101,br,- Kryolan TV Pain Stick . Colour LO.,y
+156,101,br,- Kryolan TV Pain Stick . Colour 406.,y
+160,101,br,- Kryolan TV Pain Stick . Colour 10W.,y
+165,101,br,Loose Powder,y
+167,101,br,- Kryolan Translucent Powder . Colour TL11.,y
+172,101,br,Eyebrows,y
+174,101,br,- Kryolan Face Liner . Colour 21.,y
+178,101,br,- Kryolan Eyebrow Powder . Colour Fair.,y
+182,101,br,- Kryolan Matt Eyeshadow. Colour Deep Black .,y
+187,101,br,Eyes,n
+189,101,br,- Kryolan Matt Eyeshadow. Colour White.,y
+191,101,br,- NYX Ultimate Shadow Palette Brights .,y
+195,101,br,- Kryolan Matt Eyeshadow. Colour Deep Black .,y
+199,101,br,- Kiko Glitter Eyeliner. Colour 02.,y
+201,101,br,- Kryolan Eye Liner . Colour Black.,y
+205,101,br,- Any suitable upper and lower lashes,y
+207,101,br,- Duo Eyelash Glue. Colour Clear .,y
+212,101,br,Lips,n
+214,101,br,- Kryolan Face Liner . Colour 21.,y
+218,101,br,- Kryolan Lipstick Classic . Colour LC002.,y
+222,101,br,- Kryolan Lipstick Pearl. Colour LC658.,y
+225,101,br,Makeup Setting Spray,y
+227,101,br,- Loreal Infaillible Magic Setting Spray.,y
+230,1,div,,n
+232,230,div,,n
+234,232,h3,Best seller!,n
+236,232,p,Recommended by our top MUA and loved by our clients,n
+238,230,div,,n
+239,238,div,,n
+242,239,h4,Kryolan Lipstick Matt,n
+246,239,h6,£16.50,n
+249,239,p,Long lasting deep red lipstick with vitamin E.,n
+253,238,div,,n
+256,253,h4,Drag Dreams Gift Voucher,n
+258,253,p,£90.00 - £450.00,n
+260,253,p,An ideal gift,n
+263,253,div,View vouchers,n
+264,238,div,,n
+267,264,h4,Drag Dreams Beauty Box - The Eye and Eyebrow Makeup Kit 3,n
+270,264,p,£113.00,n
+272,264,p,eye and eyebrow makeup products.,n
+276,238,div,,n
+279,276,h4,Kryolan TV Paint Stick,n
+282,276,p,£18.90,n
+284,276,p,drag makeup is foundation. It gives great full coverage and long lasting.,n
+291,1,div,,n
+292,291,div,,n
+294,292,h4,About,n
+295,292,text,About Us Contact Us Gallery Our Google Reviews Prices Payment Offers Blog or Video The Team Links and Recommendations Gift Wrapping Delivery Returns FAQs T and C,n
+310,291,div,,n
+312,310,h4,Services,n
+313,310,text,Drag Makeup Male To Female Makeup Drag Experience Drag Experience and Photo Shoot Makeover and Photo Shoot Drag Makeup Lesson 4 Hours Drag Makeup Lesson 6 Hours Dress Up Assistance Service Male To Female Makeup Lesson Crossdressing Experience Drag Workshop Drag Makeup Tutorial,n
+325,291,div,,n
+327,325,h4,Shop,n
+328,325,text,Gift Vouchers Gift Cards Beauty Box or Gift Sets Makeup or Cosmetics Kryolan Accessories and Tools Drag or Cross Dressing Items Offers,n
+336,291,div,,n
+338,336,h4,Connect,n
+339,336,p,,n
+340,339,text,Mon - Sat,n
+342,339,br,Sun,n
+344,339,br,Appointment,n
+347,339,strong,07867 308 869,n
+349,339,br,Order Products,n
+351,339,strong,0207 687 1708,n
+353,336,p,,n
+355,353,strong,Our other websites,n
+357,353,br,James Adisai,n
+359,353,br,Blossom and Bliss,n
+385,1,p,,n
+386,385,text,© 2022 Drag Dreams. James Adisai Ltd .,n
+390,385,br,Registered in UK. Company no.10649563,n

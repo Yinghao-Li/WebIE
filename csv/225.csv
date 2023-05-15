@@ -1,0 +1,255 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+7,0,div,,n
+10,7,h1,Crafting Recipes,n
+11,7,div,,n
+13,11,text,View source,n
+17,11,ul,,n
+19,17,li,History,n
+21,17,li,Talk,n
+22,0,div,,n
+25,22,div,,n
+26,25,div,,n
+29,26,div,,n
+46,29,div,watch,n
+54,29,div,,n
+55,54,ul,,n
+57,55,li,Video Quality,n
+59,55,li,Captions,n
+60,54,ul,,n
+62,60,li,Auto,n
+64,60,li,1080p,n
+66,60,li,720p,n
+68,60,li,406p,n
+70,60,li,270p,n
+72,60,li,180p,n
+102,29,div,,n
+104,102,span,"1 minute, 25 seconds",n
+106,102,span,Volume 0%,n
+107,29,div,,n
+110,107,span,keyboard shortcuts,n
+111,107,div,,n
+112,111,div,,n
+114,112,span,Keyboard Shortcuts,n
+115,112,button,,n
+118,115,span,Enabled,n
+120,115,span,Disabled,n
+122,111,div,,n
+123,122,div,,n
+125,123,span,Play or Pause,n
+127,123,span,SPACE,n
+128,122,div,,n
+130,128,span,Increase Volume,n
+132,128,span,↑,n
+133,122,div,,n
+135,133,span,Decrease Volume,n
+137,133,span,↓,n
+138,122,div,,n
+140,138,span,Seek Forward,n
+142,138,span,→,n
+143,122,div,,n
+145,143,span,Seek Backward,n
+147,143,span,←,n
+148,122,div,,n
+150,148,span,Captions On or Off,n
+152,148,span,c,n
+153,122,div,,n
+155,153,span,Fullscreen or Exit Fullscreen,n
+157,153,span,f,n
+158,122,div,,n
+160,158,span,Mute or Unmute,n
+162,158,span,m,n
+165,122,div,Seek %,n
+168,29,div,,n
+182,168,div,,n
+184,182,div,Next Up,n
+186,182,div,‘The Boys’,n
+188,182,div,05:04,n
+199,168,div,,n
+200,199,button,,n
+201,200,text,Auto,n
+203,200,span,180p,n
+205,199,button,1080p,n
+207,199,button,720p,n
+209,199,button,406p,n
+211,199,button,270p,n
+213,199,button,180p,n
+227,168,div,,n
+257,227,div,Live,n
+259,227,div,00:02,n
+261,227,div,01:23,n
+263,227,div,01:25,n
+296,227,div,Close,n
+300,26,div,watch,n
+306,25,div,Do you like this video?,n
+310,25,div,Play Sound,n
+314,22,div,,n
+316,314,p,Note,n
+321,314,p,"You can craft various items by placing correct items in the ingredient slots. Each crafting attempt costs 5 gold, but your ingredients are lost only on successful attempts. All known recipes are stored in the recipes view and unlocking more is a surefire way to increase your crafting potential.",n
+323,314,p,"The recipes discovered through investigation are not added in your recipes list. This is a bug, as stated in the related article on the Paradox Interactive support site",n
+326,314,p,"This list is not yet complete, but will be amended over time.",n
+330,314,h2,"Equipment, Weapons and Trinkets",n
+341,314,table,,n
+342,341,tr,,n
+346,342,td,Almighty Ring,n
+348,342,ul,,n
+350,348,li,Body +1,n
+352,348,li,Senses +1,n
+356,342,ul,,n
+358,356,li,Body,n
+360,356,li,Senses,n
+364,341,tr,,n
+368,364,td,Magic Staff,n
+370,364,ul,,n
+372,370,li,Damage +3,n
+374,370,li,Energy +15,n
+376,370,li,Stun,n
+378,370,li,Spell Damage +3,n
+380,364,ul,,n
+382,380,li,Staff,n
+384,380,li,Wand,n
+386,380,li,Crystal Ball,n
+388,341,tr,,n
+392,388,td,Major Endurance,n
+394,388,ul,,n
+396,394,li,Health +30,n
+398,394,li,Energy +30,n
+408,341,tr,,n
+412,408,td,Origami Shield,n
+414,408,ul,,n
+416,414,li,+2% Extra XP,n
+418,414,li,Damage Reduction +2,n
+428,341,tr,,n
+438,428,td,Dragonslayer Ring,n
+440,428,ul,,n
+444,440,li,Health + 30,n
+446,440,li,Damage +10% vs. Dragons,n
+448,428,ul,,n
+452,448,li,Dragon Statue,n
+454,448,li,Dragonmint,n
+456,341,tr,,n
+466,456,td,Agitation,n
+468,456,ul,,n
+470,468,li,Critical +1%,n
+472,468,li,Threat +1,n
+474,468,li,Damage +1,n
+476,468,li,Initiative + 1,n
+480,456,li,Spiked Ring,n
+486,341,tr,,n
+490,486,td,Black Belt,n
+494,486,li,Damage +2,n
+506,341,tr,,n
+510,506,td,Whip,n
+516,506,li,Rage,n
+524,341,tr,,n
+528,524,td,Torch,n
+534,524,li,Burn 2,n
+540,524,li,Club,n
+542,341,tr,,n
+546,542,td,Sewer Key,n
+552,542,li,Poison 2,n
+556,542,li,Glasses,n
+560,341,tr,,n
+564,560,td,Kimono,n
+566,560,ul,,n
+568,566,li,Energy +5%,n
+570,566,li,Spell Damage +1,n
+578,560,li,Cobalt Gemstone,n
+580,341,tr,,n
+584,580,td,Silence,n
+588,580,li,Threat -3,n
+598,341,tr,,n
+602,598,td,Metal Detection,n
+604,598,ul,,n
+606,604,li,Initiative -2,n
+608,604,li,+5% Extra Gold,n
+610,598,ul,,n
+612,610,li,Sturdy Boots,n
+614,610,li,Wallet,n
+616,610,li,Horseshoe,n
+618,341,tr,,n
+622,618,td,Woolen Gloves,n
+624,618,ul,,n
+626,624,li,Health +8,n
+628,624,li,Energy +8,n
+630,624,li,Damage Reduction +1,n
+632,618,ul,,n
+634,632,li,Red Handkerchief,n
+636,632,li,Moccasins,n
+638,341,tr,,n
+642,638,td,Enchanted Equipment,n
+643,638,td,,n
+646,643,li,Your equipment becomes,n
+648,643,p,permanently enchanted.,n
+650,638,ul,,n
+652,650,li,Equipment,n
+654,650,li,Scroll,n
+661,314,h2,Consumables,n
+672,314,table,,n
+673,672,tr,,n
+677,673,td,Pizza,n
+679,673,ul,,n
+681,679,li,Health Restoration +75,n
+683,679,li,Energy Restoration +75,n
+693,672,tr,,n
+697,693,td,Energy Elixir,n
+701,693,li,Energy Restoration +150,n
+711,672,tr,,n
+715,711,td,Giant Bomb,n
+716,711,td,,n
+719,716,li,Deal 30 damage and 1,n
+721,716,p,condition to target,n
+723,716,p,and adjacent enemies,n
+731,672,tr,,n
+735,731,td,Sandwich,n
+737,731,ul,,n
+739,737,li,Health Restoration +60,n
+741,737,li,Energy Restoration + 60,n
+751,672,tr,,n
+755,751,td,Health Elixir,n
+759,751,li,Health Restoration +150,n
+769,672,tr,,n
+773,769,td,Power Shake,n
+777,769,li,Recover from all conditions.,n
+779,769,ul,,n
+783,779,li,Health Potion,n
+785,779,li,Energy Potion,n
+787,672,tr,,n
+791,787,td,Sushi Roll,y
+793,787,ul,,n
+795,793,li,Health Restoration +35,y
+797,793,li,Energy Restoration +35,y
+799,787,ul,,n
+803,799,li,Rice,y
+805,799,li,Fish,y
+807,672,tr,,n
+811,807,td,Virulent Bomb,n
+812,807,td,,n
+815,812,li,Spread conditions on target,n
+817,812,p,enemy to adjacent enemies.,n
+823,807,li,Gravel,n
+827,672,tr,,n
+831,827,td,Random Charm,n
+835,827,li,You'll get a random charm.,n
+845,672,tr,,n
+849,845,td,Rotten Tomato,n
+850,845,td,,n
+853,850,li,Deal 10 damage and inflict,n
+855,850,p,Rage to target enemy,n
+863,672,tr,,n
+867,863,td,Hamburger,n
+869,863,ul,,n
+871,869,li,Health Restoration +70,n
+873,869,li,Energy Restoration +70,n
+879,863,li,Steak,n
+888,22,div,,n
+890,888,div,Others like you also viewed,n
+891,888,div,,n
+895,891,div,Pen and Paper 2 Wikia,n
+899,891,div,Locations,n
+903,891,div,Monsters,n
+909,0,div,,n
+911,909,div,Community content is available under CC-BY-SA unless otherwise noted.,n
+919,909,div,,n
+921,919,p,No Comments Yet,n
+923,919,p,Be the first to comment on Crafting Recipes !,n

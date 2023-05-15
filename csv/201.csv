@@ -1,0 +1,256 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+9,5,div,,n
+10,9,section,,n
+12,10,nav,,n
+14,12,li,Expert Advice,n
+18,12,li,Watersports,n
+22,12,li,Kayaking,n
+24,10,div,,n
+25,24,div,,n
+32,25,span,,n
+34,32,span,435,n
+36,32,span,Reviews,n
+38,25,span,4.1 out of 5 stars,n
+39,24,ul,,n
+43,39,li,Print,n
+46,39,li,Facebook,n
+49,39,li,Twitter,n
+52,39,li,Pinterest,n
+54,10,p,our series,n
+63,9,h2,How to Paddle a Kayak,n
+66,9,div,,n
+68,66,div,,n
+70,68,p,"For kayaking around on calm, near-shore waters, you don’t need a pile of gear. If you’re paddling to a faraway destination, though, our checklist is a handy way to ensure you don’t forget any essentials. Your preferences, abilities and conditions dictate what you leave off or add to your final list.",n
+72,68,p,Note that this list is,n
+74,68,p,"Note that we've already integrated the Ten Essentials into this list. If you're planning on camping overnight, also see our Backpacking Checklist for items you'll need in camp.",n
+80,68,p,Printer-friendly version,n
+84,66,h2,Kayak Gear,n
+87,66,div,,n
+89,87,h3,Recommended,n
+90,87,ul,,n
+92,90,li,Kayak,y
+94,90,li,"Paddle , plus spare",y
+96,90,li,Personal flotation device,y
+99,90,li,Bilge pump,y
+101,90,li,Spray skirt,y
+104,90,li,Dry bag,y
+107,90,li,Headlamp or light with extra batteries,y
+112,90,li,Signaling whistle,y
+115,87,h3,Additional Recommendations,n
+116,87,ul,,n
+118,116,li,Paddle float,y
+120,116,li,Paddling knife,y
+123,116,li,Towline,y
+125,116,li,Maps and charts in waterproof case,y
+127,116,li,Compass,y
+130,116,li,Watch,y
+132,116,li,Weather or VHF radio,y
+134,116,li,Dry bags,y
+137,116,li,Paddle leash,y
+140,116,li,Large sponge,y
+142,116,li,Float bags,y
+144,116,li,Emergency flares or strobe,y
+146,116,li,GPS,y
+149,116,li,Two-way radios,y
+155,66,h2,Clothing,n
+158,66,div,,n
+160,158,p,Items below are in-boat wear; adjust according to anticipated air and water temperatures. Read What to Wear Kayaking for an overview.,n
+164,158,p,Note,n
+167,158,h3,Warm weather or water,n
+168,158,ul,,n
+170,168,li,Swimwear or shorts or convertible pants,y
+175,168,li,Rashguard top or moisture-wicking T-shirt or long-sleeve shirt,y
+179,168,li,Neoprene footwear,y
+181,168,li,Sun-shielding hat,y
+184,168,li,Cap retainer leash,y
+186,168,li,Bandana or buff,y
+188,168,li,Paddling gloves,y
+191,168,li,Fleece jacket or vest,y
+196,168,li,Spray jacket or rain jacket and pants,y
+204,158,h3,Additional clothing,n
+205,158,ul,,n
+207,205,li,Dry suit or top or wetsuit or top,y
+212,205,li,Long underwear,y
+215,205,li,Synthetic or wool socks,y
+217,205,li,Pogies,y
+219,205,li,Wool or synthetic cap,y
+225,66,h2,Personal Items,n
+228,66,div,,n
+230,228,h3,Recommended,n
+231,228,ul,,n
+233,231,li,Sunglasses with sunglasses straps attached,y
+238,231,li,Sunscreen,y
+241,231,li,Lip balm,y
+244,231,li,Insect repellent,y
+247,231,li,First-aid kit,y
+252,231,li,Water in bottles or reservoir,y
+257,231,li,Matches or lighter or fire starter in waterproof container,y
+259,231,li,Emergency shelter or tent,y
+263,231,li,Snacks like energy food or lunch,y
+267,231,li,Cellphone in protective bag or case,y
+270,231,li,cash,y
+272,231,li,Permits and licenses,y
+274,231,li,"Trip itinerary left with friend, in boat + under car seat",y
+277,228,h3,Additions,n
+278,228,ul,,n
+280,278,li,Toilet paper or sanitary wipes and sanitation trowel,y
+284,278,li,Hand sanitizer or biodegradable soap and ziplock waste bag,y
+287,278,li,Menstrual and urinary products,y
+289,278,li,Water treatment,y
+292,278,li,Powdered energy drinks,y
+295,278,li,Camera,y
+298,278,li,Binoculars,y
+301,278,li,Guidebook,y
+303,278,li,Notebook and pen or pencil,y
+306,278,li,Fishing gear,y
+312,66,h2,Repair Kit Supplies,n
+316,66,ul,,n
+318,316,li,Multi-tool,y
+320,316,li,Sealant,y
+323,316,li,Static deck line,y
+325,316,li,Bungee cords,y
+327,316,li,Replacement rudder parts,y
+329,316,li,Bailing wire,y
+331,316,li,Repair or duct tape,y
+336,66,div,,n
+338,336,h3,Related Articles,n
+339,336,ul,,n
+341,339,li,What to Wear Kayaking,n
+343,339,li,Packing Your Boat,n
+345,339,li,The Ten Essentials,n
+347,339,li,Kayaking Safety,n
+355,9,h2,Watersports,n
+356,9,div,,n
+357,356,div,,n
+358,357,div,,n
+364,358,h4,How to Paddle a Kayak,n
+367,358,p,"With a few simple strokes, you can move your kayak forward, turn it and slow it down. Our article and video give you the basics.",n
+369,357,div,,n
+375,369,h4,Watersports,n
+378,369,p,"Explore our library of skills tutorials, activity checklists, buying guides and advice on how to care for your gear.",n
+382,356,div,,n
+384,382,h2,Rate this article,n
+387,382,p,,n
+388,387,text,How helpful was this article?,n
+390,387,span,Click a star to rate.,n
+404,382,button,Submit Rating,n
+408,356,div,Back to top,n
+409,5,footer,,n
+411,409,div,,n
+413,411,p,How are we doing?,n
+414,411,p,,n
+416,414,button,Give us feedback,n
+417,414,text,on this page.,n
+419,409,div,,n
+425,419,h2,Sign up,n
+429,419,p,"Co-op offers, events and cool new gear",n
+430,419,form,,n
+432,430,div,,n
+434,432,label,Email,n
+438,432,span,,n
+440,438,span,Error,n
+441,438,text,Is your email address correct?,n
+444,430,div,Sign me up!,n
+448,419,div,REI Privacy Policy,n
+451,419,div,,n
+455,451,h2,Thank you!,n
+458,451,div,,n
+460,458,strong,Check your inbox,n
+461,458,text,for your first email from REI. We'll send you a few emails every week. You can easily unsubscribe at any time.,n
+462,419,div,,n
+466,462,h2,System Maintenance,n
+470,462,p,The newletter sign-up system is currently down,n
+471,409,div,,n
+473,471,div,,n
+474,473,div,,n
+476,474,h2,Who we are,n
+477,474,p,,n
+479,477,span,"At REI, we believe that a life outdoors is a life well lived. We've been sharing our passion for the outdoors since 1938.",n
+480,477,text,Read our story,n
+481,473,div,,n
+483,481,h2,Become a co-op member,n
+484,481,p,,n
+486,484,span,"Anyone can join, and everyone belongs. Benefits include great gear offers, special pricing on events, and an annual Co-op Member Reward—for life. Join once, enjoy forever.",n
+487,484,text,Join us,n
+488,473,div,,n
+490,488,h2,Take a stand,n
+491,488,p,,n
+493,491,span,"Outdoor equity, climate action, places we love. Raise your voice in the movement to protect and share life outdoors.",n
+494,491,text,REI Cooperative Action Network,n
+495,473,div,,n
+496,495,h2,,n
+497,496,text,REI Co-op Mastercard,n
+499,496,sup,®,n
+502,495,ul,,n
+506,502,li,Check back in August,n
+509,502,li,,n
+511,509,span,Have the card already?,n
+512,509,text,Manage your account here.,n
+513,471,div,,n
+515,513,div,,n
+516,515,ul,,n
+518,516,li,Returns and Exchanges,n
+520,516,li,Your Online Account,n
+522,516,li,Purchase Status,n
+524,516,li,Shipping Info,n
+526,516,li,Membership,n
+528,516,li,Find Member Number,n
+530,516,li,Total REI Rewards Lookup,n
+531,515,ul,,n
+533,531,li,Expert Advice,n
+535,531,li,"Classes, Tours and Events",n
+537,531,li,Store Events,n
+539,531,li,REI Adventures Trips,n
+541,531,li,Uncommon Path,n
+543,531,li,Conversations,n
+545,531,li,REI Cooperative Action Fund,n
+547,531,li,Path Ahead Ventures,n
+549,513,div,,n
+550,549,ul,,n
+552,550,li,Virtual Outfitting,n
+554,550,li,Gift Cards,n
+556,550,li,Gift Registry,n
+558,550,li,Wish Lists,n
+560,550,li,Gear Collections,n
+562,550,li,"Coupons, Rebates and Discounts",n
+564,550,li,Free Shipping Details,n
+565,549,ul,,n
+567,565,li,About REI,n
+569,565,li,Stewardship,n
+571,565,li,Jobs,n
+573,565,li,Newsroom,n
+575,565,li,Technology Blog,n
+577,565,li,Sell at REI,n
+579,565,li,Affiliate Program,n
+581,565,li,Corporate and Group Sales,n
+583,565,li,Store Locator,n
+585,565,li,Live Chat,n
+587,565,li,Help Center,n
+588,471,div,,n
+591,588,div,,n
+593,591,p,Help Center,n
+595,591,p,Find answers online anytime.,n
+600,588,p,Live Chat,n
+608,588,p,,n
+610,608,span,Call us at,n
+611,608,text,-,n
+616,471,div,,n
+618,616,div,,n
+624,618,li,Get REI apps,n
+626,618,div,,n
+629,626,span,twitter,n
+632,626,span,facebook,n
+635,626,span,pinterest,n
+638,626,span,youtube,n
+641,626,span,instagram,n
+643,616,div,,n
+645,643,p,"© 2022 Recreational Equipment, Inc. All rights reserved. REI and the REI Co-op logo are trademarks of Recreational Equipment, Inc.",n
+647,643,ul,,n
+649,647,li,Use,n
+651,647,li,Privacy Policy,n
+653,647,li,Interest Based Ads,n
+655,647,li,Product Recalls,n
+657,647,li,CA Transparency Act,n
+659,647,li,REI Accessibility Statement,n

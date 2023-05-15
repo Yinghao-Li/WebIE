@@ -1,0 +1,177 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+110,0,div,,n
+113,110,div,,n
+115,113,h1,Emergency Kit Must-Haves,n
+117,113,p,"By Kate Miller on March 04, 2014",n
+120,113,div,,n
+125,120,ul,,n
+128,125,li,Share to Facebook,n
+132,125,li,Share to Twitter,n
+136,125,li,Share to LinkedIn,n
+140,125,li,Share to Google+,n
+145,125,li,15k views,n
+146,120,div,,n
+148,146,div,,n
+150,148,p,"Each client will have their own unique needs, and therefore, they’ll have their own particular problems to resolve. With an average of 10 to 15 vendors working on each wedding, these challenges increase tenfold. The wedding planner will be expected to solve any and all problems related to the event to ensure that everything goes off without a hitch — except the hitching, of course!",n
+152,148,p,"An assortment of potential problems requires a variety of emergency kit supplies, tools and materials to ensure you are equipped to handle even the most MacGyver of situations. Beyond the typical menagerie of emergency kit items, there are a slew of unexpected pieces that can help a wedding planner solve an issue faster and more efficiently.",n
+154,148,p,"While there may be overlap in each kit, the proximity of the items to the emergency really makes a difference. Duplicating items in each kit will allow for a faster solution — and make it appear that the planner is always one step ahead.",n
+156,148,h2,60 Standard Emergency Kit Items,n
+157,148,ul,,n
+159,157,li,"Pain relievers or medication like Advil, antacid , Dramamine, Rescue Pastilles, Tylenol , and stomach relief medication such as Pepto-Bismol",n
+161,157,li,"First aid items like a complete First Aid Kit with Band-Aids,",n
+165,157,li,Insect repellant,n
+167,157,li,"Beauty and fashion Items like such as bobby pins, Chap Stick, clear lip gloss, clear nail polish, hair bands, hair brush, hair spray, mouthwash, perfume, Kleenex, lint roller, safety pins, sewing kit, stain remover (",n
+168,157,text,"Tide Pen, tampons, tooth paste and brush , wine wipes",n
+170,157,li,"Little extras such as breath mints, disposable camera, Wet Ones wipes",n
+172,157,li,all kinds,n
+173,157,text,"as Krazy Glue, mounting putty; writing utensils including black and blue ball point pens, Sharpies, highlighters, and dry erase markers; floral extras including fishing line, floral wire, floral putty, and ivory ribbon ; and other live savers including batteries , cheesecloth or press cloth, Pledge wipes for quick dusting, power strips, extension cords, Post-It Notes, scissors, stapler, lighters, pliers, trash bags, wine bottle opener, sandwich bags, and umbrellas",n
+175,148,h2,14 Unexpected Emergency Kit Additions,n
+176,148,ul,,n
+178,176,li,Backup wedding music CD – In case the ceremony musicians are no shows,y
+180,176,li,Bamboo skewers – In case a cake starts to lean or look unstable,y
+182,176,li,Blue ribbon – In case the Bride forgets her “something blue”,y
+184,176,li,Eyelash glue – In case a faux eyelash goes astray. It’s not just,y
+186,176,li,Fashion tape – In case a bride or bridesmaid’s bra is showing,y
+188,176,li,Protein bars and snacks – In case a light-headed wedding party member needs a snack,y
+190,176,li,Extra wedding band – In case the wedding band are forgotten,y
+192,176,li,Clear 3M hooks – In case something hanging falls apart and a quick fix is needed without damage,y
+194,176,li,Goo Gone – In case stickers or labels were not removed from votive holders or other décor,y
+196,176,li,Stick-Um wax – In case candles are a bit droopy or leaning. Safety first — prevent a fire!,y
+198,176,li,Night lights – In case one needs to check to see if an outlet works quickly,y
+200,176,li,Floral clippers – In case a floral item needs to be trimmed or fixed,y
+202,176,li,bodily fluid or dirty cleanups,y
+204,176,li,Cake cutting set – In case the client set is missing and catering does not have one,y
+206,148,h2,36 Items,n
+207,148,ul,,n
+223,207,li,Clear nail polish,y
+227,207,li,Crochet hook,y
+233,207,li,Fashion tape,y
+237,207,li,Foundation,y
+239,207,li,Hair bands,y
+241,207,li,Hair brush and comb,y
+243,207,li,Hair spray,y
+251,207,li,Lip gloss,y
+257,207,li,Nail kit,y
+259,207,li,Panty liners,y
+273,207,li,Tampons,y
+281,148,h2,28 Items,n
+282,148,ul,,n
+298,282,li,Comb,y
+320,282,li,Razors,y
+328,282,li,Shaving cream,y
+340,148,p,"With each new problem, a new and unique use of these tools may surface, as creative problem solving is always the goal.",n
+341,148,p,,n
+343,341,strong,Bonus,n
+344,341,text,Want to become a professional wedding and event planner? Enroll in the New York Institute of Art and Design's Wedding Planning Course today!,n
+347,148,div,,n
+349,347,h4,About the Author,n
+351,347,p,Award-winning wedding planner and designer Kate Whelen Miller is the go-to girl for stylish weddings in Sacramento and throughout Northern California. Find her blog and online magazine by visiting katemillerevents.com .,n
+360,146,div,Enroll Now,n
+362,113,div,,n
+364,362,div,Related Articles,n
+366,362,ul,,n
+373,366,div,,n
+375,373,div,Wedding Tip Wednesday,n
+377,373,p,By,n
+380,373,div,"It’s Wedding Tip Wednesday at NYIAD! Every Wednesday afternoon, tune in to the design blog to hear a new piece of planning advice from NYIAD’s",n
+388,366,div,,n
+390,388,div,A Guide to Choosing Wedding Colors,n
+392,388,p,By,n
+395,388,div,"The New York Institute of Art and Design offers online wedding planner courses and because we do, we like to provide free tips for wedding planners.…",n
+396,110,div,,n
+405,396,div,,n
+407,405,div,Categories,n
+408,405,ol,,n
+410,408,li,Student Success,n
+415,408,li,Front-End Development,n
+418,408,li,UX Design,n
+421,408,li,Interior Design,n
+427,408,li,Jewelry Design,n
+430,408,li,3D Modeling,n
+433,408,li,Event Planning,n
+436,408,li,Autocad,n
+439,408,li,Floral Design,n
+442,408,li,Landscape Design,n
+445,408,li,Holidays,n
+448,408,li,Business,n
+451,408,li,Personal Style,n
+454,408,li,Fun Stuff For Designers,n
+457,408,li,Home Staging,n
+460,408,li,Graphic Design,n
+462,408,li,Student Photo Gallery,n
+465,396,div,,n
+467,465,div,Want to Learn More?,n
+469,465,p,Train for an exciting new career with online courses from NYIAD. Our free brochure will give you all the details.,n
+473,396,div,,n
+475,473,div,Popular Articles,n
+479,473,p,Your School Supply Checklist,n
+483,473,p,Writing a Jewelry Design Resume,n
+492,396,li,Student Success,n
+501,396,li,NYIAD Partners with Decorating Den Interiors to Offer Graduates a Pathway to an Interior Design Career,n
+505,0,div,,n
+506,505,div,,n
+508,506,span,Military Friendly School,n
+509,506,text,NYS Ed Better Business Bureau Accreditation,n
+512,505,div,,n
+513,512,div,,n
+515,513,p,Design Courses,n
+516,513,ul,,n
+518,516,li,Interior Design Course,n
+520,516,li,Graphic Design Course,n
+522,516,li,AutoCAD Course,n
+524,516,li,3D Modeling with SketchUp Course,n
+526,516,li,Event Planning Course,n
+528,516,li,Home Staging Course,n
+530,516,li,Personal Style Course,n
+532,516,li,Jewelry Design Course,n
+534,516,li,Wedding Planning Course,n
+536,516,li,Floral Design Course,n
+538,516,li,Landscape Design Course,n
+540,516,li,Front-End Web Development Course,n
+542,516,li,User Experience Design Course,n
+543,512,div,,n
+545,543,p,Admissions,n
+546,543,ul,,n
+548,546,li,Enroll Now,n
+550,546,li,Request Info,n
+552,546,li,Refund Policy,n
+554,546,li,Tuition,n
+556,546,li,How It Works,n
+558,546,li,FAQs,n
+559,512,div,,n
+561,559,p,About,n
+562,559,ul,,n
+564,562,li,Mission,n
+566,562,li,History,n
+568,562,li,Accreditation,n
+570,562,li,Military Benefits,n
+572,562,li,NYIAD Badges,n
+574,562,li,Social Media,n
+576,562,li,Partners,n
+578,562,li,Student Benefits,n
+580,562,li,Interior Design School,n
+582,562,li,Privacy Policy,n
+583,512,div,,n
+585,583,p,Articles,n
+586,583,ul,,n
+588,586,li,Article Archive,n
+590,586,li,Student Success Stories,n
+592,586,li,Newsletter,n
+594,586,li,Student Work,n
+598,586,li,Career Guides,n
+599,512,div,,n
+601,599,p,Student,n
+602,599,ul,,n
+604,602,li,Academic Catalog,n
+606,602,li,Make a Payment,n
+608,602,li,Contact Us,n
+610,602,li,Forum,n
+613,599,p,Mailing Address,n
+614,599,ul,,n
+616,614,li,Art and Design,n
+618,614,li,"41 East 11th Street, 11th Floor, Suite 66",n
+620,614,li,"New York, New York 10003",n
+622,505,div,Facebook Twitter Instagram Youtube Pinterest LinkedIn,n
+630,505,p,Do Not Sell My Personal Information .,n
+632,505,div,Art and Design All rights reserved,n

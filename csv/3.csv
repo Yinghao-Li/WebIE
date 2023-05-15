@@ -1,0 +1,55 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+7,5,h1,Required Boys Lacrosse Equipment!,n
+8,5,div,,n
+13,8,p,Required Boys Lacrosse Equipment,n
+17,8,p,,n
+18,17,text,lacrosse. Having the right,n
+20,17,br,"scoring the game-winning goal, winning the faceoff, or",n
+22,17,br,even protecting your body.,n
+28,8,p,required Boy’s lacrosse equipment:,n
+29,8,ul,,n
+30,29,li,,n
+34,30,span,Helmet – NOCSAE approved.** The LVJLC,n
+38,30,span,strongly,n
+42,30,span,encourages all boys to wear,n
+46,30,span,WHITE helmets,y
+55,29,li,Shoulder pads.,y
+60,29,li,Elbow pads.,y
+65,29,li,Gloves.,y
+70,29,li,Chest protector – NOCSAE Approved ** and throat guard .,y
+75,29,li,Complete Lacrosse Stick .,y
+80,29,li,Cleats or Sneakers.,y
+85,29,li,Mouthpiece that attaches to facemask.,y
+90,29,li,Athletic Supporter.,y
+98,8,p,,n
+99,98,text,"The above items can be purchased at any sporting goods store or lacrosse specialty store, such",n
+101,98,br,as Universal Lacrosse,n
+103,8,p,**Please note No hockey Equipment Allowed!,n
+106,8,div,,n
+108,106,h3,Share this,n
+110,106,ul,,n
+114,110,li,Click to share on Twitter,n
+118,110,li,Click to share on Facebook,n
+120,8,div,,n
+122,120,h3,Related,n
+123,120,div,,n
+124,123,p,,n
+126,124,span,Boys Shoulder Pads,n
+128,124,time,"March 4, 2022",n
+133,123,p,Apparel Store has RE-OPENED!,n
+140,123,p,"FUNDRAISER *Spring Flowers, Plants, Herbs*",n
+147,5,span,LVJLC,n
+149,5,span,-04T02:06:55+00:00,n
+150,5,div,,n
+152,150,h4,"Share This Story, Choose Your Platform!",n
+154,150,div,,n
+156,154,span,Facebook,n
+158,154,span,Twitter,n
+160,154,span,Reddit,n
+162,154,span,LinkedIn,n
+164,154,span,Tumblr,n
+166,154,span,Pinterest,n
+168,154,span,Vk,n
+170,154,span,Email,n

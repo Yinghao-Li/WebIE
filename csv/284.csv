@@ -1,0 +1,72 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,title,Fencing Gear and Equipment — Washington Fencing Academy,n
+16,0,p,"Due to our modified schedule, we are unlikely to get your phone message. Please e-mail instead!",n
+17,0,div,,n
+21,17,ul,,n
+23,21,li,Home,n
+24,21,li,,n
+27,24,label,WFA Info,n
+29,24,ul,,n
+31,29,li,Our Philosophy,n
+33,29,li,Coaches and Staff,n
+35,29,li,Contact-location,n
+36,21,li,,n
+39,36,label,Classes and Instruction,n
+41,36,ul,,n
+43,41,li,Free Intro Session,n
+45,41,li,Sign Up,n
+47,41,li,Group Lessons and Open Fencing,n
+49,41,li,Private Lessons,n
+51,41,li,Rates,n
+52,21,li,,n
+55,52,label,WFA News and Results,n
+57,52,ul,,n
+59,57,li,WFA News,n
+61,57,li,Upcoming Pac-NW Events,n
+63,57,li,Current Season Results,n
+65,57,li,Point Standings,n
+67,57,li,Season Results,n
+69,57,li,Past WFA Tournament Results,n
+70,21,li,,n
+73,70,label,Fencing Info and Resources,n
+75,70,ul,,n
+77,75,li,What is Fencing?,n
+79,75,li,Fencer Benefits,n
+81,75,li,Info,n
+83,75,li,Fencing Safety,n
+85,75,li,Fencing Gear and Equipment,n
+87,75,li,Fencing Links,n
+89,21,li,WFA Shop,n
+91,17,div,Menu,n
+96,17,div,,n
+101,96,div,,n
+103,101,p,"Fencing equipment is essential for practice and competition. We have rental equipment available for beginning classes, and we encourage fencers to acquire their own gear as their skills improve.",n
+105,101,p,"Beginning fencing? Normally you'll use our rental equipment for your class, including a mask, fencing weapon , protective jacket, underarm protector and glove. There is an equipment rental fee for a full-term class, and rental equipment is only used at the class .",n
+110,96,div,,n
+112,110,p,"Many people choose to purchase their own gear at some point. You may want to buy personal items, such as a glove or mask, even when you begin fencing. Or, you may wish to wait until you have completed your beginning fencing class and then have your own gear to continue fencing. Whether you become a recreational or competitive fencer, if you keep going you'll want to have your own ""stuff.""",n
+114,110,p,"Most fencing equipment is purchased online from various vendors around the country. Equipment can also be acquired at various national tournaments, of which there are several throughout the year. For a list of equipment vendors and their Web sites, see the ""links"" page.",n
+116,110,p,"We can guide you on purchasing gear that fits and works for you, and provides you with the safest possible and yet most affordable fencing experience. From shoes and gloves to masks and uniforms, there are a number of decisions that go into making the right purchase. While not the cheapest of all sports, many people find fencing to be surprisingly inexpensive.",n
+117,110,p,,n
+118,117,text,"and links to fencing equipment vendors, see our “",n
+120,117,strong,links,n
+121,117,text,” page.,n
+123,110,p,Here's a typical competitive fencer's equipment list,n
+124,110,ul,,n
+127,124,li,Mask,y
+130,124,li,Two or three weapons,y
+133,124,li,Glove,y
+136,124,li,Lamé,y
+139,124,li,Electrical body cords,y
+142,124,li,Long-sleeved jacket,y
+145,124,li,Knickers,y
+148,124,li,Long socks,y
+151,124,li,Court shoes,y
+154,124,li,"""Plastron,"" or underarm protector",y
+157,124,li,Breast protector,y
+160,124,li,Athletic cup,y
+163,124,li,Fencing equipment bag,y
+166,124,li,Basic tools,y
+184,17,div,,n
+186,184,p,Content copyright ©by Washington Fencing Academy Inc.,n
+188,184,p,Photos Copyright ©by serge timacheff,n

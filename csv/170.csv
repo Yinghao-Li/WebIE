@@ -1,0 +1,47 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+995,0,div,,n
+997,995,h1,Weaving Tools,n
+998,995,p,,n
+1000,998,strong,Ball Winder,y
+1001,998,text,"– Turns a skein or hank of yarn into a center pull ball . Typically used in combination with a yarn swift. Available as either manual or motorized, the size yarn ball produced will vary with the model of winder.",n
+1002,995,p,,n
+1004,1002,strong,Skeinwinder,y
+1005,1002,text,"– Device to wind a skein of yarn. Most skeinwinders can produce a skein from cones, balls, hanks, bobbins or existing skeins. Depending on the design and construction, a skeinwinder can produce skeins of varying lengths and sizes.",n
+1006,995,p,,n
+1008,1006,strong,Yarn Swift,y
+1009,1006,text,"– Device to hold a hank or skein of yarn without tangles as it is being wound off. Offered in a variety of designs, the most common of which is the umbrella swift. Swifts are typically used in conjunction with a yarn ball winder in order to transform a skein into a center pull ball of yarn. Commonly made of either wood or a combination of metal and plastic.",n
+1010,995,p,,n
+1012,1010,strong,Bobbin Winder,y
+1013,1010,text,"– Device that winds yarn onto a shuttle bobbin. Available in either manual or motorized models. A must have for weavers who want to spend more time weaving and less time loading shuttles with yarn. Similar in function, a quiller has a smaller shaft in order to wind yarn onto paper quills that are used for Damask Shuttles . Double-end winders are able to wind a range of items that include sectional warping spools, spinning wheel bobbins, pirns and quills .",n
+1022,995,p,,n
+1024,1022,strong,Cone Winder,y
+1025,1022,text,"– Device that winds yarn onto a cone. Useful for transforming yarn balls, bobbins and skeins into cones thereby making the yarn easier to process on a bobbin winder or warping board.",n
+1026,995,p,,n
+1028,1026,strong,Rag Rug Cutter,y
+1029,1026,text,"– Turns fabric goods into strips for a variety of crafting uses. These include rug hooking, rag weaving, rag rug making, braided rag rug making and the like. Higher end models are adjustable to produce a variety of strip widths.",n
+1030,995,p,,n
+1032,1030,strong,Temple,y
+1033,1030,text,"– Ensures a consistent weaving width as well as enabling a tight edge without “puckering” of the selvage on a loom. Think in terms of a weaving “brace” that stabilizes a project on the loom. Constructed of either wood or metal, most are adjustable across a variety of weaving widths.",n
+1034,995,p,,n
+1036,1034,strong,Weaving Bench,y
+1037,1034,text,"– Specially designed furniture that addresses the needs of weavers. Most will be height adjustable. Some are available with pitch adjustable seats for improved weaving ergonomics. Other options include storage areas, shelves or tool pockets.",n
+1038,995,p,,n
+1040,1038,strong,Weaving Needle,y
+1041,1038,text,"– A versatile tool that can be used to weave loose yarn ends to finish a project. They are also useful when adding interesting shapes or patterns into a tapestry weaving. Typically constructed of plastic, wood or metal.",n
+1042,995,p,,n
+1044,1042,strong,Weaving Sword,y
+1045,1042,text,– Typically used as a “spacer” to maintain an open shed. Commonly used for both Swedish and Navajo weaving styles. Can double as a batten to tighten up the weft into place,n
+1046,995,p,,n
+1048,1046,strong,Pick Up Stick,y
+1049,1046,text,– Used to “pick up” patterns in the warp when there are not enough shafts for the desired weaving pattern. These are typically used to manipulate warp threads on the back side of a rigid heddle. This manipulation enables a variety of weaving techniques.,n
+1051,995,p,Shop our selection and find all the weaving tools you need,n
+1054,995,p,"If you don't find exactly what you want, or would like a product recommendation, please call the shop directly at 800-441-9665 or contact us for assistance.",n
+1058,0,div,,n
+1060,1058,span,Close,n
+1062,1058,span,×,n
+1066,0,div,,n
+1073,1066,div,!,n
+1075,1066,div,,n
+1077,1075,button,OK,n
+1079,1075,button,Cancel,n

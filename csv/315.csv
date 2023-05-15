@@ -1,0 +1,366 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+6,0,div,,n
+218,6,div,,n
+219,218,div,,n
+220,219,div,,n
+225,220,h1,Coffee Shop Equipment List,n
+230,220,p,"You have a business plan, a great location, and the perfect name with an awesome logo to go with it, but now that it's time to supply your coffee shop , you're unsure of where to start. Even though specific requirements will vary from business to business, there are fundamental items new coffee shops require. To get an idea of the equipment needed when opening a coffee shop, take a look at the information below, or for a quick reference, check out our printable coffee shop equipment list!",n
+234,220,div,,n
+236,234,div,,n
+239,236,p,coffee shop equipment needed,n
+240,236,ol,,n
+242,240,li,"Coffee, Espresso, and Beverage Equipment",n
+244,240,li,Coffee Shop Cooking Equipment,n
+246,240,li,Coffee Shop Refrigeration and Warewashing Equipment,n
+248,240,li,Coffee Smallwares and Beverageware,n
+250,240,li,Coffee Shop Consumables,n
+252,240,li,Disposable Coffee Shop Supplies,n
+254,240,li,Coffee Equipment Cleaning and Maintenance Supplies,n
+255,234,div,,n
+258,255,h2,"Coffee, Espresso, and Beverage Equipment",y
+263,255,h3,Espresso Machine,y
+265,255,p,,n
+266,265,text,"The first step for any independent coffee shop is sourcing coffee beans that will give your drinks the distinct, fresh flavor that will define your brand. The second step is choosing an",n
+268,265,strong,espresso machine,y
+269,265,text,"that allows you to transform those beans into lattes, mochas, cappuccinos, and other specialty drinks. These espresso-based drinks will not only draw in customers, but they will boost your revenue more than selling cup after cup of plain, black coffee. While there is used equipment for sale, buying a new espresso machine is recommended since this will be the workhorse of your coffee shop.",n
+275,255,h3,Espresso Grinder,y
+278,255,p,"Grinding your beans in house and throughout the day is the key to creating the best drinks possible. In fact, grinding beans even 10 minutes prior to brewing can cause a noticeable decline in the flavor. But, why does freshly grinding coffee beans make such a difference? It increases the surface area of the bean and gives you access to the rich oils and soluble particles that create the distinct taste and aroma of different brews. Espresso grinders make the ultra-fine grind that espresso machines require.",n
+284,255,h3,Regular Coffee Grinder,y
+287,255,p,"Although customers who order specialty drinks will far outnumber the ones who prefer regular black coffee, it's important to accommodate all of your customers! A single grinder for both regular and decaf drip coffee can generally keep up with the lesser demand for this type of drink.",n
+293,255,h3,Coffee Brewers,y
+295,255,p,,n
+296,295,text,While one regular,n
+298,295,strong,coffee brewer,y
+299,295,text,"should be sufficient for the average coffee shop, there are plenty of types to choose from. Automatic brewers, pour over coffee machines, and coffee urns are a few of the many ways to brew and serve coffee.",n
+304,255,h3,"Decanters, Airpots, and Satellite Servers",y
+306,255,p,"Coffee often brews into glass decanters, but there are also airpot and satellite brewers which brew into vessels that can keep coffee hotter for longer. These are great options for a self-serve station.",n
+311,255,h3,Coffee Roasters,y
+313,255,p,Many coffee shops are starting to recognize the benefits of roasting their beans in-house instead of sourcing from a coffee roaster. Commercial coffee roasting equipment gives you more control over the roast of your beans.,n
+319,255,h3,Frappe and Smoothie Blenders,y
+321,255,p,,n
+322,321,text,"A blender with a sound shield is necessary so you can make frozen espresso-based drinks like iced lattes, frappes, and macchiatos. The sound shield allows you to use the blender without disturbing the ambiance at your business, which is especially important for small operations where there is little separation between the drink prep area and the seating area. A high-speed blender is recommended for a smoother consistency and faster service. Alternatively, you could also invest in a",n
+324,321,strong,granita machine,y
+325,321,text,iced or frozen coffee and tea at the ready!,n
+329,255,h3,,n
+331,329,strong,Iced Tea Brewers,y
+334,329,strong,Iced Tea Dispensers,y
+337,255,p,"From traditional iced tea to southern sweet tea, iced tea is a classic drink that customers love to sip in the summer. You can purchase an independent tea brewer dedicated to this type of beverage, but depending on the size of your coffee shop, you may also want to look into combination coffee and tea brewers to save on counter space. Once you've made tea, there are plenty of dispenser options to choose from as well.",n
+343,255,h3,Hot Water Dispenser,y
+346,255,p,"Although many coffee machines come with a built-in hot water faucet, a standalone hot water dispenser can increase your volume of boiling water and even clear up traffic jams caused by someone trying to make coffee and fill multiple mugs with hot water for tea at the same time. Since hot water is also used for many cleaning tasks, having hot water at the pull of a lever can also cut down on the time it takes to perform routine cleaning throughout the day.",n
+347,234,div,,n
+350,347,h2,Coffee Shop Cooking Equipment,y
+355,347,h3,Cooking Equipment,y
+357,347,p,,n
+358,357,text,"You may not be offering a four course meal, but these days coffee shops aren't just for coffee or even just for drinks. Fresh baked goods are a staple of many coffee shops, while breakfast and lunch sandwiches are becoming more and more prominent as well. Light cooking equipment like",n
+360,357,strong,countertop convection ovens,y
+363,357,strong,high speed ovens,y
+364,357,text,"are a great way to diversify your menu without making a huge space or financial investment. These units often don't require a hood, but check with your local authorities.",n
+365,234,div,,n
+368,365,h2,Coffee Shop Refrigeration and Warewashing Equipment,y
+373,365,h3,Reach-In Refrigerator,y
+376,365,p,"We recommend you invest in a reach-in refrigerator for your back-of-house area where you can store extra milk, drink garnishes, and smoothie ingredients. While a one section reach-in should give you plenty of storage space for beverage-related items, you may want to consider a larger unit if you're planning to serve food as well.",n
+380,365,h3,,n
+382,380,strong,Undercounter,n
+383,380,text,or,n
+385,380,strong,Worktop Refrigeration,y
+388,365,p,"Purchasing a larger, reach-in refrigerator for your back-of-house area to store extra refrigerated menu items is important, but what about the items you'll need to access frequently? Undercounter or worktop refrigeration units fit directly beneath your drink prep counter to give your baristas easy access to the supplies they need most often. Make sure that you adhere to any side or rear clearance requirements stated by the manufacturer to ensure that your unit runs as efficiently as possible.",n
+394,365,h3,Sandwich Prep Table,y
+397,365,p,"If you're offering sandwiches and salads, a small sandwich prep unit is important. These units provide you with a top rail to keep frequently used ingredients like cheese and lettuce close at hand, while the lower cabinet provides additional storage space that allows you to easily refill the top rail. Integrated cutting boards give you plenty of room to assemble your sandwiches and salads.",n
+403,365,h3,Ice Machine,y
+405,365,p,,n
+406,405,text,"Ice is an essential ingredient in smoothies, ice coffees, and other cold specialty drinks so having a reliable ice machine is essential. Ice machines are available in everything from small undercounter units that install directly beneath your countertop, to larger machines that produce more than 2,000 lbs. of ice per day. To learn more about the appropriate size machine for your application, check out our guide on",n
+408,405,strong,choosing the best commercial ice machine,n
+409,405,text,.,n
+415,365,h3,Display Case,y
+417,365,p,,n
+418,417,text,"Pastries, donuts, croissants, and other baked goods are the perfect snack to enjoy with a rich cup of coffee, so displaying them in a bakery display case right by your checkout gives you maximum marketing potential and increases impulse sales of these sweet treats. Bakery cases come in all shapes and sizes, as well as in refrigerated and dry versions. Consider what and how much you're planning to serve before purchasing a unit for your coffee shop. For the best of both worlds, consider a",n
+420,417,strong,dry and refrigerated bakery case,y
+421,417,text,where you can showcase your refrigerated and non-refrigerated desserts and baked goods at the same time.,n
+427,365,h3,Underbar Sink,y
+430,365,p,"An underbar sink fits directly under your counter and gives your baristas a convenient, efficient space where they can wash small hand tools, dump the remaining liquid from used mugs, and wash their hands. Many underbar units also come with drainboards that can be used to dry drinkware and other smallwares items. If you don't have the room for an underbar sink, you may want to consider an espresso bar that is outfitted with a pitcher rinser and or or dipping wells to offset the need for an actual sink.",n
+436,365,h3,3 Compartment Sink,y
+439,365,p,"Primarily for your back-of-house area, a 3 compartment sink is great for a number of tasks, from washing and sanitizing dishes to cleaning fresh fruits that will later be prepped and blended into smoothies. Bowl depths and type can vary from sink to sink, and you'll want to consider the type of faucet that will best suit your needs as well. For example, do you need a pre-rinse faucet for spraying down heavily soiled dishes or will a simple deck mount swing faucet do the trick? Most 3 compartment sinks come without a faucet attached, so you can purchase your ideal faucet and ensure the proper fit with your sink.",n
+445,365,h3,Commercial Dishwasher,y
+448,365,p,"Depending on your business's volume, a 3 compartment sink may take care of all of your dishwashing needs. However, purchasing a dish machine is another option. Undercounter dish machines are small, compact units that can process up to 35 racks of dishes per hour. For many cafes, an undercounter dish machine will be able to handle the volume of soiled dishes being returned to the kitchen. If noise in your front-of-house area is a concern or you believe an undercounter dish machine won't be large enough, a single rack dish machine may be a better choice. Check out our dishwasher sizing guide for more information!",n
+451,234,div,,n
+454,451,h2,Coffee Smallwares and Beverageware,y
+459,451,h3,Espresso Tampers,y
+462,451,p,"An espresso tamper is a small handheld tool that is used to compress ground espresso beans into the portafilter basket before brewing. Tamping the ground beans is a crucial part of producing the perfect shot of espresso because it ensures that the grounds are packed evenly inside the basket. Most tampers are made of metal, and some come with decorative handles for a customized feel. It's important to make sure that the size of the tamper matches the size of the portafilter baskets on your espresso machine.",n
+468,451,h3,Frothing Pitchers,y
+471,451,p,"Necessary for making specialty drinks like lattes and cappuccinos, frothing pitchers are used in conjunction with the steam wand on your espresso machine to foam the milk that is added to the shot of espresso during the drink making process. The convenient spout on the pitcher also allows your baristas to get creative while adding the milk to the espresso by making artful designs in the cup.",n
+477,451,h3,Knock Boxes,y
+480,451,p,"Having a knock box on hand to collect spent coffee and espresso grounds keeps wet, heavy grounds out of your trash can. A knock box has a bar across the middle so you can knock grounds out of the portafilter and basket for easy disposal.",n
+486,451,h3,Measuring Cups and Spoons,y
+489,451,p,"Having the right amount of every ingredient is crucial, so make sure you purchase plenty of measuring cups and spoons. Some manufacturers even make measuring scoops specifically for coffee applications.",n
+495,451,h3,Portion Scales,y
+497,451,p,,n
+498,497,text,Scales are important,n
+500,497,strong,mechanical portion control scale,y
+501,497,text,most coffee shops.,n
+507,451,h3,Syrup Pumps,y
+510,451,p,"Quality syrup pumps keep your flavoring syrups flowing and are designed to dispense a certain amount of syrup with one pump, so you can make consistent drinks every time. It also helps you better manage your inventory.",n
+516,451,h3,Frothing Thermometers,y
+519,451,p,Frothing thermometers are a great choice for a cafe because they are specially designed to attach to frothing pitchers to aid in precise temperature monitoring.,n
+525,451,h3,Timers,y
+528,451,p,"Timers are useful when your employees have to prepare multiple drinks at once. They can also monitor how long ago a particular coffee was brewed and alert you when it's time to brew a fresh pot. If you need to time many things at the same time, look into a timer that can be programmed to keep track of several ""events"" at once.",n
+534,451,h3,Coffee Mugs and Tea Cups,y
+537,451,p,"While many customers will take their coffee to-go, others will prefer to sit in your coffee shop as they peruse a book or browse on the free Wi-Fi. It's these customers who will expect their Americanos and lattes to be served in real, honest-to-goodness mugs. Sizes, shapes, and colors of mugs vary, but having the right amount on hand is the key.",n
+543,451,h3,Espresso Cups,y
+546,451,p,"Smaller than traditional mugs, espresso cups are designed to hold a 1 oz. shot of espresso or a 2 oz. double shot for customers who need an extra caffeine boost to get them through a late night of studying or an afternoon slump.",n
+550,451,h3,,n
+552,550,strong,Tea Ball Infusers,y
+555,550,strong,Lemon Wedge Bags,y
+558,451,p,"Designed to infuse delicious flavors into beverages without leaving any debris behind, these tea accessories will be a hit with tea drinkers who prefer loose leaf tea to bags. Plus, tea ball infusers allow you to serve loose leaf tea to your customers so they can steep their tea to their own tastes.",n
+563,451,h3,Dinnerware,y
+566,451,p,"Your dinnerware needs will vary greatly depending on the scope of the food you're planning to sell and the atmosphere you would like to establish in your coffee shop. Each type of material from china to melamine or wood has its benefits and drawbacks, so it's important to do your research and consider your menu before deciding what to buy.",n
+572,451,h3,Sugar Pourers,y
+575,451,p,"Simple and easy to use, sugar pourers let customers sweeten their drinks themselves, and they are easy to refill when they run low. While you can place a sugar pourer at every table, another option is to have a central location where customers can access sugar and other condiments before they sit down or head out the door.",n
+581,451,h3,Creamers,y
+584,451,p,"Everyone takes their coffee differently, and putting fresh cream at your condiment station or on the table is sure to win over even your most particular customers. Creamers come in all different capacities and materials so you can find the right style to match your coffee shop's image.",n
+590,451,h3,Condiment Organizers,y
+593,451,p,"Selling coffee means offering plenty of extras like sugar packets and creamers, and adding a condiment caddy to your business will keep your countertop organized. The amount of counter space in your coffee shop will help you determine the size of the organizer, or you can invest in small sugar caddies to place on each table.",n
+599,451,h3,"Cup, Lid, and Straw Organizers",y
+602,451,p,"Keeping cups, lids, and straws organized can be a challenge, but an organizer can help you reduce clutter and dispense these items in a more sanitary way. Plus, having cups and lids available in your serving area lets customers who are in a rush serve themselves from one of your airpots, pay, and be on their way.",n
+608,451,h3,Coffee and Beverage Labeling,y
+611,451,p,"How can your customers decide what kind of coffee they want if they don't know what's been brewed? Magnetic chalkboard labels are perfect for frequently changing drink menus, while pre-printed metal or wooden beverage signs are an easy labeling solution.",n
+617,451,h3,Aprons,y
+620,451,p,"Aprons not only protect your staff's clothing, they give your employees a more professional appearance. Plus, they come in a variety of colors and styles to fit in with your theme.",n
+626,451,h3,LED Signs,y
+629,451,p,"Hang a LED sign at your entrance to entice customers to come into your establishment and enjoy your offerings! The bold graphics and bright lighting will capture the attention of passersby to help draw in a crowd. Our Choice LED open and coffee signs boast energy-efficient 12W lights to ensure visibility up to 500 feet away, even in daylight and when placed behind glass. They use half the electricity of traditional, high-voltage neon lights and operate silently so customers won't hear the bothersome buzzing noise emitted with comparable signs. Plus, they operate under multiple display modes, allowing you to set it up according to your desired preference.",n
+637,451,h3,Retail Merchandisers,y
+640,451,p,"Beyond beverages, baked goods, and sandwiches, coffee shops are increasingly offering other options to fulfill every taste. An effective retail merchandiser can help treat customers to everything from fresh produce to bags of chips and single-serve portions of cereal.",n
+641,234,div,,n
+644,641,h2,Coffee Shop Consumables,y
+649,641,h3,Coffee and Espresso,y
+651,641,p,,n
+652,651,text,Used as a base,n
+654,651,strong,specialty coffee drinks,y
+655,651,text,", high-quality espresso has a thicker consistency and a higher concentration of caffeine than regular coffee, which is what gives it its bold flavor. Additionally, regular coffee is a staple in any coffee shop for on-the-go customers, so it's a good idea to have several different roasts, or even flavored varieties, on hand.",n
+660,641,h3,Milk,y
+662,641,p,"Many coffee shops go through just as much milk as they do coffee. Milk is an essential ingredient in the majority of specialty coffee and espresso drinks, so storing some in your undercounter refrigerator for quick access is ideal. Your larger reach-in refrigerator is perfect for storing a backup supply of regular milk, half and half, and other dairy products.",n
+667,641,h3,Tea Bags or Loose Tea,y
+669,641,p,"Tea is a refreshing and versatile drink that can be served hot or cold depending on the season and the preference of your customers. Standard black, white, and green tea, fruity or herbal teas, and special organic options are all available in tea bags or loose tea.",n
+675,641,h3,Chai,y
+678,641,p,"While Chai is a type of tea, it is in a category all its own! Full of naturally energizing botanicals, Chai is a popular drink around the world, and with the addition of milk and espresso, you can even make hot Chai lattes or cool frappes topped with whipped cream.",n
+684,641,h3,Hot Chocolate,y
+687,641,p,"Hot cocoa has transformed over the years from a simple treat into a gourmet beverage, and this classic winter favorite can be enjoyed all year round!",n
+693,641,h3,Flavoring Syrups,y
+696,641,p,"Whether you only want to offer traditional favorites like French vanilla and caramel or more unique flavors like toasted marshmallow and toffee, you can give your customers the ability to customize their drinks by stocking flavoring syrups. Plus, syrups allow you to promote holiday favorites like peppermint and pumpkin spice!",n
+702,641,h3,Sweeteners,y
+705,641,p,"Sweeteners allow your customers to sweeten their drinks to their own individual tastes. Whether you want to place small caddies on individual tables or maintain one central condiment station, offering a variety of options will let customers add their preferred amount of sweetness to their morning coffee or afternoon pick-me-up.",n
+706,234,div,,n
+709,706,h2,Disposable Coffee Shop Supplies,y
+714,706,h3,Paper Hot Cups and Lids,y
+717,706,p,"Cups come in a variety of colors, materials, and styles. Perhaps you like the look of a plain white paper cup to one with a coffee design or maybe you'd prefer an insulated, eco-friendly version that eliminates the need for sleeves and ups your ability to recycle. The most common coffee cup sizes are 12 oz., 16 oz., and 20 oz., but you can find everything from 4 oz. to 24 oz. sized cups.",n
+723,706,h3,Plastic Cups and Lids,y
+726,706,p,"Similar to paper hot cups, plastic cold cups are offered in all different sizes, materials, and colors. If you plan to serve smoothies and take-out iced coffees, you may want to look into a heavier duty option like PET heavy wall cold cups with lids. However, if you need something simple for in-house cups of water, thin wall cups will do just fine.",n
+732,706,h3,Custom Coffee Sleeves,y
+735,706,p,"Purchasing coffee sleeves can reduce costs by eliminating the need to double cup hot drinks. Plus, they protect customers' hands from burns and help to insulate the contents of the cup. Make sure you buy sleeves that will fit the size cup you sell. We even offer customizable coffee sleeves, so you can add your logo to each cup that goes out the door for an additional boost to your advertising!",n
+741,706,h3,Straws and Stirrers,y
+744,706,p,"For customers who prefer cream and sugar in their coffee, straws and stirrers are a must! This simple addition to your condiment station will allow customers to blend their drinks to perfection. They come in materials from plastic to wood and also vary in length and color.",n
+750,706,h3,Napkins,y
+753,706,p,"When drips and spills do occur, having plenty of napkins on hand will be a lifesaver. Keep them on the table in napkin dispensers or in one common location next to your condiment station. We even offer a wide variety of beverage napkins in bright colors to match your logo or enhance your themed event when you host customers in house.",n
+759,706,h3,Coffee Filters,y
+762,706,p,"Filters are generally made of semi-permeable paper that allows liquids through but not solids and will not disintegrate when wet. This prevents coffee grounds from making their way into your finished product. Coffee filters come in a variety of sizes to fit different brewers, so it's important to be clear on what size your coffee maker requires before ordering. Environmentally friendly options in addition to standard white filters are available for purchase.",n
+768,706,h3,Take-Out Cup Carriers,y
+771,706,p,"For the friend charged with getting coffee for the group, take-out cup carriers make carrying all of those orders much easier. Depending on the drink sizes you offer, you may want to invest in small and tall cardboard drink carriers or traditional pulp fiber carriers where size isn't a factor.",n
+777,706,h3,Coffee To Go Boxes,y
+780,706,p,"To go boxes cater to customers who want a larger take out option for office parties, retirement parties, or small family gatherings. Some of these products feature a spout that dispenses coffee, while others require the coffee to be poured from the box. There are to go boxes that also feature a storage compartment for you to send cups, condiments, and other necessities for that extra touch.",n
+786,706,h3,Plastic Flatware,y
+789,706,p,"If you're planning to serve food, disposable flatware lets you send it along with to go customers who order a pastry with their coffee and cuts down on dishes so you can minimize clean up time. Heavy weight plastic flatware is the most durable option, but for some applications, medium weight flatware or regular plastic flatware will work just fine.",n
+790,234,div,,n
+793,790,h2,Coffee Equipment Cleaning and Maintenance Supplies,y
+796,790,h3,,n
+798,796,strong,Coffee Equipment Cleaners,y
+801,796,strong,Coffee Pot Cleaners,y
+804,790,p,"Commercial coffee brewers should be cleaned every night to prevent the buildup of coffee debris and oils inside the machine or carafe that can cause off taste and smell if left to accumulate for too long. Cleaning the inside of your machine with a special cleaner, wiping down spray heads and external parts, and thoroughly washing any removable parts helps to extend the life of your machines. These types of cleaners and sanitizers are available in everything from liquid to powder to tablets.",n
+810,790,h3,Espresso Equipment Cleaners,y
+813,790,p,"The best way to clean your commercial espresso machine is to backflush it with a specialized cleaner at the end of every night. This prevents the buildup of espresso grounds and their oils in the group heads, shower screens, and portafilter baskets, which not only improves the quality of your drinks but also extends the life of your equipment. Soaking portafilters and baskets once a week in a mixture of the same cleaner and water is also recommended.",n
+819,790,h3,Milk Frother or Steam Wand Cleaners,y
+822,790,p,"Cleaning the equipment that comes in contact with dairy products is doubly important, and these cleaners are specially designed to break down milk protein buildup to keep your machines sanitary.",n
+828,790,h3,Beverage Equipment Cleaning Brushes,y
+831,790,p,Brushes allow you to clean tough stains more easily as well as get into the cracks and crevices that are often missed during regular cleaning.,n
+837,790,h3,Espresso Machine Maintenance Kit,y
+840,790,p,"This isn't a specific kit, per se, but keeping items like a stubby flathead screwdriver and an awl on hand to tighten screws and change gaskets on your machines will allow your staff to complete small maintenance tasks quickly and get back to serving your customers.",n
+846,790,h3,Trash Cans and Recycling Bins,y
+849,790,p,Trash cans and wastebaskets are essential to keep both employee areas and public space within your coffee shop clean. Adding a trash can and recycling bin near your condiment station and near the exit is a good way to encourage your customers to keep tables and other common areas trash-free. Having several bins located in key places in your back-of-house space allows your employees to work more efficiently. Don't forget to purchase liners and garbage bags to make taking out the trash a more efficient process.,n
+850,234,div,,n
+852,850,h2,Coffee Shop Water Filtration,y
+857,850,h3,Water Filters,y
+860,850,p,"The basic ingredient of any drink is water, so installing a water filter will improve the flavor, smell, and overall appearance of your products. Additionally, many filters remove sediment and reduce scale build-up to protect the inner components of your equipment, which cuts down on maintenance and prolongs the life of your brewers.",n
+863,850,br,Back to Top,n
+864,219,div,,n
+866,864,p,Related Resources,n
+867,864,div,,n
+869,867,span,,n
+871,869,p,Coffee Grind Size Chart,n
+873,869,p,"The perfect cup of coffee starts with the perfect grind. Just like there are multiple types of coffee roasts , there are multiple grind consistencies and methods. Our comprehensive coffee grinding guide outlines everything you need to know about grinding coffee beans. Shop All Commercial Coffee Grinders Click below to learn everything you need to know about grinding coffee: Different Coffee Grinds Coffee Grind Size Chart Types of Coffee Grinders How to Store Ground Coffee Coffee Extraction Explained Types of Coffee Grinds Discover the types of coffee grinds baristas prepare and how how they brew each one. After learning about the different coffee grinds and their extraction rate , use our coffee maker guide to pick the best brewing equipmen",n
+875,867,span,,n
+877,875,p,What is Fair Trade Coffee?,n
+879,875,p,"If you love coffee, you have likely heard about fair trade. From Starbucks to Whole Foods, more and more corporations are offering fair trade coffee. Fair trade merchandise ranges from clothing to consumables, with coffee being one of the most common commodities. But what exactly is fair trade, and why is it so popular? What is fair trade? Fair Trade is a movement that promotes fair pay and ethical treatment for producer groups in developing countries when they export their goods to the developed world. It is regulated by a set of standards set in place by non-profit, third party fair trade associations who award certifications to companies that adhere to the 10 principles of fair trade. Obstacles in Developing Countries Few Jobs- In areas",n
+881,867,span,,n
+883,881,p,Coffee Brewing Methods,n
+885,881,p,"Java, Joe, liquid energy, and brew are just some of the terms used to describe one of the world's most highly consumed beverages - coffee. Did you know different coffee brewing methods affect the taste and aroma of your coffees? Understanding the types of brewing methods helps you choose the right coffee equipment for your business and improves your staff's knowledge and success! Shop All Coffee Shop Equipment Click below to learn about different ways to make coffee: Drip Coffee French Press Coffee Espresso Machine Coffee Pourover Coffee Cold Brew Coffee Ways to Make Coffee Once coffee beans have been harvested and roasted, it's time to convert them into a liquid. Understanding the different brewing methods is essential when running a succe",n
+893,218,ul,,n
+894,893,li,,n
+895,894,text,Topics,n
+897,894,span,1106,n
+899,893,li,Industrial,n
+902,893,li,,n
+903,902,text,Restaurant Management,n
+905,902,span,115,n
+906,893,li,,n
+907,906,text,Bar Management,n
+909,906,span,51,n
+911,893,li,Catering Tips,n
+914,893,li,,n
+915,914,text,Bakery Management,n
+917,914,span,38,n
+918,893,li,,n
+919,918,text,Food Trucks and Concessions,n
+921,918,span,48,n
+923,893,li,Advertising and Marketing,n
+927,893,li,Eco-Friendly Tips,n
+931,893,li,Facility Layout and Design,n
+935,893,li,Coffee Shop Tips,n
+938,893,li,,n
+939,938,text,Installation and Maintenance,n
+941,938,span,44,n
+942,893,li,,n
+943,942,text,Janitorial and Pest Control,n
+945,942,span,30,n
+946,893,li,,n
+947,946,text,Safety and Sanitation,n
+949,946,span,73,n
+953,893,li,97,n
+955,893,li,Menu Design,n
+958,893,li,,n
+959,958,text,Kitchen and Cooking Tips,n
+961,958,span,55,n
+963,893,li,Hospitality Management,n
+966,893,li,,n
+967,966,text,Pizza and Sandwich Shop Tips,n
+969,966,span,33,n
+971,893,li,Smallwares,n
+974,893,li,,n
+975,974,text,Food Prep,n
+977,974,span,68,n
+978,893,li,,n
+979,978,text,Tabletop Items,n
+981,978,span,15,n
+983,893,li,Disposables,n
+986,893,li,,n
+987,986,text,Calculators and Tools,n
+989,986,span,5,n
+991,893,li,Consumables,n
+994,893,li,,n
+995,994,text,Warewashing and Laundry,n
+997,994,span,18,n
+998,893,li,,n
+999,998,text,Cooking Equipment,n
+1001,998,span,75,n
+1002,893,li,,n
+1003,1002,text,Food Storage and Refrigeration,n
+1005,1002,span,39,n
+1007,893,li,Beverage Equipment,n
+1010,893,li,,n
+1011,1010,text,Office Supplies,n
+1013,1010,span,6,n
+1015,893,li,See More,n
+1017,218,ul,,n
+1018,1017,li,,n
+1019,1018,text,Resource Type,n
+1021,1018,span,613,n
+1022,1017,li,,n
+1023,1022,text,In-Depth Articles,n
+1025,1022,span,212,n
+1026,1017,li,,n
+1027,1026,text,Buying Guides,n
+1029,1026,span,246,n
+1030,1017,li,,n
+1031,1030,text,How-Tos,n
+1033,1030,span,95,n
+1034,1017,li,,n
+1035,1034,text,Product Reviews,n
+1037,1034,span,60,n
+1039,218,div,,n
+1041,1039,div,Email,n
+1043,1039,p,Join Our Mailing List,n
+1045,1039,p,Receive coupon codes and more right to your inbox.,n
+1063,6,div,,n
+1083,1063,div,,n
+1085,1083,div,,n
+1087,1085,p,Get our latest deals and more.,n
+1088,1085,div,,n
+1093,1088,div,Sign Up,n
+1095,1088,p,Shop our latest deals,n
+1100,1083,div,,n
+1102,1100,p,Food Service Resources,n
+1104,1100,p,"Tips, guides, and advice",n
+1105,1100,text,Explore Resources,n
+1107,1063,div,,n
+1108,1107,div,,n
+1112,1108,span,Restaurant Supplies and Equipment,n
+1114,1108,p,"Based in Lancaster, PA. WebstaurantStore is the largest online restaurant supply store servicing professionals and individual customers worldwide. With hundreds of thousands of products available and millions of orders shipped, we have everything your business needs to function at its best. Over the years we have expanded our selection of commercial equipment and wholesale supplies to include healthcare, educational, food, beverage, office, parts, hotel, shipping, and industrial supplies.",n
+1116,1108,p,"Our focus is your convenience – order online from your laptop, desktop, or smartphone 24 hours a day, 7 days a week. Our fast shipping, low prices, and outstanding customer service make WebstaurantStore the best choice to meet all of your professional and food service supply needs.",n
+1121,1107,div,,n
+1123,1121,h3,Leave us feedback!,n
+1124,1121,div,,n
+1126,1124,label,* How can we improve your experience?,n
+1128,1124,div,,n
+1130,1128,label,* Email Address,n
+1132,1128,p,We can only reply to comments that include an email address.,n
+1136,1121,div,,n
+1138,1136,span,"There was a problem submitting the request, please try again.",n
+1139,1136,div,,n
+1141,1139,button,Submit Feedback,n
+1142,1139,p,,n
+1143,1142,text,This form is protected by reCAPTCHA and the Google,n
+1145,1142,br,Service apply.,n
+1150,1063,div,,n
+1151,1150,div,,n
+1152,1151,nav,,n
+1154,1152,h3,Services,n
+1155,1152,ul,,n
+1157,1155,li,WebstaurantPlus,n
+1159,1155,li,Webstaurant Rewards,n
+1161,1155,li,Food Service Design,n
+1163,1155,li,Customize Your Supplies,n
+1165,1155,li,Virtual Tabletop Designer,n
+1167,1155,li,Recipe Resizer,n
+1168,1151,nav,,n
+1170,1168,h3,Resources,n
+1171,1168,ul,,n
+1173,1171,li,Scratch and Dent Outlet,n
+1175,1171,li,Weekly Sales,n
+1177,1171,li,Coupons,n
+1181,1171,li,Blog,n
+1183,1171,li,WebstaurantStore Reviews,n
+1184,1151,nav,,n
+1186,1184,h3,About,n
+1187,1184,ul,,n
+1189,1187,li,About Us,n
+1191,1187,li,Our Brands,n
+1193,1187,li,Careers,n
+1195,1187,li,Scholarship,n
+1197,1187,li,Sell on Webstaurant,n
+1198,1151,nav,,n
+1200,1198,h3,Contact Us,n
+1201,1198,ul,,n
+1203,1201,li,Help Center,n
+1205,1201,li,Chat Online,n
+1207,1201,li,Track My Order,n
+1209,1201,li,Shipping and Delivery,n
+1211,1201,li,Return Policy,n
+1212,1151,nav,,n
+1214,1212,h3,Privacy and Use,n
+1215,1212,ul,,n
+1217,1215,li,Sale,n
+1219,1215,li,Privacy Policy,n
+1221,1215,li,Use,n
+1223,1215,li,Accessibility Policy,n
+1225,1215,li,Do Not Sell My Personal Information,n
+1227,1150,p,,n
+1228,1227,text,©WebstaurantStore Food Service Equipment and Supply Company — All Rights Reserved.,n
+1232,1227,span,Variation ID,n

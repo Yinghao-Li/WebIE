@@ -1,0 +1,61 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+7,5,p,« Go Back,n
+9,5,div,,n
+10,9,div,,n
+13,10,p,Do you like to tackle your own home improvement and woodworking projects?,n
+17,10,p,Maybe there’s a DIY-er in your family who spends more time in the workshop than in the house!,n
+19,10,p,"If working on home projects is more than just a hobby, you probably need a few tools to round out your collection.",n
+21,10,p,"To help you along, we’ve compiled a list of must-have tools for home improvement projects that should be part of any workshop or garage collection to help get things done faster, easier, and better .",n
+25,10,h2,1 Level,y
+29,10,p,"Nobody can accurately “eyeball” something to tell whether it’s level or not, and slight errors will make frames, shelving, floorboards, or other objects look completely off-line. This tool takes all the guesswork away. In fact, it can’t hurt to have several levels of various lengths.",n
+33,10,h2,2 Putty Knife,y
+37,10,p,"A putty knife is great for scraping dry glues and paints and for spreading putty, paste and spackle. Having a 1½-inch size for scraping and a 5- or 6-inch one for spreading is infinitely helpful, and will pay itself back quickly over the years.",n
+41,10,h2,3 Reciprocating Saw,y
+46,10,p,"If you’re cutting wood for any number of home improvement and DIY projects , you will find that a reciprocating saw is an essential workshop tool. A reciprocating saw is an all-in-one tool that can take the place of several others. It uses a pull and push blade motion to cut in hard-to-reach places where no other type of saw can fit.",n
+52,10,h2,4 Hammer,y
+56,10,p,"Pounding nails, pulling nails, tapping things into place — it almost goes without saying that you need a quality hammer. An expensive hammer is long and lightweight; its leverage can assist you when you take that wall down.",n
+60,10,h2,5 Power Drill,y
+64,10,p,"Drilling implies creating holes, and a power drill is the ultimate luxury when tired hands have turned too many screws. It adapts not only to drill bits to bore holes, but also to every kind of screw-head bit, making larger projects go quickly and with less muscle. Just be careful to stop when the fastener is tight, so you don’t strip the screw head. You will appreciate this tool’s power.",n
+68,10,h2,6 Utility Knife,y
+72,10,p,"From cutting paint around windows that are stuck closed to opening boxes, scoring drywall or even trimming the edges of carpet, the uses are so many that you’ll be surprised how you ever got by without one.",n
+76,10,h2,7 Cordless Grinder,y
+80,10,p,"For metal cutting, smoothing or grinding, nothing but a cordless grinder will do! If your projects involve masonry or concrete with misplaced re-bar or anchor bolts, this handy tool will prove quite the workhorse over time. Or slice through plaster or stucco without ripping out the expanded metal lath.",n
+86,10,h2,8 Nail Set,y
+90,10,p,"A nail set is used for sinking nail heads below the surface of the wood, so that you can then fill the hole with wood putty and sand it, to make the nail disappear. This way the hammer never has to make an ugly dent in the surface you are pounding.",n
+94,10,h2,9 Tape Measure,y
+98,10,p,"Your tape measure is indispensable for estimating material quantities, figuring out placement of objects, and calculating floor plans and furniture sizes. It’s always a good idea to measure more than once to make sure you’ve got it right.",n
+102,10,h2,10 Miter Saw,y
+107,10,p,"A miter saw has a specialized blade that allows you to cut at a variety of angles, making it easily one of the most useful tool in the workshop. Making cuts for crown molding, picture frames, door frames, or window casings? A miter saw is your tool! The saw blade is mounted on a swing arm that pivots left or right to produce the perfect angled cuts each and every time.",n
+113,10,h2,11 Phillips Screwdriver,y
+117,10,p,"A Philips or X-shape screwdriver is probably one of the most common tools in any toolbox. If you have a have a handle that accepts interchangeable tips, you can cover a wide range of screw types and sizes.",n
+121,10,h2,,n
+122,121,text,11,n
+124,121,strong,Flathead Screwdriver,y
+127,10,p,,n
+128,127,text,"A flathead or straight screwdriver is invaluable; most light switch plates use straight screws, for example. Having the right size flathead can make a difference, so start with at least a set of three",n
+130,127,br,to be able to handle most jobs.,n
+132,10,p,,n
+133,132,text,Looking,n
+135,132,strong,"Visit your local GNH Lumber today to browse our selection of DeWALT, Stanely, Bostitch and Paslode hand and power tools!",n
+158,9,li,Share,n
+159,5,nav,,n
+161,159,span,Post navigation,n
+162,159,div,,n
+163,162,div,,n
+165,163,span,←,n
+166,163,text,Planning a Perfect Deck,n
+167,162,div,,n
+168,167,text,How to Clean and Maintain…,n
+170,167,span,→,n
+177,0,text,Scroll Up,n
+184,0,label,Not a robot,n
+185,0,div,,n
+187,185,span,X,n
+189,185,button,Subscribe now,n
+195,185,div,,n
+205,195,p,,n
+206,205,text,Email,n
+208,205,span,*,n
+220,195,p,Δ,n

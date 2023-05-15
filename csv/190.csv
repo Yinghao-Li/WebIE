@@ -1,0 +1,136 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+3,2,div,,n
+6,3,p,There’s nothing more frustrating than preparing to bake a delicious new recipe only to discover you’re missing one of the key ingredients.,n
+8,3,p,"Whether you’re stocking your pantry for the first time or beginning to bake more frequently, it’s crucial to have basic baking ingredients on-hand so that you can whip up a batch of cookies, muffins, or brownies with ease.",n
+9,3,p,,n
+10,9,text,What are the 7 basic baking ingredients?,n
+12,9,strong,"The essential ingredients consists of flour, leaveners, salt, sugar, dairy, fats, extracts, spices and other add-ins such as vanilla extract, and chocolate chips.",n
+14,3,p,This comprehensive list of the seven essential baking ingredients will keep your mid-recipe emergency grocery store trips to a minimum so you can keep your sweet tooth cravings satisfied to the maximum!,n
+17,3,h2,What are the basic baking ingredients?,n
+20,3,h3,Flour,y
+22,3,p,Flour provides the structure,n
+23,3,p,,n
+24,23,text,your baking pantry. We recommend having,n
+26,23,strong,all-purpose flour,n
+27,23,text,"on-hand because its light, fluffy texture is perfect for cookies, cakes, muffins, cupcakes, bread, and more!",n
+29,3,p,"If you’re looking to expand your flour selection, add the following options to your pantry:",n
+30,3,ul,,n
+31,30,li,,n
+33,31,strong,Whole Wheat Flour,y
+34,31,text,"—A denser, healthier replacement",n
+35,30,li,,n
+37,35,strong,Bread Flour,y
+38,35,text,—The higher protein content in bread flour works great when used,n
+39,30,li,,n
+41,39,strong,Cake Flour,y
+42,39,text,"—The lower protein content in cake flour works great to make light, spongey cakes.",n
+43,30,li,,n
+45,43,strong,Cornstarch,y
+46,43,text,"—Finely ground corn flour is used to thicken sauces, fillings, and puddings.",n
+47,30,li,,n
+49,47,strong,Gluten-Free Flours,y
+50,47,text,"—Nut and seed flours, like almond flour, coconut flour, oat flour, and other gluten-free options are great for allergy-friendly baking.",n
+52,3,p,You can store flour in an airtight container at room temperature,n
+55,3,h3,Leaveners,y
+57,3,p,Leaveners create chemical reactions in your baked goods that cause them to expand and rise. You’ll need these essential leaveners for almost every recipe:,n
+58,3,ul,,n
+59,58,li,,n
+61,59,strong,Baking Soda,y
+62,59,text,"—Baking soda is a base, so it needs to interact with an acidic ingredient, like buttermilk, lemon, or yogurt, to create carbon dioxide and cause your baked good to rise.",n
+63,58,li,,n
+65,63,strong,Baking Powder,y
+66,63,text,"—Baking powder contains baking soda, cornstarch, and cream of tartar, an acidic ingredient. You don’t need an acidic ingredient in your recipe when using baking powder for your baked goods to rise.",n
+68,3,p,You can store leaveners in your pantry at room temperature.,n
+71,3,h3,Salt,y
+72,3,p,,n
+73,72,text,"Plain, old",n
+75,72,strong,iodized table salt,n
+76,72,text,is generally the best choice,n
+78,3,p,"However, some bakers may prefer to use kosher salt or sea salt , depending on the recipe.",n
+83,3,h3,Sugar,y
+85,3,p,Baked goods wouldn’t be baked goods without sugar! Here are the essential sugars you’ll need in your pantry at all times:,n
+86,3,ul,,n
+87,86,li,,n
+89,87,strong,Granulated Sugar,y
+90,87,text,"—Basic, white sugar that’s been stripped of its natural molasses and is used in most baked goods.",n
+91,86,li,,n
+93,91,strong,Brown Sugar,y
+94,91,text,"—Dark, moist sugar with molasses added. Light brown sugar has less molasses, while dark brown sugar has more molasses.",n
+95,86,li,,n
+97,95,strong,Powdered Sugar,y
+98,95,text,—Finely ground granulated sugar combined with starch that’s used to make frosting and icing.,n
+100,3,p,If you’re looking,n
+101,3,ul,,n
+102,101,li,,n
+104,102,strong,Natural Sugars,y
+105,102,text,"—Honey, maple syrup, coconut sugar, and agave syrup are all-natural sweetener options that many healthy recipes will use in place of sugar.",n
+106,101,li,,n
+108,106,strong,Sanding Sugar,y
+109,106,text,"—Use these large, colorful granulated sugar crystals to give your baked goods a beautiful appearance!",n
+111,3,p,sugar you are storing.,n
+116,3,h3,Dairy,y
+117,3,p,,n
+118,117,text,"Although it’s not used in every recipe, having",n
+120,117,strong,whole milk,y
+121,117,text,on-hand is great,n
+123,3,p,Other dairy ingredients you may want to consider having on-hand include:,n
+124,3,ul,,n
+125,124,li,,n
+127,125,strong,Buttermilk,y
+128,125,text,"—Buttermilk is an acidic ingredient that reacts with baking soda to make muffins, cakes, and pancakes fluffy and tender.",n
+129,124,li,,n
+131,129,strong,Sour Cream or Yogurt,y
+132,129,text,"—Sour cream and yogurt are also acidic dairy ingredients that react with baking soda to add moisture and flavor to muffins, cakes, and cupcakes.",n
+133,124,li,,n
+135,133,strong,Cream Cheese,y
+136,133,text,"—If you make many homemade cream cheese frostings or cheesecakes, this is an important dairy product to have on hand.",n
+137,124,li,,n
+139,137,strong,Heavy Cream,y
+140,137,text,—You can make a lot with heavy cream—including whipped cream!,n
+141,124,li,,n
+143,141,strong,Alternative Milks,y
+144,141,text,"—Use almond, coconut, oat, and soy milk in place of dairy milk for a lactose-free substitute. This article from The Spruce Eats explains best practices for using alternative milks when baking.",n
+148,3,p,Dairy products should be refrigerated—and always check the expiration date before using a dairy-based product to verify it hasn’t spoiled.,n
+151,3,h3,Fats,y
+153,3,p,Fats help to bind your baked goods together and contribute to their moist texture. Here are a few fat-based ingredients you’ll always want to have in your pantry or refrigerator:,n
+154,3,ul,,n
+155,154,li,,n
+157,155,strong,Eggs,y
+158,155,text,"—As a significant binding agent, most recipes will call",n
+159,154,li,,n
+161,159,strong,Butter,y
+162,159,text,"—Butter gives your cookies, pie crusts, and cakes a rich, flavorful taste. We recommend using unsalted butter to control the amount of salt in your recipe.",n
+163,154,li,,n
+165,163,strong,Oil,y
+166,163,text,"—Oil is another staple fat that adds moisture to your baked goods. You can bake with coconut, olive, vegetable, canola, or other oils , depending on your preferences.",n
+170,3,p,"Eggs and butter last the longest when stored in the refrigerator, but you can keep most oils in your pantry.",n
+173,3,h3,"Extracts, Spices and Add-Ins",y
+175,3,p,You can’t bake anything tasty without all the ingredients that make your desserts flavorful and fun!,n
+177,3,p,"Here are some extracts, spices, and add-ins you should always have on-hand:",n
+178,3,ul,,n
+179,178,li,,n
+181,179,strong,Vanilla Extract,y
+182,179,text,flavor and warmth to your baked goods.,n
+183,178,li,,n
+185,183,strong,Cinnamon,y
+186,183,text,"—Every baker should have cinnamon on-hand to spice up cookies, muffins, pies, and other treats. During the fall, consider having a pumpkin pie seasoning in your pantry, as well.",n
+187,178,li,,n
+189,187,strong,Cocoa Powder,y
+190,187,text,"—Chocolate cake, puddings, and brownies will all require cocoa powder to create the chocolatey flavor.",n
+191,178,li,,n
+193,191,strong,Chocolate Chips,y
+194,191,text,"—You can’t have chocolate chip cookies without chocolate chips! Most add-ins aren’t pantry staples, but it doesn’t hurt to keep a bag of chocolate chips around at all times.",n
+196,3,p,"Consider keeping your favorite dried fruits and nuts, coconut, oats, jams, jellies, and nut butters on-hand to bake various muffins, pies, cookies, and other delicious baked goods in a pinch without adding extra items to your grocery list.",n
+199,3,h4,Your Baking Pantry,n
+201,3,p,"Whether you’re making a classic family favorite or trying a brand-new recipe, you’ll never escape using these baking staples.",n
+203,3,p,"Now that you know which ingredients you should have on-hand, you can start stocking your pantry and refrigerator so you’ll be prepared to bake something sweet and delicious at a moment’s notice!",n
+204,2,footer,,n
+205,204,span,,n
+208,205,span,Categories,n
+209,205,text,Uncategorized,n
+210,204,nav,,n
+212,210,span,Post navigation,n
+216,210,div,Soft and Chewy White Chocolate Chip Cookies,n
+220,210,div,16 Essential Baking Tools,n

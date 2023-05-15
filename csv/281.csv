@@ -1,0 +1,180 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+8,3,h1,Lamé,n
+9,3,div,,n
+11,9,div,"From Wikipedia, the free encyclopedia",n
+15,9,text,Jump to navigation Jump to search,n
+17,9,div,,n
+18,17,div,,n
+20,18,div,"For other uses, see Lamé .",n
+29,18,div,,n
+30,29,text,This article does not cite any sources .,n
+36,29,span,,n
+37,36,text,Please help improve this article by adding citations to reliable sources . Unsourced material may be challenged and removed .,n
+47,36,span,Find sources,n
+62,29,span,December 2007,n
+67,29,span,Learn how and when to remove this template message,n
+73,18,div,Foil fencers wearing different colored lamés,n
+75,18,p,"In fencing , a lamé is an electrically conductive jacket worn by foil and sabre fencers in order to define the scoring area . Foil lamés, although traditionally a metallic grey, are becoming more and more popular in an array of colors. In foil, the lamé extends on the torso from the shoulders to the groin area, including the back. In sabre, the lamé covers both arms, the torso from the shoulders to the waist, and the back. Lamés used in higher-level competitions usually have the last name and country of their owner printed in blue across the back. In addition, sabre fencers wear masks that allow them to register head touches, and manchettes , which are conductive glove covers, on their weapon hand. Lamés are wired by use of a body cord to a scoring machine, which allows the other person's weapon to register touches when their tips contact the lamé. Lamés are most commonly made of a polyester jacket, overlain with a thin, interwoven metal, usually steel or copper, which gives them a metallic grayish look.",n
+90,18,h2,,n
+92,90,span,External links,n
+93,90,span,,n
+95,93,span,[,n
+96,93,text,edit,n
+98,93,span,],n
+101,18,li,lamé at Wiktionary,n
+107,18,div,,n
+109,107,tr,,n
+111,109,span,hide,n
+124,109,div,Fencing,n
+128,107,ul,,n
+130,128,li,fencing,n
+132,128,li,fencing,n
+134,128,li,Fédération Internationale d'Escrime,n
+135,107,tr,,n
+137,135,th,Weapons,n
+140,135,ul,,n
+142,140,li,Épée,y
+144,140,li,Foil,y
+146,140,li,Sabre,y
+149,107,tr,,n
+151,149,th,Main competitions,n
+154,149,ul,,n
+156,154,li,Fencing at the Summer Olympics,n
+158,154,li,World Fencing Championships,n
+160,154,li,Fencing World Cup,n
+161,107,tr,,n
+163,161,th,Modern fencing topics,n
+166,161,ul,,n
+168,166,li,Olympic fencing,n
+170,166,li,Collegiate fencing,n
+172,166,li,High school fencing,n
+174,166,li,Wheelchair fencing,n
+175,107,tr,,n
+177,175,th,Footwork or Bladework,n
+182,175,ul,,n
+184,182,li,Parry,n
+186,182,li,Lunge,n
+188,182,li,Feint,n
+190,182,li,Attack,n
+192,182,li,Remise,n
+194,182,li,Riposte,n
+196,182,li,Ward,n
+198,182,li,Flèche,n
+200,182,li,Flick,n
+202,182,li,Prise de fer,n
+204,182,li,Displacement,n
+206,182,li,Priority,n
+207,107,tr,,n
+209,207,th,Equipment,n
+214,207,ul,,n
+216,214,li,Body cord,y
+218,214,li,Piste,y
+220,214,li,Lamé,y
+222,214,li,Forte,y
+224,214,li,Grip,y
+225,107,tr,,n
+227,225,th,Related articles,n
+230,225,ul,,n
+232,230,li,fencers,n
+234,230,li,Modern pentathlon,n
+236,230,li,Knife fight,n
+238,230,li,Half-sword,n
+240,230,li,Swordsmanship,n
+242,230,li,Dueling scar,n
+244,230,li,Martial arts manual,n
+248,107,ul,,n
+250,248,li,Category,n
+252,248,li,Commons category,n
+254,248,li,Outline,n
+262,18,p,This fencing -related article is a stub . You can help Wikipedia by expanding it .,n
+283,17,div,"Retrieved from "" https",n
+286,9,div,,n
+287,286,div,,n
+288,287,text,Categories,n
+290,287,ul,,n
+292,290,li,Fencing,n
+294,290,li,Fencing stubs,n
+295,286,div,,n
+296,295,text,Hidden categories,n
+297,295,ul,,n
+299,297,li,Articles lacking sources from December 2007,n
+301,297,li,All articles lacking sources,n
+303,297,li,All stub articles,n
+304,0,div,,n
+306,304,h2,Navigation menu,n
+307,304,div,,n
+308,307,nav,,n
+311,308,h3,Personal tools,n
+313,308,ul,,n
+316,313,li,Not logged in,n
+322,313,li,Contributions,n
+325,313,li,Create account,n
+328,313,li,Log in,n
+329,307,div,,n
+330,329,nav,,n
+333,330,h3,Namespaces,n
+338,330,li,Article,n
+346,329,span,English,n
+349,307,div,,n
+350,349,nav,,n
+353,350,h3,Views,n
+355,350,ul,,n
+358,355,li,Read,n
+361,355,li,Edit,n
+364,355,li,View history,n
+369,349,span,More,n
+376,349,h3,Search,n
+383,304,div,,n
+385,383,nav,,n
+388,385,h3,Navigation,n
+390,385,ul,,n
+393,390,li,Main page,n
+396,390,li,Contents,n
+399,390,li,Current events,n
+402,390,li,Random article,n
+408,390,li,Contact us,n
+411,390,li,Donate,n
+412,383,nav,,n
+415,412,h3,Contribute,n
+417,412,ul,,n
+420,417,li,Help,n
+423,417,li,Learn to edit,n
+426,417,li,Community portal,n
+429,417,li,Recent changes,n
+433,383,nav,,n
+436,433,h3,Tools,n
+438,433,ul,,n
+441,438,li,What links here,n
+444,438,li,Related changes,n
+450,438,li,Special pages,n
+453,438,li,Permanent link,n
+456,438,li,Page information,n
+459,438,li,Cite this page,n
+462,438,li,Wikidata item,n
+463,383,nav,,n
+466,463,h3,Print or export,n
+468,463,ul,,n
+471,468,li,Download as PDF,n
+474,468,li,Printable version,n
+475,383,nav,,n
+479,475,h3,Languages,n
+480,475,div,,n
+484,480,li,Español,n
+490,480,div,Edit links,n
+491,0,footer,,n
+492,491,ul,,n
+493,492,li,,n
+494,493,text,"This page was last edited on 18 November 2020, at 05:32",n
+497,493,text,.,n
+499,492,li,"Text is available under the Creative Commons Attribution-ShareAlike License 3.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.",n
+508,491,ul,,n
+510,508,li,Privacy policy,n
+514,508,li,Disclaimers,n
+516,508,li,Contact Wikipedia,n
+518,508,li,Mobile view,n
+520,508,li,Developers,n
+522,508,li,Statistics,n
+524,508,li,Cookie statement,n
+526,508,li,Edit preview settings,n

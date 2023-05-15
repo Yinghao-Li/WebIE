@@ -1,0 +1,20 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+5,2,h1,Materials and Supply List,n
+7,2,p,"The art supplies listed below can be purchased as a kit at the art supply store Wet Paint, 1684 Grand Ave., St. Paul, at a discounted rate.",n
+9,2,p,"If you are unable to purchase all the art supplies listed below by the first class, don’t worry. The instructor can loan your child supplies for that lesson.",n
+11,2,p,class as much as possible!,n
+13,2,p,Character Design and Development Supplies,n
+14,2,p,,n
+15,14,text,• 2 – F pencils,y
+17,14,br,• White Block eraser,y
+19,14,br,• 300 Bristol 11”x17” plate Pad,y
+21,14,br,"• Strathmore 9”x12”, 100 sheet, 50 lb sketchbook or equivalent",y
+23,14,br,"4 Micron Pens, #02, #03, #05, #08",y
+25,14,br,• Simplified Anatomy For The Comic Book Artist by Christopher Hart,y
+27,2,p,Household Items,n
+28,2,p,,n
+29,28,text,• Shoebox or Tackle box to hold art supplies,n
+31,28,br,Paper Towels . Continuing students need to bring a new roll every session,n
+33,2,p,"If your child is attending the camp, please have your child bring two snacks to each class. Please avoid snacks with nuts.",n

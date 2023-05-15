@@ -1,0 +1,156 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,p,,n
+4,3,text,Home »,n
+6,3,span,,n
+7,6,text,Recipes »,n
+10,6,span,Baking 101,n
+11,0,p,,n
+12,11,text,Published,n
+14,11,time,"Jul 21, 2018",n
+15,11,text,· Modified,n
+17,11,time,"Apr 27, 2022",n
+18,11,text,by,n
+21,11,span,A Baking Journey,n
+22,11,text,· This post may contain affiliate links.,n
+23,0,article,,n
+52,23,div,,n
+62,52,p,,n
+63,62,text,"Whether you are completely new to baking, looking to expand your home baking skills or are just interested in creating delicious desserts and baked goods, it all starts with one thing: Ingredients! And to begin, you will only require these",n
+65,62,strong,10 Basic Baking Ingredients,n
+66,62,text,!,n
+69,52,details,,n
+71,69,summary,Jump to,n
+72,69,ul,,n
+74,72,li,Why using the Right Ingredients,n
+76,72,li,10 Must-have Baking Ingredients,n
+78,72,li,Comments,n
+80,52,h2,Why using the Right Ingredients,n
+82,52,p,"When I talk about my love for baking, most people instinctively say ""I can't bake!"". Can't you, or won't you? Baking can seem intimidating, but I truly believe that with the right tools, a little bit of practice and the right ingredients, every one can become a home baker!",n
+84,52,p,"Baking cakes, breads or other desserts can sometimes be a complex process. Other times, it can be ridiculously easy. If you are new to the baking world, you may feel like you don't know where to begin.",n
+92,52,p,I believe that getting on a baking journey require three things:,n
+95,52,div,,n
+97,95,h3,MY LATEST VIDEOS,n
+101,95,div,,n
+117,101,div,Cinnamon Babka,n
+138,101,div,More Videos,n
+142,101,div,,n
+144,142,span,"1 minute, 10 seconds",n
+146,142,span,Volume 0%,n
+147,101,div,,n
+150,147,span,keyboard shortcuts,n
+151,147,div,,n
+152,151,div,,n
+154,152,span,Keyboard Shortcuts,n
+155,152,button,,n
+158,155,span,Enabled,n
+160,155,span,Disabled,n
+162,151,div,,n
+163,162,div,,n
+165,163,span,Play or Pause,n
+167,163,span,SPACE,n
+168,162,div,,n
+170,168,span,Increase Volume,n
+172,168,span,↑,n
+173,162,div,,n
+175,173,span,Decrease Volume,n
+177,173,span,↓,n
+178,162,div,,n
+180,178,span,Seek Forward,n
+182,178,span,→,n
+183,162,div,,n
+185,183,span,Seek Backward,n
+187,183,span,←,n
+188,162,div,,n
+190,188,span,Captions On or Off,n
+192,188,span,c,n
+193,162,div,,n
+195,193,span,Fullscreen or Exit Fullscreen,n
+197,193,span,f,n
+198,162,div,,n
+200,198,span,Mute or Unmute,n
+202,198,span,m,n
+205,162,div,Seek %,n
+208,101,div,,n
+222,208,div,,n
+224,222,div,Next Up,n
+226,222,div,Easy Blueberry Coulis,n
+228,222,div,01:07,n
+248,208,div,,n
+278,248,div,Live,n
+280,248,div,00:00,n
+282,248,div,01:52,n
+284,248,div,01:10,n
+302,52,ul,,n
+304,302,li,The Right Tools,n
+307,302,li,The Right Recipes,n
+309,302,li,,n
+310,309,text,The,n
+313,309,strong,Right Ingredients,n
+314,52,p,,n
+317,314,strong,The Right Tools,n
+320,314,strong,10 Essential Baking Tools and Utensils,n
+321,314,text,". These are the basic tools that I believe every baker should have in their kitchen, whether they are beginners or more advanced!",n
+328,52,p,The Right Recipes,n
+330,52,p,,n
+333,330,strong,The Right Baking Ingredients,n
+336,330,span,and get ready to bake!,n
+337,52,p,,n
+338,337,text,And if you do not know where to start... here are,n
+340,337,strong,10 Ingredients every baker should have in their pantry,n
+341,337,text,. These Baking Essentials,n
+347,52,h2,10 Must-have Baking Ingredients,n
+349,52,h3,Flour,y
+350,52,p,,n
+351,350,text,There are no more Essential Ingredients,n
+353,350,strong,Flour,n
+354,350,text,. Without it - and the gluten it creates - your baked goods won't get the right structure: it is the ingredient that binds everything together.,n
+359,52,p,"To start baking, simply use All-Purpose Flour . This wheat flour can basically be used in any recipe. When you get more experienced - or want to try other things - you can start looking at more specialised flour: Bread Flour , Whole Wheat Flour ,...or even Gluten-Free Flour like Rice Flour.",n
+367,52,p,"But Flour is not only about the gluten. In many recipes, you can also use Flours made from ground Nuts like Almond Flour , Hazelnut Meal or from Legumes, Fruits and Grains like Quinoa Flour or Coconut Flour !",n
+380,52,h3,Rising Agent,y
+382,52,p,"Most recipes require a raising agent. The most commonly used one is Baking Powder . You will need baking powder for most cakes and baked goods, although some recipes recommend using Baking Soda in addition to an acid that will activate it.",n
+388,52,p,"What is the difference? Baking Soda starts working instantly, while Baking Powder has a delayed rising reaction. You usually want the rising action to start in the oven and not while you are making the batter, which is why Baking Powder is more commonly used.",n
+396,52,p,"To make bread, you won't use Baking Powder but Yeast . The easiest one to used is Instant Dry Yeast that you can keep in your pantry or in the freezer.",n
+400,52,h3,Sweetener,y
+402,52,p,"If you are baking sweet goods, you will want to add a sweetener to your batter.",n
+405,52,p,sweeteners,y
+406,52,ul,,n
+408,406,li,a Powder or Granule.,y
+410,406,li,Natural Powdered or Granulated Sugar like Coconut Sugar or Stevia.,y
+412,406,li,"Natural liquid Sweeteners like Honey, Maple Syrup or Agave Syrup.",y
+414,52,p,"Most recipes recommend using Granulated White Sugar , which is probably the main one you need in your pantry. I personally like to substitute White Sugar for Granulated Brown Sugar . If you want to make Frostings, Buttercreams or Icing, you will use Icing Sugar .",n
+423,52,p,"Depending on the recipe, you can also use liquid natural sweeteners such as Honey, Agave Syrup , Maple Syrup or Malt Syrup .",n
+432,52,h3,Fats,y
+434,52,p,"It would be great to imagine a world where every cake and dessert don't contain fat. Unfortunately, most desserts do. Butter is the main source of fat used in baked goods, but you can also use Oils.",n
+437,52,p,"For a neutral taste, use Canola Oil or Sunflower Oil. You an also replace butter with Olive Oil like I did for my Peach Almond Olive Oil Cake .",n
+443,52,p,"Olive Oil will bring an interesting flavour to your desserts, but make sure to use a good quality one because low quality olive oil tends to become bitter when baked.",n
+445,52,h3,Eggs,y
+447,52,p,Eggs are essential when it comes to baking. The Egg Yolk is what binds fats and liquids by emulsifying. They are also used as a way to bring air into a cake batter and make it nice and light.,n
+450,52,p,"Some recipes use the whole egg, other require you to separate the egg yolk from the white. Try to use good quality eggs when possible - free range, cage free, etc... It will only make your desserts better!",n
+452,52,h3,Salt,y
+454,52,p,"I know, I know. If you are really new at baking, you may wonder why is Salt here. Salt is actually a really essential baking ingredients.",n
+457,52,p,"It helps balance - and enhance - the flavour of your creations and shouldn't be overlooked. Avoid using Sea Salt, Flake Salt or other thick salts and rather choose a thin, fine Salt that will mix better with the rest of the ingredients.",n
+460,52,h3,Milk or Cream,y
+462,52,p,"Milk is really important in baking, as it is the liquid element that binds all the ingredients together, brings some fat and is able to bring flavour too.",n
+465,52,p,"You can use whatever milk you have in your fridge but I personally prefer to use Full Cream Milk that will make your baked goods nice and rich. Although Dairy-Milk is the one most commonly used, you can often substitute it for Plant-Based Milks.",n
+467,52,p,"Other than being non-dairy, milk such as Almond Milk or Coconut Milk can be used to bring a subtle flavour to your batters.",n
+473,52,p,"Creams are also often used in addition to Milk. That includes Heavy or Thickened Cream, Sour Cream, Double Cream, or even Yogurt!",n
+476,52,h3,Chocolate and Cacao Powder,y
+478,52,p,"Most people who like sweet love chocolate. Other than fruits, it is the most used ingredients to flavour desserts. Depending on the recipe, you will want to use Cooking Chocolate or Cacao Powder.",n
+480,52,p,Cooking Chocolate is used melted while Cacao Powder is kept as a dry ingredient. I highly recommend getting some good quality Chocolate and Cacao Powder - you will really taste the difference!,n
+483,52,p,"Go for Dark Cooking Chocolate over Milk Chocolate for a richer, less sweet taste and make sure you use Unsweetened Cacao Powder .",n
+489,52,p,I personally try to use Belgian Chocolate when I can because they are the best one you will find!,n
+492,52,h3,Spices and Flavouring Extracts,y
+494,52,h4,Spices,y
+496,52,p,"No easier way to bring flavour to your baked goods but with Spices! When baking with fruits, the most used spice is Ground Cinnamon . It is the main spice that I use and can really transform your cakes.",n
+501,52,p,"Other spices often used in baking include Nutmeg, Ground Ginger, Ground Cloves, Star Anise,... If you have never used spices in your cakes, you can check out my Spiced Red Wine Poached Pears recipe!",n
+505,52,h4,Extracts,y
+507,52,p,flavour extract,y
+512,52,p,"It is an easy way to flavour any cakes and batters, but be careful to only use natural pure extracts. Also be careful with Extracts; they can be extremely powerful in taste so only use a few drops at a time. If you prefer, you can also use Fresh Vanilla Beans or Vanilla Paste.",n
+514,52,h3,Fruits,y
+516,52,p,"What would be desserts and baked goods without fruits!? When it comes to fruits, you can use either Fresh or Frozen Fruits , although fresh will always be better for taste, flavours and texture.",n
+519,52,p,Make sure you use seasonal fruits for the freshest taste possible - or freeze your favourite fruits when they are in season to use later on in the year!,n
+520,23,div,,n
+522,520,div,« Chocolate Raspberry Swirl Brioche Buns,n
+525,520,div,Almond Madeleines with Raspberry Glaze »,n
+558,23,h3,More Ideas,n

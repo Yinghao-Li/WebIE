@@ -1,0 +1,877 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+10,3,h1,Cheerleading,n
+11,3,div,,n
+13,11,div,"From Wikipedia, the free encyclopedia",n
+17,11,text,Jump to navigation Jump to search,n
+19,11,div,,n
+20,19,div,,n
+22,20,div,"This article is about American-style cheerleading. For Japanese-style cheerleading, see Ōendan .",n
+27,20,div,"""Cheerleader"" redirects here. For other uses, see Cheerleader .",n
+32,20,div,Athletic sport based on cheering,n
+39,20,div,,n
+40,39,text,"general references , but it lacks sufficient corresponding inline citations .",n
+47,39,span,Please help to improve this article by introducing more precise citations.,n
+55,39,span,December 2020,n
+63,20,div,,n
+68,63,div,College cheerleaders performing a liberty stunt,n
+73,63,div,,n
+74,73,text,The Dallas Cowboys Cheerleaders perform on the flight deck,n
+81,73,text,the Fox NFL Pregame Show.,n
+86,63,div,The Italian national team competing at the ICU World Championships.,n
+88,20,p,"Cheerleading is an activity in which the participants cheer for their team as a form of encouragement. It can range from chanting slogans to intense physical activity . It can be performed to motivate sports teams, to entertain the audience, or for competition. Cheerleading routines typically range anywhere from one to three minutes, and contain components of tumbling , dance , jumps , cheers , and stunting .",n
+105,20,p,"Modern cheerleading is very closely associated with American football and basketball . Sports such as association football , ice hockey , volleyball , baseball , and wrestling will sometimes sponsor cheerleading squads. The ICC Twenty20 Cricket World Cup in South Africa in 2007 was the first international cricket event to have cheerleaders. The Florida Marlins were the first Major League Baseball team to have a cheerleading team.",n
+124,20,p,,n
+125,124,text,"Cheerleading originated as an all-male activity in the United States, and remains predominantly in America, with an estimated 3.85 million participants as of 2017.",n
+128,124,text,"The global presentation of cheerleading was led by the 1997 broadcast of ESPN 's International cheerleading competition, and the worldwide release of the 2000 film Bring It On . The International Cheer Union now claims 116 member nations with an estimated 7.5 million participants worldwide.",n
+137,124,text,"The sport has gained a lot of traction in Australia, Canada, Mexico, China, Colombia, Finland, France, Germany, Japan , the Netherlands, New Zealand, and the United Kingdom with popularity continuing to grow as sport leaders pursue Olympic status.",n
+143,20,p,"Cheerleading carries the highest rate of catastrophic injuries to female athletes in sports, with most injuries associated with from stunting , also known as pyramids.",n
+148,20,div,,n
+152,148,h2,Contents,n
+155,148,ul,,n
+156,155,li,,n
+158,156,span,1,n
+160,156,span,History,n
+161,156,ul,,n
+162,161,li,,n
+164,162,span,1,n
+166,162,span,Before organized cheerleading,n
+167,161,li,,n
+169,167,span,2,n
+171,167,span,organized cheerleading,n
+172,161,li,,n
+174,172,span,3,n
+176,172,span,Early 20th century cheerleading and female participation,n
+177,161,li,,n
+179,177,span,4,n
+181,177,span,Growth in popularity,n
+182,161,li,,n
+184,182,span,5,n
+186,182,span,1980s to present,n
+187,161,li,,n
+189,187,span,6,n
+191,187,span,Safety regulation changes,n
+192,155,li,,n
+194,192,span,2,n
+196,192,span,teams in the United States today,n
+197,192,ul,,n
+198,197,li,,n
+200,198,span,1,n
+202,198,span,School-sponsored,n
+203,198,ul,,n
+204,203,li,,n
+206,204,span,1.1,n
+208,204,span,Elementary school,n
+209,203,li,,n
+211,209,span,1.2,n
+213,209,span,Middle school,n
+214,203,li,,n
+216,214,span,1.3,n
+218,214,span,High school,n
+219,197,li,,n
+221,219,span,2,n
+223,219,span,College,n
+224,197,li,,n
+226,224,span,3,n
+228,224,span,Youth leagues and athletic associations,n
+229,197,li,,n
+231,229,span,4,n
+233,229,span,All-star or club cheerleading,n
+234,197,li,,n
+236,234,span,5,n
+238,234,span,Professional,n
+239,155,li,,n
+241,239,span,3,n
+243,239,span,Injuries and accidents,n
+244,155,li,,n
+246,244,span,4,n
+248,244,span,"Associations, federations, and organizations",n
+249,155,li,,n
+251,249,span,5,n
+253,249,span,Competitions and companies,n
+254,155,li,,n
+256,254,span,6,n
+258,254,span,Title IX sports status,n
+259,155,li,,n
+261,259,span,7,n
+263,259,span,Cheerleading in Canada,n
+264,259,ul,,n
+265,264,li,,n
+267,265,span,1,n
+269,265,span,Competition in Canada,n
+270,264,li,,n
+272,270,span,2,n
+274,270,span,the Global Stage,n
+275,155,li,,n
+277,275,span,8,n
+279,275,span,Cheerleading in Mexico,n
+280,275,ul,,n
+281,280,li,,n
+283,281,span,1,n
+285,281,span,Competition in Mexico,n
+286,280,li,,n
+288,286,span,2,n
+290,286,span,the Global Stage,n
+291,155,li,,n
+293,291,span,9,n
+295,291,span,Cheerleading in the United Kingdom,n
+296,155,li,,n
+298,296,span,10,n
+300,296,span,Cheerleading in Australia,n
+301,155,li,,n
+303,301,span,11,n
+305,301,span,Notable former cheerleaders,n
+306,155,li,,n
+308,306,span,12,n
+310,306,span,See also,n
+311,155,li,,n
+313,311,span,13,n
+315,311,span,References,n
+316,155,li,,n
+318,316,span,14,n
+320,316,span,External links,n
+323,20,h2,History,n
+326,20,h3,Before organized cheerleading,n
+327,20,p,,n
+328,327,text,male students.,n
+331,327,text,"After the American Revolutionary War , students experienced harsh treatment from teachers. In response to faculty's abuse, college students violently acted out. The undergraduates began to riot, burn down buildings located on their college campuses, and assault faculty members. As a more subtle way to gain independence, however, students invented and organized their own extracurricular activities outside their professors' control. This brought about American sports, beginning first with collegiate teams.",n
+337,20,p,"In the 1860s, students from Great Britain began to cheer and chant in unison for their favorite athletes at sporting events. Soon, that gesture of support crossed overseas to America.",n
+343,20,p,"On November 6, 1869, the United States witnessed its first intercollegiate football game. It took place between Princeton University and Rutgers University , and marked the day the original ""Sis Boom Rah!"" cheer was shouted out by student fans.",n
+352,20,h3,organized cheerleading,n
+357,20,div,Minnesota Gopher cheerleader Johnny Campbell,n
+359,20,p,,n
+360,359,text,Organized cheerleading began as an all-male activity.,n
+363,359,text,"As early as 1877, Princeton University had a ""Princeton Cheer"", documented in the February 22, 1877, March 12, 1880, and November 4, 1881, issues of The Daily Princetonian .",n
+374,359,text,"This cheer was yelled from the stands by students attending games, as well as by the athletes themselves. The cheer, ""Hurrah! Hurrah! Hurrah! Tiger! S-s-s-t! Boom! A-h-h-h!"" remains in use with slight modifications today, where it is now referred to as the ""Locomotive"".",n
+378,20,p,Princeton class of 1882 graduate Thomas Peebles moved to Minnesota in 1884. He transplanted the idea of organized crowds cheering at football games to the University of Minnesota .,n
+388,20,p,"The term ""Cheer Leader"" had been used as early as 1897, with Princeton's football officials having named three students as Cheer Leaders: Thomas, Easton, and Guerin from Princeton's classes of 1897, 1898, and 1899, respectively, on October 26, 1897. These students would cheer for the team also at football practices, and special cheering sections were designated in the stands for the games themselves for both the home and visiting teams.",n
+396,20,p,"It was not until 1898 that University of Minnesota student Johnny Campbell directed a crowd in cheering ""Rah, Rah, Rah! Ski-u-mah, Hoo-Rah! Hoo-Rah! Varsity! Varsity! Varsity, Minn-e-So-Tah!"", making Campbell the very first cheerleader.",n
+400,20,p,"November 2, 1898 is the official birth date of organized cheerleading. Soon after, the University of Minnesota organized a ""yell leader"" squad of six male students, who still use Campbell's original cheer today.",n
+407,20,div,Wisconsin–Madison in 1948,n
+412,20,h3,Early 20th century cheerleading and female participation,n
+414,20,p,"In 1903, the first cheerleading fraternity , Gamma Sigma, was founded.",n
+419,20,p,,n
+420,419,text,"Minnesota , women were permitted to participate in cheerleading.",n
+425,419,text,"However, it took time for other schools to follow. In the late 1920s, many school manuals and newspapers that were published still referred to cheerleaders as ""chap,"" ""fellow,"" and ""man"".",n
+428,20,p,,n
+429,428,text,"Women cheerleaders were overlooked until the 1940s when collegiate men were drafted for World War II , creating the opportunity for more women to make their way onto sporting event sidelines.",n
+434,428,text,As noted by Kieran Scott in Ultimate Cheerleading,n
+441,20,p,,n
+442,441,text,"In 1949, Lawrence Herkimer , a former cheerleader at Southern Methodist University and inventor of the Herkie jump, founded his first cheerleading camp in Huntsville, Texas. 52 girls were in attendance.",n
+451,441,text,"The clinic was so popular that Herkimer was asked to hold a second, where 350 young women were in attendance. Herkimer also patented the pom-pom .",n
+457,20,h3,Growth in popularity,n
+459,20,p,"In 1951, Herkimer created the National Cheerleading Association to help grow the activity and provide cheerleading education to schools around the country.",n
+466,20,p,,n
+467,466,text,"During the 1950s, female participation in cheerleading continued to grow.",n
+470,466,text,"An overview written on behalf of cheerleading in 1955 explained that in larger schools, ""occasionally boys as well as girls are included"", and in smaller schools, ""boys can usually find their place in the athletic program, and cheerleading is likely to remain solely a feminine occupation.""",n
+473,466,text,Cheerleading could be found at almost every school level across the country; even pee wee and youth leagues began to appear.,n
+478,20,p,,n
+479,478,text,"In the 1950s, professional cheerleading also began. The first recorded cheer squad in National Football League history was for the Baltimore Colts .",n
+488,478,text,"Professional cheerleaders put a new perspective on American cheerleading. Women were exclusively chosen for dancing ability as well as to conform to the male gaze , as heterosexual men were the targeted marketing group.",n
+493,20,p,,n
+494,493,text,"By the 1960s, college cheerleaders employed by the NCA were hosting workshops across the nation, teaching fundamental cheer skills to tens of thousands of high-school-age girls.",n
+497,493,text,Herkimer also contributed many notable firsts to cheerleading,n
+504,493,text,"and creating the ""Spirit Stick"".",n
+508,20,p,"In 1965, Fred Gastoff invented the vinyl pom-pom , which was introduced into competitions by the International Cheerleading Foundation . Organized cheerleading competitions began to pop up with the first ranking of the ""Top Ten College Cheerleading Squads"" and ""Cheerleader All America"" awards given out by the ICF in 1967.",n
+512,20,p,"The Dallas Cowboys Cheerleaders soon gained the spotlight with their revealing outfits and sophisticated dance moves, debuting in the 1972–1973 season, but were first widely seen in Super Bowl X . These pro squads of the 1970s established cheerleaders as ""American icons of wholesome sex appeal .""",n
+522,20,p,"In 1975, Randy Neil estimated that over 500,000 students actively participated in American cheerleading from elementary school to the collegiate level. Neil also approximated that ninety-five percent of cheerleaders within America were female.",n
+526,20,p,Collegiate Cheerleading Championships on CBS .,n
+539,20,div,"The Dallas Cowboys Cheerleaders performing in the USO show ""America and Her Music"" on the deck of the nuclear-powered guided missile cruiser USS Bainbridge",n
+548,20,h3,1980s to present,n
+551,20,div,,n
+553,551,text,Cheerleading is a mainstream activity in the U.S.,n
+556,551,text,"Picture shows U.S. Defense Secretary Donald Rumsfeld posing with U.S. Army cheerleaders, 2004.",n
+563,20,p,"The 1980s saw the beginning of modern cheerleading, adding difficult stunt sequences and gymnastics into routines. All-star teams, or those not affiliated with a school, popped up, and eventually led to the creation of the U.S. All Star Federation . ESPN first broadcast the National High School Cheerleading Competition nationwide in 1983.",n
+571,20,p,"By 1981, a total of seventeen Nation Football League teams had their own cheerleaders. The only teams without NFL cheerleaders at this time were New Orleans, New York, Detroit, Cleveland, Denver, Minnesota, Pittsburgh, San Francisco, and San Diego. Professional cheerleading eventually spread to soccer and basketball teams as well.",n
+574,20,p,,n
+575,574,text,"Cheerleading organizations such as the American Association of Cheerleading Coaches and Advisors , founded in 1987, started applying universal safety standards to decrease the number of injuries and prevent dangerous stunts, pyramids, and tumbling passes from being included in the cheerleading routines.",n
+578,574,text,"In 2003, the National Council for Spirit Safety and Education was formed to offer safety training for youth, school, all-star, and college coaches. The NCAA now requires college cheer coaches to successfully complete a nationally recognized safety-training program.",n
+582,20,p,"Even with its athletic and competitive development, cheerleading at the school level has retained its ties to its spirit leading traditions. Cheerleaders are quite often seen as ambassadors for their schools, and leaders among the student body. At the college level, cheerleaders are often invited to help at university fundraisers and events.",n
+586,20,p,"Debuting in 2003, the ""Marlin Mermaids"" gained national exposure, and have influenced other MLB teams to develop their own cheer or dance squads.",n
+589,20,p,,n
+590,589,text,"As of 2005, overall statistics show around 97% of all modern cheerleading participants are female, although at the collegiate level, cheerleading is co-ed with about 50% of participants being male.",n
+593,589,text,"Modern male cheerleaders' stunts focus less on flexibility and more on tumbling, flips, pikes, and handstands. These depend on strong legs and strong core strength.",n
+597,20,p,"In 2019, Napoleon Jinnies and Quinton Peron became the first male cheerleaders in the history of the NFL to perform at the Super Bowl .",n
+610,20,h3,Safety regulation changes,n
+611,20,p,,n
+612,611,text,"Kristi Yamaoka, a cheerleader for Southern Illinois University, suffered a fractured vertebra when she hit her head after falling from a human pyramid .",n
+621,611,text,"She also suffered from a concussion, and a bruised lung.",n
+624,611,text,"The fall occurred when Yamaoka lost her balance during a basketball game between Southern Illinois University and Bradley University at the Savvis Center in St. Louis on March 5, 2006.",n
+635,611,text,"The fall gained ""national attention"",",n
+638,611,text,because Yamaoka continued to perform from a stretcher as she was moved away from the game.,n
+641,20,p,,n
+642,641,text,"The accident caused the Missouri Valley Conference to ban its member schools from allowing cheerleaders to be ""launched or tossed and from taking part in formations higher than two levels"" for one week during a women's basketball conference tournament, and also resulted in a recommendation by the NCAA that conferences and tournaments do not allow pyramids two and one half levels high or higher, and a stunt known as basket tosses, during the rest of the men's and women's basketball season.",n
+649,641,text,"On July 11, 2006, the bans were made permanent by the AACCA rules committee:",n
+652,20,p,"The committee unanimously voted for sweeping revisions to cheerleading safety rules, the most major of which restricts specific upper-level skills during basketball games. Basket tosses, 2½ high pyramids, one-arm stunts, stunts that involve twisting or flipping, and twisting tumbling skills may be performed only during halftime and post-game on a matted surface and are prohibited during game play or time-outs.",n
+657,20,h2,teams in the United States today,n
+662,20,div,Memphis Cheerleaders performing a Co-ed double Cupie,n
+665,20,h3,School-sponsored,n
+667,20,p,"Most American elementary schools, middle schools, high schools, and colleges have organized cheerleading squads. Some colleges even offer cheerleading scholarships for students. A school cheerleading team may compete locally, regionally, or nationally, but their main purpose is typically to cheer for sporting events and encourage audience participation. Cheerleading is quickly becoming a year-round activity, starting with tryouts during the spring semester of the preceding school year. Teams may attend organized summer cheerleading camps and practices to improve skills and create routines for competition.",n
+669,20,p,"In addition to supporting their schools’ football or other sports teams, student cheerleaders may compete with recreational-style routine at competitions year-round.",n
+672,20,h4,Elementary school,n
+674,20,p,"In far more recent years, it has become more common for elementary schools to have an organized cheerleading team. This is a great way to get younger children introduced to the sport and used to being crowd leaders. Also, with young children learning so much so quickly, tumbling can come very easy to a child in elementary school.",n
+679,20,h4,Middle school,n
+680,20,p,,n
+681,680,text,"Middle school cheerleading evolved shortly after high school squads were created and is set at the district level. In middle school, cheerleading squads serve the same purpose, but often follow a modified set of rules from high school squads with possible additional rules.",n
+685,680,text,"Squads can cheer for basketball teams, football teams, and other sports teams in their school. Squads may also perform at pep rallies and compete against other local schools from the area. Cheerleading in middle school sometimes can be a two-season activity: fall and winter. However, many middle school cheer squads will go year-round like high school squads. Middle school cheerleaders use the same cheerleading movements as their older counterparts, yet may perform less extreme stunts and tumbling elements, depending on the rules in their area.",n
+694,20,h4,High school,n
+699,20,div,High school cheerleaders,n
+700,20,p,,n
+701,700,text,"In high school, there are usually two squads per school: varsity and a junior varsity . High school cheerleading contains aspects of school spirit as well as competition. These squads have become part of a year-round cycle. Starting with tryouts in the spring, year-round practice, cheering on teams in the fall and winter , and participating in cheerleading competitions. Most squads practice at least three days a week for about two hours each practice during the summer.",n
+715,700,text,"Many teams also attend separate tumbling sessions outside of practice. During the school year, cheerleading is usually practiced five- to six-days-a-week. During competition season, it often becomes seven days with practice twice a day sometimes. The school spirit aspect of cheerleading involves cheering, supporting, and ""hyping up"" the crowd at football games, basketball games, and even at wrestling meets. Along with this, cheerleaders usually perform at pep rallies, and bring school spirit to other students. In May 2009, the National Federation of State High School Associations released the results of their first true high school participation study. They estimated that the number of high school cheerleaders from public high schools is around 394,700.",n
+720,20,p,,n
+721,720,text,"There are different cheerleading organizations that put on competitions; some of the major ones include state and regional competitions. Many high schools will often host cheerleading competitions, bringing in IHSA judges. The regional competitions are qualifiers for national competitions, such as the UCA in Orlando , Florida every year.",n
+730,720,text,Many teams have a professional choreographer that choreographs their routine in order to ensure they are not breaking rules or regulations and to give the squad creative elements.,n
+733,20,h3,College,n
+738,20,div,Collegiate cheerleaders,n
+745,20,p,"Most American universities have a cheerleading squad to cheer for football, basketball, volleyball, wrestling, and soccer. Most college squads tend to be larger coed teams, although in recent years; all-girl squads and smaller college squads have increased rapidly. Cheerleading is not recognized by NCAA, NAIA, and NJCAA as athletics; therefore, there are few to no scholarships offered to athletes wanting to pursue cheerleading at the collegiate level. However, some community colleges and universities offer scholarships directly from the program or sponsorship funds. Some colleges offer scholarships for an athlete's talents, academic excellence, and or or involvement in community events.",n
+747,20,p,"College squads perform more difficult stunts which include multi-level pyramids, as well as flipping and twisting basket tosses.",n
+749,20,p,"Not only do college cheerleaders cheer on the other sports at their university, many teams at universities compete with other schools at either UCA College Nationals or NCA College Nationals. This requires the teams to choreograph a 2-minute and 30 second routine that includes elements of jumps, tumbling, stunting, basket tosses, pyramids, and a crowd involvement section. Winning one of these competitions is a very prestigious accomplishment, and is seen as another national title for most schools.",n
+754,20,h3,Youth leagues and athletic associations,n
+759,20,div,Youth cheerleaders during a football halftime show . Youth cheer— high school ages and younger—make up the vast majority of cheerleaders and cheer teams.,n
+764,20,p,,n
+765,764,text,"Organizations that sponsor youth cheer teams usually sponsor either youth league football or basketball teams as well. This allows for the two, under the same sponsor, to be intermingled. Both teams have the same mascot name and the cheerleaders will perform at their football or basketball games. Examples of such sponsors include Pop Warner , American Youth Football , and the YMCA .",n
+778,764,text,"The purpose of these squads is primarily to support their associated football or basketball players, but some teams do compete at local or regional competitions. The Pop Warner Association even hosts a national championship each December for teams in their program who qualify.",n
+781,20,h3,All-star or club cheerleading,n
+788,20,div,,n
+789,788,text,This section needs additional citations,n
+794,788,span,Please help improve this article by adding citations to reliable sources . Unsourced material may be challenged and removed.,n
+802,788,span,November 2016,n
+810,20,p,"”All-star” or club cheerleading differs from school or sideline cheerleading because all-star teams focus solely on performing a competition routine and not on leading cheers for other sports teams. All-star cheerleaders are members of a privately owned gym or club which they typically pay dues or tuition to, similar to a gymnastics gym.",n
+811,20,p,,n
+812,811,text,"During the early 1980s, cheerleading squads not associated with a school or sports league, whose main objective was competition, began to emerge. The first organization to call themselves all-stars were the Q94 Rockers from Richmond, Virginia , founded in 1982.",n
+817,811,text,"All-star teams competing prior to 1987 were placed into the same divisions as teams that represented schools and sports leagues. In 1986, the National Cheerleaders Association addressed this situation by creating a separate division for teams lacking a sponsoring school or athletic association, calling it the All-Star Division and debuting it at their 1987 competitions. As the popularity of this type of team grew, more and more of them were formed, attending competitions sponsored by many different organizations and companies, each using its own set of rules, regulations, and divisions. This situation became a concern to coaches and gym owners, as the inconsistencies caused coaches to keep their routines in a constant state of flux, detracting from time that could be better utilized for developing skills and providing personal attention to their athletes. More importantly, because the various companies were constantly vying for a competitive edge, safety standards had become more and more lax. In some cases, unqualified coaches and inexperienced squads were attempting dangerous stunts as a result of these expanded sets of rules.",n
+822,20,p,,n
+823,822,text,"The United States All Star Federation was formed in 2003 by the competition companies to act as the national governing body for all star cheerleading and to create a standard set of rules and judging criteria to be followed by all competitions sanctioned by the Federation. Eager to grow the sport and create more opportunities for high-level teams, The USASF hosted the first Cheerleading Worlds on April 24, 2004.",n
+829,822,text,"At the same time, cheerleading coaches from all over the country organized themselves for the same rule making purpose, calling themselves the National All Star Cheerleading Coaches Congress . In 2005, the NACCC was absorbed by the USASF to become their rule making body.",n
+832,822,text,"In late 2006, the USASF facilitated the creation of the International All-Star Federation , which now governs club cheerleading worldwide.",n
+839,20,div,Competitive cheer - Paramount Cheerleaders doing a scale,n
+840,20,p,,n
+841,840,text,2020,n
+844,840,text,", all-star cheerleading, as sanctioned by the USASF, involves a squad of 5–36 females and males. All-star cheerleaders are placed into divisions, which are grouped based upon age, size of the team, gender of participants, and ability level. The age groups vary from under 4 years of age to 18 years and over. The squad prepares year-round for many different competition appearances, but they actually perform only for up to 2½ minutes during their team's routine. The numbers of competitions a team participates in varies from team to team, but generally, most teams tend to participate in six to ten competitions a year. These competitions include locals or regionals, which normally take place in school gymnasiums or local venues, nationals, hosted in large venues all around the U.S., and the Cheerleading Worlds, which takes place at Walt Disney World in Orlando, Florida . During a competition routine, a squad performs carefully choreographed stunting, tumbling, jumping, and dancing to their own custom music. Teams create their routines to an eight-count system and apply that to the music so that the team members execute the elements with precise timing and synchronization.",n
+850,20,p,"All-star cheerleaders compete at competitions hosted by private event production companies, the foremost of these being Varsity Spirit. Varsity Spirit is the parent company for many subsidiaries including The National Cheerleader's Association, The Universal Cheerleader's Association, AmeriCheer, Allstar Challenge, and JamFest, among others. Each separate company or subsidiary typically hosts their own local and national level competitions. This means that many gyms within the same area could be state and national champions for the same year and never have competed against each other. Currently, there is no system in place that awards only one state or national title.",n
+852,20,p,"Judges at a competition watch closely for illegal skills from the group or any individual member. Here, an illegal skill is something that is not allowed in that division due to difficulty or safety restrictions. They look out for deductions, or things that go wrong, such as a dropped stunt or a tumbler who doesn’t stick a landing. More generally, judges look at the difficulty and execution of jumps, stunts and tumbling, synchronization, creativity, the sharpness of the motions, showmanship, and overall routine execution.",n
+853,20,p,,n
+854,853,text,"If a level 6 or 7 team places high enough at selected USASF or IASF sanctioned national competitions, they could earn a place at the Cheerleading Worlds and compete against teams from all over the world, as well as receive money for placing.",n
+861,853,text,"For elite level cheerleaders, The Cheerleading Worlds is the highest level of competition to which they can aspire, and winning a world championship title is an incredible honor.",n
+864,20,h3,Professional,n
+869,20,div,NFL Cheerleaders at the 2006 Pro Bowl .,n
+873,20,p,"Professional cheerleaders and dancers cheer for sports such as football , basketball , baseball , wrestling , or hockey . There are only a small handful of professional cheerleading leagues around the world; some professional leagues include the NBA Cheerleading League , the NFL Cheerleading League , the CFL Cheerleading League, the MLS Cheerleading League, the MLB Cheerleading League, and the NHL Ice Girls. Although professional cheerleading leagues exist in multiple countries, there are no Olympic teams .",n
+895,20,p,"In addition to cheering at games and competing, professional cheerleaders also, as teams, can often do a lot of philanthropy and charity work , modeling , motivational speaking , television performances , and advertising .",n
+915,20,h2,Injuries and accidents,n
+916,20,p,,n
+917,916,text,catastrophic injuries to girl athletes in sports.,n
+920,916,text,"Of the United States' 2.9 million female high school athletes, only 3% are cheerleaders, yet cheerleading accounts for nearly 65% of all catastrophic injuries in girls' high school athletics.",n
+925,916,text,"In data covering the 1982-83 academic year through the 2018-19 academic year in the US, the rate of serious, direct traumatic injury per 100,000 participants was 1.68 for female cheerleaders at the high school level, the highest for all high school sports surveyed.",n
+928,916,text,"The college rate could not be determined, as the total number of collegiate cheerleaders was unknown, but the total number of traumatic, direct catastrophic injuries over this period was 33 , higher than all sports at this level aside from football.",n
+931,916,text,"Another study found that between 1982 and 2007, there were 103 fatal, disabling, or serious injuries recorded among female high school athletes, with the vast majority occurring in cheerleading.",n
+934,20,p,,n
+935,934,text,"The main source of injuries comes from stunting , also known as pyramids. These stunts are performed at games and pep rallies, as well as competitions. Sometimes competition routines are focused solely around the use of difficult and risky stunts. These stunts usually include a flyer , along with one or two bases , and one or two spotters in the front and back on the bottom. The most common cheerleading related injury is a concussion. 96% of those concussions are stunt related.",n
+940,934,text,Others injuries are,n
+945,934,text,"Sometimes, however, injuries can be as serious as whiplash, broken necks, broken vertebrae, and death.",n
+948,20,p,,n
+949,948,text,"The journal Pediatrics has reportedly said that the number of cheerleaders suffering from broken bones , concussions , and sprains has increased by over 100 percent between the years of 1990 and 2002, and that in 2001, there were 25,000 hospital visits reported for cheerleading injuries dealing with the shoulder, ankle, head, and neck.",n
+960,948,text,"Meanwhile, in the US, cheerleading accounted for 65.1% of all major physical injuries to high school females, and to 66.7% of major injuries to college students due to physical activity from 1982 to 2007, with 22,900 minors being admitted to hospital with cheerleading-related injuries in 2002.",n
+966,20,p,"The risks of cheerleading were highlighted at the death of Lauren Chang. Chang died on April 14, 2008 after competing in a competition where her teammate had kicked her so hard in the chest that her lungs collapsed.",n
+969,20,p,,n
+970,969,text,"Cheerleading was one of the sports studied in the Pediatric Injury Prevention, Education and Research Program of the Colorado School of Public Health in 2009 or 10–2012 or 13.",n
+975,969,text,Data on cheerleading injuries is included in the report,n
+981,20,h2,"Associations, federations, and organizations",n
+982,20,p,,n
+983,982,text,International Cheer Union,n
+987,982,text,"Established on April 26, 2004, the ICU is recognized by the SportAccord as the world governing body of cheerleading and the authority on all matters with relation to it. Including participation from its 105-member national federations reaching 3.5 million athletes globally, the ICU continues to serve as the unified voice for those dedicated to cheerleading's positive development around the world.",n
+991,20,p,"Following a positive vote by the SportAccord General Assembly on May 31, 2013, in Saint Petersburg, the International Cheer Union became SportAccord's 109th member, and SportAccord's 93rd international sports federation to join the international sports family. In accordance with the SportAccord statutes, the ICU is recognized as the world governing body of cheerleading and the authority on all matters related to it.",n
+993,20,p,"As of the 2016–17 season, the ICU has introduced a Junior aged team to compete at the Cheerleading Worlds, because cheerleading is now in provisional status to become a sport in the Olympics. For cheerleading to one day be in the Olympics, there must be a junior and senior team that competes at the world championships. The first junior cheerleading team that was selected to become the junior national team was Eastside Middle School, located in Mount Washington Kentucky and will represent the United States in the inaugural junior division at the world championships.",n
+997,20,p,"The ICU holds training seminars for judges and coaches, global events and the World Cheerleading Championships. The ICU is also fully applied to the International Olympic Committee and is compliant under the code set by the World Anti-Doping Agency .",n
+1002,20,p,,n
+1003,1002,text,Cheerleading,n
+1007,1002,text,"Established on July 5, 1998, the International Federation of Cheerleading is a non-profit federation based in Tokyo, Japan, and is a world governing body of cheerleading, primarily in Asia. The IFC objectives are to promote cheerleading worldwide, to spread knowledge of cheerleading, and to develop friendly relations among the member associations and federations.",n
+1008,20,p,,n
+1009,1008,text,USA Cheer The USA Federation for Sport Cheering was established in 2007 to serve as the national governing body for all types of cheerleading in the United States and is recognized by the ICU.,n
+1013,1008,text,"""The USA Federation for Sport Cheering is a not-for profit 501 organization that was established in 2007 to serve as the National Governing Body for Sport Cheering in the United States. USA Cheer exists to serve the cheer community, including club cheering and traditional school based cheer programs, and the growing sport of STUNT. USA Cheer has three primary objectives: help grow and develop interest and participation in cheer throughout the United States; promote safety and safety education for cheer in the United States; and represent the United States of America in international cheer competitions.""",n
+1016,1008,text,"In March 2018, they absorbed the American Association of Cheerleading Coaches and Advisors and now provide safety guidelines and training for all levels of cheerleading.",n
+1019,1008,text,"Additionally, they organize the USA National Team.",n
+1020,20,p,,n
+1021,1020,text,Universal Cheerleading Association,n
+1025,1020,text,"""Today, UCA is the largest cheerleading camp company in the world, offering the widest array of dates and locations of any camp company. We also celebrate cheerleader’s incredible hard work and athleticism through the glory of competition at over 50 regional events across the country and our Championships at the Walt Disney World Resort ® every year.""",n
+1030,1020,text,"""UCA has instilled leadership skills and personal confidence in more than 4.5 million athletes on and off the field while continuing to be the industry’s leader for more than forty-five years.",n
+1033,1020,text,UCA has helped many cheerleaders get the training they need to succeed.,n
+1036,20,h2,Competitions and companies,n
+1037,20,p,,n
+1038,1037,text,Asian Thailand Cheerleading Invitational,n
+1042,1037,text,"Organised by the Cheerleading Association of Thailand in accordance with the rules and regulations of the International Federation of Cheerleading . The ATCI is held every year since 2009. At the ATCI, many teams from all over Thailand compete, joining them are many invited neighbouring nations who also send cheer squads.",n
+1046,20,p,Cheerleading Asia International Open Championships,n
+1052,20,p,,n
+1053,1052,text,Cheerleading World Championships,n
+1057,1052,text,"Organised by the IFC. The IFC is a non-profit organisation founded in 1998 and based in Tokyo, Japan. The CWC has been held every two years since 2001, and to date, the competition has been held in Japan, the United Kingdom, Finland, Germany, and Hong Kong . The 6th CWC was held at the Hong Kong Coliseum on November 26–27, 2011.",n
+1064,20,p,,n
+1065,1064,text,ICU World Championships,n
+1069,1064,text,"The International Cheer Union currently encompasses 105 National Federations from countries across the globe. Every year, the ICU host the World Cheerleading Championship. This competition uses a more collegiate style performance and rulebook. Countries assemble and send only one team to represent them.",n
+1070,20,p,,n
+1071,1070,text,National Cheerleading Championships,n
+1075,1070,text,The NCC is the annual IFC-sanctioned national cheerleading competition in Indonesia organised by the Indonesian Cheerleading Community .,n
+1078,1070,text,"Since NCC 2010, the event is now open to international competition, representing a significant step forward for the ICC. Teams from many countries such as Japan, Thailand, the Philippines, and Singapore participated in the ground breaking event.",n
+1085,20,div,The competition floor at Final Destination,n
+1086,20,p,,n
+1087,1086,text,Pan-American Cheerleading Championships,n
+1091,1086,text,"The PCC was held for the first time in 2009 in the city of Latacunga , Ecuador and is the continental championship organised by the Pan-American Federation of Cheerleading . The PFC, operating under the umbrella of the IFC, is the non-profit continental body of cheerleading whose aim it is to promote and develop cheerleading in the Americas. The PCC is a biennial event, and was held for the second time in Lima, Peru, in November 2010.",n
+1094,20,p,,n
+1095,1094,text,USASF or IASF Worlds,n
+1101,1094,text,"Many United States cheerleading organizations form and register the not-for-profit entity the United States All Star Federation and also the International All Star Federation to support international club cheerleading and the World Cheerleading Club Championships. The first World Cheerleading Championships, or Cheerleading Worlds, were hosted by the USASF or IASF at the Walt Disney World Resort and taped for an ESPN global broadcast in 2004. This competition is only for All-Star or Club cheer. Only level 6 and 7 teams may attend and must receive a bid from a partner company.",n
+1106,20,p,,n
+1107,1106,text,Varsity,n
+1111,1106,text,"Varsity Spirit, a branch of Varsity Brands is a parent company which, over the past 10 years, has absorbed or bought most other cheerleading event production companies. The following is a list of subsidiary competition companies owned by Varsity Spirit:",n
+1114,20,ul,,n
+1116,1114,li,All Star Challenge,n
+1118,1114,li,All Star Championships,n
+1120,1114,li,All Things Cheer,n
+1122,1114,li,Aloha Spirit Championships,n
+1124,1114,li,America's Best Championships,n
+1126,1114,li,American Cheer and Dance,n
+1128,1114,li,American Cheer Power,n
+1130,1114,li,American Cheerleaders Association,n
+1131,1114,li,,n
+1132,1131,text,AmeriCheer,n
+1136,1131,text,"Americheer was founded in 1987 by Elizabeth Rossetti. It is the parent company to Ameridance and Eastern Cheer and Dance Association. In 2005, Americheer became one of the founding members of the NLCC. This means that Americheer events offer bids to The U.S. Finals: The Final Destination. AmeriCheer InterNational Championship competition is held every March at the Walt Disney World Resort in Orlando, Florida.",n
+1140,1114,li,Athletic Championships,n
+1142,1114,li,Champion Cheer and Dance,n
+1144,1114,li,Champion Spirit Group,n
+1146,1114,li,Cheer LTD,n
+1148,1114,li,CHEERSPORT,n
+1154,1114,li,CheerStarz,n
+1156,1114,li,COA Cheer and Dance,n
+1158,1114,li,Coastal Cheer and Dance,n
+1160,1114,li,Encore Championships,n
+1162,1114,li,GLCC Events,n
+1164,1114,li,Golden State Spirit Association,n
+1165,1114,li,,n
+1166,1165,text,The JAM Brands,n
+1170,1165,text,"The JAM Brands, headquartered in Louisville, Kentucky , provides products and services for the cheerleading and dance industry. It was previously made up of approximately 12 different brands that produce everything from competitions to camps to uniforms to merchandise and apparel, but is now owned by the parent company Varsity. JAMfest, the original brand of The JAM Brands, has been around since 1996 and was founded by Aaron Flaker and Emmitt Tyler.",n
+1174,1114,li,Mardi Gras Spirit Events,n
+1176,1114,li,Mid Atlantic Championships,n
+1178,1114,li,Nation's Choice,n
+1180,1114,li,National Cheerleaders Association,n
+1190,1114,li,One Up Championships,n
+1192,1114,li,PacWest,n
+1194,1114,li,Sea to Sky,n
+1196,1114,li,Spirit Celebration,n
+1198,1114,li,Spirit Cheer,n
+1200,1114,li,Spirit Sports,n
+1202,1114,li,Spirit Unlimited,n
+1204,1114,li,Spirit Xpress,n
+1206,1114,li,The American Championships,n
+1208,1114,li,The U.S. Finals,n
+1210,1114,li,,n
+1211,1210,text,Universal Cheerleaders Association,n
+1214,1210,text,"Universal Cheerleaders Association was founded in 1974 by Jeff Webb. Since 1980, UCA has hosted the National High School Cheerleading Championship in Walt Disney World Resort. They also host the National All-Star Cheerleading Championship, and the College Cheerleading National Championship at Walt Disney World Resort. All of these events air on ESPN .",n
+1217,1114,li,,n
+1218,1217,text,United Spirit Association,n
+1221,1217,text,"In 1950, Robert Olmstead directed his first summer training camp, and USA later sprouted from this. USA's focus is on the game day experience as a way to enhance audience entertainment. This focus led to the first American football half-time shows to reach adolescences from around the world and expose them to American style cheerleading. USA provides competitions for cheerleading squads without prior qualifications needed in order to participate. The organization also allows the opportunity for cheerleaders to become an All-American, participate in the Macy's Thanksgiving Day Parade , and partake in London's New Year's Day Parade and other special events much like UCA and NCA allow participants to do.",n
+1227,1114,li,Universal Spirit Association,n
+1229,1114,li,World Spirit Federation,n
+1232,20,h2,Title IX sports status,n
+1233,20,p,,n
+1234,1233,text,"In the United States, the designation of a ""sport"" is important because of Title IX . There is a large debate on whether or not cheerleading should be considered a sport for Title IX purposes. The Office for Civil Rights issued memos and letters to schools that cheerleading, both sideline and competitive, may not be considered ""athletic programs"" for the purposes of Title IX.",n
+1241,1233,text,athletic talents,n
+1246,1233,text,"while critics see it as a physical activity because a ""sport"" implies a competition among all squads and not all squads compete, along with subjectivity of competitions where—as with gymnastics , diving , and figure skating —scores are assessed based on human judgment and not an objective goal or measurement of time.",n
+1259,20,p,,n
+1260,1259,text,"On January 27, 2009, in a lawsuit involving an accidental injury sustained during a cheerleading practice, the Wisconsin Supreme Court ruled that cheerleading is a full-contact sport in that state, not allowing any participants to be sued for accidental injury.",n
+1269,1259,text,"In contrast, on July 21, 2010, in a lawsuit involving whether college cheerleading qualified as a sport for purposes of Title IX , a federal court, citing a current lack of program development and organization, ruled that it is not a sport at all.",n
+1274,20,p,,n
+1275,1274,text,The National Collegiate Athletic Association does not recognize cheerleading as a sport.,n
+1280,1274,text,"In 2014, the American Medical Association adopted a policy that, as the leading cause of catastrophic injuries of female athletes both in high school and college, cheerleading should be considered a sport.",n
+1285,1274,text,"While there are cheerleading teams at the majority of the NCAA’s Division I schools, they are still not recognized as a sport. This results in many teams not being properly funded. Additionally, there are little to no college programs offering scholarships because their universities cannot offer athletic scholarships to “spirit” team members.",n
+1295,20,div,"Cheerleading formations demonstrated in Tokyo , Japan",n
+1301,20,h2,Cheerleading in Canada,n
+1306,20,div,High school cheerleaders in Montreal in 1943,n
+1310,20,p,"Cheerleading in Canada is rising in popularity among the youth in co-curricular programs. Cheerleading has grown from the sidelines to a competitive activity throughout the world and in particular Canada. Cheerleading has a few streams in Canadian sports culture. It is available at the middle-school, high-school, collegiate, and best known for all-star. There are multiple regional, provincial, and national championship opportunities for all athletes participating in cheerleading. Canada does not have provincial teams, just a national program referred to as CCU or Team Canada. Their first year as a national team was in 2009 when they represented Canada at the International Cheer Union World Cheerleading Championships International Cheer Union .",n
+1317,20,h3,Competition in Canada,n
+1319,20,p,"There is no official governing body for Canadian cheerleading. The rules and guidelines for cheerleading used in Canada are the ones set out by the USASF . However, there are many organizations in Canada that put on competitions and have separate and individual rules and scoresheets for each competition. Cheer Evolution is the largest cheerleading and dance organization for Canada. They hold many competitions as well as provide a competition for bids to Worlds. There are other organizations such as the Ontario Cheerleading Federation , Power Cheerleading Association , Kicks Athletics , and the International Cheer Alliance . There are over forty recognized competitive gym clubs with numerous teams that compete at competitions across Canada.",n
+1326,20,h3,the Global Stage,n
+1327,20,p,,n
+1328,1327,text,"There are two world championship competitions that Canada participates in. The first is the ICU World Championships where the Canadian National Teams compete against other countries. The second is The Cheerleading Worlds where Canadian club teams, referred to as ""all-star"" teams, compete at the USASF Cheerleading Worlds. National team members who compete at the ICU Worlds can also compete with their ""all-star club"" teams.",n
+1331,1327,text,"Although athletes can compete in both International Cheer Union and USASF, crossovers between teams at each individual competition are not permitted. Teams compete against the other teams from their countries on the first day of competition and the top three teams from each country in each division continue to finals. At the end of finals, the top team scoring the highest for their country earns the ""Nations Cup"". Canada has multiple teams across their country that compete in the USASF Cheerleading Worlds Championship.",n
+1337,20,p,"The International Cheer Union is built of 103 countries that compete against each other in four divisions; Coed Premier, All-girl Premier, Coed Elite, and All-girl Elite. Canada has a national team ran by the Canadian Cheer Union . Their Coed Elite Level 5 Team and their All-girl Elite Level 5 team are 4-time world champions. The athletes on the teams are found from all over the country. In 2013, they added two more teams to their roster. A new division that will compete head-to-head with the United States: in both the All-girl and Coed Premier Level 6 divisions. Members tryout and are selected on the basis of their skills and potential to succeed. Canada's national program has grown to be one of the most successful programs.",n
+1344,20,h2,Cheerleading in Mexico,n
+1349,20,div,"Mexican cheerleaders at a soccer game in Monterrey , Mexico.",n
+1353,20,p,"Cheerleading in Mexico is a popular sport commonly seen in Mexican College Football and Professional Mexican Soccer sporting events. Cheerleading emerged within the National Autonomous University of Mexico , the highest House of Studies in the country, during the 1930s, almost immediately after it was granted its autonomy. Since then, this phenomenon has been evolving to become what it is now. Firstly, it was developed only in the UNAM, later in other secondary and higher education institutions in Mexico City , and currently in practically the entire country.",n
+1366,20,h3,Competition in Mexico,n
+1371,20,div,"Cheerleaders associated with the Borregos Salvajes , called ""Borreguitas"" at the Monterrey Institute of Technology and Higher Education, Mexico City .",n
+1377,20,p,"In Mexico, this sport is endorsed by the Mexican Federation of Cheerleaders and Cheerleading Groups , a body that regulates competitions in Mexico and subdivisions such as the Olympic Confederation of Cheerleaders , National Organization of Cheerleaders and the Mexican Organization of Trainers and Animation Groups , these being the largest in the country.",n
+1381,20,p,"In 2021, the third edition of the National Championship of State Teams was held and organized by The Mexican Federation of Cheerleaders and Cheerleading Groups, on this occasion, the event was held virtually, broadcasting live, through the Vimeo platform.",n
+1384,20,h3,the Global Stage,n
+1385,20,p,,n
+1386,1385,text,"In Mexico there are more than 500 teams and almost 10,000 athletes who practice this sport, in addition to a representative national team of Mexico, which won first place in the cheerleading world championship organized by the ICU on April 24, 2015, receiving a gold medal;",n
+1391,1385,text,"In 2016, Mexico became the second country with the most medals in the world in this sport. With 27 medals, it is considered the second world power in this sport, only behind the United States.",n
+1394,1385,text,"In the 2019 Coed Premier World Cheerleading Championship Mexico ranked 4th just behind the United States, Canada and Taiwan. In 2021 the mexican team won 3rd place at the Junior Boom category in World Cheerleading Championship 2021 hosted by international cheerleading federation.",n
+1401,20,h2,Cheerleading in the United Kingdom,n
+1403,20,p,This section has a link to a separate Wikipedia page that talks about the history and growth of cheerleading in the United Kingdom. This can be used to compare and contrast the activity in the U.S and in Australia.,n
+1406,20,div,Main article,n
+1410,20,h2,Cheerleading in Australia,n
+1412,20,p,This section has a link to a separate Wikipedia page that talks about the history and growth of cheerleading in Australia. This can be used to compare and contrast the activity in the U.S and in Australia.,n
+1415,20,div,Main article,n
+1419,20,h2,Notable former cheerleaders,n
+1421,20,p,This section has a link to a separate Wikipedia page that lists former cheerleaders and well-known cheerleading squads.,n
+1424,20,div,Main article,n
+1428,20,h2,See also,n
+1431,20,div,See also,n
+1434,20,ul,,n
+1436,1434,li,Cheerleader Nation,n
+1438,1434,li,Cheerleading in Japan,n
+1440,1434,li,Cheerleading Philippines,n
+1442,1434,li,Color guard,n
+1444,1434,li,Dance squad,n
+1446,1434,li,Dance,n
+1448,1434,li,Gymnastics,n
+1450,1434,li,cheerleading jumps,n
+1452,1434,li,cheerleading stunts,n
+1454,1434,li,Majorette,n
+1456,1434,li,National Basketball Association Cheerleading,n
+1458,1434,li,National Football League Cheerleading,n
+1460,1434,li,Pep squad,n
+1462,1434,li,Pom-pom,n
+1464,1434,li,UAAP Cheerdance Competition,n
+1466,1434,li,Varsity Brands,n
+1469,20,h2,References,n
+1472,20,div,,n
+1478,1472,li,"""Cheerleading",n
+1496,1472,li,Cheerleading,n
+1517,1472,li,,n
+1518,1517,text,"Campo-Flores, Arian . ""A World of Cheer!"" . Newsweek . Archived from the original on 2009-02-03",n
+1528,1517,span,-17,n
+1535,1472,li,"Golden, Suzi J. Best Cheers",n
+1542,1472,li,"Hanson, Mary Ellen. Go! Fight! Win!: Cheerleading in American Culture. Bowling Green, OH: Bowling Green State Univ. Popular, 1995, p. 9.",n
+1554,1472,li,,n
+1556,1554,cite,,n
+1557,1556,text,"Unknown Author. ""History of Cheerleading"" . Lee's Summit High School student projects . Archived from the original on 2007-02-18",n
+1567,1556,span,-18,n
+1576,1554,span,,n
+1578,1576,code,|last=,n
+1579,1576,text,has generic name,n
+1587,1472,li,,n
+1588,1587,text,"""First Intercollegiate Football Game; Princeton.edu"" . princeton.edu. Archived from the original on 2018-03-14",n
+1595,1587,span,-16,n
+1630,1472,li,The Daily Princetonian . 1,n
+1638,1472,li,The Daily Princetonian . 4,n
+1646,1472,li,The Daily Princetonian . 6,n
+1656,1472,li,"""Princeton University website Songs and Cheers"" . Princeton.edu. Archived from the original on 2012-11-02",n
+1670,1472,li,"""Thomas Peebles"" . History of Minneapolis, Gateway to the Northwest Chicago-Minneapolis: The S J Clarke Publishing Co. 1923. Marion Daniel Shutter, ed. Volume III: Biographical, pp. 719–720.",n
+1680,1472,li,"""International Cheer Union, Governing Body of International Cheerleading Website: History of Cheerleading"" . Cheerunion.org. 1989-01-01. Archived from the original on 2012-07-23",n
+1694,1472,li,The Daily Princetonian . 22,n
+1702,1472,li,The Daily Princetonian . 25,n
+1720,1472,li,"""Male Cheerleaders"" . cheerleading.lovetoknow.com . Archived from the original on-21",n
+1743,1472,li,,n
+1744,1743,text,"Neil, Randy L.; Hart, Elaine .",n
+1746,1743,span,The Official Cheerleader's Handbook,n
+1747,1743,text,. Simon and Schuster . ISBN,n
+1752,1743,bdi,--8,n
+1769,1472,li,"Walker, Marisa . ""Cheer Milestones"". American Cheerleader . 11 : 41–43.",n
+1787,1472,li,"""Archived copy"" . Archived from the original on-18",n
+1809,1472,li,"Hanson, Mary Ellen. Go! Fight! Win!: Cheerleading in American Culture. Bowling Green, OH: Bowling Green State Univ. Popular, 1995, pp. 17–18.",n
+1816,1472,li,"Golden, Suzi J. Best Cheers",n
+1821,1472,li,"Peters, Craig. Chants, Cheers, and Jumps. Philadelphia: Mason Crest, 2003, p. 16.",n
+1836,1472,li,"Balthaser, Joel D. . ""Cheerleading – Oh How far it has come!"" . Pop Warner . Archived from the original on November 13, 2007",n
+1853,1472,li,"Hanson, Mary Ellen. Go! Fight! Win!: Cheerleading in American Culture. Bowling Green, OH: Bowling Green State Univ. Popular, 1995, p. 3.",n
+1860,1472,li,"Hanson, Mary Ellen. Go! Fight! Win!: Cheerleading in American Culture. Bowling Green, OH: Bowling Green State Univ. Popular, 1995, p. 25.",n
+1869,1472,li,"""Being a Cheerleader - History of Cheerleading"" . Varsity.com . Archived from the original on 2017-12-01",n
+1886,1472,li,"Hanson, Mary Ellen. Go! Fight! Win!: Cheerleading in American Culture. Bowling Green, OH: Bowling Green State Univ. Popular, 1995, p. 20.",n
+1893,1472,li,"Peters, Craig. Chants, Cheers, and Jumps. Philadelphia: Mason Crest, 2003, p. 18.",n
+1906,1472,li,"Hanson, Mary Ellen. Go! Fight! Win!: Cheerleading in American Culture. Bowling Green, OH: Bowling Green State Univ. Popular, 1995, p. 55.",n
+1942,1472,li,,n
+1943,1942,text,"""Cheerleading Jump Herkie"" . Archived from the original on-15",n
+1950,1942,span,-06,n
+1957,1472,li,"Hanson, Mary Ellen. Go! Fight! Win!: Cheerleading in American Culture. Bowling Green, OH: Bowling Green State Univ. Popular, 1995, p. 26.",n
+1966,1472,li,"""Cheerleading - sports"" . Britannica.com . Archived from the original on 1 December 2017",n
+1985,1472,li,"""About the AACCA"" . Archived from the original on-06",n
+2001,1472,li,"""Being a Cheerleader – Fundraising"" . Varsity.com . Archived from the original on 1 December 2017",n
+2017,1472,li,,n
+2018,2017,text,"Christine Farina and Courtney A. Clark, Complete Guide to Cheerleading: All the Tips, Tricks, and Inspiration , 12.",n
+2022,2017,text,ISBN 9781610602105,n
+2030,1472,li,"""2 NFL Male LA Rams Cheerleaders Will Make Football History in Super Bowl Game : NPR"" . NPR.org . Archived from the original on 2021-01-14",n
+2048,1472,li,"""Injured Cheerleader Defends Dangerous Stunts"" . ABC News . 8 March 2006. Archived from the original on 1 December 2017",n
+2067,1472,li,"""Cheer Bans continue"" . Athletic Management . No. August or September 2006. Archived from the original on December 3, 2010",n
+2080,1472,li,,n
+2092,2080,span,d,n
+2095,2080,span,,n
+2096,2095,text,"""Cheerleader worried for team, not herself"" . MSNBC . Archived from the original on 2006-04-21",n
+2105,2095,span,-29,n
+2119,1472,li,,n
+2120,2119,text,"""Cheerleading programs going all-out",n
+2127,2119,span,-19,n
+2136,1472,li,"Soard, Lori. ""Elementary School Cheerleading"" . LoveToKnow . Archived from the original on 2020-08-15",n
+2154,1472,li,,n
+2155,2154,text,"Lord, Jim. ""Junior High Cheer"" . USA Cheer",n
+2162,2154,span,-14,n
+2169,1472,li,"NFHS.org Archived June 8, 2009, at the Wayback Machine",n
+2177,1472,li,Universal Cheerleaders Association 2008. 7 December 2008. Varsity.com Archived 2010-08-18 at the Wayback Machine,n
+2188,1472,li,"""Cheerleading"" . Livebinders.com . Archived from the original on 1 December 2017",n
+2213,1472,li,"Smith, Jennifer Renèe . ""The All-Star Chronicles"". American Cheerleader . 13 : 40–42.",n
+2230,1472,li,,n
+2231,2230,text,"""The Cheerleading Worlds Administered by the USASF"" . Varsity Brands, Inc. Archived from the original on 2009-02-03",n
+2238,2230,span,-20,n
+2246,1472,li,,n
+2247,2246,text,"""Cheer teams to provide crowd support only at winter olympics"" . usacheer.org . 2018-01-23. Archived from the original on 2018-02-15",n
+2256,2246,span,-14,n
+2270,1472,li,,n
+2271,2270,text,"Labella, C. R.; Mjaanes, J.; Council on Sports Medicine Fitness , ""American Academy of Pediatrics Council on Sports Medicine and Fitness. Policy statement. Cheerleading injuries: epidemiology and recommendations for prevention."", Pediatrics , 130 : 966–971, doi :",n
+2279,2270,span,1542 or peds.,n
+2280,2270,text,", PMID 23090348",n
+2289,1472,li,,n
+2290,2289,text,"""Catastrophic Sport Injury Research 28th Annual Report 2011""",n
+2293,2289,text,. National Center,n
+2297,2289,text,from the original on 17 February 2014,n
+2301,2289,span,6 November,n
+2316,1472,li,,n
+2317,2316,text,"National Center for Catastrophic Sport Injury Research At The University of North Carolina at Chapel Hill . ""CATASTROPHIC SPORTS INJURY RESEARCH THIRTY-SEVENTH ANNUAL REPORT FALL 1982 - SPRING 2019""",n
+2321,2316,text,. National Center,n
+2327,2316,text,from the original on-03,n
+2332,2316,span,2021,n
+2341,1472,li,"""Evidence Soup"" . Evidence Soup. 2009-06-22. Archived from the original on 2012-03-28",n
+2357,1472,li,"""Cheerleading Dangers"" . Connectwithkids.com . Archived from the original on-20",n
+2375,1472,li,"""Dangers Of Cheerleading"" . CBS News . April 22, 2004. Archived from the original on 2008-10-16",n
+2393,1472,li,"Boden, Barry P; Tacchetti, Robin; Mueller, Frederick O . ""Catastrophic Cheerleading Injuries"". The American Journal of Sports Medicine . 31 : 881–888. doi : 10.1177 or 03635465030310062501 . PMID 14623653 . S2CID 34310970 .",n
+2415,1472,li,"""Health Warnings",n
+2431,1472,li,"""High risks for girls who high kick"". Irish Examiner . 2009-06-30. p. 9.",n
+2441,1472,li,"""Girls' Most Dangerous Sport",n
+2458,1472,li,"""Newton North grad dies in cheerleading accident"" . Boston.com . Archived from the original on 5 March 2016",n
+2477,1472,li,"""Pediatric Injury Prevention, Education and Research Program"" . Colorado School of Public Health . Archived from the original on July 15, 2014",n
+2495,1472,li,,n
+2496,2495,text,"R. Dawn Comstock, Christy L. Collins, Dustin Currie . ""Convenience Sample Summary Report : National High Scholl Sports-related Injury Study : 2012-2013 School Year""",n
+2500,2495,text,. pp. 181–187. Archived,n
+2504,2495,text,"from the original on March 4, 2016",n
+2524,1472,li,International Cheer Union Retrieved-18.,n
+2531,1472,li,,n
+2532,2531,text,"""USA Cheer Announces U.S. JUNIOR NATIONAL Team"" . USA Cheer News. January 30, 2017. Archived from the original on February 11, 2017",n
+2539,2531,span,-06,n
+2548,1472,li,"""International Federation of Cheerleading - International Federation of Cheerleading"" . Ifc-hdqrs.org. Archived from the original on 2012-10-23",n
+2570,1472,li,"""About"" . Archived from the original on-02",n
+2586,1472,li,"""Archived copy"" . Archived from the original on-02",n
+2618,1472,li,"""Home"" . Varsity.com . Archived from the original on-14",n
+2636,1472,li,"Thailand "" . Thaicheerleading.com. Archived from the original on-18",n
+2652,1472,li,"Japan Cheerleading Association "" . Fjca.jp. Archived from the original on-04",n
+2668,1472,li,"""International Federation of Cheerleading "" . Ifc-hdqrs.org. 2012-04-20. Archived from the original on 2012-09-04",n
+2684,1472,li,"""Cheerleading World Championships 2011 "" . Daretocheer.com. Archived from the original on-15",n
+2699,1472,li,,n
+2700,2699,text,"""International Cheer Union "" . cheerunion.org. 2013-03-18. Archived from the original on 2014-04-18",n
+2707,2699,span,-18,n
+2716,1472,li,"""Indonesian Cheerleading Community | Komunitas Cheerleading Indonesia "" . Indonesiancheerleading.com. Archived from the original on 2012-09-04",n
+2732,1472,li,"""Indonesia to Host 3rd Annual National Cheerleading Championships"" . Ifc-hdqrs.org. Archived from the original on 2012-10-23",n
+2748,1472,li,"""PanamericanCheer"" . Panamericancheer.com . Archived from the original on 19 November 2017",n
+2767,1472,li,"""Usasf.Net"" . Usasf.Net. Archived from the original on-22",n
+2783,1472,li,"""Usasf.Net"" . Iasfworlds.org. Archived from the original on-11",n
+2799,1472,li,"""The Official Site - Varsity.com - We Are Cheerleading"" . Varsity.com. Archived from the original on 2014-01-22",n
+2815,1472,li,"""Archived copy"" . Archived from the original on-16",n
+2839,1472,li,"""Cheerleading Competition, InterNationals, Westerville, Ohio"" . AmeriCheer. Archived from the original on 2014-02-02",n
+2855,1472,li,"""The JAM Brands Cheer and Dance Competitions, Conferences and Apparel"" . Thejambrands.com. Archived from the original on 2012-06-29",n
+2871,1472,li,"""Universal Cheerleaders Association - Where America Cheers – HomeCollege Nationals"" . Uca.varsity.com. Archived from the original on 2012-07-28",n
+2887,1472,li,"""Archived copy"" . Archived from the original on-26",n
+2911,1472,li,"Glatt, Ephraim . ""Defining Sport under Title IX: Cheerleading"". Sports Lawyers Journal . 19 : 297–324.",n
+2923,1472,li,"""The road to recognition"" . BCA resources . August 2, 2008. Archived from the original on February 26, 2008",n
+2941,1472,li,,n
+2942,2941,text,"""Cheerleading in the USA",n
+2951,2941,span,"December 1,",n
+2961,1472,li,"""Sport, not a sport",n
+2980,1472,li,"Meades, Jamie . ""No, Cheerleading is not a Sport"" . SFU Cheer Resources . Simon Fraser University . Archived from the original on August 17, 2007",n
+3001,1472,li,,n
+3002,3001,text,"Adams, Tyler . ""Point",n
+3014,3001,span,"July 1,",n
+3024,1472,li,"""Wisconsin Court",n
+3044,1472,li,"Ziegler, Michele, ""Wisconsin Supreme Court Ruling"" , AACCA, archived from the original on 2009-03-30",n
+3060,1472,li,,n
+3061,3060,text,"""U.S. judge in Conn.",n
+3065,3060,span,,n
+3068,3065,span,"November 10,",n
+3069,3065,text,2019,n
+3078,1472,li,"Grindstaff, Laura; West, Emily . ""Cheerleading and the Gendered Politics of Sport"" . Social Problems . 53 : 500–518. doi : 10.1525 or sp.2006.53.4.500 . JSTOR 10.1525 or sp.2006.53.4.500 .",n
+3098,1472,li,,n
+3099,3098,text,"""Cheerleading should be designated a sport, say medical officials"" . Fox News . June 10, 2014. Archived from the original on February 9, 2019",n
+3105,3098,span,,n
+3108,3105,span,"September 9,",n
+3109,3105,text,2020,n
+3118,1472,li,"David . ""Can you get a scholarship for cheerleading?"" . ScholarshipOwl . Archived from the original on 2020-11-29",n
+3134,1472,li,,n
+3136,3134,cite,,n
+3137,3136,text,"""CCU ""About""",n
+3139,3136,text,"""",n
+3151,3134,span,permanent dead link,n
+3159,1472,li,"""Find A Club Near You"" . Cheer Evolution. Archived from the original on 3 May 2013",n
+3176,1472,li,"""Canada looks for fourth straight gold medal"" . 19 April 2012. Archived from the original on 2 September 2013",n
+3193,1472,li,"""United States All Star Federation"" . USASF. Archived from the original on 5 April 2013",n
+3210,1472,li,"""teamcanadacheer"" . Teamcanadacheer . Archived from the original on 21 October 2014",n
+3229,1472,li,"Ontiveros, José René Rivas . ""Origen, evolución y consolidación del porrismo en la UNAM "" . Cuadernos de Marte : 113–149. ISSN 1852-9879 . Archived from the original on 2022-01-21.",n
+3246,1472,li,"""Porras"" . CIW . Archived from the original on-17",n
+3264,1472,li,"Espinoza, Yazmín . ""Sebastián Paniagua Paz",n
+3283,1472,li,"""PORRISTAS EN MÉXICO | Salud and Fitness Amino Amino"" . Salud and Fitness Amino | aminoapps.com . Archived from the original on 2022-01-21",n
+3301,1472,li,Cheerleading,n
+3316,1472,li,"""Mexico wins bronze at the World Cheerleading Championships - El Financiero"" . SmallCapNews.co.uk . 2021-10-10. Archived from the original on 2022-01-21",n
+3330,20,h2,External links,n
+3335,20,table,,n
+3336,3335,text,Wikimedia Commons has media related to,n
+3338,3335,span,Cheerleading,n
+3345,20,table,"Look up cheerleading in Wiktionary, the free dictionary.",n
+3350,20,li,Cheerleading at Curlie,n
+3356,20,div,,n
+3358,3356,tr,,n
+3360,3358,span,show,n
+3362,3358,ul,,n
+3365,3362,li,v,n
+3368,3362,li,t,n
+3371,3362,li,e,n
+3373,3358,div,Supporter culture,n
+3374,3356,tr,,n
+3376,3374,th,General topics,n
+3379,3374,ul,,n
+3381,3379,li,Fan loyalty,n
+3383,3379,li,sport,n
+3385,3379,li,Racism in sport,n
+3387,3379,li,Spectator sport,n
+3389,3379,li,Sports fan,n
+3391,3379,li,Sports rivalry,n
+3392,3356,tr,,n
+3394,3392,th,Actions,n
+3397,3392,ul,,n
+3399,3397,li,Booing,n
+3401,3397,li,Cheering,n
+3403,3397,li,Crowd abuse,n
+3405,3397,li,Music Fight song,n
+3409,3397,li,Stadium anthem,n
+3412,3397,li,Pitch invasion,n
+3414,3397,li,Trash-talk,n
+3416,3397,li,Violence,n
+3417,3356,tr,,n
+3419,3417,th,Associated activities,n
+3422,3417,ul,,n
+3426,3422,li,Groundhopping,n
+3428,3422,li,Haka,n
+3430,3422,li,Hooliganism,n
+3432,3422,li,Sports betting,n
+3434,3422,li,Sports tourism,n
+3436,3422,li,Tifo,n
+3437,3356,tr,,n
+3439,3437,th,Cultures by sport,n
+3440,3437,td,,n
+3444,3440,table,,n
+3446,3444,th,Cricket,n
+3449,3444,ul,,n
+3451,3449,li,Barmy Army,n
+3453,3449,li,Beer wench,n
+3455,3449,li,Beer snake,n
+3457,3449,li,Sledging,n
+3461,3440,table,,n
+3463,3461,th,North American sports,n
+3466,3461,ul,,n
+3468,3466,li,Collegiate sport rituals,n
+3470,3466,li,Jocks,n
+3472,3466,li,Kiss cam,n
+3474,3466,li,Surf culture,n
+3476,3466,li,Tailgate party,n
+3485,3440,ul,,n
+3487,3485,li,Association football culture,n
+3489,3485,li,Australian rules football culture,n
+3491,3356,tr,,n
+3493,3491,th,Songs,n
+3496,3491,ul,,n
+3498,3496,li,Stadium anthem,n
+3500,3496,li,Football chant,n
+3502,3496,li,Fight song,n
+3503,3356,tr,,n
+3505,3503,th,Sports memorabilia,n
+3506,3503,td,,n
+3510,3506,table,,n
+3512,3510,th,Clothing,n
+3515,3510,ul,,n
+3517,3515,li,American football uniform,n
+3519,3515,li,Association football kit,n
+3521,3515,li,Baseball uniform,n
+3523,3515,li,Basketball uniform,n
+3525,3515,li,Casquette,n
+3527,3515,li,Casuals fashion,n
+3529,3515,li,Cycling jersey,n
+3531,3515,li,Ice hockey jersey,n
+3533,3515,li,Rally cap,n
+3535,3515,li,Replica uniform,n
+3544,3506,ul,,n
+3546,3544,li,Event programme,n
+3548,3544,li,Pennant,n
+3550,3544,li,Rally towel,n
+3552,3544,li,Supporter scarf,n
+3554,3356,tr,,n
+3556,3554,th,supporter,n
+3559,3554,ul,,n
+3561,3559,li,Barra brava,n
+3563,3559,li,Casuals,n
+3565,3559,li,Hooligan firm,n
+3567,3559,li,Roligan,n
+3569,3559,li,Supporters' trust,n
+3571,3559,li,Tifosi,n
+3573,3559,li,Torcedor organizado,n
+3575,3559,li,Ultras,n
+3581,3356,ul,,n
+3583,3581,li,Sporting man culture,n
+3585,3581,li,Sports mascots,n
+3587,3581,li,Sports-related curses,n
+3589,3581,li,Terrace,n
+3591,3581,li,Bleacher,n
+3597,20,div,,n
+3599,3597,th,Authority control,n
+3602,3597,ul,,n
+3605,3602,li,Germany,n
+3608,3602,li,Japan,n
+3611,19,div,"Retrieved from "" https",n
+3614,11,div,,n
+3615,3614,div,,n
+3616,3615,text,Categories,n
+3618,3615,ul,,n
+3622,3618,li,Sports culture,n
+3624,3618,li,Sports entertainment,n
+3626,3618,li,Concert dance,n
+3627,3614,div,,n
+3628,3627,text,Hidden categories,n
+3629,3627,ul,,n
+3631,3629,li,CS1 errors,n
+3633,3629,li,CS1 maint,n
+3635,3629,li,Webarchive template wayback links,n
+3637,3629,li,CS1 maint,n
+3639,3629,li,All articles with dead external links,n
+3641,3629,li,Articles with dead external links from January 2021,n
+3643,3629,li,Articles with permanently dead external links,n
+3645,3629,li,CS1 Spanish-language sources,n
+3647,3629,li,CS1 Mexican Spanish-language sources,n
+3649,3629,li,Wikipedia indefinitely semi-protected pages,n
+3651,3629,li,Articles with short description,n
+3653,3629,li,Short description is different from Wikidata,n
+3655,3629,li,Articles lacking in-text citations from December 2020,n
+3657,3629,li,All articles lacking in-text citations,n
+3659,3629,li,All articles with unsourced statements,n
+3661,3629,li,Articles with unsourced statements from December 2020,n
+3663,3629,li,Articles needing additional references from November 2016,n
+3665,3629,li,All articles needing additional references,n
+3667,3629,li,Articles containing potentially dated statements from 2020,n
+3669,3629,li,All articles containing potentially dated statements,n
+3671,3629,li,Articles with unsourced statements from April 2021,n
+3673,3629,li,Commons category link is on Wikidata,n
+3675,3629,li,Articles with Curlie links,n
+3677,3629,li,Articles with GND identifiers,n
+3679,3629,li,Articles with NDL identifiers,n
+3680,0,div,,n
+3682,3680,h2,Navigation menu,n
+3683,3680,div,,n
+3684,3683,nav,,n
+3687,3684,h3,Personal tools,n
+3689,3684,ul,,n
+3692,3689,li,Not logged in,n
+3698,3689,li,Contributions,n
+3701,3689,li,Create account,n
+3704,3689,li,Log in,n
+3705,3683,div,,n
+3706,3705,nav,,n
+3709,3706,h3,Namespaces,n
+3714,3706,li,Article,n
+3722,3705,span,English,n
+3725,3683,div,,n
+3726,3725,nav,,n
+3729,3726,h3,Views,n
+3731,3726,ul,,n
+3734,3731,li,Read,n
+3737,3731,li,View source,n
+3740,3731,li,View history,n
+3745,3725,span,More,n
+3752,3725,h3,Search,n
+3759,3680,div,,n
+3761,3759,nav,,n
+3764,3761,h3,Navigation,n
+3766,3761,ul,,n
+3769,3766,li,Main page,n
+3772,3766,li,Contents,n
+3775,3766,li,Current events,n
+3778,3766,li,Random article,n
+3784,3766,li,Contact us,n
+3787,3766,li,Donate,n
+3788,3759,nav,,n
+3791,3788,h3,Contribute,n
+3793,3788,ul,,n
+3796,3793,li,Help,n
+3799,3793,li,Learn to edit,n
+3802,3793,li,Community portal,n
+3805,3793,li,Recent changes,n
+3809,3759,nav,,n
+3812,3809,h3,Tools,n
+3814,3809,ul,,n
+3817,3814,li,What links here,n
+3820,3814,li,Related changes,n
+3826,3814,li,Special pages,n
+3829,3814,li,Permanent link,n
+3832,3814,li,Page information,n
+3835,3814,li,Cite this page,n
+3838,3814,li,Wikidata item,n
+3839,3759,nav,,n
+3842,3839,h3,Print or export,n
+3844,3839,ul,,n
+3847,3844,li,Download as PDF,n
+3850,3844,li,Printable version,n
+3851,3759,nav,,n
+3854,3851,h3,In other projects,n
+3856,3851,ul,,n
+3859,3856,li,Wikimedia Commons,n
+3862,3856,li,Wikinews,n
+3863,3759,nav,,n
+3867,3863,h3,Languages,n
+3868,3863,div,,n
+3869,3868,ul,,n
+3872,3869,li,العربية,n
+3875,3869,li,Azərbaycanca,n
+3878,3869,li,Bân-lâm-gú,n
+3881,3869,li,Български,n
+3884,3869,li,Català,n
+3887,3869,li,Чӑвашла,n
+3890,3869,li,Čeština,n
+3893,3869,li,Dansk,n
+3896,3869,li,Deutsch,n
+3899,3869,li,Eesti,n
+3902,3869,li,Español,n
+3905,3869,li,Esperanto,n
+3908,3869,li,Euskara,n
+3911,3869,li,فارسی,n
+3914,3869,li,Français,n
+3917,3869,li,Frysk,n
+3920,3869,li,Galego,n
+3926,3869,li,Հայերեն,n
+3929,3869,li,Bahasa Indonesia,n
+3932,3869,li,Italiano,n
+3935,3869,li,עברית,n
+3938,3869,li,Magyar,n
+3941,3869,li,Bahasa Melayu,n
+3944,3869,li,Nederlands,n
+3950,3869,li,Norsk bokmål,n
+3953,3869,li,Олык марий,n
+3956,3869,li,پنجابی,n
+3959,3869,li,Polski,n
+3962,3869,li,Português,n
+3965,3869,li,Русский,n
+3968,3869,li,Slovenščina,n
+3971,3869,li,Српски or srpski,n
+3974,3869,li,Suomi,n
+3977,3869,li,Svenska,n
+3980,3869,li,Tagalog,n
+3983,3869,li,தமிழ்,n
+3986,3869,li,ไทย,n
+3989,3869,li,Türkçe,n
+3992,3869,li,Українська,n
+3995,3869,li,اردو,n
+3998,3869,li,Tiếng Việt,n
+4003,3869,button,35 more,n
+4006,3868,div,Edit links,n
+4007,0,footer,,n
+4008,4007,ul,,n
+4010,4008,li,"This page was last edited on 26 June 2022, at 21:17",n
+4015,4008,li,"Text is available under the Creative Commons Attribution-ShareAlike License 3.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.",n
+4024,4007,ul,,n
+4026,4024,li,Privacy policy,n
+4030,4024,li,Disclaimers,n
+4032,4024,li,Contact Wikipedia,n
+4034,4024,li,Mobile view,n
+4036,4024,li,Developers,n
+4038,4024,li,Statistics,n
+4040,4024,li,Cookie statement,n
+4042,4024,li,Edit preview settings,n

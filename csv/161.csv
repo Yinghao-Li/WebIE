@@ -1,0 +1,30 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+8,0,div,,n
+10,8,h1,What You Need to Start Knitting,n
+11,8,div,,n
+12,11,p,,n
+13,12,text,"In order to become a master knitter, you're going to need some tools. Much like any other craft, knitting uses it's own unique notions to create just about anything!",n
+17,12,strong,Some things you'll need to get started,n
+18,11,ul,,n
+21,18,li,Knitting Needles,y
+24,18,li,Yarn,y
+27,18,li,Pattern,y
+31,11,p,Items which make knitting more enjoyable are,n
+32,11,ul,,n
+35,32,li,Small Scissors,y
+38,32,li,Project Bag,y
+41,32,li,Books,y
+44,32,li,Stitch Markers,y
+47,32,li,Small Tape Measure or Ruler,y
+50,32,li,Knitting Needle Gauge,y
+53,32,li,Yarn Gauge Guide,y
+56,32,li,Tapestry or Darning Needles,y
+60,11,p,Some additional things which will be nice to have to make knitting easier:,n
+61,11,ul,,n
+64,61,li,Yarn Storage Containers,y
+67,61,li,Knitting Needle Storage,y
+70,61,li,Knitting Needle Protectors,y
+71,11,p,,n
+73,71,br,"Knitting can be a useful skill to know, but can also be one of the more tedious of crafts to learn. So grab some needles, yarn and what you want to make and just keep at it!",n
+76,71,br,Want to take a class on knitting? Check out our classes and sign-up today!,n

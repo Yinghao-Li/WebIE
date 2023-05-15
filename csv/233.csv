@@ -1,0 +1,115 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+7,1,h1,Safety Equipment,n
+12,1,div,,n
+26,12,h2,California Required Boat Safety Equipment,n
+31,12,div,,n
+32,31,div,,n
+35,32,h4,Human-powered Vessels,n
+38,32,div,,n
+40,38,p,California boating laws require recreational human powered vessels to carry the safety equipment listed on this fact sheet. Before you set out on the water always make sure this required safety equipment is ready and in working order.,n
+49,38,br,"All human-powered vessels, regardless of length, must carry a U.S. Coast Guard-approved life jacket in serviceable condition and of a type and size appropriate for the intended wearer, the conditions and the boating activity. The life jackets must be within easy reach for each person on board.",n
+52,38,br,"Under California state law, every child under 13 years of age must wear a U.S. Coast Guard-approved life jacket while the boat is underway.",n
+58,38,br,All vessels are required to display navigation lights between sunset and sunrise and during times of restricted visibility. A navigation light may be one of the following:,n
+59,38,ul,,n
+61,59,li,An electric flashlight or other bright light.,y
+63,59,li,Lighted lantern showing a white light which shall be exhibited in sufficient time to prevent collision.,y
+65,59,li,Tricolored lantern,y
+67,59,li,All-Round green and red lights.,y
+71,38,br,making an efficient sound signal.,n
+77,38,br,the following devices suitable,n
+78,38,ul,,n
+80,78,li,"Hand-held red flare, distress signals",y
+88,78,li,Electric distress light,y
+94,31,div,,n
+97,94,h4,Sailboats,n
+99,94,div,,n
+101,99,p,California boating laws require recreational sailboats to carry the safety equipment listed on this fact sheet. Before you set out on the water always make sure this required safety equipment is ready and in working order.,n
+110,99,text,"All sailboats, regardless of length, must carry a U.S. Coast Guard-approved life jacket in serviceable condition and of a type and size appropriate for the intended wearer,and the conditions and the boating activity. The life jackets must be within easy reach for each person on board.",n
+112,99,p,"Under California state law, every child under 13 years of age must wear a U.S. Coast Guard-approved life jacket while the boat is underway unless every child under age 13 is restrained by a harness tethered to the sailboat; every child under age 13 is in an enclosed cabin; or the vessel is engaged in an emergency rescue situation.",n
+113,99,p,,n
+114,113,text,"Sailboats 16 feet or longer must carry one immediately accessible U.S. Coast Guard-approved throwable device—such as a ring, cushion or horseshoe buoy.",n
+120,113,br,"All vessels must display navigation lights between sunset and sunrise and during times of restricted visibility. Navigation lights must be kept in serviceable condition. If practicable, a sailing vessel may exhibit sidelights and a stern light or lighted lantern showing a white light, which must be exhibited in sufficient time to prevent collision.",n
+124,99,br,"A whistle, bell or other means of making an efficient sound signal. Vessels over 39 feet are required to carry both a whistle and a bell.",n
+130,99,br,"All boats 16 feet or more in length must carry visual distress devices aboard at all times. Boaters must carry at least one of the following devices that are suitable for day or night use: Beginning in April 2022, the U.S. Coast Guard issued new regulations for disposable fire extinguisher dates of manufacture and label classifications.",n
+172,99,p,An effective muffling system is required for the exhaust of each internal combustion engine. Unmodified outboards usually meet legal requirements.,n
+177,99,p,,n
+182,177,strong,,n
+183,182,text,V,n
+189,182,strong,entilation System,n
+191,177,text,"All sailboats with motors, except open boats made after 1940 and using gasoline as a fuel must have at least two ventilator ducts fitted with cowls or their equivalent for the efficient removal of explosive or flammable gases from all engine and fuel tank compartment bilges.",n
+193,99,p,"Boats built after July 31, 1990, that have a gasoline engine for electrical generation, mechanical power or propulsion must be equipped with an operable ventilation system.",n
+204,31,div,,n
+207,204,h4,Motorboats Less Than 16 Feet in Length,n
+226,204,div,,n
+230,226,text,"Beginning in April 2022, the U.S. Coast Guard issued new regulations for disposable fire extinguisher dates of manufacture and label classifications.",n
+246,226,p,,n
+256,246,br,An effective muffling system is required,n
+277,246,br,"Boats less than 16 feet of completely open construction and not equipped with propulsion machinery, and boats competing in an organized marine parade, regatta, race, or similar event are only required between sunset and sunrise to carry aboard devices that are suitable for night use.",n
+283,246,br,Navigation lights must be kept in serviceable condition. Boats less than 16 feet are only required to carry aboard devices that are suitable for night use between sunset and sunrise.,n
+291,31,div,,n
+294,291,h4,Motorboats 16 Feet to Less Than 26 Feet in Length,n
+386,291,p,"Navigation lights must be kept in serviceable condition and displayed between sunset and sunrise and at times of restricted visibility. If practicable, a sailing vessel may exhibit sidelights and a stern light or lighted lantern showing a white light, which must be exhibited in sufficient time to prevent collision.",n
+394,31,div,,n
+397,394,h4,Motorboats 26 Feet to Less Than 40 Feet in Length,n
+400,394,div,,n
+423,400,ul,,n
+431,423,li,"Vessels without fixed extinguishing system in machinery space are required to carry 2 B-1, 5-B, 10-B or 1 B-11 or 20B.",n
+433,423,li,"Vessels with fished extinguishing system in machinery space are required to carry 1 B-1, 5-B or 10-B.",n
+461,400,p,A vessel of less than 39 feet 4 inches must be able to provide a means of making an efficient sound signal.,n
+489,400,p,Navigation lights must be kept in serviceable condition and displayed between sunset and sunrise and at times of restricted visibility. A recreational powerboat may display a 360 degree all-round stern light and combination red and green sidelights.,n
+497,31,div,,n
+500,497,h4,Motorboats 40 Feet to 65 Feet in Length,n
+503,497,div,,n
+517,503,p,"Under California state law, every child under 13 years of age must wear a U.S. Coast Guard-approved life jacket while the boat is underway unless every child under age 13 is in an enclosed cabin.",n
+525,503,ul,,n
+531,525,li,Vessels model year 2017 or older may keep serviceable extinguishers labeled B-1 and B-11 if they are less than 12 years old,n
+533,525,li,"Vessels without fixed extinguishing system in machinery space are required to carry 3 B-1. 5-B. 10-B or 1 B-11, 20-B AND 1 B-1, 5-B or 10-B",n
+535,525,li,"Vessels without fixed extinguishing system in machinery space are required to carry 2 B-1, 5-B, or 1 B-11 or 20-B",n
+562,503,p,Vessels 39 feet 4 inches or more in length are required to carry a whistle and a bell.,n
+591,503,p,"Navigation lights must be kept in serviceable condition and displayed between sunset and sunrise and at times of restricted visibility. A recreational motor-powered Bessel underway is required to display a masthead light forward, red and green sidelights and a stern light.",n
+600,0,footer,,n
+602,600,div,,n
+603,602,div,,n
+604,603,div,,n
+606,604,h4,Contact Us,n
+607,604,ul,,n
+609,607,li,,n
+611,609,strong,Address,n
+612,609,text,"P.O. Box 942896, Sacramento CA 94296",n
+614,607,li,,n
+616,614,strong,Public Information Inquiries,n
+617,614,text,-,n
+619,607,li,,n
+621,619,strong,Email,n
+622,619,text,pubinfo@parks.ca.gov,n
+624,607,li,,n
+626,624,strong,Aquatic Invasive Species Email,n
+627,624,text,AIS@parks.ca.gov,n
+629,603,h4,Select a Language,n
+633,603,div,,n
+635,633,span,Select Language,n
+637,633,span,​,n
+640,602,div,,n
+642,640,h4,Follow Us,n
+645,640,ul,,n
+647,645,li,Facebook,n
+649,645,li,Twitter,n
+651,645,li,Youtube,n
+653,645,li,Instagram,n
+655,602,div,,n
+657,655,h4,Latest Tweet,n
+658,655,text,@boat_california,n
+660,655,div,This large man-made lake is one of California's best kept secrets. #NameThatWaterway https: or or t.co or m2ScSfBk9S 9h,n
+665,600,div,,n
+669,665,p,California,n
+672,665,ul,,n
+674,672,li,Use,y
+676,672,li,Privacy Policy,y
+678,672,li,Accessibility,y
+680,672,li,Accessible Parks,y
+682,672,li,Site Map,y
+684,0,div,,n
+690,684,h1,Original text,n
+696,684,div,Contribute a better translation,n

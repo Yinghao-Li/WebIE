@@ -1,0 +1,132 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+3,1,text,Skip to main content,n
+4,1,div,,n
+12,4,div,,n
+14,12,label,Search,n
+20,12,div,Search,n
+32,4,div,,n
+39,32,h2,News,n
+46,32,div,,n
+47,46,article,,n
+50,47,div,,n
+51,50,div,,n
+54,51,h2,"""Top 10 Next Level Airsoft Gear and Accessories You Must Have""",n
+58,51,h4,OptimusPrime,n
+60,51,p,29 Dec 2020,n
+66,50,p,,n
+68,66,strong,Survival Gear,n
+69,66,text,"got a list of airsoft gear and accessories that one must have. Check the video out if you fancy any of the items in list... ""Are you looking for the best airsoft gear and accessories of 2020? These are some of the coolest airsoft gear and accessories we found so far.""",n
+78,47,li,Category,n
+84,47,ul,,n
+86,84,li,Tags,n
+88,84,li,Survival Gear,n
+90,84,li,Gear,n
+92,84,li,Accessories,n
+98,46,div,,n
+101,98,span,Share,n
+104,98,span,Facebook,n
+107,98,span,Twitter,n
+113,46,section,,n
+117,113,h2,The Latest News,n
+129,113,div,,n
+131,129,h2,RWTV,n
+133,129,p,OptimusPrime,n
+141,46,div,,n
+142,141,div,,n
+151,142,h2,"11 and Prime Video Team Up To Celebrate ""The Terminal List""",n
+162,142,h2,REAPERs Airsoft's Ares M4 X-Class Model 9 or 12 AEG Review,n
+165,141,div,,n
+174,165,h2,Jeff The Kid,n
+185,165,h2,Maxsun 40MAX Gas Cartridge and Airsoft Grenade,n
+188,141,div,,n
+197,188,h2,Airsix TV,n
+208,188,h2,JAG Airsoft's Assault Loadout,n
+211,141,div,,n
+220,211,h2,Geonox Airsoft At Dark Emergency 10,n
+231,211,h2,Is The GBBR Buffer Weight Real Or Fake?,n
+234,46,section,,n
+237,234,h2,Feature Story,n
+241,234,div,,n
+242,241,div,,n
+251,242,h2,Incoming! Lego-Style “Block Arms” Accessories From Laylax’s First Factory,n
+260,242,div,,n
+262,260,h2,Get Your Cameras Ready! The 4th Shoot Your LCT Fever Video Contest Is On!,n
+264,260,p,25 Jun 2022,n
+265,241,div,,n
+272,265,div,,n
+274,272,h2,The B and T BWC-9 Is A Competitor To The Upcoming Magpul or ZEV Technologies FDP-9 or FDC-9,n
+276,272,p,24 Jun 2022,n
+283,265,div,,n
+285,283,h2,Court Clears The Way For The German Government To Order Heckler and Koch Assault Rifles,n
+287,283,p,23 Jun 2022,n
+288,46,section,,n
+291,288,h2,Airsoft Guns and Gear Reviews,n
+295,288,div,,n
+296,295,div,,n
+303,296,div,,n
+305,303,h2,MAPA Camouflage Tactical Gear By MASKPOL,n
+307,303,p,26 Apr 2022,n
+314,296,div,,n
+316,314,h2,Tokyo Marui FNX-45 Tactical Black GBB Pistol,n
+318,314,p,31 Dec 2021,n
+319,295,div,,n
+326,319,div,,n
+328,326,h2,Installing The Perun Airsoft Hybrid V3 MOSFET,n
+330,326,p,14 Oct 2021,n
+337,319,div,,n
+339,337,h2,LCT Airsoft’s LK-53A3 AEG,n
+341,337,p,12 Sep 2021,n
+350,4,div,,n
+354,350,div,,n
+357,354,p,"For your daily hit of airsoft news, reviews and stories from airsoft players around the world, all in one place.",n
+361,354,li,Find Us On,n
+369,350,div,,n
+371,369,h4,ABOUT US,n
+372,369,ul,,n
+374,372,li,About Popular Airsoft,n
+376,372,li,Get Published!,n
+378,372,li,Privacy policy,n
+380,372,li,Terms Of Use,n
+382,372,li,Advertising,n
+384,372,li,Contact Us,n
+387,350,div,,n
+389,387,h4,Quick Links,n
+390,387,ul,,n
+394,390,li,Features,n
+396,390,li,Reviews,n
+398,390,li,Videos,n
+400,390,li,Events,n
+402,390,li,Product Finder,n
+404,350,div,,n
+407,404,h4,Contact Us,n
+411,404,div,,n
+414,411,div,Your name,n
+418,411,div,Your e-mail address,n
+422,411,div,Subject,n
+426,411,div,Message,n
+432,411,div,,n
+434,432,label,Math question,n
+435,432,text,9 + 4 =,n
+438,432,div,Solve this simple math problem and enter the result. E.g.,n
+441,411,div,Send e-mail,n
+448,411,div,Leave this field blank,n
+454,350,div,,n
+456,454,h4,Notice,n
+457,454,p,,n
+458,457,text,Content is licensed under a,n
+460,457,strong,Creative Commons Attribution 3.0 License,n
+461,457,text,unless specified otherwise by their respective authors. Please attribute content taken from this website by linking to us.,n
+463,454,p,Translations of the stories of Popular Airsoft to other languages are more than welcome. Please do provide us a link if you have made a translation and included the corresponding credit to the original author.,n
+468,0,div,,n
+478,468,div,Thanks,n
+487,468,div,AddToAny,n
+497,468,div,More…,n
+503,0,div,,n
+504,503,div,,n
+506,504,p,"This site uses cookies to deliver its services, to personalize ads, to analyze traffic, and for other purposes. By using this site, you consent to our use of cookies and our use of additional data collected in conformance with ourBy clicking any link on this page you are giving your consent for us to set cookies.",n
+508,504,button,More info,n
+509,503,div,,n
+511,509,button,"OK, I agree",n
+513,509,button,"No, thanks",n

@@ -1,0 +1,89 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+3,2,ul,,n
+7,3,li,About Us,n
+9,3,li,What’s New!,n
+11,3,li,Sitemap,n
+13,3,li,Newsletter,n
+15,2,p,soap making equipment,n
+17,2,p,Any hobby or craft requires tools; soap making equipment is simple enough to procure and not more costly than any other hobby. As you build your skills you probably begin stockpiling soap making ingredients and equipment because you love making homemade soap.,n
+22,2,h2,equipment,n
+24,2,p,When you begin your venture on learning how to make handmade soap you might want to stay away from purchasing a lot of equipment until you decide if you really like it. Melt and pour soap making does not really require any special soap making equipment.,n
+28,2,p,This equipment can be found in most kitchens and cleaning up in rather simple. You do not need special molds reserved only for soap making but many prefer to keep their melt and pour mold and equipment separate. These are the basic equipment required.,n
+31,2,ul,,n
+33,31,li,Sharp knife,y
+35,31,li,Glass measuring cup,y
+39,31,li,Mixing spoons and wood stirrers,y
+41,31,li,Spray bottle with rubbing alcohol,y
+43,31,li,Rubber spatula,y
+45,31,li,Molds,y
+47,31,li,Plastic wrap or container,y
+49,2,h2,equipment,n
+51,2,p,"Cold process , hot process and liquid soap making required equipment thatwill be reserved and used only for soap making because of the caustic effect oflye that it has on material. This list is for all thematerial required, please refer to each soap making recipe for specificinstructions.",n
+54,2,p,SAFETY EQUIPMENT FOR HANDLING LYE,n
+55,2,ul,,n
+57,55,li,Rubber gloves.,y
+59,55,li,Goggles,y
+61,2,p,EQUIPMENT FOR MEASURING YOURINGREDIENTS,n
+62,2,ul,,n
+64,62,li,Digital scale,y
+66,62,li,Thermometer,y
+68,62,li,Heat safe container with spout,y
+72,2,p,EQUIPMENT FOR MIXING,n
+73,2,ul,,n
+75,73,li,Rubber spatula or wooden spoons,y
+77,73,li,Glass mixing bowls,y
+79,73,li,Glass and heat resistant measuring cups,y
+81,73,li,Stick blender,y
+83,2,p,EQUIPMENT FOR HEATING,n
+84,2,ul,,n
+86,84,li,Saucepan,y
+88,84,li,Double-boiler,y
+90,84,li,Microwave,y
+92,84,li,Crockpot,y
+94,2,p,EQUIPMENT FOR MOLDING,n
+95,2,ul,,n
+97,95,li,Knife or soap cutter,y
+99,95,li,Molds lined with parchment or freezer paper,y
+101,95,li,Old towels to insulate the soaps,y
+103,95,li,"There are molds and cutters that are specific soap making equipment and used more for commercial use, if you decide you wish to sell your soaps you will need to look into these.",y
+105,2,p,EQUIPMENT FOR PACKAGING AND LABELLING,n
+106,2,ul,,n
+108,106,li,"No special equipment is required for packaging homemade soap, however equipment for soap making business can include shrink wrap machine.",y
+110,106,li,Home computer and printer can be used to make your own soap labels.,y
+112,2,p,"Start small, look at the different soap making instructions , purchase used equipment, barter soap for some silicone molds and have fun!",n
+116,2,p,Leave Soap Making Equipment and go to Homepage,n
+118,2,p,Go to Soap Making Instructions,n
+120,2,p,Find out more about Choosing your Soap Making Recipes,n
+125,2,h3,Recipes,n
+126,2,ul,,n
+128,126,li,Soap Recipes,y
+130,126,li,Bath,y
+132,2,h3,About Soap Making,n
+133,2,ul,,n
+135,133,li,Learn How to Make Soap,n
+137,133,li,Natural Soap Making,n
+139,133,li,Soap Making Instructions,n
+141,2,h3,Soap Making Methods,n
+142,2,ul,,n
+144,142,li,How to Choose Soap Making Recipes,n
+146,142,li,Melt and Pour Soap Making,n
+148,142,li,Cold Process Soap Making,n
+150,142,li,Room Temperature Soap Making,n
+152,142,li,Hot process soap making,n
+154,142,li,Rebatching Soap Making,n
+156,142,li,Liquid Soap Making,n
+158,2,h3,More Great Stuff!,n
+159,2,ul,,n
+161,159,li,skin + soul blog,n
+163,159,li,Subscribe to our newsletter,n
+165,159,li,Soap Making at Home Connection,n
+167,2,h3,Site Policies,n
+168,2,ul,,n
+170,168,li,Privacy,n
+172,168,li,Disclaimer,n
+174,168,li,Why make soap?,n
+176,168,li,Books,n
+179,2,p,"By Ron and Andrea Rennick, Copyright © 2012 to 2015 www.ridgesoap.com",n
+181,2,p,– All Rights Reserved,n

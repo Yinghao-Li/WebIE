@@ -1,0 +1,115 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+36,0,div,,n
+37,36,div,,n
+39,37,span,Welcome!,n
+40,37,text,Log into your account,n
+52,36,div,Forgot your password?,n
+74,0,div,Search,n
+77,0,div,,n
+79,77,div,,n
+81,79,div,,n
+90,81,li,Related Post,n
+92,81,div,,n
+93,92,div,,n
+97,93,div,Welcome! Log into your account,n
+109,93,div,Forgot your password? Get help,n
+122,92,div,A password will be e-mailed to you.,n
+135,79,div,YaleTools,n
+178,77,div,,n
+180,178,div,,n
+182,180,span,Home,n
+186,180,span,Billiard Equipment and Their Functions,n
+187,178,div,,n
+189,187,div,,n
+191,189,article,,n
+193,191,div,,n
+195,193,p,Billiard is also known as shovel-ball sport. This sport requires a high level of concentration and excellent physical ability. The way to play is by using a table and a ball with the rules that apply to this sport.,n
+200,193,p,"This sport also consists of several ball numbers such as ball number 15, ball number 8 and ball number 9. For those who are new to this sport, know the various equipment needed in the game:",n
+203,193,p,Glove,y
+205,193,p,The glove has a function to make it easier,n
+207,193,p,"If you don’t use the glove, the stick will become slippery if your hands sweat. This glove only covers three fingers, which are the thumb, index and middle finger plus the palm of the hand.",n
+210,193,p,Cue Ball,y
+212,193,p,One type of ball that is mandatory for billiard games is the cue ball. Cue ball or also known as white ball. This ball is the same size as any other billiard ball and has a white color.,n
+214,193,p,This ball is important because it is the main ball that connects the billiard stick and the target ball that you want to be insert.,n
+217,193,p,Chalk or Chalk Sticks,y
+219,193,p,Chalk or chalk sticks have a function to maintain billiard sticks to always look their best. Its role is to coat the point of the billiard stick so that it is not slippery and there is no slip between the tip and the cue ball. So that when it is used to poke the ball it will not miss.,n
+222,193,p,Billiard Sticks,y
+224,193,p,"The billiard stick has a function to poke the ball which is the target in the game. In general, billiard sticks are made of wood or composite fiber, or selected genuine leather in various motifs and shapes.",n
+226,193,p,Standard length for billiard sticks is 148 cm and tip size is 13 mm. This billiard equipment is also one of the must-have tools in every game.,n
+229,193,p,Billiard Stick Cover,y
+231,193,p,"After completing the game or when you are not using the stick, you should put the billiard stick in the holster. This is so that it is tidier and dirt-free, especially if you have children, they might use billiard sticks to play.",n
+234,193,p,Billiard Table,y
+236,193,p,The most important billiard equipment is the billiard table. A billiard table is twice as long as it’s wide. The table dimensions are adjusted to the billiard table legs.,n
+238,193,p,"The billiard table consists of four components, which are pads, game mats, cloth cover, and markers.",n
+241,193,p,Billiard Balls,y
+243,193,p,The ball in the billiard game functions as a link between the stick and the ball that is the goal. The most famous type of game in billiards is billiard 8 pool.,n
+245,193,p,The number of balls played is 15 balls and this game features balls with the number 8 which have a black color.,n
+248,193,p,Triangle,y
+250,193,p,Triangle is one of the billiard equipment that functions to place the ball in the initial position at the beginning of the game. It is called a triangle because of its shape that resembles a triangle. The material for this triangle is wood that is strong and hard.,n
+253,193,p,Bridge,y
+255,193,p,"The use of bridge in billiard is as a lock on the cue stick that remains in the swing trajectory, so that swing deviations can be minimized.",n
+257,193,p,"The bridge itself is divided into three parts, which are the rail bridge, open bridge and close bridge. Each of these bridges has different techniques.",n
+259,193,p,Those are some explanations about the various types of equipment on billiards and their specific functions. The availability of this equipment is essential so that the game can run smoothly from start to finish.,n
+263,191,footer,,n
+265,263,ul,,n
+268,265,li,TAGS,n
+270,265,li,billiard,n
+272,265,li,sport,n
+274,265,li,sports equipment,n
+277,263,div,,n
+280,277,div,Facebook,n
+283,277,div,Twitter,n
+286,277,div,Pinterest,n
+289,277,div,WhatsApp,n
+292,277,div,Linkedin,n
+295,277,div,ReddIt,n
+298,277,div,Email,n
+301,277,div,Print,n
+304,277,div,Telegram,n
+307,277,div,LINE,n
+311,263,div,,n
+313,311,div,,n
+315,313,span,Previous article,n
+316,313,text,Electrical Outlets Around the World,n
+319,311,div,,n
+321,319,span,Next article,n
+322,319,text,Conveyors and Their Functions,n
+325,263,div,,n
+328,325,div,"Albert Maunelli., B.Eng",n
+330,325,div,https,n
+338,189,div,,n
+340,338,h4,RELATED ARTICLES MORE FROM AUTHOR,n
+343,338,div,,n
+350,343,h3,Fishing Rods and The Characteristics,n
+364,343,h3,7 Tips,n
+370,187,div,,n
+374,370,h4,CATEGORIES,n
+375,370,ul,,n
+376,375,li,,n
+378,376,span,Electronics,n
+380,376,span,126,n
+381,375,li,,n
+383,381,span,Vehicles,n
+385,381,span,72,n
+386,375,li,,n
+388,386,span,Machinery,n
+390,386,span,67,n
+391,375,li,,n
+393,391,span,Industrial,n
+395,391,span,59,n
+396,375,li,,n
+398,396,span,Tools and Hardware,n
+400,396,span,51,n
+405,375,li,26,n
+413,77,div,© YaleTools All Right Reserved,n
+414,0,div,,n
+416,414,span,MORE STORIES,n
+418,414,div,,n
+423,418,div,,n
+424,423,span,,n
+425,424,text,"Robert Alexander, B.Eng.",n
+427,424,span,-,n
+430,423,span,"May 30, 2022",n
+432,423,span,0,n
+434,418,div,"Fishing is a hobby, a job, and a sport that can be done outside. But if you want to fish, you have to make...",n

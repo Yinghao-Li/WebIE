@@ -1,0 +1,85 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+8,1,div,,n
+12,8,h1,Hair Products 101,n
+22,8,div,,n
+24,22,p,Have you ever wondered what exactly dry shampoo is and how it works? How about what the difference is between pomade and hair oil? Or the best way to use your shampoo and conditioner to keep your 'do fresh?,n
+28,22,p,"Your hair products are the first and most important step to achieving a desired look or hairstyle. Without the correct hair care products, you can kiss that beachy boho look or sleek chignon goodbye!",n
+30,22,p,"In this blog post, we're going back to basics to give you the run down on 10 everyday hair products every girl should have and know how to use them to their fullest potential, to ensure lovely locks and healthy hair.",n
+33,22,h1,Shampoo - are you using the right one?,n
+35,22,p,"We all know what shampoo is - simply put, it cleanses the hair. But here's where it gets tricky: there are tons of different types of shampoos out there. From clarifying shampoo to volumizing shampoo, straightening and smoothing, sulfate-free, and shampoos for color treated hair, it's important to choose the type of shampoo that is best suited for your specific hair.",n
+37,22,h3,Clarifying shampoo,y
+39,22,p,Clarifying shampoo roughens up the hair cuticle and gets the roots extra squeaky clean. This can be used when you feel that there is too much product buildup in your hair or before getting a chemical treatment done like coloring or perming.,n
+42,22,p,"Our Charcoal Detox Shampoo is a great example of a clarifying shampoo since it is designed to deeply cleanse the hair and scalp. The activated charcoal goes to work pulling out dirt, toxins, and impurities from the hair while ingredients like aloe vera and grape seed oil ensure that hair stays moisturized and hydrated. If you are experiencing product buildup, unpleasant odors, or an itchy scalp, a clarifying shampoo like this is your best bet.",n
+46,22,h3,Volumizing shampoo,y
+48,22,p,"This kind of shampoo is designed to open up the hair cuticle and make it thicker, however, in order to get your hair nice and fluffy, try to pick a shampoo with a lightweight conditioning ingredient that rinses off well and doesn't weigh the hair down.",n
+50,22,h3,Smoothing shampoo,y
+52,22,p,"Shampoos that straighten and smooth the hair usually have silicone or oil in them to coat the hair strands. When the hair is styled with a straightener, the result is magical!",n
+54,22,h3,Shampoo,y
+57,22,p,"If your hair is colored, we recommend going for a shampoo specifically designed for color treated hair. Check the product's pH level and ensure that it is between 4.5-5.5 to prevent color from fading. Great hair products for dyed hair will also include ingredients like oils, sea kelp or algae, in order to lock in color.",n
+60,22,p,"If you happen to have hair that has been dyed to a lighter, blonder shade, consider switching to a purple shampoo like our Balancing Purple Shampoo . Infused with purple pigments designed to combat unwanted brassiness or yellow tones in the hair, this shampoo will help you maintain a brilliant shade of blonde between salon visits.",n
+65,22,p,"While dyeing the hair a lighter color can make it vulnerable to damage, this formula features ingredients like organic babassu oil and avocado oil to deep condition dry strands. This vegan hair product can be used on both your natural hair and hair extensions to improve texture, color, and overall shine.",n
+67,22,h3,Alcohol and sulfate-free shampoo,y
+69,22,p,"Alcohol and sulfate-free shampoos are our favorite! Sulfates are detergents with long names that we can't even pronounce. While sulfate-based shampoos are great for cleaning oil and dirt from your hair, they can seriously dry out your hair and cause damage like split ends. We prefer things au natural. Organic and sulfate-free hair products can lock in moisture and natural oils, retain hair dye, and reduce scalp irritation.",n
+72,22,p,"Whichever shampoo you choose, be sure that it's right for the texture of your hair. If you choose a shampoo that's too clarifying, you could strip the hair of its natural oils, and lead to additional oil being produced. If you choose a shampoo that's too moisturizing, you could end up with product buildup at the scalp. If you're not sure what type of hair you have, you can always consult your hair stylist for a recommendation.",n
+74,22,p,"Also, be sure to choose two ""go-to"" shampoos that both have different ingredients and benefits to rotate between, to maintain balance in your hair. Switch your shampoo every 4 to 5 washes to remove product buildup and restore cleanliness to your hair shafts.",n
+76,22,h1,Conditioner,y
+78,22,p,"Hair conditioner is designed to smoothen, restore moisture, and help you say goodbye to frizzy hair . There are three main types of conditioners you can use to reach Rapunzel level #hairgoals.",n
+82,22,h3,Rinse-out conditioner,y
+85,22,p,"Rinse-out conditioners are the most common type of conditioner, worked through the ends of your hair, left in for a few minutes, and rinsed out. Avoid applying conditioner to the roots of your hair, as this could result in extra buildup and weigh the hair down.",n
+88,22,p,"If you’re hoping to restore moisture to your hair after shampooing, give our High-Gloss Smoothing Conditioner a try. This deeply hydrating conditioner is formulated for everyday use and will leave hair feeling incredibly shiny, soft, and smooth. It contains a host of nourishing oils and vitamins, such as baobab, shea butter, linseed, and vitamin B-5 so your hair will be stronger and tangle-free. To use, simply apply to hair after shampooing, paying particular attention to your ends. Leave in for about three to five minutes before rinsing out.",n
+92,22,h3,Leave in conditioner,y
+94,22,p,"Leave in conditioners are great for smoothening and de-tangling. These conditioners are light-weight, and can be used as a styling product to get your tresses silky and glossy.",n
+96,22,h3,Hair mask and deep conditioner,y
+99,22,p,"Hair masks or deep conditioners are perfect for repairing dry and damaged hair. Hair masks contain ingredients like waxes, oils and emulsifiers to get down to the root and repair the hair from its source. Most masks should be applied from root to tip and left in for at least 30 minutes before rinsing out thoroughly. Here are some DIY hair mask ideas.",n
+103,22,p,"If you don’t have the time to mix up your own mask at home, the good news is that there are plenty of great options available. Take our Length Repairing Hair Mask for example. This miracle mask boasts the ability to transform dry or damaged hair into luscious locks thanks to ingredients like caryocar brasiliense fruit oil and jojoba seed oil. Like all of our Wetline products , this mask is paraben- and sulfate-free, making it safe for color-treated hair. It also is cruelty-free and certified vegan, so you can feel good knowing it’s an environmentally-friendly addition to your hair care routine.",n
+109,22,p,"Be sure to avoid the common mistake of only rinsing out half of the conditioner! We all love that glorious, silky, smooth feeling conditioners leave, however, this means you haven't rinsed out all the product from your hair and you're actually weighing your hair down!",n
+112,22,h1,Hair oils and serums,y
+114,22,p,"From argan oil to baobab oil to coconut oil , hair oil is a must for those with 'problematic' hair. They tame frizz, add shine, promote growth, and give your hair a luxe, polished look. If you're stumped on which oil is best for your hair type, check out our five favorites ! For best results, use hair oil on dry or almost dry hair...and here's a fun tip: if you have excessively dry ends, rub some hair oil from the mid-shaft to the ends BEFORE washing your hair. This will ensure that you don't dry out your ends even more when shampooing!",n
+122,22,p,"If you want to soak up all the benefits of hair oil, we recommend our Luminous Shine Hair Oil . Applying just a couple drops of this fast-absorbing oil to your hair has the power to hydrate, strengthen, and detangle strands. Not to mention that it will make your hair look and feel amazingly soft. No matter your hair woe, this vegan-certified oil contains an ingredient to help. The coconut oil reduces protein loss, the avocado oil provides deep moisture, and the caryocar brasiliense fruit oil combats frizziness and split ends. When applying, just be sure to work the oil evenly into your hair and avoid the scalp area. The thicker your hair is, the more oil you will need.",n
+132,22,h1,Hairbrush Guide 101,n
+135,22,h1,Dry Shampoo,y
+137,22,p,"This product is a must-have for any girl on the go! Dry shampoo comes in either a powder or spray form, and is designed to absorb excess oil at the roots of the hair. Don't have time to wash your hair? No problem! Simply rub some dry shampoo into oily spots and watch your hair transform. Washing your hair too often is not good for your hair anyway . You can also use baby powder if you don't have any dry shampoo available to achieve similar results. Not only does dry shampoo get rid of excess oil, it also provides lift at the roots for extra oomph. Beware though, this is not a replacement for washing your hair so try to only use dry shampoo for a maximum of two days before giving your hair a good wash.",n
+145,22,p,Another option is to embrace the oil and use it to your advantage to create slick looks as shown in this video hair tutorial for oily hair:,n
+149,22,h1,Hair wax or Pomade,y
+151,22,p,"Hair wax, or pomade, is amazing for providing texture, smooth flyaways, and giving the hair extra hold for intricate hairstyles. That stuff Mimi always uses when creating detailed braids ? It's hair wax! You can also mix a drop of hair oil with hair wax and work through your hair after styling to give extra gloss and hold. Check it out in action in this video :",n
+157,22,h1,Hair mousse,y
+159,22,p,"Do you love VOLUME in your hair? If you answered yes, this one's for you! Hair mousse is amazing for providing extra lift and pizzazz to your hair. Work the mousse through towel dried hair with your fingers before blow drying, and watch your hair come to life! Hair mousse is available in different levels of hold, from volumizing mousse to styling mousse to give your hair the perfect finish. If you have curly hair, mousse can help you get more defined curls. Check out a video tutorial on how to style curly hair with mousse here :",n
+165,22,h1,Heat protectant spray,y
+167,22,p,"If you ever style your hair with hot tools , heat protectant spray is an absolute must-have in order to protect your precious locks from the damage of direct heat being applied with a curling iron or hair straightener. Simply spray your hair from the middle to the ends before heat styling. Once styled, the product doesn't leave any residue on your hair.",n
+171,22,p,"Next time you find yourself reaching for a blow dryer or straightener, apply a heat protectant like the Heat Protectant Primer first to avoid frying your locks. This lightweight, microemulsion spray not only reduces drying time but also acts as a protective barrier against color-fade and heat damage. Just like sunscreen protects your skin from the elements, this spray will form a layer over the hair shaft to prevent thermal damage up to 450° F. The cruelty-free formula features a Moroccan argan scent and is free from sulfates, parabens, and phthalates.",n
+178,22,div,,n
+179,178,text,Heatless Hairstyles,n
+181,178,h1,Our Top Heatless Curls Hacks on TikTok,n
+184,22,h1,Sea Salt Spray,y
+186,22,p,"Seal salt spray is just what it sounds like - a spray that gives your hair that beachy, gritty look from spending the day by the seaside. It's great to use on fine hair to provide extra texture. For hair that is more coarse, some sea salt sprays come in an oil based form to boost shine and gloss. The cool thing is that this spray can be DIY, and we've got a great video to show you how to do it here:",n
+190,22,h1,Hairspray,y
+192,22,p,"""What gives a girl power and punch?"" Hairspray! The uses are endless for this versatile product. It provides hold, sets style, tames flyaways, achieves volume, adds texture, and more. If you usually shy away from using hairspray because you feel that it roughens up or tangles your hair, you're either using too much or holding it too close to your hair! Hold the spray above your head and let the product fall to your hair, rather than spraying it directly on. To smooth flyaways, spray some product on your hands, and then lightly smooth down any problematic hairs.",n
+194,22,h1,Curl Enhancing Cream,y
+196,22,p,"Who doesn't love a good curl? These creams can be used on either straight hair to provide texture or on curly hair to enhance natural curls and tame frizz . For best results, divide towel dried hair into a few sections, then twist the product into the hair or use a scrunching motion. By the way, we have some great videos for those of you who have curly hair - check them out here .",n
+203,22,p,"And there you go! With these 10 products, you'll never have a bad hair day again. What are your favorite go-to hair products?",n
+208,8,div,,n
+210,208,span,Posted by,n
+212,208,span,Luxy Hair,n
+214,8,div,,n
+216,214,h1,Shop the look,n
+217,214,div,,n
+222,217,div,,n
+225,222,h2,Brass Busting Bundle,n
+227,222,span,$55,n
+234,217,div,,n
+237,234,h2,Frizz Fighting Bundle,n
+239,234,span,$48,n
+243,8,section,,n
+245,243,h2,Related Posts See all posts,n
+247,243,div,,n
+254,247,h2,Postpartum hair loss,n
+261,247,h2,Best Purple Shampoos,n
+268,247,h2,Why Baobab Oil is Great,n
+275,247,h2,Ultimate Guide to our Natural Hair Products,n
+278,247,div,,n
+280,278,span,Easy Hairstyles,n
+282,278,h2,5 Reasons To Embrace Your Gray Hair,n
+289,247,h2,What Is Wet Styling?,n
+293,1,div,Quiz,n

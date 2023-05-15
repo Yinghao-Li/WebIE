@@ -1,0 +1,173 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+4,3,div,,n
+5,4,div,,n
+8,5,span,0,n
+10,5,span,shares,n
+11,4,ul,,n
+16,11,li,Share,n
+21,11,li,Tweet,n
+27,11,li,Pin,n
+28,3,div,,n
+32,28,div,Contents,n
+35,28,ul,,n
+36,35,li,,n
+37,36,text,Swimming Gear For Kids,n
+38,36,ul,,n
+40,38,li,Floatation Suits,y
+42,38,li,Floatation Devices and Gear,y
+44,38,li,Swim Shoes,y
+48,38,li,Rash Guards,y
+50,38,li,Ear Plugs,y
+52,38,li,Snorkels,y
+60,38,li,Nose Clip,y
+62,38,li,Swim Fins,y
+64,35,li,Checklist,n
+65,35,li,,n
+66,65,text,Why Should I Use Swim Paddles?,n
+67,65,ul,,n
+69,67,li,Specific Development Of Power,n
+71,67,li,Perfect Speed And Efficiency,n
+73,67,li,Spice Up Your Workout,n
+75,67,li,Perfect Your Technique,n
+76,35,li,,n
+77,76,text,Safety Tips When Swimming With Children,n
+78,76,ul,,n
+80,78,li,Never Swim Alone,n
+82,78,li,Take Special Precautions,n
+84,78,li,Check The Drains Of Your Spa Or Pool,n
+86,78,li,No Diving Headfast In The Pool,n
+88,35,li,How Do I Keep My Baby Safe In The Water?,n
+89,35,li,,n
+90,89,text,Tips For Taking Your Baby To The Pool,n
+91,89,ul,,n
+93,91,li,Steps For Taking Your Baby To The Pool,n
+95,91,li,Essential Items To Pack,n
+97,35,li,Conclusion,n
+99,3,p,"Whether you are a beginner or are planning to enroll in a swimming class, you will certainly benefit from investing in the right swimming gear.",n
+101,3,p,Not only will it help improve your performance and make your workouts more effective but using the right gear will also reduce the risks of accidents.,n
+104,3,p,"Not to mention, investing in the right gear becomes twice as more important if you are swimming with kids. Fortunately, this helpful guide will provide you all the information you need regarding investing in the right swimming gear.",n
+106,3,h2,Swimming Gear For Kids,y
+108,3,p,"Whether your little bub is being introduced to swimming for the first time or is a proud intermediate swimmer, it is essential to ensure that your kid is prepared for the pool. Safety equipment designed for water based sports helps create a more enjoyable environment for kids and parents.",n
+111,3,p,"While swimming is a great exercise, parents must be aware of the dangers of not using appropriate safety gear. In this section, we will offer you a thorough guide about swimming gear for kids:",n
+113,3,h3,Floatation Suits,y
+115,3,p,These suits are typically introduced to babies and young children who will be stepping into the pool for the first time. Floatation suits offer extra protection and are designed to build confidence and in-water comfort.,n
+117,3,p,"These suits are made using buoyant foam that helps your kid stay afloat in the water as they develop important swim skills in the pool. Generally recommended for first-time swimmers, floatation suits can be worn with or without a swim diaper if required.",n
+119,3,h3,Floatation Devices and Gear,y
+120,3,ul,,n
+123,120,li,Arm Bands,n
+127,120,li,Wrist Alarm,n
+131,120,li,Swim Vests,n
+134,3,h3,Swim Shoes,y
+136,3,p,"Going for a swim doesn’t mean you can undermine the importance of foot protection. Wearing swim shoes prevent your kids from slipping on wet surfaces. While purchasing these shoes, ensure it made using durable, non-slip materials that offers some traction on slippery surfaces.",n
+139,3,p,"Parents can also invest in full-coverage water shoes that offer almost the same amount of protection as running shoes. On the other hand, faux-sandal shoes feature an open design and are best suited for beach-use since you won’t have to worry about sand getting trapped inside.",n
+141,3,h3,Swim Diapers,y
+143,3,p,"Swim diapers are a basic requirement for public pools and are deigned to offer essential sanitary protection. Swim diapers are used by young toddlers, infants and babies who haven’t been toilet-trained yet.",n
+145,3,p,"Parents can either opt for disposable or reusable options depending on their convenience. Swim diapers are available in a variety of colors, prints and designs. Ensure the material does not swell up in the water or else your baby won’t be able to swim comfortably.",n
+147,3,h3,Rash Guards,y
+149,3,p,Rash guards are designed to be worn over swimsuits for additional sun protection and are a must-have for kids and toddlers who have sensitive skin.,n
+151,3,p,Parents can choose from short sleeve or long sleeve versions depending on their child’s preference and comfort. Long sleeve rash guards offer greater protection and coverage while short sleeve options may be for comfortable to wear during the summers.,n
+153,3,h3,Ear Plugs,y
+155,3,p,"As the name indicates, ear plugs are designed according to the shape of the ear canal and create a tight seal to keep water out. This allows children and young toddlers to swim comfortably without getting water in their ears.",n
+157,3,p,"This swimming gear is a must-have for folks who swim regularly as spending excess time in the water can increase the risk of painful ear infections, including swimmer’s ear. Recurrent ear infections can contribute to hearing loss. Earplugs are available in a variety of materials, including rubber, foam, wax and silicone.",n
+160,3,p,"These materials all work in the same way and ensure water does not get past the earplug by creating a tight seal. Typically, these plugs can be inserted inside the ears by rolling the device in the fingers.",n
+162,3,p,"This flattens the earplugs so they can be correctly positioned inside the ears. Once inserted, the earplug regains its original shape. Most earplugs are fairly inexpensive and are reusable.",n
+164,3,h3,Snorkels,y
+166,3,p,A snorkel is an under-water breathing apparatus that allows kids to comfortably swim while observing under-water sea life.,n
+168,3,p,This apparatus is a must-have if you are planning on taking your kids to the beach or are exploring the coral reefs. Snorkels allow kids to breathe comfortably underwater with their face just below the surface of the water. This swimming gear is constructed using a J-shaped tube and a mouthpiece.,n
+170,3,p,The tube extends just above the surface of the water so you have a constant supply of fresh air. Some snorkels may also feature an aortic valve that is used to separate fresh air from exhaled air and are purge valve for clearing snorkel water. Purge valves are built so that children can easily expel water that enters the tube. It is built at the bottom of the snorkel and offers one-way movement.,n
+172,3,h3,Hats,y
+174,3,p,"Not only do hats look cute on little children but also offer adequate protection from the sun. Floppy hats feature a 360° brim that provides ample shade to the head, neck and face. Parents can also opt for floppy hats that offer UPF and UV sun protection.",n
+176,3,p,This is an ideal choice for kids who have sensitive skin. You can also invest in hats with chin straps that prevent the hat from being pulled off or falling down. This is an ideal choice for young children and infants.,n
+178,3,h3,Swim Caps,y
+180,3,p,Swim caps are designed to protect your child’s hair against chlorine damage. Wearing a swimming cap also plays an effective role in keeping the pool much clearer. Not to mention it prevents your child’s hair from being caught in the pump.,n
+184,3,p,"Wearing a swim cap also keeps hair out of your child’s face, allowing for increased visibility. Swim caps also provide warmth in cold water. These caps are available in a variety of colors and materials, including silicon, lycra and latex.",n
+186,3,h3,Goggles,y
+188,3,p,Goggles are essentials for swimmers and can protect your child’s eyes from itching and burning. Swimming goggles are also used by professional swimmers as they offer greater visibility and prevent water from entering your eyes.,n
+191,3,p,"Also, wearing goggles reduces strain on your neck while you swim. This is primarily because you will need to constantly stick your neck out to see what you are doing.",n
+193,3,h3,Nose Clip,y
+195,3,p,Using a nose clip prevents water from entering the nose. This is an important swimming gear for kids who are learning swimming techniques. The nose clip adds comfort and assures you have one less thing to worry about in the initial learning stage.,n
+197,3,h3,Swim Fins,y
+199,3,p,Swim fins are a useful tool if your kids are learning butterfly strokes or the crawl. Swim fins will offer you and efficient kick and will allow you to focus on your arms.,n
+201,3,h2,Checklist,n
+203,3,p,"To ensure you don’t forget crucial items, here’s everything you need to pack in your bag if you are going to the pool with your family:",n
+206,3,ul,,n
+212,206,li,Towels,y
+214,206,li,Swimsuits,y
+216,206,li,Sunscreen,y
+222,206,li,Water,y
+224,206,li,Padlock,y
+226,206,li,Sunglasses,y
+228,206,li,Shampoo,y
+230,206,li,Combs,y
+232,206,li,Water shoes or flip flops,y
+234,206,li,Plastic bag,y
+236,206,li,​Pool toys if you are travelling with young snack bar or vending machine,y
+238,206,li,​A healthy snack,y
+240,206,li,Extra Cash or change,y
+243,3,h2,Why Should I Use Swim Paddles?,n
+245,3,p,Swim paddles are now being actively used by swimmers all around the world. These wonderful tools are designed to improve arm and shoulder strength and can drastically improve your stroke technique.,n
+247,3,p,"However, much like swimmers, not all swim paddles are created equal and are available in a variety of shapes and sizes. While traditional paddles are made using stiff plastic and are typically as big as your hand, the size may vary and you can purchase one according to your skill level.",n
+249,3,p,Here are a few reasons why you should use swim paddles,n
+251,3,h3,Specific Development Of Power,n
+253,3,p,"When it comes to building strength and power, swim paddles are the best way to go. Use the paddles like you would normally use your arms for each stroke. The paddles add extra resistance that builds power, enabling you to get the most out of your workout.",n
+255,3,h3,Perfect Speed And Efficiency,n
+257,3,p,"Using swim paddles is an effective way to build speed and efficiency. After a few days of use, you will notice how fast you can swim. Swimming fast will teach you how to swim more efficiently in water. It was also teach you to have better control over your movements, which will eventually help you become a better swimmer.",n
+260,3,h3,Spice Up Your Workout,n
+262,3,p,"No matter how much you love exercising, following the same monotonous routine can get boring over time and may not produce effective results. Throwing in some swim paddles to your everyday swimming routine is a convenient way to spice up your workout.",n
+264,3,p,You can talk to your coach about introducing swim paddles in your workout routine or join a class that incorporates its use.,n
+266,3,h3,Perfect Your Technique,n
+268,3,p,"When using a swim paddle, you will know whether you are using the right techniques. Using paddles accentuates the pulling motion. This will allow you to focus on the stroke and become a better swimmer.",n
+270,3,h2,Safety Tips When Swimming With Children,n
+272,3,p,"Swimming is a fun recreational activity that offers several benefits for kids and adults of all ages. However, before you encourage your child to dive into the pool, ensure your little one is aware of important safety measures and rules before entering the water. Here are a couple of simple tips you should keep in mind:",n
+274,3,h3,Never Swim Alone,n
+276,3,p,"Swimming alone or having an entire pool to yourself may seem like a thrilling idea, even for a child. For safety reasons, children must never be allowed to swim alone, even if they are hanging around their own backyard pool.",n
+278,3,p,"Accidents can also occur with older children who may be talented or gifted swimmers. Teach your child never to go out swimming alone. Older children should also be taught to swim with an adult or buddy who may be able to offer assistance if they are in need. Ideally, both children and adults should swim in the presence of a lifeguard.",n
+280,3,h3,Take Special Precautions,n
+282,3,p,"To ensure the safety of your little one, be prepared to take special safety precautions. If you have younger children, ensure backyard pools are enclosed with four-sided fencing that is at least 4 feet high.",n
+285,3,p,"You can also install a self-latching gate to prevent your little one from wandering into the pool area unsupervised. Additionally, when using portable or inflatable pools, remember to empty them out immediately after use. Store the pool out of children’s reach to prevent them from having a pool party on their own while you are away.",n
+287,3,h3,Check The Drains Of Your Spa Or Pool,n
+289,3,p,"From a young age, educate your children about the dangers of drain entrapment and entanglement. Children must also be taught not to swim or play near suction or drain outlets.",n
+291,3,p,"Children’s public wading pools, in-ground hot tubs and any other pools that feature flat drain gates can pose a threat. Consider using drain covers and a safety vacuum release system that will automatically release suction and will shut down should entrapment occur.",n
+293,3,p,"Additionally, don’t forget to regularly inspect the drain covers for cracks and damages. We advise you replace flat drain covers with dome-shaped ones for added safety and convenience. Do not allow your child to use a pool or hot tub with a broken or missing drain cover.",n
+295,3,h3,No Diving Headfast In The Pool,n
+297,3,p,"As basic as this may sound, teach your children not to dive headfast in to shallow or murky water. Diving headfast into water of uncertain depth can result in drowning or can cause injuries.",n
+299,3,p,"Murky waters, such as in ponds, lakes and quarries, may have a dangerous underwater environment that might pose a threat to your health. Also, stay clear of sharp and pointy objects, such as rocks, that may pose hazards. Teach your kids to enter the water feet first to avoid injuries.",n
+302,3,h2,How Do I Keep My Baby Safe In The Water?,n
+304,3,p,"Taking your little one out for a swim can seem like a daunting task. As a parent, you must keep several safety factors in mind before taking your little one out for a swim. Follow these simple safety measures:",n
+305,3,ul,,n
+307,305,li,"Ensure the water is warm enough. For extra care, consider asking the pool attendants to check the pool temperature for you. Children younger than six months can only come in contact with water that is above 32-degrees C. As an added safety precaution, ensure the water comes up to your child’s shoulders",n
+309,305,li,"Take your baby out of the water as soon as soon as he begins to shiver. Wrap your child with a warm towel to prevent heat loss. Young children lose heat much quicker than adults, especially babies. Hence, don’t allow your child to stay in the water for too long.",n
+311,305,li,"​Initially, start off with short sessions that last up to 10 minutes. You can increase the time to 20 minutes as your child gets accustomed to the idea of swimming and grows older. However, if your children is under a year old, keep the time up to 30 minutes tops and no longer than that.",n
+313,305,li,"​Don’t take your child swimming if he or she seems unwell or has a bad cold. Additionally, it isn’t a good idea to take your child swimming if they have a tummy bug or seem tired. Remember, young children cannot express themselves with words so look out for other signs.",n
+315,305,li,"If your child suffers from allergies or has a skin complaint, check with a healthcare professional to ensure the chlorine won’t irritate him. Also, don’t forget to thoroughly rinse chlorinated water off your child once you are done swimming. Apply a nourishing moisturizer over your baby’s skin, especially if he suffers from eczema or other skin problems.",n
+317,3,h2,Tips For Taking Your Baby To The Pool,n
+319,3,p,Taking your baby out to the pool may seem like a daunting task for new parents. Here are a couple of tips that will make the process seem less stressful:,n
+320,3,ul,,n
+322,320,li,Start by getting your child used to the idea of splashing around in water. You can do this by making bath time fun. Gently splash water in the tub so your baby does not get scared. You can also lie him on his back and begin gently moving him through the water.,n
+324,320,li,"When you are finally planning to take your child to the local public pool, consider calling ahead to ask whether the place is child friendly and has access to changing tables and pushchairs. You may ask your spouse of friend to accompany you for the first session. This will help you feel more relaxed and comfortable. Also, consider taking your child to the pool when it is not too busy, so it’s best you avoid weekend trips.",n
+326,320,li,Invest in the right swimming gear for your baby that will protect him from accidents. Baby swim gear are designed to make the whole experience more comfortable for your little one.,n
+329,3,h3,Steps For Taking Your Baby To The Pool,n
+331,3,p,Follow these simple steps to take your baby to the pool:,n
+332,3,ul,,n
+334,332,li,"When you step into the pool, hold your baby close and maintain eye contact with him. This will distract him from the water.",n
+336,332,li,"Once you start to feel more comfortable, consider extending your arms and swishing your child around.",n
+338,332,li,​Talk to your child and praise him the entire time,n
+340,332,li,"Let your baby play with their bath toys. You can throw one of their toys a few feet and allow them to retrieve it. This may be difficult to teach if your child is very young. However, get them to at least imitate your movements.",n
+345,3,h3,Essential Items To Pack,n
+347,3,p,These are a couple of essential swimming gear and other important items you should pack when you are taking your little one to the pool:,n
+348,3,ul,,n
+351,348,li,Reusable Swim Nappies,y
+355,348,li,Warm Bottle,y
+360,348,li,Towel,y
+365,348,li,A Snack,y
+370,348,li,Toys,y
+374,348,li,Nappy Bag and Changing Mat,y
+379,3,h2,Conclusion,n
+381,3,p,"Hopefully, this handy guide has provided you all the information you need regarding investing in the right swimming gear for kids. For more information, browse the internet for more advanced swimming gear. Good luck!",n
+382,0,nav,,n
+384,382,span,Post navigation,n
+386,382,div,,n
+387,386,text,Next Post,n
+389,386,span,→,n

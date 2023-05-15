@@ -1,0 +1,68 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+285,1,div,,n
+287,285,h1,Hockey Equipment List,n
+298,285,div,Forgot Details | Register,n
+304,285,div,,n
+309,304,p,Tiny Blades and New to Hockey Equipment List,n
+311,304,p,Making your child’s first experience on ice a great one!,n
+316,304,p,Tiny Blades Program,n
+320,304,ul,,n
+322,320,li,"CSA Helmet withFace Mask,",y
+326,320,li,"Hockey Skates,",y
+330,320,li,"Hockey Pants or Snow Pants,",y
+332,320,li,Knee pads or shin pads,y
+339,304,p,New to Hockey and all other RPM Programs,n
+340,304,ul,,n
+342,340,li,CSA Helmet w face mask,y
+344,340,li,Mouth Guard,y
+347,340,li,Neck Protector,y
+349,340,li,Shoulder Pads,y
+351,340,li,Hockey Jersey,y
+353,340,li,Elbow Pads,y
+357,340,li,Athletic Support,y
+359,340,li,Pelvic Guard,y
+361,340,li,Garter Belt,y
+363,340,li,Hockey Pants,y
+365,340,li,Shin Pads,y
+367,340,li,Hockey Socks,y
+369,340,li,Hockey Skates,y
+374,304,div,,n
+378,374,div,,n
+380,378,strong,Where to buy,n
+381,378,text,...,n
+387,374,h2,Recommended,n
+391,374,h2,"Bills Skate Shop 22446 Lougheed Hwy, Maple Ridge B.C.-6133",n
+395,374,h2,Starter equipment packages available at Canadian Tire,n
+404,1,div,,n
+406,404,div,,n
+408,406,h1,RPM Hockey Company,n
+409,406,ul,,n
+411,409,li,Contact Us,n
+413,409,li,Policies,n
+415,409,li,FAQ,n
+417,409,li,Support Resources,n
+419,409,li,Hockey Against Bullying,n
+421,404,div,,n
+423,421,h1,Programs,n
+424,421,ul,,n
+426,424,li,Available Programs,n
+428,424,li,Program Browser,n
+430,424,li,Registration Help,n
+432,404,div,,n
+434,432,h1,Academies,n
+435,432,ul,,n
+437,435,li,Locations,n
+439,435,li,Registration,n
+441,435,li,Learn more,n
+443,404,div,,n
+445,443,h1,My Account,n
+446,443,ul,,n
+448,446,li,Account Details,n
+450,446,li,Payments and Billing,n
+452,446,li,My Players,n
+454,446,li,Registrations,n
+457,1,div,,n
+458,457,text,Copyright © 2022 RPM Hockey Company - All rights reserved,n
+460,457,br,System developed and maintained by 604 Studios,n

@@ -1,0 +1,40 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+143,0,div,,n
+145,143,div,,n
+148,145,h1,School Supply List,n
+149,145,div,,n
+151,149,h3,Page Navigation,n
+156,149,li,Supply List,n
+165,143,div,,n
+168,165,h1,Grades 7 and 8,n
+175,165,li,,n
+177,175,h3,All students are expected to have the following items,n
+178,175,ul,,n
+180,178,li,A sturdy backpack,y
+182,178,li,Open 3” D-ring binder,y
+184,178,li,Pencil pouch,y
+186,178,li,Dividers,y
+188,178,li,college rule. May need to be replaced at the semester,y
+190,178,li,Self-stick reinforcement labels,y
+192,178,li,"2 blue, 2 black and 1 red ink pen",y
+194,178,li,#2 pencils,y
+196,178,li,Colored pencils,y
+198,178,li,Colored markers,y
+200,178,li,Hand-held sharpener,y
+202,178,li,highlighters,y
+204,178,li,Pink eraser,y
+206,178,li,Scissors,y
+208,178,li,3 x5 note cards,y
+210,178,li,3 x3 Post-it notes,y
+212,178,li,Glue sticks,y
+214,178,li,Graph paper,y
+216,178,li,Note card holder,y
+218,178,li,Scientific calculator including a fraction key,y
+220,178,li,2 composition notebooks,y
+222,178,li,1 spiral notebook,y
+224,178,li,1 graph paper notebook,y
+226,178,li,PE,y
+228,178,li,Shoes,y
+230,178,li,tissue and a ream of paper to turn into advisory,y
+232,175,p,A planner will be provided,n

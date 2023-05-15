@@ -1,0 +1,136 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+7,0,div,,n
+19,7,div,,n
+20,19,div,,n
+25,20,h1,Work At Home Survival Kit,n
+26,20,div,,n
+28,26,span,remote work,n
+31,26,span,5 min read,n
+34,26,span,"July 6, 2021",n
+41,19,div,,n
+42,41,div,,n
+43,42,p,,n
+44,43,text,Stay-at-home orders and social distancing guidelines resulting from the coronavirus pandemic allowed companies to see the value in having their employees work remotely.,n
+46,43,strong,remote working is quickly turning into the standard,n
+47,43,text,"If you have begun working from home or are looking for a remote job opportunity, you will need to gather essential items for a work at home kit to give you the best chance for success.",n
+49,42,p,"Like any other job, having the right tools is essential to completing tasks efficiently and correctly. If you work for a remote company , your employer will typically set you up with the necessary communication and project management tools to keep you engaged and a part of the team. Independent freelance contractors are responsible for ensuring they have the equipment and software to satisfy their clients’ needs.",n
+53,42,h2,Work At Home Kit,n
+55,42,p,"Each remote job requires a varied list of tools to get the job done. Companies go to great lengths and expenses to ensure their remote workers have the equipment, software, and other resources to maintain productivity and job satisfaction. Freelancers are often burdened with collecting their own tools and adapting to individual client communication and management tools.",n
+57,42,p,The following is a basic guideline for what will be needed in a work at home kit for employees that are working remotely.,n
+60,42,h3,Technology Checklist,n
+62,42,p,"Modern computer and communication technology is what makes remote work possible. Most remote positions revolve around online work, so it is crucial to have the best possible setup for maximum efficiency and quality.",n
+63,42,ul,,n
+64,63,li,,n
+66,64,strong,Computer or Laptop,y
+67,64,text,"If you are working a full-time position from home, your company will likely supply you with a computer or laptop to remotely perform your duties. If not, it does not take a fortune to purchase a decent computer that can handle most remote jobs. Specialty positions may require higher-end computing capabilities for tasks such as video editing or massive data management.",n
+68,63,li,,n
+70,68,strong,Monitor,y
+71,68,text,"A multiple-monitor setup allows you to view more information at one time to be more efficient in your workflow. You spend a lot of time looking at computer screens, so you may want to invest in an upgrade of your monitor quality for your protection and eye safety.",n
+72,63,li,,n
+74,72,strong,Keyboard and Mouse,y
+75,72,text,"Like your monitor, your keyboard and mouse will be getting a lot of use. There are many options to choose from on the market designed to help prevent repetitive motion injuries like arthritis and carpal tunnel syndrome.",n
+76,63,li,,n
+78,76,strong,Printer or Scanner,y
+79,76,text,"Most remote positions will not require the need to print out or scan materials. However, even for those jobs that do not involve printing hard documents, having the ability to print documents may help in project and time management applications to keep you organized and on track.",n
+82,42,h3,Communication Tools,n
+84,42,p,"Each remote job comes with unique communication needs. You will need equipment and software to reach and connect with managers, co-workers, clients, and others, whether your employer supplies them or you need to acquire them on your own.",n
+85,42,ul,,n
+86,85,li,,n
+88,86,strong,High-Speed Internet,y
+89,86,text,"Having the highest speed internet connection available in your area is essential for accessing necessary online and cloud-based information and tools quickly. Check with your local provider to make sure you are getting the strongest possible connection. If your router is on a different level from your workspace, you may need to invest in a booster to ensure the strongest signal reaches your computer.",n
+90,85,li,,n
+92,90,strong,Headset,y
+93,90,text,"If your job involves taking calls and inputting data, a quality hands-free headset is a must.",n
+94,85,li,,n
+96,94,strong,Microphone,y
+97,94,text,"Modern computers and laptops typically come with a built-in microphone with suitable quality for video calls and meetings. If you need to record your voice for formal presentations, a USB microphone will give you better quality for sales, marketing, or internal applications.",n
+98,85,li,,n
+100,98,strong,Chat Software,y
+101,98,text,"Working remotely presents unique challenges to connect with other remote workers, supervisors, or clients. Your company will have a preferred way to communicate with its remote employees. However, you can reach out to co-workers and clients through various online communication tools, such as Google Hangouts, Slack, or Facebook Messenger. If you are a freelancer, you will likely need to become familiar with all of the most-used apps to accommodate client preferences.",n
+102,85,li,,n
+104,102,strong,Video Conferencing Software,y
+105,102,text,"When the pandemic hit, the world turned to communication software like Zoom, Skype, and Google Meet to stay in touch and virtually meet up for personal and business reasons. Video conferencing software is now a standard tool used by remote workers to hold business meetings and gatherings of all kinds.",n
+106,85,li,,n
+108,106,strong,Project and Time Management Software,y
+109,106,text,"Working remotely requires discipline, drive, and the ability to manage work time on your own effectively. Time management software helps to monitor your progress and keep you on track. Your company may also use project management software to create a digital gathering space for notifications and other essential information.",n
+112,42,h3,Engagement Tools,n
+114,42,p,"Working from home requires you to put measures in place to keep you engaged, focused, and productive. Your work environment needs to be comfortable while promoting a healthy physical and mental space. The smallest things can make the most significant impact on your productivity and job satisfaction.",n
+115,42,ul,,n
+116,115,li,,n
+118,116,strong,Ergonomic Chair,y
+119,116,text,A wooden kitchen chair or metal folding chair will not provide the kind of support and comfort you need to sit for hours in front of the computer. Investing in a comfortable office chair makes it easier to focus on the duties of the job. An ergonomically-designed chair will ease the stress on your body throughout the day.,n
+120,115,li,,n
+122,120,strong,"Standing, Adjustable Desk",y
+123,120,text,"Standing desks have been shown to offer a range of health benefits. Using a standing or adjustable desk can improve posture, reduce back and neck pain, and burn more calories than sitting all day. There are various standing and adjustable desks on the market today with a range of features and functions. Some remote workers get creative and construct their standing workstations out of crates, books, and boxes.",n
+124,115,li,,n
+126,124,strong,Mats and Cushions,y
+127,124,text,"Seat and foot cushions reduce the strain and fatigue of sitting or standing all day. A chair mat will not only protect your flooring from scuff marks and spills, but it will also make it easier to move around, reducing the stress on your legs and back.",n
+128,115,li,,n
+130,128,strong,Dress For Success,n
+131,128,text,"Even though you are working from home and are unlikely to see other people, getting dressed for work is still important. Formal office wear or business casual attire is not usually necessary, but you will not be as focused or take the job seriously if you are working in your pajamas. Make getting dressed part of your morning routine, even if that includes clean sweatpants and a fresh t-shirt.",n
+133,42,h2,Work At Home Kit Will Help Ensure Your Success,n
+135,42,p,"Being productive and happy working a job remotely takes self-discipline, drive, and the items in a work at home kit that will help you to be comfortable, healthy, and productive. Invest in those items that will keep you engaged, happy, and focused on the tasks of the job.",n
+137,42,p,,n
+139,137,strong,Looking,n
+140,137,text,Check out the Smooth Remote job board!,n
+143,42,p,,n
+146,143,strong,Follow us on,n
+148,143,text,Facebook LinkedIn Twitter Instagram,n
+152,41,div,,n
+154,152,h1,You may also like,n
+155,152,div,,n
+157,155,div,,n
+165,157,div,7 minutes read,n
+166,157,div,,n
+167,166,div,,n
+170,167,h3,Tips,n
+172,167,p,"Starting a new job remotely is a big deal. What to expect on day one, in the first week, the first month? We cover it all in this blog.",n
+174,166,p,"May 17, 2022",n
+177,155,div,,n
+185,177,div,16 minutes read,n
+186,177,div,,n
+187,186,div,,n
+190,187,h3,4 DAY WEEK GLOBAL,n
+192,187,p,"Is the 4 day work week going mainstream? Read our interview with Charlotte Lockhart, CEO of 4 DAY WEEK GLOBAL",n
+194,186,p,"March 3, 2022",n
+197,155,div,,n
+205,197,div,9 minutes read,n
+206,197,div,,n
+207,206,div,,n
+210,207,h3,13 Essential Tips,n
+212,207,p,"If you’re looking to start working remotely or have already made the switch and want to improve your work or life balance, then you won’t want to miss out on these essential remote work tips.",n
+214,206,p,"February 17, 2022",n
+219,7,div,,n
+220,219,div,,n
+223,220,p,Up,n
+225,220,div,,n
+227,225,p,About Smooth Remote,n
+229,225,p,Smooth Remote is simply the smoothest remote job board around for anyone on the lookout for remote work. Whether you’re looking for smooth sailing in an established corporation or a new adventure in an innovative startup — your journey starts here. Breeze through the latest remote jobs and find your next destination.,n
+231,225,div,,n
+233,231,p,Remote work FAQ,n
+235,231,div,How can I post my job listing? How do I create my account? How much does it cost to post a job? How do I create and edit a profile for my company? How do I receive applications from candidates?,n
+240,220,div,,n
+242,240,p,Explore,n
+244,240,div,Resources Contact us FAQ,n
+247,220,div,,n
+249,247,p,Remote skills,n
+250,247,div,,n
+252,250,p,AWS,n
+254,250,p,SaaS,n
+256,250,p,Javascript,n
+258,250,p,Google Analytics,n
+260,250,p,HTML,n
+262,250,p,CSS,n
+264,250,p,React,n
+266,250,p,NodeJS,n
+268,250,p,PostgreSQL,n
+270,250,p,SEO,n
+272,250,p,WordPress,n
+273,220,div,,n
+275,273,p,Remote jobs,n
+277,273,div,Remote Customer Service Jobs Remote Design Jobs Remote Developer Jobs Remote Marketing Jobs Remote Sales Jobs Remote Data Jobs Remote Business and Finance Jobs,n
+287,220,div,Remote Writing Jobs Remote HR Jobs Remote Teaching Jobs Remote QA Jobs Remote Healthcare Jobs Remote Product Jobs Remote DevOps and SysAdmin Jobs All Other Remote Jobs,n
+298,219,div,,n
+301,298,p,© Smooth Remote 2021,n
+305,298,div,Privacy and Cookies Policy Terms and Conditions,n

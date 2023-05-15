@@ -1,0 +1,107 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+18,2,h1,Gardening supplies,n
+22,2,div,,n
+25,22,span,Indoor plants,n
+28,22,span,Watering cans and plant misters,n
+31,22,span,Outdoor plant pots,n
+34,22,span,Plant supplies and accessories,n
+37,22,span,Plant stands,n
+47,2,p,"Time to cultivate some happiness this summer. This range of home gardening essentials has all you need to decorate your living space with plants and plant pots, both inside and out. Create your own little green sanctuary where you chill out and recharge your batteries.",n
+48,2,div,,n
+50,48,div,,n
+51,50,div,,n
+53,51,h2,Sort and Filter,n
+54,51,div,,n
+57,54,span,195 items,n
+59,54,div,,n
+62,59,span,Product,n
+65,59,span,Room,n
+75,51,div,,n
+78,75,span,Sort,n
+81,75,span,"In stock in Portland, OR",n
+84,75,span,size,n
+87,75,span,Category,n
+90,75,span,Color,n
+93,75,span,Buyable online,n
+96,75,span,Price,n
+99,75,span,Material,n
+102,75,span,Plant care,n
+105,75,span,New products,n
+108,75,span,Last chance,n
+111,75,span,Suitable for,n
+114,75,span,Series,n
+117,75,span,Customer rating,n
+120,75,span,Top seller,n
+123,75,span,Minimum temperature,n
+126,75,span,All filters,n
+127,50,div,,n
+129,127,h2,195 products in result,n
+130,127,div,,n
+327,130,div,,n
+336,327,h3,"17x6 """,n
+343,327,div,20,n
+827,130,div,"Running low at Portland, OR",n
+1241,130,div,"Back in Portland, OR in 2 weeks",n
+1504,130,div,,n
+1511,1504,h3,"Flower box with trellis, outdoor",n
+1514,1504,div,,n
+1518,1514,span,69,n
+1522,1514,span,98,n
+1540,130,div,,n
+1571,1540,div,9,n
+1607,1540,div,+2,n
+1615,50,div,Show more,n
+1618,48,div,,n
+1741,1618,div,,n
+1750,1741,h3,"29 ½x10 ¾ """,n
+1757,1741,div,35,n
+2107,1618,h3,,n
+2109,2107,span,SATSUMAS,n
+2114,2107,span,"30 ¾ """,n
+2534,1618,h3,,n
+2536,2534,span,SALLADSKÅL,n
+2541,2534,span,304 oz,n
+2571,48,div,,n
+2575,2571,h2,Recommended,n
+2578,2571,div,Skip listing,n
+2628,2,div,,n
+2631,2628,div,,n
+2633,2631,h2,How do I start my gardening?,n
+2635,2631,h4,Step 1,n
+2637,2631,p,"The first step of any garden project is choosing the seeds. When deciding, it helps to consider what degree of maintenance you’re prepared to put in. If you’re just starting out with your garden, you may want to start out with plants that are easy to take care of.",n
+2639,2631,p,"Another thing to keep in mind is the season. Plants that are grown outdoors need to be planted at specific times in the year if they are to truly thrive. For summer gardening, many plants need to be planted during spring. Some plants need colder weather to grow and will need to be planted later in the year. An indoor gardening project, however, gives you a little more flexibility.",n
+2641,2631,h4,Step 2,n
+2643,2631,p,The next step is to consider where you want your garden! Do you have a balcony garden or a backyard greenhouse? Are you growing in the ground or do you have garden beds and outdoor plant pots ? Make sure to pick a spot that will suit your plant selection.,n
+2647,2631,p,"Most plants need a lot of sun. Some can make do with 6 to 8 hours of sun each day, while others need up to 16 hours per day. Certain plants prefer direct sunlight, while other thrive in partial sunlight. Some plants prefer warmer climates, while thrive better in cool temperatures. Create the right environment for your plants and you’ll have a beautiful garden in no time.",n
+2649,2631,h4,Step 3,n
+2651,2631,p,"Plants are different – and predictably, they like different kinds of soil! The three primary types of soil are clay, sand and silt. There's also the sandy loam, which is a combination of all three. You can find out which type of soil your plant prefers by checking the label that comes with it, or by reading the product description online. Choosing the best soil for your plants is the first step – you'll also need to continuously strengthen the soil with a plant fertilizer. You can do this with a garden compost, some decayed leaves or even store-bought fertilizer.",n
+2653,2631,h4,Step 4,n
+2655,2631,p,"Plant your seeds in the new home you’ve prepared for them and start your gardening. With love, care, and an extra sprinkling of plant nutrition, you’ll could grow lush green garden to admire for years.",n
+2658,2628,div,,n
+2660,2658,h2,What basic gardening supplies do I need?,n
+2662,2658,p,"For outdoors gardening, we recommend that you start with the most important gardening supplies;",n
+2663,2658,ul,,n
+2665,2663,li,Gardening gloves,y
+2667,2663,li,Hand pruner,y
+2669,2663,li,Shovel,y
+2671,2663,li,Bow rake,y
+2673,2663,li,Digging fork,y
+2675,2663,li,Small hand tools,y
+2678,2658,p,"If you’re creating an indoor garden, you need other basic equipment to make sure the plants have what they need to grow. For beginners, the following should suffice;",n
+2679,2658,ul,,n
+2681,2679,li,"A container, such as a pot or garden bed",y
+2683,2679,li,"Soil or growing media, to provide anchoring",y
+2685,2679,li,light,y
+2687,2679,li,Fertilizer or plant nutrition,y
+2689,2658,p,"Regardless if you’re gardening inside or outside, your plants will need water. We recommend that you get a water hose if you’re doing your gardening outside. Get a watering can if you don’t have a big spot to water and if you are doing your gardening inside. A spray bottle for the inside gardening is a also a good investment, since some plants need water applied directly to their leaves.",n
+2696,2628,div,,n
+2698,2696,h2,What are the best tips,n
+2700,2696,p,Here are some great summer growing tips,n
+2701,2696,ul,,n
+2703,2701,li,"Summer equals sun and a warm weather. This also means that it’s time to plant vegetables like beans, corn, peppers, squash and zucchini.",n
+2705,2701,li,"Just like humans, insects love the summer. Keep an eye out",n
+2707,2701,li,Don’t be afraid of trim your plants. Most plants will grow back even better once dead flowers and seed pods are removed. It gives room for the new ones to bloom.,n
+2709,2701,li,"If you have potted plants, you want to keep them cool. Use mulch on the soil to keep it at a lower temperature.",n
+2711,2701,li,Fertilize the plants that you have in containers. They’ll need more nutrition during the summer months.,n

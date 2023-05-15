@@ -1,0 +1,208 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+171,0,div,,n
+195,171,div,,n
+203,195,div,,n
+205,203,h1,Camping Supplies List,n
+207,203,h2,Get Set,n
+208,203,div,,n
+213,208,div,,n
+215,213,div,Austin Langlois,n
+217,213,time,"May 14, 2019",n
+218,208,div,,n
+220,218,div,Share,n
+222,218,div,Tweet,n
+224,218,div,Flip,n
+225,218,div,,n
+227,225,div,0,n
+229,225,div,Shares,n
+238,203,p,"The AskMen editorial team thoroughly researches and reviews the best gear, services and staples for life. AskMen may get paid if you click a link in this article and buy a product or service.",n
+257,203,div,Advertisement,n
+262,203,p,"Camping is one of our favorite summer activities. There’s something truly unique about falling asleep to the sounds of nature and waking up to the smell of bacon crisping over a campfire. It’s also one of the only ways to escape from the ever-connected world, unplug and truly be present.",n
+264,203,p,"When you think of camping you might picture an isolated space in the woods, no toilet paper and a tent that falls at the first raindrop, but that no longer has to be the case. While you won't get the true getaway experience if you pack along all your home necessities, today's outdoor camping gear and accessories have been upgraded so campers can enjoy many of the comforts of 2019 life, while still taking in the wonders of nature.",n
+268,203,p,Best Coolers You Can Buy,n
+270,203,p,"If you haven’t roughed it in the great outdoors for awhile, you might be stumped on what to pack for camping. Luckily, we’ve got your back. Along with our guide on where to set up tent in the U.S., we’ve compiled a handy camping checklist which features all the camping essentials you’ll need for your next adventure.",n
+272,203,h2,Camping Supplies List,n
+273,203,ul,,n
+275,273,li,Tent with a rain cover,y
+277,273,li,Sleeping pad,y
+279,273,li,Sleeping bag or throw blanket,y
+281,273,li,Pillow,y
+283,273,li,Comfortable clothes,y
+285,273,li,Cooler,y
+287,273,li,Flashlights or lanterns,y
+289,273,li,Matches or flint,y
+291,273,li,"Cast iron skillet and other durable, fire-friendly pots or pans",y
+293,273,li,Food,y
+295,273,li,Knife,y
+297,273,li,First aid kit,y
+299,273,li,Charging packs,y
+306,203,p,"When you think of camping destinations, you probably picture a great wooded wilderness. But have you considered camping along the Great Lakes? As a Michigander, I’m biased, but the sugar sand shores of Lake Michigan offer some of the best camping grounds out there. Steps away from massive sand dunes and water as far as the eye can see, it’ll only take one trip to realize that lake life is the best life.",n
+308,203,h3,Camping Lantern,y
+311,203,p,"After an evening out watching the sunset, you’ll need a strong lantern to light the way back to your campsite. You can’t go wrong with this rechargeable option, which features two removable flashlights and a whopping 600 total lumens of light. It’s rechargeable by USB or D-size batteries.",n
+313,203,p,$24.99 at Amazon.com,n
+315,203,h3,Camping Hammock,y
+318,203,p,You’ll be hard pressed to find campers without hammocks in Northern Michigan. There’s something so peaceful about hooking up to the strong birch trees above the dunes and spending the day hanging out – literally. This double hammock is built of nylon parachute fabric and claims to take less than three minutes to set up.,n
+320,203,p,$26.99 at Amazon.com,n
+322,203,h3,Rambler Colster,y
+325,203,p,"Michigan is known for its craft beer, and what better way to indulge in the state’s most popular beverage than with this insulated beer coozie. It keeps 12-ounce bottles and cans icy cold with double-wall vacuum insulation and the twist-off gasket tech will keep drinks secure.",n
+327,203,p,$34.99 at Yeti.com,n
+332,203,p,Best Tools,n
+339,203,p,"If you haven’t been to the “Land of Enchantment,” add the state to your list. New Mexico offers a wide abundance of landscapes, from soaring mountains to grassy meadows, red rocks to blue lakes. The Santa Fe National Forest sits on 1.6 million acres of protected land and offers 1,000 miles of hiking trails and an abundance of rivers and streams for fishers and hikers alike.",n
+341,203,div,,n
+343,341,p,Your 101 Guide to Betterment in 2022,n
+350,341,div,"Send me the best deals on gear, style and tech",n
+351,341,div,,n
+352,351,text,Subscribing to AskMen Daily Dispatch and or or the Acquire by AskMen newsletter indicates your consent to our Terms of Use and Privacy Policy .,n
+358,351,br,You may unsubscribe at any time.,n
+360,203,h3,Sleeping Pad,y
+363,203,p,"Trade out your big camping mattress for a sleeping pad; they’re lighter and don’t require an air pump. It’s made from durable nylon for any sleeping surface and will keep your body cradled all night. When you’re done, it rolls away into the size of a small water bottle.",n
+365,203,p,$39.95 at Amazon.com,n
+367,203,h3,Jetboil Pot,y
+370,203,p,"Be the top chef of the campfire kitchen. The Jetboil is a 21st-century camping pot. It holds up to 1.5 liters and features a hard-anodized aluminum construction. Plus, the plastic base cover duals as a bowl or serving plate if you’re looking to get extra fancy. As one Amazon reviewer said, “Easy to use, weight and space saving;” What more could you want?",n
+374,203,h3,Keychain Multitool,y
+377,203,p,"With limited space and unforeseeable situations, a multitool is a camper’s best friend. This trusted Leatherman brand product features 14 built-in tools, from a can opener to pliers, knife to scissors. And it only weighs 6.9 ounces to keep your day pack light.",n
+384,203,p,Best Multi-Tools,n
+391,203,p,"Only a short drive from Portland, Lost Lake is a great spot to soak in all that the Pacific Northwest has to offer. Crystal clear water, beautiful wooded trails and an unrivaled view of Mt. Hood. It’s a popular camping spot and it fills up fast during the summer months, so make sure to book in advance.",n
+393,203,h3,Stanley Mug,y
+396,203,p,"This mug keeps up to 35 ounces of your favorite beverage frosty. Or, if you’re looking for a camp-safe coffee mug, this’ll do the trick. It’s made from kitchen-grade stainless steel and is puncture- and rust-resistant.",n
+398,203,p,$37.66 at Amazon.com,n
+400,203,h3,Powerbank,y
+403,203,p,"Not everyone’s definition of camping means going completely tech-free, and that’s okay. For those of you who want your phone at your fingertips, you’ll need a powerbank to keep you juiced up. We suggest this one from River Rapid; it’s small enough to fit in your pocket yet powerful enough to fully charge your smartphone, and then some.",n
+405,203,p,$50 at Huckberry.com,n
+407,203,h3,BioLite Light,y
+410,203,p,"Powered by the sun, this light can stay illuminated for up to 50 hours on a single charge. It features a clip to attach the light to the top of your tent for ultimate portability and function. And it’s splash proof so you won’t have to worry about a little rain.",n
+412,203,p,$25 at Huckberry.com,n
+417,203,p,Best Hiking Gear,n
+423,203,p,"Nestled on the border between Tennessee and North Carolina, the Great Smoky Mountains offer a respite from the hustle and bustle of daily life. Here life moves a bit slower, with abundant wildlife and blossoming flowers. Bike the trails, go fly fishing and take up horseback riding – the 187,000 acres are all yours.",n
+425,203,h3,Rumpl Down Blanket,y
+428,203,p,"Camping blankets are more versatile than a sleeping bag. Cozy up with one around the campfire, use it as a picnic blanket or curl up in your hammock with the blanket and a book. This one is made from water-resistant, ripstop nylon, yet it’s fully washable making clean up easy when you get home.",n
+430,203,p,$159 at Amazon.com,n
+432,203,h3,Coleman Tent,y
+435,203,p,"When it comes to a tent, you need something light, portable and easy to set up. This Coleman tent takes the cake. I can personally attest to this tent as I’ve used it multiple times. It pops up in minutes and withstood a torrential rainstorm. But, don’t just take my word for it, with 4.4 stars from 6,500+ people, it seems like a winner in everyone’s book.",n
+437,203,p,From $39 at Amazon.com,n
+439,203,h3,HOPPER BACKFLIP 24 Cooler,y
+442,203,p,"It’s a cooler. It’s a backpack. It’s a cooler backpack. Built of closed-cell rubber foam and waterproof, high-density fabric, this Yeti cooler is built to withstand anything – and will keep its contents icy cold. It’s ultra-portable and can hold up to 20 cans of beer.",n
+444,203,p,$299.99 at Yeti.com,n
+446,203,p,"Whether you hit up one of our favorite camping destinations or you stick to your tried and true spots, these camping essentials will see you through whatever adventure lies ahead. Now, get out and go bask in the beauty of the great outdoors.",n
+449,203,p,You Might Also Dig,n
+450,203,ul,,n
+452,450,li,How to Go Camping,n
+454,450,li,Best Air Mattresses,n
+456,450,li,Your Summer Camping Checklist,n
+459,203,p,"AskMen may get paid if you click a link in this article and buy a product or service. To find out more, please read our complete terms of use .",n
+463,203,div,Next Article,n
+464,203,div,,n
+468,464,div,Show comments,n
+469,464,div,,n
+471,469,h4,Comments,n
+472,469,form,,n
+474,472,label,Share your opinion,n
+477,472,label,Your name,n
+481,203,div,,n
+483,481,h4,Camping,n
+485,481,h4,Outdoors,n
+487,481,h4,guy gear,n
+490,195,div,,n
+493,490,div,,n
+497,493,div,,n
+511,497,div,,n
+516,511,div,av-override,n
+518,511,div,,n
+520,518,div,00:07,n
+522,518,div,or,n
+524,518,div,00:10,n
+531,497,div,Replay,n
+556,493,div,,n
+576,556,div,Skip,n
+578,556,div,Ads by,n
+583,490,div,,n
+584,583,div,,n
+588,584,p,Being Happy Single Can Supercharge Your Love Life - Here's How It Works,n
+590,584,div,Rebecca Strong,n
+614,583,div,Read More,n
+618,583,p,Don't Get Caught Off Guard by This Dishonest Dating Tactic,n
+619,171,div,,n
+620,619,div,,n
+621,620,div,,n
+623,621,span,From the Web,n
+625,621,span,Powered by ZergNet,n
+627,620,div,,n
+630,627,div,Don't Ignore These Symptoms Of Depression,n
+633,627,div,Women's Physical Features That Surprisingly Attract Men Most,n
+636,627,div,R-Rated Movies That Took Things Way Too Far,n
+639,627,div,Love Scenes That Went Too Far,n
+642,627,div,Hooters Is Disappearing Across America. It's Pretty Clear Why,n
+645,627,div,Surprising Traits Men Don't Find Attractive In Women,n
+648,627,div,The Untold Truth Of Magic Erasers,n
+651,627,div,Danica Patrick's Brutally Honest Message To Future Boyfriends,n
+654,627,div,The Tragedy Of Dax Shepard Is Just Heartbreaking,n
+657,627,div,It's Really No Secret What Happened To Angus T. Jones,n
+660,619,h4,Recommended Reading,n
+661,619,div,,n
+666,661,div,,n
+668,666,div,Health,n
+670,666,div,Head Outside With the Hottest Gear up to 70% off at REI,n
+679,661,div,Hunting,n
+688,661,div,Gear Up to Get Back Outside With Bass Pro Shops,n
+697,661,div,Save up to 40% on The North Face and Arc'teryx at Moosejaw's Winter Clearance,n
+706,661,div,Gear Up,n
+710,171,div,,n
+711,710,div,,n
+712,711,div,,n
+713,712,text,News,n
+715,712,div,Career and Money Dating Entertainment Food and Booze Health Home and Auto Style and Fashion Tech Black Friday,n
+724,711,div,,n
+725,724,text,Sex,n
+727,724,div,Sex Positions Sex Tips Sex Toys and Games Sexual Experiences Sexual Health,n
+732,711,div,,n
+733,732,text,Dating,n
+735,732,div,Dating Advice Dating Experiences Best Online Dating Sites Relationship Advice,n
+739,711,div,,n
+740,739,text,Grooming,n
+742,739,div,Fragrances Hair Shaving Skin,n
+746,711,div,,n
+747,746,text,Style,n
+749,746,div,Accessories Fashion Advice Fashion Trends Shopping Underwear Watches,n
+755,711,div,,n
+756,755,text,Fitness,n
+758,755,div,Health Mental Health Nutrition Weight Loss Workout,n
+763,711,div,,n
+764,763,text,Gear,n
+766,763,div,Hobby Home Tech Toys Travel Work,n
+772,711,div,,n
+773,772,text,Man Skills,n
+775,772,div,Auto Essential Home Random Survival,n
+780,711,div,,n
+781,780,text,Deals,n
+783,780,div,Health Deals Home Deals Style Deals Tech Deals,n
+787,711,div,,n
+788,787,text,Career and Money,n
+790,787,div,Career Money Productivity Self-Improvement,n
+794,711,div,,n
+795,794,text,Home and Auto,n
+797,794,div,Auto Home Parenting Pets Tools,n
+802,711,div,,n
+803,802,text,Gifting,n
+805,802,div,Anniversaries Birthdays Father's Day Holidays Mother's Day Valentine's Day Weddings,n
+812,711,div,,n
+813,812,text,Reviews,n
+815,812,div,Best Subscription Services Classes Meal Kits Products,n
+819,711,div,,n
+820,819,text,Food and Booze,n
+822,819,div,Booze Food,n
+824,711,div,,n
+825,824,text,Entertainment,n
+827,824,div,Celebs Guy Perspective Media Music Sports Travel TV and Film,n
+834,710,div,,n
+836,834,div,AskMen on Facebook,n
+838,834,div,AskMen on Twitter,n
+840,834,div,AskMen on Flipboard,n
+842,834,div,AskMen on Google News,n
+844,710,span,Top Stories,n
+846,710,div,49 Unique Birthday Gifts for Him Best Back Exercises With Dumbbells Best Electric Shavers Best Free Dating Sites Best Sex Positions to Improve Your Sex Life The Best Sex Toys for Couples,n
+852,710,div,,n
+855,852,div,"© 2022 Ziff Davis Canada, Inc. All Rights Reserved.",n
+857,852,div,"AskMen, Become a Better Man, Big Shiny Things, Mantics and guyQ are among the federally registered trademarks of Ziff Davis Canada, Inc. and may not be used by third parties without explicit permission.",n
+860,852,div,Use Privacy Policy Accessibility Statement Do Not Sell My Personal Information,n
+868,710,div,IGN PCMag Offers.com Geek ExtremeTech Toolbox SpeedTest,n

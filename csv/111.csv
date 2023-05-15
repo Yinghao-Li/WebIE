@@ -1,0 +1,41 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+7,1,h1,School Recommendations,n
+28,1,h3,"Click on your school below to purchase your recommended supply list, then visit our rental page to rent your instrument.",n
+129,0,div,,n
+132,129,div,,n
+134,132,div,,n
+136,134,h3,Our Site,n
+138,134,ul,,n
+140,138,li,Home,n
+142,138,li,Rentals,n
+144,138,li,Lessons,n
+146,138,li,Repairs,n
+148,138,li,News and Events,n
+150,138,li,Weekend Update,n
+152,138,li,Retail Store,n
+154,138,li,About Us,n
+156,132,div,,n
+158,156,h3,Product Categories,n
+160,156,ul,,n
+162,160,li,Accessories,n
+164,160,li,Band Instruments,n
+166,160,li,Orchestra Instruments,n
+168,160,li,Percussion Instruments,n
+170,160,li,Sheet Music,n
+172,132,div,,n
+174,172,h3,Additional Links,n
+176,172,ul,,n
+178,176,li,Contact Us,n
+180,176,li,Frequently Asked Questions,n
+182,176,li,Privacy Policy,n
+184,176,li,Terms and Conditions,n
+186,132,div,,n
+188,186,h3,Checkout Our Other Stores,n
+189,186,div,,n
+191,189,p,www.ThePodcastingStore.com,n
+193,189,p,www.DrumsWest.com,n
+199,129,div,,n
+201,199,p,"S. Mason St. Fort Collins,-",n
+203,199,p,ShopIsle powered by WordPress,n

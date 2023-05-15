@@ -1,0 +1,117 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,article,,n
+6,1,div,,n
+15,6,h1,Essential Music Production Equipment You Need,n
+18,6,p,Learn what equipment you’ll need,n
+19,1,section,,n
+45,19,div,,n
+46,45,div,,n
+48,46,p,"Walk into any music store and you’ll see walls of music production equipment that will make your head spin. Even if you have a budget in mind, it’s hard to resist the temptation to buy the highest-end versions of everything you think you “need” to be the next great music producer. I’d be lying if I said I’ve never come home with equipment that was way too expensive—and completely out of my scope of knowledge.",n
+50,46,p,"So how do you make heads from tails of all of the music production equipment out there? We put this guide together to serve as your music production equipment list . While you might not win any awards for having the most extensive catalog of equipment, you will have everything you need to get professional-sounding recordings from your home studio.",n
+56,46,h2,Desktop Computer or Laptop,y
+58,46,p,"Even if you’re on a bare-bones budget, you need a computer that can handle recording software—and you’ll also need a way to record instruments and vocals into that computer.",n
+60,46,p,"When I was getting started, everyone told me to get a Mac. There were great DAWs available only on Apple computers, one of which is installed onto every Mac for free. And without getting too deep into the weeds, the operating system just works with a lot of peripherals that an audio engineer might want to use.",n
+64,46,p,"Early reviews on Apple’s new M1 computers are outstanding; many experts agree that the new processors put these computers among the best music production equipment that money can buy. Considering that I began recording music on a PowerBook G4 back in 2006, it’s safe to say that you’ll be just fine on one of the new M1 Macs.",n
+67,46,p,"Our recommendation for those of you getting started? The new Mac Mini. They start at $699 , and while you just get the computer, you have the flexibility to use any monitor, keyboard, and mouse you’d like. Plus, it’s plenty powerful to serve as a home studio computer.",n
+71,46,p,"More comfortable with Windows? Plenty of engineers use PCs to record audio, but most experts agree that you should look for the most powerful processor and amount of RAM that you can afford. If you build the computer yourself, you can upgrade these components down the road. But if you buy one from a manufacturer, doing so yourself could be far more difficult .",n
+73,46,h2,Audio Interface,y
+75,46,p,Audio interfaces allow you to connect instruments and microphones to your computer .,n
+79,46,p,"For electronic music production equipment, you might assume that we’re talking about something really expensive. But If you’re just getting started, you can get a serviceable audio interface for less than $200. Here are a few things to look for:",n
+82,46,ul,,n
+83,82,li,,n
+85,83,strong,How many XLR inputs does the audio interface have?,n
+86,83,text,"If you want to record several things at once, avoid less expensive options that might only include one or two XLR inputs.",n
+87,82,li,,n
+89,87,strong,Does the audio interface come with Phantom Power?,n
+90,87,text,Phantom Power is the term given to the process of delivering DC to microphones requiring electric power to drive active circuitry—and many microphones only work with interfaces that have Phantom Power.,n
+92,82,li,,n
+94,92,strong,How does the audio interface connect to your computer?,n
+95,92,text,Many audio interfaces plug right into a standard USB port. Others use Firewire or Thunderbolt ports. Make sure that your computer can support the audio interface you’d like to use.,n
+97,46,p,"I’ve gotten great results from Apogee Electronics products. They offer a wide variety of electronic music production equipment, including incredibly high-end interfaces that you’ll find in professional studios. But they also offer less expensive products such as the Apogee One , which includes a breakout cable for you to plug microphones and other peripherals into, as well as a built-in microphone. Here’s a demo that I recorded exclusively with the built-in microphone and a MIDI keyboard .",n
+103,46,h2,Digital Audio Workstation,y
+105,46,p,"When you walk into a studio, the first things that you’ll usually notice are the engineer’s computer and the digital audio workstation that it’s running—a.k.a. the software that you’ll use to capture and mix your recordings.",n
+109,46,p,"If you opt for a Mac, you’ll have GarageBand, which is among the best music production equipment for beginners and professionals alike. While it doesn’t include all of the bells and whistles of higher-end options, it still includes great-quality sound effects, digital guitar amplifiers, and a loop library.",n
+111,46,p,"Want something more professional? Apple fans tend to opt for Logic Pro , which is GarageBand’s beefier counterpart. Windows folks can choose from DAW options such as Adobe Audition , Cubase , and Ableton Live .",n
+121,46,p,"our favorite options in a previous post, which you can check out here.",n
+123,46,h2,Microphones and Pop Filters,y
+125,46,p,It’s easy to get caught up in the luster of buying the kind of fancy microphone that looks like the ones used by The Beatles and Buddy Holly. But you don’t have to spend a ton of money on microphones to get really great recordings.,n
+127,46,p,"If you’re on a budget, check out the Shure SM57, which professional musicians love for its versatility. You can use it to mic up a guitar amp, then turn around and have a vocalist sing into it. It’s also affordable— at just under $100 , many recording engineers have a handful of these available at any given time.",n
+131,46,p,"Mics like the Shure SM57 are what are known as dynamic mics, which are typically good for capturing louder sounds like drums. Condenser microphones, on the other hand, are typically used to capture softer sounds like vocals or acoustic guitars. If you can afford it, consider purchasing a variety of both so that you can record anything you need to—in any environment.",n
+133,46,p,"Although many engineers would recommend that the music production equipment for beginners is a suitcase full of SM57s, here are some popular condenser microphones to consider:",n
+136,46,ul,,n
+138,136,li,Rode NT1-A,n
+140,136,li,sE Electronics sE8,n
+142,136,li,Audio-Technica AT2035,n
+144,46,p,"While you’re at it, grab a few microphone stands and pop filters.",n
+146,46,p,"You’ll typically come across two types of stands. First is your garden variety mic stand, which is popular among vocalists. Engineers tend to use these in tandem with what are known as “boom” stands, which mean they come with an adjustable arm that you can place at a variety of angles. You can find starter packs of mic stands for under $40.",n
+150,46,p,"Pop filters are placed in front of a vocalist’s microphone to avoid capturing any harsh sounds, or what are referred to as “ plosives .” Check out this video to hear the difference between a vocal track captured with and without a pop filter. Once you hear it, you’ll never want to record a singer without a pop filter again. Pop filters are very affordable , but if you’re looking to save a few dollars, I’ve had success using this well-known hack that utilizes a pair of pantyhose and wire hanger.",n
+160,46,h2,Studio Monitors,y
+162,46,p,"It’s really difficult to mix a professional-sounding song with the built-in speakers on your computer. That’s why audio engineers rely on studio monitors, which are designed for recording studios and give you a more accurate reproduction of the audio that you’re working with.",n
+164,46,p,considerations,n
+165,46,ul,,n
+166,165,li,,n
+168,166,strong,How many watts should mine be?,n
+169,166,text,"You shouldn’t necessarily opt for monitors with the most watts, but studio monitors with higher power ratings produce more accurate and dynamic audio.",n
+170,165,li,,n
+172,170,strong,Active vs. passive studio monitors.,n
+173,170,text,"Passive studio monitors are great, but they require a bit more setup, and it’s critical to match them with amplifiers. Professionals tend to opt for active monitors because they don’t require as much fuss.",n
+174,165,li,,n
+176,174,strong,The room you’re working in.,n
+177,174,text,Audio engineers spend a lot of time thinking about the placement of their studio monitors. Work with an expert at a retailer such as Sweetwater to identify the right studio monitors for your specific room.,n
+179,46,h2,Audio Cables,n
+181,46,p,"You’ve learned about a lot of music production equipment at this point. You’re ready to record the next Grammy-nominated single, right? Not exactly. You’ve got to connect microphones and instruments to your audio interface! That’s where audio cables come in.",n
+183,46,p,the following when I built a “studio” in my apartment:,n
+184,46,ul,,n
+186,184,li,XLR cables,n
+188,184,li,¼ inch “male” to “male” cables,n
+190,184,li,XLR to ¼ inch mono cable,n
+192,184,li,USB-A to USB-C cables,n
+194,46,p,"In many cases, this is overkill. But having these on hand will put you in a good position to record anything that’s thrown at you. Even better: many of these cables are very inexpensive.",n
+198,46,h2,MIDI Keyboard,y
+200,46,p,This isn’t required,n
+202,46,p,"A MIDI keyboard looks like a piano, but it doesn’t produce any sounds on its own. Instead, it works like a controller, connecting to your computer via USB and allowing you to create music using built-in sound and loop libraries.",n
+204,46,p,something I recorded entirely with MIDI sounds in Logic Pro.,n
+207,46,p,"You could spend a few hundred dollars on a MIDI keyboard with weighted keys that feels like an actual piano. But the example I shared above was recorded on one that cost less than $70 . If you’re hoping to save some cash, look for brands such as M-Audio and Akai.",n
+213,46,div,,n
+216,213,h2,Loop Your Way to a Hit Song,n
+219,213,p,Making Music With Apple Loops in Logic Pro X,n
+221,213,div,Take the Class,n
+226,45,div,,n
+228,226,p,Written by,n
+230,226,h4,Richard Moy,n
+253,19,div,,n
+255,253,h3,Your creative journey starts here.,n
+256,253,text,Get Started,n
+257,253,ul,,n
+260,257,li,Unlimited access to every class,n
+263,257,li,Supportive online creative community,n
+266,257,li,Learn offline with Skillshare's app,n
+269,1,div,,n
+270,269,nav,,n
+272,270,h2,Post navigation,n
+273,270,div,,n
+278,273,div,,n
+280,278,h4,Everything To Know About Packaging Mockups as a Graphic Designer,n
+282,278,p,View previous post,n
+285,273,div,,n
+287,285,h4,How To,n
+289,285,p,View next post,n
+293,269,h2,Related Posts,n
+294,269,div,,n
+298,294,div,,n
+303,298,div,"May 10, 2022",n
+306,298,h2,"7 Easy, Fun and Useful Crafts",n
+309,298,p,"Crafting with the kids is fun, but adults need creative time too. The next time you want to de-stress, get out your supplies, and try these crafts for adults.",n
+313,294,div,,n
+318,313,div,"Apr 27, 2022",n
+321,313,h2,"Music NFT Creation, Selling, and Buying",n
+324,313,p,"Maybe you’ve seen NFT art floating around the internet, but did you know it was possible to create a music NFT? Learn how and break down yet another barrier.",n
+328,294,div,,n
+333,328,div,"Apr 19, 2021",n
+336,328,h2,Music Production,n
+339,328,p,"In this music production guide, learn the different processes that go into producing music.",n
+341,0,div,,n
+343,341,h2,Join Skillshare,n
+345,341,p,Join today,n
+346,341,text,Try Skillshare For Free,n

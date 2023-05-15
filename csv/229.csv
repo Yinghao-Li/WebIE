@@ -1,0 +1,198 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+6,0,div,,n
+12,6,div,,n
+15,12,div,,n
+19,15,p,"Field hockey may be a team sport played on a large field. However, you don’t need a team or a large open space in order to sharpen your skills and become a better hockey player. With the right gear, you can practice effectively at home while also staying safe, and, most importantly, having a lot of fun.",n
+22,15,p,"While many of these items are standard equipment for playing field hockey, some are not. These items can be used creatively to come up with your own drills and practice sessions. Luckily, all this optional equipment is pretty inexpensive as well.",n
+24,15,p,,n
+25,24,text,the,n
+27,24,span,Top 10 Field Hockey Equipment,n
+31,15,h2,Summary,n
+32,15,ol,,n
+35,32,li,Hockey stick,y
+38,32,li,Field hockey practice balls,y
+41,32,li,Hula hoop,y
+44,32,li,Field hockey star rebounder,y
+47,32,li,Field hockey shin guard,y
+50,32,li,One-timer hockey passer,y
+53,32,li,Field hockey gloves,y
+56,32,li,Hockey revolution lightweight stickhandling training aid,y
+59,32,li,Soccer cones set,y
+62,32,li,Rebound board,y
+66,12,h2,Field Hockey Stick,y
+72,12,div,,n
+75,72,p,"Of course, you can’t play field hockey without a hockey stick. This is the first and most important item to buy, so make sure you put extra effort into picking the best choice for you.",n
+79,72,p,"factors to consider when choosing a hockey stick, such as:",n
+82,72,li,,n
+83,82,text,Length,n
+85,82,span,"You should choose a stick with a certain length based on your height. For example, if you’re under 4’, you’ll typically use a 28” stick and a 38” stick if you’re 5’9” or over. According to the U.S. method, you can also see if a stick is appropriate for you by standing it next to you and seeing if it ends 2” above your waist.",n
+88,72,li,,n
+89,88,text,Weight,n
+91,88,span,"Different weights will suit different playstyles better. If you want better control and wrist mobility, go for a lighter stick. If you want more power, go with a heavier option.",n
+94,72,li,,n
+95,94,text,Toe Design,n
+97,94,span,Defensive players tend to favor hockey sticks with a maxi toe design for a wider surface area to receive and strike balls. Offensive players use shorter toes for maneuverability. Midfielders and beginners typically use Midi toes since they offer a good balance.,n
+100,72,li,,n
+101,100,text,Material,n
+103,100,span,"Hockey sticks are usually made from wood, carbon, fiberglass, or a mixture of these three materials. Wood sticks are more flexible and forgiving, making them great for beginners. Carbon adds power, so it’s more suitable for more experienced users. Fiberglass is usually added to reinforce and strengthen the stick.",n
+107,72,p,Goalies also have their own special sticks.,n
+110,72,p,,n
+112,110,span,"So, which hockey stick to pick? To make sure you make the right choice, you have to consider your skill level, size, position, and personal playstyle. You should really take your time to browse a large selection of field hockey sticks from a retailer like",n
+114,110,span,Dick’s Sporting Goods,n
+116,110,span,.,n
+120,12,h2,Field Hockey Practice Balls,y
+126,12,div,,n
+129,126,p,"Next to the stick, you will also definitely need some field hockey balls to train with. Practice field hockey balls are slightly different than legitimate game balls. They are usually made from plastic and hollow or filled with cork on the inside. The corked options are typically more durable.",n
+133,126,p,Practice balls are also typically smooth instead of covered with indentations like regulation balls. This makes them suitable for a wider range of playing surfaces. They also whey roughly the same as game balls so that you can get used to the feel.,n
+137,126,p,"Practice balls usually come in a variety of colors and designs, so you can pick one that’s the most fun. However, just make sure it contrasts whatever surface you play on so it’s easier to follow.",n
+141,12,h2,Hula Hoop,y
+147,12,div,,n
+149,147,p,,n
+151,149,span,equipment in field hockey,n
+153,149,span,drills,n
+155,149,span,". It’s also super cheap and easy-to-use, so it’s a great addition to your home training kit. You should get multiple hula hoops for the most fun and interesting drills.",n
+159,147,p,"For example, you can create a slalom drill by arranging hoops in a line and then threading the ball in between them from one end to the next. You can also try to get balls into the hoops without using any hands.",n
+163,147,p,"If you train with others, you can even make up fun games like “musical chairs” with hula hoops where the last person to get their ball in the hoop is knocked out. Or, passing the ball around hoops to improve your interplay.",n
+167,12,h2,Field Hockey Star Rebounder,y
+173,12,div,,n
+176,173,p,A rebounder is another simple but extremely effective piece of home training equipment. Its main function is for you to hit the ball towards it and then the rebounder will bounce it back to you.,n
+179,173,p,"By repeatedly practicing like this, you can improve fundamental skills like passing and receiving the ball.",n
+181,173,p,,n
+183,181,span,"boards. However, you can find strung rebounders like",n
+185,181,span,this,n
+187,181,span,that are capable of returning balls at higher speeds. This specific model can also be flipped to rebound balls through the air.,n
+191,12,h2,Field Hockey Shin Guard,y
+197,12,div,,n
+200,197,p,"If you’ve ever gotten hit by a hockey ball at full speed, you know why a shin guard is a must.",n
+203,197,p,"Typically, Field Hockey shin guards consist of a hard plastic shell with a thick layer of foam on the inside. While some people use football or other shinguards, it’s not recommended for a couple of reasons:",n
+206,197,ul,,n
+209,206,li,Field hockey shinguards are often thicker,n
+212,206,li,They wrap further around your legs to protect from more angles,n
+215,206,li,Field hockey shinguards typically mold better to your legs,n
+218,197,p,"Overall, this means you’ll get better protection and comfort from field hockey shin guards.",n
+221,197,p,"You should always pick shin guards based on your size and by trying them on to feel how they fit. Otherwise, it can be really uncomfortable and hamper your movement. You should also get a rash guard or breathable socks to wear underneath to prevent chafing.",n
+225,12,h2,One-Timer Hockey Passer - NHL Approved,y
+231,12,div,,n
+234,231,p,A ball passer is another great tool for someone who wants a bit more of a challenge. Passers shoot a ball out at you to practice catching or shooting at a moving object.,n
+236,231,p,,n
+238,236,span,This “,n
+240,236,span,one-timer hockey passer,n
+242,236,span,",” for example, is meant to be used to set up a “one-timer” pass. In other words, you let it pass the ball in front of the shooter who intercepts the ball and shoots at goal.",n
+245,231,p,"Different passers can be loaded with and shoot different numbers of balls. The timing between balls can also differ. So, pick one based on the speed, intensity, and repeatability that you want.",n
+249,12,h2,Field Hockey Gloves,y
+255,12,div,,n
+258,255,p,Field hockey gloves protect your hands from chaffing and wearing against the grip of the hockey stick. It also prevents sweat from making it hard to grip the hockey stick properly. Some gloves even come with a hard shell coating to protect against hits from balls or other sticks which can be really painful.,n
+262,255,p,"For home practice, you probably only need basic gloves with some padding to protect the skin of your palms and fingers as well as wick sweat. Try to pick gloves that are breathable and comfortable to wear.",n
+266,12,h2,Hockey Revolution Lightweight Stickhandling Training Aid,y
+272,12,div,,n
+275,272,p,"You can find different types of stickhandling training aids online. However, this is one example of an extremely useful, flexible, and affordable option for training at home. It’s also portable, so you can take and set it up anywhere.",n
+279,272,p,"You can use it to improve your Puck Control, Reaction Time and Coordination, and set up your own drills. For example, you can set it up in a horseshoe shape to practice controlling the ball within a small area. You can also practice hitting the ball through specific numbered gaps to improve your aim.",n
+283,12,h2,Soccer Cones Set,y
+289,12,div,,n
+292,289,p,Soccer cones can be used just like hula hoops to set up your own training drills. You can dribble around single cones or practice slaloming by setting up multiple cones in a course.,n
+295,289,p,Soccer cones are usually cheap and come sets 10 to 50 which make them a great addition to your kit. You can also use them to mark out a playing field.,n
+300,12,h2,Rebound Board,y
+306,12,div,,n
+309,306,p,A rebound board is another simple piece of equipment that you can even make it home. The only thing it needs to do is be able to take a hit as you hit balls into it and bounce them back to you.,n
+311,306,p,,n
+313,311,span,"However, you’ll have a much better time if you invest in something like a",n
+315,311,span,high-density rebound foam board . These boards provide more bounce which returns the balls to you quickly and more smoothly.,n
+320,12,h3,The Final Whistle,n
+326,12,p,"As you can see, it’s possible to train all your field hockey skills at home by investing in the right equipment. While these are all the most useful and cost-effective things you need, you can improvise even more. For example, replace the hula hoops with tires or make your own rebound boards.",n
+332,6,div,,n
+336,332,h4,Related Posts,n
+339,332,div,,n
+342,339,div,,n
+344,342,h3,Best Field Hockey Nets | Club and Training Nets,n
+347,342,div,"February 15, 2021",n
+350,339,div,,n
+352,350,h3,8 Best Field Hockey Sticks For Kids Under 13,n
+355,350,div,"May 12, 2022",n
+358,339,div,,n
+360,358,h3,2022,n
+363,358,div,"January 20, 2022",n
+366,339,div,,n
+368,366,h3,How do I Perform the Tomahawk in Field Hockey?,n
+371,366,div,"August 1, 2021",n
+374,339,div,,n
+376,374,h3,"Who is Field Hockey Superstar, Ellen Hoog?",n
+379,374,div,"March 1, 2021",n
+382,339,div,,n
+384,382,h3,New Field Hockey Forum,n
+387,382,div,"February 23, 2021",n
+390,339,div,,n
+392,390,h3,Best Field Hockey Sticks For Beginners,n
+395,390,div,"February 18, 2021",n
+398,339,div,,n
+400,398,h3,Best Field Hockey Sticks,n
+403,398,div,"February 17, 2021",n
+406,339,div,,n
+408,406,h3,Best Field Hockey Sticks | Buyers Guide 2022,n
+411,406,div,"February 13, 2021",n
+414,339,div,,n
+416,414,h3,Best Field Hockey Shoes | Men and Women’s Buyers Guide,n
+419,414,div,"February 12, 2021",n
+422,339,div,,n
+424,422,h3,Belgium FIH Indoor Hockey World Cup 2021,n
+427,422,div,"April 9, 2020",n
+430,339,div,,n
+432,430,h3,the Year,n
+435,430,div,"February 19, 2020",n
+438,339,div,,n
+440,438,h3,the Year,n
+443,438,div,"February 15, 2020",n
+446,339,div,,n
+448,446,h3,Profit Lands India Field Hockey 2023 World Cup,n
+451,446,div,"January 10, 2020",n
+454,339,div,,n
+456,454,h3,"the men’s, Field Hockey Australian team?",n
+459,454,div,"January 4, 2020",n
+462,339,div,,n
+464,462,h3,A Bright Future,n
+467,462,div,"December 26, 2019",n
+470,339,div,,n
+472,470,h3,Are Graphene Hockey Sticks the way Forward?,n
+475,470,div,"December 10, 2019",n
+478,339,div,,n
+480,478,h3,Which 5 Items Should a Field Hockey Player Always Carry?,n
+483,478,div,"October 28, 2019",n
+486,339,div,,n
+488,486,h3,Who is the best women’s FIH field hockey goalkeeper in the world?,n
+491,486,div,"October 4, 2019",n
+494,339,div,,n
+496,494,h3,Are Water Melons Better than Oranges at half time in Hockey?,n
+499,494,div,"September 19, 2019",n
+502,339,div,,n
+504,502,h3,How to Dribble in Field Hockey,n
+507,502,div,"September 18, 2019",n
+510,339,div,,n
+512,510,h3,Was Luciana Aymar the Best Female Hockey Player Ever?,n
+515,510,div,"September 15, 2019",n
+518,339,div,,n
+520,518,h3,5 Women Hockey Players who Excelled when Young,n
+523,518,div,"September 12, 2019",n
+526,339,div,,n
+528,526,h3,How do I Choose my Best Field Hockey Position?,n
+531,526,div,"September 10, 2019",n
+534,339,div,,n
+536,534,h3,Field Hockey,n
+539,534,div,"September 2, 2019",n
+542,339,div,,n
+544,542,h3,Best Adidas Field Hockey Sticks Review 2022,n
+547,542,div,"March 7, 2022",n
+550,339,div,,n
+552,550,h3,Hitting a Field Hockey ball,n
+555,550,div,"February 27, 2021",n
+558,339,div,,n
+560,558,h3,4 Best Field Hockey Sticks,n
+563,558,div,"February 22, 2021",n
+564,0,nav,,n
+566,564,span,Post navigation,n
+567,564,div,,n
+568,567,div,,n
+570,568,span,←,n
+571,568,text,Previous Post,n
+572,567,div,,n
+573,572,text,Next Post,n
+575,572,span,→,n

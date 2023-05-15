@@ -1,0 +1,592 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+5,1,div,,n
+9,5,h1,,n
+12,9,div,,n
+14,12,span,"of over 4,000 results for",n
+17,12,span,"""Canoeing Equipment""",n
+28,9,div,,n
+30,28,label,Sort by,n
+31,28,select,,n
+33,31,option,Featured,n
+35,31,option,Price,n
+37,31,option,Price,n
+39,31,option,Avg. Customer Review,n
+42,28,span,,n
+44,42,span,Sort by,n
+46,42,span,Featured,n
+53,5,div,,n
+55,53,div,,n
+62,55,span,,n
+66,62,div,,n
+80,66,div,,n
+82,80,span,Shop,n
+84,80,span,Luxtude,n
+137,66,div,,n
+139,137,span,"Luxtude Double Sleeping Pad, Queen Size Camping Mat with Pillow for 2 Person, Foot Pump Inflating Camping Pad, Waterproof Sleeping Mat, Lightweight Air Mattress for Backpacking, Car, Hiking",n
+141,137,span,"Luxtude Double Sleeping Pad, Q…",n
+159,62,div,,n
+161,159,span,RESULTS,n
+164,159,div,Price and other details may vary based on product size and color.,n
+175,62,div,,n
+179,175,h2,"2 Pairs Kayak Roof Rack J-Bar Rack Foldable Multi-Function Roof Racks for Kayak Board, Canoe, SUP Surf Ski Installed on The Top Crossbar of Car SUV Truck - with 4 Lashing Straps",y
+188,175,div,35,n
+191,175,div,,n
+193,191,span,$65.99,n
+198,191,span,65,n
+223,62,div,,n
+231,223,h2,Lemorecn Wetsuits Pants 1.5mm Neoprene Swimming Canoeing Pants,y
+240,223,div,869,n
+245,223,div,$27.90,n
+275,62,div,,n
+279,275,h2,"IKURAM R Kayak or Surf or Ski Roof Carrier Rack of J-Style Folding Universal Field and Stream 4-in-1 Multifunction for Canoe, SUP, Kayaks, Surfboard and Ski Board Rooftop Mount on SUV, Car and Truck",y
+288,275,div,358,n
+291,275,div,,n
+293,291,span,$134.99,n
+298,291,span,134,n
+316,275,div,Only 8 left in stock - order soon.,n
+323,275,div,$124.79,n
+344,62,div,,n
+373,344,div,+8,n
+377,344,h2,O'Neill Wetsuits Men's O'Neill Basic Skins UPF 50+ Long Sleeve Sun Shirt,y
+386,344,div,212,n
+389,344,div,,n
+391,389,span,$33.95,n
+396,389,span,33,n
+441,344,div,$19.50,n
+460,62,div,,n
+464,460,h2,COR Surf Premium 'No Scratch' Silicon Tie Down Straps,y
+473,460,div,199,n
+476,460,div,,n
+478,476,span,$28.97,n
+479,476,span,,n
+483,479,span,28,n
+487,479,span,97,n
+519,62,div,,n
+523,519,div,,n
+527,523,span,Best Seller,n
+529,523,span,in Canoe Paddles,n
+533,519,div,,n
+537,533,h2,Attwood Emergency Orange Telescoping Paddles,y
+546,533,div,087,n
+547,533,div,,n
+553,547,div,Save 20%,n
+555,547,div,,n
+557,555,span,$13.38,n
+558,555,span,,n
+562,558,span,13,n
+566,558,span,38,n
+575,547,div,Lowest price in 30 days,n
+592,533,div,$13.25,n
+663,62,div,,n
+669,663,h2,Wetsuit 5mm Neoprene Full Wetsuit Front Zipper,y
+678,663,div,9,n
+681,663,div,,n
+683,681,span,$152.90,n
+688,681,span,152,n
+713,62,div,,n
+720,713,h2,O'Neill Men's Thermo X Short Sleeve Insulative Top,y
+732,713,div,,n
+734,732,span,$42.95,n
+739,732,span,42,n
+784,713,div,$41.78,n
+803,62,div,,n
+810,803,h2,O'Neill Women's Thermo X Long Sleeve Insulative Top,y
+819,803,div,122,n
+821,803,div,,n
+823,821,span,-23%,n
+824,821,span,,n
+826,824,span,$41.91,n
+835,824,span,91,n
+887,62,div,,n
+895,887,h2,"Neoprene Shorts Women Men, Wetsuit Pants for Water Sports Lake Ocean Pool Swimming Surfing Snorkeling Floating Canoeing Aerobics Diving Kayaking",y
+904,887,div,237,n
+907,887,div,,n
+909,907,span,$18.99,n
+914,907,span,18,n
+939,62,div,,n
+945,939,h2,O'Neill Men's Reactor-2 1.5mm Front Zip Long Sleeve Jacket,y
+954,939,div,174,n
+957,939,div,,n
+959,957,span,$91.58,n
+960,957,span,,n
+964,960,span,91,n
+968,960,span,58,n
+1009,939,div,$89.95,n
+1030,62,div,,n
+1050,1030,h2,Dizokizo Men Women Wetsuit Top 3mm Thermal Sleeveless Neoprene Diving Vest,y
+1059,1030,div,61,n
+1087,1030,div,Only 7 left in stock - order soon.,n
+1100,62,div,,n
+1120,1100,h2,"YOLENY Folding Kayak Rack, 1 Pair Aluminum 2-in-1 J-Bar Roof Carrier Heavy-Duty with 4 pcs tie-Down Straps for Kayak and Canoe Boat Mount on Car, SUV, Vehicle Crossbar, Silver",y
+1129,1100,div,55,n
+1131,1100,div,,n
+1133,1131,span,-38%,n
+1141,1131,span,49,n
+1168,62,div,,n
+1190,1168,h2,"Seaskin Mens Wetsuit Pants, 2.5mm Wetsuit Shorts Premium Neoprene Thick Warm Trunks with Big Pocket for Snorkeling Swimming Diving Canoeing",y
+1202,1168,div,,n
+1204,1202,span,$52.99,n
+1209,1202,span,52,n
+1234,62,div,,n
+1240,1234,h2,Seaskin Spearfishing Wetsuit,y
+1252,1234,div,,n
+1254,1252,span,$71.99,n
+1259,1252,span,71,n
+1279,62,div,,n
+1285,1279,h2,Lemorecn Wetsuits Pants 3mm Neoprene Swimming Canoeing Pants,n
+1294,1279,div,661,n
+1299,1279,div,$39.00,n
+1329,62,div,,n
+1337,1329,h2,LayaTone Wetsuits Vest Men Women Diving Suits Top Surfing Canoeing Suit Vest Top Swim Sauna Wet Suits Vest Adults 2mm or 3mm Neoprene Vest Wetsuit,n
+1346,1329,div,279,n
+1347,1329,div,,n
+1351,1347,div,$37.99,n
+1362,1347,div,,n
+1365,1362,span,10% coupon applied at checkout,n
+1368,1362,span,Save 10%,n
+1395,62,div,,n
+1403,1395,h2,"4Monster Unisex Swim Parka with Hood,Quick-Dry Wetsuit Changing Robe Waterproof, Warm Coat Surf Poncho for Water Sport, Beach and Pool",y
+1412,1395,div,17,n
+1414,1395,div,,n
+1416,1414,span,-11%,n
+1424,1414,span,79,n
+1454,62,div,,n
+1462,1454,h2,OMGear Wetsuit Women Men 2mm Neoprene Dive Shorty Wet Suit Thermal Short Sleeve Swimsuit for Adults Front Zipper UV Protection Bathing Suit for Snorkeling Scuba Diving Freediving Swimming Surfing Spearfishing,y
+1471,1454,div,201,n
+1474,1454,div,,n
+1476,1474,span,$44.87,n
+1485,1474,span,87,n
+1506,62,div,,n
+1514,1506,h2,CtriLady Wetsuit Top 1.5mm High-Necked Women Wetsuit Long Sleeve Jacket Neoprene Wetsuits with Front Zipper for Swimming Diving Surfing Boating Kayaking Snorkeling,y
+1523,1506,div,415,n
+1526,1506,div,,n
+1528,1526,span,$40.99,n
+1533,1526,span,40,n
+1558,62,div,,n
+1587,1558,div,+3,n
+1591,1558,h2,Men's Rash Guard Swim Shirts Summer UPF 50+ UV Sun Protection Quick Dry Beach Fishing Water Shirts T Shirts for Men,y
+1597,1558,div,5 stars,n
+1603,1558,div,,n
+1605,1603,span,$21.99,n
+1610,1603,span,21,n
+1635,62,div,,n
+1643,1635,h2,CtriLady Men's Neoprene Wetsuit Jacket with Front Zipper and Long Sleeves,y
+1652,1635,div,910,n
+1657,1635,div,$41.99,n
+1687,62,div,,n
+1716,1687,div,+4,n
+1720,1687,h2,Inno Women's Long Sleeve Hooded Rash Guard Shirt Adjustable Ruched Side UPF 50+ Half-Zip Workout Top,y
+1729,1687,div,300,n
+1734,1687,div,$27.99,n
+1768,62,div,,n
+1772,1768,div,+9 colors or patterns,n
+1776,1768,h2,"Dark Lightning Womens, 3 or 2mm Wet Suit Women",y
+1785,1768,div,884,n
+1790,1768,div,$39.90,n
+1820,62,div,,n
+1824,1820,h2,Caviness Marine Twin Stripe Paddle,y
+1833,1820,div,848,n
+1836,1820,div,,n
+1838,1836,span,$44.21,n
+1847,1836,span,21,n
+1864,1820,div,$32.19,n
+1883,62,div,,n
+1891,1883,h2,Women's Limestone Neoprene Wetsuit Shorty Wet Suits for Women in Cold Water Long-Sleeve Half Leg Water Suits Springsuit for Scuba Diving Surfing Kayaking Canoeing Snorkeling Swimming - 2.0mm,y
+1900,1883,div,84,n
+1903,1883,div,,n
+1905,1903,span,$145.00,n
+1910,1903,span,145,n
+2013,62,div,Only 14 left in stock - order soon.,n
+2026,62,div,,n
+2030,2026,div,+6 colors or patterns,n
+2050,2026,h2,Women's Full Body Wetsuit Surfing Diving Suit Scuba Dive Skin Rash Guard One Piece Long Sleeve Zip Quick Dry Sunsuit,y
+2062,2026,div,,n
+2064,2062,span,$48.99,n
+2069,2062,span,48,n
+2087,2026,div,Only 5 left in stock - order soon.,n
+2100,62,div,,n
+2120,2100,h2,"Leader Accessories Folding Kayak Rack 4 PCS or Set J Bar Car Roof Rack for Canoe Surf Board SUP On Roof Top Mount on SUV, Car and Truck Crossbar with 4 pcs Tie Down Straps",y
+2129,2100,div,909,n
+2130,2100,div,,n
+2132,2130,div,,n
+2134,2132,span,$139.99,n
+2139,2132,span,139,n
+2145,2130,div,,n
+2148,2145,span,$30.00 coupon applied at checkout,n
+2149,2145,span,,n
+2151,2149,span,Save $30.00,n
+2153,2149,span,with coupon,n
+2176,62,div,,n
+2200,2176,h2,LayaTone Wetsuit Shorty Men Women 3mm Neoprene Suits Adults Surfing Canoeing Scuba Diving Suits One Piece Wetsuit Shortie Male Female Shorty Wetsuits,y
+2209,2176,div,361,n
+2210,2176,div,,n
+2216,2210,div,Save 10%,n
+2220,2210,div,$44.77,n
+2236,2210,div,,n
+2239,2236,span,15% coupon applied at checkout,n
+2242,2236,span,Save 15%,n
+2267,62,div,,n
+2271,2267,div,+2 colors or patterns,n
+2291,2267,h2,FitsT4 Wetsuit Pants Women's 2.5mm Neoprene Surf Pants Keep Warm for Water Aerobics Diving Surfing Swimming Snorkeling Canoeing Paddling Kayaking,y
+2300,2267,div,29,n
+2337,62,div,,n
+2341,2337,div,+5 colors or patterns,n
+2361,2337,h2,"XUKER Women Men Wetsuit 2mm 3mm, Neoprene Wet Suits Front or Back Zip in Cold Water Full Body Dive Suit for Diving Snorkeling Surfing Swimming Canoeing",y
+2370,2337,div,328,n
+2373,2337,div,,n
+2375,2373,span,$70.99,n
+2380,2373,span,70,n
+2402,62,div,,n
+2404,2402,span,Previous,n
+2407,2402,text,2 3,n
+2411,2402,span,185,n
+2412,2402,text,Next,n
+2418,62,div,,n
+2422,2418,div,Need help?,n
+2423,2418,div,,n
+2424,2423,text,Visit the help section,n
+2426,2423,span,or,n
+2427,2423,text,contact us,n
+2444,55,div,Go back to filtering menu,n
+2450,53,div,,n
+2452,2450,div,Skip to main search results,n
+2458,2450,div,,n
+2459,2458,div,,n
+2462,2459,div,Eligible,n
+2465,2459,li,,n
+2471,2465,span,Free Shipping by Amazon,n
+2474,2465,div,All customers get FREE Shipping on orders over $25 shipped by Amazon,n
+2475,2458,div,,n
+2478,2475,div,Delivery Day,n
+2487,2475,li,Get It by Tomorrow,n
+2500,2458,li,Try Before You Buy,n
+2501,2458,div,,n
+2504,2501,div,Department,n
+2505,2501,ul,,n
+2510,2505,li,Any Department,n
+2515,2505,li,Sports and Outdoors,n
+2520,2505,li,Sports Apparel and Equipment,n
+2525,2505,li,Water Sports,n
+2529,2505,li,Canoeing Equipment,n
+2533,2505,li,Canoes,y
+2537,2505,li,Canoe Paddles,y
+2541,2505,li,Canoe Hardware,y
+2545,2505,li,Canoe Seats and Thwarts,y
+2549,2505,li,Kayak and Canoe Car Racks,y
+2553,2505,li,Indoor Canoe Storage,y
+2557,2505,li,Paddling Clothing,y
+2561,2505,li,Diving Rash Guard Shirts,y
+2565,2505,li,Wetsuits,y
+2569,2505,li,Drysuits,y
+2570,2458,div,,n
+2573,2570,div,Customer Reviews,n
+2574,2570,ul,,n
+2579,2574,li,4 Stars and Up,n
+2586,2574,li,3 Stars and Up,n
+2593,2574,li,2 Stars and Up,n
+2600,2574,li,1 Star and Up,n
+2603,2458,div,,n
+2606,2603,div,Featured Brands,n
+2607,2603,ul,,n
+2615,2607,li,Lifetime,n
+2623,2607,li,AIRHEAD,n
+2631,2607,li,NRS,n
+2639,2607,li,Mophorn,n
+2640,2458,div,,n
+2643,2640,div,Price,n
+2644,2640,ul,,n
+2648,2644,li,Up to $25,n
+2652,2644,li,$25 to $50,n
+2656,2644,li,$50 to $100,n
+2660,2644,li,$100 to $200,n
+2664,2644,li,$200 and above,n
+2689,2640,div,Deals,n
+2698,2640,li,Today's Deals,n
+2699,2458,div,,n
+2702,2699,div,Condition,n
+2703,2699,ul,,n
+2707,2703,li,New,n
+2711,2703,li,Used,n
+2714,2699,div,From Our Brands,n
+2723,2699,li,Our Brands,n
+2726,2699,div,Amazon Global Store,n
+2735,2699,li,Amazon Global Store,n
+2738,2699,div,Packaging Option,n
+2747,2699,li,Frustration-Free Packaging,n
+2750,2699,div,International Shipping,n
+2759,2699,li,International Shipping Eligible,n
+2762,2699,div,Seller,n
+2763,2699,ul,,n
+2771,2763,li,Amazon.com,n
+2779,2763,li,ScubaDotCom,n
+2787,2763,li,Toamens,n
+2795,2763,li,Outdoorplay,n
+2803,2763,li,aihihedays arrives,n
+2811,2763,li,SNKSDGMDays,n
+2819,2763,li,Green Room Extreme Outdoors,n
+2827,2763,li,fadafafdadfa,n
+2835,2763,li,Wetsuit Wearhouse,n
+2843,2763,li,Backcountry,n
+2846,2699,div,Availability,n
+2855,2699,li,Stock,n
+2915,1,div,,n
+2918,2915,div,Back to top,n
+2920,2915,div,,n
+2921,2920,div,,n
+2923,2921,div,Get to Know Us,n
+2924,2921,ul,,n
+2926,2924,li,Careers,n
+2928,2924,li,Amazon Newsletter,n
+2930,2924,li,About Amazon,n
+2932,2924,li,Sustainability,n
+2934,2924,li,Press Center,n
+2936,2924,li,Investor Relations,n
+2938,2924,li,Amazon Devices,n
+2940,2924,li,Amazon Science,n
+2942,2920,div,,n
+2944,2942,div,Make Money with Us,n
+2945,2942,ul,,n
+2947,2945,li,Sell products on Amazon,n
+2949,2945,li,Sell apps on Amazon,n
+2951,2945,li,Supply to Amazon,n
+2953,2945,li,Become an Affiliate,n
+2955,2945,li,Become a Delivery Driver,n
+2957,2945,li,Start a package delivery business,n
+2959,2945,li,Advertise Your Products,n
+2961,2945,li,Self-Publish with Us,n
+2963,2945,li,Host an Amazon Hub,n
+2964,2945,li,,n
+2966,2964,span,›,n
+2967,2964,text,See More Ways to Make Money,n
+2969,2920,div,,n
+2971,2969,div,Amazon Payment Products,n
+2972,2969,ul,,n
+2974,2972,li,Amazon Rewards Visa Signature Cards,n
+2976,2972,li,Amazon Store Card,n
+2978,2972,li,Amazon Secured Card,n
+2980,2972,li,Amazon Business Card,n
+2982,2972,li,Shop with Points,n
+2984,2972,li,Credit Card Marketplace,n
+2986,2972,li,Reload Your Balance,n
+2988,2972,li,Amazon Currency Converter,n
+2990,2920,div,,n
+2992,2990,div,Let Us Help You,n
+2993,2990,ul,,n
+2995,2993,li,Amazon and COVID-19,n
+2997,2993,li,Your Account,n
+2999,2993,li,Your Orders,n
+3001,2993,li,Shipping Rates and Policies,n
+3003,2993,li,Amazon Prime,n
+3005,2993,li,Returns and Replacements,n
+3007,2993,li,Manage Your Content and Devices,n
+3009,2993,li,Amazon Assistant,n
+3011,2993,li,Help,n
+3018,2915,div,,n
+3021,3018,span,English,n
+3024,3018,span,Choose a language,n
+3027,3018,span,United States,n
+3029,3018,span,Choose a country or region,n
+3032,2915,div,,n
+3033,3032,tr,,n
+3034,3033,td,,n
+3035,3034,text,Amazon Music,n
+3037,3034,span,,n
+3038,3037,text,Stream millions,n
+3040,3037,br,of songs,n
+3042,3033,td,,n
+3043,3042,text,Amazon Advertising,n
+3045,3042,span,,n
+3046,3045,text,"Find, attract, and",n
+3048,3045,br,engage customers,n
+3050,3033,td,,n
+3051,3050,text,Amazon Drive,n
+3053,3050,span,,n
+3054,3053,text,Cloud storage,n
+3056,3053,br,from Amazon,n
+3058,3033,td,,n
+3059,3058,text,6pm,n
+3061,3058,span,,n
+3062,3061,text,Score deals,n
+3064,3061,br,on fashion brands,n
+3066,3033,td,,n
+3067,3066,text,AbeBooks,n
+3069,3066,span,,n
+3070,3069,text,"Books, art",n
+3072,3069,br,and collectibles,n
+3074,3033,td,,n
+3075,3074,text,ACX,n
+3078,3074,span,Audiobook Publishing,n
+3082,3033,td,,n
+3083,3082,text,Alexa,n
+3085,3082,span,,n
+3086,3085,text,Actionable Analytics,n
+3088,3085,br,for the Web,n
+3091,3032,tr,,n
+3092,3091,td,,n
+3093,3092,text,Sell on Amazon,n
+3096,3092,span,Start a Selling Account,n
+3098,3091,td,,n
+3099,3098,text,Amazon Business,n
+3101,3098,span,,n
+3102,3101,text,Everything For,n
+3104,3101,br,Your Business,n
+3106,3091,td,,n
+3107,3106,text,Amazon Fresh,n
+3109,3106,span,,n
+3110,3109,text,Groceries and More,n
+3112,3109,br,Right To Your Door,n
+3114,3091,td,,n
+3115,3114,text,AmazonGlobal,n
+3117,3114,span,,n
+3118,3117,text,Ship Orders,n
+3120,3117,br,Internationally,n
+3122,3091,td,,n
+3123,3122,text,Home Services,n
+3125,3122,span,,n
+3126,3125,text,Experienced Pros,n
+3128,3125,br,Happiness Guarantee,n
+3130,3091,td,,n
+3131,3130,text,Amazon Ignite,n
+3133,3130,span,,n
+3134,3133,text,Sell your original,n
+3136,3133,br,Digital Educational,n
+3138,3133,br,Resources,n
+3140,3091,td,,n
+3141,3140,text,Amazon Web Services,n
+3143,3140,span,,n
+3144,3143,text,Scalable Cloud,n
+3146,3143,br,Computing Services,n
+3149,3032,tr,,n
+3150,3149,td,,n
+3151,3150,text,Audible,n
+3153,3150,span,,n
+3154,3153,text,Listen to Books and Original,n
+3156,3153,br,Audio Performances,n
+3158,3149,td,,n
+3159,3158,text,Book Depository,n
+3161,3158,span,,n
+3162,3161,text,Books With Free,n
+3164,3161,br,Delivery Worldwide,n
+3166,3149,td,,n
+3167,3166,text,Box Office Mojo,n
+3169,3166,span,,n
+3170,3169,text,Find Movie,n
+3172,3169,br,Box Office Data,n
+3174,3149,td,,n
+3175,3174,text,ComiXology,n
+3177,3174,span,,n
+3178,3177,text,Thousands of,n
+3180,3177,br,Digital Comics,n
+3182,3149,td,,n
+3183,3182,text,DPReview,n
+3185,3182,span,,n
+3186,3185,text,Digital,n
+3188,3185,br,Photography,n
+3190,3149,td,,n
+3191,3190,text,Fabric,n
+3193,3190,span,,n
+3194,3193,text,"Sewing, Quilting",n
+3196,3193,br,and Knitting,n
+3198,3149,td,,n
+3199,3198,text,Goodreads,n
+3201,3198,span,,n
+3202,3201,text,Book reviews,n
+3204,3201,br,and recommendations,n
+3207,3032,tr,,n
+3208,3207,td,,n
+3209,3208,text,IMDb,n
+3211,3208,span,,n
+3212,3211,text,"Movies, TV",n
+3214,3211,br,and Celebrities,n
+3216,3207,td,,n
+3217,3216,text,IMDbPro,n
+3219,3216,span,,n
+3220,3219,text,Get Info Entertainment,n
+3222,3219,br,Professionals Need,n
+3224,3207,td,,n
+3225,3224,text,Kindle Direct Publishing,n
+3228,3224,span,Indie Digital and Print Publishing,n
+3232,3207,td,,n
+3233,3232,text,Amazon Photos,n
+3235,3232,span,,n
+3236,3235,text,Unlimited Photo Storage,n
+3238,3235,br,Free With Prime,n
+3240,3207,td,,n
+3241,3240,text,Prime Video Direct,n
+3244,3240,span,Video Distribution,n
+3248,3207,td,,n
+3249,3248,text,Shopbop,n
+3251,3248,span,,n
+3252,3251,text,Designer,n
+3254,3251,br,Fashion Brands,n
+3256,3207,td,,n
+3257,3256,text,Amazon Warehouse,n
+3259,3256,span,,n
+3260,3259,text,Great Deals on,n
+3262,3259,br,Quality Used Products,n
+3265,3032,tr,,n
+3266,3265,td,,n
+3267,3266,text,Whole Foods Market,n
+3269,3266,span,,n
+3270,3269,text,America’s Healthiest,n
+3272,3269,br,Grocery Store,n
+3274,3265,td,,n
+3275,3274,text,Woot!,n
+3277,3274,span,,n
+3278,3277,text,Deals and,n
+3280,3277,br,Shenanigans,n
+3282,3265,td,,n
+3283,3282,text,Zappos,n
+3285,3282,span,,n
+3286,3285,text,Shoes and,n
+3288,3285,br,Clothing,n
+3290,3265,td,,n
+3291,3290,text,Ring,n
+3293,3290,span,,n
+3294,3293,text,Smart Home,n
+3296,3293,br,Security Systems,n
+3298,3265,td,,n
+3299,3298,text,eero WiFi,n
+3301,3298,span,,n
+3302,3301,text,Stream 4K Video,n
+3304,3301,br,in Every Room,n
+3306,3265,td,,n
+3307,3306,text,Blink,n
+3309,3306,span,,n
+3310,3309,text,Smart Security,n
+3312,3309,br,for Every Home,n
+3314,3265,td,,n
+3315,3314,text,Neighbors App,n
+3317,3314,span,,n
+3318,3317,text,Real-Time Crime,n
+3320,3317,br,and Safety Alerts,n
+3323,3032,tr,,n
+3327,3323,td,,n
+3328,3327,text,Amazon Subscription Boxes,n
+3331,3327,span,Top subscription boxes – right to your door,n
+3333,3323,td,,n
+3334,3333,text,PillPack,n
+3337,3333,span,Pharmacy Simplified,n
+3339,3323,td,,n
+3340,3339,text,Amazon Renewed,n
+3342,3339,span,,n
+3343,3342,text,Like-new products,n
+3345,3342,br,you can trust,n
+3349,2915,div,,n
+3350,3349,ul,,n
+3352,3350,li,Use,n
+3354,3350,li,Privacy Notice,n
+3356,3350,li,Interest-Based Ads,n
+3358,3349,span,"©, Amazon.com, Inc. or its affiliates",n
+3366,0,div,,n
+3375,3366,div,page,n
+3377,3366,div,Advertising Policies,n
+3380,3366,div,Create ticket,n
+3381,0,div,,n
+3385,3381,span,Report this ad,n
+3389,3381,span,Copy data,n
+3393,3381,span,Disable tool,n
+3397,3381,span,?,n
+3401,3381,span,Hide tool,n

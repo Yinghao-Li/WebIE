@@ -1,0 +1,172 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+51,0,div,,n
+68,51,h1,Volleyball Equipment List,n
+69,51,div,,n
+73,69,h2,Contents,n
+76,69,ul,,n
+78,76,li,Volleyball Equipment,n
+80,76,li,Volleyball Equipment,n
+82,76,li,Accessories,n
+94,76,li,Ball Hammocks,y
+96,76,li,Ball Pumps,y
+100,76,li,Coaches' Clipboards,y
+114,76,li,Nets,y
+116,76,li,The Court,y
+122,76,li,Rotation Locators,y
+128,76,li,Serve Trainers,y
+132,76,li,Shorts,y
+138,51,div,,n
+140,138,h2,Volleyball Equipment,y
+142,138,p,"Volleyball is a team sport that can be played competitively or recreationally. Games generally feature six players per team. However, beach volleyball uses a 2-on-2 format that is played on sand. Teams are allowed a maximum of three hits to get the ball over the net successfully. Points are awarded each time the opposing team fails to return the ball, with the first team to reach 15 or 25 points being declared the winner of a given set. To play volleyball, all you really need are a few players, a ball, and a net. However, there are many other equipment pieces that can improve the quality of your game.",n
+150,51,div,,n
+152,150,h2,Volleyball Equipment,y
+153,150,ul,,n
+163,153,li,Ball Hammock,y
+165,153,li,Ball Pump,y
+171,153,li,Coaches' Clipboard,y
+173,153,li,Court,y
+187,153,li,Net,y
+193,153,li,Recovery Gear,y
+201,153,li,Training Equipment,y
+204,51,div,,n
+206,204,h2,Accessories,y
+208,204,p,"There are many different types of accessories used throughout volleyball matches and practices, both optional and necessary. The accessories can vary depending on the location of the match, and the level of competition. Accessories can include ankle braces, mouth guards, knee pads, and ball carts. They will boost your practice and match abilities and improve your volleyball skills. Whatever level of play a player is playing at, most sporting goods stores can be a good place to purchase volleyball accessories.",n
+209,51,div,,n
+211,209,h2,Ankle Braces,y
+213,209,p,"While ankle braces aren't technically required, they are very important for people playing volleyball on a regular basis. Ankle injuries are the most common injuries that occur in volleyball, leading many veteran volleyball players and coaches to consider ankle braces as necessary accessories. The typical price of ankle braces ranges from $20 to $40. Common dimensions of ankle braces range from an ankle circumference of 10 inches to a circumference of 14 inches.",n
+218,51,div,,n
+220,218,h2,Antennas,y
+222,218,p,"Antennas are a commonly used piece of equipment in both indoor and outdoor volleyball. Antennas are used to indicate a vertical out of bounds line above the net. They are placed directly above each sideline to maintain a consistent boundary within the field of play. Any ball that touches an antenna or crosses the net outside of either antenna is considered out of bounds. If a player or ball makes contact with an antenna, or if the ball crosses the net outside of either antenna, the ball is considered dead and the opposing team will receive a point and the serve.",n
+225,51,div,,n
+227,225,h2,Arm Sleeves,y
+229,225,p,"Arm sleeves in volleyball are used for both comfort and protection. They can help to protect the arms from floor burn or can be used as compression sleeves for improved blood flow. Athletes may also wear them just because they like the style. Arm sleeves range in price from $5 to $25 depending on material, color, and quality. A typical arm sleeve ranges from bicep sizes of 11.2 inches to 15 inches.",n
+231,51,div,,n
+233,231,h2,Bags And Backpacks,y
+235,231,p,"Having a bag to keep a player's volleyball equipment together and organized is important, just as it is in any other sport. The more accessories and equipment a player has, the bigger the bag required. Along with a bigger bag for more storage space, many pockets are recommended. In volleyball, players typically use either a backpack or a duffle bag. An athletic bag has a wide price range, from a minimum price of $20 to a maximum price of $160. The price someone pays depends on the size, number of pockets, customization, and material.",n
+241,51,div,,n
+243,241,h2,Balls,y
+245,241,p,"Volleyballs have many more differences between each ball than expected. The main factor that differentiates each ball is whether they are used indoors or outdoors. One main difference between indoor and outdoor volleyballs is that indoor volleyballs are molded together, while outdoor volleyballs are stitched together. Another major difference is the material. Indoor volleyballs are usually made of leather, while outdoor volleyballs are usually made of composite, water-resistant material. The price of volleyballs ranges from $20 to $100.",n
+248,51,div,,n
+250,248,h2,Ball Hammocks,y
+252,248,p,"A volleyball hammock is used to hold volleyballs that are not being used. While they can be a great thing to buy for a player to use while practicing on their own time, ball hammocks are more for coaches to buy for organized teams. The typical volleyball hammock holds 24 volleyballs, while some hammocks can hold up to as many as 40 volleyballs. The price of volleyball hammocks varies greatly. Some are as cheap as around $75, while others are as expensive as $250.",n
+255,51,div,,n
+257,255,h2,Ball Pumps,y
+259,255,p,"A typical ball pump that is used for other sports can be used in volleyball as well. Having a well pumped ball is important: too pumped up and it will hurt, too soft and it will not perform properly. While a player doesn't necessarily need to carry a pump around in their bag, it is good to have one at home to pump up a ball for practice. However, a pump is important to have for coaches of organized teams. Typically, ball pumps cost around $10.",n
+263,51,div,,n
+265,263,h2,Carts,y
+267,263,p,"A volleyball cart is basically the same thing as a volleyball hammock, just shaped differently. They both have the same purpose of storing volleyballs. They even have the same price range when shopping online. Choosing between the two comes down to personal preference. The main difference between the two is that carts are better for storage, while hammocks allow people to more quickly access multiple volleyballs at once.",n
+269,51,div,,n
+271,269,h2,Coaches' Clipboards,y
+273,269,p,"Coaches in volleyball use clipboards to help show their team where to position themselves, where to hit the ball, and specific strategies to try and outsmart the other team. While there are specific clipboards for volleyball, a regular clipboard with paper on it or a small whiteboard can work just as well. That really depends on what a coach is willing to pay, and how serious of a coach they are. A regular clipboard can be as cheap as $3, while a specialized volleyball clipboard can be as expensive as $40.",n
+277,51,div,,n
+279,277,h2,Elbow Pads,y
+281,277,p,"While elbow pads aren't as important for protection as knee pads and ankle braces, they are still important. Their importance is especially amplified at higher levels of play, as players tend to dive more when the match they are in is more competitive. At lower levels of play, players dive less, so elbow pads aren't as important. The price of elbow pads can range from $10 to $60. A typical pair of elbow pads has the dimensions of 8x4x1 inches.",n
+284,51,div,,n
+286,284,h2,Finger Tape,y
+288,284,p,"Finger tape is used often in many different sports, including volleyball. Its main purpose in volleyball is to protect a player's fingers from getting hurt when hitting or blocking the ball. While finger tape isn't considered a necessity for volleyball players, it is important, especially for players who have suffered finger injuries in the past. Typical finger tape ranges from $2 to $30 depending how big the roll is and the quality of the tape.",n
+291,51,div,,n
+293,291,h2,Floor Tape,y
+295,291,p,"While volleyball floor tape is mostly used to mark lines on the court, it can have other uses as well. Coaches can use floor tape to mark places for players to stand during practices. It is a great purchase for both players and coaches to help with positioning. While black is used usually to mark lines, other colors can be purchased to stand out more. The price range of floor tape is around $2 to $20, depending on the size of the roll and the tape quality.",n
+297,51,div,,n
+299,297,h2,Line Painter,y
+301,297,p,"While usually volleyball lines are already marked before matches, coaches can buy line painters to mark for practices if they practice on a court that doesn't already have lines . Line painters are little wheeled machines that carry paint. The paint drags on the ground as you move the machine. Athletic line painters usually cost in the low hundreds range.",n
+304,51,div,,n
+306,304,h2,Knee Pads,y
+308,304,p,"Knee pads are considered necessary at most levels of volleyball. A lot of players kneel to get the ball at lower angles, so knee pads are important to prevent bruising and floor burns. This helps to make players more comfortable on the court. Younger players who are inexperienced should invest in thicker knee pads, while older, more experienced players can invest in thinner knee pads, as they are more controlled with their movement while playing. The circumference of knee pads ranges from an extremely small 10 inches to an extremely large size of 20 inches. The price of knee pads ranges from $10 to $90 depending on the brand and quality.",n
+311,51,div,,n
+313,311,h2,Jerseys,y
+315,311,p,"The typical volleyball jersey is a sleeveless athletic shirt, but long sleeve jerseys are sometimes worn. They usually have a number on the front and back, and the team name on the front as well. The colors will vary depending on the team. Jerseys can start as low as $10 or be as high as $80, depending on how much design is already on the jersey. While players can purchase their own jerseys, they are usually bought in bulk by a representative of an organized team.",n
+317,51,div,,n
+319,317,h2,Nets,y
+321,317,p,"The net part of an official volleyball net is 32 feet long by 39 inches tall. For men's volleyball the net should be 8 feet off the ground, while for women's volleyball the net should be 7 feet and 4 inches off the ground. The main purpose of volleyball nets is to separate each side of the court and signify how high a volleyball hit needs to be above the ground to be in play. The price range for a typical volleyball net is between $75 to $550.",n
+324,51,div,,n
+326,324,h2,The Court,y
+328,324,p,"Each side of a volleyball court is 30 feet by 30 feet, making the total size 60 feet long by 30 feet wide. The court also has a few lines on it. The back line on each side is known as the service line, the line ten feet from the net on either side is known as the attack line , and the line in the middle is known as the center line. The center line, along with the net, separate each team's side of the court. Court floors can be wood, rubber tile, grass, or sand depending on the location, type of volleyball being played, and level of play.",n
+330,51,div,,n
+332,330,h2,Penalty Cards,y
+334,330,p,"Similar to soccer , volleyball has yellow and red cards. However, they have a slightly different meaning. Yellow cards are considered a warning to players if they are behaving poorly, and there is no penalty . If a player continues to disrupt play, they will receive a red card and this means there will be a penalty . Their team may lose the point or the serve if they have possession. If the referee holds up both a red and yellow card, this means that either a player or coach has been asked to leave the court for the rest of the set. Penalty cards are usually made from some sort of plastic and can be bought for around $5 to $10.",n
+347,51,div,,n
+349,347,h2,Poles,y
+351,347,p,"Typical volleyball net poles are between 10.5 feet and 16 feet tall. They are usually made with steel or aluminum, with the idea that the poles can stand tension and stress during volleyball matches. While poles don't affect a volleyball match itself, they are obviously important considering they hold up the net. Volleyball poles tend to range from $400 to above $1000 depending on whether they are for indoors or outdoors, what material they are made of, and how they are held in place.",n
+354,51,div,,n
+356,354,h2,Rotation Locators,y
+358,354,p,"A rotation locator is commonly used to track multiple things throughout volleyball matches. The rotation locator is mainly used to track where players should rotate to in terms of positions , as well as tracking substitutions and new players' positioning. Some rotation locators also keep track of timeouts for each team using numbered squares and a dry erase marker. Rotation locators are a great buy for both volleyball coaches and referees. They usually cost around $10.",n
+365,51,div,,n
+367,365,h2,Scorecards,y
+369,365,p,"Scorecards are used to keep score during volleyball matches. They are made up of a board with colored cards on them to signify two different teams. The cards flip over the board to reveal different numbers. Scorecards probably won't be purchased by individual players, but can be purchased by coaches for scrimmages. A low-quality, simplified scorecard can cost as low as $5, while a more detailed, high-quality scorecard can cost up to $50.",n
+371,51,div,,n
+373,371,h2,Serving Machines,y
+375,371,p,"Serving machines are great for both individual players and teams to practice volleyball with. This machine is similar to a pitching machine, and can be used to practice serve-receive or digging. For a volleyball serving machine to really work well, it needs to have an adjustable release point, adjustable velocities, and adjustable spin. Essentially, it needs to be able to provide all the types of shots a player may face during a match. Serving machine prices generally range between about $1,000 and $4,000.",n
+378,51,div,,n
+380,378,h2,Serve Trainers,y
+382,378,p,"There are many different types of training equipment for volleyball available. A great piece of training equipment for beginners is called the volleyball pal. The volleyball pal is a velcro strap that wraps around a player's waist. Attached to the strap is a ball, held up by an elastic cord and a pouch. This allows players to practice their form by repeatedly hitting the ball, and having it come right back to them. The volleyball pal costs around $20.",n
+385,51,div,,n
+387,385,h2,Shoes,y
+389,385,p,"Volleyball shoes have a gum rubber sole, and are designed for lateral movement. The midsole sole is usually made of foam, while the back of the sole is usually made of mesh or nylon. A normal tennis shoe can work for recreational play, but if you are looking to join a team, you should invest in a pair of volleyball shoes. They can cost as little as $20 or as much as $150 depending on the directed age, directed gender, size of the shoe, and the brand of shoe.",n
+393,51,div,,n
+395,393,h2,Shorts,y
+397,393,p,"Volleyball shorts are known for their short and tightfitting appearance, and are a part of every volleyball player's uniform. They are commonly made of spandex or other lightweight, flexible material to give volleyball players maximum comfort and mobility on the court. Most volleyball shorts are relatively inexpensive and can be purchased for between $10-$30.",n
+399,51,div,,n
+401,399,h2,Water Bottles,y
+403,399,p,"Any athletic water bottle will suffice during a volleyball game. Individual players having their own water bottles is good for practicing, while coaches should also buy water bottles for players on their teams. As is the case with any sport or physical activity, drinking water is important to stay hydrated and maintain energy levels. While high-quality water bottles can be really expensive, typical athletic water bottles for volleyball are usually around $5 to $10.",n
+406,51,div,,n
+408,406,h2,FAQ,n
+409,406,div,,n
+410,409,div,,n
+413,410,h3,What is the most important volleyball equipment to buy?,n
+415,410,div,,n
+417,415,p,"To play a game of volleyball, participants must have access to a court, a net, several volleyballs, and a pair of poles for attaching the net to the playing surface. Ball pumps are also useful in situations where the balls have lost a decent amount of air and need to be properly inflated.",n
+420,415,p,"Optional accessories may also be used for convenience and safety purposes. Volleyball carts help to organize spare balls and keep them in one place, while protective gear helps to combat injuries when players make diving attempts to save the ball from hitting the floor. On surfaces where no boundary lines exist, line painting devices can be used to make players aware of which territory is considered in-bounds.",n
+424,415,p,"Most playing surfaces that are designed to accommodate volleyball games already have the net and boundary lines in place. Thus, avid players are typically only responsible for purchasing balls, protective padding, proper footwear or athletic wear, and a gear bag to carry all of their belongings.",n
+425,409,div,,n
+428,425,h3,What makes volleyball equipment unique?,n
+432,425,p,"The nets, poles, and balls used to play volleyball are unique to the sport. Each piece of equipment is tailored to the rules of the sport, making it challenging yet feasible to score points. For example, nets and poles are designed such that the net stands just over seven feet tall. This forces players to make necessary adjustments to consistently hit the ball over the net, such as timing their jumps to strike the ball as it reaches its maximum height.",n
+436,409,div,,n
+439,436,h3,What is the average cost,n
+441,436,div,,n
+444,441,p,The average prices,n
+445,441,ul,,n
+447,445,li,Volleyball Net,y
+449,445,li,Shoes,y
+451,445,li,ElbowithKnee Pads,y
+453,445,li,Balls,y
+455,445,li,Gear Bags,y
+460,51,div,,n
+462,460,h2,Pages Related to Volleyball Equipment List,y
+463,460,ul,,n
+465,463,li,Volleyball Bags And Backpacks,y
+467,463,li,Volleyball Shoes,y
+469,463,li,Volleyball Nets,y
+471,463,li,Volleyball Ball Carts,y
+473,463,li,Top 5 Volleyball Brands,y
+475,463,li,Volleyball Serving Machines,y
+479,51,footer,,n
+480,479,div,,n
+481,480,div,,n
+483,481,span,Company,n
+484,481,ul,,n
+486,484,li,About,n
+488,484,li,Careers,n
+490,484,li,Shop,n
+491,480,div,,n
+493,491,span,Contact,n
+496,491,li,Contact Us,n
+499,480,div,,n
+501,499,span,Legal,n
+502,499,ul,,n
+504,502,li,Terms,n
+506,502,li,Privacy,n
+507,480,nav,,n
+509,507,span,Social,n
+510,507,ul,,n
+512,510,li,Facebook,n
+514,510,li,Instagram,n
+516,510,li,LinkedIn,n
+518,510,li,Medium,n
+520,510,li,Pinterest,n
+522,510,li,Twitter,n
+524,510,li,YouTube,n
+525,479,div,,n
+527,525,span,Rookie Road may earn a commission when you buy through links on our site.,n
+529,525,span,Copyright ©Rookie Road Inc. All rights reserved.,n

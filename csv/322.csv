@@ -1,0 +1,573 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+42,0,div,,n
+43,42,div,,n
+45,43,h1,Climbing Gear List For Lobuche Peak,n
+52,43,li,Posted on,n
+68,43,div,,n
+70,68,p,"Lobuche Peak Climbing is one of the most sought-after Himalayan Trekking peaks of Nepal, considering the trekking route of the legendary Everest Base Camp it follows and its technical ascent over 6000m. Prominently standing at an altitude of 6119m in the Everest Region, Lobuche Peak climbing is gaining popularity among climbers, alpinists, and adventurers for the mind-boggling panoramic views of the Himalayas including the mighty Everest, Lhotse, Pumori, Ama Dablam, Nuptse, Island Peak, and others.",n
+76,68,p,"From the summit, the jagged Himalayas are out of this world. Lobuche Peak Climbing in Nepal is a challenging and rewarding adventure, something different than regular trekking- it entails the use of climbing gears and mountaineering equipment.",n
+78,68,p,"Apparently, without proper training and gears, no climb is doable; comfort, safety, and success of peak climbing are highly reliant on the gears and pre-climb training. That said, one must be meticulous while choosing gear and equipment, provided the pre-climb training will be conducted at the High Camp.",n
+80,68,p,"Choosing Lobuche Peak Gear List is a paramount concern for Lobuche climbing, yet it can be burdensome, sometimes perplexing. So here's a list of gear required for Lobuche Peak Climbing- A comprehensive Gear list required to summit Lobuche Peak.",n
+82,68,div,,n
+84,82,h2,Content,n
+87,82,div,,n
+88,87,li,,n
+89,88,text,Climbing Gear,y
+90,88,ol,,n
+92,90,li,Ascender,y
+94,90,li,Alpine Climbing Harness,y
+96,90,li,Crampons,y
+98,90,li,Carabiners,y
+100,90,li,Descenders,y
+102,90,li,Ice Axe,y
+104,90,li,Ice Hammer,y
+106,90,li,Ice Screw,y
+108,90,li,Helmet,y
+110,90,li,Mountaineering Boots,y
+112,90,li,Rope,y
+114,90,li,Tape Sling,y
+115,87,li,,n
+116,115,text,Clothing,y
+117,115,ol,,n
+119,117,li,Head,y
+121,117,li,Hand Gear,y
+123,117,li,Upper Body,y
+125,117,li,Lower Body,y
+127,117,li,Feet,y
+129,117,li,Personal stuff,y
+131,117,li,Medical,y
+133,117,li,Toiletries,y
+135,117,li,Travel Luxuries,y
+137,68,h2,Climbing Gear,n
+139,68,h3,Ascender,y
+141,68,p,"Ascender also called Jumar is a tool primarily used for ascending on a rope. It is made of metals, and provide sturdy support for an upward ascent. It is comfortable to use with gloves or mittens for a firm grip.",n
+143,68,h3,Alpine Climbing Harness,y
+145,68,p,"Alpine climbing harness or simply harness is a lightweight, adjustable and comfortable wearable gear. It comes with a waist belt and leg loop to secure lock around your waist and thigh with a rope or anchor point.",n
+147,68,h3,Crampons,y
+149,68,p,"Crampons are pointy boot-exterior typically used for precise movements on steep surfaces, ice fields, snow slopes, and ice-covered rocks. Crampons are key climbing gear for peak climbing . It is highly recommended to use 12 point crampons with anti-balling plates and horizontal frames.",n
+153,68,h3,Carabiners,y
+155,68,p,A carabiner is yet another must-have gear for peak climbing- minimum 2 locking carabiners are obligatory. Carabiner consists of a metal loop used in safety-critical systems. It is conveniently used in all rope-intensive activities.,n
+157,68,h3,Descenders,y
+159,68,p,Descender is an aluminium 8-shaped tool used during descent- effectively helping to dissipate the heat caused by the friction. Descender is used with harness and carabiners for smooth descent on a rope.,n
+169,43,div,,n
+171,169,h3,Ice Axe,y
+173,169,p,"Ice Axe is indispensable when it comes to peak climbing- used for ascending as well as descending. It is made of stainless steel or aluminium, primarily used to cut and penetrate the ice surface or deep snow Another remarkable use of Ice Axe is ""Self-arrest.""",n
+176,169,h3,Ice Hammer,y
+178,169,p,Ice Hammer resembles Ice Axe at a glance and can be used as an alternative to adze of an ice axe. It is an optional tool in the gear list for mountaineering or climbing. Ice Hammer is predominantly used for hammering the hard ice.,n
+180,169,h3,Ice Screw,y
+182,169,p,An Ice screw is a tubular screw used during ice climbing or crevasse rescue. It is one of the important climbing arsenal used for anchor and running belays.,n
+184,169,h3,Helmet,y
+186,169,p,"The helmet is an imperative gear in the checklist of climbing gear- for the protection of head and successful climbing. The importance of wearing a helmet while climbing cannot be overlooked, considering the consequences of not wearing it.",n
+188,169,h3,Mountaineering Boots,y
+190,169,p,"Sturdy and quality boots are must if you are thinking of any mountaineering and climbing adventure. Mountaineering Boots play a vital role in peak climbing; the importance of boots is self-evident considering injuries, frostbite and smooth movements and shifts on the snowfield and ice field.",n
+192,169,h3,Rope,y
+194,169,p,"No Rope, No Hope- without a rope, no ascending and no descending. There are two types of rope: Static and Dynamic rope. Static ropes are used for abseiling and dynamic for belaying. The major difference between static and dynamic rope is dynamic ropes are elastic while static ropes are stiff.",n
+198,169,h3,Tape Sling,y
+200,169,p,A Tape Sling is a sewn loop of webbing used as anchors to climb a rope. It is made of nylon or Dyneema. It can be used in conjunction with other equipment for reduction of rope drag.,n
+210,43,div,,n
+212,210,h2,Clothing,n
+214,210,h3,Head,n
+217,210,div,,n
+218,217,tr,,n
+221,218,p,Sun Hat,y
+224,218,p,a lightweight hat,y
+225,217,tr,,n
+228,225,p,Head Lamp,y
+231,225,p,outdoor headlamp,y
+232,217,tr,,n
+235,232,p,Glacier Sunglasses,y
+238,232,p,high-quality sunglasses,y
+239,217,tr,,n
+242,239,p,Bandana or Head Scarf,y
+245,239,p,"Bandana or head scarf keeps hair and face protected from dust and direct sunlight, rain, chilly wind",y
+246,217,tr,,n
+249,246,p,Ski Goggle,y
+252,246,p,High-quality goggle,y
+254,210,h3,Hand Gear,n
+257,210,div,,n
+258,257,tr,,n
+261,258,p,Liner Gloves,y
+264,258,p,Lightweight synthetic gloves,y
+265,257,tr,,n
+268,265,p,Wind stopper Fleece Gloves,y
+271,265,p,Mid-weight insulated gloves,y
+272,257,tr,,n
+275,272,p,Expedition Mittens,y
+278,272,p,expedition-rated mittens,y
+280,210,h3,Upper Body,n
+283,210,div,,n
+284,283,tr,,n
+287,284,p,Fleece Jacket with Wind stopper,y
+290,284,p,warm fleece jacket,y
+291,283,tr,,n
+294,291,p,Waterproof shell jacket,y
+297,291,p,high-quality outdoor jacket,y
+298,283,tr,,n
+301,298,p,Down Jacket,y
+304,298,p,high-quality and medium-weight down fill jacket,y
+305,283,tr,,n
+308,305,p,Short -sleeve shirt,y
+311,305,p,half-sleeve innerwear with vapor-wicking capabilities,y
+313,210,h3,Lower Body,n
+316,210,div,,n
+320,316,p,Light-weight pants,y
+324,316,p,Waterproof shell pants,y
+328,316,p,Fleece or woolen trousers,y
+332,316,p,Hiking shorts and trousers,y
+334,210,h3,Feet,n
+337,210,div,,n
+341,337,p,Lightweight inner socks,y
+345,337,p,Wool socks,y
+349,337,p,Cotton socks,y
+353,337,p,Gaiters,y
+355,210,h3,Personal stuff,n
+358,210,div,,n
+362,358,p,Sleeping bag,y
+366,358,p,Inflatable sleeping pad,y
+370,358,p,Water bottle,y
+374,358,p,Small Travel Bag,y
+378,358,p,Expedition Duffel Bag,y
+382,358,p,Small padlocks,y
+386,358,p,Pee Bottle,y
+390,358,p,Pee funnel,y
+394,358,p,Trekking Poles,y
+398,358,p,Swiss army knife,y
+402,358,p,Toiletry bag,y
+404,210,h3,Medical,y
+407,210,div,,n
+411,407,p,Personal First Aid Kit,y
+415,407,p,Water purification tablets,y
+419,407,p,Anti-mosquito cream,y
+423,407,p,Anti-altitude sickness pills,y
+427,407,p,Earplugs,y
+431,407,p,Anti-diarrhea pills,y
+435,407,p,Blister repair kit,y
+439,407,p,Antibiotics,y
+443,407,p,Sun protection cream,y
+445,210,h3,Toiletries,y
+448,210,div,,n
+452,448,p,Towel,y
+456,448,p,Toothbrush and toothpaste,y
+460,448,p,Soap,y
+464,448,p,Deodorants,y
+468,448,p,Anti-bacterial Hand wash,y
+472,448,p,Hand Wipes,y
+476,448,p,Body Moisturizer,y
+480,448,p,Tissue Paper,y
+484,448,p,Nail Clipper,y
+486,210,h3,Travel Luxuries,n
+489,210,div,,n
+493,489,p,Books,y
+497,489,p,Journal,y
+501,489,p,Camera,y
+505,489,p,Map,y
+509,489,p,Compass or GPS,y
+513,489,p,Travel Games,y
+517,489,p,Bath suit,y
+521,489,p,Solar Charger,y
+524,43,div,,n
+527,524,h4,Plan Your Trip,n
+532,524,div,Plan Your Trip,n
+540,43,li,Posted on,n
+559,43,h4,Leave a comment or Call Us at +977 9851055684,n
+561,43,small,Your email address will not be published. Required fields are marked *,n
+563,43,div,,n
+569,563,div,Write a Comment,n
+570,563,div,,n
+574,570,div,Name *,n
+578,570,div,Email *,n
+588,563,div,Post Comment,n
+593,43,div,,n
+594,593,div,,n
+596,594,h4,About Author - Naba Raj Amgai,n
+598,594,p,"Naba Raj Amgai, stepped into the world of travel and tourism in 1996. He is Founder and Managing Director of Third Rock Adventures.",n
+600,594,p,"Beginning his journey in the tourism industry as a humble Porter Guide to founding hospitality establishments and an adventure travel company, he has come a long way.",n
+602,594,p,"In a career spanning more than two decades, he has achieved more than anybody dreams of achieving. Along with his professional achievements, his selfless contribution towards his community and society has won him a lot of accolades and praises.",n
+604,594,p,"Having dedicated more than two decades in the tourism and hospitality sector, he has amassed a wealth of experience.",n
+606,594,p,"After passing high school, he began helping out some trekking guides and was soon recruited as a porter guide at a reputed trekking agency. Within a short time, he was individually guiding clients across the well-known trails of the Himalayas.",n
+608,594,p,"He went on to lead tour groups on multi-country tours to Nepal, Tibet, Bhutan and India. Being a part of mountain climbing expeditions familiarised him with expedition logistics and operations. Later on, he went to become the Executive Director and took over the reins of Operations, Sales and Marketing departments. Spending several years in the tourism field has made Naba Raj Amgai a destination expert.",n
+610,594,p,"Travelling is his passion and he has been to many countries across the world – USA, Canada, Australia, Japan, Holland, Germany, Austria and many parts of Asia.",n
+612,594,p,His journeys to different parts of the world have enriched his travel experience and knowledge. This experience has been instrumental in planning and organizing successful trips for several clients.,n
+614,594,p,"As of today many reputed travel companies, hotels and restaurants are under his leadership. A dynamic and proactive leader, he continues to inspire and motivate people from all walks of life.",n
+616,593,p,Read More,n
+618,593,div,Email me if you have any question.,n
+620,43,div,,n
+630,620,div,,n
+635,630,h2,4,n
+637,630,h2,How will you be traveling?,n
+638,630,div,,n
+644,638,div,Solo,n
+651,638,div,Couple,n
+658,638,div,Family,n
+665,638,div,Group,n
+689,620,div,,n
+694,689,h2,4,n
+696,689,h2,When do you plan to travel?,n
+699,689,div,,n
+705,699,div,I have My Date,n
+712,699,div,I have Approx. Date,n
+719,699,div,No Still Planning,n
+741,689,div,Continue,n
+747,620,div,,n
+752,747,h2,4,n
+754,747,h2,Your Choice,n
+757,747,div,,n
+760,757,label,I have my preferred trip,n
+763,757,label,"No, I need your expert help",n
+766,747,div,,n
+768,766,label,Select your Trip,n
+770,766,div,,n
+772,770,option,Select Trip,n
+773,770,optgroup,,n
+775,773,option,Lhasa and Tsedang Tour,n
+777,773,option,Lhasa Short Tour,n
+779,773,option,Lhasa and Yamdrok Lake Tour,n
+781,773,option,Lhasa to Everest Base Camp Tour,n
+783,773,option,Lhasa and Shigatse Tour,n
+784,770,optgroup,,n
+786,784,option,Annapurna Base Camp Trek,n
+788,784,option,Annapurna Sanctuary Trek,n
+790,784,option,Kathmandu Heritage Tour,n
+792,784,option,Ghorepani Poon Hill Trek,n
+794,784,option,Everest Base Camp Trek,n
+796,784,option,Gokyo Lakes Trek with Renjo La Pass,n
+798,784,option,Nagarkot and Bhaktapur Tour,n
+800,784,option,Patan Durbar Square Tour,n
+802,784,option,Pokhara - Naudanda Sarangkot Hike,n
+804,784,option,Pokhara Peace Pagoda Hike,n
+806,784,option,Everest Base Camp Helicopter Tour,n
+808,784,option,Kathmandu Ancient City Tour,n
+810,784,option,Langtang Valley Trek,n
+812,784,option,Everest Base Camp Luxury Trek with Helicopter Flight,n
+814,784,option,Everest Base Camp Gokyo Lakes Helicopter Trek,n
+816,784,option,Annapurna Circuit Trek,n
+818,784,option,Nepal Multi Adventure Holiday,n
+820,784,option,Champadevi Hiking Trail,n
+822,784,option,"Kathmandu, Pokhara and Chitwan Tour",n
+824,784,option,Manaslu Trek,n
+826,784,option,Langtang Helicopter Tour,n
+828,784,option,Island Peak Climbing with EBC Trek,n
+830,784,option,Mera Peak Climbing,n
+832,784,option,Lobuche Peak Climbing,n
+834,784,option,Everest Base Camp Short Trek Heli Return to Lukla,n
+836,784,option,Mardi Himal Trek,n
+838,784,option,Khopra Ridge Trek,n
+840,784,option,Gokyo Ri and Everest Base Camp Trek,n
+842,784,option,Everest Three High Passes Trek- Anticlockwise Route,n
+844,784,option,Everest Base Camp Trek With Gokyo Lakes,n
+846,784,option,Upper Mustang Trek,n
+848,784,option,Island Peak Climbing,n
+850,784,option,Island Peak Expedition from Chhukung,n
+852,784,option,Mustang Tiji Festival Trek,n
+854,784,option,Annapurna Base Camp Short Trek,n
+856,784,option,Annapurna Circuit and Base Camp Trek,n
+858,784,option,Short Everest Base Camp Trek Itinerary,n
+860,784,option,Mera Peak Climbing Itinerary,n
+862,784,option,Mera Peak and Island Peak Climbing,n
+864,784,option,Mera Peak Climbing and Amphu Lapcha Pass,n
+866,784,option,Chulu Far East Peak Climbing,n
+868,784,option,Pisang Peak Climbing,n
+870,784,option,Yala Peak Climbing,n
+872,784,option,Saribung Peak Climbing,n
+874,784,option,Nar Phu Valley Trek,n
+876,784,option,Ama Dablam Expedition,n
+878,784,option,Manaslu Circuit and Nar Phu Valley Trek,n
+880,784,option,Mustang Teri La Pass and Nar Phu Valley Trek,n
+882,784,option,Tamang Heritage trail,n
+884,784,option,Langtang Gosaikunda and Helambu Trek,n
+886,784,option,Annapurna Three High Pass Trek,n
+888,784,option,Limi Valley Trek,n
+890,784,option,Phoksundo Lake Trek,n
+892,784,option,Namche Bazaar Trek with Everest Base Camp Helicopter tour,n
+894,784,option,Makalu Base Camp Trek,n
+896,784,option,Ama Dablam Base Camp Trek,n
+898,784,option,Pikey Peak Trek,n
+900,784,option,Tengboche Monastery Trek,n
+902,784,option,"Nepal Tour - Mount Everest, Pokhara and Chitwan",n
+904,784,option,Phaplu To Everest Base Camp Trek,n
+906,784,option,Luxury Everest View Trek,n
+908,784,option,Classic Nepal Tour,n
+910,784,option,Everest Panorama Trek,n
+912,784,option,Dolpo to Mustang Trek with Five High Passes,n
+914,784,option,Arun Valley to Everest Base Camp Trek,n
+916,784,option,Luxury Kongde Trek with EBC and Kala Patthar Heli Tour,n
+918,784,option,Jiri to Everest Base Camp trek,n
+920,784,option,The Three Passes Trek,n
+922,784,option,Annapurna Panorama Trek,n
+924,784,option,Tilicho Lake Trek,n
+926,784,option,Helambu Trek,n
+928,784,option,Upper Dolpo Trek,n
+930,784,option,Kyajo Ri Peak Climbing,n
+932,784,option,Pharchamo Peak Climbing,n
+934,784,option,Chulu West Peak Climbing,n
+936,784,option,Kanchenjunga Trek,n
+938,784,option,Dhampus Peak Climbing,n
+940,784,option,Dhaulagiri Circuit Trek,n
+942,784,option,Tent Peak Climbing,n
+944,784,option,Tsum Valley Trek,n
+946,784,option,Kathmandu Cultural Tour,n
+948,784,option,Incredible Nepal Tour,n
+950,784,option,Upper Mustang Overland Tour,n
+952,784,option,Kathmandu and Pokhara Sunrise Tour,n
+954,784,option,Australian Camp and Dhampus Village Trek,n
+956,784,option,Nepal Heritage Tour with Day Hikes,n
+958,784,option,Nepal Buddhist Pilgrimage tour,n
+960,784,option,Kathmandu Valley Sightseeing Tour,n
+962,784,option,Kathmandu and Pokhara Sightseeing with ABC Heli Tour,n
+964,784,option,Nepal Hindu Pilgrimage Tour,n
+966,784,option,Rolwaling Valley Trek,n
+968,784,option,Short Kathmandu and Panauti Tour,n
+970,784,option,Gosaikunda Helicopter Tour,n
+972,784,option,Nepal Nature and Culture Tour,n
+974,784,option,Annapurna Base Camp Helicopter Tour,n
+976,784,option,Kathmandu World Heritage Sites Tour,n
+978,784,option,Kathmandu Valley and Chandragiri Hills Excursion Tour,n
+980,784,option,Explore Nepal Tour with Everest Mountain Flight,n
+982,784,option,Muktinath Helicopter Tour,n
+984,784,option,Langtang and Gosaikunda Trek,n
+986,784,option,Manaslu Circuit with Tsum Valley Trek,n
+988,784,option,Langtang Trek Helicopter Return,n
+990,784,option,Short Langtang Trek,n
+992,784,option,Ama Yangri Trek,n
+994,784,option,"Annapurna, Nar Phu Valley and Tilicho Lake Trek",n
+996,784,option,Gorakshep to Lukla By Helicopter,n
+998,784,option,Kathmandu to Namche Bazaar By Helicopter,n
+1000,784,option,Kathmandu to Lukla By Helicopter,n
+1002,784,option,Annapurna Community Trek with Homestay,n
+1004,784,option,Bandipur Homestay and Poon Hill Trek,n
+1006,784,option,Kala Patthar to Lukla By Helicopter,n
+1008,784,option,Nagarkot Sunrise and Changunarayan Hike,n
+1010,784,option,Bhaktapur and Panauti Tour,n
+1012,784,option,Kathmandu,n
+1014,784,option,Kakani Hiking from Kathmandu,n
+1016,784,option,Everest Scenic Flight by Plane,n
+1018,784,option,Nagarkot to Dhulikhel Hiking,n
+1020,784,option,Lukla to Namche Trek and EBC Heli Tour,n
+1022,784,option,Kathmandu UNESCO World Heritage Sites Tour,n
+1024,784,option,Shivapuri hike and Budhanilkanth Temple Tour,n
+1026,784,option,Pharping and Dakshinkali Tour,n
+1028,784,option,Kathmandu and Pokhara Sightseeing with Hiking and Paragliding,n
+1030,784,option,"Kathmandu, Pokhara and Chitwan Short Tour",n
+1032,784,option,Gokyo Trek and Helicopter Return Via EBC to Lukla,n
+1034,784,option,Chandragiri Cable Car Tour,n
+1036,784,option,Everest Trek,n
+1038,784,option,"Everest Trek with Pangboche, Ama Dablam BC and Heli Tour",n
+1040,784,option,"Everest's Hidden Gem, Kongde Trek",n
+1042,784,option,Sherpa Heritage Trek with Everest Heli Tour,n
+1044,784,option,Nagarkot and Pokhara Himalayan Sunrise Tour,n
+1046,784,option,"Sanga, Panauti and Namo Buddha Trek",n
+1048,784,option,Kathmandu Walking Tour,n
+1049,770,optgroup,,n
+1051,1049,option,Lhasa to Kathmandu Overland Tour via EBC,n
+1053,1049,option,Lhasa and Kathmandu Sightseeing Tour,n
+1054,770,optgroup,,n
+1056,1054,option,Bhutan Cultural Tour,n
+1058,1054,option,Bhutan Heritage Tour,n
+1060,1054,option,Bhutan Tour,n
+1062,1054,option,Western Bhutan Tour,n
+1064,1054,option,Western and Central Bhutan Tour,n
+1066,1054,option,Bhutan,n
+1068,1054,option,Bhutan West East Traverse Tour,n
+1070,1054,option,Bhutan Tour with Haa Valley,n
+1072,1054,option,Druk Path Trek,n
+1074,1054,option,Jomolhari Trek,n
+1076,1054,option,Merak Sakteng Trek and Tour in Bhutan,n
+1078,1054,option,Laya Gasa Trek,n
+1080,1054,option,Dagala Thousand Lakes Trek,n
+1082,1054,option,Soi Yaksa Trek,n
+1084,1054,option,Day hikes in Bhutan and Cultural Discovery,n
+1086,1054,option,Bhutan Drukyul Hiking Tour,n
+1088,1054,option,Bhutan Hiking and Camping Tour,n
+1090,1054,option,Cultural Tour with Village Homestay in Bhutan,n
+1092,1054,option,Bhutan Tour with Bumdra High Camp Trek,n
+1094,1054,option,Village Walking Tour in Bhutan,n
+1096,1054,option,Snowman Trek,n
+1098,1054,option,Ura Yakchoe Festival Tour,n
+1100,1054,option,Gomkora Tshechu Festival Tour,n
+1102,1054,option,Black Necked Crane Festival Tour,n
+1104,1054,option,Druk Wangyel Festival Tour,n
+1106,1054,option,Jambay Lhakhang Drup Festival Tour,n
+1108,1054,option,Bumthang Nimalung Tshechu Tour,n
+1110,1054,option,Shortest Bhutan Tour,n
+1112,1054,option,Bhutan Culture and Nature Tour with Hiking,n
+1114,1054,option,Bhutan Highlights Tour,n
+1115,770,optgroup,,n
+1117,1115,option,India Golden Triangle and Bhutan Tour,n
+1119,1115,option,North East India and Bhutan Tour,n
+1121,1115,option,India and Bhutan Tour from Delhi,n
+1122,770,optgroup,,n
+1124,1122,option,Nepal and Bhutan Tour,n
+1126,1122,option,Nepal and Bhutan Buddhist Pilgrimage Tour,n
+1128,1122,option,Nepal and Bhutan Trek,n
+1130,1122,option,Nepal Trek and Bhutan Cultural Tour,n
+1132,1122,option,Nepal and Bhutan Cultural Tour,n
+1134,1122,option,Nepal Bhutan Tour with Multiple Activities,n
+1136,1122,option,Nepal and Bhutan Tour Package,n
+1138,1122,option,Nepal and Bhutan Classic Tour,n
+1140,1122,option,Nepal and Bhutan Tour with day Hikes,n
+1142,1122,option,Incredible Nepal Bhutan Tour,n
+1144,1122,option,Bhutan Tour from Kathmandu,n
+1146,1122,option,Bhutan Tour Package from Nepal,n
+1149,770,optgroup,Bhutan Nepal Tibet Tour,n
+1150,770,optgroup,,n
+1152,1150,option,India Nepal Tour - Taj Mahal to Everest,n
+1154,1150,option,India and Nepal Tour,n
+1155,747,div,,n
+1158,1155,div,Where you want to visit?,n
+1163,1155,div,Describe below,n
+1172,620,div,,n
+1177,1172,h2,4,n
+1179,1172,h2,Your Personal Information,n
+1181,1172,div,,n
+1182,1181,div,,n
+1184,1182,div,,n
+1186,1184,label,Already Member?,n
+1187,1184,div,,n
+1189,1187,span,YES,n
+1191,1187,span,NO,n
+1193,1182,div,,n
+1195,1193,h5,Please enter you personal information below.,n
+1198,1193,div,Name,n
+1203,1193,div,Email,n
+1208,1193,div,Contact Number,n
+1211,1193,div,,n
+1213,1211,label,Country,n
+1215,1211,div,,n
+1217,1215,option,Select Country,n
+1371,1215,option,Saint Barthelemy,n
+1529,1215,option,Saint Martin,n
+1714,1181,div,Submit,n
+1715,42,div,,n
+1716,1715,div,,n
+1719,1716,text,PLAN YOUR TRIP,n
+1721,1716,div,OR,n
+1723,1716,p,our experts.,n
+1725,1716,button,REQUEST TO CALL,n
+1728,1715,div,,n
+1729,1728,div,,n
+1734,1729,h3,Request A Call Back,n
+1736,1729,small,Get a call from one of our experts who will help you plan your trip. Making sure your phone number is correct,n
+2255,1728,div,Submit,n
+2256,1715,div,,n
+2258,2256,h3,Trips You May Like,n
+2259,2256,div,,n
+2264,2259,h4,Island Peak Climbing with EBC Trek - 19 Days,n
+2269,2259,h4,Mera Peak Climbing - 18 Days,n
+2274,2259,h4,Lobuche Peak Climbing - 18 Days,n
+2279,2259,h4,Island Peak Climbing - 14 Days,n
+2284,2259,h4,Island Peak Expedition from Chhukung - 4 Days,n
+2289,2259,h4,Mera Peak Climbing Itinerary - 14 Days,n
+2290,2256,text,View All Recommended Trips,n
+2291,1715,div,,n
+2293,2291,h3,Latest Travel Blogs and Articles,n
+2294,2291,div,,n
+2299,2294,h4,Helicopter Services in Nepal,n
+2305,2294,h4,Best Time to Climb Mera Peak in Nepal,n
+2311,2294,h4,Best Time to Climb Island Peak Nepal,n
+2317,2294,h4,How to Obtain Mera Peak Climbing Permit?,n
+2323,2294,h4,How to Obtain Island Peak Climbing Permit?,n
+2329,2294,h4,10 Places to go,n
+2331,2291,text,View All Travel Blogs and Articles,n
+2334,42,div,,n
+2336,2334,h4,Have A Question? Inquiry Now,n
+2844,2334,div,Send Inquiry,n
+2847,0,div,,n
+2848,2847,text,Book With Local,n
+2850,2847,span,- Total Flexibility,n
+2852,2847,h2,Looking,n
+2854,2847,p,Plan and Book Amazing Private and Tailor-Made Holidays,n
+2855,2847,text,Plan Your Trip Chat via WhatsApp,n
+2862,0,div,Recommendation,n
+2872,0,div,,n
+2877,2872,div,,n
+2879,2877,h3,SUBSCRIBE TO OUR NEWSLETTER,n
+2880,2877,text,Sign up,n
+2910,2872,h5,Follow us on,n
+2921,2872,div,,n
+2924,2921,h3,Contact Us,n
+2926,2921,div,,n
+2928,2926,div,Head Office,n
+2929,2926,div,,n
+2932,2929,div,"Thamel, Kathmandu, Nepal",n
+2934,2929,div,,n
+2936,2934,span,+,n
+2939,2934,span,+,n
+2942,2929,div,contact@thirdrockadventures.com,n
+2943,2921,div,,n
+2945,2943,div,US and Canada,n
+2946,2943,div,,n
+2949,2946,div,Toll Free,n
+2951,2946,div,,n
+2953,2951,span,-,n
+2956,2951,span,Steven Golden,n
+2959,2946,div,steven@thirdrockadventures.com,n
+2960,2921,div,,n
+2962,2960,div,Europe,n
+2963,2960,div,,n
+2966,2963,div,"864 route de la Marqueze, 40230 Josse",n
+2968,2963,div,,n
+2970,2968,span,+33674618156,n
+2973,2968,span,Stuart Butler,n
+2976,2963,div,stuart@thirdrockadventures.com,n
+2977,2921,div,,n
+2979,2977,div,Australia,n
+2980,2977,div,,n
+2983,2980,div,10 Terrigal Drive Noble Park North,n
+2985,2980,div,,n
+2987,2985,span,+61 402 752 312,n
+2990,2985,span,Collin Loke,n
+2993,2980,div,travel@thirdrockadventures.com,n
+2994,2921,div,,n
+2996,2994,div,Tibet,n
+2997,2994,div,,n
+3000,2997,div,"Sera Road or Tashi Xintsun, Lhasa, Tibet",n
+3004,2997,div,Dawa Tsering,n
+3007,2997,div,tibet@thirdrockadventures.com,n
+3008,2921,div,,n
+3010,3008,div,Bhutan,n
+3011,3008,div,,n
+3014,3011,div,"Changlam, Thimphu 11001, Bhutan",n
+3018,3011,div,Tsheten Chophel,n
+3021,3011,div,bhutan@thirdrockadventures.com,n
+3030,2872,div,,n
+3032,3030,h5,A leading adventure and tour operator in the himalayas,n
+3033,3030,text,©,n
+3035,3030,span,2022,n
+3036,3030,text,. All Rights Reserved. contact@thirdrockadventures.com,n
+3040,0,div,,n
+3041,3040,div,,n
+3048,3041,h3,Sign In To Stay Connected.,n
+3051,3041,ul,,n
+3053,3051,li,Sign In With Facebook,n
+3055,3051,li,Sign In With Google,n
+3057,3051,li,Sign In With Email,n
+3058,3040,div,,n
+3059,3058,div,,n
+3064,3059,h3,Third Rock Adventures Login,n
+3066,3059,p,Are you new? Register Now,n
+3081,3058,div,,n
+3089,3081,div,Remember me,n
+3095,3081,div,Sign In,n
+3098,3081,div,Forgot Password?,n
+3104,3040,div,,n
+3106,3104,h3,Reset Password,n
+3108,3104,p,Please enter your registered email address to reset your password.,n
+3120,3104,div,Reset,n
+3126,3040,div,,n
+3128,3126,h3,CREATE ACCOUNT,n
+3129,3126,p,,n
+3130,3129,text,Create your account to get special everytime,n
+3132,3129,br,Already have account? Login,n
+3140,3126,div,,n
+3157,3140,div,I have read and agree to the Privacy Statement,n
+3161,3140,div,CREATE NEW ACCOUNT,n
+3163,3126,div,,n
+3175,3163,div,VERIFY EMAIL ADDRESS,n
+3177,3163,div,Change Email Address,n
+3186,0,h3,Sign up,n
+3199,0,div,,n
+3201,3199,div,,n
+3203,3201,h5,This website uses cookies,n
+3205,3201,p,"By clicking ""Accept Cookies"" or closing this window, you agree to the usage of cookies to provide you with the best user experience. Privacy Policy",n
+3209,3199,div,Accept Cookies,n

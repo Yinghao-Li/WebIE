@@ -1,0 +1,147 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+9,0,div,,n
+11,9,p,"You just signed up your little athlete for a season of youth soccer. Now comes the fun part: buying all the gear to help your soccer star succeed. What equipment do you need for soccer? The list isn’t quite as long as some sports, but there are some must-have soccer gear items your child needs to stay safe and have fun.",n
+13,9,h2,The Basics,n
+16,9,p,"A basic understanding of soccer equipment and their uses makes the shopping trip a little easier. At the youth soccer level, the equipment is relatively straightforward and easy to find. Here are the things your child needs to play the sport:",n
+18,9,li,,n
+20,18,strong,Uniform,y
+21,18,text,"Most youth soccer leagues require a standard uniform for all players. This might range from a simple T-shirt to a complete soccer uniform with matching jersey, shorts and socks. Some leagues issue the uniform to players, while others require you to order the uniform yourself.",n
+23,9,li,,n
+25,23,strong,Practice clothes,y
+26,23,text,"Uniforms are typically reserved for wear in games only, so your little kicker needs comfortable athletic clothes for soccer practice. Choose clothes that allow a full range of motion. Sweat-wicking material keeps your child cool and dry during sweaty warm-weather practices.",n
+30,9,li,,n
+32,30,strong,Soccer cleats,y
+33,30,text,"When your child plays in an organized league, you likely need soccer-specific cleats . These shoes are designed for the sport to give your soccer player the support and traction necessary in the game.",n
+37,9,li,,n
+39,37,strong,Shin guards,y
+40,37,text,Protective shin guards are another requirement in most leagues. They rest at the front of the shin to protect from errant kicks and fast-moving balls.,n
+43,9,li,,n
+45,43,strong,Soccer socks,y
+46,43,text,"Just like your child needs special shoes, she also needs special socks designed for soccer. The long socks go up and over the shin guards.",n
+50,9,li,,n
+52,50,strong,Ball,y
+53,50,text,"Your child’s coach may provide balls during practice, but it’s always a good idea to have a quality soccer ball of your own so you can practice at home. Invest in a high-quality ball instead of a cheap foam ball that doesn’t give your player a real feel for soccer play.",n
+57,9,li,,n
+59,57,strong,Goalkeeper gloves,y
+60,57,text,"If your child is interested in playing goalkeeper, consider investing in a pair of goalkeeper gloves . These special gloves are designed to support the wrists while allowing freedom of movement in the fingers. If your child is young, the league may not play with goalies just yet, so hold off on the gloves until you know if your child will actually play the goalkeeper role.",n
+64,9,li,,n
+66,64,strong,Water bottle,y
+67,64,text,"Soccer players spend a lot of time running up and down the field. The soccer season often falls during warm weather. Hydration is important, so outfit your child with her own water bottle . Write her name on the bottle to avoid mix-ups on the bench.",n
+71,9,li,,n
+73,71,strong,Gear bag,y
+74,71,text,A backpack or tote bag designed for soccer makes it easy to carry all that gear to practices and games. These specialty bags typically include a spot for a soccer ball and all the other gear your child needs.,n
+78,9,h2,Picking the Right Soccer Cleats,n
+80,9,p,"One of the most important items on the soccer equipment list is the soccer cleats . They are athletic shoes designed specifically with the needs of soccer players in mind. Choosing soccer cleats over other types of athletic shoes ensures your child gets the highest level of support and protection. Soccer requires lots of quick movements, direction changes and kicking. Soccer shoes address those needs.",n
+84,9,p,"When you head to the soccer cleat section, you’ll see a lot of different styles, colors and designs. While your junior soccer player will likely only care about the color and look of the cleats, you need to look a little deeper to choose a shoe that keeps your child safe during soccer games and practices.",n
+87,9,p,the soccer shoe:,n
+89,9,li,,n
+91,89,strong,Upper,n
+92,89,text,The upper of the soccer shoe is the top portion that includes the material covering the foot. It attaches to the sole and midsole.,n
+94,9,li,,n
+96,94,strong,Insole,n
+97,94,text,The insole is the inner area where the foot rests. It includes the cushioning and support inside the shoe.,n
+99,9,li,,n
+101,99,strong,Outsole,n
+102,99,text,The outsole is the outer sole area where you find the studs or spikes.,n
+104,9,li,,n
+106,104,strong,Heel counter,n
+107,104,text,the soccer shoe and acts as a support,n
+109,9,p,"When choosing soccer cleats for your child consider their material. The uppers come in a variety of material types, each with pros and cons. Real leather molds to the foot for a custom fit and offers a distinct feel with the ball. Synthetic leather is often more affordable, and companies are working hard to make synthetic leather cleats feel more like genuine leather.",n
+111,9,p,"Uppers made out of synthetic materials tend to have less stretch and don’t conform to your foot the way leather shoes do. The feel on the ball is often different with synthetic materials, but that difference shouldn’t affect play at the youth level. Synthetic shoes also offer better waterproofing and are generally durable.",n
+113,9,p,"One of the key elements is getting a proper fit. Some athletic shoes offer a looser fit, but soccer cleats should offer a snug, supportive fit to move with your child through all of the starts and stops and turning on the soccer field. You don’t want a lot of extra room in the toe of the shoe. Measure the space between the end of the toes and the tip of the shoe. If the toes touch the end, your child needs a slightly larger size. If she has a full thumb’s width between her toes and the end, the shoe is likely too large.",n
+115,9,p,"It’s tempting to buy a larger size for your youth player since little feet grow quickly. Don’t give in to this temptation. Excess length gets in the way and makes it difficult to control the ball. Your child’s foot may slide around in the shoes and increase the risk of injury. It’s best to buy shoes that fit well now, and buy new shoes next season if her feet grow.",n
+117,9,p,"When your child tries on the soccer cleats, have her stand up, bend over and do other moves she might do on the soccer field. This helps determine if the shoes fit well and feel comfortable during those various moves. No matter how much she loves the color or style, don’t buy a pair of soccer cleats that fit poorly. She’ll pay for it with lots of blisters during the season.",n
+120,9,p,"Another consideration is the type of studs on the soccer shoes. The league often heavily regulates this, especially for younger players. The basic types of soccer cleats include:",n
+122,9,li,,n
+124,122,strong,Molded,n
+125,122,text,"The studs on molded soccer cleats are formed as part of the outsole without the option for removal. They typically feature a rubber or hard plastic construction with between 10 and 14 studs on the shoes. Most youth leagues require molded soccer cleats, as they are the safest option and are generally recommended for beginners. Molded cleats are also recommended for play on firm ground.",n
+127,9,li,,n
+129,127,strong,Detachable,n
+130,127,text,"More advanced players sometimes opt for detachable studs, which are often ideal in soft ground conditions. The studs are generally either plastic or metal. You can swap out the studs for different types or lengths based on specific playing conditions. These types of soccer cleats are generally not safe for use on hard ground, as they can increase the risk of injury.",n
+132,9,li,,n
+134,132,strong,Turf shoes,n
+135,132,text,"Another version of the soccer cleat is the turf shoe. They work well on hard surfaces, indoors or outdoors, and on turf fields. Instead of traditional studs, the shoes feature raised rubber patterns for grip.",n
+137,9,li,,n
+139,137,strong,Indoor soccer shoes,n
+140,137,text,Indoor soccer shoes are essentially lightweight sneakers with a low cut and a flat rubber sole.,n
+142,9,p,Your best bet for your youth soccer player is a durable pair of molded soccer cleats. These shoes should meet league requirements and offer a safe footwear option.,n
+145,9,p,Choosing a Soccer Ball,n
+147,9,p,Soccer balls have two main components,n
+150,9,p,"The bladder is the inner component that holds the air. Bladders are usually made of either butyl or latex. Butyl bladders tend to offer better air retention and hold their shape better than latex. Natural latex bladders are more common in premium soccer balls and have a softer feel that some players prefer. For your youth player, a PVC ball with a butyl bladder is the most practical, affordable option.",n
+152,9,p,"A ball seems like a straightforward purchase, but soccer balls come in multiple sizes. The specific size your child needs typically depends on her age and level of soccer play. As she gets older, she uses a larger soccer ball.",n
+154,9,p,"Soccer ball sizing runs from size 1 to size 5. The larger the size number, the larger the circumference of the ball. Most youth players use anywhere from a size 3 to a size 5 depending on the age group and league regulations. Size 1 balls are sometimes used as skills balls to focus on footwork and ball control, but most youth soccer players don’t use them.",n
+157,9,p,Below is a size chart,n
+159,9,li,,n
+161,159,strong,Size 1,n
+162,159,text,18 to 20-inch circumference,n
+164,9,li,,n
+166,164,strong,Size 3,n
+167,164,text,23 to 24-inch circumference,n
+169,9,li,,n
+171,169,strong,Size 4,n
+172,169,text,25 to 26-inch circumference,n
+174,9,li,,n
+176,174,strong,Size 5,n
+177,174,text,27 to 28-inch circumference,n
+179,9,p,"Youth players ages 8 and younger typically use a size 3 soccer ball. The smaller size makes the ball easier for young kids to control. Size 4 balls are generally used by soccer players ages 8 to 12. At age 13 and above, soccer players typically use a size 5 ball, which is the full-size soccer ball used by adults and professional soccer players.",n
+181,9,p,"Before purchasing a soccer ball for your child, check with the league to determine what size her age group uses in practices and games. Buy the same size so she gets used to the sizing when she practices.",n
+183,9,p,"Once you know the sizing, check out the options in that range. Training soccer balls work on various surfaces and are quite durable, making them a good investment for your youth player. Some soccer balls are designed for turf fields and indoor play. Many youth teams play on grass, so you won’t need a turf ball. Unless you sign your child up for an indoor soccer league, don’t choose an indoor ball, as they are designed for less rebound.",n
+185,9,h2,Fitting Your Child,n
+187,9,p,"Shin guards play an important role in keeping your child safe on the soccer field. Shins are often the target of missed kicks or flying balls. While the impact can still hurt and shin guards won’t prevent all injuries, they can minimize the impact, pain and bruising that can come with regular soccer contact.",n
+189,9,p,Shin guards have a slightly curved shape to follow the curve of the leg. They cover the front lower portion of the leg at the shinbone. Shin guards go under the soccer socks.,n
+191,9,p,"The guards come in two basic styles. One style is a single piece that slips inside the sock. It stays in place because of the tight fit of soccer socks. You can also use athletic tape or a special compression sleeve to keep the shin guards in place. The slip-in style of shin guard allows greater movement and mobility, but it often doesn’t provide as much protection. Because of this, advanced players use these shin guards more often.",n
+193,9,p,"The other option includes Velcro straps that go behind the leg to hold the shin guard in place. The Velcro lets you get a snug, secure fit. This style also typically has a stirrup-style strap at the bottom that goes under the foot to prevent the shin guard from moving up and down during play. Some shin guards also include ankle protection in the form of padding attached at the bottom.",n
+195,9,p,"For younger players, the strap style of shin guard may work best because it won’t shift. They also tend to offer more coverage. If the straps bother your child, try the slip-in style of shin guards.",n
+197,9,p,"No matter what type of shin guard you choose, getting the proper size is essential to make the guards effective. Shin guard sizing is based on your child’s height not her clothing size. As the size increases, the shin guard gets longer and wider to accommodate the larger leg that typically comes with greater height.",n
+202,9,p,Below is a general sizing chart,n
+204,9,li,,n
+206,204,strong,Small,n
+207,204,text,Fits players up to 5’2” tall,n
+209,9,li,,n
+211,209,strong,Medium,n
+212,209,text,Fits players up to 5’10”,n
+214,9,li,,n
+216,214,strong,Large,n
+217,214,text,Fits players up to 6’4”,n
+219,9,li,,n
+221,219,strong,Extra large,n
+222,219,text,Fits players up to 6’10”,n
+224,9,p,"These ranges are general recommendations, but you may find your child needs to go up or down a size for a proper fit. Look for shin guards that go from a couple inches below the knee to above the bend of the ankle for the best protection. Check the manufacturer’s sizing chart on the packaging to select a size for your child, as some brands vary their sizing someone. For instance, Nike offers youth sizes for younger players. adidas offers an extra small size for younger players.",n
+226,9,h2,Extra Training Gear,n
+228,9,p,"While not required, some youth players choose to buy special training gear for practicing at home. These training tools allow for specialized practice at home between official practices. If your child wants a little extra help, consider the following training items:",n
+230,9,li,,n
+232,230,strong,Soccer net,y
+233,230,text,"Get an inexpensive soccer net to set up in your backyard, so your child can practice shooting the soccer ball.",n
+237,9,li,,n
+239,237,strong,Speed ladders,y
+240,237,text,"As your soccer player gets older, she may want to improve her speed and agility. A speed ladder is a way to do that at home.",n
+244,9,li,,n
+246,244,strong,Cones,y
+247,244,text,"A set of cones is an inexpensive way to help your child practice agility and ball control. Set up the cones, and have her dribble around them to practice direction changes.",n
+251,9,li,,n
+253,251,strong,Training balls,y
+254,251,text,"You can purchase special balls with cords that connect the soccer ball to the body. This lets the ball fall at a certain level, so your child can practice ball-handling skills.",n
+257,9,h2,Knowing What Your Child Needs,n
+259,9,p,"How do you know what your child needs? The first place to check is the league she plays in. Leagues typically post information about uniforms, the type of cleats allowed, the size of soccer balls used at different levels and any other equipment needs. It’s important to check league regulations first to ensure all of the soccer equipment you buy is allowed.",n
+261,9,p,"If you’re still not sure what you need, the experts at Schuylkill Valley Sports can help you select everything from cleats to goalie gloves. We understand the needs of soccer players at all levels.",n
+263,9,h2,Buying Soccer Equipment,n
+266,9,p,"Buy all of the essentials for soccer before the season starts, so your youth soccer player has everything needed to play safely from the first practice on. You can find the basic soccer equipment at a sporting goods store. Buy soccer equipment online for a wide selection of gear. When buying online, read the description thoroughly to make sure the features match your child’s needs.",n
+268,9,p,"When buying equipment needed for soccer, balancing quality and cost is a smart way to go. You don’t need to buy the most expensive soccer equipment to keep your child safe. Quality equipment is available at a variety of price points, making soccer an affordable sport option. Kids grow quickly, so buying high-end, expensive equipment is oftentimes a waste of money, since she’ll outgrow it quickly.",n
+270,9,h2,Maintaining Soccer Equipment,n
+272,9,p,"Many pieces of soccer equipment last across multiple seasons with proper care. While your child may outgrow her soccer cleats quickly and may need to eventually size up on her shin guards, you can certainly get a good amount of use out of the equipment.",n
+275,9,p,the equipment,n
+277,9,li,,n
+279,277,strong,Keep them clean,n
+280,277,text,Wipe down the soccer ball and shin guards regularly. Clean dirt and mud off of her cleats after each practice and game. This keeps the equipment looking nice and lasting longer.,n
+282,9,li,,n
+284,282,strong,Use proper inflation,n
+285,282,text,"Properly inflating your child’s soccer ball extends its life. Too much or too little air affects how the ball reacts and can cause damage. The general recommendation is inflation to 9 to 10.5 pounds of air, but check the listing near the valve of the ball for an exact amount.",n
+287,9,li,,n
+289,287,strong,Store equipment inside,n
+290,287,text,"It’s tempting to leave your child’s soccer gear in the car for easy access, but extreme temperatures weaken equipment, particularly soccer balls. Pack all of her soccer gear in a bag that you can easily carry to and from the car for practices and games.",n
+292,9,li,,n
+294,292,strong,Avoid excess weight,n
+295,292,text,"Weight pressing down on a soccer ball can distort its shape. Remind your child not to sit on her soccer ball, and keep heavy objects off of it. Weight can damage other equipment, such as shin guards. Store the equipment in a safe place where nothing heavy can damage it.",n
+298,9,p,"With your soccer equipment checklist in hand and an understanding of how to select the various soccer equipment, you can get your little soccer star ready for the season. Visit an SV Sports location to get expert equipment-selection advice from our employees on the spot, or browse our large online selection of soccer gear to find the necessary equipment your little one needs.",n
+313,0,div,Shop The Product,n

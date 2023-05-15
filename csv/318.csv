@@ -1,0 +1,154 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+8,0,section,,n
+2336,8,div,,n
+2339,2336,h1,Calligraphy Tools,n
+2343,2336,div,,n
+2354,2343,div,"For some decorative purposes, multi-nibbed pens—steel brushes—can be used. However, works have also been created with felt-tip and ballpoint pens , although these works do not employ angled lines. There are some ...",n
+2359,2343,div,,n
+2369,2359,span,"For some decorative purposes, multi-nibbed pens—steel brushes—can be used. However, works have also been created with felt-tip and ballpoint pens , although these works do not employ angled lines. There are some styles of calligraphy, such as Gothic script, that require a stub nib pen.",n
+2376,2359,span,"Writing ink is usually water-based and is much less viscous than the oil-based inks used in printing. High quality paper, which has good consistency of absorption, enables cleaner lines, although parchment or vellum is often used, as a knife can be used to erase imperfections and a light-box is not needed to allow lines to pass through it. Normally, light boxes and templates are used to achieve straight lines without pencil markings detracting from the work. Ruled paper, either for a light box or direct use, is most often ruled every quarter or half inch, although inch spaces are occasionally used.",n
+2384,2343,text,More,n
+2390,2336,div,,n
+2392,2390,label,Sort by,n
+2393,2390,select,,n
+2395,2393,option,--,n
+2397,2393,option,Product Name,n
+2405,2336,div,,n
+2407,2405,thead,,n
+2409,2407,th,Image,n
+2411,2407,th,Product Name,n
+2413,2407,th,Availability,n
+2415,2407,th,Unit price,n
+2417,2407,th,Qty,n
+2419,2407,th,Add to Cart,n
+2421,2405,tbody,,n
+2423,2421,td,,n
+2425,2423,p,Skyists Comic Tools Calligraphy Set,n
+2428,2423,small,91 on stock,n
+2431,2423,small,Set,n
+2435,2421,span,In Stock,n
+2440,2421,div,PHP 147.00,n
+2459,2336,div,Showingof 1 item,n
+2466,8,div,,n
+2467,2466,div,,n
+2469,2467,div,,n
+2471,2469,h4,About us,n
+2474,2469,p,"Our goal is to offer a diverse product range to satisfy all the creative cravings of art lovers and fine artists alike, based on our varied personal experiences as practitioners in the field. It was conceived by artists, with artists in mind, and we hope to support the community with our accessible store venue, our varied selection of arts supplies, as well as our online retail center for the artist on-the-go.",n
+2478,2467,h4,Follow us on Instagram,n
+2490,2467,h4,WE ARE ON FACEBOOK,n
+2494,2466,div,,n
+2496,2494,div,,n
+2498,2496,h4,My account,n
+2500,2496,ul,,n
+2502,2500,li,My orders,n
+2504,2500,li,My merchandise returns,n
+2506,2500,li,My credit slips,n
+2508,2500,li,My addresses,n
+2510,2500,li,My personal info,n
+2512,2500,li,My vouchers,n
+2515,2494,div,,n
+2517,2515,h4,Keep in touch,n
+2518,2515,ul,,n
+2520,2518,li,The Oil Paint Store Main Branch,n
+2521,2518,li,,n
+2522,2521,text,Call us now,n
+2524,2521,span,"Sta Cruz, Manila +63-2- 7406275, Globe: +63905-3189948 - on Viber, Smart: +63919-2547118 - on Viber or Makati +63-2- 8211908, Globe: +63995-2320628 - on Viber or Quezon City +63-2- 2414051, Smart: +63947-4724926 - on Viber",n
+2525,2518,li,,n
+2526,2525,text,Email,n
+2528,2525,span,theoilpaintstore@gmail.com,n
+2530,2494,div,,n
+2532,2530,h4,Newsletter,n
+2533,2530,div,,n
+2535,2533,span,Signup to receive our latest news and hottest promotions,n
+2541,2533,div,Register,n
+2550,2466,p,Copyright © 2021 - All rights reserved.,n
+2554,0,section,,n
+2557,2554,div,Close,n
+2558,2554,ul,,n
+2561,2558,li,Home,n
+2562,2558,li,,n
+2564,2562,span,Category,n
+2570,2562,ul,,n
+2573,2570,li,Acrylic Medium,y
+2576,2570,li,Acrylic Paint,y
+2579,2570,li,Airbrush and Compressor,y
+2582,2570,li,Art and Crafts,y
+2585,2570,li,Brush,y
+2588,2570,li,Canvas and Boards,y
+2591,2570,li,"Charcoal, Graphite Stick and Pencils",y
+2594,2570,li,Colored and Watercolor Pencils,y
+2600,2570,li,Encaustic Paint,y
+2603,2570,li,Face and Body Colors,y
+2606,2570,li,Framing and Packaging,y
+2612,2570,li,"Glass, Tile and Ceramic",y
+2618,2570,li,"Gouache, Tempera and Decorative",y
+2621,2570,li,Ink and Calligraphy,y
+2624,2570,li,Leather and Fabric Paint,y
+2627,2570,li,Markers and Pens,y
+2630,2570,li,Oil Medium,y
+2633,2570,li,Oil Paint,y
+2636,2570,li,Oil Stick,y
+2639,2570,li,Painting Palette,y
+2642,2570,li,Painting Tools and Accessories,y
+2648,2570,li,Palette Knife,y
+2651,2570,li,"Paper, Pads and Journal",y
+2654,2570,li,Pastels,y
+2657,2570,li,Printmaking,y
+2660,2570,li,Raw Materials,y
+2663,2570,li,Sculpture and Pottery,y
+2666,2570,li,Spray Paint,y
+2672,2570,li,Watercolor,y
+2675,2570,li,Watercolor Medium,y
+2676,2558,li,,n
+2678,2676,span,Brands,n
+2684,2676,ul,,n
+2687,2684,li,Angelus,n
+2699,2684,li,Berkeley,n
+2702,2684,li,Canson,n
+2705,2684,li,Colleen,n
+2708,2684,li,Conda,n
+2711,2684,li,Createx Colors,n
+2714,2684,li,Creative Mark,n
+2717,2684,li,Daniel Smith,n
+2720,2684,li,Derivan,n
+2723,2684,li,Derwent,n
+2729,2684,li,Faber Castell,n
+2732,2684,li,Fabriano,n
+2735,2684,li,Gamblin,n
+2738,2684,li,Golden Artist Colors,n
+2741,2684,li,Grumbacher,n
+2744,2684,li,Isu,n
+2747,2684,li,Jack Richeson,n
+2750,2684,li,Kulay Art Materials,n
+2753,2684,li,Krylon,n
+2756,2684,li,Lefranc and Bourgeois,n
+2759,2684,li,Legion Paper,n
+2762,2684,li,Liquitex,n
+2765,2684,li,Lukas,n
+2768,2684,li,Magiwap,n
+2771,2684,li,Maimeri,n
+2774,2684,li,Maries,n
+2780,2684,li,Martin F. Weber Co.,n
+2786,2684,li,Michael Harding,n
+2789,2684,li,Mungyo,n
+2792,2684,li,Pebeo,n
+2795,2684,li,Phoenix Art,n
+2798,2684,li,Prismacolor,n
+2801,2684,li,R and F Handmade Paints,n
+2807,2684,li,Sakura Color Co.,n
+2810,2684,li,Schmincke Künstlerfarben,n
+2813,2684,li,Sculpey,n
+2816,2684,li,Shuangfeng Stationery,n
+2822,2684,li,Snazaroo,n
+2828,2684,li,Tiger,n
+2831,2684,li,The Oil Paint Store,n
+2834,2684,li,Unison Colour,n
+2840,2684,li,Winsor and Newton,n
+2843,2684,li,XDT,n
+2847,2558,li,,n
+2849,2847,span,Information,n
+2855,2847,ul,,n
+2858,2855,li,Delivery Rates,n
+2867,2855,li,Terms and Conditions,n
+2873,2558,li,Contact Us,n

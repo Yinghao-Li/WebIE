@@ -1,0 +1,642 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+8,3,h1,Golf equipment,n
+9,3,div,,n
+11,9,div,"From Wikipedia, the free encyclopedia",n
+15,9,text,Jump to navigation Jump to search,n
+17,9,div,,n
+18,17,div,,n
+20,18,div,golf,n
+28,18,div,,n
+30,28,span,hide,n
+31,28,text,This article has multiple issues. Please help improve it or discuss these issues on the talk page .,n
+41,28,div,,n
+48,41,div,,n
+49,48,text,This article possibly contains original research .,n
+54,48,span,Please improve it by verifying the claims made and adding inline citations . Statements consisting only of original research should be removed.,n
+77,41,div,,n
+78,77,text,This article needs additional citations,n
+82,77,span,,n
+83,82,text,Please help improve this article by adding citations to reliable sources . Unsourced material may be challenged and removed.,n
+91,82,span,Find sources,n
+122,18,div,"Golf clubs in a golf bag. In the background, a player uses a putter to roll the golf ball into the cup",n
+129,18,p,"Golf equipment encompasses the various items that are used to play the sport of golf . Types of equipment include the golf ball , golf clubs, and devices that aid in the sport.",n
+135,18,div,,n
+139,135,h2,Contents,n
+142,135,ul,,n
+143,142,li,,n
+145,143,span,1,n
+148,143,ul,,n
+151,148,li,1,n
+156,148,li,2,n
+161,148,li,3,n
+166,148,li,4,n
+171,148,li,5,n
+176,148,li,6,n
+181,148,li,7,n
+186,148,li,8,n
+191,148,li,9,n
+196,148,li,10,n
+201,148,li,11,n
+204,142,li,,n
+206,204,span,2,n
+209,204,ul,,n
+212,209,li,1,n
+217,209,li,2,n
+222,142,li,3,n
+227,142,li,4,n
+249,18,div,Main article,n
+255,18,div,Wilson Golf ball,y
+258,18,p,"Originally, golf balls were made of a hardwood, such as beech. Beginning between the 14th and 16th centuries, more expensive golf balls were made of a leather skin stuffed with down feathers; these were called ""featheries"". Around the mid-1800s, a new material called gutta-percha, made from the latex of the East Asian sapodilla tree, started to be used to create more inexpensive golf balls nicknamed ""gutties"", which had similar flight characteristics as featheries. These then progressed to ""brambles"" in the later 1800s, using a raised dimple pattern and resembling bramble fruit, and then to ""meshies"" beginning in the early 1900s, where ball manufacturers started experimenting with latex rubber cores and wound mesh skins that created recessed patterns over the ball's surface. Recessed circular dimples were patented in 1910, but didn't become popular until the 1940s after the patents expired.",n
+272,18,div,Main article,n
+278,18,div,Golf wedges,y
+280,18,p,"A player usually carries several clubs during the game . There are three major types of clubs, known as woods , irons , and putters . Woods are played for long shots from the tee or fairway, and occasionally rough, while irons are for precision shots from fairways as well as from the rough. A new type of club called a hybrid combines the straight-hitting characteristics of irons with the easy-to-hit characteristics of higher-lofted woods. A hybrid is often used for long shots from difficult rough. Hybrids are also used by players who have a difficult time getting the ball airborne with long irons. Wedges are irons used to play shorter shots. Wedges are played from difficult ground such as sand or the rough and for approach shots to the green. Putters are mostly played on the green, but can also be useful when playing some approach shots. Putters have minimal loft, meaning the ball stays close to the ground when struck. The most common clubs to make up a set used to be a driver, 3 and 5-woods, irons numbered from 3 to 9, pitching wedge, sand wedge, and putter. Modern sets commonly include hybrids, often replacing the longer irons and 5-wood, and or or additional wedges such as a gap or lob wedge. Players may choose to play with any combination of clubs, limited by the rules to a maximum of 14.",n
+303,18,p,"When on the green, the ball may be picked up to be cleaned or if it is in the way of an opponent's putting line; there are certain other circumstances in which a ball may be lifted. In these cases, the ball's position must first be marked using a ball marker ; this is typically a round, flat piece of metal or plastic that is differentiable from others in use. Ball markers are often integrated into other accessories, such as divot tools, scorekeeping tools or tee holders, and in the absence of a purpose-made marker, a small coin such as a penny is acceptable.",n
+319,18,div,Main article,n
+325,18,div,Various tees,y
+327,18,p,"A tee is an object that is pushed into or placed on the ground to rest a ball on top of for an easier shot; however, this is only allowed for the first stroke of each hole. Conventional golf tees are basically spikes with a small cup on the head to hold the ball, and are usually made of wood or plastic. Wooden tees are generally very inexpensive and quite disposable; a player may damage or break many of these during the course of a round. Plastic tees are generally more expensive but last longer. The length of tees varies according to the club intended to be used and by personal preference; longer tees allow the player to position the ball higher off the ground while remaining stable when planted, and are generally used for modern deep-faced woods. They can be planted deeper for use with other clubs but then tend to break more often. Shorter tees are suitable for irons and are more easily inserted and less easily broken than long tees. Other designs of tee exist; the ""step tee"" is milled or molded with a spool-shaped upper half, and so generally provides a consistent ball height from shot to shot. The ""brush tee"" uses a collection of stiff bristles instead of a cup to position the ball; the design is touted by its manufacturer as providing less interference to the ball or club at impact, for a straighter, longer flight.",n
+335,18,p,"Alternately, the rules allow for a mound of sand to be used for the same function, also only on the first shot. Before the invention of the wooden spike tee, this was the only accepted method of lifting the ball for the initial shot. This is rarely done in modern times, as a tee is easier to place, hit from, and recover, but some courses prohibit the use of tees either for traditional reasons, or because a swing that hits the tee will drive it into or rip it out of the ground, resulting in damage to the turf of the tee-box. Tees also create litter if discarded incorrectly when broken.",n
+349,18,div,Golf bag by Wilson,y
+352,18,p,"A golfer typically transports golf clubs in a golf bag. Modern golf bags are made of nylon, canvas and or or leather, with plastic or metal reinforcement and framing, but historically bags have been made from other materials. Golf bags have several pockets designed for carrying various equipment and supplies required over the course of a round of golf. Virtually all bags are sectioned off with rigid supports at the top opening, both for rigidity and to separate clubs of various types for easier selection. More expensive bags have sleeves or pockets within the main compartment for each individual club, allowing for the desired club to be more easily removed from the bag and then returned without interference from the grips of the other clubs or internal hardware of the bag.",n
+353,18,ul,,n
+354,353,li,,n
+355,354,text,"Carry bags are generally designed to be carried by the player while on the course; they have single or dual shoulder straps, and are generally of lightweight construction to reduce the burden on the player or caddy.",n
+357,354,ul,,n
+359,357,li,"Sunday bags are commonly advertised as ""minimalist"" carry bags; they have very light weight and flexible construction allowing the bag to be rolled up or folded for storage without clubs, and have storage pockets for the essentials of play but often lack more advanced features like segregated club storage, insulated pockets for drinks, stand legs etc.",n
+362,357,li,"Stand bags are in the family of carry bags but additionally feature rigid internal reinforcement and retractable fold-out legs, which make the bag a tripod allowing it to be securely placed on the turf. Modern carry bags are very commonly stand bags even at low pricepoints.",n
+365,353,li,"Cart bags are generally designed to be harnessed to a two-wheeled pull cart or a motorized golf cart during play of a round. They often have only a rudimentary carry strap or handle for loading and transporting the bag, and no stand legs, but may feature extra storage or more durable construction, as weight of the loaded bag is a lesser concern.",n
+368,353,li,"Staff bags are the largest class of golf bags, and are generally seen carried by caddies or other assistants to professional or high-level amateur players. Staff bags are generally the same size or larger than a cart bag, and typically feature a single shoulder strap, a large amount of storage for equipment and even spare attire, and large logo branding designed for product placement on televised events.",n
+371,353,li,"Travel bags are available with many combinations of size and features, but are distinguished by rigid and or or heavily padded construction, including the clubhead cover , and locks on the zippers and bag cover. These features protect the clubs from abuse and theft, and generally makes the bag suitable for checked airline luggage. Travel bags are generally used by amateur players that travel occasionally, such as business executives; rigid flight cases that enclose the actual golf bag are generally preferred by touring players, as these cases can enclose any golf bag, are more discreet as to their contents thus further deterring theft, and the case's weight and bulk can be left behind while on the course where it's not needed.",n
+384,18,div,Main article,n
+396,18,div,Traditional golf cart and bicycle golf cart,n
+398,18,p,"Golf carts are vehicles used to transport golf bags and golfers along the golf course during a round of golf. Hand carts are designed to hold only the bag, and are used by players while walking along the course to relieve them of the weight of the bag. Carts that carry both player and bag are more common on public golf courses; most of these are powered by a battery and electric motors, though gasoline-powered carts are sometimes used by course staff, and some courses and players are beginning to explore alternatives such as bicycle -drawn carts.",n
+404,18,p,"The traditional way to play was to walk, but the use of golf carts is very common due to a number of factors. Chief among them is the sheer length of the modern course, and the required ""pace of play"" instituted by many courses to prevent delays for other golfers and maintain a schedule of tee times. A typical par-72 course would ""measure out"" at between 6,000 and 7,000 yards in total, which does not count the distance between the green of one hole and the tee of the next, nor the additional distance caused by errant shots. A player walking a 7,000-yard course might traverse up to 5 miles . With a typical required pace of play of 4 hours, a player would spend 1.6 hours of that time simply walking to their next shot, leaving an average of only two minutes for all players to make each of the 72 shots for a par score . Economics is another reason why carts have become prevalent at many courses; the fee for renting a cart is less expensive than paying a caddie to carry the bags, and the private club gets the money for the cart rentals. By lessening the amount of walking required, carts also enable people who are less able to walk around the course to play the game.",n
+406,18,p,"The use of carts may be restricted by local rules. Courses may institute rules such as ""90 degree paths"", where drivers must stay on the cart path until level with their ball, and then may turn onto the course. This typically reduces the effect that the furrows from the cart wheels will have on balls. Soft ground due to rain or recent maintenance work may require a ""cart path only"" driving rule to protect the turf, and a similar policy may apply in general to the areas around tee boxes and greens . The use of carts is banned altogether at most major PGA tournaments; players walk the course assisted by a caddy who carries equipment.",n
+417,18,p,"Most golf bags have a ring to which a player can tie or clip a golf towel, used to wipe hands and clean or dry balls and club faces. Some of these towels can be quite specialized, with a carabiner or other clip to attach it to the bag with a grommet used on the towel for durability, and incorporating rougher materials in certain sections of the towel for club and ball cleaning with softer weaves elsewhere for drying. Other cleaning products abound, from motorized ball cleaners to an array of brushes for various types of clubs as well as balls and shoes.",n
+435,18,div,Club head covers in use headcovers,n
+437,18,p,"Clubhead covers protect the clubs from striking each other and from weather and incidental damage while in the bag, make clubs more identifiable at a glance, and provide a personal touch to a player's clubs. The most common clubhead covers are for a player's driver and fairway woods, as modern designs have large hollow heads and long shafts that make them prone to damage, but covers for hybrids, putters, and even irons or wedges are also marketed.",n
+448,18,p,"A ball mark repair tool is used to repair a ball mark . Some tees contain such a tool at the end, for pure convenience when on the green. To repair a ball mark, one pushes the tool next to the mark and pushes gently inwards from all sides, loosening the compacted turf to allow rapid regrowth of grass, and then flattens the mark with the smooth flat bottom of the putter to smooth the putting surface.",n
+459,18,p,Other tools exist to aid the golfer in various ways during a round.,n
+460,18,ul,,n
+462,460,li,Adhesive clubface surfaces attach to the face of irons or woods and create extra backspin to reduce roll or make the face of the club softer for more consistent shorter-distance shots. Altering the conditions of a club is illegal in competitions.,n
+464,460,li,"Ball retrievers are telescoping poles with a device at the end that scoops up and traps golf balls, and are used for reclaiming a ball from a water hazard. These are allowed under strict rules , but for courtesy to other players a player retrieving his ball should do so quickly, and should not spend time retrieving abandoned balls.",n
+469,460,li,"Brushes that clean the face of a club are found to be needed for use on the course, and achieve results better than a towel, stick, or the long grass in the rough.",n
+472,460,li,"Lead tape applied to the back of the club's head assists the golfer in rotating the club through the shot, deterring an open or closed clubface in the striking area of the thru swing. The adage is The heel for your slice and the toe for a hook.",n
+479,460,li,"Rangefinders allow a golfer to measure exact distance to the hole from their current position; they are illegal according to Rule 14-3 of the rules of golf , but the USGA allows individual course clubs to institute a local rule permitting rangefinders, and they are common among recreational golfers. The typical rangefinder is an optical device that is aimed by sighting the scope on the flag and using the calibrated gauge in the optics to estimate the distance based on the flagstick's apparent height. Other rangefinders estimate range using a calibrated focus or parallax control; the user sights the target, brings it into focus, and reads the distance mark on the control. Newer laser rangefinders operate by simply sighting any target and pressing a switch to take a very precise distance reading using an invisible laser. Newer golf carts often include GPS tracking which, combined with an electronic map of the course, can serve a similar function.",n
+490,460,li,"Stroke counters help a player keep track of the number of strokes he or she has made during a hole, an entire round, or both. The simplest devices are strings of beads, thumbwheels or ""clickers"" that a player advances by one after each stroke and provide a total for the player to write on their scorecard after each hole; newer variations have various degrees of computational power added and can keep score for multiple holes, total scores, and keep track of over or under par statistics. These more advanced counters are generally referred to as ""electronic scorecards"". Counters by themselves are allowed under strict rules , but some multi-functional devices incorporate additional banned features like rangefinders or wind gauges, and as such the entire device becomes illegal.",n
+495,460,li,"Ball washers may be used to clean golf balls . Various designs exist, and many golf courses provide stand-mounted ball-washers near the tee box of each hole. Some courses even have ball and club washers on each golf cart. According to strict rules, the ball is not allowed to be cleaned between a player's tee shot and the ball's landing on the green, except to the degree necessary to inspect the ball for damage that would make it unplayable. Once the ball has landed on the green and the ball's position on the green has been marked, the player may pick up and wipe the ball clean to remove any dirt or debris. Sometimes during tournaments encountering inclimate weather, officials may allow 'Lift Clean and Place' anywhere shy of the green.",n
+509,18,p,"Various golf training aids have been introduced to help players improving driving, putting, impact, golf swing speed, and the mental game of golf. In general, training aids are intended for use only while practicing, with use during competitive play prohibited in the rules.",n
+510,18,ul,,n
+512,510,li,"A Heavy driver or a Weighted donut , which adds weight to an existing club, to strengthen the muscles.",n
+518,510,li,A Medicus Swing Trainer is an iron club with a hinge in the shaft that breaks if you're off plane at any time during your swing.,n
+522,510,li,"Positional guides encompass a wide variety of devices meant to improve a player's stance or swing. Lasers attach to the shaft of a putter and project a ""putting line"" onto the ground. Specialized tapes attach to the face of the club to determine the face at impact hitting the sweet spot; and tape as simple as masking tape applied to the sole to provide clues as to how the head is hitting the ground or the ball for magnitude of body's athletic crouch at address or for determining lie-adjustment upon the set of iron clubs. These are also illegal in tournament play, but are invaluable while practicing.",n
+534,18,p,"Golf clothing includes gloves, shoes, and other specialized golf attire. Specialized golf attire is designed to be nonrestrictive to a player's range of motion and to keep the player warm or cool and dry while being fashionable, although a common stereotype of amateur golfers is that of wearing clothes that have long been out of fashion, such as plus fours . Country club dress codes typically require players to wear collared shirts and prohibit work clothes, e.g. jeans.",n
+547,18,p,"Golfers also often wear gloves that help grip the club and prevent blistering. Gloves are sold individually and normally worn only on the players' non-dominant hand, but it is not unheard-of for a player to wear gloves on both hands to reduce chafing. The increased grip and control allows for harder swings to be made with more control, increasing distance.",n
+563,18,div,"golf shoes, one from above, the other showing the spikes on the sole",n
+565,18,p,"Many golfers wear special shoes . The shoes can be spikeless or with spikes attached to the soles. The spikes can be made of metal or plastic designed to increase traction thus helping the player to keep his or her balance during the swing, on greens, or in wet conditions. In an attempt to minimize the severity of spike marks made on greens, many golf courses have banned metal spikes, allowing only plastic spikes during play.",n
+569,18,p,"Spikes on most golf shoes are replaceable, being attached using one of two common methods: a thread or a twist lock. Two sizes of thread are in common use, called a ""large thread"" and ""small thread"". There are two common locking systems: Q-LOK and Tri-LOK . The locking systems use a plastic thread which takes only about a half turn to lock.",n
+581,18,ul,,n
+583,581,li,Sport industry,n
+585,581,li,orthotics,n
+587,581,li,golf equipment manufacturers,n
+601,18,table,,n
+602,601,text,Wikimedia Commons has media related to,n
+604,601,span,Golf equipment,n
+608,18,div,,n
+613,608,li,,n
+614,613,text,"Golf Balls"" . Golfweek",n
+617,613,span,,n
+620,617,span,"January 25,",n
+621,617,text,2021,n
+629,608,li,,n
+630,629,text,"the 14 Club Limit?"" . Golf Digest",n
+636,629,span,"December 10,",n
+645,608,li,,n
+646,645,text,"""Correct your swing"" . GolfWeek.com . national mag",n
+653,645,span,"November 30,",n
+662,608,li,,n
+663,662,text,"""Replacing Golf Spikes"" . Tomw Communications Pty Ltd.-25",n
+668,662,span,-25,n
+674,18,div,,n
+691,674,div,Golf equipment,n
+694,674,tr,Necessary,n
+704,674,tr,,n
+706,704,th,Optional,n
+709,704,ul,,n
+711,709,li,Ball marker,y
+713,709,li,Golf shoes,y
+715,709,li,Golf glove,y
+717,709,li,Golf tees,y
+721,709,li,Ball mark repair tool,y
+722,674,tr,,n
+724,722,th,Not Necessary,n
+727,722,ul,,n
+729,727,li,Golf trolley,y
+731,727,li,Golf cart,y
+733,727,li,Clubhead covers,y
+735,727,li,Towel,y
+737,727,li,Umbrella,y
+738,674,tr,,n
+740,738,th,Related,n
+743,738,ul,,n
+747,743,li,Golf course,n
+749,743,li,Golf instruction,n
+761,674,li,WikiProject,n
+766,18,div,,n
+784,766,div,Golf,n
+785,766,tr,,n
+787,785,th,Overview,n
+790,785,ul,,n
+792,790,li,History,n
+794,790,li,Glossary,n
+796,790,li,Outline,n
+797,790,li,,n
+798,797,text,Rules,n
+799,797,ul,,n
+801,799,li,etiquette,n
+803,799,li,stroke play,n
+805,799,li,match play,n
+807,799,li,four-ball,n
+809,799,li,foursomes,n
+811,799,li,scoring,n
+813,799,li,Stableford,n
+815,799,li,handicap,n
+817,799,li,penalties,n
+819,799,li,playoffs,n
+820,790,li,,n
+821,820,text,Golf course,n
+822,820,ul,,n
+826,822,li,teeing ground,n
+828,822,li,hazards,n
+830,790,li,Equipment,n
+838,766,tr,,n
+840,838,th,Technical,n
+843,838,ul,,n
+844,843,li,,n
+845,844,text,Golf swing,n
+848,844,li,drive,n
+850,843,li,Instruction,n
+851,766,tr,,n
+853,851,th,Facilities,n
+858,851,li,Country club,n
+863,766,tr,,n
+864,863,th,,n
+865,864,text,Governing,n
+867,864,br,organizations,n
+870,863,ul,,n
+872,870,li,International Golf Federation,n
+874,870,li,The R and A,n
+876,870,li,United States Golf Association,n
+878,870,li,Professional Golfers' Association,n
+880,870,li,America,n
+881,870,li,,n
+882,881,text,Professional golf tours,n
+883,881,ul,,n
+885,883,li,LPGA,n
+889,883,li,PGA European Tour,n
+891,870,li,Golf Course Architects,n
+893,870,li,World Golf Teachers Federation,n
+894,766,tr,,n
+895,894,th,,n
+896,895,text,Majors,n
+898,895,br,"Grand Slam ,",n
+901,895,br,Triple Crown,n
+906,894,td,,n
+907,906,tr,,n
+909,907,th,Men,n
+912,907,ul,,n
+913,912,li,,n
+914,913,text,Masters Tournament,n
+917,913,li,Augusta National GC,n
+919,912,li,PGA Championship,n
+921,912,li,U.S. Open,n
+922,912,li,,n
+923,922,text,The Open Championship,n
+924,922,ul,,n
+926,924,li,venues,n
+928,924,li,Challenge Belt,n
+930,924,li,Claret Jug,n
+931,906,tr,,n
+933,931,th,Women,n
+936,931,ul,,n
+938,936,li,The Chevron Championship,n
+940,936,li,U.S. Women's Open,n
+942,936,li,Women's PGA Championship,n
+944,936,li,The Evian Championship,n
+946,936,li,Women's British Open,n
+947,906,tr,,n
+949,947,th,Senior,n
+952,947,ul,,n
+954,952,li,The Tradition,n
+956,952,li,Senior PGA Championship,n
+958,952,li,U.S. Senior Open,n
+960,952,li,Senior Players Championship,n
+962,952,li,Senior Open Championship,n
+963,906,tr,,n
+965,963,th,Senior Women's,n
+968,963,ul,,n
+970,968,li,Senior LPGA Championship,n
+972,968,li,U.S. Senior Women's Open,n
+974,766,tr,,n
+975,974,th,,n
+976,975,text,International,n
+978,975,br,events,n
+982,974,td,,n
+983,982,tr,,n
+985,983,th,Team,n
+988,983,ul,,n
+990,988,li,Curtis Cup,n
+992,988,li,Eisenhower Trophy,n
+994,988,li,Espirito Santo Trophy,n
+996,988,li,European Amateur Team Championship,n
+998,988,li,European Ladies' Team Championship,n
+1000,988,li,International Crown,n
+1002,988,li,Presidents Cup,n
+1004,988,li,Ryder Cup,n
+1006,988,li,Solheim Cup,n
+1008,988,li,Walker Cup,n
+1009,988,li,,n
+1010,1009,text,World Cup,n
+1011,1009,ul,,n
+1013,1011,li,Men's,n
+1015,1011,li,Women's,n
+1016,982,tr,,n
+1018,1016,th,Multi-sport event,n
+1021,1016,ul,,n
+1023,1021,li,Asian Games,n
+1025,1021,li,Inter-Allied Games,n
+1027,1021,li,Island Games,n
+1029,1021,li,Mediterranean Games,n
+1031,1021,li,Pacific Games,n
+1033,1021,li,Pan American Games,n
+1035,1021,li,Summer Olympics,n
+1037,1021,li,Summer Universiade,n
+1039,1021,li,Youth Olympic Games,n
+1041,766,tr,,n
+1043,1041,th,Rankings,n
+1046,1041,ul,,n
+1047,1046,li,,n
+1048,1047,text,Men,n
+1049,1047,ul,,n
+1051,1049,li,No 1s,n
+1053,1049,li,top 10,n
+1055,1046,li,Women,n
+1057,1046,li,Amateur,n
+1058,766,tr,,n
+1060,1058,th,Golfers,n
+1063,1058,ul,,n
+1065,1063,li,Male golfers,n
+1067,1063,li,Female golfers,n
+1069,1063,li,Men's major championship winners,n
+1074,1063,li,Women's major championship winners,n
+1079,1063,li,Senior major championship winners,n
+1081,1063,li,Olympic medalists,n
+1082,1063,li,,n
+1083,1082,text,Most wins,n
+1084,1082,ul,,n
+1086,1084,li,Asian Tour,n
+1088,1084,li,Challenge Tour,n
+1090,1084,li,European Tour,n
+1092,1084,li,European Senior Tour,n
+1094,1084,li,Japan Golf Tour,n
+1096,1084,li,Ladies European Tour,n
+1098,1084,li,Japan Tour,n
+1100,1084,li,LPGA Tour,n
+1104,1084,li,PGA Tour Champions,n
+1106,1084,li,Korn Ferry Tour,n
+1107,766,tr,,n
+1108,1107,th,,n
+1109,1108,text,Lists of,n
+1111,1108,br,golf courses,n
+1115,1107,td,,n
+1116,1115,tr,,n
+1118,1116,th,by feature,n
+1125,1116,li,Granted Royal status,n
+1126,1115,tr,,n
+1128,1126,th,by country,n
+1131,1126,ul,,n
+1133,1131,li,Canada,n
+1135,1131,li,Iceland,n
+1141,1131,li,Portugal,n
+1143,1131,li,Sweden,n
+1145,1131,li,United Kingdom,n
+1146,1115,tr,,n
+1148,1146,th,by designer,n
+1151,1146,ul,,n
+1153,1151,li,Robert Trent Jones,n
+1155,1151,li,Old Tom Morris,n
+1157,1151,li,Jack Nicklaus,n
+1159,1151,li,Donald Ross,n
+1161,1151,li,A. W. Tillinghast,n
+1163,766,tr,,n
+1165,1163,th,Countries,n
+1168,1163,ul,,n
+1170,1168,li,Australia,n
+1172,1168,li,China,n
+1176,1168,li,Ireland,n
+1180,1168,li,Russia,n
+1182,1168,li,Scotland,n
+1184,1168,li,Thailand,n
+1186,1168,li,United States,n
+1188,1168,li,Wales,n
+1189,766,tr,,n
+1191,1189,th,Years,n
+1194,1189,ul,,n
+1196,1194,li,1353–1850,n
+1198,1194,li,1851–1945,n
+1200,1194,li,1945–1999,n
+1202,1194,li,2000–2003,n
+1204,1194,li,2004,n
+1206,1194,li,2005,n
+1208,1194,li,2006,n
+1210,1194,li,2007,n
+1212,1194,li,2008,n
+1214,1194,li,2009,n
+1216,1194,li,2010,n
+1218,1194,li,2011,n
+1220,1194,li,2012,n
+1222,1194,li,2013,n
+1224,1194,li,2014,n
+1226,1194,li,2015,n
+1228,1194,li,2016,n
+1230,1194,li,2017,n
+1232,1194,li,2018,n
+1234,1194,li,2019,n
+1236,1194,li,2020,n
+1238,1194,li,2021,n
+1239,766,tr,,n
+1241,1239,th,Miscellaneous,n
+1244,1239,ul,,n
+1246,1244,li,Awards,n
+1248,1244,li,Architects,n
+1249,1244,li,,n
+1250,1249,text,Caddie,n
+1251,1249,ul,,n
+1253,1251,li,Fame,n
+1255,1251,li,Evans Scholars Foundation,n
+1257,1244,li,Greenskeeper,n
+1259,1244,li,Fame,n
+1261,1244,li,The R and A World Golf Museum,n
+1263,1244,li,USGA Museum,n
+1265,1244,li,Jack Nicklaus Museum,n
+1266,1244,li,,n
+1267,1266,text,Lowest rounds,n
+1270,1266,li,Furyk's 58,n
+1272,1244,li,Open tournaments,n
+1273,766,tr,,n
+1275,1273,th,Variations,n
+1278,1273,ul,,n
+1280,1278,li,Beach golf,n
+1282,1278,li,Disc golf,n
+1284,1278,li,Footgolf,n
+1286,1278,li,GolfCross,n
+1288,1278,li,Hickory golf,n
+1290,1278,li,Indoor golf,n
+1292,1278,li,Long drive,n
+1294,1278,li,Miniature golf,n
+1296,1278,li,Park golf,n
+1298,1278,li,Pitch and putt,n
+1300,1278,li,Shotgun start,n
+1302,1278,li,Skins game,n
+1304,1278,li,Snow golf,n
+1306,1278,li,Speed golf,n
+1308,1278,li,Urban golf,n
+1309,766,tr,,n
+1311,1309,th,Media,n
+1314,1309,ul,,n
+1315,1314,li,,n
+1316,1315,text,Golf Channel,n
+1319,1315,li,personalities,n
+1321,1314,li,GolfTV,n
+1323,1314,li,Golf Digest,n
+1325,1314,li,Golf Magazine,n
+1327,1314,li,Golf World,n
+1329,1314,li,Golfweek,n
+1333,1314,li,Travel + Leisure Golf,n
+1335,1314,li,Video games,n
+1337,1314,li,JTBC Golf and Sports,n
+1350,18,div,,n
+1368,1350,div,Bags and flexible containers,n
+1371,1350,tr,,n
+1373,1371,th,Carried,n
+1376,1371,ul,,n
+1380,1376,li,Bindle,n
+1382,1376,li,Briefcase,n
+1384,1376,li,Dillybag,n
+1386,1376,li,Dromedary bag,n
+1388,1376,li,Grocery bag,n
+1390,1376,li,Hambiliya,n
+1394,1376,li,Haversack,n
+1396,1376,li,Laundry bag,n
+1398,1376,li,Medical bag,n
+1402,1376,li,Plastic shopping bag,n
+1408,1376,li,Shell purse,n
+1412,1376,li,String bag,n
+1414,1376,li,Swag,n
+1418,1376,li,Tucker bag,n
+1419,1350,tr,,n
+1421,1419,th,Worn,n
+1424,1419,ul,,n
+1426,1424,li,Backpack,n
+1433,1424,li,Bandolier bag,n
+1435,1424,li,Bivouac sack,n
+1437,1424,li,Book bag,n
+1439,1424,li,Fanny pack,n
+1443,1424,li,Lightweight Rucksack,n
+1445,1424,li,Medicine bag,n
+1449,1424,li,Pasiking,n
+1451,1424,li,Randoseru,n
+1453,1424,li,Sabretache,n
+1455,1424,li,Satchel,n
+1457,1424,li,Sporran,n
+1459,1424,li,Takiding,n
+1460,1350,tr,,n
+1462,1460,th,Luggage,n
+1465,1460,ul,,n
+1467,1465,li,Bug-out bag,n
+1469,1465,li,Carpet bag,n
+1471,1465,li,Diaper bag,n
+1473,1465,li,Diplomatic bag or pouch,n
+1475,1465,li,Duffel bag,n
+1477,1465,li,Gig bag,n
+1479,1465,li,Gladstone bag,n
+1481,1465,li,Hobo bag,n
+1483,1465,li,Holdall,n
+1485,1465,li,Nomadic bag,n
+1487,1465,li,Norfolk case,n
+1491,1465,li,Saddlebag,n
+1493,1465,li,Suitcase,n
+1495,1465,li,Toiletry bag,n
+1497,1465,li,Train case,n
+1499,1465,li,Travel pack,n
+1501,1465,li,Trunk,n
+1502,1350,tr,,n
+1504,1502,th,Postal,n
+1507,1502,ul,,n
+1509,1507,li,Catcher pouch,n
+1511,1507,li,Mail bag,n
+1513,1507,li,Mail pouch,n
+1515,1507,li,Mail sack,n
+1517,1507,li,Mail satchel,n
+1519,1507,li,Mochila,n
+1521,1507,li,Padded envelope,n
+1524,1350,tr,,n
+1526,1524,th,Containers,n
+1529,1524,ul,,n
+1531,1529,li,Antistatic bag,n
+1533,1529,li,Bag-in-box,n
+1535,1529,li,Bin bag,n
+1537,1529,li,Biodegradable bag,n
+1539,1529,li,Bota bag,n
+1541,1529,li,Coffee bag,n
+1543,1529,li,Flexible intermediate bulk container,n
+1545,1529,li,Boil-in-bag,n
+1547,1529,li,Fuel bladder,n
+1549,1529,li,Mashk,n
+1551,1529,li,Milk bag,n
+1553,1529,li,Packet,n
+1555,1529,li,Paper bag,n
+1557,1529,li,Paper sack,n
+1559,1529,li,Parfleche,n
+1561,1529,li,Pastry bag,n
+1563,1529,li,Pipe bag,n
+1565,1529,li,Plastic bag,n
+1569,1529,li,Sachet,n
+1571,1529,li,Security bag,n
+1575,1529,li,Stand-up pouch,n
+1577,1529,li,Thermal bag,n
+1579,1529,li,Tobacco pouch,n
+1581,1529,li,Trash bag,n
+1583,1529,li,Wineskin,n
+1585,1529,li,Zipper storage bag,n
+1586,1350,tr,,n
+1588,1586,th,Purses or handbags,n
+1591,1586,ul,,n
+1595,1591,li,Birkin bag,n
+1597,1591,li,Coin purse,n
+1599,1591,li,Evening bag,n
+1601,1591,li,Gucci Diana,n
+1605,1591,li,It bag,n
+1607,1591,li,Kelly bag,n
+1609,1591,li,Kinchaku,n
+1611,1591,li,Lady Dior,n
+1615,1591,li,Minaudière,n
+1623,1591,li,Wallet,n
+1625,1591,li,Wristlet,n
+1626,1350,tr,,n
+1628,1626,th,Other,n
+1631,1626,ul,,n
+1633,1631,li,Body bag,n
+1635,1631,li,Burn bag,n
+1637,1631,li,Cowboy bedroll,n
+1639,1631,li,Doggy bag,n
+1641,1631,li,Dry bag,n
+1643,1631,li,Feedbag,n
+1645,1631,li,Flour sack,n
+1647,1631,li,Gamow bag,n
+1649,1631,li,Gunny sack,n
+1651,1631,li,Sandbag,n
+1653,1631,li,Schultüte,n
+1655,1631,li,Showbag,n
+1657,1631,li,Sickness bag,n
+1659,1631,li,Sleeping bag,n
+1661,1631,li,Stuff sack,n
+1664,17,div,"Retrieved from "" https",n
+1667,9,div,,n
+1668,1667,div,,n
+1669,1668,text,Categories,n
+1673,1668,li,Golf equipment,n
+1674,1667,div,,n
+1675,1674,text,Hidden categories,n
+1676,1674,ul,,n
+1678,1676,li,Articles with short description,n
+1680,1676,li,Short description is different from Wikidata,n
+1682,1676,li,Articles that may contain original research from November 2020,n
+1684,1676,li,All articles that may contain original research,n
+1686,1676,li,Articles needing additional references from November 2020,n
+1688,1676,li,All articles needing additional references,n
+1690,1676,li,Articles with multiple maintenance issues,n
+1692,1676,li,Pages using multiple image with auto scaled images,n
+1694,1676,li,Commons category link is on Wikidata,n
+1695,0,div,,n
+1697,1695,h2,Navigation menu,n
+1698,1695,div,,n
+1699,1698,nav,,n
+1702,1699,h3,Personal tools,n
+1704,1699,ul,,n
+1707,1704,li,Not logged in,n
+1713,1704,li,Contributions,n
+1716,1704,li,Create account,n
+1719,1704,li,Log in,n
+1720,1698,div,,n
+1721,1720,nav,,n
+1724,1721,h3,Namespaces,n
+1729,1721,li,Article,n
+1737,1720,span,English,n
+1740,1698,div,,n
+1741,1740,nav,,n
+1744,1741,h3,Views,n
+1746,1741,ul,,n
+1749,1746,li,Read,n
+1752,1746,li,Edit,n
+1755,1746,li,View history,n
+1760,1740,span,More,n
+1767,1740,h3,Search,n
+1774,1695,div,,n
+1776,1774,nav,,n
+1779,1776,h3,Navigation,n
+1781,1776,ul,,n
+1784,1781,li,Main page,n
+1787,1781,li,Contents,n
+1790,1781,li,Current events,n
+1793,1781,li,Random article,n
+1799,1781,li,Contact us,n
+1802,1781,li,Donate,n
+1803,1774,nav,,n
+1806,1803,h3,Contribute,n
+1808,1803,ul,,n
+1811,1808,li,Help,n
+1814,1808,li,Learn to edit,n
+1817,1808,li,Community portal,n
+1820,1808,li,Recent changes,n
+1824,1774,nav,,n
+1827,1824,h3,Tools,n
+1829,1824,ul,,n
+1832,1829,li,What links here,n
+1835,1829,li,Related changes,n
+1841,1829,li,Special pages,n
+1844,1829,li,Permanent link,n
+1847,1829,li,Page information,n
+1850,1829,li,Cite this page,n
+1853,1829,li,Wikidata item,n
+1854,1774,nav,,n
+1857,1854,h3,Print or export,n
+1859,1854,ul,,n
+1862,1859,li,Download as PDF,n
+1865,1859,li,Printable version,n
+1866,1774,nav,,n
+1869,1866,h3,In other projects,n
+1874,1866,li,Wikimedia Commons,n
+1875,1774,nav,,n
+1879,1875,h3,Languages,n
+1880,1875,div,,n
+1881,1880,ul,,n
+1884,1881,li,Čeština,n
+1887,1881,li,Français,n
+1890,1881,li,Italiano,n
+1893,1881,li,Македонски,n
+1899,1880,div,Edit links,n
+1900,0,footer,,n
+1901,1900,ul,,n
+1903,1901,li,"This page was last edited on 7 June 2022, at 02:30",n
+1908,1901,li,"Text is available under the Creative Commons Attribution-ShareAlike License 3.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.",n
+1917,1900,ul,,n
+1919,1917,li,Privacy policy,n
+1923,1917,li,Disclaimers,n
+1925,1917,li,Contact Wikipedia,n
+1927,1917,li,Mobile view,n
+1929,1917,li,Developers,n
+1931,1917,li,Statistics,n
+1933,1917,li,Cookie statement,n
+1935,1917,li,Edit preview settings,n

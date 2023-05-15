@@ -1,0 +1,191 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+104,0,div,,n
+272,104,div,,n
+276,272,h1,Frequently Asked Lacrosse Equipment Questions,n
+279,272,div,,n
+282,279,ul,,n
+287,282,li,What do you need to play lacrosse?,n
+292,282,li,Do different positions require different equipment?,n
+297,282,li,What differences are there between men's and women's lacrosse?,n
+302,282,li,How do I find the right lacrosse head?,n
+307,282,li,How do I find the right lacrosse shaft?,n
+312,282,li,"Can I buy a complete, pre-made lacrosse stick?",n
+317,282,li,What pads do I need to protect myself on the field?,n
+320,279,tr,,n
+323,320,p,What do you need to play lacrosse?,n
+326,320,p,"Lacrosse is a full-contact, fast-paced, and active sport. So to play your best, and protect yourself on the field, you're going to need a full complement of great gear. This includes:",n
+327,320,ul,,n
+329,327,li,,n
+332,329,font,Lacrosse Stick,y
+335,329,font,"Also called a crosse, the lacrosse stick is your central weapon on the field. It comes in two pieces: a shaft that can be easily grasped and wielded, and a head to cradle and catch the ball. The lacrosse stick can also be used to block shots, check opponents, and defend against checks.",n
+337,327,li,,n
+339,337,font,Pads,y
+342,337,font,"Lacrosse pads protect you from hard shots, checks, pokes, and other contact on the field. They are lightweight, low-profile, and built for speed and agility as well as safety and protection. Most lax pads cover the arms, elbows, and shoulders. Lacrosse goalies wear different pads, including chest protectors and rib guards.",n
+344,327,li,,n
+346,344,font,Gloves,y
+349,344,font,"Lacrosse gloves are designed to protect your fingers, hands, and wrists from checks and impacts from other shafts.",n
+351,327,li,,n
+353,351,font,Helmet,y
+356,351,font,"Designed to protect the head and face from impacts, body checks, and stick checks.",n
+358,327,li,,n
+360,358,font,Shoes or Cleats,y
+363,358,font,"Lacrosse shoes or lacrosse cleats give you the traction you need to fly up and down the field. Designed for different types of field surfaces, lacrosse cleats come in a variety of styles, tractions, and builds.",n
+365,279,tr,,n
+368,365,p,Do different positions require different equipment?,n
+371,365,p,"Generally, every player uses the same basic equipment",n
+374,365,p,"lax gear, across every position on the field:",n
+376,365,table,,n
+377,376,tr,,n
+380,377,td,Equipment,n
+383,377,td,Position,n
+384,376,tr,,n
+388,384,td,Attack,n
+391,384,td,Defense,n
+394,384,td,Goalie,n
+395,376,tr,,n
+400,395,p,Lax Shafts,n
+403,395,td,"An attacker or midfielder uses a shorter, lighter shaft for faster, more agile, aggressive moves. Mens attack lacrosse shafts usually measure 30"" in length.",n
+404,395,td,,n
+407,404,p,"Defensive players and middies use longer, more durable shafts to extend their reach, block shots, and throw harder checks. Mens defense lacrosse shafts usually measure",n
+410,404,p,"60"" in length.",n
+411,395,td,,n
+414,411,p,"Goalies use a longer shaft than attackers, but need more agility than defensemen to guard the goal. Mens goalie shafts usually measure",n
+415,411,p,,n
+417,415,font,4,n
+419,415,font,"0"" in length.",n
+420,376,tr,,n
+425,420,p,Lax Heads,y
+428,420,td,"Attack and defense heads are interchangeable. Although attackers generally prefer lightweight heads with a maximum scoop, narrow pocket, and maximum offset for improved ball retention and shot accuracy. Attack pockets are also strung differently than defensive heads.",n
+431,420,td,"Attack and defense heads are interchangeable. Although defensive players generally prefer a stronger, more durable head to throw hard checks. Flat scoops are also better for plays off the ground, and a wider pocket allows for more blocking area.",n
+434,420,td,"Goalie heads are significantly different than attack and defense heads in both size and shape. Up to 12"" wide, the larger circumference and shape allows for better shot blocks and ball retention in goal.",n
+435,376,tr,,n
+440,435,p,Pads or Helmets,y
+443,435,td,"Since they are facing off against defensemen, attackers need more comprehensive padding to protect from checks. Full coverage elbow guards and arm guards deliver solid protection, while lightweight shoulder pads keep them agile and fast.",n
+446,435,td,Defensive players require less padding than attackers. Elbow pads and arm pads provide adequate coverage without the bulk and restrictions of full elbow and arm guards.,n
+449,435,td,"Goalie pads are completely different than those worn by attackers and defenders. Goalie-specific gloves are designed with additional padding. Lacrosse goalie chest protectors and chest pads wrap around the body and protect from hard shots on goal. Goalies also wear padded pants to protect thighs, shins, hips, and groin from impact.",n
+451,279,tr,,n
+455,451,div,How do I find the right lacrosse head?,n
+459,451,p,"Lacrosse heads are the most varied, and also the most important piece of lacrosse equipment in your lineup. They come in all sizes, shapes, designs, and price ranges. Remember, an ideal lacrosse head can make a huge difference in your game by giving you improved accuracy, ball handling, check strength, and shot velocity.",n
+462,451,p,"With such a huge selection and variety available, knowing what to look for can be a confusing process. When choosing a lacrosse head, it's all about finding the one that will highlight your skills, fit your position, style, and budget.",n
+465,451,p,"First of all, it's important to understand the parts of a lacrosse head , to get a sense of how they differ, and what these differences will mean to your game:",n
+469,451,ul,,n
+470,469,li,,n
+472,470,font,Sidewalls,n
+473,470,ul,,n
+476,473,li,"the head, determining its effectiveness in body and stick checks.",n
+477,473,li,,n
+479,477,font,Can range from flexible to very stiff.,n
+480,477,ul,,n
+483,480,li,"Stiff heads are heavier, but deliver harder checks, making them good",n
+486,480,li,"Flexible heads are lightweight and malleable, making them great for picking up ground balls and fast, agile movements.",n
+489,473,li,Give the head and pocket its shape and depth.,n
+492,473,li,"Can be low, mid, or high, affecting the pocket's depth and how the ball is kept in the pocket, also known as ball retention.",n
+495,473,li,Sidewall height can also affect shot and pass accuracy.,n
+496,469,li,,n
+498,496,font,Scoop,n
+499,496,ul,,n
+502,499,li,the head used to pull balls off the ground.,n
+505,499,li,Also where shots and passes leave the pocket.,n
+506,499,li,,n
+508,506,font,the scoop.,n
+509,506,ul,,n
+512,509,li,Dramatic drop scoops deliver maximum shot accuracy,n
+515,509,li,Minimal or flat scoops are great,n
+516,469,li,,n
+518,516,font,Pocket,n
+519,516,ul,,n
+522,519,li,the head where the ball resides.,n
+525,519,li,"Head's pockets can either come unstrung, or complete with factory strung pockets. New players should have their heads pre-strung, while experienced lacrosse players will want to customize their pocket.",n
+526,519,li,,n
+528,526,font,Pocket width is determined by the head itself.,n
+529,526,ul,,n
+532,529,li,"Wide pockets are good for new and defensive players, since they deliver less accuracy and make it harder to hold onto the ball, but give you a wider area to block shots and passes.",n
+535,529,li,"Narrow pockets deliver the best accuracy and ball retention, but make catching and blocking harder.",n
+536,469,li,,n
+538,536,font,Offset,n
+539,536,ul,,n
+542,539,li,"Refers to gradual decrease of the rail, or sidewall, in relation to the center line of the handle.",n
+545,539,li,"the handle, improving cradling and ball retention.",n
+547,279,tr,,n
+550,547,div,How do I find the right lacrosse shaft?,n
+554,547,p,"Just as diverse, yet not as complicated as heads, lacrosse shafts are used to control the ball, put power and accuracy behind shots, and check the competition.",n
+557,547,p,"Lighter shafts keep you more agile and faster down the field, while stronger shafts hold up to regular abuse and deal out serious checks. The balance between these two features is referred to as a stick's strength-to-weight ratio. Generally, the more expensive a shaft is, the lighter and stronger its material.",n
+560,547,p,"In the modern world of lacrosse, popular companies such as STX, Warrior, Gait, Harrow, and Brine use advanced metal alloys and carbon materials to build space-age, lightweight, and strong shafts for unprecedented performance.",n
+563,547,p,Shafts today are made from,n
+565,547,table,,n
+566,565,tr,,n
+571,566,p,Aluminum Alloy,n
+573,566,td,,n
+576,573,p,Strong and light aluminum-based alloys create some of the most affordable and accessible lacrosse shafts for all players and positions.,n
+577,573,ul,,n
+581,577,li,"Not as strong as other, more advanced materials",n
+585,577,li,Versatile and easy to use,n
+589,577,li,"Without a natural grip, most lacrosse companies add grip patterns or tack",n
+593,577,li,Perfect,n
+594,565,tr,,n
+599,594,p,Composite,n
+600,594,td,,n
+603,600,p,"high-grade carbon fibers, composite shafts are incredibly strong, yet amazingly lightweight.",n
+604,600,ul,,n
+608,604,li,Carbon composite shafts naturally feature a solid grip,n
+612,604,li,"Feel warm in cold weather, and cool in hot conditions",n
+616,604,li,Designed,n
+620,604,li,Perfect,n
+621,565,tr,,n
+626,621,p,Titanium,n
+627,621,td,,n
+630,627,p,"Stronger and lighter than aluminum, titanium lacrosse shafts are designed to take and dish out hard hits.",n
+631,627,ul,,n
+635,631,li,"Lightweight, won't slow you down",n
+639,631,li,strength,n
+643,631,li,Perfect,n
+644,565,tr,,n
+649,644,p,Scandium,n
+650,644,td,,n
+653,650,p,"With the highest strength-to-weight ratio in the game today, Scandium sticks have quickly become a favorite amongst top level players.",n
+654,650,ul,,n
+658,654,li,Extreme durability,n
+662,654,li,Lightweight,n
+666,654,li,Preferred by elite and pro-level lacrosse players,n
+669,547,p,"When picking a new lacrosse shaft, it's also important to find one that feels good in your hands and gives you total control of the stick. Some shafts include a built-in grip, texture, or tack areas on the surface to help you wield it more accurately.",n
+671,279,tr,,n
+675,671,p,"Can I buy a complete, pre-made lacrosse stick?",n
+678,671,p,"Advanced, elite, and professional players will generally want to purchase their lacrosse head and shaft separately, to get a customized stick. However, many companies such as STX, Warrior, and Brine offer complete lacrosse sticks, including their advanced heads and basic shafts in one package. Complete sticks are cost effective and great for new, young, and developing players!",n
+682,279,tr,,n
+685,682,p,What pads do I need to protect myself on the field?,n
+690,682,p,Lacrosse Gloves,n
+693,682,p,"Mostly used in men's lacrosse, lacrosse gloves look similar to ice hockey gloves. They are heavily padded to protect the hands, fingers, wrists, and forearms from stick and body checks on the field. Modern, high-end lacrosse gloves feature lightweight, impact-absorbing padding, ventilation in the backhand and fingers, and thin, synthetic or mesh palms for great stick grip and feel.",n
+694,682,p,,n
+696,694,font,Lacrosse goalie gloves utilize extra padding and protection in the thumb area to prevent injury from blocking shots.,n
+701,694,font,Lacrosse Shoulder Pads,n
+707,682,p,"To keep players fast and agile, yet still protected from body shots, lacrosse shoulder pads are lightweight and flexible, fitting close to the body for maximum effectiveness. A set of pads covers your shoulders, back, and chest in low-profile, low-weight padding.",n
+711,682,p,Arm Pads or Elbow Pads,n
+715,682,p,Additional pads are worn in men's lacrosse to protect players arms and elbows from hard stick checks and impact.,n
+716,682,ul,,n
+720,716,li,"Elbow Guards - The most protective pads for attackers and middies, elbow guards fully cover and enclose the arm and elbow.",n
+724,716,li,"Arm Guards - Designed for great protection and mobility for all positions, arm guards cover the upper arm with padding and feature an elbow cap for durable protection.",n
+728,716,li,"Arm Pads - Great for defensemen and middies, arm pads are lightweight and slide on easily for low-profile, moderate protection and performance.",n
+732,716,li,"Elbow Pads - Perfect for defensemen, lightweight elbow pads slide easily on and off, and provide minimal coverage with maximum mobility.",n
+737,682,p,Lacrosse Helmets,n
+740,682,p,"Depending on your position, the type of lacrosse you play, your gender, or age, you may be required to wear a helmet or a pair of goggles on the field. Lacrosse helmets are typically worn in men's lacrosse, and are aerodynamic and lightweight, with a brim, complete facemask, and built-in chin guard, for total facial and cranial protection.",n
+744,682,p,,n
+745,744,text,Athletic Supporter and Protective Cup,n
+748,744,br,Mouth Piece,n
+756,104,div,,n
+757,756,text,Youth Sports and,n
+761,756,strong,DFW Lacrosse,n
+762,756,text,. All rights reserved.,n
+765,756,span,Visitor #,n
+768,756,span,461,n
+770,756,br,Server in . or or Privacy Policy or or Do Not Sell My Personal Information or or CA Notice or or Terms or or User Guide or or Legal or or Contact us or or Get the Mobile App,n
+773,756,strong,1,n
+775,756,strong,,n
+777,775,span,30,n
+778,775,text,s,n
+799,0,div,,n
+800,799,div,,n
+802,800,button,x,n
+804,800,p,New Privacy Policy,n
+806,799,div,We have made changes to our Privacy Policy . By using this site you agree to the Privacy Policy and Terms of Service .,n
+821,0,div,Close,n

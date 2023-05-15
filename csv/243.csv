@@ -1,0 +1,99 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+221,0,div,,n
+246,221,div,,n
+247,246,div,,n
+249,247,h1,Parents,n
+250,247,div,,n
+253,250,div,McKinney ISD teacher helps a student with her computer project.,n
+255,250,p,McKinney ISD teacher helps a student with her computer project.,n
+257,247,p,"McKinney ISD parents are known to be very active in their student’s education. To help with this effort, we have prepared this page as a quick reference guide to the different seasons in McKinney ISD. This does not represent all that is available during each season in MISD. If this page does not cover the topic you are looking for, please try the search feature of this website, or you can contact us using the Contact Us page in the Communications section of this website.",n
+261,247,h2,Fall in MISD,n
+263,247,p,Fall in McKinney ISD is all about getting ready to go back to school. The following topics will help parents know how best to prepare for the upcoming school year.,n
+264,247,ul,,n
+265,264,li,,n
+267,265,h3,Enrollment and Registration,n
+268,265,div,,n
+270,268,p,"Parents may enroll a new student as well as update a returning student’s information through the district’s online registration system or by visiting the student’s home campus. The student’s home campus is determined by the student’s physical home address. To determine which campus your child is zoned for, please visit MISD’s School Locator page in the Enrollment section of this website.",n
+274,268,p,"Registration forms are typically made available in mid-April with registration officially opening in early May. More information about registration, including specific registration dates, can be found on both the Returning Student Enrollment page and the New Student Enrollment page found in the Enrollment section of this website.",n
+279,264,li,,n
+281,279,h3,School Supplies,n
+284,279,p,"School supply information is typically made available in July each summer, although it can vary by campus. School supply lists are generally used for elementary campuses only. These lists are available on the each individual campus website as well as in the front office of the school. Secondary students receive their supply information during the first week of classes in August.",n
+285,264,li,,n
+287,285,h3,Academic Planning Guides,n
+288,285,div,,n
+290,288,p,"The Academic Planning Guides are documents created by MISD that serve as guide maps to help secondary students choose the right courses for their educational future. In these documents, the district provides a detailed description of the four plans and also lists what courses are available to MISD secondary students.",n
+292,288,p,The Academic Planning Guides for both high school and middle school students can be found on the Academic Planning Guides page in the Secondary Education section of this website.,n
+295,264,li,,n
+297,295,h3,Rules and Regulations,n
+298,295,div,,n
+300,298,p,"Student safety and providing a healthy atmosphere for learning are very important to McKinney ISD. Because of this, the district maintains rules and regulations in the form of two documents.",n
+302,298,p,"The Student Code of Conduct is a document that is adopted by the school board each year and is intended to provide methods and options for managing students in the classroom, at school sponsored events and while on school grounds.",n
+304,298,p,The Student Handbook is a document that is designed to provide basic information that parents and students will need throughout the year.,n
+306,298,p,Both the Student Code of Conduct and the Student Handbook are available online on the Rules and Regulations page in the About MISD section of this website.,n
+309,264,li,,n
+311,309,h3,MISD Calendars,n
+312,309,div,,n
+314,312,p,The district maintains several different calendars to help parents and students stay up-to-date with the latest district event information. The district calendar is usually adopted by the board each January. This printable PDF calendar is available on the Calendars page in the News and Events section of this website.,n
+318,312,p,"The district’s online calendar , found in the News and Events section of this website, contains important information about student holidays, semester beginning and ending dates and serves to highlight other events that are relevant to parents and students at all grade levels.",n
+322,312,p,McKinney ISD maintains separate calendars for both Athletic and Fine Arts events. Fine Arts calendar information can be found on the Fine Arts website. Athletic event information can be found on the Athletics website.,n
+328,312,p,"In addition to the calendars listed above, each campus has been asked to maintain an online campus calendar. These calendars will spotlight campus level events. A list of these calendars can be found on the Calendars page in the News and Events section of this website.",n
+331,264,li,,n
+333,331,h3,Campus Information,n
+336,331,p,"The district maintains a Campus Directory page located in the About MISD section of this website. This page contains information about each campus including: address, phone number, school hours, principal, campus website, campus improvement plan, the campus Texas Academic Performance Report , the campus School Report Card and the campus’ accountability rating.",n
+339,264,li,,n
+341,339,h3,Home Access Center,n
+344,339,p,The district’s Home Access Center is where parents can access their student’s course information and where student report card information will be posted. For assistance with HAC please contact your campus registrar.,n
+348,247,h2,Winter in MISD,n
+350,247,p,Winter in McKinney ISD brings some wonderful fine arts performances as well as some much needed time off for students. The topics below help address some of the information parents seek out most frequently during this time of year.,n
+351,247,ul,,n
+352,351,li,,n
+354,352,h3,Fine Arts Productions,n
+355,352,div,,n
+357,355,p,"Throughout the year, McKinney ISD students showcase their talents through the various fine arts offerings the district has available. During the Winter months many of the Fine Arts student groups prepare winter shows that are open to parents, students, staff and community members from around the district. We encourage parents to attend these performance with their students as a way to showcase the opportunities students have as they progress through the grade levels.",n
+359,355,p,"For more information about these events, including schedule information, please visit McKinney ISD’s Fine Arts website.",n
+362,351,li,,n
+364,362,h3,Winter Break,n
+367,362,p,Winter Break in McKinney ISD usually begins near the end of December and extends through the beginning of January. The specific dates for Winter Break are usually released each January when the board of trustees approves the district’s academic calendar. To view the current academic calendar please visit the Calendars page in the News and Events section of this website.,n
+370,351,li,,n
+372,370,h3,Inclement Weather,n
+375,370,p,Winter months in McKinney have been known to bring inclement weather to the area. McKinney ISD outlines its inclement weather policy on the Inclement Weather page in the Communications section of this website.,n
+378,351,li,,n
+380,378,h3,Flu Season,n
+383,378,p,"According to the CDC, flu cases in Texas peak between December and March, but can last until May. For this reason, McKinney ISD continually monitors flu cases on our campuses during these months. To help prevent the spread of the flu, MISD asks that you do the following: get your students vaccinated, teach your students to wash their hands frequently and to cover their coughs and sneezes, and most importantly keep your students home if they are sick. Doing these things can help the district limit the spread of the flu amongst our students.",n
+385,247,h2,Spring in MISD,n
+387,247,p,Spring in McKinney ISD is a time when students begin to prepare for end of the year exams. The following topics can help guide parents and students through some of the happenings around the district during springtime.,n
+388,247,ul,,n
+389,388,li,,n
+391,389,h3,Next Year’s Calendar,n
+394,389,p,The district calendar is usually adopted by the board each January. This printable PDF calendar is available on the Calendars page in the News and Events section of this website.,n
+397,388,li,,n
+399,397,h3,Employment Opportunities,n
+402,397,p,"McKinney ISD Human Resources department is dedicated to recruiting and retaining highly-qualified, high-performing individuals who recognize the incredible opportunity afforded to those who work in the field of education. MISD offers competitive salaries and a wide range of employment opportunities. MISD recruiting efforts usually begin in February and extend through the summer months. For more information about current openings with the district please visit the Employment page in the Human Resources section of this website.",n
+405,388,li,,n
+407,405,h3,Testing and Exams,n
+410,405,p,"McKinney ISD utilizes a variety of assessments to gather data on student ability and achievement levels in order to make instructional decisions in the best interest of each student. For more information about the assessments MISD currently uses please visit the District Assessments page in the Accountability and Evaluation section of this website. For information about specific testing dates, please contact your child’s campus front office.",n
+413,388,li,,n
+415,413,h3,Board Elections,n
+418,413,p,"Elections for board seats are conducted annually each May. The candidates run for specific places on the board , but they represent the McKinney ISD as a whole. Once elections are finalized the Board elects a president, vice-president and secretary for one-year terms. For more information about MISD’s Board of Trustees please visit the Board of Trustees page in the About MISD section of this website.",n
+422,247,h2,Summer in MISD,n
+424,247,p,Summer in McKinney ISD can be a great time of year for students to recharge after Spring exams. The topics listed below are a few things to keep in mind as students transition into Summer Break.,n
+425,247,ul,,n
+426,425,li,,n
+428,426,h3,Summer School Programs,n
+431,426,p,McKinney ISD offers a variety of summer school programs to students at every grade level. Updated summer program information is typically released at the end of February. For a list of programs currently available please visit the Summer School Programs section of this website.,n
+434,425,li,,n
+436,434,h3,Childcare Summer Camp,n
+439,434,p,"MISD offers a summer camp option through the district’s Club 360 program. Club 360 Summer Camp offers students the opportunity to participate in weekly themed activities during the summer months. For more information on these two programs, please visit the Childcare and After-School Programs section on this website.",n
+442,246,div,,n
+444,442,h3,Need Help?,n
+445,442,p,,n
+446,445,text,"If you need additional assistance with the content on this page, please contact the McKinney ISD Administration Building by phone at 469-302-4000 or by email here",n
+450,445,text,.,n
+453,221,div,,n
+455,453,ul,,n
+457,455,li,© 2022 McKinney ISD,n
+459,455,li,Equal Opportunity,n
+461,455,li,Accessibility,n
+465,455,li,Contact MISD,n
+467,453,div,"District Vision, Mission and Beliefs",n

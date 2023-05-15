@@ -1,0 +1,172 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+17,0,div,,n
+80,17,div,,n
+83,80,h1,Surfing Equipment List,n
+84,80,div,,n
+86,84,div,Surfing Gear,n
+87,84,div,,n
+89,87,span,"September 14, 2018",n
+92,87,span,surfing,n
+93,87,span,,n
+95,93,span,2806,n
+97,93,span,Views,n
+98,87,span,,n
+100,98,span,1,n
+102,98,span,Comment,n
+104,17,div,,n
+106,104,div,,n
+108,106,span,21,n
+110,106,span,shares,n
+118,104,div,,n
+120,118,div,,n
+121,120,div,,n
+123,121,span,14,n
+125,121,span,Sep,n
+129,120,div,This Month,n
+142,118,div,,n
+144,142,p,"If you love being in the water, surfing is just one of the many water sports you can try out. You’ll likely end up wiping out a bunch of times before you can ride a full wave like a true, seasoned surfer—but that exhilarating feeling of standing up on your board for the first time makes it truly worth it.",n
+148,142,p,"Aside from actually going out there and learning the basics of surfing , beginner surfers will obviously need to get their own surf gear. You can opt to rent these items, of course, but if you plan on taking up surfing as a regular hobby, you may want to invest in your own equipment.",n
+152,142,p,items that you’ll need before you can start hitting those tasty waves.,n
+154,142,h2,Surfing Equipment,n
+157,142,p,"As a beginner, you’ll only really need a few items, including your surfboard, before you start surfing. But as you progress and grow into a more advanced surfer, you’ll need a couple of other gadgets and protective items that will enable you to surf more comfortably for extended periods of time under the sun and in varying water temperatures.",n
+159,142,h3,Surfboard,y
+162,142,p,"Obviously, the most important piece of equipment you’ll need is the surfboard that you’re going to ride waves with. However, it may also be very challenging to shop for as there are several different types of surfboards for different experience levels and wave conditions.",n
+163,142,p,,n
+164,163,text,"The best option is to head to your local surf shop or the one nearest your surf camp and ask about the right type of board for you. While you’re at it, don’t forget to include",n
+166,163,strong,surf fins,y
+168,163,text,", as these will further improve the performance of your board. You can have one, two, three, four, or even five installed all at the same time. Experiment with different fin configurations to find the one that gives you your desired level of stability and drive.",n
+170,142,p,Note,n
+171,142,p,,n
+172,171,text,"Also, make sure to get a",n
+174,171,strong,surfboard bag,y
+175,171,text,so you can wrap and protect your board when you’re not using it.,n
+177,142,h3,Surf Wax or Traction Pad,y
+180,142,p,"If you’ve never surfed before, you may not know about the surf wax yet. This is what helps surfers maintain a good grip on their surfboard when riding waves. It has jagged edges to create textured grooves, which helps ensure good traction. The surf wax is rubbed on a dry board before every session and removed with a wax comb.",n
+181,142,p,,n
+183,181,strong,Traction pads,y
+184,181,text,"are a good alternative. If installed properly, you may not have to wax your board again for a few years. However, traction pads are generally more expensive than surf wax, more so if you’re looking at brands that the pros use.",n
+186,142,h3,Leash,y
+189,142,p,"A board leash or leg rope is an important piece of safety equipment that helps beginners surf safely. It keeps you connected to the board via the calf or ankle. Aside from making it easier for you to retrieve your board whenever you wipe out, it also helps keep you safe above water by serving as a flotation device when you find yourself tired, lost, or too far from the shore. For these reasons, it’s a general rule for beginners to use a leash for any water sport that requires the use of a board.",n
+191,142,h3,Proper Surf Wear,y
+193,142,p,"As with stand up paddle boarding , you can pretty much wear anything you want when you go surfing—but within reason, of course. If you want to have a good time out there, make sure to choose the right surf wear. The ocean can be unforgiving, and you definitely don’t want to lose any articles of clothing while you try to ride a wave.",n
+197,142,h4,Swimsuit,y
+200,142,p,"Many surfers wear bikinis or Speedos during the summer and only cover up during the colder months. But for the most comfortable option, especially when you’re a beginner who’s going to be hitting waves and falling off the board repeatedly, we recommend one-piece swimsuits for the ladies and snug swim briefs for the men.",n
+203,142,ul,,n
+205,203,li,TYR Alliance T-Splice Maxfit Women’s Swimsuit,n
+208,203,li,Speedo Women’s Solid Powerflex Flyback Swimsuit,n
+211,203,li,Speedo Solid Lycra Brief,n
+214,142,h4,Rash Guard,y
+217,142,p,"Rash guards are a popular swimwear option for any kind of water activity. What makes rash guards so special is that they are designed to protect the skin against irritation and harmful exposure to the sun. They are typically made of lightweight, quick-dry material that can shield the skin from the sun’s UV rays .",n
+221,142,p,"Popular cuts for rash guards during summer surfing are those with short sleeves. The same cut may be worn underneath a wetsuit or with a pair of boardshorts for that extra layer of warmth. But there are also long sleeved ones that you can wear for colder days, when you want something thinner than a wetsuit.",n
+226,142,ul,,n
+228,226,li,Mares Women’s Trilastic Short Sleeve Rash Guard Shirt,n
+231,226,li,Mares Men’s Short Sleeve Rash Guard Loose Fit,n
+234,226,li,Waterproof R30 Long Sleeve Rash Guard,n
+237,142,h4,Board Shorts,y
+240,142,p,"Board shorts are a popular option for surfers who prefer more coverage. Some male surfers go shirtless and opt for boardshorts with swim trunks underneath. These comfy bottoms are usually made of quick-dry, stitchless, and stretchy fabrics. The only problem is that they can cause drag as there is a lot of loose fabric around the thighs.",n
+243,142,ul,,n
+245,243,li,Speedo Underline Floral E-Board Shorts,n
+248,243,li,Speedo Guard Men’s 21″ Board Shorts Red,n
+251,243,li,Speedo Men’s Rio Flag Board Shorts,n
+254,142,h4,Wetsuit,y
+257,142,p,"When surfing in much colder waters, you’ll definitely need a good wetsuit. Typically made of neoprene, this multi-purpose underwater garment offers more warmth to allow you to surf during the winter months in low water temperatures for extended periods of time.",n
+258,142,p,,n
+259,258,text,wetsuits,n
+261,258,strong,shorty,y
+262,258,text,", which has short arm sleeves and covers the thighs; the",n
+264,258,strong,spring suit,y
+265,258,text,", which has full-length sleeves and short legs or vice versa; and the",n
+267,258,strong,full suit,y
+268,258,text,or,n
+270,258,strong,steamer,y
+271,258,text,", which has long sleeves, full legs, and sometimes even a hoodie.",n
+273,142,p,"They also come in varying thickness levels, starting from 1.5mm up to 6mm. They are listed with combinations like 3 or 2, 4 or 3, and 5 or 4 or 3. The 5 or 4 or 3 is commonly used during winter as it means the core or torso area of the wetsuit is 5mm thick while the material covering the thighs are 4mm thick and the legs and arms are 3mm thick. The 3 or 2 shorty, on the other hand, is a popular all-around option for summer surfing as it only has a 3mm thick torso and 2mm for the arms and legs.",n
+276,142,ul,,n
+278,276,li,Bare 2mm Sport S-Flex Men’s Shorty,n
+281,276,li,Bare 3 or 2mm Sport S-Flex Men’s Full Suit,n
+284,276,li,O’Neill Epic 4 or 3 mm Men’s Full Suit,n
+287,142,h4,Surf Poncho or Jacket,y
+290,142,p,"Another thing you may need when surfing during colder months is a surf poncho or surf jacket. These are designed to keep you warm once you’re out of the water, as well as doing cold morning surf checks and when riding by boat to your surf destination.",n
+292,142,p,"Surf ponchos have the added benefit of drying you up like a towel would, but you may also want to consider surf jackets made of waterproof material so you can sit in your car without worrying about wetting your seats. Look for those that have slit pockets so you can also change in and out of your wetsuit with it.",n
+296,142,h5,Recommended Product,n
+299,142,li,Surf-Fur The Original Water Parka,n
+302,142,h4,"Hoods, Boots, and Gloves",y
+310,142,p,"When surfing during colder months or in cold waters, it’s not enough that you have your arms and legs covered with a thick wetsuit. To make sure you’re comfortable all throughout your surfing session, don’t forget to shop for other clothing items that will cover the rest of your exposed body parts.",n
+312,142,p,"To cover your head, you’ll need a hoodie that covers everything from your neck to the top of your head with only your face exposed. You’ll also need flexible and snug aqua gloves that will provide enough warmth for your hands without making it difficult for you to get a good grip of your board. Lastly, don’t forget to get a good pair of surf boots that’ll give you plenty of traction on your board.",n
+314,142,h4,Recommended Products,y
+315,142,ul,,n
+317,315,li,Hyperflex Access 5mm Bibbed Surf Hood,n
+320,315,li,NeoSport 5mm Five Finger Gloves,n
+323,315,li,Hyperflex 2mm AMP Low Reef Surf Boot,n
+326,142,h3,Earplugs,y
+329,142,p,"These may be small but can be extremely important if you’re going to be surfing under chilly conditions. Many surfers suffer from exostosis or “surfer’s ear,” which are abnormal bone growths in the ear canal caused by irritation from cold wind and water. Not only can this lead to infection and ear pain, but it can eventually affect your hearing.",n
+331,142,p,"The risk of getting surfer’s ear also increases when the surfer reaches the ages of 30, which is why you’ll find a bunch of earplugs in the bags of veteran and intermediate surfers. Fortunately, the same earplugs can also help you avoid getting swimmer’s ear, which can also lead to ear infections as you continue to expose yourself to the water.",n
+334,142,ul,,n
+336,334,li,Speedo Ergo Ear Plugs,n
+339,334,li,JBL Hydro Seal Aqua Plugs,n
+342,334,li,Doc’s Proplugs Vented Combo Pack,n
+345,142,h3,Sunscreen,y
+348,142,p,"Whether during summer or winter, as long as you’re going to be exposing yourself to the sun for long periods of time, you’re going to have to cover any exposed skin with sunscreen. To avoid having to reapply all the time, especially when you’re getting splashed repeatedly, look for a high SPF sunscreen that is quick-absorbing and waterproof.",n
+350,142,p,"course, make sure the formulations are reef-friendly and environmentally safe!",n
+353,142,ul,,n
+355,353,li,Bullfrog Water Sport Sunscreen,n
+358,353,li,Reef Safe Sunscreen Spray,n
+361,353,li,Sun Bum PRO SPF 30+ Face Stick Endurance Sunscreen,n
+364,142,h3,Surf Watch,y
+367,142,p,"As you become more of a pro surfer, you’ll want to invest in a good waterproof wrist watch that will help you monitor surf forecasts, wave heights, wave periods, and wind speed and direction. Most of them also show tide times for thousands of surf spots around the world, so you can visit other surf spots with all the information you need to ensure safe surfing conditions—and big, worthwhile waves!",n
+370,142,ul,,n
+372,370,li,Freestyle Shark Tooth Watch,n
+375,370,li,Freestyle Tide Trainer Watch,n
+378,370,li,Freestyle Shark Classic Clip Tide Watch,n
+381,142,h3,Waterproof Action Camera,y
+384,142,p,"Once you’ve gotten the hang of riding a couple of advanced waves, you may want to document your experience with a good action camera. Of course, these have to be waterproof—or at least housed in a waterproof case—and mounted to your head for fantastic first-person views. You can also mount it to your board for an even cooler perspective that shows you in action.",n
+386,142,p,"Popular options include the Intova and GoPro HERO action cameras. We also recommend the HERO5 Session, as these are significantly smaller and therefore less bulky.",n
+391,142,ul,,n
+393,391,li,Intova HD2 Marine Grade Action Camera and Housing,n
+396,391,li,GoPro HERO5 Session Action Camera,n
+399,391,li,GoPro HERO5 Black Edition Action Camera,n
+402,142,h3,Wet or Dry Bag,y
+405,142,p,"For the protection of your valuables, you’ll need a dry bag that can keep water out. And for your convenience, you’ll also need a wet bag wherein you can store your wetsuits, swimsuits, rash guards, and other wet fabrics after your surfing sessions. Choose just the right size to minimize the bulk that you have to bring to the surf spot and look for those that have comfortable body slings for convenient travels.",n
+408,142,ul,,n
+410,408,li,Seattle Sports Explorer Dry Bag,n
+413,408,li,H2Odyssey Go-Bags,n
+416,408,li,Aquapac Wet and Dry Backpack with Hot Orange Lash Tab,n
+423,142,div,,n
+425,423,span,Tags,n
+426,423,text,surfing,n
+427,104,div,,n
+435,427,div,"September 12, 2018",n
+439,427,div,,n
+441,439,h3,The Difference Between a Kayak and a Canoe,n
+443,439,div,"September 17, 2018",n
+444,104,div,,n
+447,444,h3,you may also like,n
+450,444,div,,n
+453,450,div,,n
+456,453,div,,n
+459,456,span,"June 28, 2019",n
+461,456,span,by,n
+464,453,h3,A Guide to Rash Guards,n
+467,450,div,,n
+473,467,div,"November 22, 2018",n
+478,467,h3,10 Best Gifts,n
+487,450,div,"September 12, 2018",n
+495,450,div,,n
+498,495,div,,n
+501,498,span,"January 28, 2021",n
+503,498,span,by,n
+506,495,h3,Best Water Sports Equipment,n
+507,104,div,,n
+508,507,div,,n
+509,508,h3,,n
+510,509,text,Leave a Response,n
+512,509,small,Cancel reply,n
+513,508,form,,n
+516,513,p,Comment,n
+520,513,p,Name,n
+524,513,p,Email,n
+529,513,p,"Save my name, email, and website in this browser",n
+539,513,p,Δ,n
+544,507,p,This site uses Akismet to reduce spam. Learn how your comment data is processed .,n
+552,17,div,© 2022 Leisure Pro. All rights reserved.,n

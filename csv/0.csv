@@ -1,0 +1,110 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,"SWWALAX strives to develop the fundamental skills of teamwork, good sportsmanship, fair play and honoring the game of Lacrosse. Come see what we are all about!",n
+16,0,li,Sign in,n
+21,0,div,,n
+24,21,td,Home,n
+28,21,div,Configuration,n
+31,21,div,,n
+33,31,br,Reports,n
+36,31,li,Dashboard,n
+40,21,div,Messaging,n
+45,21,div,Members,n
+50,21,div,Teams,n
+53,21,div,,n
+55,53,br,Facilities,n
+58,53,li,Facility Manager,n
+60,21,div,,n
+62,60,br,Scheduling,n
+65,60,li,Master Calendar,n
+69,21,div,Tools,n
+72,21,div,,n
+74,72,br,Support,n
+75,72,ul,,n
+77,75,li,Changelog,n
+79,75,li,Help Docs,n
+81,75,li,Coaches Help,n
+83,75,li,Video Help,n
+85,75,li,Help Forums,n
+88,75,li,Contact Support,n
+92,0,div,,n
+102,92,tr,,n
+118,102,div,,n
+122,118,li,Home,n
+163,118,li,Register,n
+166,118,li,,n
+167,166,text,Teams,n
+168,166,ul,,n
+169,168,li,,n
+171,169,div,Choose a Team,n
+172,169,ul,,n
+173,172,li,,n
+175,173,div,Mt Adams,n
+178,173,li,Mt Adams,n
+179,172,li,,n
+181,179,div,Coed,n
+184,179,li,Fiddlesticks,n
+187,172,li,Girls,n
+195,172,li,,n
+197,195,div,Boys,n
+198,195,ul,,n
+200,198,li,HS East,n
+202,198,li,HS West,n
+210,168,li,Schedule,n
+212,168,li,Multi-Schedule,n
+215,118,li,,n
+216,215,text,FAQ,n
+219,215,li,Frequently Asked Questions,n
+222,118,li,,n
+223,222,text,Volunteer,n
+226,222,li,Volunteer TODAY,n
+229,118,li,,n
+230,229,text,Questions?,n
+233,229,li,Have a Question? Please Ask!,n
+237,102,table,,n
+285,237,td,My my My my,n
+300,237,td,,n
+303,300,div,For full functionality of this site it is necessary to enable JavaScript. Here are the instructions how to enable JavaScript in your web browser .,n
+306,300,div,,n
+310,306,div,Equipment,n
+311,306,div,,n
+313,311,p,"the most asked questions is, what equipment does my player need?",n
+315,311,p,"We know that it might be confusing with all the different styles, colors, and brands of gear out there. We suggest keeping it simple and affordable. Here is a basic list of required gear.",n
+317,311,p,"If you have any questions or need help, feel free to ask swwalax@gmail.com",n
+321,311,p,For Boys Lacrosse,n
+322,311,ul,,n
+324,322,li,boys lacrosse stick,y
+326,322,li,gloves,y
+328,322,li,arm guards,y
+330,322,li,chest protector MUST HAVE NOCSAE LOGO new,y
+332,322,li,Helmet - make sure the helmet fits well.,y
+334,322,li,mouthguard + 1 extra,y
+336,322,li,protective cup,y
+338,322,li,cleats,y
+342,311,p,Helmet Safety note,n
+344,311,p,"Players should try on the gear for proper fit, especially the helmet. Most items can be picked up used via craigslist but take warning on using used helmets. Make sure they have their safety sticker intact and that the helmet fits your player. The helmet is the number one safety equipment to take seriously. Most helmets have a 3-5 year life cycle. Buyer by ware. If in doubt, buy a new one.",n
+347,311,p,For Girls Lacrosse,n
+348,311,ul,,n
+350,348,li,girls lacrosse stick,y
+352,348,li,goggles,y
+354,348,li,mouthguard +1 extra,y
+356,348,li,cleats,y
+358,348,li,gloves,y
+362,311,p,"As per the rules of girls lacrosse, there is less contact and checking involved as the boy's game. This is the reason why the girls do not wear all the padding as the boys do. However, some parents might need the peace of mind to outfit their players with a ""soft headgear"" protection.",n
+373,92,div,,n
+374,373,text,Youth Sports and,n
+378,373,strong,Southwest Washington Lacrosse,n
+379,373,text,. All rights reserved.,n
+382,373,span,Visitor #,n
+385,373,span,482,n
+387,373,br,Server in . or or Privacy Policy or or Do Not Sell My Personal Information or or CA Notice or or Terms or or User Guide or or Legal or or Get the Mobile App,n
+390,373,strong,3,n
+392,373,strong,,n
+394,392,span,17,n
+395,392,text,s,n
+415,0,div,,n
+416,415,div,,n
+418,416,button,x,n
+420,416,p,New Privacy Policy,n
+422,415,div,We have made changes to our Privacy Policy . By using this site you agree to the Privacy Policy and Terms of Service .,n
+436,0,div,Close,n

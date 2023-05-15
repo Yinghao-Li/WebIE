@@ -1,0 +1,168 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+71,0,div,,n
+74,71,div,,n
+76,74,h1,Golf Digest Equipment Hot List 2022,n
+77,74,p,,n
+79,77,span,By DanSueltz,n
+82,77,span,"January 27th, 2022",n
+83,71,div,,n
+87,83,div,,n
+89,87,p,,n
+90,89,text,"The Golf Digest Equipment Hot List 2022 was released yesterday! I consider this to be the first official start of the golf season. The team convenes in the fall a literally spends a couple weeks testing equipment from several manufacturers. This year, they considered 270 entries and awarded 138 medals.",n
+93,89,span,Here is the Link...,n
+96,87,div,Golf Digest Hot List Guide 2022,n
+99,87,h3,Use our FREE Fit Quiz to Get Specifications For YOUR Clubs!,n
+103,87,h3,Here are Links to the Top Finishers,n
+107,87,p,Drivers,n
+109,87,p,"You have to check out the Mizuno ST-Z 220, Cobra LTDx and Callaway Rogue ST MAX LS!",n
+113,87,p,Fairway Woods,n
+115,87,p,"Good options, however, the Tour Edge CS22 is better than Silver, we think.",n
+119,87,p,Hybrids,n
+121,87,p,Big differences in face height and sole design so pick the one,n
+125,87,p,See our First Cut on the Best Irons,n
+129,87,p,Players Irons,n
+133,87,p,Players-Distance Irons,n
+137,87,p,Game Improvement Irons,n
+141,87,p,Super Game Improvement Irons,n
+145,87,p,Wedges,n
+147,87,p,Looking forward to the Ping Glide 4.0 and Vokey SM9!!,n
+151,87,p,Mallet Putters,n
+153,87,p,Bettinardi INOVAI 8.0 and EvenRoll V Series have our attention!!,n
+157,87,p,Blade Putters,n
+159,87,p,Cobra King 3D Printed with SIK technology and Odyssey Tri Hot 5K are winners!,n
+162,87,p,Lead times during this COVID situation are stillweeks so don't hesitate.,n
+165,87,p,Use our FREE Fit Quiz to Get Specifications For YOUR Clubs!,n
+169,87,h3,How to Select YOUR New Clubs,n
+171,87,h4,"Aesthetics - Look, Sound and Feel",n
+172,87,p,,n
+173,172,text,"In our experience in clubfitting over the years, you have to select a club head that looks good to your eye, sounds good when you hit it in the fitting and has the feel you desire. It is pretty strange but sometimes a golfer will not be able to make solid contact with a club that supposedly matches them perfectly from a fitting perspective but the aesthetics are not right. Be sure you take a look at 3 to 5 heads to make sure that at least 3 will give you good results.",n
+175,172,strong,"It could be as simple as top line on an iron, color of a driver, finish . All of these can make a difference.",n
+177,87,h4,"Performance - Distance, Accuracy and Consistency",n
+178,87,p,,n
+179,178,text,"Now we start getting into the meat of a fitting for new clubs. The majority of the golfers we fit are looking for consistency, but whatever you do, make sure you add a little distance as well! That is not difficult in a new fitting, however, sometimes getting added distance for a customer that has been fit within the last year or so.",n
+181,178,strong,"Our goal in a fitting is to cut shot dispersion by 50% and add 5-10% more distance. The factors we look at are club length, shaft weight, shaft flex, trajectory, spin, swing weight and loft and lie.",n
+182,178,text,Our BGF and Fit Quiz systems make predictions based upon your swing characteristics for each of those parameters. We then test our golfers in a fitting with clubs that are assembled to those specifications. The results of the fitting do not lie...only when the aesthetics do not match do we have to change up the testing configuration.,n
+185,87,p,"So pick your initial choices based on aesthetics, but the final decision based on the improved performance you get!",n
+187,87,p,Dan Sueltz,n
+188,83,div,,n
+189,188,div,,n
+191,189,h4,Subscribe to Our Newsletter,n
+195,189,form,Newsletter Registration,n
+202,189,div,"Get the latest club reviews, news, and special offers!",n
+203,188,div,,n
+207,203,div,,n
+209,207,div,Don’t Know What Fit is Right For You?,n
+211,207,div,Take our 3 minute fitting quiz and we’ll find you the perfect custom club,n
+212,203,text,TAKE FITTING QUIZ,n
+213,71,section,,n
+215,213,div,Select Your Club,n
+218,213,div,,n
+223,218,div,,n
+226,223,div,Driver,n
+228,223,div,"More brands,more lofts,Left Handed options. Drivers that deliver better performance!",n
+235,218,div,,n
+238,235,div,Fairway,n
+240,235,div,From stinger lofts to forgiving heads with higher trajectory. Take your pick!,n
+247,218,div,,n
+250,247,div,Iron,n
+252,247,div,"From muscle backs to super game improvement,over a dozen manufacturers to choose from!",n
+259,218,div,,n
+262,259,div,Hybrid,n
+264,259,div,Small designs for off the tee or larger heads with higher lofts for your entire bag. Lots of choices.,n
+271,218,div,,n
+274,271,div,Wedge,n
+276,271,div,wedge shaft options!,n
+283,218,div,,n
+286,283,div,Putter,n
+288,283,div,the best and unique of course.,n
+295,218,div,,n
+298,295,div,Shafts,n
+300,295,div,Pick the head model tip and select a shaft,n
+313,71,div,,n
+315,313,div,What’s Hot Right Now,n
+316,313,div,,n
+322,316,div,Keys to Better Drives,n
+333,316,div,"Best Hybrid Golf Clubs in 2022 - Accuracy, Consistency and Distance",n
+344,316,div,OBAN Isawa GLD Shafts - Performance and Elegance,n
+351,71,div,Browse By Topic,n
+355,71,div,,n
+358,355,div,General,n
+361,355,div,Success Stories,n
+364,355,div,What's Hot,n
+367,355,div,All About Shafts,n
+370,355,div,Fitting Tips and Technology,n
+373,355,div,Drivers,n
+376,355,div,News,n
+379,355,div,Wedges,n
+382,355,div,Irons,n
+385,355,div,Hybrids,n
+388,355,div,Fairway Woods,n
+403,0,div,,n
+404,403,div,,n
+405,404,div,,n
+406,405,p,,n
+407,406,text,"14 Inverness Dr. East, Suite A120",n
+409,406,br,"Englewood, CO80112",n
+411,406,br,info@truefitclubs.com,n
+412,405,div,,n
+414,412,span,Facebook,n
+416,412,span,Instagram,n
+418,412,span,Twitter,n
+419,404,div,,n
+420,419,div,,n
+422,420,h4,Company,n
+423,420,ul,,n
+425,423,li,About Us,n
+427,423,li,Contact Us,n
+428,419,div,,n
+430,428,h4,Legal,n
+431,428,ul,,n
+433,431,li,Shipping and Delivery,n
+435,431,li,Terms and Conditions,n
+437,431,li,Privacy Policy,n
+439,431,li,Refund and Warranty Policy,n
+442,403,p,"© Copyright 2022 TrueFitClubs, LLC",n
+452,0,div,,n
+454,452,div,,n
+456,454,div,,n
+460,456,h2,Privacy Preference Center,n
+461,456,div,,n
+462,461,text,"When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.",n
+464,461,br,More information,n
+468,456,div,Allow All,n
+469,456,section,,n
+471,469,h3,Manage Consent Preferences,n
+472,469,div,,n
+474,472,h4,Performance Cookies,n
+481,472,div,Performance Cookies,n
+483,472,p,"These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.",n
+484,469,div,,n
+486,484,h4,Strictly Necessary Cookies,n
+488,484,div,Always Active,n
+495,484,div,Strictly Necessary Cookies,n
+497,484,p,"These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.",n
+498,469,div,,n
+500,498,h4,Targeting Cookies,n
+507,498,div,Targeting Cookies,n
+509,498,p,"These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.",n
+515,454,div,,n
+518,515,p,Back,n
+521,515,h3,Performance Cookies,n
+522,515,div,,n
+525,522,label,Vendor Search,n
+530,522,div,,n
+534,530,p,Clear Filters,n
+541,530,div,Information storage and access,n
+543,530,button,Apply,n
+545,515,div,,n
+546,545,div,,n
+548,546,span,Consent,n
+550,546,span,Leg.Interest,n
+553,545,p,All Consent Allowed,n
+568,545,div,All Consent Allowed,n
+580,452,div,,n
+585,580,p,"By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.",n
+587,580,div,,n
+589,587,button,Cookies Settings,n
+591,587,button,Accept All Cookies,n

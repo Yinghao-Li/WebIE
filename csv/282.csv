@@ -1,0 +1,922 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+9,3,h1,Fencing,n
+10,3,div,,n
+12,10,div,"From Wikipedia, the free encyclopedia",n
+16,10,text,Jump to navigation Jump to search,n
+18,10,div,,n
+19,18,div,,n
+21,19,div,armed combat sport,n
+23,19,div,"This article is about the sport. For the computing process, see Fencing . For the act of building a fence, see Fence . For other uses, see Fence .",n
+34,19,table,,n
+38,34,div,"the Challenge Réseau Ferré de France–Trophée Monal 2012, épée world cup tournament in Paris .",n
+41,34,tr,,n
+43,41,th,Highest governing body,n
+46,41,td,FIE,n
+47,34,tr,,n
+49,47,th,First played,n
+51,47,td,Between the 17th and 19th centuries Europe,n
+54,34,tr,Characteristics,n
+57,34,tr,Contact,n
+60,34,tr,,n
+62,60,th,Team members,n
+64,60,td,Singles or Team Relay,n
+65,34,tr,,n
+67,65,th,Mixed-sex,n
+69,65,td,"Yes, separate",n
+70,34,tr,,n
+72,70,th,Type,n
+74,70,td,indoor,n
+75,34,tr,,n
+77,75,th,Equipment,n
+79,75,td,"Épée , Foil , Sabre , Body cord , Lamé , Grip",n
+90,34,tr,,n
+92,90,th,Venue,n
+94,90,td,Piste,n
+95,34,tr,,n
+97,95,th,Glossary,n
+99,95,td,fencing,n
+102,34,tr,Presence,n
+103,34,tr,,n
+105,103,th,Country or region,n
+107,103,td,Worldwide,n
+108,34,tr,,n
+110,108,th,Olympic,n
+112,108,td,Summer Olympic programme since 1896,n
+113,34,tr,,n
+115,113,th,Paralympic,n
+117,113,td,Summer Paralympic programme since 1960,n
+123,19,table,,n
+126,123,tr,,n
+128,126,th,Also known as,n
+130,126,td,"Épée Fencing, Foil Fencing, Sabre Fencing",n
+131,123,tr,,n
+133,131,th,Focus,n
+135,131,td,Weaponry,n
+138,123,tr,Hardness,n
+141,123,tr,,n
+143,141,th,Olympic sport,n
+145,141,td,Present since inaugural 1896 Olympics,n
+147,123,tr,,n
+149,147,th,Official website,n
+150,147,td,,n
+151,150,text,www.fie.ch,n
+153,150,br,www.fie.org,n
+154,19,p,,n
+155,154,text,Fencing,n
+158,154,text,"is a group of three related combat sports . The three disciplines in modern fencing are the foil , the épée , and the sabre ; winning points are made through the weapon's contact with an opponent. A fourth discipline, singlestick , appeared in the 1904 Olympics but was dropped after that, and is not a part of modern fencing. Fencing was one of the first sports to be played in the Olympics. Based on the traditional skills of swordsmanship , the modern sport arose at the end of the 19th century, with the Italian school having modified the historical European martial art of classical fencing , and the French school later refining the Italian system. There are three forms of modern fencing, each of which uses a different kind of weapon and has different rules; thus the sport itself is divided into three competitive scenes: foil, épée, and sabre. Most competitive fencers choose to specialize in one weapon only.",n
+182,19,p,"Competitive fencing is one of the five activities which have been featured in every modern Olympic Games , the other four being athletics , cycling , swimming , and gymnastics .",n
+193,19,div,,n
+197,193,h2,Contents,n
+200,193,ul,,n
+201,200,li,,n
+203,201,span,1,n
+205,201,span,Competitive fencing,n
+206,201,ul,,n
+207,206,li,,n
+209,207,span,1,n
+211,207,span,Governing body,n
+212,206,li,,n
+214,212,span,2,n
+216,212,span,Rules,n
+217,200,li,,n
+219,217,span,2,n
+221,217,span,History,n
+223,217,li,,n
+225,223,span,1,n
+227,223,span,Development into a sport,n
+228,200,li,,n
+230,228,span,3,n
+232,228,span,Weapons,n
+233,228,ul,,n
+234,233,li,,n
+236,234,span,1,n
+238,234,span,Foil,y
+239,233,li,,n
+241,239,span,2,n
+243,239,span,Épée,y
+244,233,li,,n
+246,244,span,3,n
+248,244,span,Sabre,y
+249,200,li,,n
+251,249,span,4,n
+253,249,span,Equipment,n
+254,249,ul,,n
+255,254,li,,n
+257,255,span,1,n
+259,255,span,Protective clothing,y
+260,254,li,,n
+262,260,span,2,n
+264,260,span,Grips,y
+265,254,li,,n
+267,265,span,3,n
+269,265,span,Electric equipment,y
+270,200,li,,n
+272,270,span,5,n
+274,270,span,Techniques,n
+275,270,ul,,n
+276,275,li,,n
+278,276,span,1,n
+280,276,span,Offensive,n
+281,275,li,,n
+283,281,span,2,n
+285,281,span,Defensive,n
+286,200,li,,n
+288,286,span,6,n
+290,286,span,Universities and schools,n
+291,200,li,,n
+293,291,span,7,n
+295,291,span,Other variants,n
+296,200,li,,n
+298,296,span,8,n
+300,296,span,In popular culture,n
+301,200,li,,n
+303,301,span,9,n
+305,301,span,See also,n
+306,200,li,,n
+308,306,span,10,n
+310,306,span,Notes,n
+311,200,li,,n
+313,311,span,11,n
+315,311,span,References,n
+316,200,li,,n
+318,316,span,12,n
+320,316,span,External links,n
+323,19,h2,Competitive fencing,n
+326,19,h3,Governing body,n
+329,19,div,Further information,n
+332,19,p,"Fencing is governed by Fédération Internationale d'Escrime . Today, its head office is in Lausanne , Switzerland. The FIE is composed of 145 national federations, each of which is recognised by its state Olympic Committee as the sole representative of Olympic-style fencing in that country.",n
+341,19,h3,Rules,n
+344,19,div,Main article,n
+346,19,p,,n
+347,346,text,The FIE maintains the current rules,n
+350,346,text,"used by FIE sanctioned international events, including world cups, world championships and the Olympic Games. The FIE handles proposals to change the rules the first year after an Olympic year in the annual congress. The US Fencing Association has slightly different rules, but usually adheres to FIE standards.",n
+353,19,h2,History,n
+358,19,div,"Fencing School at Leiden University , Netherlands 1610",n
+363,19,div,Main article,n
+367,19,div,See also,n
+369,19,p,,n
+370,369,text,Fencing traces its roots to the development of swordsmanship for duels and self defense . Fencing is believed to have originated in Spain; some of the most significant books on fencing were written by Spanish fencers. Treatise on Arms,n
+380,369,text,was written by Diego de Valera between 1458 and 1471 and is one of the oldest surviving manuals on western fencing,n
+383,369,text,"shortly before dueling came under official ban by the Catholic Monarchs. In conquest, the Spanish forces carried fencing around the world, particularly to southern Italy, one of the major areas of strife between both nations.",n
+388,369,text,Windsor written sometime prior to 1602.,n
+395,19,p,,n
+396,395,text,"The mechanics of modern fencing originated in the 18th century in an Italian school of fencing of the Renaissance, and under their influence, were improved by the French school of fencing.",n
+401,395,text,fencing stagnated and was replaced by the Italian and French schools.,n
+404,19,h3,Development into a sport,n
+405,19,p,,n
+406,405,text,"The shift towards fencing as a sport rather than as military training happened from the mid-18th century, and was led by Domenico Angelo , who established a fencing academy, Angelo's School of Arms, in Carlisle House , Soho , London in 1763.",n
+417,405,text,"There, he taught the aristocracy the fashionable art of swordsmanship . His school was run by three generations of his family and dominated the art of European fencing for almost a century.",n
+428,19,div,1763 fencing print from Domenico Angelo 's instruction book. Angelo was instrumental in turning fencing into an athletic sport.,n
+432,19,p,"He established the essential rules of posture and footwork that still govern modern sport fencing, although his attacking and parrying methods were still much different from current practice. Although he intended to prepare his students for real combat, he was the first fencing master to emphasize the health and sporting benefits of fencing more than its use as a killing art, particularly in his influential book L'École des armes , published in 1763.",n
+448,19,p,"Basic conventions were collated and set down during the 1880s by the French fencing master Camille Prévost. It was during this time that many officially recognised fencing associations began to appear in different parts of the world, such as the Amateur Fencers League of America was founded in 1891, the Amateur Fencing Association of Great Britain in 1902, and the Fédération Nationale des Sociétés d’Escrime et Salles d’Armes de France in 1906.",n
+453,19,p,,n
+454,453,text,"The first regularized fencing competition was held at the inaugural Grand Military Tournament and Assault at Arms in 1880, held at the Royal Agricultural Hall , in Islington in June. The Tournament featured a series of competitions between army officers and soldiers. Each bout was fought for five hits and the foils were pointed with black to aid the judges.",n
+465,453,text,fencing regulations in 1896.,n
+469,19,p,Fencing was part of the Olympic Games in the summer of 1896 . Sabre events have been held at every Summer Olympics ; foil events have been held at every Summer Olympics except 1908; épée events have been held at every Summer Olympics except in the summer of 1896 because of unknown reasons.,n
+478,19,p,,n
+479,478,text,"Starting with épée in 1933, side judges were replaced by the Laurent-Pagan electrical scoring apparatus,",n
+484,478,text,"with an audible tone and a red or green light indicating when a touch landed. Foil was automated in 1956, sabre in 1988. The scoring box reduced the bias in judging, and permitted more accurate scoring of faster actions, lighter touches, and more touches to the back and flank than before.",n
+493,19,h2,Weapons,n
+495,19,p,There are three weapons in modern fencing,n
+498,19,h3,Foil,y
+503,19,div,Valid foil targets,n
+506,19,div,Main article,n
+509,19,p,"The foil is a light thrusting weapon with a maximum weight of 500 grams. The foil targets the torso, but not the arms or legs. The foil has a small circular hand guard that serves to protect the hand from direct stabs. As the hand is not a valid target in foil, this is primarily for safety. Touches are scored only with the tip; hits with the side of the blade do not register on the electronic scoring apparatus . Touches that land outside the target area stop the action, but are not scored. Only a single touch can be awarded to either fencer at the end of a phrase. If both fencers land touches within a close enough interval of milliseconds to register two lights on the machine, the referee uses the rules of ""right of way"" to determine which fencer is awarded the touch, or if an off-target hit has priority over a valid hit, in which case no touch is awarded. If the referee is unable to determine which fencer has right of way, no touch is awarded.",n
+517,19,h3,Épée,y
+522,19,div,Valid épée targets,n
+525,19,div,Main article,n
+528,19,p,"The épée is a thrusting weapon like the foil, but heavier, with a maximum total weight of 775 grams. In épée, the entire body is a valid target. The hand guard on the épée is a large circle that extends towards the pommel, effectively covering the hand, which is a valid target in épée. Like foil, all hits must be with the tip and not the sides of the blade. Hits with the side of the blade do not register on the electronic scoring apparatus . As the entire body is legal target, there is no concept of an off-target touch, except if the fencer accidentally strikes the floor, setting off the light and tone on the scoring apparatus. Unlike foil and sabre, épée does not use ""right of way"", simultaneous touches to both fencers, known as “double touches.” However, if the score is tied in a match at the last point and a double touch is scored, the point is null and void.",n
+531,19,h3,Sabre,y
+536,19,div,Valid sabre targets,n
+539,19,div,Main article,n
+542,19,p,"The sabre is a light cutting and thrusting weapon that targets the entire body above the waist, except the weapon hand. Sabre is the newest weapon to be used. Like the foil, the maximum legal weight of a sabre is 500 grams. The hand guard on the sabre extends from hilt to the point at which the blade connects to the pommel. This guard is generally turned outwards during sport to protect the sword arm from touches. Hits with the entire blade or point are valid. As in foil, touches that land outside the target area are not scored. However, unlike foil, these off-target touches do not stop the action, and the fencing continues. In the case of both fencers landing a scoring touch, the referee determines which fencer receives the point for the action, again through the use of ""right of way"".",n
+547,19,h2,Equipment,n
+550,19,h3,Protective clothing,y
+552,19,p,"Most personal protective equipment for fencing is made of tough cotton or nylon . Kevlar was added to top level uniform pieces following the death of Vladimir Smirnov at the 1982 World Championships in Rome . However, Kevlar is degraded by both ultraviolet light and chlorine , which can complicate cleaning.",n
+569,19,p,,n
+570,569,text,"Other ballistic fabrics, such as Dyneema , have been developed that resist puncture , and which do not degrade the way that Kevlar does. FIE rules state that tournament wear must be made of fabric that resists a force of 800 newtons (180 lb",n
+577,569,text,", and that the mask bib must resist twice that amount.",n
+579,19,p,The complete fencing kit includes,n
+580,19,dl,,n
+582,580,dt,Jacket,y
+583,580,dd,,n
+584,583,text,"The jacket is form-fitting, and has a strap that passes between the legs. In sabre fencing, jackets are cut along the waist.",n
+587,583,sup,,n
+588,587,text,[,n
+590,587,span,clarification needed,n
+591,587,text,],n
+592,583,text,"A small gorget of folded fabric is sewn in around the collar to prevent an opponent's blade from slipping under the mask and along the jacket upwards towards the neck. Fencing instructors may wear a heavier jacket, such as one reinforced by plastic foam, to deflect the frequent hits an instructor endures.",n
+596,580,dt,Plastron,y
+598,580,dd,"A plastron is an underarm protector worn underneath the jacket. It provides double protection on the side of the sword arm and upper arm. There is no seam under the arm, which would line up with the jacket seam and provide a weak spot.",n
+602,580,dt,Glove,y
+604,580,dd,The sword hand is protected by a glove with a gauntlet that prevents blades from going up the sleeve and causing injury. The glove also improves grip.,n
+608,580,dt,Breeches,y
+610,580,dd,Breeches or knickers are short trousers that end just below the knee. The breeches are required to have 10 cm of overlap with the jacket. Most are equipped with suspenders .,n
+615,580,dt,Socks,y
+617,580,dd,the thigh.,n
+619,580,dt,Shoes,y
+621,580,dd,"Fencing shoes have flat soles, and are reinforced on the inside for the back foot, and in the heel for the front foot. The reinforcement prevents wear from lunging.",n
+623,580,dt,Mask,y
+624,580,dd,,n
+625,624,text,The fencing mask has a bib that protects the neck. The mask should support 12 kilograms on the metal mesh and 350 newtons (79 lb,n
+628,624,text,") of penetration resistance on the bib. FIE regulations dictate that masks must withstand 25 kilograms on the mesh and 1,600 newtons (360 lb",n
+631,624,text,") on the bib. Some modern masks have a see-through visor in the front of the mask. These have been used at high level competitions , however, they are currently banned in foil and épée by the FIE, following a 2009 incident in which a visor was pierced during the European Junior Championship competition. There are foil, sabre, and three-weapon masks.",n
+633,580,dt,Chest protector,y
+635,580,dd,"A chest protector, made of plastic, is worn by female fencers and, sometimes, by males. Fencing instructors also wear them, as they are hit far more often during training than their students. In foil fencing, the hard surface of a chest protector decreases the likelihood that a hit registers.",n
+637,580,dt,Lamé,y
+639,580,dd,"A lamé is a layer of electrically conductive material worn over the fencing jacket in foil and sabre fencing. The lamé covers the entire target area, and makes it easier to determine whether a hit fell within the target area. In sabre fencing, the lamé's sleeves end in a straight line across the wrist; in foil fencing, the lamé is sleeveless. A body cord is necessary to register scoring. It attaches to the weapon and runs inside the jacket sleeve, then down the back and out to the scoring box. In sabre and foil fencing, the body cord connects to the lamé in order to create a circuit to the scoring box.",n
+643,580,dt,Sleeve,y
+645,580,dd,"An instructor or master may wear a protective sleeve or a leg leather to protect their fencing arm or leg, respectively.",n
+646,19,ul,,n
+648,646,li,protective clothing,y
+655,646,li,Jacket,y
+662,646,li,Glove,y
+669,646,li,Sous-Plastron,y
+675,646,li,,n
+676,675,text,Breeches or,y
+678,675,wbr,Knickers,y
+685,646,li,Mask,y
+692,646,li,Chest protector,y
+694,19,p,"Traditionally, the fencer's uniform is white, and an instructor's uniform is black. This may be due to the occasional pre-electric practice of covering the point of the weapon in dye, soot, or colored chalk in order to make it easier for the referee to determine the placing of the touches. As this is no longer a factor in the electric era, the FIE rules have been relaxed to allow colored uniforms . The guidelines also limit the permitted size and positioning of sponsorship logos.",n
+697,19,h3,Grips,y
+700,19,div,Main article,n
+703,19,p,Some pistol grips used by foil and épée fencers,n
+704,19,ul,,n
+711,704,li,Visconti grip,y
+718,704,li,Belgian grip,y
+725,704,li,Russian grip,y
+732,704,li,Hungarian grip,y
+735,19,h3,Electric equipment,n
+737,19,p,"A set of electric fencing equipment is required to participate in electric fencing. Electric equipment in fencing varies depending on the weapon with which it is used in accordance. The main component of a set of electric equipment is the body cord . The body cord serves as the connection between a fencer and a reel of wire that is part of a system for electrically detecting that the weapon has touched the opponent. There are two types: one for épée , and one for foil and sabre .",n
+749,19,p,"Épée body cords consist of two sets of three prongs each connected by a wire. One set plugs into the fencer's weapon, with the other connecting to the reel. Foil and sabre body cords have only two prongs on the weapon side, with the third wire connecting instead to the fencer's lamé. The need in foil and sabre to distinguish between on and off-target touches requires a wired connection to the valid target area.",n
+751,19,p,"A body cord consists of three wires known as the A, B, and C lines. At the reel connector The B pin is in the middle, the A pin is 1.5 cm to one side of B, and the C pin is 2 cm to the other side of B. This asymmetrical arrangement ensures that the cord cannot be plugged in the wrong way around.",n
+753,19,p,"In foil, the A line is connected to the lamé and the B line runs up a wire to the tip of the weapon. The B line is normally connected to the C line through the tip. When the tip is depressed, the circuit is broken and one of three things can happen:",n
+758,19,div,"A foil or sabre body cord. Left to right: alligator clip, connection to reel, connection to weapon.",n
+759,19,ul,,n
+761,759,li,The tip is touching the opponent's lamé,n
+765,759,li,"The tip is touching the opponent's weapon or the grounded strip: nothing, as the current is still flowing to the C line.",n
+767,759,li,the above,n
+769,19,p,"In Épée, the A and B lines run up separate wires to the tip . When the tip is depressed, it connects the A and B lines, resulting in a valid touch. However, if the tip is touching the opponents weapon or the grounded strip, nothing happens when it is depressed, as the current is redirected to the C line. Grounded strips are particularly important in Épée, as without one, a touch to the floor registers as a valid touch .",n
+771,19,p,"In Sabre, similarly to Foil, the A line is connected to the lamé, but both the B and C lines are connected to the body of the weapon. Any contact between the one's B or C line and the opponent's A line results in a valid touch. There is no need for grounded strips in Sabre, as hitting something other than the opponent's lame does nothing.",n
+776,19,div,A foil lamé conductive vest,n
+778,19,p,electric equipment is needed.,n
+780,19,p,foil electric equipment includes,n
+781,19,ul,,n
+783,781,li,"An electric body cord , which runs under the fencer's jacket on his or her dominant side.",y
+787,781,li,An electric blade.,y
+789,781,li,A conductive lamé or electric vest.,y
+791,781,li,A conductive bib .,y
+793,781,li,"An electric mask cord, connecting the conductive bib and the lamé.",y
+795,19,p,"The electric equipment of sabre is very similar to that of foil. In addition, equipment used in sabre includes:",n
+796,19,ul,,n
+798,796,li,A larger conductive lame.,y
+800,796,li,An electric sabre.,y
+802,796,li,A completely conductive mask.,y
+804,796,li,A conductive glove or overlay.,n
+806,19,p,"Épée fencers lack a lamé, conductive bib, and head cord due to their target area. Also, their body cords are constructed differently as described above. However, they possess all of the other components of a foil fencer's equipment.",n
+809,19,h2,Techniques,n
+812,19,div,See also,n
+815,19,p,"Techniques or movements in fencing can be divided into two categories: offensive and defensive. Some techniques can fall into both categories . Certain techniques are used offensively, with the purpose of landing a hit on your opponent while holding the right of way . Others are used defensively, to protect against a hit or obtain the right of way.",n
+821,19,p,"The attacks and defences may be performed in countless combinations of feet and hand actions. For example, fencer A attacks the arm of fencer B, drawing a high outside parry; fencer B then follows the parry with a high line riposte. Fencer A, expecting that, then makes his own parry by pivoting his blade under fencer B's weapon , putting fencer B's tip off target and fencer A now scoring against the low line by angulating the hand upwards.",n
+823,19,p,"Whenever a point is scored, the fencers will go back to their starting mark. The fight will start again after the following commands have been given by the referee : ""En garde"" , ""Êtes-vous prêts ?"" , ""Allez"" .",n
+826,19,h3,Offensive,n
+827,19,ul,,n
+829,827,li,Attack,n
+832,827,li,Riposte,n
+834,827,li,Feint,n
+837,827,li,Lunge,n
+840,827,li,Beat attack,n
+842,827,li,Disengage,n
+844,827,li,Compound attack,n
+846,827,li,Attack,n
+848,827,li,Flick,n
+850,827,li,Flèche,n
+852,827,li,Flunge,n
+855,19,h3,Defensive,n
+856,19,ul,,n
+858,856,li,Parry,n
+861,856,li,Circle parry,n
+863,856,li,Counter attack,n
+865,856,li,Point-in-line,n
+868,19,h2,Universities and schools,n
+871,19,div,See also,n
+875,19,p,,n
+876,875,text,University students compete internationally at the World University Games . The United States holds two national level university tournaments including the NCAA championship and the USACFC National Championships,n
+885,875,text,tournaments in the US and the BUCS fencing championships in the United Kingdom.,n
+888,19,p,,n
+889,888,text,National fencing organisations have set up programmes to encourage more students to fence. Examples include the Regional Youth Circuit program,n
+892,888,text,in the US and the Leon Paul Youth Development series in the UK.,n
+893,19,p,,n
+894,893,text,"In recent years, attempts have been made to introduce fencing to a wider and younger audience, by using foam and plastic swords, which require much less protective equipment. This makes it much less expensive to provide classes, and thus easier to take fencing to a wider range of schools than traditionally has been the case. There is even a competition series in Scotland – the Plastic-and-Foam Fencing FunLeague",n
+897,893,text,– specifically,n
+898,19,p,,n
+899,898,text,"The UK hosts two national competitions in which schools compete against each other directly: the Public Schools Fencing Championship, a competition only open to Independent Schools,",n
+904,898,text,"and the Scottish Secondary Schools Championships, open to all secondary schools in Scotland. It contains both teams and individual events and is highly anticipated. Schools organise matches directly against one another and school age pupils can compete individually in the British Youth Championships.",n
+906,19,p,"Many universities in Ontario, Canada have fencing teams that participate in an annual inter-university competition called the OUA Finals.",n
+909,19,h2,Other variants,n
+910,19,p,,n
+911,910,text,"Other variants include wheelchair fencing for those with disabilities, chair fencing, one-hit épée and the various types of non-Olympic competitive fencing.",n
+920,910,text,"Chair fencing is similar to wheelchair fencing, but for the able bodied. The opponents set up opposing chairs and fence while seated; all the usual rules of fencing are applied. An example of the latter is the American Fencing League : the format of competitions is different and the right of way rules are interpreted in a different way. In a number of countries, school and university matches deviate slightly from the FIE format. A variant of the sport using toy lightsabers earned national attention when ESPN2 acquired the rights to a selection of matches and included it as part of its ""ESPN8: The Ocho"" programming block in August 2018.",n
+933,19,h2,In popular culture,n
+934,19,p,,n
+935,934,text,"One of the most notable films related to fencing is the 2015 Finnish-Estonian-German film The Fencer , directed by Klaus Härö , which is loosely based on the life of Endel Nelis , an accomplished Estonian fencer and coach .",n
+946,934,text,The film was nominated,n
+953,19,h2,See also,n
+959,19,li,Martial arts portal,n
+960,19,ul,,n
+964,960,li,fencing,n
+968,960,li,Kendo,n
+971,19,h2,Notes,n
+973,19,div,,n
+988,973,li,"""INTERNATIONAL FENCING FEDERATION"" . fie.org .",n
+999,973,li,"""INTERNATIONAL FENCING FEDERATION"" . fie.ch .",n
+1010,973,li,"Diego de Valera. Tratado delos rieptos desafios que entre los caualleros hijos dalgo se acostubran hazer segun las costubres de España, Francia Ynglaterra: enel qual se contiene quales y quantos son los casos de traycion de menos valer las enseñas cotas darmas . Alfonso de Orta. pp. 46–.",n
+1019,973,li,,n
+1020,1019,text,"""I.33 Medieval German Sword and Buckler Manual"" . ARMA",n
+1025,1019,span,-15,n
+1032,973,li,Fencing . Hcs.harvard.edu. Retrieved on-16.,n
+1038,973,li,Historia de la Esgrima Archived 2012-11-21 at the Wayback Machine . Educar.org . Retrieved on 2012-05-16.,n
+1048,973,li,,n
+1049,1048,text,"""1500s - Fencing history - About fencing - FIE - International Fencing Federation"" . fie.org . Archived from the original on 2018-11-17",n
+1058,1048,span,-28,n
+1067,973,li,"Windsor - Royal Shakespeare Company"" . www.rsc.org.uk .",n
+1076,973,li,Fencing Online Archived 2011-09-29 at the Wayback Machine . Fencing.net. Retrieved on 2012-05-16.,n
+1085,973,li,A History of Fencing Archived 2012-09-06 at the Wayback Machine . Library.thinkquest.org. Retrieved on 2012-05-16.,n
+1094,973,li,"F.H.W. Sheppard, ed. Survey of London volume 33 The Parish of St. Anne, Soho , London County Council , London: University of London, 1966, pp. 143–48, online at British History Online .",n
+1103,973,li,,n
+1104,1103,span,,n
+1105,1104,text,^,n
+1107,1104,span,Jump up to,n
+1109,1104,sup,a,n
+1111,1104,sup,b,n
+1114,1103,span,,n
+1115,1114,text,the Sword . Greenwood Publishing Group. pp. 20–23. ISBN,n
+1120,1114,bdi,9780313278969,n
+1138,973,li,"Malcolm Fare. ""THE DEVELOPMENT OF FENCING WEAPONS"" .",n
+1146,973,li,"Alaux, Michel. Modern Fencing",n
+1155,973,li,"Freudenrich, Craig . ""How Fencing Equipment Works"" . How Stuff Works .",n
+1166,973,li,,n
+1167,1166,text,"Bhutta, Omar . ""USA Fencing Rules""",n
+1171,1166,text,. United States Fencing Association .,n
+1179,973,li,USACFC .in 's USACFC. Retrieved on-16.,n
+1185,973,li,"US Fencing Youth Development Website, Regional Youth Circuit Archived-12 at the Wayback Machine .",n
+1195,973,li,The Plastic-and-Foam Fencing FunLeague website.,n
+1202,973,li,Home,n
+1209,973,li,,n
+1210,1209,text,"""U.S. Paralympics | Sports | Wheelchair Fencing"" . Team USA",n
+1216,1209,span,-21,n
+1224,973,li,,n
+1225,1224,text,"Steinberg, Brian . ""Bold strategy, Cotton",n
+1229,1224,span,,n
+1232,1229,span,"August 8,",n
+1233,1229,text,2018,n
+1236,1224,q,ESPN had to acquire the rights to show two of the most random events on the schedule and high-level light-saber dueling.,n
+1243,973,li,,n
+1244,1243,text,"Reiljan, Kaire . """,n
+1247,1243,text,"""Vehkleja"". Kaks lugu, elu ja tõde filmis"" . Lääne Elu",n
+1252,1243,span,-09,n
+1261,973,li,"""The Fencer – Golden Globes"" .",n
+1266,19,h2,References,n
+1267,19,ul,,n
+1268,1267,li,,n
+1269,1268,text,the Sword . Burbank: Multi-Media.,n
+1273,1268,text,ISBN-,n
+1276,1267,li,"British Fencing . "" FIE Competition Rules "". Official document. Retrieved 16 December 2008.",n
+1279,1267,li,,n
+1280,1279,text,Fencing . Indianapolis: Masters Press.,n
+1284,1279,text,ISBN-.,n
+1287,1267,li,,n
+1288,1287,text,Fencing,n
+1292,1287,text,ISBN-.,n
+1295,1267,li,,n
+1296,1295,text,"Gaugler, William M. . ""The Science of Fencing: A Comprehensive Training Manual for Master and Student: Including Lesson Plans for Foil, Sabre and Epee Instruction"". Laureate Press.",n
+1298,1295,text,ISBN 1884528309 .,n
+1302,1267,li,United States Fencing Association . United States Fencing Association Rules,n
+1305,1267,li,,n
+1306,1305,text,"Vass, Imre . ""Epee Fencing",n
+1308,1305,text,ISBN 0978902270 .,n
+1313,19,h2,External links,n
+1319,19,table,"Look up fencing in Wiktionary, the free dictionary.",n
+1326,19,table,,n
+1327,1326,text,Wikimedia Commons has media related to,n
+1329,1326,span,fencing,n
+1331,19,ul,,n
+1333,1331,li,FIE Statutes,n
+1335,1331,li,Fencing at Curlie,n
+1339,1331,li,Fencing FAQ from rec.sport.fencing,n
+1342,1331,li,basic fencing moves from MIT OpenCourseWare as taught in Spring 2007,n
+1347,19,div,,n
+1364,1347,div,Fencing,n
+1368,1347,ul,,n
+1370,1368,li,fencing,n
+1374,1368,li,Fédération Internationale d'Escrime,n
+1375,1347,tr,,n
+1377,1375,th,Weapons,y
+1380,1375,ul,,n
+1382,1380,li,Épée,y
+1384,1380,li,Foil,y
+1386,1380,li,Sabre,y
+1389,1347,tr,,n
+1391,1389,th,Main competitions,n
+1394,1389,ul,,n
+1396,1394,li,Fencing at the Summer Olympics,n
+1398,1394,li,World Fencing Championships,n
+1400,1394,li,Fencing World Cup,n
+1401,1347,tr,,n
+1403,1401,th,Modern fencing topics,n
+1406,1401,ul,,n
+1408,1406,li,Olympic fencing,n
+1410,1406,li,Collegiate fencing,n
+1412,1406,li,High school fencing,n
+1414,1406,li,Wheelchair fencing,n
+1415,1347,tr,,n
+1417,1415,th,Footwork or Bladework,n
+1422,1415,ul,,n
+1424,1422,li,Parry,n
+1426,1422,li,Lunge,n
+1428,1422,li,Feint,n
+1430,1422,li,Attack,n
+1432,1422,li,Remise,n
+1434,1422,li,Riposte,n
+1436,1422,li,Ward,n
+1438,1422,li,Flèche,n
+1440,1422,li,Flick,n
+1442,1422,li,Prise de fer,n
+1444,1422,li,Displacement,n
+1446,1422,li,Priority,n
+1447,1347,tr,,n
+1449,1447,th,Equipment,y
+1454,1447,ul,,n
+1456,1454,li,Body cord,y
+1458,1454,li,Piste,y
+1460,1454,li,Lamé,y
+1462,1454,li,Forte,y
+1464,1454,li,Grip,y
+1465,1347,tr,,n
+1467,1465,th,Related articles,n
+1470,1465,ul,,n
+1476,1470,li,Knife fight,n
+1478,1470,li,Half-sword,n
+1482,1470,li,Dueling scar,n
+1484,1470,li,Martial arts manual,n
+1488,1347,ul,,n
+1490,1488,li,Category,n
+1492,1488,li,Commons category,n
+1494,1488,li,Outline,n
+1499,19,div,,n
+1517,1499,div,Summer Olympic sports,n
+1518,1499,tr,,n
+1520,1518,th,Core program,n
+1523,1518,ul,,n
+1524,1523,li,,n
+1525,1524,text,Aquatics,n
+1526,1524,ul,,n
+1528,1526,li,Artistic,n
+1530,1526,li,Diving,n
+1532,1526,li,Marathon Swimming,n
+1534,1526,li,Swimming,n
+1536,1526,li,Water polo,n
+1538,1523,li,Archery,n
+1540,1523,li,Athletics,n
+1542,1523,li,Badminton,n
+1543,1523,li,,n
+1544,1543,text,Basketball,n
+1547,1543,li,3x3,n
+1549,1523,li,Boxing,n
+1550,1523,li,,n
+1551,1550,text,Canoeing,n
+1552,1550,ul,,n
+1554,1552,li,Canoe slalom,n
+1556,1552,li,Canoe sprint,n
+1557,1523,li,,n
+1558,1557,text,Cycling,n
+1559,1557,ul,,n
+1561,1559,li,BMX racing,n
+1563,1559,li,Freestyle BMX,n
+1565,1559,li,Mountain biking,n
+1567,1559,li,Road cycling,n
+1569,1559,li,Track cycling,n
+1570,1523,li,,n
+1571,1570,text,Equestrian,n
+1572,1570,ul,,n
+1574,1572,li,Dressage,n
+1576,1572,li,Eventing,n
+1578,1572,li,Show jumping,n
+1582,1523,li,Field hockey,n
+1584,1523,li,Football,n
+1586,1523,li,Golf,n
+1587,1523,li,,n
+1588,1587,text,Gymnastics,n
+1589,1587,ul,,n
+1591,1589,li,Artistic gymnastics,n
+1593,1589,li,Rhythmic gymnastics,n
+1595,1589,li,Trampolining,n
+1597,1523,li,Handball,n
+1599,1523,li,Judo,n
+1603,1523,li,Rowing,n
+1605,1523,li,Rugby sevens,n
+1607,1523,li,Sailing,n
+1609,1523,li,Shooting,n
+1611,1523,li,Table tennis,n
+1613,1523,li,Taekwondo,n
+1615,1523,li,Tennis,n
+1617,1523,li,Triathlon,n
+1618,1523,li,,n
+1619,1618,text,Volleyball,n
+1622,1618,li,Beach volleyball,n
+1624,1523,li,Weightlifting,n
+1625,1523,li,,n
+1626,1625,text,Wrestling,n
+1627,1625,ul,,n
+1629,1627,li,Freestyle wrestling,n
+1631,1627,li,Greco-Roman wrestling,n
+1632,1499,tr,,n
+1634,1632,th,Additions,n
+1637,1632,ul,,n
+1639,1637,li,Breaking,n
+1641,1637,li,Baseball or Softball,n
+1645,1637,li,Karate,n
+1647,1637,li,Skateboarding,n
+1649,1637,li,Sport climbing,n
+1651,1637,li,Surfing,n
+1657,1499,li,See also,n
+1665,19,div,,n
+1683,1665,div,the International Fencing Federation,n
+1686,1665,tr,,n
+1688,1686,th,Africa,n
+1691,1686,ul,,n
+1693,1691,li,ALG,n
+1695,1691,li,ANG,n
+1697,1691,li,BEN,n
+1699,1691,li,BOT,n
+1701,1691,li,BUR,n
+1703,1691,li,CMR,n
+1705,1691,li,CPV,n
+1707,1691,li,CGO,n
+1709,1691,li,CIV,n
+1711,1691,li,COD,n
+1713,1691,li,EGY,n
+1715,1691,li,GEQ,n
+1717,1691,li,GAB,n
+1719,1691,li,GHA,n
+1721,1691,li,GUI,n
+1723,1691,li,KEN,n
+1725,1691,li,LBA,n
+1727,1691,li,MAD,n
+1729,1691,li,MLI,n
+1731,1691,li,MTN,n
+1733,1691,li,MAR,n
+1735,1691,li,NAM,n
+1737,1691,li,MRI,n
+1739,1691,li,NIG,n
+1741,1691,li,NGR,n
+1743,1691,li,RWA,n
+1745,1691,li,SEN,n
+1747,1691,li,SLE,n
+1749,1691,li,SOM,n
+1751,1691,li,RSA,n
+1753,1691,li,TOG,n
+1755,1691,li,TUN,n
+1757,1691,li,UGA,n
+1760,1665,tr,,n
+1762,1760,th,America,n
+1765,1760,ul,,n
+1767,1765,li,ANT,n
+1769,1765,li,ARG,n
+1771,1765,li,ARU,n
+1773,1765,li,BAH,n
+1775,1765,li,BAR,n
+1777,1765,li,BIZ,n
+1779,1765,li,BER,n
+1781,1765,li,BOL,n
+1783,1765,li,BRA,n
+1785,1765,li,CAN,n
+1787,1765,li,CHI,n
+1789,1765,li,COL,n
+1791,1765,li,CRC,n
+1793,1765,li,CUB,n
+1795,1765,li,DMA,n
+1797,1765,li,DOM,n
+1799,1765,li,ECU,n
+1801,1765,li,ESA,n
+1803,1765,li,GUA,n
+1805,1765,li,GUY,n
+1807,1765,li,HAI,n
+1809,1765,li,HON,n
+1811,1765,li,MEX,n
+1813,1765,li,AHO,n
+1815,1765,li,NCA,n
+1817,1765,li,PAN,n
+1819,1765,li,PAR,n
+1821,1765,li,PER,n
+1823,1765,li,PUR,n
+1825,1765,li,URU,n
+1827,1765,li,USA,n
+1829,1765,li,VEN,n
+1831,1765,li,ISV,n
+1832,1665,tr,,n
+1834,1832,th,Asia,n
+1837,1832,ul,,n
+1839,1837,li,AFG,n
+1841,1837,li,BRN,n
+1843,1837,li,BAN,n
+1845,1837,li,BRU,n
+1847,1837,li,CAM,n
+1849,1837,li,CHN,n
+1851,1837,li,TPE,n
+1855,1837,li,HKG,n
+1857,1837,li,IND,n
+1859,1837,li,INA,n
+1861,1837,li,IRI,n
+1863,1837,li,IRQ,n
+1865,1837,li,JPN,n
+1867,1837,li,JOR,n
+1869,1837,li,KAZ,n
+1871,1837,li,KOR,n
+1873,1837,li,KUW,n
+1875,1837,li,KGZ,n
+1877,1837,li,LBN,n
+1879,1837,li,MAC,n
+1881,1837,li,MAS,n
+1883,1837,li,MGL,n
+1885,1837,li,MYA,n
+1887,1837,li,NEP,n
+1889,1837,li,OMN,n
+1891,1837,li,PAK,n
+1893,1837,li,PRK,n
+1895,1837,li,PLE,n
+1897,1837,li,PHI,n
+1899,1837,li,QAT,n
+1901,1837,li,KSA,n
+1903,1837,li,SIN,n
+1905,1837,li,SRI,n
+1907,1837,li,SYR,n
+1909,1837,li,TJK,n
+1911,1837,li,THA,n
+1913,1837,li,TKM,n
+1915,1837,li,UAE,n
+1917,1837,li,UZB,n
+1919,1837,li,VIE,n
+1921,1837,li,YEM,n
+1922,1665,tr,,n
+1924,1922,th,Europe,n
+1927,1922,ul,,n
+1929,1927,li,ALB,n
+1931,1927,li,ARM,n
+1933,1927,li,AUT,n
+1935,1927,li,AZE,n
+1937,1927,li,BLR,n
+1939,1927,li,BEL,n
+1941,1927,li,BUL,n
+1943,1927,li,CRO,n
+1945,1927,li,CYP,n
+1947,1927,li,CZE,n
+1949,1927,li,DEN,n
+1951,1927,li,EST,n
+1953,1927,li,FIN,n
+1955,1927,li,FRA,n
+1957,1927,li,GEO,n
+1959,1927,li,GER,n
+1961,1927,li,GBR,n
+1963,1927,li,GRE,n
+1965,1927,li,HUN,n
+1967,1927,li,IRL,n
+1969,1927,li,ISR,n
+1971,1927,li,ITA,n
+1973,1927,li,LAT,n
+1975,1927,li,LTU,n
+1977,1927,li,LUX,n
+1979,1927,li,MLT,n
+1981,1927,li,MDA,n
+1983,1927,li,MON,n
+1985,1927,li,NED,n
+1987,1927,li,NOR,n
+1989,1927,li,POL,n
+1991,1927,li,POR,n
+1993,1927,li,ROU,n
+1995,1927,li,RUS,n
+1997,1927,li,SMR,n
+1999,1927,li,SRB,n
+2001,1927,li,SVK,n
+2003,1927,li,SLO,n
+2005,1927,li,ESP,n
+2007,1927,li,SWE,n
+2009,1927,li,SUI,n
+2011,1927,li,MKD,n
+2013,1927,li,TUR,n
+2015,1927,li,UKR,n
+2016,1665,tr,,n
+2018,2016,th,Oceania,n
+2021,2016,ul,,n
+2023,2021,li,ASA,n
+2025,2021,li,AUS,n
+2029,2021,li,NZL,n
+2031,2021,li,PNG,n
+2033,2021,li,SAM,n
+2038,1665,li,,n
+2039,2038,text,Pinnacle Events,n
+2040,2038,ul,,n
+2042,2040,li,World Championships,n
+2044,2040,li,Olympics,n
+2049,19,div,,n
+2055,2049,div,Authority control,n
+2056,2049,tr,,n
+2058,2056,th,National libraries,n
+2061,2056,ul,,n
+2064,2061,li,Germany,n
+2067,2061,li,Israel,n
+2070,2061,li,United States,n
+2073,2061,li,Japan,n
+2076,2061,li,Czech Republic,n
+2077,2049,tr,,n
+2079,2077,th,Other,n
+2085,2077,li,National Archives,n
+2088,18,div,"Retrieved from "" https",n
+2091,10,div,,n
+2092,2091,div,,n
+2093,2092,text,Categories,n
+2095,2092,ul,,n
+2099,2095,li,Combat sports,n
+2101,2095,li,Summer Olympic sports,n
+2104,2091,div,,n
+2105,2104,text,Hidden categories,n
+2106,2104,ul,,n
+2108,2106,li,Webarchive template wayback links,n
+2110,2106,li,CS1 Estonian-language sources,n
+2112,2106,li,Articles with short description,n
+2114,2106,li,Short description matches Wikidata,n
+2116,2106,li,Wikipedia indefinitely semi-protected pages,n
+2118,2106,li,Wikipedia articles needing clarification from February 2016,n
+2120,2106,li,Commons category link from Wikidata,n
+2122,2106,li,Articles with Curlie links,n
+2124,2106,li,Articles with GND identifiers,n
+2126,2106,li,Articles with J9U identifiers,n
+2128,2106,li,Articles with LCCN identifiers,n
+2130,2106,li,Articles with NDL identifiers,n
+2132,2106,li,Articles with NKC identifiers,n
+2134,2106,li,Articles with NARA identifiers,n
+2136,2106,li,Articles containing video clips,n
+2137,0,div,,n
+2139,2137,h2,Navigation menu,n
+2140,2137,div,,n
+2141,2140,nav,,n
+2144,2141,h3,Personal tools,n
+2146,2141,ul,,n
+2149,2146,li,Not logged in,n
+2155,2146,li,Contributions,n
+2158,2146,li,Create account,n
+2161,2146,li,Log in,n
+2162,2140,div,,n
+2163,2162,nav,,n
+2166,2163,h3,Namespaces,n
+2171,2163,li,Article,n
+2179,2162,span,English,n
+2182,2140,div,,n
+2183,2182,nav,,n
+2186,2183,h3,Views,n
+2188,2183,ul,,n
+2191,2188,li,Read,n
+2194,2188,li,View source,n
+2197,2188,li,View history,n
+2202,2182,span,More,n
+2209,2182,h3,Search,n
+2216,2137,div,,n
+2218,2216,nav,,n
+2221,2218,h3,Navigation,n
+2223,2218,ul,,n
+2226,2223,li,Main page,n
+2229,2223,li,Contents,n
+2232,2223,li,Current events,n
+2235,2223,li,Random article,n
+2241,2223,li,Contact us,n
+2244,2223,li,Donate,n
+2245,2216,nav,,n
+2248,2245,h3,Contribute,n
+2250,2245,ul,,n
+2253,2250,li,Help,n
+2256,2250,li,Learn to edit,n
+2259,2250,li,Community portal,n
+2262,2250,li,Recent changes,n
+2266,2216,nav,,n
+2269,2266,h3,Tools,n
+2271,2266,ul,,n
+2274,2271,li,What links here,n
+2277,2271,li,Related changes,n
+2283,2271,li,Special pages,n
+2286,2271,li,Permanent link,n
+2289,2271,li,Page information,n
+2292,2271,li,Cite this page,n
+2295,2271,li,Wikidata item,n
+2296,2216,nav,,n
+2299,2296,h3,Print or export,n
+2301,2296,ul,,n
+2304,2301,li,Download as PDF,n
+2307,2301,li,Printable version,n
+2308,2216,nav,,n
+2311,2308,h3,In other projects,n
+2316,2308,li,Wikimedia Commons,n
+2317,2216,nav,,n
+2321,2317,h3,Languages,n
+2322,2317,div,,n
+2323,2322,ul,,n
+2326,2323,li,Afrikaans,n
+2329,2323,li,العربية,n
+2332,2323,li,Asturianu,n
+2335,2323,li,Azərbaycanca,n
+2338,2323,li,Banjar,n
+2341,2323,li,Bân-lâm-gú,n
+2344,2323,li,Башҡортса,n
+2347,2323,li,Беларуская,n
+2350,2323,li,Беларуская,n
+2353,2323,li,Български,n
+2356,2323,li,བོད་ཡིག,n
+2359,2323,li,Bosanski,n
+2362,2323,li,Brezhoneg,n
+2365,2323,li,Català,n
+2368,2323,li,Čeština,n
+2371,2323,li,Cymraeg,n
+2374,2323,li,Dansk,n
+2377,2323,li,Deutsch,n
+2380,2323,li,Eesti,n
+2383,2323,li,Ελληνικά,n
+2386,2323,li,Español,n
+2389,2323,li,Esperanto,n
+2392,2323,li,Euskara,n
+2395,2323,li,فارسی,n
+2398,2323,li,Fiji Hindi,n
+2401,2323,li,Français,n
+2404,2323,li,Frysk,n
+2407,2323,li,Gaeilge,n
+2410,2323,li,Galego,n
+2416,2323,li,Հայերեն,n
+2419,2323,li,हिन्दी,n
+2422,2323,li,Hrvatski,n
+2425,2323,li,Ido,n
+2428,2323,li,Bahasa Indonesia,n
+2431,2323,li,Interlingua,n
+2434,2323,li,Íslenska,n
+2437,2323,li,Italiano,n
+2440,2323,li,עברית,n
+2443,2323,li,Jawa,n
+2446,2323,li,ಕನ್ನಡ,n
+2449,2323,li,ქართული,n
+2452,2323,li,Қазақша,n
+2455,2323,li,Кыргызча,n
+2458,2323,li,Latina,n
+2461,2323,li,Latviešu,n
+2464,2323,li,Lëtzebuergesch,n
+2467,2323,li,Lietuvių,n
+2470,2323,li,Magyar,n
+2473,2323,li,Македонски,n
+2476,2323,li,മലയാളം,n
+2479,2323,li,Malti,n
+2482,2323,li,Bahasa Melayu,n
+2485,2323,li,Minangkabau,n
+2488,2323,li,Nederlands,n
+2491,2323,li,नेपाली,n
+2497,2323,li,Norsk bokmål,n
+2500,2323,li,Occitan,n
+2503,2323,li,Oʻzbekcha or ўзбекча,n
+2506,2323,li,ਪੰਜਾਬੀ,n
+2509,2323,li,ភាសាខ្មែរ,n
+2512,2323,li,Polski,n
+2515,2323,li,Português,n
+2518,2323,li,Română,n
+2521,2323,li,Русский,n
+2524,2323,li,සිංහල,n
+2527,2323,li,Simple English,n
+2530,2323,li,Slovenčina,n
+2533,2323,li,Slovenščina,n
+2536,2323,li,کوردی,n
+2539,2323,li,Српски or srpski,n
+2542,2323,li,Srpskohrvatski or српскохрватски,n
+2545,2323,li,Sunda,n
+2548,2323,li,Suomi,n
+2551,2323,li,Svenska,n
+2554,2323,li,Tagalog,n
+2557,2323,li,தமிழ்,n
+2560,2323,li,Татарча or tatarça,n
+2563,2323,li,తెలుగు,n
+2566,2323,li,Türkçe,n
+2569,2323,li,Українська,n
+2572,2323,li,Vèneto,n
+2575,2323,li,Tiếng Việt,n
+2578,2323,li,Võro,n
+2581,2323,li,Winaray,n
+2592,2323,button,80 more,n
+2595,2322,div,Edit links,n
+2596,0,footer,,n
+2597,2596,ul,,n
+2599,2597,li,"This page was last edited on 21 April 2022, at 21:42",n
+2604,2597,li,"Text is available under the Creative Commons Attribution-ShareAlike License 3.0 ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.",n
+2613,2596,ul,,n
+2615,2613,li,Privacy policy,n
+2619,2613,li,Disclaimers,n
+2621,2613,li,Contact Wikipedia,n
+2623,2613,li,Mobile view,n
+2625,2613,li,Developers,n
+2627,2613,li,Statistics,n
+2629,2613,li,Cookie statement,n
+2631,2613,li,Edit preview settings,n

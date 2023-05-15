@@ -1,0 +1,305 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+5,2,div,,n
+7,5,div,,n
+10,7,span,2K,n
+12,7,span,shares,n
+28,5,p,,n
+30,28,strong,INSIDE,n
+31,28,text,The Best Sewing Supplies,n
+33,5,p,"I learned to sew when I was 12 years old. My journey began Christmas morning, 1970, when I received a humble Singer sewing machine alongside a wicker sewing basket filled with a pair of Gingher scissors, a seam ripper, needles, a yellow tape measure, and a few other notions. I was fortunate because my mother and grandmothers were all seasoned sewists thrilled to help me get started on my sewing adventure.",n
+38,5,p,Not everyone comes from a sewing family and choosing sewing supplies can be as daunting as sewing itself.,n
+43,5,p,"Do you know how much you should spend on supplies? What supplies are best for a beginner? Are there particular brands you should buy? If you’re wanting to learn to sew but have no idea what supplies you need to get started, then look no further. I’ve put together a few must-have sewing supplies for beginners.",n
+45,5,div,,n
+48,45,div,Contents,n
+50,45,ul,,n
+51,50,li,,n
+52,51,text,Sewing Machine,y
+53,51,ul,,n
+55,53,li,>>>Brother CS6000i,n
+57,53,li,>>>EverSewn,n
+59,53,li,>>>EverSewn 25 with Sew Steady Table,n
+60,50,li,,n
+61,60,text,Fabric Scissors,y
+62,60,ul,,n
+64,62,li,">>>Ginger 8"" Shears",n
+66,62,li,>>>Havel's 8-Inch Scissors,n
+68,62,li,>>>Fiskar 8-Inch Scissors,n
+70,62,li,>>>Fiskar 8-Inch Orange Handle Scissors,n
+71,50,li,,n
+72,71,text,Seam Ripper,y
+73,71,ul,,n
+75,73,li,>>>Simple Seam Ripper,n
+77,73,li,>>>Large Seam Ripper,n
+79,73,li,>>>Seam Ripper Pair,n
+81,73,li,>>>Clover Seam Ripper,n
+82,50,li,,n
+83,82,text,Small Scissors,y
+84,82,ul,,n
+86,84,li,>>>Fiskar Ultra-Sharp Snips,n
+88,84,li,>>>Fiskar Thread Snips,n
+90,84,li,>>>Havel's Snip-Eze,n
+92,84,li,>>>Fiskar Soft Grip Scissors,n
+93,50,li,,n
+94,93,text,Measuring Tape,y
+95,93,ul,,n
+97,95,li,>>>Singer 96-Inch Extra Long Tape Measure,n
+99,95,li,>>>Clover Tape Measure,n
+101,95,li,Retractable Tape Measures,n
+102,50,li,,n
+103,102,text,Steam Iron,y
+104,102,ul,,n
+106,104,li,>>>Sunbeam Classic 1200 Watt Iron,n
+108,104,li,>>>Budget Rowenta Steam Iron,n
+110,104,li,>>>Rowenta Steam Iron,n
+112,104,li,>>>Reliable Velocity 230*,n
+113,50,li,,n
+114,113,text,Ironing Board,y
+115,113,ul,,n
+117,115,li,>>>Home 4-Leg Ironing Board,n
+119,115,li,>>>Sunbeam Ironing Board,n
+121,115,li,>>>Reliable Ironing Board*,n
+123,115,li,>>>Reliable Heavy Duty Ironing Board*,n
+124,50,li,,n
+125,124,text,Sewing Machine Needles,y
+126,124,ul,,n
+128,126,li,>>>Schmetz Universal 80 or 20 Needles,n
+130,126,li,>>>Schmetz Stretch Needles,n
+132,126,li,>>>Schmetz Heavy Duty Jeans Needles,n
+133,50,li,,n
+134,133,text,Straight Pins,y
+135,133,ul,,n
+137,135,li,>>>Dritz Dressmaker Pins,n
+139,135,li,>>>Dritz Glass Head Pins,n
+141,135,li,>>>Dritz Extra Long Pins,n
+143,135,li,>>>Clover Flat Head Pins,n
+144,50,li,,n
+145,144,text,Pin Cushion,y
+146,144,ul,,n
+148,146,li,>>>Make Your Own Pin Cushion,n
+150,146,li,>>>Make Your Own Pin Cushion 2,n
+152,146,li,>>>Classic Tomato Pin Cushion,n
+154,146,li,>>>Magnetic Pin Cushion,n
+156,146,li,>>>Magnetic Wrist Pin Cushion,n
+157,50,li,,n
+158,157,text,Thread,y
+159,157,ul,,n
+161,159,li,>>>All-purpose Thread,n
+163,159,li,>>>Cotton or Poly Thread,n
+165,159,li,>>>Cotton Quilting Thread,n
+166,50,li,,n
+167,166,text,Fabric Marking Pen or Chalk,y
+168,166,ul,,n
+170,168,li,>>>Water Soluble Pen,n
+172,168,li,>>>Water Soluble Pencils,n
+174,168,li,>>>Water-Erasable Roller Ball Pen,n
+176,168,li,>>>Air-Erasable Roller Ball Pen,n
+178,168,li,>>>Tracing Paper,n
+180,168,li,>>>Tracing Chalk,n
+181,50,li,,n
+182,181,text,Tracing Wheel,y
+183,181,ul,,n
+185,183,li,>>>Wooden Handle Tracing Wheel,n
+187,183,li,>>>Serrated Tracing Wheel,n
+189,183,li,>>>Smooth + Serrated Tracing Wheels,n
+190,50,li,,n
+191,190,text,Rotary Cutter,y
+192,190,ul,,n
+194,192,li,>>>45 mm Rotary Cutter,n
+196,192,li,>>>60 mm Rotary Cutter,n
+198,192,li,>>>28 mm Rotary Cutter,n
+199,50,li,,n
+200,199,text,Self-Healing Cutting Mat,y
+201,199,ul,,n
+203,201,li,">>>12"" x 18"" Double-Sided Mat",n
+205,201,li,">>>24"" x 36"" Double-Sided Mat",n
+207,201,li,>>>Rotating Mat,n
+208,50,li,,n
+209,208,text,Rulers,y
+210,208,ul,,n
+212,210,li,">>>6.5"" x 24.5"" Creative Grids Ruler",n
+214,210,li,">>>4"" x 14"" Creative Grids Ruler",n
+215,50,li,,n
+216,215,text,Sewing Books,y
+219,215,li,>>>Click here to see my favorite sewing books,n
+225,5,div,,n
+227,225,h3,MY LATEST VIDEOS,n
+231,225,div,,n
+247,231,div,Learn How to Make a Cute Library Tote using Walmart Pioneer Woman quilted placemats. Easy Magazine Tote and fun Summer Library Bag.,n
+267,231,div,More Videos,n
+271,231,div,,n
+273,271,span,15 seconds,n
+275,271,span,Volume 0%,n
+277,231,div,,n
+280,277,span,keyboard shortcuts,n
+281,277,div,,n
+282,281,div,,n
+284,282,span,Keyboard Shortcuts,n
+285,282,button,,n
+288,285,span,Enabled,n
+290,285,span,Disabled,n
+292,281,div,,n
+293,292,div,,n
+295,293,span,Play or Pause,n
+297,293,span,SPACE,n
+298,292,div,,n
+300,298,span,Increase Volume,n
+302,298,span,↑,n
+303,292,div,,n
+305,303,span,Decrease Volume,n
+307,303,span,↓,n
+308,292,div,,n
+310,308,span,Seek Forward,n
+312,308,span,→,n
+313,292,div,,n
+315,313,span,Seek Backward,n
+317,313,span,←,n
+318,292,div,,n
+320,318,span,Captions On or Off,n
+322,318,span,c,n
+323,292,div,,n
+325,323,span,Fullscreen or Exit Fullscreen,n
+327,323,span,f,n
+328,292,div,,n
+330,328,span,Mute or Unmute,n
+332,328,span,m,n
+335,292,div,Seek %,n
+339,231,div,,n
+353,339,div,,n
+355,353,div,Next Up,n
+357,353,div,How to Machine Bind a Quilt,n
+359,353,div,01:33,n
+379,339,div,,n
+408,379,span,This ad will end in 14,n
+410,379,div,Live,n
+412,379,div,00:01,n
+414,379,div,00:13,n
+416,379,div,00:15,n
+436,5,h2,Sewing Machine,y
+437,5,p,,n
+438,437,text,"The first thing you will need to have if you’re learning to sew is an entry level sewing machine. Before purchasing any sewing machine, I suggest you read my post",n
+440,437,strong,Tips,n
+442,5,p,,n
+443,442,text,Below are a few beginner machines that consistently get good reviews. You can,n
+445,442,strong,my favorite machines at this link,n
+449,5,h3,>>> Brother CS6000i,n
+452,5,h3,>>> EverSewn,n
+455,5,h3,>>> EverSewn 25 with Sew Steady Table,n
+459,5,h2,Fabric Scissors,y
+475,5,p,"You will need a good pair of scissors that are dedicated to cutting fabric only. These must be kept separate from all other scissors because they will quickly become dull if they are used to cut paper. As a sewing beginner, you may want to keep a plastic storage box with your sewing supplies hidden away from family members who will snatch those scissors and use them to cut everything in site.",n
+477,5,h3,>>> Ginger 8″ Shears,n
+480,5,h3,>>> Havel’s 8-Inch Scissors,n
+483,5,h3,>>> Fiskar 8-Inch Scissors,n
+486,5,h3,>>> Fiskar 8-Inch Orange Handle Scissors,n
+490,5,h2,Seam Ripper,y
+492,5,p,"All sewists know that your best sewing tool is a good seam ripper. I have more than one and prefer the more ergonomic seam rippers. An inexpensive one will serve you well, but I recommend having a backup in case you misplace it.",n
+507,5,h3,>>> Simple Seam Ripper,n
+510,5,h3,>>> Large Seam Ripper,n
+513,5,h3,>>> Seam Ripper Pair,n
+516,5,h3,>>> Clover Seam Ripper,n
+520,5,h2,Small Scissors,y
+522,5,p,"When you’re sitting at your sewing machine working on a project you will need to have a small pair of scissors for snipping threads, clipping corners, and other small sewing tasks.",n
+528,5,h3,>>> Fiskar Ultra-Sharp Snips,n
+531,5,h3,>>> Fiskar Thread Snips,n
+534,5,h3,>>> Havel’s Snip-Eze,n
+537,5,h3,>>> Fiskar Soft Grip Scissors,n
+541,5,h2,Measuring Tape,y
+543,5,p,"When sewing garments or small projects you will need to take accurate measurements. A measuring tape is ideal. Because they are so inexpensive, I recommend having a regular measuring tape and a retractable measuring tape.",n
+549,5,h3,>>> Singer 96-Inch Extra Long Tape Measure,n
+552,5,h3,>>> Clover Tape Measure,n
+555,5,h3,Retractable Tape Measures,n
+559,5,h2,Steam Iron,y
+561,5,p,"You will need an iron and ironing board handy when sewing. Most inexpensive steam irons will work if you keep them clean and in good working order. I recommend looking for an iron with an automatic shut-off and some sort of non-drip feature. Sewing takes its toll on irons, so I recommend getting the best one you can afford.",n
+576,5,div,,n
+577,576,div,,n
+578,577,div,,n
+579,578,text,Sponsored by,n
+581,578,span,Disney+,n
+583,577,div,Here's Why I Love Disney+,n
+585,577,div,With Disney+ I can download content,n
+587,576,div,Sign Up,n
+598,5,p,Be sure to read this review about my favorite iron! *,n
+601,5,h3,>>> Sunbeam Classic 1200 Watt Iron,n
+604,5,h3,>>> Budget Rowenta Steam Iron,n
+607,5,h3,>>> Rowenta Steam Iron,n
+610,5,h3,>>> Reliable Velocity 230*,n
+614,5,h2,Ironing Board,y
+616,5,p,A sturdy ironing board is also a must for sewing. It needs to be steady with T-shaped legs and non-slip feet. I recommend looking for one made from a perforated material for steaming fabrics. It also needs to have an adjustable height feature that locks in place.,n
+623,5,p,Read about my favorite ironing board here. *,n
+626,5,h3,>>> Home 4-Leg Ironing Board,n
+629,5,h3,>>> Sunbeam Ironing Board,n
+632,5,h3,>>> Reliable Ironing Board*,n
+635,5,h3,>>> Reliable Heavy Duty Ironing Board*,n
+639,5,h2,Sewing Machine Needles,y
+641,5,p,I only recommend Schmetz sewing machine needles. They are high-quality needles and have a great color-coded system for helping you remember which needle is in the machine. For most sewing you will need a universal 80 or 12 needle.,n
+646,5,p,"However, when sewing with knits you will need a ball point needle.",n
+648,5,p,Heavy fabrics will require a jeans needle and quilting is best done with a topstitching needle.,n
+651,5,h3,>>> Schmetz Universal 80 or 20 Needles,n
+654,5,h3,>>> Schmetz Stretch Needles,n
+657,5,h3,>>> Schmetz Heavy Duty Jeans Needles,n
+661,5,h2,Straight Pins,y
+664,5,p,Straight pins are needed for pinning your projects together prior to sewing. You will need pins for sewing with woven fabrics and pins for sewing with knits.,n
+668,5,p,"To understand more about pins, read this post.",n
+670,5,h3,>>> Dritz Dressmaker Pins,n
+673,5,h3,>>> Dritz Glass Head Pins,n
+676,5,h3,>>> Dritz Extra Long Pins,n
+679,5,h3,>>> Clover Flat Head Pins,n
+683,5,h2,Pin Cushion,y
+685,5,p,"If you have pins you will need a pin cushion. Keeping them in the plastic box they came in is a recipe for disaster. A pin cushion keeps your pins from scattering if you accidentally knock them over. I prefer magnetic pin cushions, but the old-fashioned tomato pin cushion will get the job done.",n
+688,5,h3,>>> Make Your Own Pin Cushion,n
+691,5,h3,>>> Make Your Own Pin Cushion 2,n
+694,5,h3,>>> Classic Tomato Pin Cushion,n
+697,5,h3,>>> Magnetic Pin Cushion,n
+700,5,h3,>>> Magnetic Wrist Pin Cushion,n
+704,5,h2,Thread,y
+706,5,p,"There are so many variations to thread, however, a sewing beginner really needs a small collection of general purpose threads. Gutermann or Coats and Clark threads will work perfectly for most of your sewing projects.",n
+711,5,p,Read All About Thread Weight,n
+713,5,h3,>>> All-purpose Thread,n
+716,5,h3,>>> Cotton or Poly Thread,n
+719,5,h3,>>> Cotton Quilting Thread,n
+723,5,h2,Fabric Marking Pen or Chalk,y
+725,5,p,Occasionally you will need to make a mark on your fabric to show where darts or other features will be placed. There are a few options which will depend on the fabric and type of project you’re sewing. Water soluble markers are very good for marking things like buttons and buttonholes. Tailor’s chalk is very cost effective and comes in several colors. Tracing paper is also a good way to mark fabric.,n
+729,5,h3,>>> Water Soluble Pen,n
+732,5,h3,>>> Water Soluble Pencils,n
+735,5,h3,>>> Water-Erasable Roller Ball Pen,n
+738,5,h3,>>> Air-Erasable Roller Ball Pen,n
+741,5,h3,>>> Tracing Paper,n
+744,5,h3,>>> Tracing Chalk,n
+748,5,h2,Tracing Wheel,y
+751,5,p,If you are using tracing paper then you will need some sort of tracing wheel to get the pattern markings onto your fabric.,n
+753,5,h3,>>> Wooden Handle Tracing Wheel,n
+756,5,h3,>>> Serrated Tracing Wheel,n
+759,5,h3,>>> Smooth + Serrated Tracing Wheels,n
+763,5,h2,Rotary Cutter,y
+765,5,p,"A rotary cutter, self-healing mat, and ruler are essential for cutting out many of your projects. It speeds up the process and allows you to get accurate cuts. I recommend getting a rotary cutter that is sized for a 45mm blade.",n
+767,5,p,,n
+768,767,text,Click here,n
+770,767,strong,information on rotary cutting .,n
+773,5,h3,>>> 45 mm Rotary Cutter,n
+776,5,h3,>>> 60 mm Rotary Cutter,n
+779,5,h3,>>> 28 mm Rotary Cutter,n
+783,5,h2,Self-Healing Cutting Mat,y
+785,5,p,The size of your cutting mat will depend upon your available space. One thing to remember is always store your mat flat and never place anything on top of it.,n
+788,5,h3,>>> 12″ x 18″ Double-Sided Mat,n
+791,5,h3,>>> 24″ x 36″ Double-Sided Mat,n
+794,5,h3,>>> Rotating Mat,n
+798,5,h2,Rulers,y
+801,5,p,"Eventually, you will need more than one ruler for rotary cutting, but these are a good place to start.",n
+803,5,h3,>>> 6.5″ x 24.5″ Creative Grids Ruler,n
+806,5,h3,>>> 4″ x 14″ Creative Grids Ruler,n
+810,5,h2,Sewing Books,y
+812,5,p,It’s always nice to have a book to refer back to when learning to sew. I recommend these books for anyone starting out.,n
+815,5,h3,>>> Click here to see my favorite sewing books,n
+819,5,p,"When I think back to that first sewing machine I still wonder what my parent’s had to sacrifice in order to make such an extravagant purchase. My dad, who never forgets a number, said it cost $99 plus tax. I’m guessing there was a lot of overtime involved.",n
+825,2,nav,,n
+827,825,h2,Post navigation,n
+828,825,div,,n
+829,828,div,,n
+833,829,div,Previous,n
+834,829,text,How to Use a Rotary Cutter and Mat,n
+835,828,div,,n
+838,835,div,Next,n
+840,835,text,Quilting,n
+845,2,h2,Similar Posts,n
+928,2,div,Load Comments,n

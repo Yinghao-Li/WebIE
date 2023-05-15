@@ -1,0 +1,92 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+24,0,div,,n
+28,24,div,,n
+30,28,h1,Bowling?,n
+31,28,div,,n
+33,31,span,BY,n
+35,31,span,"May 12, 2017",n
+47,24,div,,n
+51,47,p,"The sport of bowling dates back thousands of years, with everyone from ancient Egyptians to Roman legionnaires captivated by its more primitive forms. There's something timeless and altogether human, it would seem, about hurling a ball at a row of inert objects.",n
+55,47,p,"Today, most Americans play a variation known as 10-pin bowling, in which the objective is to bulldoze 10 pins in pursuit of a perfect score of 300. Plenty of regional variations exist, however, and most are interesting enough to warrant a round or two. We've investigated five common types of bowling and explain why you might want to give them a try.",n
+57,47,h2,10-Pin Bowling,n
+60,47,p,"Known to most Americans simply as ""bowling,"" 10-pin is the most ubiquitous style of the game. While some version of 10-pin has existed in the United States since before the Civil War, the rules of the game as they stand today were officially drafted by the American Bowling Congress in 1895.",n
+66,47,p,"Heavy, typically about 6–16 pounds, with three finger holes",n
+72,47,p,"Though pins may be made of wood or plastic, rules dictate that each one must weigh between 3 pounds, 6 ounces and 3 pounds, 10 ounces, and that each one measures 15"" tall and 4.7"" wide. The 10 pins are arranged in a triangular formation known as the ""frame.""",n
+86,47,p,2,n
+90,47,p,"You need to bowl and you need to bowl right now . In 2012, Businessweek estimated that there were 4,061 10-pin bowling alleys across the US, and more have surely sprung up since.",n
+96,47,h2,9-Pin Bowling,n
+99,47,p,"Nine-pin bowling is very different from 10-pin, and not just because there's one less pin. For example, 9-pin is a team game, so there are no individual scores. There are six players on a team, and each player takes two turns. Another major difference from 10-pin bowling games is that the pins in 9-pin are not re-set between each player. Instead, the next player simply picks up where the previous player left off until all the pins have been knocked down, at which point the pins are re-set.",n
+101,47,p,Another twist in 9-pin,n
+105,47,p,"Nine-pin was actually one of the most popular types of bowling in the US until the early 20th century, when authorities linked it to organized crime and thus made it illegal. Kegel remains popular in Europe and enjoys a cult-like following in central Texas, thanks to the large German population that settled there.",n
+111,47,p,"Similar to a 10-pin ball, complete with finger holes",n
+117,47,p,"As noted, the pins are configured in a diamond shape, with a red pin in the middle. All games of 9-pin are manually set by a human pin-setter.",n
+123,47,p,6,n
+129,47,p,2,n
+133,47,p,"You're into teamwork! Since the game relies on different players working together to knock down all the pins in a frame, an ideal team consists of players who throw to the right, left, and center.",n
+135,47,h2,5-Pin Bowling,n
+138,47,p,"Everything's a little different in Canada, and bowling is no exception. In this variation, 5 pins are arranged in a V shape, and each is worth a unique number of points. Players toss a hand-sized ball down the alley, trying to hit the center pin for 5 points and cause a domino effect to clean up 15 total points. It's possible to achieve a perfect 450-point game, but that task is even more difficult than nailing a 300 in 10-pin.",n
+146,47,p,"Five-pin bowling balls are small enough to fit in the hand, so they do not have finger holes.",n
+152,47,p,"Smaller than 10-pins, but larger than duck pins , 5-pins each have a rubber hand around their middle that makes them fly harder when they are hit, thus increasing the likelihood that they'll take down others around them.",n
+168,47,p,"You like games of strategy rather than force, since each pin counts for a different number of points—the harder to hit, the higher the points. That or you just happen to be in Canada.",n
+170,47,h2,Candlepin Bowling,n
+173,47,p,"Candlepin was invented in Massachusetts in 1880, and it's still extremely popular throughout New England. The balls are small and the pins are thin, like candles. Players roll the ball three times per frame as opposed to twice, but don't let this or the setup's cuteness fool you: the candle-like pins are frustratingly hard to tip over.",n
+179,47,p,"Candlepin balls are the smallest bowling balls, weighing in at a maximum of 2 pounds, 7 ounces, and each has a diameter of about 4.5"".",n
+185,47,p,"As mentioned, the thin, cylinder-like candlepins are notoriously tough to tackle. And the fallen pins also aren't cleared between frames, adding another layer of difficulty. They are arranged in a triangular shape, just like 10-pins.",n
+191,47,p,10,n
+201,47,p,300.,n
+203,47,h2,Duckpin Bowling,n
+206,47,p,"The middle child between 10-pin and candlepin, duckpin maintains 10-pin's pin shape and basic rules while adopting candlepin's lighter ball weight and three-ball frames. Since the pins are short and stout, it's easier to get a spare or strike than in candlepin. Even so, the highest sanctioned score is still only 279 out of 300.",n
+212,47,p,Duckpin bowling balls weigh about 3.75 pounds and do not have finger holes.,n
+218,47,p,"They look like shorter, fatter versions of 10-pins. But they're also lighter, which makes rolling a strike in duckpin harder than it is in 10-pin.",n
+234,47,p,"You're a fan of baseball. Orioles Hall-of-Famer Wilbert Robinson claimed to have invented duckpin bowling, and Babe Ruth once called it his favorite sport. It's also a good game for anyone who likes the general rules of 10-pin, but has trouble handling a heavy bowling ball.",n
+249,24,div,BY,n
+267,0,text,Grouber,n
+269,0,div,,n
+270,269,div,,n
+271,270,div,,n
+273,271,div,,n
+275,273,div,Company,n
+276,273,text,About Groupon Jobs Press Investor Relations Management Team In Your Community,n
+283,271,div,,n
+285,283,div,Work with Groupon,n
+286,283,text,Join the Groupon Marketplace Run a Groupon Campaign How does Groupon work for Merchant Sponsor your Campaign Affiliate Program Vendor Code of Conduct,n
+293,271,div,,n
+295,293,div,More,n
+296,293,text,Privacy Statement Customer Support Refund Policies FAQ Coupon Codes Gift Cards Gift Shop Students Report Infringement Pricing Transparency Statement,n
+306,271,div,,n
+307,306,div,,n
+309,307,div,Groupon Sites,n
+310,307,div,,n
+312,310,div,USA,n
+314,310,div,USA United Kingdom France Deutschland Italia España Polska Nederland Ireland UAE België Canada Australia,n
+327,306,div,,n
+329,327,div,Follow Us,n
+331,327,span,Facebook,n
+333,327,span,Twitter,n
+334,270,div,,n
+337,334,span,Get the Groupon Mobile App,n
+341,334,span,Grow Your Business by Working with Groupon,n
+343,269,div,,n
+345,343,div,Incredible Deals on Local Experiences,n
+347,343,p,Groupon Gift Ideas | Valentine's Day Gifts | Mother's Day Gifts | Father's Day Gifts | Things to Do | Kids Activities | Nightlife | Restaurants | Spas | Massages | Hair Salons | Travel,n
+371,269,div,,n
+373,371,div,|,n
+375,371,div,Coupons Blog,n
+376,269,div,,n
+377,376,text,"© 2022 Groupon, Inc. All Rights Reserved.",n
+380,376,span,Use Privacy Statement Licenses Accessibility,n
+392,0,div,,n
+399,392,div,,n
+401,399,h1,,n
+402,401,text,Sign up for,n
+404,401,span,20% OFF,n
+407,399,h3,Stay in the know with emails and save on experiences you'll love near you. Good for three days only!,n
+408,399,div,,n
+413,408,div,Please use the format,n
+416,408,div,Sign Up,n
+432,392,h3,,n
+433,432,text,Use code,n
+435,432,span,WELCOME,n
+436,432,text,experiences near you. Three days only!,n
+455,392,h3,We noticed you're already signed up,n

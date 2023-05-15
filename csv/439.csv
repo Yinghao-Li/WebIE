@@ -1,0 +1,381 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+4,1,h1,IoTLineup.com,n
+5,1,div,,n
+6,5,text,Categories,n
+8,5,div,Home Automation,n
+12,5,div,Home Appliances,n
+16,5,div,Home Energy Management,n
+20,5,div,Home Security and Safety,n
+24,5,div,Health and Fitness,n
+28,5,div,Information and Entertainment,n
+32,5,div,Automotive,n
+37,1,h1,the Most Popular Smart Home Devices,n
+39,1,div,"Find here the most comprehensive list of top Internet of Things devices, categorized and with many search filters. These are the best smart home devices available on the market right now. You will discover a variety of IoT devices to automate your home and change the way you live.",n
+40,1,div,,n
+41,40,div,,n
+43,41,h2,Bitdefender BOX,y
+45,41,h2,IoT Security Solution,y
+56,41,p,"Security solution which blocks incoming threats and can scan all your devices for vulnerabilities. It protects all your IoT devices, even when you go out! Can act as a wireless router or go alongside your current one.",n
+71,41,div,Blocks incoming threats and can scan all your devices,n
+81,41,div,Network Security,n
+82,40,div,,n
+84,82,h2,Google Home,y
+97,82,p,"Google Home, the connected voice controller from Google. Besides controlling your home it also comes with Google Assistant, helping with lists, translation, news, music, calendar and many many more.",n
+108,82,div,The connected voice controller from Google. Besides controlling your home it... »read more,n
+119,40,div,,n
+121,119,h2,Amazon Echo,y
+134,119,p,"Amazon Echo, the connected voice controller from Amazon, can give you information, music, news, weather, add things to todo lists, wake you up and, of course, control your home.",n
+149,119,div,"The connected voice controller from Amazon. Can give you information, music... »read more",n
+163,40,div,,n
+165,163,h2,Nest Cam,y
+167,163,h2,Indoor camera,y
+178,163,p,Nest Cam Outdoor is the monitoring tool you've been waiting for. It brings all the benefits of modern streaming technology and a sleek design so you can watch your home from anywhere.,n
+193,163,div,The monitoring tool you've been waiting for. It brings all the benefits... »read more,n
+207,40,div,,n
+209,207,h2,Mr. Coffee,y
+211,207,h2,Smart Coffeemaker,y
+222,207,p,"Mr. Coffee 10-Cup Smart Optimal Brew Coffeemaker makes it easy to schedule, monitor, and modify your brew from anywhere.",n
+233,207,div,"The 10-Cup Smart Coffeemaker makes it easy to schedule, monitor, and... »read more",n
+244,40,div,,n
+246,244,h2,SmartMat,y
+248,244,h2,Intelligent Yoga Mat,y
+259,244,p,The interactive yoga utility that helps you perfect your yoga training through real time pressure sensing technology and smart mobile interfacing.,n
+270,244,div,Helps you perfect your yoga training through real time pressure sensing... »read more,n
+277,244,div,Exercise Equipment,n
+278,40,div,,n
+280,278,h2,Philips Hue,y
+282,278,h2,Hue Go,y
+293,278,p,With Hue Go the possibilities are endless. Connect light to your daily life and move it around the way you like it. Lift your gaming experience to the next level via third party apps.,n
+304,278,div,Connect light to your daily life and move it around the way you like... »read more,n
+315,40,div,,n
+317,315,h2,TrackR bravo,y
+319,315,h2,Tracking Device,y
+330,315,p,"TrackR bravo is the coin-sized tracking device that locates your belongings in real time and notifies you their location, whether they are lost or misplaced. Great for wallets, keys, phones or pets.",n
+345,315,div,The coin-sized tracking device that locates your belongings in real... »read more,n
+353,40,div,,n
+355,353,h2,Linquet,y
+357,353,h2,Bluetooth tracking sensor,y
+368,353,p,Linquet is the cloud powered tracking device you can attach to anything. Link them to the app and share their location with those interested so nothing gets left behind.,n
+379,353,div,Cloud powered tracking device you can attach to anything. Link... »read more,n
+387,40,div,,n
+389,387,h2,Amazon Echo Spot,y
+391,387,h2,Smart Alarm Clock,y
+402,387,p,"Amazon Echo Spot is a smart alarm clock that can make video calls, with a tiny 2.5-inch screen, or become a nursery camera. It can also be connected to external speakers, either through cable or Bluetooth.",n
+417,387,div,"Can make video calls, with a tiny 2.5-inch screen, or become a nursery... »read more",n
+434,40,div,,n
+436,434,h2,BB8 SE,y
+438,434,h2,Droid with force band,y
+449,434,p,BB-8 is the loyal droid of Resistance pilot Poe Dameron. Control it with the force band or with your smart device and see it roll just like on screen. Immerse yourself in the Star Wars galaxy.,n
+464,434,div,Resistance pilot Poe Dameron. Control it with the force... »read more,n
+472,40,div,,n
+474,472,h2,Nest Thermostat,y
+476,472,h2,Smart Thermostat,y
+487,472,p,"The Nest Thermostat learns what temperature you like and builds a schedule around yours. Also, it will send you an alert when the temperatures are threatening to ruin your belongings and appliances.",n
+502,472,div,Learns what temperature you like and builds a schedule around yours. Also... »read more,n
+516,40,div,,n
+518,516,h2,Amazon Echo Plus,y
+531,516,p,"Just like the Echo, the connected voice controller from Amazon, it can give you information, music, news, weather, add things to todo lists, wake you up and, of course, control your home. The Plus will also act as a smart home hub which automatically discovers compatible devices.",n
+546,516,div,"Just like the Echo, but will also act as a smart home hub which... »read more",n
+560,40,div,,n
+562,560,h2,Logitech Pop,y
+564,560,h2,Smart button controller,y
+575,560,p,"POP Home Switch lets everyone in the home control smart lighting, music, and more with the push of a button. Program each switch with up to three custom commands to add creativity throughout your smart home.",n
+590,560,div,"Lets everyone in the home control smart lighting, music, and more with the... »read more",n
+607,40,div,,n
+609,607,h2,Nest Cam Outdoor,y
+622,607,p,"With one app for all your Nest products, the unique magnetic mount, full 1080p HD video streaming and advanced Night Vision, Nest Cam Outdoor enables you to take care of what matters 24 or 7.",n
+637,607,div,"With full 1080p HD video streaming and advanced Night Vision, it enables... »read more",n
+651,40,div,,n
+653,651,h2,AWS IoT Button,y
+655,651,h2,Programmable Dash Button,y
+666,651,p,The AWS IoT button is a developer kit that can be programmed to control internet-connected devices and services.,n
+681,651,div,Developer kit that can be programmed to control internet-connected devices... »read more,n
+692,40,div,,n
+694,692,h2,Logitech Circle,y
+696,692,h2,Portable Wi-Fi video camera,y
+707,692,p,The smart home security camera that helps you keep home safe and stay connected - all from your smartphone. Comes with AES encryption and free private 24-hour secure cloud storage for your total peace of mind.,n
+722,692,div,Smart home security camera that helps you keep home safe and stay connected... »read more,n
+733,40,div,,n
+735,733,h2,Logitech Harmony Elite,y
+737,733,h2,Smart Controller,y
+748,733,p,"Integrate control of your connected lights, locks, thermostats, sensors, home entertainment devices, and more - all accessible from either an rechargeable touch screen remote or handy mobile app.",n
+763,733,div,"your connected lights, locks, thermostats, sensors... »read more",n
+774,40,div,,n
+776,774,h2,Awair,y
+778,774,h2,Smart Air Quality Monitor,y
+789,774,p,"Awair is the first complete device to let you communicate with your air. Awair analyzes your indoor air quality, learns your routines and can communicate with other home devices to help you achieve optimal air quality.",n
+804,774,div,"Analyzes your indoor air quality, learns your routines and can communicate... »read more",n
+815,40,div,,n
+817,815,h2,Nest Protect,y
+819,815,h2,Smoke and CO detector,y
+830,815,p,"Nest Protect is the smoke alarm other alarms look up to. With an industrial-grade smoke sensor, automatic self testing, it's the first home alarm you can hush from your phone without any extra hardware.",n
+845,815,div,"Smoke alarm with an industrial-grade smoke sensor, automatic self testing... »read more",n
+856,40,div,,n
+858,856,h2,Navdy,y
+860,856,h2,Smart navigation system,y
+871,856,p,"Navdy combines a high quality projection display with voice and gesture controls to create a safer driving experience. Drivers no longer need to use their phone to navigate, communicate or control their music.",n
+886,856,div,Navdy combines a high quality projection display with voice and gestur... »read more,n
+888,856,div,,n
+890,888,span,Automotive,n
+893,888,span,Automotive Subsystems,n
+894,40,div,,n
+896,894,h2,Hydrawise,y
+898,894,h2,Smart Irrigation Controller,y
+909,894,p,Manage your irrigation controller and save water with predictive schedules from anywhere using your smart device or web browser with Hydrawise web-based software.,n
+924,894,div,Manage your irrigation controller and save water with predictive sched... »read more,n
+935,40,div,,n
+937,935,h2,Sync Smartband,y
+939,935,h2,Activity Tracker,y
+950,935,p,"Sync Smartband is the chic solution that appeals to families and adults as well, with a variety of health tracking functions, including a fitness tracker and sleep tracker, in addition to location tracking.",n
+961,935,div,Sync Smartband is the chic solution that appeals to families and adult... »read more,n
+972,40,div,,n
+974,972,h2,Ninja Sphere,y
+976,972,h2,Smart Household Appliances,y
+987,972,p,"The Ninja Sphere is a small device that finally delivers on the promise of ""Smart Homes"", without all the tedious wiring and configuration.",n
+998,972,div,The Ninja Sphere is a small device that finally delivers on the promis... »read more,n
+1009,40,div,,n
+1011,1009,h2,Airfy,y
+1013,1009,h2,iBeacon,y
+1024,1009,p,"Airfy beacon allows you to make your home smart using one or more ""beacons"" - tiny receivers that connect to your phone through Bluetooth Low Energy .",n
+1035,1009,div,"Airfy beacon allows you to make your home smart using one or more ""bea... »read more",n
+1046,40,div,,n
+1048,1046,h2,June,y
+1050,1046,h2,Intelligent oven,y
+1061,1046,p,June is a modern oven prepared to fit in every kitchen in order to satisfy even the most exquisite tastes. It saves a lot of the time you'd normally spend cooking when connected to your phone.,n
+1076,1046,div,June is a modern oven prepared to fit in every kitchen in order to sat... »read more,n
+1087,40,div,,n
+1102,1087,p,"August Doorbell Cam alerts you when the bell is rung and lets you see and speak with visitors from your smartphone. When combined with the August Smart Lock, you can also remotely unlock and lock the door.",n
+1117,1087,div,August Doorbell Cam alerts you when the bell is rung and lets you see ... »read more,n
+1128,40,div,,n
+1130,1128,h2,Singlecue,y
+1132,1128,h2,Gesture Controller,y
+1143,1128,p,"With singlecue you can control your TV, media and smart homes devices using touch-free gestures.",n
+1154,1128,div,"With singlecue you can control your TV, media and smart homes devices ... »read more",n
+1165,40,div,,n
+1167,1165,h2,Triby,y
+1169,1165,h2,Smart portable speaker,y
+1180,1165,p,Smart Portable Speaker with Alexa Voice Service. Hears you from across the room. In Vivo Acoustic sound.,n
+1195,1165,div,Smart Portable Speaker with Alexa Voice Service. Hears you from across... »read more,n
+1206,40,div,,n
+1208,1206,h2,Kinsa,y
+1210,1206,h2,Smart thermometer,y
+1221,1206,p,"With its Smart Thermometer, Kinsa wants to revolutionize the thermometer by getting it to read the ""health weather"" of a community.",n
+1236,1206,div,"With its Smart Thermometer, Kinsa wants to revolutionize the thermomet... »read more",n
+1244,40,div,,n
+1246,1244,h2,Ring Pro,y
+1259,1244,p,"Ring Pro provides a new level of security, by notifying you when someone is on your property and letting you see and speak with anyone at your front door. 1080HD video and infrared night vision. Existing doorbell wiring required.",n
+1274,1244,div,"security, by notifying you when someo... »read more",n
+1285,40,div,,n
+1287,1285,h2,Withings,y
+1289,1285,h2,Blood Pressure Monitor,y
+1300,1285,p,"Wireless Blood Pressure Monitor makes it easy to check your blood pressure and heart rate, anytime and anywhere with an instant feedback and access to all your readings.",n
+1315,1285,div,Wireless Blood Pressure Monitor makes it easy to check your blood pres... »read more,n
+1323,40,div,,n
+1325,1323,h2,Fitbit Surge,y
+1327,1323,h2,Smart Watch,y
+1338,1323,p,"Reach your peak performance with built-in GPS, continuous heart rate and all-day activity tracking and sleep monitoring. And stay connected with text and call notifications, music control and more.",n
+1353,1323,div,"Reach your peak performance with built-in GPS, continuous heart rate a... »read more",n
+1364,40,div,,n
+1379,1364,p,"Be always in control of your door no matter where you are, right from your smartphone. Lock and unlock as you please and enjoy the safety of your home.",n
+1394,1364,div,"your door no matter where you are, right from ... »read more",n
+1408,40,div,,n
+1410,1408,h2,Scout Alarm,y
+1412,1408,h2,Home Security Sensors,y
+1423,1408,p,"Scout is a system of sensors that communicate with each other to provide complete protection, customized for your home.",n
+1438,1408,div,sensors that communicate with each other to provi... »read more,n
+1449,40,div,,n
+1451,1449,h2,Canary,y
+1453,1449,h2,Home Security Device,y
+1464,1449,p,The all-in-one home security system you control from your phone. It's built to learn and sends intelligent alerts with HD video and audio directly to your phone.,n
+1479,1449,div,The all-in-one home security system you control from your phone. It's ... »read more,n
+1490,40,div,,n
+1492,1490,h2,Eero,y
+1494,1490,h2,Home WiFi System,y
+1505,1490,p,"eero is the world's first home WiFi system. A set of three eeros covers the typical home. They work in perfect unison to deliver hyper-fast, super-stable WiFi to every square foot of your house.",n
+1520,1490,div,three eeros cover... »read more,n
+1527,1490,div,WiFi Systems,n
+1528,40,div,,n
+1530,1528,h2,Amazon Echo Connect,y
+1532,1528,h2,Connects Phone to Echo,y
+1543,1528,p,"Echo Connect, after connecting to a compatible Echo device , allows you to ask Alexa to call anyone using your home phone service .",n
+1558,1528,div,"Echo Connect, after connecting to a compatible Echo device which is r... »read more",n
+1572,40,div,,n
+1574,1572,h2,Norm,y
+1587,1572,p,"Norm connects to the Wink app on your mobile device, and allows you to monitor or control the temperature from there.",n
+1598,1572,div,"Norm connects to the Wink app on your mobile device, and allows you to... »read more",n
+1609,40,div,,n
+1611,1609,h2,Honeywell,y
+1613,1609,h2,Wifi Smart Thermostat,y
+1624,1609,p,"Honeywell's Wi-Fi smart thermostat offers smart features, a customizable touchscreen, and simple setup, plus Wi-Fi remote access.",n
+1639,1609,div,"Honeywell's Wi-Fi smart thermostat offers smart features, a customizab... »read more",n
+1653,40,div,,n
+1655,1653,h2,Chamberlain,y
+1657,1653,h2,Garage Appliances,y
+1668,1653,p,"Monitor and control your compatible Chamberlain garage door from anywhere with your smartphone, tablet or connected device.",n
+1679,1653,div,Monitor and control your compatible Chamberlain garage door from anywh... »read more,n
+1690,40,div,,n
+1692,1690,h2,Blossom,y
+1694,1690,h2,Smart watering controller,y
+1705,1690,p,"Simplify your life with the power of Smart Watering. Blossom self-programs based on real-time weather data and gives you control right from your phone, lowering your water bill up to 30%.",n
+1720,1690,div,Smart Watering. Blossom self-prog... »read more,n
+1731,40,div,,n
+1733,1731,h2,Edyn,y
+1735,1731,h2,Garden sensor,y
+1746,1731,p,"Garden sensor which keeps you connected to your garden. It tracks light, nutrition, moisture, humidity and temperature. It is Wi-Fi connected and it sends notifications to your phone.",n
+1761,1731,div,Garden sensor which keeps you connected to your garden. It tracks ligh... »read more,n
+1775,40,div,,n
+1777,1775,h2,iGrill Mini,y
+1790,1775,p,"Make grilling easier. Measure the temperature without lifting the lid on your grill or smoker. Small, connects using Bluetooth and has magnetic mounting.",n
+1816,40,div,,n
+1818,1816,h2,iGrill 2,y
+1831,1816,p,"Make grilling easier. Measure the temperature without lifting the lid on your grill or smoker. Up to 4 probes, connects using Bluetooth and has magnetic mounting.",n
+1857,40,div,,n
+1859,1857,h2,Mimo,y
+1861,1857,h2,Smart baby monitoring,y
+1872,1857,p,"The Mimo Smart Baby Movement Monitor uses a smart, washable crib sheet to show parents their baby's sleep activity and movement on their smartphone or tablet.",n
+1887,1857,div,"The Mimo Smart Baby Movement Monitor uses a smart, washable crib sheet... »read more",n
+1895,40,div,,n
+1897,1895,h2,Skydrop,y
+1899,1895,h2,Sprinkler Controller,y
+1910,1895,p,"From automatically adjusting for local weather, to allowing precise control from your mobile device, Skydrop WiFi Sprinkler Controller makes watering an exact science - for the perfect lawn all season long.",n
+1925,1895,div,From automatically adjusting,n
+1936,40,div,,n
+1938,1936,h2,Ambi Climate,y
+1940,1936,h2,Add-on,y
+1951,1936,p,Get AC that understands you. Ambi Climate learns what factors affect your comfort and builds a tailored profile to deliver optimal AC settings.,n
+1962,1936,div,Get AC that understands you. Ambi Climate learns what factors affect y... »read more,n
+1973,40,div,,n
+1975,1973,h2,MaxMyTV,y
+1977,1973,h2,TV Home Automation,y
+1988,1973,p,MaxMyTV Smart Hub upgrades your TV to a Home Automation and Social Media Control Center.,n
+1999,1973,div,MaxMyTV Smart Hub upgrades your TV to a Home Automation and Social Med... »read more,n
+2012,1973,div,Smart TVs,n
+2016,40,div,,n
+2018,2016,h2,Notion,y
+2020,2016,h2,Home Intelligence Sensors,y
+2031,2016,p,"Notion's sensors can be thermostats, burglar alarms, leak detectors - or anything else you can think of.",n
+2046,2016,div,"Notion's sensors can be thermostats, burglar alarms, leak detectors - ... »read more",n
+2057,40,div,,n
+2059,2057,h2,Ring,y
+2072,2057,p,"Ring provides a new level of security, by notifying you when someone is on your property and letting you see and speak with anyone at your front door.",n
+2083,2057,div,"security, by notifying you when someone i... »read more",n
+2094,40,div,,n
+2096,2094,h2,Aura,y
+2098,2094,h2,Connected Alarm Clock,y
+2109,2094,p,"Experience a high-tech alarm clock, hidden in a stylish lamp that offers an invigorating and refreshing wake-up experience via energizing light and customized music.",n
+2120,2094,div,"Experience a high-tech alarm clock, hidden in a stylish lamp that offe... »read more",n
+2128,40,div,,n
+2130,2128,h2,ZEN Thermostat,y
+2143,2128,p,Zen Thermostat is compatible with leading connected home platforms so you can easily expand without needing to run a separate home automation system.,n
+2154,2128,div,Zen Thermostat is compatible with leading connected home platforms so ... »read more,n
+2165,40,div,,n
+2167,2165,h2,Kepler,y
+2169,2165,h2,Gas and CO detector,y
+2180,2165,p,"No matter where you are, if Kepler detects danger, it alerts you on your smartphone, while simultaneously flashing its lights and sounding an alarm.",n
+2191,2165,div,"No matter where you are, if Kepler detects danger, it alerts you on yo... »read more",n
+2202,40,div,,n
+2204,2202,h2,Sense,y
+2217,2202,p,"Sense is packed with sensors that monitor the conditions of your bedroom, giving you unparalleled insight into how temperature, humidity, light, sound, and even air quality affects how well you sleep.",n
+2228,2202,div,your bedro... »read more,n
+2236,40,div,,n
+2238,2236,h2,Iota,y
+2240,2236,h2,GPS Tracking Device,y
+2251,2236,p,The world's smallest GPS tracking device with a rechargeable battery and incredible range. All with no monthly fees.,n
+2262,2236,div,The world's smallest GPS tracking device with a rechargeable battery a... »read more,n
+2270,40,div,,n
+2272,2270,h2,Hicon,y
+2274,2270,h2,Wearable Smart Bracelet,y
+2285,2270,p,"The smart bracelet that speaks of our personality, updates us on the status of the phone, on the events of our social network and allows us to socialize with other people.",n
+2296,2270,div,"our personality, updates us on the s... »read more",n
+2303,2270,div,Wristbands,n
+2304,40,div,,n
+2306,2304,h2,Table Air,y
+2308,2304,h2,Air Purifier,y
+2319,2304,p,"Intelligent air purifier with a PM2.5 filter, ultraviolet disinfection, odor removal, and multiple air purification functions. It includes a built-in WiFi module, which can be controlled through mobile application.",n
+2330,2304,div,"Intelligent air purifier with a PM2.5 filter, ultraviolet disinfection... »read more",n
+2341,40,div,,n
+2343,2341,h2,Amazon Tap,y
+2345,2341,h2,Portable bluetooth speaker,y
+2356,2341,p,"Alexa enabled portable bluetooth and Wi-Fi speaker. Powered by Dolby, with dual stereo speakers. Just tap and ask for music.",n
+2371,2341,div,"Alexa enabled portable bluetooth and Wi-Fi speaker. Powered by Dolby, ... »read more",n
+2382,40,div,,n
+2384,2382,h2,PulseOn,y
+2386,2382,h2,Heart Rate Monitoring,y
+2397,2382,p,"PulseOn's patented optical sensor detecting and measuring heart rate is excelling among optical sensors developed for continuous, accurate and reliable heart rate.",n
+2408,2382,div,PulseOn's patented optical sensor detecting and measuring heart rate i... »read more,n
+2416,40,div,,n
+2418,2416,h2,Keen Home,y
+2420,2416,h2,Smart Vent System,y
+2431,2416,p,Reduce energy costs and increase your comfort by regulating your home's temperature in every room. Air purification. Easy Control. Works with Nest.,n
+2442,2416,div,Reduce energy costs and increase your comfort by regulating your home'... »read more,n
+2453,40,div,,n
+2455,2453,h2,Petnet,y
+2457,2453,h2,Automatic feeder,y
+2468,2453,p,"Feed your cat or dog remotely, from your phone. Portion control, intelligent monitoring and food analysis.",n
+2483,2453,div,"Feed your cat or dog remotely, from your phone. Portion control, intel... »read more",n
+2494,40,div,,n
+2496,2494,h2,Amazon Echo Dot,y
+2509,2494,p,Adds Alexa to any room. The best Amazon Echo for starting out if you do not want to spend a lot of money.,n
+2524,2494,div,Adds Alexa to any room. The best Amazon Echo,n
+2540,40,h2,Lockitron Bolt,y
+2575,40,div,,n
+2577,2575,h2,Parrot,y
+2579,2575,h2,Wireless plant monitor,y
+2615,40,div,,n
+2617,2615,h2,Denon Heos,y
+2619,2615,h2,Wireless speaker system,y
+2630,2615,p,High Resolution Bluetooth and Wi-Fi speaker system.,n
+2645,2615,div,High Resolution Bluetooth and Wi-Fi speaker system.... »read more,n
+2653,40,div,,n
+2655,2653,h2,In.Sight,y
+2657,2653,h2,Wireless baby monitor,y
+2690,40,div,,n
+2692,2690,h2,Foobot,y
+2694,2690,h2,Indoor air quality monitor,y
+2727,40,div,,n
+2729,2727,h2,Sonos Play:5,y
+2731,2727,h2,Smart speaker,y
+2742,2727,p,A big home speaker with bold sound. Superior stereo sound and bass response.,n
+2757,2727,div,A big home speaker with bold sound. Superior stereo sound and bass res... »read more,n
+2765,40,div,,n
+2767,2765,h2,Click and Grow,y
+2769,2765,h2,Herb garden,y
+2804,40,h2,Beddit,y
+2836,40,div,,n
+2838,2836,h2,Misfit Bolt,y
+2840,2836,h2,Bluetooth smart bulb,y
+2873,40,div,,n
+2875,2873,h2,Arlo,y
+2877,2873,h2,Home security camera,y
+2910,40,div,,n
+2912,2910,h2,Sphero 2.0,y
+2914,2910,h2,Robotic ball,y
+2944,40,div,,n
+2946,2944,h2,Sugr Cube,y
+2948,2944,h2,Smart wifi speaker,y
+2959,2944,p,Minimalist Speaker with Amazon Alexa and Spotify Connect. AirPlay Compatible.,n
+2974,2944,div,Minimalist Speaker with Amazon Alexa and Spotify Connect. AirPlay Comp... »read more,n
+2985,40,div,,n
+2987,2985,h2,Muzo Cobblestone,y
+2989,2985,h2,Wireless music receiver,y
+3000,2985,p,Make Your Speakers Wireless and control them with your phone. Cloud streaming.,n
+3015,2985,div,Make Your Speakers Wireless and control them with your phone. Cloud st... »read more,n
+3025,40,h2,SkyBell,y
+3060,40,div,,n
+3062,3060,h2,Prodigio,y
+3064,3060,h2,Connected espresso machine,y
+3075,3060,p,"Let your phone make the perfect coffee. Connect through Bluetooth to brew immediately, schedule brews, receive maintenence alerts and track the capsule stock. Patented extraction system.",n
+3090,3060,div,Let your phone make the perfect coffee. Connect through Bluetooth to b... »read more,n
+3101,40,div,,n
+3103,3101,h2,Garageio,y
+3105,3101,h2,Garage door automation,y
+3116,3101,p,Control your garage from anywhere. Quick setup.,n
+3131,3101,div,Control your garage from anywhere. Quick setup.... »read more,n
+3145,40,div,,n
+3147,3145,h2,Anova,y
+3149,3145,h2,Precision cooker,y
+3160,3145,p,"Prepare your food and place it in a re-sealable bag, schedule a cook and it's done. No more overcooking. Works on any pot. Connects using Bluetooth and Wi-Fi.",n
+3175,3145,div,"Prepare your food and place it in a re-sealable bag, schedule a cook a... »read more",n
+3187,1,div,"All product names, logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.",n

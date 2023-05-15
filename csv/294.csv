@@ -1,0 +1,212 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+195,2,div,,n
+198,195,h1,DJ Equipment Guide,n
+199,195,div,,n
+201,199,div,Written by Adorama,n
+203,199,div,|,n
+205,199,div,"Updated on May 6, 2022",n
+209,195,div,,n
+211,209,span,TAGS,n
+212,209,text,"dj equipment , Headphones , input devices , mixers , sound system",n
+222,195,div,,n
+223,222,text,Adorama,n
+226,222,div,Adorama ALC,n
+230,195,div,,n
+232,230,p,"Building your first professional DJ setup can be a daunting task, especially if you are simply starting out as a DJ. To start on your journey to great beat mixes, it is important to consider numerous components before making any gear purchases.",n
+234,230,p,"With so many options for DJ equipment and software platforms nowadays, making informed decisions on which equipment to spend your hard-earned money on is a key step to building a professional DJ setup fit for your budget and skills. In this guide we walk you through what equipment you’ll need for your dj setup so you can feel confident in your purchases.",n
+238,230,h2,DJ Setups?,n
+240,230,p,"There are several types of DJ setups you can choose from when first starting out. Some are streamlined and require less equipment than others. For the smallest possible setup, you can get started with just a laptop and the right software. Other simple options include using only two turntables and a mixer.",n
+242,230,p,"You can upgrade either of those setups by adding a laptop with a DJ interface package for additional effects and options. For even greater flexibility, consider adding a DJ controller to your kit for built-in turntables, sliders, pads, and other controls. If you plan to work from MP3s rather than CDs or vinyl, you can get away with a small kit that features a laptop, a controller, an audio interface, and software.",n
+244,230,h2,Equipment Do You Need,n
+246,230,p,"equipment combinations differ among DJs, an essential setup",n
+247,230,ul,,n
+249,247,li,Monitor speakers,y
+251,247,li,Mixer,y
+253,247,li,Turntables,y
+257,247,li,Vinyl records or a laptop computer,y
+259,247,li,DJ software,y
+261,230,p,"One setup may not fit a certain style, so it is important to mix and match gear to find what works best for your musical selection and DJing style.",n
+263,230,p,"The amount of DJ equipment options can be somewhat overwhelming for a beginner, especially since choosing the equipment is crucial to creating quality sounds. There are however a number of essential gear that a DJ needs to make killer playlists and provide your audience with enjoyment.",n
+268,230,h3,Input devices,y
+270,230,p,"Putting tunes together requires at least two input devices, which can either be turntables or CD decks. You can choose from a wide range of input devices that will allow you to mix tunes and mashup tracks without a pause in music.",n
+272,230,h4,Turntables,y
+274,230,p,"Vinyl turntables are the classic choice for a DJ setup, letting you incorporate plenty of classic tracks and achieve that authentic scratch sound. But vinyl is bulky and more expensive than the other options.",n
+276,230,h4,CD Decks,y
+278,230,p,"Most DJs already have plenty of CDs in their collection. Using CD decks can be a less expensive option, though you’ll lose the authentic scratch effect.",n
+280,230,h4,Best Input Devices,y
+282,230,p,"The Gemini TT-1000USB Turntable is a professional-quality turntable with a belt drive and a precision aluminum tonearm. Thanks to rubber feet and a solid turntable base, you don’t have to worry about external vibrations causing skips or affecting playback at busy clubs with heavy bass.",n
+286,230,p,"With the USB connectivity, you can mix through a computer-based interface or digitize your vinyl collection with ease.",n
+291,230,div,,n
+294,291,h4,"Audio-Technica AT-LP60X Fully Automatic Belt-Drive Stereo Turntable, Gun Metal or Black",y
+304,291,span,$139,n
+332,230,div,,n
+335,332,h4,"Reloop RP-7000 Direct Drive High Torque Turntable, High Gloss Black",y
+341,332,span,$899.99,n
+348,230,h3,Mixer,y
+350,230,p,"The mixer is the core part of any professional DJ setup. It is a type of audio mixing console that allows DJs to perform different effects and tricks. It helps the DJ transition from song to song, apply effects or manage the many audio signals a DJ can come across.",n
+352,230,p,"The Numark M2 2-Channel Scratch Mixer is an affordable scratch mixer for DJs of all experience levels. With two switchable phono or line inputs, you can accommodate CD players, direct-drive turntables, and other gear to mix your ideal set.",n
+356,230,p,Three-band EQ and gain on each channel makes it easy to dial in your sound for each input.,n
+358,230,h4,Best Mixers,y
+360,230,p,"The mixer has four channels located on the sides of the center LCD which you can use to connect your turntables to other analog players. Each channel features a fader that allows you to adjust the channel volume, a trim control to adjust input level, and a CUE button dedicated to the pre-listen function in your headphones. The unit also features Delay, Multi-Tap Delay, Roll, Reverse Roll, and Filter and Phaser effects.",n
+362,230,p,"Some mixers are compact for more mobile DJ setups, while others have lots of bells and whistles like touchscreens.",n
+367,230,div,,n
+370,367,h4,Gemini MXR-01BT 2-Channel Professional DJ Mixer with Wireless Bluetooth,y
+373,367,span,$149.95,n
+376,367,span,$239.95,n
+382,230,div,,n
+385,382,h4,Reloop RMX-22i 2+1 Channel DJ Mixer with Digital Effects and Smart Device Connectivity,y
+388,382,span,$479.99,n
+397,230,div,,n
+400,397,h4,"Pioneer Electronics XDJ-XZ Professional 4-Channel All-In-One DJ System, Black",y
+403,397,span,$2399,n
+406,397,span,$2899,n
+414,230,h3,Headphones,y
+416,230,p,"A high-quality pair of headphones is a crucial DJ accessory. It allows DJs to listen, cue, and mix tunes with precision. It is one of the most important tools for determining the right timing to play songs rhythmically. When shopping for headphones as a DJ, you’ll want to consider 3 things: Accuracy in the low end, rotating ear cups, and good isolation.",n
+420,230,p,"The equipment you use is based on your preference, but it’s also important to consider comfort as one of the main factors in choosing your headphones. You’ll wear headphones for hours on end, so you want to use a pair that not only reproduces sounds accurately, but is also comfortable to wear.",n
+422,230,p,Another important factor to consider is flexibility. A good pair of DJ headphones does not easily break even when bended in different positions.,n
+424,230,h4,Best Headphones,y
+426,230,p,"Sennheiser HD 25 Plus Closed-Back Monitor Headphones is a lightweight headphone that provides high-quality audio. Its closed back design provides effective noise cancellation, making it ideal for use even in loud environments. It also features a rotatable ear cup for single-ear listening. The HD 25 Plus is capable of handling high sound pressure levels of up to 120 decibels, which allows it to perform well in loud environments.",n
+432,230,div,,n
+435,432,h4,Audio-Technica ATH-M50x Professional Monitor Headphones - Black,y
+445,432,span,$169,n
+451,230,div,,n
+454,451,h4,"Pioneer Electronics HDJ-X10 Professional Over-Ear DJ Headphones, Silver",y
+457,451,span,$369,n
+460,451,span,$469,n
+466,230,div,,n
+469,466,h4,"V-MODA M-200 Closed-Back Over-Ear Studio Headphones, Black",y
+472,466,span,$349.99,n
+480,230,h3,Sound system,y
+482,230,p,"Using studio monitor speakers is a great way for beginner DJs to hear their mixes with accuracy. While bookshelf or computer speakers produce a sound that you may enjoy, they also amplify certain frequencies that can make it difficult for beginners to hear what the mix actually sounds like.",n
+486,230,p,"When you start playing gigs, you’ll find that most venues will have their own PA system that you can use with an amplifier, speakers, etc. But for a home DJ setup to practice with, here are several DJ speaker suggestions to create an accurate live sound.",n
+488,230,h4,Best Sound System,y
+490,230,p,"Small in size but not in playback capability, the Mackie CR4-X 4″ Creative Reference Multimedia Monitors generate studio-quality sound on a budget. The design looks impressive, too, thanks to a brushed metal front plate with green accents.",n
+494,230,p,"A ⅛” Aux input makes it easy to use a cell phone, laptop, or other audio source directly.",n
+499,230,div,,n
+502,499,h4,"KRK Classic 5 G3 5"" 2-Way Studio Monitor",y
+505,499,span,$135,n
+508,499,span,$149.5,n
+514,230,div,,n
+517,514,h4,"JBL 306P MkII Powered 6.5"" Two-Way Studio Monitor",y
+527,514,span,$159,n
+536,230,div,,n
+539,536,h4,"Adam Audio Professional T-Series T7V 7"" 70W 2-Way Active Nearfield Monitor, Single",y
+549,536,span,$274.99,n
+557,230,h3,Controller,y
+559,230,p,"Most modern DJs opt for a simpler digital setup comprising a controller and a laptop. If you no longer use vinyl records or CDs, then purchasing a controller is really the only step you need to take to create a viable DJ setup.",n
+561,230,p,"Controllers essentially mimic the function of turntables and mixers. They allow for easier manipulation of their chosen DJ software. It allows you to mix music through the software with the use of knobs, encoders, jog wheels, faders, assignable backlit buttons, touch strips, and other control components.",n
+563,230,p,"The Rane DJ ONE Professional Motorized DJ Controller is the ideal all-in-one setup for your next DJ gig. Multi-function pads, aluminum FX paddles, a dedicated loop controller, plenty of mixer adjustments, and twin 7” turntable platters provide all the features you need to get the crowd moving, right at your fingertips .",n
+567,230,p,"Rane is known for their functionality and superior sound, so whether you’re doing a full set or just throwing together a few quick remixes, you’ll have full creative control.",n
+572,230,div,,n
+575,572,h4,Pioneer Electronics DDJ-400 2-Channel DJ Controller,y
+578,572,span,$249,n
+581,572,span,$299,n
+587,230,div,,n
+590,587,h4,Numark Mixtrack Pro FX 2-Deck Serato DJ Controller with Effects Paddles,y
+596,587,span,$399,n
+602,230,div,,n
+605,602,h4,Roland DJ-808 4-Track Serato Performance DJ Controller,y
+608,602,span,$1499.99,n
+613,230,h2,How Much Does a Beginner DJ Setup Cost?,n
+615,230,p,"The cost of beginner DJ setups can range from just a few hundred dollars to a couple thousand dollars. The price of your kit depends on the type of equipment you choose. If you already own a laptop and plan to use a simplified computer-based setup, you can get away with purchasing only a basic controller and some headphones for a lot less than a full setup.",n
+617,230,p,"Don’t feel like you need to invest in high end equipment like PA speakers, DJ lighting systems with dance effect lights right away. Creating quality sound is the most important part and many of your venues will have their own gear you can use.",n
+619,230,p,"If you start from scratch, you’ll spend more at the beginning, but you’ll have more control over each part of your kit. Buying an all-in-one solution is easier and more affordable, but since it’s a standalone piece, you can’t swap for a mixer with more features, or a turntable with better control and feel.",n
+621,230,h2,Budget-Friendly Sample DJ Setup For Beginners,n
+623,230,p,Setups vary widely among DJs. The equipment comprising a complete setup depends on each DJ’s personal preference and musical style.,n
+625,230,p,Here is a sample setup,n
+626,230,ul,,n
+628,626,li,Two turntables,y
+630,626,li,DJ mixer,y
+634,626,li,USB or audio interface,y
+636,626,li,Monitor speakers,y
+638,230,h3,Numark PT01USB Turntable,y
+663,230,p,"The Numark PT01USB is a portable, AC or battery-powered turntable that converts vinyl to WAV or MP3. It makes recording and importing audio simple through the EZ Vinyl Converter 2 for PC and Audio Converter for Mac software that is included in the turntable.",n
+666,230,ul,,n
+668,666,li,USB connection and USB cable,y
+670,666,li,Belt-drive motor,y
+672,666,li,Protective dust cover with carrying handle,y
+674,666,li,AC adapter,y
+676,666,li,Built-in speaker,y
+678,666,li,RCA connector and headphone jacks,y
+680,666,li,45 RPM adapter,y
+682,666,li,DJ cartridges,y
+684,230,h3,Behringer DJX750 Professional 5-Channel DJ Mixer,y
+688,230,div,,n
+691,688,h4,Behringer DJX750 Professional 5-Channel DJ Mixer with Advanced Digital Effects and BPM Counter,y
+694,688,span,$259,n
+699,230,p,"With its fairly affordable price point, the Behringer DJX-750 is an attractive option for beginners who are building their first DJ setups. But don’t let the price fool you—this 5-channel mixer has the features and functions required to serve the needs of professionals as well.",n
+702,230,ul,,n
+704,702,li,24-Bit effects processor,n
+706,702,li,Tactile effects control,n
+708,702,li,Two automatic BPM counters with time and beat sync display,n
+710,702,li,45mm VCA-controlled crossfader,n
+712,702,li,3-way frequency kill switches,n
+714,702,li,Adjustable XPQ stereo surround effect,n
+716,230,h3,Native Instruments KOMPLETE AUDIO 1 Desktop USB Audio Interface,y
+720,230,div,,n
+723,720,h4,Native Instruments KOMPLETE AUDIO 1 Desktop USB Audio Interface,y
+726,720,span,$109,n
+731,230,p,Simplicity is key with the Native Instruments KOMPLETE AUDIO 1 Desktop USB Audio Interface. Just plug it into your desktop or laptop computer using the USB 2.0 connection and start recording from the XLR and jack inputs with minimal set up.,n
+733,230,p,"Plus, Ableton Live 10 Lite is included so you’ll also have access to plenty of useful effects and synths.",n
+736,230,ul,,n
+738,736,li,Compatible with Mac and Windows operating systems,n
+740,736,li,192 kHz and 24 bit premium audio quality,n
+742,736,li,Stereo RCA output,n
+744,736,li,XLR mic input with 48V phantom power,n
+746,736,li,Jack input with individual gain control,n
+748,736,li,Built-in VU meter,n
+750,736,li,Compact and portable,n
+752,230,h3,PreSonus 2x Eris E3.5 2-Way 3.5″ Nearfield Monitor,y
+756,230,div,,n
+759,756,h4,"PreSonus 2x Eris E3.5 2-Way 3.5"" Nearfield Monitor with Software Suite",y
+769,756,span,$99.95,n
+772,756,span,$129.95,n
+777,230,p,"PreSonus’s Eris E3.5 2-Way 3.5” Monitors provide easily adjustable, studio-quality sound for any DJ or studio engineer.",n
+779,230,p,"With 3.5” Kevlar low frequency transducers, 1” ultra low mass high frequency transducers, and a rear-firing acoustic port for impressive bass reproduction, these monitors deliver an accurate representation of your sound in a sleek, compact package.",n
+782,230,ul,,n
+784,782,li,Resonance-suppressing internal bracing,n
+786,782,li,Separate controls,n
+788,782,li,Front panel volume control,n
+790,782,li,Amplifier soft start feature,n
+792,782,li,Inputs,n
+794,782,li,Integrated stereo headphone amplifier,n
+796,782,li,Studio One 5 Prime Software included,n
+798,230,h2,Rent or Buy?,n
+800,230,p,Renting DJ equipment is the best option for DJs who do not have the budget to purchase all the gear they need. This is particularly advantageous for those who are just starting out in developing their skills as a DJ and may not want to invest a large amount on professional equipment until they feel more confident in their skills and are ready to start booking gigs.,n
+802,230,p,"Aside from saving on the cost of purchasing new gear, you won’t have to worry about performing regular maintenance on the equipment. Another advantage of renting is that you will be able to try out different brands and see which ones you like best before taking the plunge and buying the gear you want.",n
+804,230,p,"On the other hand, buying brand new decks and mixers has its advantages. Aside from allowing you to create a fully customized DJ setup that suits your needs, most equipment usually come with manufacturer’s warranties. The obvious downside is the price, but if you are serious about your craft, it is definitely a worthwhile investment.",n
+805,230,div,,n
+809,805,h3,Adorama,n
+811,805,div,"Adorama's 42West is the content destination for photographers, filmmakers, audio creatives and all things electronic. Check out our up-to-date editorial features on all the latest gear, how-to's and interviews with today's most relevant industry insiders.",n
+817,2,div,,n
+820,817,h3,You Might Also Like,n
+823,817,div,,n
+826,823,div,,n
+830,826,div,"October 29, 2021",n
+832,826,h3,Best Guitar Recording Accessories,n
+835,823,div,,n
+839,835,div,"August 17, 2021",n
+841,835,h3,How to Add Music to a Video,n
+844,823,div,,n
+848,844,div,"December 6, 2021",n
+850,844,h3,The Beginner’s Guide to Mixing Music,n
+853,823,div,,n
+857,853,div,"August 31, 2021",n
+859,853,h3,How to Set Up DJ Gear,n
+861,2,footer,,n
+866,861,p,,n
+867,866,text,"Equipping your creativity, since 1974.",n
+869,866,span,Read our story,n
+870,866,text,.,n
+873,861,div,,n
+876,873,p,-2500,n
+879,873,p,Help Center,n
+882,873,p,NYC Store,n
+893,861,div,,n
+895,893,p,Use,n
+899,893,p,,n
+900,899,text,"42 West 18th Street New York, NY 10011",n
+902,899,span,directions,n
+903,899,text,• 800.223.2500,n

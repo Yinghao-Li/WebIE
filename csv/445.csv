@@ -1,0 +1,225 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,div,,n
+5,2,p,gear.,n
+7,2,p,"To help make your life easier, here’s our packing list.",n
+13,2,p,For specific tips on packing ski gear,n
+17,2,h2,The Brave Ski Mom Family Skiing Packing List,n
+22,2,h3,Clothing,y
+24,2,ul,,n
+26,24,li,wool or synthetic ski socks,y
+28,24,li,Wool or synthetic long underwear or base layers,y
+30,24,li,"A fleece, wool or down sweater or pull over",y
+32,24,li,"Waterproof, insulated ski pants",y
+34,24,li,"Waterproof, insulated ski coat, ideally with a hood that fits over a helmet",y
+36,24,li,Waterproof mittens,y
+38,24,li,Helmet,y
+40,24,li,Goggles or sunglasses,y
+42,24,li,Snow boots,y
+46,2,h3,Optional Clothing Items,n
+47,2,ul,,n
+49,47,li,Wool or synthetic mitten liners,y
+51,47,li,"Balaclava, neck gaiter or face mask",y
+53,47,li,Extra socks,y
+55,47,li,Extra long underwear or base layers,y
+57,47,li,"Extra layer, like a wool or down vest",y
+60,2,h3,Equipment,n
+61,2,ul,,n
+63,61,li,Skis with bindings or Snowboard with bindings,y
+65,61,li,Ski Boots or Snowboard Boots,y
+67,61,li,Poles,y
+70,2,h3,Other Necessities,n
+71,2,ul,,n
+73,71,li,Sunscreen,y
+75,71,li,Lip balm,y
+77,71,li,Disposable hand warmers,y
+79,71,li,Water,y
+81,71,li,Snacks,y
+83,71,li,the gear organized and in one place,y
+85,71,li,skiing,y
+87,71,li,Folding camp chair,y
+90,2,h2,Recommended Items and Brands,n
+92,2,p,Imagine something you might need,n
+94,2,p,"There is a dizzying array of skiing and snowboarding-related products out there. We’ve tried a lot of them, and we have our favorites.",n
+96,2,p,what we can’t ski without.,n
+99,2,h3,Mittens,y
+100,2,p,,n
+101,100,text,We’re all in on mittens because they are warmer than gloves.,n
+103,100,strong,Our favorite is the Hestra Heli Mitt .,n
+105,100,text,"Available for men , women and kids , the liner is washable, the Hestra “handcuff” makes them harder to lose and the leather palm keeps moisture out. It’s also available as a glove.",n
+113,2,p,,n
+115,113,strong,Hestra also makes our favorite mitt,n
+116,113,text,". We love it for its overall high quality, long cuff and side zipper that makes it easy to put on.",n
+120,2,div,,n
+123,120,div,Our Favorite Hestra Mittens,n
+131,120,div,,n
+139,131,div,"Hestra Gloves 30561 Jr. Heli Ski Mitt, Cerise - 4",n
+181,131,div,,n
+187,181,div,Hestra Baby Zip Long Mitten,n
+191,181,div,$55.00,n
+230,131,div,,n
+236,230,div,Hestra Heli Ski Womens Glove - Classic Leather …,n
+240,230,div,$144.95,n
+285,131,div,Hestra Army Leather Heli Ski Glove - Classic Snow Mitten,n
+497,2,h3,Baselayers,y
+498,2,p,,n
+499,498,text,"We don’t care what brand we wear, but we all prefer wool. Breathable, warming and less “stinky” than polypro, it’s a natural fiber that treats you well. While some wool can be itchy, we’ve had good luck with",n
+501,498,strong,Icebreaker,n
+505,498,text,", and",n
+509,2,p,,n
+510,509,text,Looking,n
+512,509,strong,S’No Queen,n
+515,509,strong,Lon Gundie,n
+518,509,strong,Stripes Gear,n
+519,509,text,"are warm, wicking and have fun patterns and colors",n
+523,2,div,,n
+526,523,div,Favorite Wool Baselayers,n
+542,523,div,"Icebreaker Girl's Oasis Crewe Top,, Blizzard",n
+754,2,h3,Socks,y
+755,2,p,,n
+756,755,text,"Again, we’re all about wool. The thinner the better.",n
+759,755,text,probably has the most choices,n
+761,755,strong,"Rohner has the thinnest, yet still warm, socks we’ve found.",n
+762,755,text,But truly any purpose-made ski sock will work.,n
+766,2,div,,n
+769,766,div,Wool Ski Socks,n
+777,766,div,,n
+785,777,div,Smartwool Women's PhD Ski Light Elite Pattern Socks Dark Blue-Past…,n
+833,777,div,Smartwool Men's PhD Ski Light Pattern Socks Large,n
+881,777,div,Smartwool Kids' Wintersport Stripe Socks Medium,n
+1093,2,h3,Mid-Layers,y
+1094,2,p,,n
+1095,1094,text,An essential layer,n
+1097,1094,strong,wool midlayers from Icebreaker,n
+1098,1094,text,", wool vests and full zips from",n
+1101,1094,text,and down sweaters from,n
+1103,1094,strong,The North Face,n
+1106,1094,strong,REI,n
+1109,1094,strong,Obermeyer,n
+1112,1094,strong,Columbia,n
+1113,1094,text,". Each of these layers can be worn under a jacket on extra cold days, under a shell on normal winter days or by themselves on spring skiing days.",n
+1117,2,div,,n
+1120,1117,div,Favorite Midlayers,n
+1128,1117,div,,n
+1136,1128,div,"Columbia Women's Down Time Pull Over, Shark…",n
+1184,1128,div,The North Face Men's Thermoball Jacket Urban…,n
+1232,1128,div,SmartWool Girls Smartloft Double Corbet 120 Jacket - Kid's Berry Medium,n
+1279,1128,div,"Columbia Big Boys' Powder Lite Puffer Jacket, Moun…",n
+1491,2,h3,Ski Pants,y
+1492,2,p,,n
+1493,1492,text,"For kids,",n
+1495,1492,strong,we love Spyder’s bib pants with full zip sides,n
+1497,1492,text,". These are a ski racer favorite with zips that make them easy to get on and off, even if you don’t take off your ski boots. Spyder has many other styles and designs for kids, some that can be lengthened in the legs as your child grows.",n
+1498,2,p,,n
+1499,1498,text,"For women,",n
+1502,1498,strong,the best fitting ski pants I’ve tried,n
+1503,1498,text,". The only drawback? They don’t have leg vents. For more technical pants, we look to",n
+1509,1498,strong,Patagonia,n
+1512,1498,strong,Marmot .,n
+1517,2,div,,n
+1520,1517,div,Favorite Ski Pants,n
+1536,1517,div,"Burton Women's Gloria Snow Pant, Sangria, Small",n
+1749,2,h3,Ski Jackets,y
+1750,2,p,,n
+1751,1750,text,"Again,",n
+1753,1750,strong,"we’ve been totally pleased with Spyder kids and junior jackets , especially those that can be lengthened in the arms to provide a longer life",n
+1756,1750,text,". For women, there are too many good choices to pick just one.",n
+1757,2,p,,n
+1758,1757,text,"For the latest Spyder junior styles, we recommend",n
+1760,1757,strong,WinterKids.com .,n
+1762,2,p,,n
+1763,1762,text,insulation.,n
+1765,1762,strong,My go-to on the coldest days is a Stio,n
+1766,1762,text,", although I still add a down sweater underneath. On warmer days when I want a unique look, I love the looks from",n
+1769,1762,text,". A “snowboard brand”, Burton jackets have longer lines than many ski coats, providing extra warmth and protection on the chairlift. Other solid brands include Obermeyer, Spyder, Patagonia and Marmot.",n
+1770,2,p,,n
+1771,1770,text,My go-to retailer?,n
+1773,1770,strong,WinterWomen.com,n
+1778,2,div,,n
+1781,1778,div,Spyder Favorites,n
+1789,1778,div,,n
+1797,1789,div,"Spyder Girl's Lola Ski Jacket, Baltic GEO Print, Size 08",n
+1845,1789,div,"Spyder Boys Reckon 321 Jacket, Large, Space or Electric Blue Print or Polar",n
+2058,2,div,,n
+2061,2058,div,Some Favorite Jackets,n
+2077,2058,div,Obermeyer Womens Bombshell Jacket,n
+2289,2,h3,Face Masks,y
+2290,2,p,,n
+2291,2290,text,"It isn’t pretty, but the",n
+2293,2290,strong,"neoprene Seirus face mask is warm, and it doesn’t fog your goggles or make you feel claustrophobic.",n
+2294,2290,text,It’s a winner!,n
+2298,2,div,,n
+2301,2298,div,Stay Warm Favorites,n
+2309,2298,div,,n
+2311,2309,div,,n
+2317,2311,div,Seirus Innovation 6810 Neofleece Comfort Mas…,n
+2321,2311,div,$22.94,n
+2360,2309,div,,n
+2366,2360,div,HotHands Hand Warmers - Long Lasting Safe Nat…,n
+2370,2360,div,$21.87,n
+2409,2309,div,,n
+2415,2409,div,"Smartwool Liner Glove Black, M",n
+2419,2409,div,$24.99,n
+2458,2309,div,,n
+2464,2458,div,BUFF Multifunctional Neckwear Lightweight M…,n
+2466,2458,div,,n
+2468,2466,span,$26.99,n
+2470,2466,span,$28.99,n
+2678,2,h3,Ski Boot Backpacks,y
+2679,2,p,,n
+2680,2679,text,"All this gear needs a place of its own. Make your life easier by giving everyone their own ski boot backpack or bag. Keep them packed and at the ready, for grab and go convenience. Our favorites are from",n
+2682,2679,strong,Transpack,n
+2685,2679,strong,Kulkea,n
+2686,2679,text,. Both brands are available in adult and junior sizes and in heated models.,n
+2690,2,div,,n
+2693,2690,div,Ski Boot Backpacks,n
+2701,2690,div,,n
+2709,2701,div,Transpack TRV Pro Ski or Snowboard Boot and Gear Bag Backpack 2017,n
+2757,2701,div,KULKEA Thermal Trekker - Heated ski or Snowboard Boot Bag Grey or Bla…,n
+2969,2,h3,Ski Bags,y
+2970,2,p,,n
+2971,2970,text,"A necessity for families who travel, ski bags are also useful for storing skis in dorm rooms, we’ve recently found. The wheeled",n
+2973,2970,strong,Transpack Double Vault holds two pairs,n
+2974,2970,text,", while the",n
+2976,2970,strong,Kulkea Kantaja,n
+2977,2970,text,skis.,n
+2981,2,div,,n
+2984,2981,div,Ski Bags,n
+2992,2981,div,,n
+3000,2992,div,KULKEA Kantaja Ski Bag - Black or Blue or Green,n
+3042,2992,div,,n
+3048,3042,div,TRANSPACK Alpine Ski Bag-Black,n
+3050,3042,div,,n
+3052,3050,span,$34.97,n
+3054,3050,span,$49.95,n
+3262,2,h3,Stay Warm and Dry Out Your Ski Boots,n
+3263,2,p,,n
+3264,3263,text,The,n
+3266,3263,strong,Torch Coat Heater,n
+3267,3263,text,is well-designed and provides steady heat for approximately four hours. Velcro attachments let you move it from jacket to jacket. You can also charge your phone with the battery pack.,n
+3268,2,p,,n
+3269,3268,text,"Drying out your boots after each ski day will prolong their life, keep them warmer and prevent odor. We’ve tried hot sticks, dryers of all types and even absorbent passive dryers that don’t need electricity. Right now our favorites are the",n
+3271,3268,strong,Dryguy Travel Dry DX,n
+3272,3268,text,and the,n
+3274,3268,strong,Drysure Extreme,n
+3275,3268,text,. Both are good,n
+3278,2,p,BONUS,n
+3281,2,p,,n
+3282,3281,text,"Another way to dry out ski boots is to remove the liner and dry it overnight. In all honesty, I think it’s hard to get the liner back in. So I was happy to find the",n
+3284,3281,strong,Ski and Snowboard Boot Horn,n
+3285,3281,text,at my ski shop. A simple piece of plastic it slides between the back of the liner and the boot shell to reduce friction and help slide the liner into place.,n
+3289,2,div,,n
+3292,3289,div,Stay Warm and Dry,n
+3302,3289,div,,n
+3308,3302,div,"DryGuy Travel Dry Boot and Shoe Dryer and Warmer, Orange , Black",n
+3310,3302,div,,n
+3312,3310,span,$34.99,n
+3314,3310,span,$39.99,n
+3521,2,p,This page contains affiliate links. Affiliate links help offset some of the costs of producing Braveskimom.com. I have not been paid or reimbursed in any way by any gear manufacturer listed in the on this page. All opinions are my own and are exactly what I would tell my family and friends.,n
+3524,2,div,,n
+3526,3524,h3,Spread the Love,n
+3528,3524,ul,,n
+3531,3528,li,Email,n
+3534,3528,li,Print,n
+3543,3528,li,Save,n
+3550,3528,li,Share,n

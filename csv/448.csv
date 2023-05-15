@@ -1,0 +1,314 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,,n
+6,4,div,,n
+18,6,div,,n
+21,18,h1,Recommended Winter Day Hiking Gear List,n
+22,18,p,,n
+24,22,span,Philip Werner,n
+26,22,span,"February 15, 2022",n
+28,22,span,"Gear Lists , Winter Hiking",n
+32,18,div,,n
+36,32,p,"When gearing up for winter day hiking you want footwear, clothing, and traction aids that can be used across a fairly wide range of temperatures, wind speeds, sun, precipitation types, and surface conditions. For example, typical winter weather includes:",n
+37,32,ul,,n
+39,37,li,Temperatures,n
+41,37,li,Wind speeds,n
+43,37,li,Sunlight,n
+45,37,li,Precipitation types,n
+47,37,li,Surface conditions,n
+49,32,h2,Layering Clothes,n
+51,32,p,"In addition, you need to dress for a wide range of activity levels, such as when you are exerting yourself and generating lots of body heat or when you are at rest and need to bundle up.",n
+53,32,p,The recommended approach for winter dressing is to add clothing layers when you get cold and take off layers when you start to sweat. Sweating should be avoided in winter because wet or damp clothing will chill you when you stop moving. Take off layers if you start to sweat or slow down your pace to generate less body heat.,n
+55,32,p,"When starting a hike in winter, you’ll probably be wearing gloves, a hat, long sleeve jersey, long underwear, boxer jocks, hardshell or softshell pants, a fleece pullover, a hardshell jacket, warm socks, insulated boots, and high gaiters. After about 15 minutes, you’ll probably take off your hardshell and unzip your pants to vent body warmth. That’s called layering and it occurs when someone in your group shouts out “layer break!”",n
+57,32,p,Important,n
+59,32,h2,Winter Day Hiking Gear List,n
+61,32,p,"The following day winter day hiking clothing and gear will keep you safe and comfortable in below-treeline conditions. Below treeline hikes are usually protected by forest and are warmer and less windy than above-treeline hikes, which are on top of exposed mountains or ridgelines.",n
+62,32,ul,,n
+63,62,li,,n
+64,63,text,Footwear,y
+65,63,ul,,n
+67,65,li,Insulated hiking boots,y
+69,65,li,Warm socks,y
+71,65,li,High gaiters,y
+72,62,li,,n
+73,72,text,Hats,y
+74,72,ul,,n
+76,74,li,Lightweight fleece or wool hat,y
+78,74,li,Heavyweight fleece or wool hat,y
+79,62,li,,n
+80,79,text,Gloves,y
+81,79,ul,,n
+83,81,li,Lightweight fleece or wool gloves,y
+85,81,li,"Waterproof shell mitts or gloves, with insulated liners",y
+86,62,li,,n
+87,86,text,Jackets,y
+88,86,ul,,n
+90,88,li,Puffy insulated jacket with attached hood,y
+92,88,li,Waterproof and windproof jacket with attached hood,y
+93,62,li,,n
+94,93,text,Pants,y
+95,93,ul,,n
+97,95,li,Hardshell pants that are waterproof and windproof with full-length zippers along the sides,y
+99,95,li,Softshell pants,y
+100,62,li,,n
+101,100,text,Mid-Layer Insulation,y
+104,100,li,"Fleece jacket, fleece pullover, fleece vest, insulated vest, or softshell jacket",y
+105,62,li,,n
+106,105,text,Base-Layer Insulation,y
+113,105,li,Boxer jock underwear to prevent chafing,y
+114,62,li,,n
+115,114,text,Spare Clothing,y
+122,114,li,socks,y
+123,62,li,,n
+124,123,text,Winter traction aids,y
+125,123,ul,,n
+127,125,li,Microspikes,y
+129,125,li,Snowshoes,y
+130,62,li,,n
+131,130,text,Water Bottles,y
+132,130,ul,,n
+134,132,li,Two or three 1-liter wide-mouth water bottles,y
+136,132,li,"Water bottle insulation, if bottles are stored outside your backpack",y
+137,62,li,,n
+138,137,text,Backpack,y
+139,137,ul,,n
+141,139,li,35-45 liter backpack with side compression straps or a shovel pocket for attaching snowshoes and microspikes to the pack,y
+143,139,li,Extra webbing straps as needed,y
+144,62,li,,n
+145,144,text,10 Essentials,n
+146,144,ul,,n
+148,146,li,Map,y
+150,146,li,Compass,y
+152,146,li,Whistle,y
+154,146,li,Headlamp with extra lithium batteries,y
+156,146,li,Personal first aid kit,y
+158,146,li,Fire starting materials,y
+160,146,li,Small knife or multi-tool,y
+162,146,li,Gear repair supplies,y
+164,146,li,High energy snacks,y
+166,146,li,Sunglasses and sunscreen,y
+168,146,li,Toilet paper,y
+169,62,li,,n
+170,169,text,"Survival Gear – this can be distributed among hiking group members, or carried if hiking alone",n
+171,169,ul,,n
+173,171,li,Sleeping bag,y
+175,171,li,Sleeping pad,y
+177,171,li,Lightweight bivy sack or tent body without tent poles,y
+179,171,li,"White gas stove, fuel, pot, stove base",y
+181,171,li,Group first aid kit,y
+183,32,h3,Extra Gear,n
+185,32,p,"If you’re headed above treeline on a day hike, you’ll want to carry extra wind protection for your face and beefier traction aids, like full crampons. Avalanche tools are rarely needed in the Northeast unless you are hiking in high-risk mountain areas.",n
+186,32,ul,,n
+188,186,li,A face mask or combination face mask or balaclava,y
+190,186,li,Snow goggles,y
+192,186,li,Crampons,y
+194,186,li,Ice ax,y
+196,186,li,"Avalanche shovel, beacon, and probe in hazardous terrain",y
+198,32,h2,Winter Hiking Clothing and Gear Buying Guide,n
+200,32,p,"While gear lists are useful, I’ve also provided some advice below about what to look for when purchasing gear for winter use to steer you in the right direction about the capabilities you want in winter hiking gear. I’ve used every single item listed below so I know what’s good and what’s not good.",n
+202,32,h3,Insulated winter boots,y
+204,32,p,"Winter hiking boots should be rated for 20 below zero Fahrenheit or colder. Single-layer insulated boots with the equivalent of 400 grams of Thinsulate insulation or the equivalent are sufficient for below treeline hiking, but some hiking leaders may require that you use an insulated mountaineering boot for above-treeline or long-duration day hikes. It can be useful to size winter boots a half size larger than normal to accommodate a thicker sock or sock liner without compromising blood circulation. Avoid so-called Pack Boots, which are less comfortable for vigorous hiking. If you plan on hiking where temperatures get below 20F degrees, I recommend 400g insulated boots.",n
+208,32,p,"There is a serious worldwide shortage of 400g cold weather hiking boots due to supply chain disruptions. These boots are in stock, but probably not for long.",n
+209,32,ul,,n
+211,209,li,Merrell Overlook Tall 2 WP Boot,n
+216,209,li,The North Face Chilkat Boots,n
+223,209,li,Vasque Snowurban II Boots,n
+228,209,li,Lowa Alpine Expert,n
+235,209,li,La Sportiva Nepal Evo GTX,n
+240,32,h3,Warm socks,y
+242,32,p,"Most hikers wear a heavier wool sock in winter than during other times of the year, but this is an area of personal preference, and the sock “systems” people use vary widely. Sock liners are optional but can be beneficial if you are blister-prone. Whatever combination you use, make sure that there is plenty of space in your boots to wiggle your toes around as this increases blood circulation and foot warmth. We recommend:",n
+243,32,ul,,n
+245,243,li,Darn Tough Mountaineering Over the Calf Socks,n
+247,243,li,REI Lightweight Merino Hiking Socks,n
+249,243,li,REI Merino Wool Expedition Socks.,n
+251,32,h3,High gaiters,y
+253,32,p,"High gaiters help prevent snow from entering your boots or making your socks wet and provide extra insulation below your knee. If you use crampons, they also protect your ankles from self-inflicted wounds. Avoid gaiters that close with zippers because they break quite quickly. Look for gaiters that seal around your leg using velcro instead.",n
+256,32,ul,,n
+258,256,li,Outdoor Research Crocodile Gaiters,n
+260,256,li,Outdoor Research Rocky Mountain High Gaiters,n
+262,256,li,REI Backpacker Gaiters,n
+264,32,h3,Hats,y
+266,32,p,"A minimum of two hats is recommended for winter day hikes: lightweight wool or synthetic hat for high exertion activities and a warmer, heavier weight hat for later in the day when temperatures drop. You’ll probably sweat at least one of them out.",n
+269,32,ul,,n
+271,269,li,REI Polartec Fleece Beanie,n
+273,269,li,Mountain Hardware Dome Perignon Beanie,n
+275,269,li,"A Polar Buff, which can be used as a scarf or another hat, or face mask",n
+277,269,li,Fleece headband,n
+279,32,h3,Gloves,y
+281,32,p,"A minimum of two pairs of gloves is recommended, although hikers often bring three or four pairs if their hands sweat a lot while hiking. Experiment with this. You’ll be glad to have extras if you wet out your gloves with sweat.",n
+283,32,p,"One pair of gloves should be modular with an outer waterproof shell layer and an inner insulating liner. Mitts provide more warmth than gloves, but gloves provide more dexterity. One compromise approach is to use an insulating glove inside a waterproof shell mitt in order to provide dexterity and warmth. You can also bring multiple liner gloves and switch them out when they get damp and cold. Outdoor Research makes the best winter gloves by a long shot.",n
+285,32,p,We recommend the following modular gloves and mitts.,n
+286,32,ul,,n
+288,286,li,Outdoor Research Mt Baker Mitts,n
+290,286,li,Outdoor Research Meteor Mitts,n
+292,286,li,Outdoor Research Arete Gloves,n
+294,32,p,"The second pair of gloves is usually lighter weight and used while hiking when body movement will heat up your hands and keep them warmer. Softshell gloves are better than medium-weight fleece gloves because snow sticks to them less and they are highly breathable. Fleece gloves also work, but you have to be vigilant about brushing off snow so it doesn’t melt and soak the gloves.",n
+297,32,ul,,n
+299,297,li,REI Power Stretch Gloves,n
+301,297,li,Outdoor Research Versaliner Sensor Gloves,n
+303,32,p,Leather gloves absorb water and freeze and are not recommended.,n
+305,32,h3,Puffy Insulated Hooded Jacket,y
+306,32,p,,n
+307,306,text,"When you’re taking a break during a winter hike and have stopped moving, it’s best to pull a big puffy insulated jacket out of your backpack and wear it over your other clothes to stay warm. You’ll want a parka weight jacket and",n
+309,306,span,not,n
+310,306,text,a lightweight 3-season jacket. This coat should be sufficiently warm that you could stand around in it for a few hours if someone in your group has an accident and you need to stay with them until help arrives. You want something with an integrated hood that will really keep you toasty warm in frigid weather.,n
+313,32,ul,,n
+315,313,li,Mountain Hardwear Phantom Down Parka,n
+317,313,li,Rab Electron Pro Insulated Jacket,n
+319,313,li,Montbell Mirage Parka,n
+321,32,p,Lightweight insulated jackets like the Mountain Hardwear Hooded Down Ghost Whisperer are too lightweight and are more suitable as a mid-layer.,n
+325,32,h3,Hard Shell Jacket,y
+327,32,p,"You also want to carry a windproof and waterproof jacket with an integrated adjustable hood that can be worn while you are hiking. Called hardshell jackets or technical shell jackets, they don’t have built-in insulation, which would make you too warm. Instead, their purpose is to shield you from high winds and sustained rainfall and to trap the heat held by your mid-layer garments. Look for jackets with at least two exterior pockets to stash hats and gloves. Hardshell jackets with pit zips provide the best breathability and venting. For example, the Outdoor Research Foray with full torso-length side zips is an excellent option that I use in winter. The women’s version is called the Outdoor Research Aspire Jacket .",n
+333,32,h3,Hard Shell Pants,y
+335,32,p,"Hardshell pants are completely windproof and waterproof. Many people find it helpful to use pants that have full zips along the sides to help vent extra heat while hiking. Ankle zips are required at a minimum, you can put them on or take them off without having to take off your boots. Test this out before you hike with them . Most hikers who wear hardshell pants as their primary pant layer also wear long underwear underneath them for warmth. Marmot Precip FZ Pants are an excellent, economical full-zip waterproof pant option.",n
+341,32,h3,Softshell Pants,y
+343,32,p,"Many hikers, myself included, prefer wearing softshell pants in winter because they are more breathable and form-fitting than full zip hard shell pants. If that’s the case, you still need to bring a pair of hard shell pants for protection against sustained precipitation and high winds since most softshell pants are water and wind-resistant but not waterproof or windproof. Softshell pants tend to be much warmer than hardshell pants, so you don’t need to wear long underwear with them except in very cold weather. REI makes an economical softshell pant called the men’s Activator 3.0 Pant that I use and recommend,",n
+349,32,h3,Mid-Layer Insulation,y
+351,32,p,"There are a lot of options available for mid-layer insulation and it’s best to experiment a bit to figure out what you like best. Midweight fleece jackets, pullovers, or vests are all cost-effective and well-performing options because fleece will keep you warm when it is wet and wick moisture away from your skin and base layers. The same holds for wool sweaters if you prefer it over fleece. You can also augment a mid-layer with a softshell jacket or a down or synthetic fill vest for more warmth depending on whether you run hot or cold. There are many manufacturers that sell fleece garments. Avoid carrying more than one mid-layer option at once, however, because they add unnecessary weight to your backpack. Here are some of our favorite layering garments and ones that we highly recommend:",n
+352,32,ul,,n
+354,352,li,Patagonia R1 Pullover Hoodie,n
+356,352,li,The North Face TKA Glacier 1 or 4 Zip Fleece,n
+358,352,li,Decathlon Quechua MH100 Hiking Fleece,n
+360,352,li,Patagonia Retro-X Classic Pile Fleece Vest,n
+362,32,h3,Base layer insulation,y
+364,32,p,"Most winter hikers wear a wool or synthetic base layer consisting of a long sleeve jersey, long underwear, and some kind of boxer or bikini underwear under that. It’s important that all of your base layers be synthetic or wool and not cotton because they’ll dry faster.",n
+366,32,p,"The most important factor in choosing a base layer is that it should be wicking so that it transports sweat away from your skin to the next highest layer of your clothing. Lightweight and thin layers do this better than heavier layers, but again this is an area of personal taste. Patagonia Capilene Lightweight , available in jerseys and long underwear, is an excellent option. A Smartwool Merino 150 LS Baselayer shirt is also a good choice. If you run really cold, try a fishnet-style jersey from Brynje .",n
+374,32,p,"We recommend wool over synthetic garments for multi-day winter trips because they stink up less, but this is a matter of personal taste.",n
+376,32,h3,Spare Clothing,y
+378,32,p,"It’s important to bring some spare clothing on longer hikes in case yours get wet, either from sweat or because you’ve had some kind of accident, such as falling into a stream. This is fairly common when you have to do any stream crossings on a hike and a snow shelf you’re standing on collapses into the water. It’s also nice to have a dry layer to change into if you need to stop for an extended period of time and the clothes you are wearing are damp with sweat.",n
+380,32,h3,Winter Traction-Aids,y
+382,32,p,"The traction-aids that you bring on a hike are likely to vary, depending on the weather and whether you are hiking on a trail that others have hiked previously and packed down. Most hikers carry microspikes on all hikes because they provide extra traction on packed snow and ice and they’re quite lightweight. Snowshoes may also be required, particularly on less traveled trails or after a snowfall. Heavier-duty crampons may also be required for steep routes covered with rock or thick ice, while snowshoes provide floatation for hiking through unconsolidated snow. It’s not uncommon for you to have to carry some or all of these on a hike, depending on where you go and how many other people use the trails you follow. When buying snowshoes for mountainous terrain you want ones that have a televator lift under the heel, which makes it easier to climb hills. We recommend the following traction-aids, which are compatible with all types of winter boots.",n
+383,32,ul,,n
+385,383,li,Kahtoola Microspikes or Hillsound Trail Crampons,n
+389,383,li,Hillsound Trail Crampon Pros or Black Diamond Contact Strap Crampons,n
+393,383,li,"MSR Evo Ascent Snowshoes , MSR Lightning Ascent Snowshoes , or Tubbs Flex Alp Snowshoes",n
+399,32,h3,Water Bottles,y
+401,32,p,"Hydration reservoir hoses freeze very easily in cold temperatures, so it’s best to carry two or three 1-liter wide-mouth bottles on winter hikes since narrow-mouth bottles also freeze shut more easily. If you carry your water bottles outside of your backpack, it’s best to store them in an insulated sleeve. White wide-mouth Nalgene bottles or Hunersdorf bottles are the best for winter use. For insulation, try insulated Nalgene water bottle sleeves or 40 below Bottle Boots . Insulated Hydroflask 32oz. metal bottles also work but are heavier. You can also store your bottles in a wool sock inside your pack, surrounded by your down parka. Note: Boil your water before putting it into the bottles.",n
+414,32,h3,Winter Dayhiking Backpacks,y
+416,32,p,"You’ll want a 35-45 liter backpack for winter day hiking because you’ll be carrying more extra clothes, food, and water than the rest of the year. Winter packs should have a lot of external attachment points and side compression straps that you can attach gear to, including snowshoes, crampons, microspikes, water bottles, and snack bottles. It’s also convenient to have a top lid on a winter backpack with one or more pockets to store gear you want easily at hand like your headlamp, extra hats, snacks, and gloves. When you hike in a group, it’s likely that you’ll be asked to carry group survival gear and you want to have a little extra space to carry it. The following backpacks are excellent for winter day hikes:",n
+417,32,ul,,n
+419,417,li,Granite Gear Crown2 38,n
+421,417,li,Osprey Mutant 38,n
+423,417,li,Deuter Speedlite 32,n
+425,417,li,Cold Cold World Valdez,n
+427,32,h3,10 Essentials,n
+429,32,p,"The 10 essentials are just as important in winter as during the rest of the year, perhaps more so, since winter hiking requires more self-sufficiency. For an annotated list, see my 10 Essentials Guide.",n
+432,32,p,"A map and compass are important because it’s easy to lose one’s way, trail blazes are often buried in snow, and there are far fewer landmarks visible in winter when everything is covered in white. A plastic whistle is better than a metal one which will freeze to your lips, and useful if you get lost because it is louder than the human voice. You should use lithium batteries in your headlamp and other electronic devices because they are resistant to cold temperatures: nickel-metal hydride and alkaline batteries drain much faster in cold weather. Rechargeable headlamps are also ok, since most have lithium batteries. You might also want to carry two headlamps because you’ll be hiking after subset frequently because there are so few hours of daylight.",n
+434,32,p,"While you can buy commercial first aid, gear repair, and fire-starting kits, they’re also easy to make by yourself at home. It also helps to bring some kind of multi-tool or plastic ties with you on a winter hike to repair gear, especially traction-aids which take a lot of abuse. Sun protection, including sunglasses and sunscreen, is important to carry because it’s very easy to get a sunburn, from light reflected off the snow.",n
+436,32,h3,Survival Gear,y
+438,32,p,"If you’re winter day hiking alone, it’s important to bring extra insulation including a sleeping bag and sleeping pad in order to prevent hypothermia if you are immobilized and you need to survive until help arrives. A 20-degree sleeping bag, a foam accordion sleeping pad like a Therm-a-rest Zlite , and a lightweight bivy sack will usually suffice to keep you alive if you also put on all of the clothing you’re carrying. These can be split among different hikers if traveling as a group.",n
+442,32,p,"If you have to spend an unexpected night out, you also need to have some way of melting snow to create drinking water. While carrying a liquid fuel stove like a MSR Whisperlite and a cook pot is the most reliable way of doing this, you can also carry several ESBIT cubes , a solid fuel stove or stand, and a small metal cup to melt snow in an emergency. Hypothermia is accelerated by dehydration and can have dire consequences.",n
+448,32,p,"When hiking in a group, this gear is usually distributed between group members, otherwise, you’ll probably need a bigger backpack to carry it all.",n
+450,32,h3,Extra Gear,n
+452,32,p,"For above-treeline hiking, your biggest priorities are extra wind protection for your face and extra traction to prevent uncontrolled slides on ice and snow. The easiest way to protect your face is to use a balaclava with a fully integrated facemask like the Serius Comboclava . You’ll need to combine that with ski goggles to protect your eyes from blowing snow and to prevent them from freezing shut. Practice wearing these before you get above treeline.",n
+457,32,p,"For extra traction, you’ll want to buy toothier crampons and possibly an ice ax. This is a fairly advanced stage of winter day hiking, so it’s best to learn how to use these tools from a qualified instructor, either a mountaineering guide or in one of the winter hiking schools run by outdoor clubs in the northeast.",n
+459,32,h3,See Also,n
+460,32,ul,,n
+462,460,li,Winter Hiking Boot FAQ,n
+464,460,li,Winter Hiking Hard Shell Jacket Guide,n
+466,460,li,Winter Pant Layering,n
+468,460,li,Winter Hiking in a Thin Baselayer,n
+470,460,li,Layering Hacks,n
+471,32,text,Editor's note,n
+474,6,div,,n
+475,474,div,,n
+477,475,span,Previous,n
+478,475,text,Oboz Sawtooth II Low Hiking Shoes Review,n
+479,474,div,,n
+481,479,span,Next,n
+482,479,text,What is a Backpacking Sleep System?,n
+483,6,div,,n
+484,483,div,,n
+487,484,h3,8 comments,n
+490,484,div,,n
+491,490,li,,n
+494,491,div,,n
+495,494,div,,n
+497,495,cite,Josh B,n
+499,495,div,"December 1, 2021 at 12:17 am",n
+502,494,p,"Based on your thin baselayer article, do you prefer synthetic baselayers for day hiking merino for multi day trips? Is it safe to say that OR Mt Baker mitts are the warmest?",n
+509,491,li,,n
+514,509,div,"December 1, 2021 at 10:19 am",n
+517,509,p,"I think OR Alti-Mitts are warmer unless you go the battery-powered mitten route, which people with Raynauds are do.",n
+519,509,p,"I always prefer synthetic tops. Period. On a multi-day trip, wool will continue to absorb more moisture and never dry. A porous synthetic shirt won’t absorb any. It will stink, but wool stinks too after a day and gets progressively worse after that. Manufacturers want you to buy wool because they make a bigger profit on it. Now wool mixed with polyester can be better, also because it lasts longer. But I can destroy a wool top, or a wool mix top in 2 years, while I have synthetic tops that are over 10 years old and still going strong.",n
+522,490,li,,n
+525,522,div,,n
+530,525,div,"January 5, 2022 at 4:44 pm",n
+533,525,p,"Hi, Philip,",n
+535,525,p,"What boots do you wear hiking above tree-line in winter? I need a new pair, have been toying with a few, but would appreciate your tips. They might save me some waffling;-) Many thanks – and Happy New Year – with cake!!",n
+539,522,li,,n
+542,539,div,,n
+547,542,div,"January 5, 2022 at 4:47 pm",n
+550,542,p,I’m currently using a pair of The North Face Chilkat II 400s. I had some foot issues and needed a higher volume boot with a beefy toe box. These are really warm.,n
+554,539,li,,n
+557,554,div,,n
+562,557,div,"January 5, 2022 at 9:12 pm",n
+565,557,p,And they’re not too bulky,n
+572,554,li,,n
+577,572,div,"January 5, 2022 at 9:18 pm",n
+580,572,p,"Ah – good question. The heels are too bulky for my Camp 490 Universals, which are pretty narrow, to begin with. But they fit fine into Hillsound Trail Pros, which I find sufficient for just about anything in the Whites short of vertical. Even East Osceola. I’m also wearing a size 11.5 Men’s.",n
+585,490,li,,n
+590,585,div,"January 5, 2022 at 9:43 pm",n
+593,585,p,Terrific! Many thx. Cheers,n
+599,490,li,,n
+600,599,div,,n
+602,600,cite,Dave G,n
+604,600,div,"January 7, 2022 at 3:55 pm",n
+607,599,p,"I’ve enjoyed using wool “convertible” handwear, with a fingerless inner and a foldover mitt, might be an option for others to consider. The ones I have have a thinsulate lining. I tend to flip back the mitt fairly quickly when moving which keeps everything dry from sweat, and the fingerless aspect allows for some quick agility adjusting straps, zippers or puting on spikes without needing to pull off handwear altogether. Suitable for maybe 10 – 30 F without a shell, they’re not for extreme conditions.",n
+611,483,div,,n
+612,611,h3,,n
+613,612,text,Leave a Reply,n
+615,612,small,Cancel reply,n
+617,611,form,,n
+618,617,p,,n
+620,618,span,Your email address will not be published.,n
+622,618,span,Required fields are marked,n
+627,617,p,Comment,n
+634,617,p,Name,n
+640,617,p,Email,n
+646,617,p,Website,n
+654,4,div,,n
+656,654,div,,n
+659,656,h4,Backpacker Favorites,n
+662,656,ul,,n
+664,662,li,Swiss Army Classic Knife,n
+666,662,li,Darn Tough Socks,n
+668,662,li,Nylofume UL Pack Liners,n
+670,662,li,Polycryo Ground Cloths,n
+672,662,li,Leukotape,n
+674,662,li,Jetboil Stash Stove System,n
+676,662,li,Hyperlite Packing Pods,n
+678,662,li,Smartwater Bottle Upgrade Kit,n
+680,662,li,Body Glide,n
+682,662,li,Nitecore 10000 mAh USB Power Bank,n
+684,662,li,Toaks Titanium 550 UL Pot,n
+686,662,li,Zpacks Duplex Tent,n
+689,654,div,,n
+692,689,h4,Philip’s Favorite Gear Picks,n
+695,689,ul,,n
+697,695,li,Zpacks Arc Haul Ultra 60 Pack,n
+699,695,li,Altra Lone Peak 6 Trail Runners,n
+701,695,li,Hammock Gear Econ Burrow Quilt,n
+703,695,li,Sea-to-Summit Etherlite XT Sleeping Pad,n
+705,695,li,Feathered Friends Flicker 40 Quilt Sleeping Bag,n
+707,695,li,Sawyer Squeeze Water Filter,n
+709,695,li,Garmin inReach Mini 2,n
+711,695,li,Tilley LTM6 AirFlo Hiking Hat,n
+713,695,li,Casio Solar-Powered Pathfinder Watch,n
+715,695,li,Paria UL Needle Tent Stakes,n
+717,695,li,REI Quarter Dome SL 1 Tent,n
+719,695,li,Pacerpole Dual Lock Trekking Poles,n
+722,654,div,,n
+725,722,h4,Contact,n
+727,722,div,,n
+728,727,text,Subscribe to the Newsletter,n
+731,727,p,Contact the Editor,n
+733,727,p,About Philip Werner,n
+735,727,p,Privacy Policy,n
+737,727,p,Cookie Policy,n
+739,727,p,Do Not Sell My Personal Information,n
+741,727,p,Terms and Conditions,n
+743,727,p,Endorsement Disclosure,n
+745,727,p,Liability Disclaimer,n
+747,727,p,"We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.",n
+755,4,div,"© Copyright 2007-2022, SectionHiker.com and Fells Press LLC. All Rights Reserved. No duplication of photos, maps, or text without permission.",n

@@ -1,0 +1,269 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,h1,School Supply Lists,n
+6,0,div,,n
+7,6,ul,,n
+9,7,li,Attea Middle School,n
+11,7,li,Glen Grove School,n
+13,7,li,Henking School,n
+15,7,li,Hoffman School,n
+17,7,li,Lyon School,n
+19,7,li,Pleasant Ridge School,n
+21,7,li,Springman Middle School,n
+23,7,li,Westbrook School,n
+27,6,div,,n
+29,27,p,School supply ordering is now available! Use code ATT000 and click image below or visit www.educationalproducts.com or shoppacks,n
+31,27,p,"For those who do not wish to purchase school supply packs via the PTA fundraiser, here are the school supply lists for each grade for the 2021-22 school year.",n
+33,27,p,6th Grade School Supply List,n
+35,27,p,7th Grade School Supply List,n
+37,27,p,8th Grade School Supply List,n
+41,6,div,,n
+44,41,p,Glen Grove School Supply List Grades,n
+49,41,div,,n
+50,49,tr,,n
+56,50,strong,3rd Grade Explorer,n
+59,50,strong,4th Grade Kaleidoscope,n
+62,50,strong,5th Grade Voyagers,n
+65,49,tr,"Markers, Washable Set",y
+74,49,tr,"Markers, Washable Set",y
+81,49,tr,,n
+83,81,td,Crayons,n
+85,81,td,24 count,n
+87,81,td,1,n
+92,49,tr,"5 Plastic Folders No prongs, but three hole punch",y
+101,49,tr,"Folder, 2 Pocket, Orange",y
+110,49,tr,"Folder, 2 Pocket",y
+119,49,tr,"Plastic Folder, 2 Pocket - Blue",y
+128,49,tr,"Folder, Assorted, Pocket",y
+135,49,tr,,n
+137,135,td,Dixon Ticonderoga No. 2 Pre-Sharpened Pencil,y
+139,135,td,36,n
+143,135,td,3 packs,n
+146,49,tr,12,n
+155,49,tr,Highlighter - YellowithPink,y
+164,49,tr,"Ballpoint Pens, Non-Erasable, Black",y
+173,49,tr,"Ballpoint Pens, Green or Red",y
+182,49,tr,Nylon Pencil Bag with Grommet,y
+191,49,tr,Rulers - Plastic,y
+200,49,tr,"Scissors - 7"" Pointed Tip",y
+209,49,tr,"Eraser - Pink, Large",y
+218,49,tr,Elmer's Glue,y
+227,49,tr,Elmer's Glue Sticks,y
+236,49,tr,Post-It Notes 3x3,y
+245,49,tr,Scotch Clear Tape with Dispenser,y
+254,49,tr,Index Cards,y
+263,49,tr,Index Cards,y
+272,49,tr,"Protractor-Clear Plastic, 6"" 180 degrees",y
+281,49,tr,"Clorox ORM-D Wipes, 35 count",y
+290,49,tr,Kleenex,y
+299,49,tr,"8 Multicolor Expo Dry Erase Markers, Low Odor Chisel Tip",y
+308,49,tr,Composition Notebooks,y
+317,49,tr,"Clipboard Letter Size, Brown",y
+326,49,tr,Quart Size Baggies,y
+335,49,tr,Gallon Size Baggies,y
+344,49,tr,Lined Paper,y
+353,49,tr,"3 Ring Binder 2""",y
+364,6,div,,n
+367,364,p,Henking School Supply List Grades K-2,n
+369,364,p,"Click the here to download. For English, see page 1. For Spanish, see page 2.",n
+372,364,div,,n
+373,372,tr,,n
+379,373,strong,KINDER,n
+382,373,strong,1ST,n
+385,373,strong,2ND,n
+386,372,tr,,n
+388,386,td,#2 PENCILS SHARPENED,y
+390,386,td,12 yellow,n
+395,372,tr,,n
+397,395,td,SHARPIE PERMANENT MARKER,y
+399,395,td,1 black,n
+403,395,td,2 black,n
+406,372,tr,ERASER,y
+413,372,tr,,n
+415,413,td,GLUE STICKS or LARGE,y
+417,413,td,6 small,n
+424,372,tr,SCISSORS-METAL W or POINT,y
+431,372,tr,,n
+433,431,td,BOX OF CRAYONS,y
+439,431,td,box,y
+442,372,tr,BOX OF COLORED PENCILS,y
+451,372,tr,"WIDE MARKERS, WATER-BASED",y
+458,372,tr,,n
+460,458,td,"3 RING BINDER 1""",y
+465,458,p,N or A,n
+470,372,tr,BOX OF BLACK FLAIR FELT PENS,y
+479,372,tr,"NARROW MARKERS, WATER-BASED",y
+488,372,tr,"12"" WOODEN RULER",y
+495,372,tr,,n
+497,495,td,HEAVY DUTY PLASTIC FOLDERS all colors with prongs,y
+499,495,td,"1=red, 1=blue, 1=yellow",n
+502,495,p,"1=red, 1=blue, 1=yellow, 1=green",n
+504,495,td,"1=red, 1=blue",n
+505,372,tr,,n
+507,505,td,PAPER FOLDERS,y
+509,505,td,Folder with prongs,y
+513,505,td,"1=yellow, 1=green",n
+514,372,tr,,n
+516,514,td,DRY ERASE MARKERS,y
+518,514,td,4 EXPO black,n
+522,514,td,4-pack,n
+525,372,tr,PACKAGE OF POST-IT NOTES,y
+534,372,tr,SPIRAL NOTEBOOKS,y
+543,372,tr,SCOTCH TAPE,y
+550,372,tr,,n
+552,550,td,BOX OF KLEENEX,y
+556,550,td,2 cube size,n
+561,372,tr,SCHOOL BOX,y
+570,372,tr,BLACK or WHITE COMPOSITION NOTEBOOK LINED PAPER,y
+579,372,tr,ELMER's GLUE,y
+588,372,tr,ANTIBACTERIAL WIPES,y
+595,372,tr,,n
+597,595,td,ZIPLOC FREEZER BAGS,y
+598,595,td,,n
+600,598,p,A-M=,n
+604,598,p,N-Z = gallon size,n
+621,372,tr,PURELL HAND SANITIZER GEL,y
+630,372,tr,WATER COLOR PAINT SET,y
+649,6,div,,n
+650,649,tr,,n
+653,650,p,Materials,n
+656,650,p,3rd grade,n
+659,650,p,4th grade,n
+662,650,p,5th grade,n
+663,649,tr,,n
+666,663,p,Ballpoint pens,y
+675,663,p,10,n
+679,649,p,Ballpoint pens,y
+692,649,p,Calculator-TI-3-XA,y
+705,649,p,Clipboard,y
+718,649,p,Composition Notebook-Ruled 100sheets,y
+731,649,p,63,n
+757,649,p,Eraser,y
+767,649,tr,,n
+770,767,p,Folders 2 pocket,y
+773,767,p,10 plastic,n
+776,767,p,10 plastic or paper,n
+779,767,p,10 Plastic,n
+783,649,p,GLUE – NO GEL GLUE PLEASE,y
+796,649,p,Glue Stick,y
+809,649,p,Gym Shoes,y
+822,649,p,Headphones,y
+832,649,tr,,n
+835,832,p,Highlighter,y
+838,832,p,1 any color,n
+844,832,p,3 any color,n
+848,649,p,Index cards,y
+861,649,p,Kleenex,y
+874,649,p,Dry Erase Markers,y
+887,649,p,Markers water soluble set,y
+900,649,p,Markers water soluble set,y
+913,649,p,Markers sharpie black medium point,y
+926,649,p,Paper white or wide lines,y
+939,649,p,Pencils #2 only Sharpened or NO MECHANICAL,y
+949,649,tr,,n
+952,949,p,Pencil Case,y
+961,949,p,1 optional,n
+962,649,tr,,n
+965,962,p,Post-it Notes 3 X 3,y
+971,962,p,6 Not accordion,n
+978,649,p,Protractor Clear only,y
+991,649,p,Rules,y
+1004,649,p,Scissors,y
+1017,649,p,Scotch tape with dispenser,y
+1027,649,tr,,n
+1030,1027,p,Spiral Notebooks 70 pages,y
+1033,1027,p,"3 same as folders, no perforations",n
+1040,649,tr,,n
+1043,1040,p,Supply Box – Clear plastic or shoe box covered,y
+1052,1040,p,Optional,n
+1056,649,p,Tapper Keeper or expandable file,y
+1069,649,p,Water color paint set with brush,y
+1082,649,p,Sanitizer,y
+1115,6,div,,n
+1116,1115,ul,,n
+1118,1116,li,Sixth Grade,n
+1120,1116,li,SEVENTH GRADE,n
+1122,1116,li,EIGHTH GRADE,n
+1126,1115,div,,n
+1129,1126,p,Sixth Grade,n
+1132,1126,div,,n
+1146,1132,tr,LOW ODOR BLACK CHISEL TIP DRY ERASE MARKER,y
+1151,1132,tr,WIDE RULED BLACK MARBLE COMP BOOK 100CT,y
+1156,1132,tr,5SUB WIDE RULED SPIRAL NOTEBOOK 180CT,y
+1159,1132,tr,,n
+1161,1159,td,ELMER'S SMALL PURPLE WASHABLE GLUE STICK .21OZ,n
+1163,1159,td,20,n
+1166,1132,tr,DISINFECTING WIPES 35CT - NOT FOR SKIN,y
+1206,1132,tr,4X6 WHITE RULED INDEX CARDS 100CT,y
+1211,1132,tr,1SUB WIDE RULED SPIRAL NON PERF BLUE 70CT,y
+1231,1132,tr,"2"" WHITE VIEW ROUND RING VINYL BINDER",y
+1241,1132,tr,BOX OF RECLOSABLE GALLON ZIP BAGS 20CT,y
+1257,1115,div,,n
+1260,1257,p,Seventh Grade,y
+1263,1257,div,,n
+1282,1263,tr,REG. PENCIL SHARPENER W or RECEPTACLE,y
+1302,1263,tr,BIC RED MED STICK PEN,y
+1307,1263,tr,LOW ODOR ASST CHISEL TIP DRY ERASE MARKER 4CT,y
+1312,1263,tr,WIDE RULE 8X10.5 FILLER PAPER 200CT,y
+1317,1263,tr,ASSORTED POCKET ONLY FOLDER,y
+1337,1263,tr,ELMER'S WASHABLE PURPLE GLUE STICK .77OZ,y
+1388,1115,div,,n
+1391,1388,p,Eighth Grade,n
+1394,1388,div,,n
+1403,1394,tr,ASST 7PKT 6TAB EXPAND FILE STRING CLOSURE,y
+1433,1394,tr,DISINFECTING WIPES 35CT - NOT FOR SKIN BULK,y
+1443,1394,tr,"12"" 1 or 16"" STANDARD or METRIC PLASTIC RULER",y
+1509,6,div,,n
+1512,1509,p,Westbrook School Supply List,n
+1517,1509,div,,n
+1518,1517,tr,,n
+1522,1518,p,Classroom Supplies,n
+1526,1518,p,Kdg.,n
+1530,1518,p,1st,n
+1534,1518,p,2nd,n
+1538,1518,p,ELP,n
+1542,1518,p,ELS,n
+1556,1517,tr,,n
+1560,1556,p,#2 Pencils – Sharpened - Ticonderoga,n
+1565,1556,p,12,n
+1573,1556,p,48,n
+1586,1517,p,Sharp 5” Scissors,y
+1611,1517,p,White Cardstock 81 or 2 x 11,y
+1636,1517,p,24 Count Crayola Crayons,y
+1661,1517,p,48 Count Crayola Crayons,y
+1686,1517,p,160 ct. Kleenex or Scotties Tissue,y
+1707,1517,tr,,n
+1711,1707,p,Crayola Classic Thick or Thin Markers,y
+1727,1707,p,2 thick,n
+1731,1707,p,1 thick,n
+1736,1517,p,Plastic School Box 8.75” x 6.13” x 2.4”,y
+1764,1517,p,70 ct. Spiral Composition Book,n
+1785,1517,tr,,n
+1789,1785,p,"Assorted Colored Pocket Folders, red, blue, green, yellow - plastic coated",y
+1801,1785,p,4 solid colors,n
+1810,1517,tr,,n
+1814,1810,p,"Assorted colored Pocket Folders withprongs – red, blue, green",y
+1818,1810,p,each color,n
+1822,1810,p,1 green,n
+1842,1517,p,Fluorescent Yellow Highlighter,y
+1863,1517,tr,,n
+1867,1863,p,Pink Bevel Eraser,y
+1879,1863,p,4 girls,n
+1888,1517,tr,,n
+1892,1888,p,resealable Sandwich or Quart BagsCount,y
+1912,1888,p,1 sandwich,n
+1917,1517,p,sandwich,y
+1922,1517,p,resealable Gallon BagsCount,y
+1950,1517,p,8 Color Crayola Washable Watercolors,y
+1975,1517,p,Baby Wipes 80 Ct.,y
+2000,1517,p,Elmer’s Glue Sticks,y
+2025,1517,p,Elmer's Glue,y
+2050,1517,p,Black Fine Point Sharpie Marker,y
+2100,1517,p,Colored Pencils,y
+2125,1517,p,Low-odor Dry Erase Markers,y
+2150,1517,p,Papermate Black Flair Pens,y
+2169,1517,tr,,n
+2173,2169,p,3 Ring Binder White 1 inch,n
+2189,2169,p,1,n
+2198,1517,p,3 x 3 Post it Notes,n
+2236,1517,p,PE,n

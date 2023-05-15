@@ -1,0 +1,129 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+5,3,div,,n
+6,5,div,,n
+9,6,h1,create wedding magic!,n
+12,6,h1,let’s go to the beach!,n
+15,6,h1,diy kits,n
+16,5,p,,n
+18,16,span,*Marry* your love,n
+20,16,span,Beachin’ it all summer long? Have a blast with new summer goodies from makesy!,n
+22,16,span,Get ready to make a lil magic with DIY kits that anyone and everyone will love!,n
+24,5,span,DIY the big day,n
+26,5,span,shop now,n
+28,5,span,let’s DIY,n
+43,3,div,,n
+46,43,button,1,n
+48,43,button,2,n
+50,43,button,3,n
+56,0,div,,n
+58,56,p,,n
+59,58,text,Free Domestic Shipping,n
+61,58,br,on orders $99+,n
+63,56,p,,n
+64,63,text,Loyalty Rewards and,n
+66,63,br,Bulk Discounts,n
+68,56,p,,n
+69,68,text,Expert support 7,n
+71,68,br,Days a week,n
+73,56,p,,n
+74,73,text,Real-time Order Updates and,n
+76,73,br,Package Protection,n
+78,56,p,,n
+79,78,text,"Buy Now, Pay",n
+81,78,br,Later Options,n
+83,56,p,,n
+84,83,text,Made Better ™,n
+86,83,br,Commitment,n
+88,0,div,,n
+93,88,div,,n
+183,93,div,,n
+185,183,div,so beautiful diy bath salt kit,n
+191,183,p,$34.95,n
+199,93,div,glowing diy shimmer body spray kit,n
+211,93,div,,n
+213,211,div,coco creme lip balm diy kit,n
+219,211,p,$28.95,n
+225,93,div,,n
+227,225,div,glimmer and shimmer body oil diy kit,n
+233,225,p,$69.95,n
+241,93,div,moisturizing macadamia diy body wash kit,n
+255,93,div,calm and collected diy candle kit,n
+269,93,div,date night diy candle kit,n
+283,93,div,pretty in pink diy candle kit,n
+297,93,div,simple sophistication diy candle kit,n
+309,93,div,,n
+311,309,div,simple sophistication diy candle kit,n
+317,309,p,$79.97,n
+323,93,div,,n
+325,323,div,sweet nothings diy body and pillow spray kit,n
+331,323,p,$48.95,n
+339,93,div,vacation mode exfoliating face mask diy kit,n
+353,93,div,super sudsy diy soap kit,n
+367,93,div,lavish lathers diy soap kit,n
+381,93,div,relax and unwind diy soap kit,n
+395,93,div,luxe deep hydration body cream diy kit,n
+409,93,div,restoring face mask diy kit,n
+421,93,div,,n
+423,421,div,purifying charcoal facial cleanser diy kit,n
+429,421,p,$39.95,n
+437,93,div,repair and thicken shampoo and conditioner diy kit,n
+449,93,div,,n
+451,449,div,ultra hydrating prebiotic day cream diy kit,n
+457,449,p,$42.95,n
+465,93,div,smokey noir diy candle kit,n
+479,93,div,sweet treats diy lip balm kit,n
+493,93,div,confetti cake DIY bath bomb kit,n
+505,93,div,,n
+507,505,div,fun and foamy DIY bubble bath kit,n
+513,505,p,$38.95,n
+601,88,div,shop new arrivals,n
+604,0,div,,n
+606,604,h1,the wedding shop,n
+607,604,text,diy the big day,n
+613,0,div,,n
+616,613,p,make candles,n
+620,613,p,make bath and body,n
+624,613,p,make skin and hair,n
+628,613,p,make soaps,n
+632,613,p,make cleaning supplies,n
+634,613,div,,n
+636,634,h1,not sure what to make?,n
+637,634,text,explore,n
+644,0,div,,n
+645,644,div,,n
+648,645,div,how to make a wooden wick tea light,n
+651,645,div,how to make naturally nourishing body butters,n
+653,644,div,see all videos,n
+657,0,div,,n
+662,657,div,,n
+733,662,div,12OZ MATTE WHITE AURA,n
+744,662,div,NATURAL CORK AURA LID,n
+755,662,div,12OZ IRIDESCENT WHITE AURA,n
+766,662,div,12 OZ IRIDESCENT PRISM AURA,n
+775,662,div,,n
+777,775,div,NATURAL CRACKLING WICKS,n
+783,775,p,$0,n
+788,662,div,12OZ IRIDESCENT CLAY AURA,n
+799,662,div,12OZ MATTE CREAM AURA,n
+808,662,div,,n
+810,808,div,DELUXE SATIN SOY WAX,n
+816,808,p,$39.96,n
+821,662,div,12OZ MATTE SAGE AURA,n
+897,657,div,shop best sellers,n
+900,0,div,,n
+902,900,h1,"omg, it’s on sale!",n
+903,900,text,explore sale,n
+907,0,div,,n
+908,907,div,,n
+911,908,div,,n
+913,911,h2,makesy makes every day world rainforest day!,n
+915,911,p,"We’re raisin’ the roof ‘cause when June 22 hits, we celebrate World Rainforest Day, aka Amazon Day. And no, we ain’t talkin about Amazon Prime Day,...",n
+919,908,div,,n
+921,919,h2,maker spotlight,n
+923,919,p,"Go big or go home, right? ;) Go big is exactly what Astleigh Hill of The Chandlerie did when it came to her biz. From stay-at-home-mom to boss busi...",n
+927,908,div,,n
+929,927,h2,back to the basics,n
+931,927,p,Getting started in a world full of making can be intimidating. That’s why your creative BFFs here at makesy have curated various kits and project...,n
+933,907,text,see all,n

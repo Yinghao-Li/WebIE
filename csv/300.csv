@@ -1,0 +1,505 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+3,1,div,,n
+5,3,div,,n
+7,5,h1,Snowboarding Gear,n
+8,5,span,,n
+12,8,span,"432 results,",n
+13,8,span,,n
+14,13,text,with Ads,n
+15,13,span,,n
+18,15,span,Learn more,n
+21,15,span,"Sellers looking to grow their business and reach more interested buyers can use Etsy’s advertising platform to promote their items. You’ll see ad results based on factors like relevancy, and the amount sellers pay per click. Learn more .",n
+28,3,div,,n
+35,28,p,The Etsy Gift Guide,n
+44,28,p,Design ideas and inspiration,n
+53,28,p,Everyday finds,n
+57,3,div,,n
+58,57,ul,,n
+59,58,li,,n
+62,59,span,Price,n
+66,59,div,,n
+70,66,div,Any price,n
+74,66,div,Under $25,n
+78,66,div,$25 to $50,n
+82,66,div,$50 to $100,n
+86,66,div,Over $100,n
+90,66,div,Custom,n
+92,66,div,,n
+96,92,div,Enter minimum price,n
+98,92,div,to,n
+102,92,div,Enter maximum price,n
+106,58,li,,n
+109,106,span,Shipping,n
+112,106,div,,n
+116,112,div,Free shipping,n
+117,112,div,,n
+121,117,div,Ready to ship in 1 business day,n
+125,117,div,Ready to ship in 1–3 business days,n
+128,112,div,Apply,n
+135,57,ul,,n
+137,135,li,Relevancy,n
+139,135,li,Top Customer Reviews,n
+141,135,li,Highest Price,n
+143,135,li,Lowest Price,n
+145,135,li,Most Recent,n
+146,3,ul,,n
+216,146,li,,n
+218,216,h2,Don Johnson Visor Sunglasses,y
+221,216,p,,n
+223,221,span,Ad by BFreshGear,n
+225,221,span,Ad from shop BFreshGear,n
+227,221,span,BFreshGear,n
+229,221,span,From shop BFreshGear,n
+276,146,li,,n
+281,276,h2,Shred the Gnar – Retro 80s 90s Ski Gear - Cool Unisex Skiing Sweatshirt in Perfect Style,y
+284,276,p,,n
+286,284,span,Ad by popsocialapparel,n
+288,284,span,Ad from shop popsocialapparel,n
+290,284,span,popsocialapparel,n
+292,284,span,From shop popsocialapparel,n
+340,146,li,,n
+342,340,h2,Vintage Luhta Skiing Pants Brown Snow Pants Hipster Puffer Snow Pants Snowsuit Pants Winter Wear Snow Gear Snowboarding Pants Medium,y
+345,340,p,,n
+347,345,span,Ad by YourEclecticStreet,n
+349,345,span,Ad from shop YourEclecticStreet,n
+351,345,span,YourEclecticStreet,n
+353,345,span,From shop YourEclecticStreet,n
+520,146,li,,n
+525,520,h2,Snowboard Evolution T-Shirt - Snowboarding Shirt - Snowboard Gift - Gift for Snowboarder - Snowboard Lover - Gift for Him Her - ALL SIZES,y
+528,520,p,,n
+530,528,span,Ad by MogPrint,n
+532,528,span,Ad from shop MogPrint,n
+534,528,span,MogPrint,n
+536,528,span,From shop MogPrint,n
+556,520,div,,n
+557,556,p,,n
+559,557,span,Sale Price $9.23,n
+564,557,span,23,n
+565,556,p,,n
+570,565,span,25,n
+572,565,span,Original Price $10.25,n
+595,146,li,,n
+597,595,h2,TY Beanie Baby | TY Gear | Beanie Kids | Snowboard Set,y
+600,595,p,,n
+602,600,span,Ad by marinsvintagemarket,n
+604,600,span,Ad from shop marinsvintagemarket,n
+606,600,span,marinsvintagemarket,n
+608,600,span,From shop marinsvintagemarket,n
+628,595,div,,n
+629,628,p,,n
+631,629,span,Sale Price $5.10,n
+636,629,span,10,n
+637,628,p,,n
+642,637,span,00,n
+644,637,span,Original Price $6.00,n
+667,146,li,,n
+669,667,h2,"Personalized Snowboarding Gift, Snowboarding Gift For Men and Women, Snowboard Mug, snowboarding Gifts For Snowboarders",y
+672,667,p,,n
+674,672,span,Ad by MugKingdom,n
+676,672,span,Ad from shop MugKingdom,n
+678,672,span,MugKingdom,n
+680,672,span,From shop MugKingdom,n
+700,667,div,,n
+701,700,p,,n
+703,701,span,Sale Price $10.84,n
+708,701,span,84,n
+709,700,p,,n
+714,709,span,49,n
+716,709,span,Original Price $15.49,n
+738,146,li,,n
+743,738,h2,"Snow Gear Metal Coat and Mountain Gear Organizer, Mounting Hardware Included",y
+746,738,p,,n
+748,746,span,Ad by GoodVibesMetal,n
+750,746,span,Ad from shop GoodVibesMetal,n
+752,746,span,GoodVibesMetal,n
+754,746,span,From shop GoodVibesMetal,n
+774,738,div,,n
+775,774,p,,n
+777,775,span,Sale Price $56.00,n
+782,775,span,00,n
+783,774,p,,n
+788,783,span,00,n
+790,783,span,Original Price $70.00,n
+816,146,li,,n
+818,816,h2,"Snowboard and ski Rack, Mountain Equipment",y
+821,816,p,,n
+823,821,span,Ad by Salmoforge,n
+825,821,span,Ad from shop Salmoforge,n
+827,821,span,Salmoforge,n
+829,821,span,From shop Salmoforge,n
+854,816,p,00,n
+951,146,li,,n
+956,951,h2,Goggle and Cross Gear Ski and Snowboard Sticker,y
+959,951,p,,n
+961,959,span,Ad by KeepevolvingCO,n
+963,959,span,Ad from shop KeepevolvingCO,n
+965,959,span,KeepevolvingCO,n
+967,959,span,From shop KeepevolvingCO,n
+992,951,p,00,n
+1015,146,li,,n
+1020,1015,h2,Snowboard Wall Mount With Hooks • Snowboard Rack • Fully Customizable • Space Saver • Fits Any Snowboard Length or Width,y
+1023,1015,p,,n
+1025,1023,span,Ad by Innovative3DPrinting,n
+1027,1023,span,Ad from shop Innovative3DPrinting,n
+1029,1023,span,Innovative3DPrinting,n
+1031,1023,span,From shop Innovative3DPrinting,n
+1051,1015,div,,n
+1052,1051,p,,n
+1054,1052,span,Sale Price $19.19,n
+1059,1052,span,19,n
+1060,1051,p,,n
+1065,1060,span,99,n
+1067,1060,span,Original Price $23.99,n
+1090,146,li,,n
+1095,1090,h2,"Ski, Snowboard, Ski Gift, Mountain Shirt, Hoodie, Men's Hoodie, Women's Hoodie, Pullover Hoodie, Chairlift, Snowboarding, Skiing, Unisex",y
+1126,1090,div,,n
+1129,1126,p,Sale Price $44.99,n
+1142,1126,p,Original Price $49.99,n
+1232,146,li,GEAR STATION storage shelf,n
+1354,146,li,,n
+1356,1354,h2,"Premium Shortboard Surfboard Wall Mounts, Hanger, Wall Mounted Storage For Sports Gear, Walnut",y
+1359,1354,p,,n
+1361,1359,span,Ad by noirdotdesign,n
+1363,1359,span,Ad from shop noirdotdesign,n
+1365,1359,span,noirdotdesign,n
+1367,1359,span,From shop noirdotdesign,n
+1392,1354,p,50,n
+1535,146,li,,n
+1537,1535,h2,"Ski Goggle Bag -Ski and Snowboard Gear Pattern, Goggle Protection Pouch, Anti-Pill Plush Fleece Drawstring Bag",y
+1573,1535,p,00,n
+1593,146,li,,n
+1598,1593,h2,Boyfriend Gift Snowboard Shirt Snowboard Art Snowboard Gear Sci Fi Shirts Nerdy T Shirt Funny Shirt Graphic Tee,y
+1601,1593,p,,n
+1603,1601,span,Ad by FunnyGuyStore,n
+1605,1601,span,Ad from shop FunnyGuyStore,n
+1607,1601,span,FunnyGuyStore,n
+1609,1601,span,From shop FunnyGuyStore,n
+1629,1593,div,,n
+1630,1629,p,,n
+1632,1630,span,Sale Price $20.69,n
+1637,1630,span,69,n
+1638,1629,p,,n
+1643,1638,span,99,n
+1645,1638,span,Original Price $22.99,n
+1668,146,li,,n
+1670,1668,h2,"Ski Helmet Bag -Ski and Snowboard Gear Pattern, Helmet Protection Bag, Anti Pill Plush Fleece Drawstring Bag",y
+1706,1668,p,00,n
+1726,146,li,,n
+1728,1726,h2,Crawl Walk Snowboard - Baby Bib or Onesie® | Snowboard Bib or Onesie® | Winter Bib or Onesie® | Winter Sport Bib or Onesie®,y
+1731,1726,p,,n
+1733,1731,span,Ad by RadiantBlessings,n
+1735,1731,span,Ad from shop RadiantBlessings,n
+1737,1731,span,RadiantBlessings,n
+1739,1731,span,From shop RadiantBlessings,n
+1764,1726,p,99,n
+1859,146,li,,n
+1861,1859,h2,"Custom Keychain Snowboard, llavero personalizado, snowboard, llavero , regalo, custom, custom keychain, llavero snowboard, regalo snowboard.",y
+1864,1859,p,,n
+1866,1864,span,Ad by GandGLlaveros,n
+1868,1864,span,Ad from shop GandGLlaveros,n
+1870,1864,span,GandGLlaveros,n
+1872,1864,span,From shop GandGLlaveros,n
+1897,1859,p,16,n
+1905,1859,span,Bestseller,n
+1984,146,li,,n
+1989,1984,h2,Skiing T Shirt Bella + Canvas Unisex Skiing Shirt,y
+1992,1984,p,,n
+1994,1992,span,Ad by ephemoss,n
+1996,1992,span,Ad from shop ephemoss,n
+1998,1992,span,ephemoss,n
+2000,1992,span,From shop ephemoss,n
+2020,1984,div,,n
+2021,2020,p,,n
+2023,2021,span,Sale Price $31.60,n
+2028,2021,span,60,n
+2029,2020,p,,n
+2034,2029,span,18,n
+2036,2029,span,Original Price $37.18,n
+2062,146,li,,n
+2067,2062,h2,Pawstar Pony Puff Leg Warmers - Wild Wolf Fur - Realistic Faux Animal Ear Festival clothing Rave gear Halloween Costume Anime Cosplay 2594,y
+2070,2062,p,,n
+2072,2070,span,Ad by pawstar,n
+2074,2070,span,Ad from shop pawstar,n
+2076,2070,span,pawstar,n
+2078,2070,span,From shop pawstar,n
+2098,2062,div,,n
+2099,2098,p,,n
+2101,2099,span,Sale Price $29.75,n
+2106,2099,span,75,n
+2107,2098,p,,n
+2112,2107,span,00,n
+2114,2107,span,Original Price $35.00,n
+2212,146,li,,n
+2214,2212,h2,"Ski cat sticker, waterproof, weather proof for snowboard, water bottle, ski gear, ski boot, laptop, cat lover, cat lady",y
+2217,2212,p,,n
+2219,2217,span,Ad by Abundanceillustrated,n
+2221,2217,span,Ad from shop Abundanceillustrated,n
+2223,2217,span,Abundanceillustrated,n
+2225,2217,span,From shop Abundanceillustrated,n
+2250,2212,p,00,n
+2273,146,li,,n
+2278,2273,h2,"RIDE Snowboard Soft Crop Sweatshirt, Gift For Snowboarder, Gift For Her, For Snowboard Lovers, Soft Crop Tops, Snowboard Shirt",y
+2281,2273,p,,n
+2283,2281,span,Ad by OnJaysWings,n
+2285,2281,span,Ad from shop OnJaysWings,n
+2287,2281,span,OnJaysWings,n
+2289,2281,span,From shop OnJaysWings,n
+2314,2273,p,99,n
+2337,146,li,,n
+2339,2337,h2,"Snowboarding LED Illusion Desk Light, Snowboard Silhouette, Landscape, Mountains",y
+2342,2337,p,,n
+2344,2342,span,Ad by CrispOfficial,n
+2346,2342,span,Ad from shop CrispOfficial,n
+2348,2342,span,CrispOfficial,n
+2350,2342,span,From shop CrispOfficial,n
+2398,146,li,,n
+2403,2398,h2,Keep On Shredding Embroidered Cuffed Beanie | Snowboard | Splitboard | Ski | Snow Enthusiasts,y
+2406,2398,p,,n
+2408,2406,span,Ad by TaleOfDeuces,n
+2410,2406,span,Ad from shop TaleOfDeuces,n
+2412,2406,span,TaleOfDeuces,n
+2414,2406,span,From shop TaleOfDeuces,n
+2421,2398,p,23,n
+2441,146,li,,n
+2443,2441,h2,"SNOWBOARDING SIGN, Life is better on the slopes, Vintage style Snowboarding sign, Snowboarding Decor, Snowboard art, Snowboarding wall art",y
+2446,2441,p,,n
+2448,2446,span,Ad by ClassicMetalSigns,n
+2450,2446,span,Ad from shop ClassicMetalSigns,n
+2452,2446,span,ClassicMetalSigns,n
+2454,2446,span,From shop ClassicMetalSigns,n
+2474,2441,div,,n
+2475,2474,p,,n
+2477,2475,span,Sale Price $22.90,n
+2482,2475,span,90,n
+2483,2474,p,,n
+2488,2483,span,63,n
+2490,2483,span,Original Price $28.63,n
+2590,146,li,,n
+2592,2590,h2,Travel Mug | Snowboarder Mug | Snowboarding Mug | Mug for Biker | Bike Gear | Cycling Mug | Cyclist Mug | Gnarvana Tumbler 20oz,y
+2595,2590,p,,n
+2597,2595,span,Ad by MyGnarvana,n
+2599,2595,span,Ad from shop MyGnarvana,n
+2601,2595,span,MyGnarvana,n
+2603,2595,span,From shop MyGnarvana,n
+2650,146,li,,n
+2652,2650,h2,Skiing Socks | Snowboarding Socks | Ski Resort Footwear | Downhill Skier Gift | Alpine Mountain Snow Clothing | Snowboard Apparel Gear,y
+2655,2650,p,,n
+2657,2655,span,Ad by StylishFellow,n
+2659,2655,span,Ad from shop StylishFellow,n
+2661,2655,span,StylishFellow,n
+2663,2655,span,From shop StylishFellow,n
+2684,2650,p,,n
+2686,2684,span,Sale Price $14.39,n
+2691,2684,span,39,n
+2722,146,li,,n
+2724,2722,h2,Vintage 80s Mistral Snowboarding 1 or 4 Zip Graphic Pullover Hoodie,y
+2727,2722,p,,n
+2729,2727,span,Ad by BeesVintageFashion,n
+2731,2727,span,Ad from shop BeesVintageFashion,n
+2733,2727,span,BeesVintageFashion,n
+2735,2727,span,From shop BeesVintageFashion,n
+2780,146,li,,n
+2785,2780,h2,"Snowboarder Noun Like A Skier, only cooler T-Shirt Snowboard Shirt",y
+2788,2780,p,,n
+2790,2788,span,Ad by GodsGiftTees,n
+2792,2788,span,Ad from shop GodsGiftTees,n
+2794,2788,span,GodsGiftTees,n
+2796,2788,span,From shop GodsGiftTees,n
+2821,2780,p,00,n
+2841,146,li,,n
+2846,2841,h2,"Snowboard Vinyl Decal, Mountain Decal, Mountain Sticker, Snowboard Decals, Skiing Stickers, Laptop Decal, Car Decal, Snowboarding, Skier, CO",y
+2849,2841,p,,n
+2851,2849,span,Ad by StrangeMotionCo,n
+2853,2849,span,Ad from shop StrangeMotionCo,n
+2855,2849,span,StrangeMotionCo,n
+2857,2849,span,From shop StrangeMotionCo,n
+2877,2841,div,,n
+2878,2877,p,,n
+2880,2878,span,Sale Price $4.12,n
+2885,2878,span,12,n
+2886,2877,p,,n
+2891,2886,span,15,n
+2893,2886,span,Original Price $5.15,n
+2916,146,li,,n
+2918,2916,h2,Personalized Cutting Board Ski Couple Snowboarder Chair Lift Snowboard Skis Skier Wedding Present Anniversary Bridal Shower Mountain Art Sn,y
+2921,2916,p,,n
+2923,2921,span,Ad by EngrainedMemories,n
+2925,2921,span,Ad from shop EngrainedMemories,n
+2927,2921,span,EngrainedMemories,n
+2929,2921,span,From shop EngrainedMemories,n
+2954,2916,p,95,n
+2974,146,li,,n
+2979,2974,h2,Snowboard Binding Beer Holder,y
+2982,2974,p,,n
+2984,2982,span,Ad by BeerBinding,n
+2986,2982,span,Ad from shop BeerBinding,n
+2988,2982,span,BeerBinding,n
+2990,2982,span,From shop BeerBinding,n
+3015,2974,p,99,n
+3035,146,li,,n
+3037,3035,h2,"snowboard cufflinks,snowboarding cufflinks,snowboarding, snowboard,groomsmen gift,grooms gift,anniversary gift,graduation -with gift box",y
+3040,3035,p,,n
+3042,3040,span,Ad by katherinestudio,n
+3044,3040,span,Ad from shop katherinestudio,n
+3046,3040,span,katherinestudio,n
+3048,3040,span,From shop katherinestudio,n
+3073,3035,p,99,n
+3092,146,li,,n
+3094,3092,h2,Chicago Fire Department Arched Logo As Seen on TV Cuffed Knit Hat,y
+3097,3092,p,,n
+3099,3097,span,Ad by PeerlessProducts,n
+3101,3097,span,Ad from shop PeerlessProducts,n
+3103,3097,span,PeerlessProducts,n
+3105,3097,span,From shop PeerlessProducts,n
+3130,3092,p,95,n
+3152,146,li,,n
+3157,3152,h2,"Area Code Art - 802 Area Code, Trucker Hat, Snapback, Snowflake, Vermont Hat, Vermont Gear, Vermont Gift, Ski Vermont",y
+3160,3152,p,,n
+3162,3160,span,Ad by AreaCodeArt,n
+3164,3160,span,Ad from shop AreaCodeArt,n
+3166,3160,span,AreaCodeArt,n
+3168,3160,span,From shop AreaCodeArt,n
+3212,146,li,,n
+3214,3212,h2,Locally Hated Hoodie,y
+3217,3212,p,,n
+3219,3217,span,Ad by Sconexige,n
+3221,3217,span,Ad from shop Sconexige,n
+3223,3217,span,Sconexige,n
+3225,3217,span,From shop Sconexige,n
+3273,146,li,,n
+3278,3273,h2,Wall mount helmet or gear rack,y
+3281,3273,p,,n
+3283,3281,span,Ad by RWCustomWorks,n
+3285,3281,span,Ad from shop RWCustomWorks,n
+3287,3281,span,RWCustomWorks,n
+3289,3281,span,From shop RWCustomWorks,n
+3334,146,li,,n
+3339,3334,h2,Men's Snowboarding Shirt - Skeleton Snowboarder Cool Snowboard T-Shirt,y
+3342,3334,p,,n
+3344,3342,span,Ad by ReallyAwesomeShirts,n
+3346,3342,span,Ad from shop ReallyAwesomeShirts,n
+3348,3342,span,ReallyAwesomeShirts,n
+3350,3342,span,From shop ReallyAwesomeShirts,n
+3395,146,li,,n
+3400,3395,h2,Snowboarding Shirt or Funny Snowboarder Gift or I Snowboard Like An Old Man Try To Keep Up or Snowboard Tshirt,y
+3403,3395,p,,n
+3405,3403,span,Ad by MommyMakesGifts,n
+3407,3403,span,Ad from shop MommyMakesGifts,n
+3409,3403,span,MommyMakesGifts,n
+3411,3403,span,From shop MommyMakesGifts,n
+3431,3395,div,,n
+3432,3431,p,,n
+3434,3432,span,Sale Price $22.50,n
+3439,3432,span,50,n
+3440,3431,p,,n
+3445,3440,span,00,n
+3447,3440,span,Original Price $30.00,n
+3470,146,li,,n
+3472,3470,h2,vintage PAULY SHORE ikat pattern SNOWBOARDING hat warmer fleece winter hat,y
+3475,3470,p,,n
+3477,3475,span,Ad by everyoneinhats,n
+3479,3475,span,Ad from shop everyoneinhats,n
+3481,3475,span,everyoneinhats,n
+3483,3475,span,From shop everyoneinhats,n
+3508,3470,p,00,n
+3531,146,li,,n
+3536,3531,h2,"Snowboard Dad Shirt, Snowboarding Gift for Dad, Like a Normal Dad, Winter Sports Short-Sleeve Unisex T-Shirt",y
+3539,3531,p,,n
+3541,3539,span,Ad by TeeShirtSeason,n
+3543,3539,span,Ad from shop TeeShirtSeason,n
+3545,3539,span,TeeShirtSeason,n
+3547,3539,span,From shop TeeShirtSeason,n
+3572,3531,p,00,n
+3595,146,li,,n
+3600,3595,h2,"Snowboarding, Snowboarding Sign, Snowboarding Fan, Snowboarding Participant Gift, Snowboarder Gift, Custom Street Sign, Quality Metal Sign",y
+3603,3595,p,,n
+3605,3603,span,Ad by ezStreetSignsCom,n
+3607,3603,span,Ad from shop ezStreetSignsCom,n
+3609,3603,span,ezStreetSignsCom,n
+3611,3603,span,From shop ezStreetSignsCom,n
+3632,3595,p,,n
+3634,3632,span,Sale Price $16.80,n
+3639,3632,span,80,n
+3669,146,li,,n
+3671,3669,h2,Rainbow Mountain T-shirt - Hiking Shirt - Nature Shirt - Watercolor Art Shirt - Unisex Jersey Short Sleeve Tee,y
+3674,3669,p,,n
+3676,3674,span,Ad by CompassCasual,n
+3678,3674,span,Ad from shop CompassCasual,n
+3680,3674,span,CompassCasual,n
+3682,3674,span,From shop CompassCasual,n
+3729,146,li,,n
+3731,3729,h2,"Printed Face Masks, Neck Warmer, Ski Gear, Snowboard Gear, Biking Mask, Hiking Gear",y
+3734,3729,p,,n
+3736,3734,span,Ad by YYCSupplyCo,n
+3738,3734,span,Ad from shop YYCSupplyCo,n
+3740,3734,span,YYCSupplyCo,n
+3742,3734,span,From shop YYCSupplyCo,n
+3767,3729,p,06,n
+3787,146,li,,n
+3789,3787,h2,"Fleece ski hood or balaclava, extra warm and cozy. Fits over helmet, includes black cinches to tighten down hood.",y
+3792,3787,p,,n
+3794,3792,span,Ad by StewPit,n
+3796,3792,span,Ad from shop StewPit,n
+3798,3792,span,StewPit,n
+3800,3792,span,From shop StewPit,n
+3825,3787,p,00,n
+3845,146,li,,n
+3847,3845,h2,"Future Snowboarder, Snow board baby, Snowboard Baby, Snowboard Dad, Snowboard Mom, boarding baby, colorado baby, snowboard family, snow baby",y
+3850,3845,p,,n
+3852,3850,span,Ad by TWINDAISYandCO,n
+3854,3850,span,Ad from shop TWINDAISYandCO,n
+3856,3850,span,TWINDAISYandCO,n
+3858,3850,span,From shop TWINDAISYandCO,n
+3883,3845,p,00,n
+3903,146,li,,n
+3908,3903,h2,"Snowboard Hat for Snowboarder Hat, Snowboarding Hat, I'm Difficult Hat for Snowboard Trucker Hat for Snowboarding Funny Snowboard Trip Hat",y
+3911,3903,p,,n
+3913,3911,span,Ad by ParentNormalClothing,n
+3915,3911,span,Ad from shop ParentNormalClothing,n
+3917,3911,span,ParentNormalClothing,n
+3919,3911,span,From shop ParentNormalClothing,n
+3939,3903,div,,n
+3942,3939,p,Sale Price $24.99,n
+3948,3939,p,,n
+3953,3948,span,24,n
+3955,3948,span,Original Price $31.24,n
+3982,146,li,,n
+3987,3982,h2,"If Snowboarding Was Easy They would Call Shirt, Snowboarder Gift, Snowboard Design, Winter Activity, Ski-Board Shirt, Snowboarding Graphic",y
+3990,3982,p,,n
+3992,3990,span,Ad by AbbysDesignFactory,n
+3994,3990,span,Ad from shop AbbysDesignFactory,n
+3996,3990,span,AbbysDesignFactory,n
+3998,3990,span,From shop AbbysDesignFactory,n
+4023,3982,p,95,n
+4063,3,ul,,n
+4083,4063,li,,n
+4085,4083,span,Page 4,n
+4087,4083,span,4,n
+4088,4063,li,,n
+4090,4088,span,Page 5,n
+4092,4088,span,5,n
+4101,1,div,,n
+4104,4101,h2,Common questions,n
+4107,4101,div,,n
+4108,4107,div,,n
+4111,4108,span,Does Etsy offer free shipping?,n
+4116,4108,p,"Shipping policies vary, but many of our sellers offer free shipping when you purchase from them. Typically, orders of $35 USD or more qualify for free standard shipping from participating Etsy sellers.",n
+4118,4107,div,,n
+4121,4118,span,How do I personalize items on Etsy?,n
+4124,4118,div,,n
+4126,4124,p,"Found something you love but want to make it even more uniquely you? Good news! Many sellers on Etsy offer personalized, made-to-order items.",n
+4128,4124,p,To personalize an item,n
+4129,4124,ol,,n
+4131,4129,li,Open the listing page.,n
+4133,4129,li,Choose the options you’d like for the order. This will differ depending on what options are available for the item.,n
+4135,4129,li,"Under “Add your personalization,” the text box will tell you what the seller needs to know. Fill out the requested information.",n
+4137,4129,li,Click “Buy it now” or “Add to cart” and proceed to checkout.,n
+4139,4124,p,Don’t see this option? The seller might still be able to personalize your item. Try contacting them via Messages to find out!,n
+4141,4107,div,,n
+4144,4141,span,Does shopping on Etsy help support small businesses?,n
+4149,4141,p,"Absolutely! Our global marketplace is a vibrant community of real people connecting over special goods. With powerful tools and services, along with expert support and education, we help creative entrepreneurs start, manage, and scale their businesses. In 2020 alone, purchases on Etsy generated nearly $4 billion in income for small businesses. We also created 2.6 million jobs in the U.S.—enough to employ the entire city of Houston, TX!",n
+4151,4107,div,,n
+4154,4151,span,Are the products on Etsy handmade?,n
+4159,4151,p,"From handmade pieces to vintage treasures ready to be loved again, Etsy is the global marketplace for unique and creative goods. It’s also home to a whole host of one-of-a-kind items made with love and extraordinary care. While many of the items on Etsy are handmade, you’ll also find craft supplies, digital items, and more.",n

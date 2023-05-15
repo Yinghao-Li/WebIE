@@ -1,0 +1,58 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+577,0,h1,Equipment,n
+578,0,div,,n
+580,578,ul,,n
+582,580,li,Introduction,n
+584,580,li,Terms A-Z,n
+586,580,li,Equipment,n
+588,580,li,How to Play,n
+590,580,li,Facts,n
+592,580,li,Tips and Tricks,n
+593,578,div,,n
+595,593,p,"Table tennis equipment, consisting of racket, ball, net, and table, come in a wide variety from a multitude of manufacturers. Choosing the correct equipment to fit your skill level and playing style is very important. Luckily, there are standards or ratings in table tennis equipment that takes much of the guesswork out of determining the characteristics of a particular blade and rubber .",n
+598,593,h3,Guide to Blades and Rubber,y
+600,593,p,"If you are just starting out, you will want to buy a decent blade and rubber-going too cheap may end one up with low quality equipment that hinders progress.",n
+602,593,p,Blades,n
+604,593,p,A medium-speed model will help you practice ball control while maintaining a reasonable topspin game. Blades are denoted in the following fashion according to their speed:,n
+605,593,ul,,n
+607,605,li,Defensive Blades,n
+609,605,li,Allround Blades,n
+611,605,li,Offensive Blades,n
+613,593,p,Note,n
+616,593,p,"Blades can be made from a variety of materials, but the rules stipulate wood must be the majority material in any one blade. Carbon, arylate, and other materials can be used as a thin layer in the middle layers of the blade, but none of these can be exposed-if your rubber can touch the 'non-wood' material, then the blade is illegal.",n
+618,593,p,"Should you find any of your equipment to be illegal, don't worry too much; as they seem to be fairly common. They can still serve as your training blade until a new one can be obtained, but simply realize that you cannot use them in sanctioned tournaments, etc.",n
+620,593,p,Read further,n
+625,593,p,Table Tennis Blades,n
+628,593,p,Rubber,n
+630,593,p,Rubber can be categorized into two groups,n
+632,593,p,"On July 1, 1999, the following long pips rules were introduced:",n
+633,593,ul,,n
+635,633,li,"The aspect ratio, or height divided by diameter, will be the basis",n
+637,633,li,1 is the limit,n
+639,633,li,the pips has been cited as the reason,n
+641,593,p,"The inverted, or 'smooth' rubber, is actually a sheet of pimpled rubber turned upside down so that the flat surface under the pimpled side becomes exposed. Nearly all inverted rubber has a layer of sponge sandwiched underneath. The sponge adds speed and or or control to the rubber, depending on the thickness and composition. Inverted rubber makes possible a greater variety of spin shots and attacking games requiring heavy topspin and other spin-intensive strokes. The surfaces of many inverted rubbers are 'sticky', allowing a player to gain the traction needed to produce spin. Most beginners should start with inverted as their primary rubber, for the sake of learning today's most effective techniques.",n
+643,593,p,"Regulations require rubber to be either red or black, and one of each color must be placed on a paddle for it to be legal . Be sure to realize this and request the appropriate colors. Also, be sure that the rubber itself is no thicker than 2 mm and the combination of rubber and sponge no thicker than 4 mm. The majority of retailers sell legal rubber so this shouldn't be too much of a problem.",n
+645,593,p,"Rubber has a rating system that measures speed and spin independently. There are no standard notations, but many companies that distribute rubber rate speed and spin on a 1 to 100 scale, with 100 being the most spinny or quick. The ratings are usually determined by players who evaluate them specially to analyze the speed and spin. You can also ask around about a particular brand of rubber or try it out yourself. One can test out blades this way also. Remember that the ratings will most likely be 'opinions' and not machine-tested. Take ratings with a grain of salt, and simply realize that getting an exact kind of rubber will not be the most important thing until you are at a level of play to do so",n
+647,593,p,Read further,n
+652,593,p,Table Tennis Rubber,n
+654,593,h3,Guide to Balls,y
+656,593,p,"Balls have a rating system that uses stars. Ranging from one to three, the best balls and the only balls you should use for most purposes are the three stars. Most other balls break easily and have questionable playing characteristics. Table tennis balls can be quite expensive, with some going over $3, but good quality balls last a long time when given the proper treatment. To ensure that you get the most out of each ball, make sure to keep it out of: direct sunlight, excess heat, and excess moisture. Also be sure to pick up the balls when they fall to the floor, so you and others avoid stepping on them. The three-stars should be used for most rally drills and practice games. For multiple-ball drills, such as serves and smashes, good quality practice balls can be had for a modest cost if you shop around.",n
+658,593,p,"The color of balls don't matter much for games and practice, just be sure to use a color that is the most visible given the conditions. The legal colors are: white and orange.",n
+662,593,p,Table Tennis Balls,n
+664,593,h3,Tables and nets,y
+666,593,p,"Tables and nets for table tennis must comply with the regulation dimensions. Tables must be nine feet long, five feet across, and two and one-half feet high . The net must be six inches high, and stretch across the middle of the table and six inches beyond both sides. The surface of the table must be a dull, non-reflective color that contrasts with the white and oranges of the balls. Black, navy blue, and green are popular colors. Tables and nets vary widely in quality, with the best costing nearly a thousand dollars. Nets can cost as much as $100 for a tournament-quality post and mesh that will survive many matches while maintaining precision in height and position. For most homes, a relatively cheap table and net-set will do fine, although bounce accuracy will vary. Tables placed on a soft, irregular surface, such as carpet, will have a hard time matching up to the precision of those placed on hard, flat surfaces.",n
+670,593,p,Table Tennis Tables,n
+674,593,p,Table Tennis Nets,n
+676,593,h3,Where to buy,n
+678,593,p,"Buying quality table tennis equipment can be somewhat of a challenge to an American citizen. As the sport has not developed the necessary 'status' needed in the country to warrant a significant economic opening , many major retailers and sporting goods stores confine table tennis to the 'fun and games' section, if at all. Typically all rackets sold there are already made, with rubber applied to the blade. While this may be convenient, the equipment is usually of low quality and the rubber will likely be 'dead' because long storage after being applied causes the bubbles in the sponge to lose their elasticity. The result is a dull playing characteristic. If there are anything worth buying in these stores, it may as well as be the tables, although they are often bargain-priced and have rickety frames. Assembly is almost always required.",n
+680,593,p,"If you started out with nothing, the initial investment in the sport can seem quite high. High quality blades average $100 or rubber $50. Since most people purchase two sheets of rubber, the cost can add up to almost a couple hundred dollars for the paddle alone. But if a club or experienced player is accessible, you may be able to get used equipment for cheap or even free. Be sure to check these sources. As for tables , plan on spending at least $500 as opposed to saving the trouble and getting a low-quality one at the mall for $250. Some tables come fully assembled while others will have you breaking out the toolbox. But the quality is typically much higher than store-bought models. You can buy many accessories, from rubber cleaners to shoes as well. But be sure that you have embraced the sport before making the splurge. Many items such as shoes are not needed until the level of play demands it.",n
+682,593,h3,Equipment Maintenance,n
+684,593,p,"Table tennis equipment is easy to maintain and will last a long time if properly cared for. Blades should be handled gently and not knocked about or thrown around. Edge tape should cover the perimeter of the head to protect it from dings and dents from accidental collisions with the table. After play, a clean sponge moistened with water should be used to wipe the dust off the rubber. Use straight strokes. Store the paddle inside a protective case and use protective film when not in use. Nets should be kept away from high traffic areas. Keep tables clean and avoid storing them outdoors where condensation will destroy the flat surface. Avoid placing items on the table. Keep balls clean and store them inside a case when not in use.",n
+688,593,p,Table Tennis Cleaners,n
+692,593,p,Table Tennis Accessories,n
+694,593,h3,Changing the rubber,n
+696,593,p,"Changing the rubber on a paddle can be daunting at first, but with a little caution it is not hard at all. If replacing rubber on an existing paddle, first carefully work off the bottom edge of the rubber from the blade. When enough rubber has been pulled off, grip it tightly and slowly peel off the rubber, bottom first. If the grip is stubborn, use a bit of acetone or similar chemical to dissolve the glue. Next, prepare the surface by picking off any little bit of sponge or rubber, and sanding the surface down to a smooth finish. Remove the rubber from its protective packaging, and place it face down on a piece of clean plastic. Water based glue is the only type of glue that currently is considered legal. Rubber cement or Speed Glue, while it will work, has been banned by the ITTF and is hazardous when inhaled. Apply a thin coat of glue to the blade face, let dry. Brush glue in a thin coat over the underside of the rubber sheet. Wait for the glue to dry. Then apply another coat of glue over it. After applying the second coat, place the rubber onto the blade, starting with the bottom first, then slowly work your way up to the top of the paddle. Place this paddle, new rubber side on top, on the edge of a table or other flat surface so only the racket face touches the surface and not the handle. Use a cylinder to roll any bubbles out from under the rubber. Finally, place a protective sheet on the rubber with heavy flat objects such as books over it.",n
+698,593,p,"After the glue has dried, turn the racket upside down , and use a new razor to score the rubber around the blade. Then use the other side of the razor to completely cut through the rubber through the score . As an alternative, you can use a sharp pair of scissors to remove the excess rubber, but be sure not to accidentally cut the blade as well.",n
+700,593,p,See also,n
+705,593,p,Table Tennis Glue,n

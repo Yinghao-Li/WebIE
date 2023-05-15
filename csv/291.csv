@@ -1,0 +1,23 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+22,0,div,,n
+30,22,h2,DJ EQUIPMENT RENTALS,n
+31,22,div,,n
+34,31,p,Go Ahead. Rent our DJ Equipment. You'll see why DJ's Love us!,n
+40,31,p,We maintain the most up-to-date models from all the major manufacturers. Our equipment is well maintained. They are cleaned and tested after every rental.,n
+46,31,p,"Our DJ Equipment rentals can be picked up at our warehouse location in Lothian, MD or we can arrange for one of our reliable and experienced technicians to deliver and set up the equipment at your event. We provide a variety of customizable options for you to choose from. Send us your equipment list or stop by our warehouse location today to test some out some of our gear today. We’re sure you’ll love it.",n
+54,31,p,Our DJ Equipment Rentals Inventory Includes the following,n
+59,31,ul,,n
+63,59,li,CDJ's Players,y
+67,59,li,DJ Controllers,y
+71,59,li,Turntables,y
+75,59,li,DJ Mixers,y
+79,59,li,DJ Lighting,y
+83,59,li,DJ Booth,y
+87,59,li,Wireless Microphones,y
+91,59,li,Truss,y
+95,59,li,TV Monitors,y
+99,59,li,Scrim Fabric,y
+103,59,li,Powered Speakers and Sub-woofers,y
+107,59,li,Wireless Rechargeable Speakers,y
+114,22,div,Request a Quote,n

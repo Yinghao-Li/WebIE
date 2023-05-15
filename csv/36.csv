@@ -1,0 +1,106 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+339,0,div,,n
+753,339,div,,n
+755,753,h1,Disaster Supplies List,n
+763,753,div,,n
+765,763,div,Page Content,n
+766,763,div,,n
+768,766,p,Editor's Note,n
+772,766,h2,​Non-Food Items,n
+773,766,ul,,n
+779,773,li,Cell phone charger,y
+782,773,li,"Crank or battery-powered radio, flashlights",y
+785,773,li,Extra batteries,y
+788,773,li,First aid kit and manual.,y
+792,773,li,Prescription medications .,y
+796,773,li,"Medicine should be clearly labeled and kept separate from other supplies. Always have one refill left on prescription medicine, especially for chronic conditions such as diabetes.",y
+802,773,li,prescriptions,y
+805,773,li,Credit card and cash,y
+808,773,li,Personal identification and current family identification photos,y
+812,773,li,car keys,y
+815,773,li,eyeglasses or contact lenses,y
+818,773,li,Matches in a waterproof container,y
+821,773,li,Whistle,y
+825,773,li,the area,y
+828,773,li,important phone numbers,y
+831,773,li,Special items,y
+837,773,li,Toiletries and toilet paper,y
+842,773,li,Paper and pencils,y
+845,773,li,Masking or duct tape,y
+848,773,li,Water purification method,y
+851,773,li,Plastic bucket with a tight lid,y
+854,773,li,Plastic garbage bags,y
+866,773,li,"clothing, rain gear, and sturdy shoes",y
+870,773,li,"In warm weather climates, you may also want to include sunscreen and insect repellant",y
+876,773,li,Disposable gloves,y
+879,773,li,Rope,y
+882,773,li,Sensory toys or calming devices,y
+885,773,li,"Baby supplies such as diapers , formula, baby food, and wipes",y
+890,766,h2,Food Items,n
+891,766,ul,,n
+894,891,li,Peanut butter and jelly,y
+897,891,li,"Ready-to-eat canned soup, canned meat, milk, fish, fruit and vegetables",y
+900,891,li,Bread or crackers stored in waterproof bag or container,y
+903,891,li,Powdered or single serve drinks,y
+906,891,li,Cereal or granola bars,y
+910,891,li,Protein bars,y
+913,891,li,Packaged condiments,y
+915,766,h2,For Pets,n
+917,766,ul,,n
+920,917,li,dry and canned food,y
+924,917,li,Water,y
+927,917,li,Litter box supplies,y
+930,917,li,Traveling cage,y
+932,766,h2,Important Documents,n
+935,766,p,Make two copies and keep the originals of the following documents in a safe-deposit box or waterproof container. Consider storing these on a flash drive or online. Keep one copy on hand and give the second to your contact.,n
+936,766,ul,,n
+939,936,li,"Wills, insurance policies, contracts, deeds, and investment information",y
+942,936,li,"Passports, social security cards, immunization records , and medical information or emergency information forms",y
+947,936,li,"Bank account numbers, credit card account numbers",y
+950,936,li,valuable household goods,y
+953,936,li,"Family records and photos , current children's photos",y
+956,936,li,Pet records,y
+959,936,li,accounts with log-in information and passwords,y
+963,766,table,,n
+965,963,h3,"​If there is an emergency and you need to evacuate immediately, make sure to take these items:",n
+966,963,ul,,n
+970,966,li,Personal identification,y
+974,966,li,Special items,y
+983,966,li,Bar soap or toiletries,y
+1000,966,li,"clothing, rain gear, and sturdy shoes",y
+1004,966,li,"Canned meat, milk, fish, fruit and vegetables",y
+1011,766,table,,n
+1013,1011,h3,​Search,n
+1015,1011,p,,n
+1016,1015,text,Text,n
+1018,1015,strong,SHELTER,n
+1019,1015,text,and a zip code to,n
+1027,766,h2,Additional Information,n
+1029,766,ul,,n
+1032,1029,li,Understanding Disasters,n
+1035,1029,li,How to Build an Essential Summer First Aid Kit,n
+1040,763,div,Article Body,n
+1042,763,dl,,n
+1045,1042,span,Last Updated,n
+1048,1042,span,8 or 23 or 2019,n
+1049,763,dl,,n
+1052,1049,span,Source,n
+1055,1049,span,Adapted from Four Steps to Prepare Your Family,n
+1058,763,div,The information contained on this Web site should not be used as a substitute for the medical care and advice of your pediatrician. There may be variations in treatment that your pediatrician may recommend based on individual facts and circumstances.,n
+1092,339,div,Follow Us,n
+1101,339,div,,n
+1102,1101,div,,n
+1104,1102,div,Donate,n
+1105,1102,ul,,n
+1107,1105,li,Contact Us,n
+1109,1105,li,About Us,n
+1111,1105,li,Privacy Policy,n
+1113,1105,li,Use,n
+1115,1105,li,Editorial Policy,n
+1118,1101,div,,n
+1119,1118,p,,n
+1120,1119,text,This site complies with the HONcode standard,n
+1124,1119,br,verify here.,n
+1125,1118,text,Pediatrics. All rights reserved.,n
+1128,339,div,Back to Top,n

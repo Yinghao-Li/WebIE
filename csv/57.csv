@@ -1,0 +1,146 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,,n
+5,4,div,,n
+15,5,li,T and T,n
+21,5,li,Member Services,n
+22,4,div,,n
+24,22,li,News,n
+26,22,li,Athletes,n
+28,22,li,Health and Wellness,n
+30,22,li,Events,n
+32,22,li,College,n
+34,22,li,Photos,n
+36,22,li,Stores,n
+40,22,li,Results,n
+42,22,li,About,n
+44,22,li,Find,n
+47,4,div,,n
+49,47,li,Coronavirus Resources,n
+57,47,li,Athlete Assistance Fund,n
+70,0,div,,n
+79,70,div,,n
+81,79,div,Your Info,n
+85,79,div,You Are Not Logged In.,n
+92,70,div,Women Men Rhythmic Acrobatic T and T GfA Parkour Member Services,n
+100,70,div,,n
+102,100,div,Safe Sport,n
+103,100,text,Safe Sport Home Page Athlete Assistance Fund,n
+105,70,div,,n
+107,105,div,COVID-19,n
+108,105,text,Coronavirus Resources,n
+109,70,div,,n
+111,109,div,More,n
+112,109,text,News Athletes Health and Wellness Events College Photos Stores Education Results About Find Careers,n
+130,0,div,,n
+132,130,div,Gymnastics 101,n
+134,130,div,Gymnastics 101 Menu,n
+135,130,div,,n
+138,135,div,,n
+141,138,div,Home,n
+143,138,div,Guide to Gymnastics,n
+145,138,div,Glossary,n
+147,138,div,Skills Named,n
+149,138,div,Women's Artistic,n
+151,138,div,Men's Artistic,n
+153,138,div,Rhythmic,n
+155,138,div,Trampoline and Tumbling,n
+157,138,div,Acrobatic,n
+159,138,div,Gymnastics,n
+161,138,div,Developmental Programs and Levels,n
+163,135,div,,n
+165,163,div,Rhythmic Gymnastics Events and Equipment Descriptions,n
+166,163,div,,n
+167,166,text,Olympic competition order,n
+169,166,br,"The international competition order is decided by the FIG. For rhythmic gymnastics the events include: rope, hoop, ball, clubs and ribbon. The gymnasts compete in four of the five events each year, designated by the FIG. For this quad, medals are awarded in individual all-around and group. The four events for individual rhythmic in 2011-2012 are hoop, ball, clubs, and ribbon; for group in 2011-2016, ball and ribbon or hoop . In 2010, the four individual apparatus are rope, ball, clubs and ribbon, and for group, hoop and ribbon or rope .",n
+172,166,br,Competition area,n
+173,166,ul,,n
+175,173,li,Material,n
+177,173,li,Length,n
+178,163,div,,n
+180,178,div,Rope,y
+181,178,text,"Look for swings, circles, rotations, wraps, unwraps, figure-eight-type circling movements, throws and catches of the rope. Gymnasts also leap and jump through the open or folded rope, held by both hands.",n
+185,178,ul,,n
+187,185,li,Material,n
+189,185,li,Length,n
+190,163,div,,n
+192,190,div,Hoop,y
+193,190,text,"Common movements with the hoop include swings, rolls, tosses and catches, spins, passes through and over the hoop, rotations of the hoop on the floor and rotations of the hoop around the hand and other parts of the body. Most impressive here are the high throws and complex techniques for catching the hoop in a different fashion each time.",n
+197,190,ul,,n
+199,197,li,Material,n
+201,197,li,Diameter,n
+203,197,li,Weight,n
+204,163,div,,n
+206,204,div,Ball,y
+207,204,text,"Waves, circles, throws and catches, movement with the ball balanced on the hand, bouncing and rolling the ball on the floor and along parts of the body are all key movements.",n
+211,204,ul,,n
+213,211,li,Material,n
+215,211,li,Diameter,n
+217,211,li,Weight,n
+218,163,div,,n
+220,218,div,Clubs,y
+221,218,text,"Swings, large circles, small circles, mills, throws and catches and rhythmical tapping are common tricks.",n
+225,218,ul,,n
+227,225,li,Material,n
+229,225,li,Length,n
+231,225,li,Diameter,n
+233,225,li,Weight,n
+234,163,div,,n
+236,234,div,Ribbon,y
+237,234,text,"Ribbon routines are comprised of snakes, spirals, swings, circles, throws and catches and figure-eight movements. The ribbon must remain constantly in motion.",n
+241,234,ul,,n
+243,241,li,Material,n
+245,241,li,Diameter or width,n
+247,241,li,Length,n
+249,241,li,Weight,n
+250,163,div,,n
+252,250,div,Group,n
+253,250,p,,n
+254,253,text,"In the group event, five athletes work together as one cohesive unit. Group is judged on the ability of the athletes to demonstrate mastery of body and apparatus skills in a synchronized, harmonious manner. A group exercise must include difficulties from the same body movement categories that apply to individual competition and characteristic movements for the apparatus. In addition, the group athletes must execute elements involving both large and small exchanges of equipment. The more interaction between the gymnasts, the better the exercise.",n
+257,253,br,"Each group must compete with two different routines. The apparatus used in group competition is selected by the FIG. One of the routines is performed with five of the same pieces of apparatus, the other routine is choreographed with mixed equipment.",n
+260,253,br,Group athletes are trained to work as a team. The close interaction of five athletes within a 13 X 13 meter area and the many apparatus exchanges that occur during a routine require each athlete to be extremely sensitive to the movements and actions of her teammates. Many routines have been saved by the quick thinking and action of a team member.,n
+263,253,br,a group routine.,n
+266,0,div,,n
+270,266,div,,n
+272,270,div,,n
+290,272,div,For Parents,n
+292,272,li,usagymparents.com,n
+294,270,div,,n
+296,294,div,Member Services,n
+298,294,li,Become a Member,n
+300,294,li,My Membership,n
+302,294,li,Member Club Website,n
+306,294,li,Background Check Information,n
+308,294,div,Media Resources,n
+310,294,li,Pressbox,n
+312,294,li,Press Releases,n
+314,294,li,Media Accreditation Policy,n
+316,294,li,Online Accreditation,n
+318,270,div,,n
+320,318,div,Upcoming Events,n
+322,318,li,Premier Events,n
+334,318,li,Gymnastics,n
+336,270,div,,n
+338,336,div,About,n
+340,336,li,About USA Gymnastics,n
+342,336,li,Permanently Ineligible Members,n
+344,336,li,Suspended and Restricted Persons,n
+346,336,li,Ethical Conduct,n
+350,336,li,Athlete Health and Wellness,n
+354,336,li,Use,n
+356,336,li,Privacy Policy,n
+358,266,div,,n
+359,358,text,"USA Gymnastics is the National Governing Body for the sport of gymnastics in the United States, consistent with the Ted Stevens Olympic and Amateur Sports Act, the Bylaws of the United States Olympic Committee and the International Gymnastics Federation.",n
+362,358,br,Copyright © 2022 USA Gymnastics. All rights reserved.,n
+364,0,div,,n
+366,364,div,,n
+368,366,h2,Have you registered?,n
+370,366,div,Registering a username and password on USA Gymnastics gives you access to new and upcoming features within our website. By registering you will have access to membership features which will let you update or renew your membership. Register today by clicking below on the link!,n
+372,366,div,Click Here To Register,n
+374,364,div,,n
+376,374,h2,Log In,n
+378,374,table,,n
+381,378,tr,Username,n
+386,378,tr,Password,n
+393,378,tr,Keep me logged in,n
+395,374,div,Forgot your password?,n

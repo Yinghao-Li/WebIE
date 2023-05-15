@@ -1,0 +1,178 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+13,0,div,,n
+105,13,h1,Browse all Home Theater Systems,n
+107,13,section,,n
+110,107,div,,n
+111,110,div,,n
+114,111,div,,n
+116,114,dd,Consumer,n
+118,114,dd,Home Entertainment,n
+121,111,ol,,n
+123,121,li,Home Entertainment,n
+125,121,li,Audio,n
+126,110,div,,n
+128,126,h2,Home Theater Systems,n
+130,126,p,Choose the one that's right,n
+135,107,div,,n
+136,135,div,,n
+139,136,h3,,n
+142,139,text,of,n
+144,139,span,10,n
+145,139,text,Results,n
+149,136,div,,n
+152,149,span,Sort by,n
+154,149,div,,n
+156,154,option,Featured,n
+158,154,option,Latest,n
+169,135,div,,n
+173,169,div,,n
+174,173,div,,n
+176,174,h4,Total Power Output,n
+184,174,div,300,n
+198,173,h4,HDMI Input,n
+218,173,div,,n
+220,218,h4,Optical Input,n
+231,218,div,1,n
+241,169,div,,n
+243,241,div,,n
+245,243,ul,,n
+252,245,li,1ch Speaker System,n
+266,245,li,3D Compatible,n
+273,245,li,VIERA Link,n
+280,245,li,ARC,n
+281,243,ul,,n
+288,281,li,Karaoke Function,n
+295,281,li,LincsD-Amp,n
+302,281,li,Down Firing Subwoofer,n
+309,281,li,HDMI Cable Included,n
+316,281,li,Bluetooth Wireless Technology,n
+317,243,ul,,n
+331,317,li,One-Touch Connection,n
+345,317,li,Wall-Mountable Speaker,n
+352,317,li,Selectable Speaker Layout,n
+356,241,div,CHECK RESULTS,n
+366,107,div,,n
+368,366,div,,n
+370,368,h2,NO ROOM TO ADD MORE PRODUCTS,n
+372,368,p,products,n
+375,368,div,SEE YOUR WISHLIST,n
+380,366,div,,n
+388,380,div,,n
+392,388,p,SC-HTB700,n
+396,388,ul,,n
+402,396,li,Total_Output_Power_376W,n
+408,396,li,Dolby_Atmos,n
+414,396,li,DTS:X,n
+420,396,li,DTS Virtual,n
+422,388,p,,n
+423,422,text,"The HTB700 offers various sound modes so you can enjoy the best sound quality regardless of genre, and supports the state-of-the-art audio formats Dolby Atmos",n
+426,422,text,"and DTS:X™. Powerful, dynamic sound that moves around in all directions gives you a more immersive cinematic experience.",n
+470,380,div,,n
+474,470,p,SC-HTB510,n
+478,470,ul,,n
+484,478,li,Total_Output_Power_240W,n
+490,478,li,Wi-Fi,n
+496,478,li,Bluetooth,n
+502,478,li,Music_Streaming_App,n
+505,470,p,"The HTB510 is a 2.1-Channel High-Quality Sound System with wireless subwoofer which optimises cinematic sound. It features 240W output for more powerful bass, and the newly equipped Chromecast allows you to stream music and enjoy not only movies but also a wide range of other entertainment.",n
+549,380,div,,n
+553,549,p,SC-HTB688,n
+557,549,ul,,n
+563,557,li,1ch system,n
+574,557,li,,n
+575,574,text,Bluetooth,n
+578,574,text,Wireless Technology,n
+584,557,li,Digital Audio Input,n
+587,549,p,"The elegant, compact HTB688 is a perfect match for your TV. HDMI CEC compatibility provides easy operation. And the 3.1-Channel High-Quality Sound System with wireless subwoofer optimizes theater sound.",n
+631,380,div,,n
+633,631,p,,n
+635,633,span,Experience Cinematic Sound with Powerful and Heavy Bass,n
+637,633,span,SC-HTB490,n
+641,631,ul,,n
+647,641,li,Total Output Power 320W,n
+659,641,li,Bluetooth®,n
+665,641,li,1 ch Speaker System,n
+668,631,p,"HTB490 comes with a powerful wireless-subwoofer for deep and clear bass. The slim soundbar unit slots neatly under your TV. With Bluetooth® for streaming from smart devices, and HDMI ARC for quick TV connection with single remote control convenience.",n
+712,380,div,,n
+716,712,p,SC-BTT785,n
+720,712,ul,,n
+726,720,li,Blu-ray 3DTM,n
+738,720,li,NFC,n
+747,712,p,"This 5.1-channel Home Theater features Full-HD 3D compatibility. High sound quality further boosts the enjoyment of 3D images. High-quality 5.1-channel sound provides robust bass that fills even large listening spaces, and faithful ambience with fine, tr",n
+791,380,div,,n
+795,791,p,SC-XH385,n
+811,791,li,20cm Big Woofer,n
+826,791,p,"This DVD Home Theater brings awesome power to movies and music with dynamic bass sound from a big, 20-cm woofer. Bluetooth® compatibility makes it easy to listen to music stored on a smartphone or tablet with dynamic bass.",n
+874,380,p,SC-XH166,n
+953,380,p,SC-XH105,n
+1028,380,div,,n
+1032,1028,p,SC-HT31,n
+1038,1028,p,1 Channel Speaker System,n
+1082,380,div,,n
+1086,1082,p,SC-HT19,n
+1092,1082,p,Small in Size. Big in Sound.,n
+1133,13,div,,n
+1136,1133,h2,Other Categories,n
+1139,1133,div,,n
+1141,1139,h3,Consumer,n
+1142,1139,div,,n
+1143,1142,dl,,n
+1145,1143,dt,Home Entertainment,n
+1147,1143,dd,Viera Televisions,n
+1149,1143,dd,Blu-Ray and DVD,n
+1153,1143,dd,Headphones,n
+1154,1142,dl,,n
+1156,1154,dt,Cameras and Camcorders,n
+1158,1154,dd,Lumix S Full Frame System,n
+1160,1154,dd,Lumix G Micro Four Thirds System,n
+1162,1154,dd,Lumix Digital Cameras,n
+1164,1154,dd,Camcorders,n
+1166,1154,dd,SD Cards,n
+1167,1142,dl,,n
+1169,1167,dt,Home Appliances,n
+1171,1167,dd,Irons,n
+1173,1167,dd,Vacuum Cleaners,n
+1175,1167,dd,Refrigerators,n
+1177,1167,dd,Laundry,n
+1179,1167,dd,Water Dispensers,n
+1180,1142,dl,,n
+1182,1180,dt,Air Solutions,n
+1184,1180,dd,Residential Air Conditioners,n
+1186,1180,dd,Air Purifiers,n
+1188,1180,dd,Fans,n
+1189,1139,div,,n
+1190,1189,dl,,n
+1192,1190,dt,Beauty and Personal,n
+1194,1190,dd,Men's Grooming,n
+1196,1190,dd,Women's Beauty,n
+1198,1190,dd,Health Care,n
+1199,1189,dl,,n
+1201,1199,dt,Telephones,n
+1203,1199,dd,Telephone,n
+1204,1189,dl,,n
+1206,1204,dt,Batteries,n
+1208,1204,dd,eneloop Batteries,n
+1210,1204,dd,Dry Batteries,n
+1212,1204,dd,Car Batteries,n
+1213,1189,dl,,n
+1215,1213,dt,Cooking,n
+1217,1213,dd,Breakfast,n
+1219,1213,dd,Juicers and Blenders,n
+1221,1213,dd,Mixer Grinders,n
+1223,1213,dd,Meat Grinders,n
+1225,1213,dd,Food Processors,n
+1227,1213,dd,Rice Cookers,n
+1229,1213,dd,Microwave Ovens,n
+1231,1213,dd,Mixers,n
+1236,13,div,,n
+1238,1236,div,,n
+1240,1238,div,Print,n
+1245,1238,li,Area or Country,n
+1248,1236,div,,n
+1250,1248,p,Copyright © Panasonic Marketing Middle East and Africa FZE,n
+1251,1248,ul,,n
+1253,1251,li,About Us,n
+1255,1251,li,Privacy Policy,n
+1257,1251,li,Use,n
+1259,1251,li,Sitemap,n

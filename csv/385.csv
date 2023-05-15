@@ -1,0 +1,398 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+2,0,h1,SchoolChalao,n
+7,0,div,,n
+8,7,div,,n
+11,8,div,+,n
+13,8,div,help@schoolchalao.com,n
+17,7,div,LOGIN | REGISTER,n
+22,0,ul,,n
+25,22,li,Helpline,n
+28,22,li,Mail us,n
+34,22,div,,n
+36,34,span,Select Language,n
+38,34,span,​,n
+43,22,li,LOGIN | REGISTER,n
+46,0,div,,n
+51,46,div,,n
+55,51,div,Toggle navigation,n
+67,51,li,,n
+69,67,span,Register school,n
+71,67,span,or,n
+73,67,span,Learning Point,n
+76,46,div,,n
+79,76,h5,Tutorial Library,n
+82,76,div,,n
+83,82,text,Basic Art And Craft Activities,n
+85,82,div,Akki Art And Craft Craft Activities Mehandi Designs,n
+88,82,text,Beauty And Fashion,n
+90,82,div,Baby Dress Beauty Scrubs Bindi Design Blouse Cutting And Stitching Bridal Makeup Cushion Cutting And Stitching Eye Makeup Face Bleach Face Pack Face Wash Facial Tips Hair Cuttings Hair Spa Hairstyles Hand Bag Head Massage Highlight Your Hairs Lips Makeup Compilation Manicure Massages Mehandi On Hair Mehndi Designs Nail Art Pedicure Petticoat Cutting And Stitching Piko By Hand Reuse Old Footwear Saree Draping Suit Salwar Cutting and Stitching Thread Eyebrows Top Cutting And Stitching Waxing Process,n
+122,82,text,Child Growth Competitive Examination Computer Classes,n
+126,82,div,Basic Introduction Of Computers Browsers Computer Courses Computer Operating System Internet MS-Excel MS-Word Basic NotePad Paint Power Point,n
+136,82,text,English Speaking,n
+138,82,div,Daily Routines English Vocabulary Grammar,n
+140,82,text,Environmental Education,n
+142,82,div,Basic Environmental Education Environmental Disasters Environmental Issues And Remedies,n
+145,82,text,Food Recipes,n
+147,82,div,Food Recipe Videos Read Food Recipes,n
+149,82,text,General Awareness General Knowledge,n
+152,82,div,Basic Mathematical Formulas Information About India Information About World Rajasthan State,n
+156,82,text,Health Education,n
+158,82,div,Adolescents or Teenagers Diseases Fetus First Aid Measures Healthy Foods Healthy Living And Water Healthy Routine Homemade Treatment Infant or Baby Introduction Of Health Education Kid or School Age Children Middle Aged Person Newborn Senior Citizens Toddlers or Preschoolers Vaccination Chart Vitamin And Minerals WORKOUT Young Adult,n
+177,82,text,Historical Monuments Indian Cultural And Festivals,n
+180,82,div,Indian Clothing Indian Festivals Indian Folk Dance Indian Food Indian Languages Indian Musical Instruments Indian Religion Indian Traditional Sports Indian Wedding Styles Introduction Of Indian Culture,n
+190,82,text,List Of Famous Personalities Of India,n
+192,82,div,Beauty Queens Of India Business Tycoons Great Warrior Indian Freedom Fighters Indian Personalities Indian Scientists Indian Writers Musicians And Singer Sports Persons,n
+201,82,text,Moral Stories For Kids,n
+203,82,div,Hindi Stories,n
+204,82,text,Motivational Books Motivational Images Motivational Videos,n
+208,82,div,Dr. Vivek Bindra Sandeep Maheshwari,n
+210,82,text,New Technologies,n
+212,82,div,Applications Electronic Equipment Transportation Websites,n
+216,82,text,Painting Classes Personality Development Photography Poems And Rhymes,n
+221,82,div,English Poems Hindi Poems,n
+223,82,text,Previous Years Papers,n
+225,82,div,CBSE RBSE,n
+227,82,text,Projects For Kids Social Studies,n
+230,82,div,Indian Constitution Indian Geography Indian History Indian Politics,n
+234,82,text,Some Interesting Facts Sports Education,n
+237,82,div,Archery Athletics Badminton Baseball Basketball Billiards Boxing Bull Riding Carrom Board Competitive Climbing Cricket Croquet Darts Discus Throw Diving Drag Racing Football Golf Handball High Jump Hockey Horse Racing Judo Kabaddi Karate Kick Boxing Lawn Bowling Mixed Martial Arts Paragliding Polo Pool Racquetball Roller Hockey Roller Skating Rowing Running Sky Surfing Softball Swimming Table Tennis Tennis Volleyball Weightlifting Wrestling,n
+281,82,text,Tragedies And Disasters,n
+283,82,div,Attacks Disasters And Accidents,n
+285,82,text,Training Yoga And Exercise,n
+288,82,div,Exercise Yoga,n
+293,46,div,,n
+303,293,div,,n
+305,303,option,Select Category,n
+307,303,option,Basic Art And Craft Activities,n
+309,303,option,Beauty And Fashion,n
+311,303,option,Child Growth,n
+313,303,option,Competitive Examination,n
+315,303,option,Computer Classes,n
+317,303,option,English Speaking,n
+319,303,option,Environmental Education,n
+321,303,option,Food Recipes,n
+323,303,option,General Awareness,n
+325,303,option,General Knowledge,n
+327,303,option,Health Education,n
+329,303,option,Historical Monuments,n
+331,303,option,Indian Cultural And Festivals,n
+333,303,option,List Of Famous Personalities Of India,n
+335,303,option,Moral Stories For Kids,n
+337,303,option,Motivational Books,n
+339,303,option,Motivational Images,n
+341,303,option,Motivational Videos,n
+343,303,option,New Technologies,n
+345,303,option,Painting Classes,n
+347,303,option,Personality Development,n
+349,303,option,Photography,n
+351,303,option,Poems And Rhymes,n
+353,303,option,Previous Years Papers,n
+355,303,option,Projects For Kids,n
+357,303,option,Social Studies,n
+359,303,option,Some Interesting Facts,n
+361,303,option,Sports Education,n
+363,303,option,Tragedies And Disasters,n
+365,303,option,Training,n
+367,303,option,Yoga And Exercise,n
+374,293,div,,n
+376,374,span,Home,n
+377,374,text,> Learning Point > Sports education > Badminton > Equipment Used In Badminton Game,n
+385,46,h2,,n
+387,385,strong,Learning,n
+388,385,text,Point,n
+392,46,div,,n
+394,392,div,Show Categories,n
+397,392,div,,n
+406,397,div,,n
+408,406,p,Archery,n
+410,406,p,Athletics,n
+412,406,p,Badminton,n
+414,406,p,Baseball,n
+416,406,p,Basketball,n
+418,406,p,Billiards,n
+420,406,p,Boxing,n
+422,406,p,Bull Riding,n
+424,406,p,Carrom Board,n
+426,406,p,Competitive Climbing,n
+428,406,p,Cricket,n
+430,406,p,Croquet,n
+432,406,p,Darts,n
+434,406,p,Discus Throw,n
+436,406,p,Diving,n
+438,406,p,Drag Racing,n
+440,406,p,Football,n
+442,406,p,Golf,n
+444,406,p,Handball,n
+446,406,p,High Jump,n
+448,406,p,Hockey,n
+450,406,p,Horse Racing,n
+452,406,p,Judo,n
+454,406,p,Kabaddi,n
+456,406,p,Karate,n
+458,406,p,Kick Boxing,n
+460,406,p,Lawn Bowling,n
+462,406,p,Mixed Martial Arts,n
+464,406,p,Paragliding,n
+466,406,p,Polo,n
+468,406,p,Pool,n
+470,406,p,Racquetball,n
+472,406,p,Roller Hockey,n
+474,406,p,Roller Skating,n
+476,406,p,Rowing,n
+478,406,p,Running,n
+480,406,p,Sky Surfing,n
+482,406,p,Softball,n
+484,406,p,Swimming,n
+486,406,p,Table Tennis,n
+488,406,p,Tennis,n
+490,406,p,Volleyball,n
+492,406,p,Weightlifting,n
+494,406,p,Wrestling,n
+497,397,div,,n
+499,497,p,basic art and craft activities,n
+501,497,p,Beauty And Fashion,n
+503,497,p,Child Growth,n
+505,497,p,Competitive examination,n
+507,497,p,computer classes,n
+509,497,p,English speaking,n
+511,497,p,environmental education,n
+513,497,p,Food Recipes,n
+515,497,p,General Awareness,n
+517,497,p,general knowledge,n
+519,497,p,Health education,n
+521,497,p,Historical Monuments,n
+523,497,p,Indian Cultural And Festivals,n
+525,497,p,List Of Famous Personalities Of India,n
+527,497,p,Moral stories,n
+529,497,p,Motivational Books,n
+531,497,p,motivational images,n
+533,497,p,motivational videos,n
+535,497,p,New Technologies,n
+537,497,p,Painting classes,n
+539,497,p,personality development,n
+541,497,p,Photography,n
+543,497,p,Poems and rhymes,n
+545,497,p,previous years papers,n
+547,497,p,Projects,n
+549,497,p,Social studies,n
+551,497,p,some interesting facts,n
+553,497,p,sports education,n
+555,497,p,Tragedies And Disasters,n
+557,497,p,Training,n
+559,497,p,Yoga and Exercise,n
+566,392,div,,n
+576,566,div,,n
+579,576,h1,Equipment Used In Badminton Game,n
+580,576,div,,n
+581,580,text,Previous Next,n
+592,580,div,,n
+598,592,p,Badminton Equipments,n
+602,592,p,"Whenever you want to play badminton or want to make your career in this than it is necessary that you have to know about their important and needed badminton equipment. In this article, we cover the basic equipment and gear required for a game of badminton.",n
+607,592,p,Badminton Racket,y
+611,592,p,"Badminton rackets can be made from several types of materials. Depending on the material selection, this can result in different combinations of racket weight, balance points, and string tensions. With so many different combinations, it will take time to decide which is most suited to your playing style. Instead of making purchases online, go to a badminton shop. Ask for assistance and select a racket that you feel comfortable with. Swing the racket around to get a good feel for its overall weight and grip.",n
+619,592,p,Shuttlecock,y
+623,592,p,"There are two types of shuttlecocks available in the market - plastic and feathered shuttlecocks. Plastic shuttlecocks are far more durable compared to the feathered types which are commonly used. However, plastic shuttlecocks are only recommended for beginners who are just starting out. So if you just start to play badminton you can use this shuttle. This is because feathered shuttlecocks are expensive and fray easily especially if the wrong technique is used. Hence, plastic shuttlecocks are good for beginners to use for training. Plastic shuttlecocks tend to travel shorter distances as they are heavier. Hence, they are good for building strength as you make the transition to feathered shuttlecocks.",n
+629,592,p,Badminton Shoes,y
+632,592,p,,n
+633,632,text,"Badminton shoes are designed to give you better traction and grip to stop in time to return a shot. They should also be lightweight have good cushioning to absorb impact when you jump or land. Regular players will find heel cups useful to prolonging the lifespan of your shoes. Do not wear jogging shoes as they usually lack grip and traction. You might end up crashing through the badminton net if you are unable to stop in time to receive a drop shot. If you want to get a good grip on your badminton shoes, only wear it on badminton courts. Do not wear it for jogging or any other activities. Once the grip is gone, the shoes will not be effective on the court anymore. If your heels and knees start to hurt every time you land heavily on the floor after jumping, it means that the cushioning of your shoes has worn off. Although your shoes may still look new, it may be time to change them. If you want them to last longer, you may have to change the insole.",n
+635,632,br,"To protect your heels, it would be wise to invest in a good pair of heel cups. While they may be expensive, they are certainly worth it as they can save you from a lot of pain. Heel cups can also help to prolong the lifespan of your Badminton Shoes. If you decide to invest in them, get a good pair that comes with a lifetime guarantee.",n
+641,592,p,Badminton Attire,y
+645,592,p,"For casual to non-competitive players, a comfortable pair of shorts and cotton or dry-fit t-shirt is sufficient. Some players may want to equip themselves with hand grips, wristbands and ankle guards. Each of these items serves a purpose and might also add a color to the entire get-up. When it comes to badminton equipment, select what is appropriate before turning your attention to aesthetics.",n
+653,592,p,Net,y
+658,592,p,"A mesh net divides the badminton court into two sides. Badminton net is placed lower than a volleyball net at five feet and one inch high on the sides and five feet high in the center. The length may vary depending on whether doubles or singles are playing, with singles reaching 17 feet and doubles reaching 22 feet. The net is 30 inches wide with a 3-inch white tape doubled over the top.",n
+667,592,p,These are some main equipment’s which is needed when you play badminton.,n
+674,576,div,,n
+678,674,p,Very Useful,n
+682,674,p,Useful,n
+686,674,p,Not Useful,n
+688,576,div,,n
+694,688,span,Like This Post,n
+699,688,span,share on facebook,n
+706,576,div,Publish Your Comment,n
+716,566,div,,n
+719,716,h4,Related Search,n
+721,716,div,,n
+728,721,h3,Overview Of Badminton,n
+735,721,h3,Countries Participating In Badminton,n
+742,721,h3,Badminton Game,n
+749,721,h3,Terms Of Badminton,n
+756,721,h3,How To Play Badminton,n
+763,721,h3,badminton,n
+769,46,footer,,n
+771,769,div,,n
+775,771,h5,society.,n
+777,771,div,,n
+782,777,ul,,n
+784,782,li,Home,n
+786,782,li,About Us,n
+788,782,li,Our Services,n
+790,782,li,Become A Partner,n
+796,782,li,What's New,n
+798,782,li,Register Your School,n
+800,782,li,Contact Us,n
+801,777,div,,n
+803,801,ul,,n
+805,803,h6,Basic Art And Craft Activities,n
+807,803,li,Easy Way To Make It On Pa...,n
+809,803,li,The Easiest Way To Make P...,n
+813,801,ul,,n
+815,813,h6,Beauty And Fashion,n
+817,813,li,Strand French Braid Pinba...,n
+819,813,li,Trenzar El Cabello De For...,n
+823,801,ul,,n
+825,823,h6,Child Growth,n
+827,823,li,How To Improve Child’s ...,n
+829,823,li,How To Improve Child's Co...,n
+833,801,ul,,n
+835,833,h6,Competitive Examination,n
+837,833,li,NSTSE-National Level Scie...,n
+839,833,li,NSEB - National Standard ...,n
+843,801,ul,,n
+845,843,h6,Computer Classes,n
+847,843,li,Introduction Of Computers,n
+849,843,li,Hardware And Software,n
+853,801,ul,,n
+855,853,h6,English Speaking,n
+857,853,li,Parts Of Body,n
+859,853,li,Names Of Cereals,n
+863,801,ul,,n
+865,863,h6,Environmental Education,n
+867,863,li,What Is Environment?,n
+869,863,li,Living And Non Living Thi...,n
+873,801,ul,,n
+875,873,h6,Food Recipes,n
+877,873,li,Amla Meethi Chatni Recipe,n
+879,873,li,Besan Ka Halwa,n
+883,801,ul,,n
+885,883,h6,General Awareness,n
+887,883,li,16 Easy Ways To Get A Goo...,n
+889,883,li,10 Ways To Motivate Your ...,n
+893,801,ul,,n
+895,893,h6,General Knowledge,n
+897,893,li,First In Governance Of In...,n
+899,893,li,First In Awards and Titels,n
+903,801,ul,,n
+905,903,h6,Health Education,n
+907,903,li,What Is Health Education,n
+909,903,li,Importance Of Health Educ...,n
+913,801,ul,,n
+915,913,h6,Historical Monuments,n
+917,913,li,"Hawa Mahal, Jaipur Rajas...",n
+919,913,li,Taj Mahal,n
+923,801,ul,,n
+925,923,h6,Indian Cultural And Festivals,n
+927,923,li,Holi Festival,n
+929,923,li,Bal Divas,n
+933,801,ul,,n
+935,933,h6,List Of Famous Personalit...,n
+937,933,li,Mahatma Gandhi Ji,n
+939,933,li,Jawahar Lal Nehru Ji,n
+943,801,ul,,n
+945,943,h6,Moral Stories For Kids,n
+947,943,li,Jim’s Puppy,n
+949,943,li,The Dog And The Donkey,n
+953,801,ul,,n
+955,953,h6,Motivational Books,n
+957,953,li,Bhagwad Geeta,n
+959,953,li,As A Man Thinketh,n
+965,801,h6,Motivational Images,n
+973,801,ul,,n
+975,973,h6,Motivational Videos,n
+977,973,li,Job Interview Confidence ...,n
+979,973,li,Confident Body Language T...,n
+983,801,ul,,n
+985,983,h6,New Technologies,n
+987,983,li,Facebook,n
+989,983,li,Twitter,n
+993,801,ul,,n
+995,993,h6,Painting Classes,n
+997,993,li,What Is Painting,n
+999,993,li,What Do You Need To Start...,n
+1003,801,ul,,n
+1005,1003,h6,Personality Development,n
+1007,1003,li,What Is Personality,n
+1009,1003,li,What Is Personality Devel...,n
+1013,801,ul,,n
+1015,1013,h6,Photography,n
+1017,1013,li,What Is Photography ?,n
+1019,1013,li,Top Photography Technique...,n
+1023,801,ul,,n
+1025,1023,h6,Poems And Rhymes,n
+1027,1023,li,Animal Talk,n
+1029,1023,li,Humpty Dumpty,n
+1033,801,ul,,n
+1035,1033,h6,Previous Years Papers,n
+1037,1033,li,Class 10th RBSE 2015 Hind...,n
+1039,1033,li,Class 10th RBSE 2015 Engl...,n
+1043,801,ul,,n
+1045,1043,h6,Projects For Kids,n
+1047,1043,li,Different Type Of Flower,n
+1049,1043,li,Currencies Name,n
+1053,801,ul,,n
+1055,1053,h6,Social Studies,n
+1057,1053,li,Election Process,n
+1059,1053,li,Political Parties,n
+1063,801,ul,,n
+1065,1063,h6,Some Interesting Facts,n
+1067,1063,li,About Dreams,n
+1069,1063,li,About Water,n
+1073,801,ul,,n
+1075,1073,h6,Sports Education,n
+1077,1073,li,Overview Of Archery,n
+1079,1073,li,Playing Environment Of Ar...,n
+1083,801,ul,,n
+1085,1083,h6,Tragedies And Disasters,n
+1087,1083,li,"Titanic Sinks, 1912",n
+1089,1083,li,"Gujarat Earthquake, 2001",n
+1093,801,ul,,n
+1095,1093,h6,Training,n
+1097,1093,li,Student Training,n
+1099,1093,li,Teachers Training,n
+1103,801,ul,,n
+1105,1103,h6,Yoga And Exercise,n
+1107,1103,li,Introduction Of Yoga,n
+1109,1103,li,Squat,n
+1128,769,div,© 2022 All Right Reserved! Designed and Developed by,n
+1132,769,p,Keep Learning,n
+1194,769,div,,n
+1196,1194,div,,n
+1197,1196,text,Latest Buzz!,n
+1199,1196,small,Just Click here to check what's new,n
+1200,1194,div,,n
+1203,1200,div,Sorry ! Sorry ! Sorry - Every Woman Should Say This Society,n
+1206,1200,div,9 Well-Known First Aid Methods That 90% Of People Perform Incorrectly,n
+1210,46,div,,n
+1214,1210,h5,Please login to your account by completing this form,n
+1216,1210,div,,n
+1218,1216,p,Use your social media account,n
+1221,1216,div,Login with Facebook Login with Google+,n
+1225,1216,div,OR,n
+1228,1216,div,,n
+1241,1228,div,,n
+1243,1241,button,Login,n
+1245,1241,button,Resend Activation Link,n
+1250,1228,p,Register Now,n
+1255,1216,div,,n
+1272,1255,div,Register Now,n
+1274,1255,p,,n
+1275,1274,text,Already a member?,n
+1277,1274,span,Login Now,n
+1304,46,div,,n
+1307,1304,div,Login As A school Administrator,n
+1309,1304,p,Fill out the form below to login into your school,n
+1312,1304,div,,n
+1326,1312,div,Login to your school,n
+1331,1312,p,Register your school now,n
+1335,1312,p,Login into your schoolchalao account,n
+1336,1312,div,,n
+1338,1336,p,A simple way to keep your school synchronize.,n
+1340,1336,p,"Simple, elegant and user friendly",n
+1342,1336,p,"School data, information and other details.",n
+1344,1336,p,Manage your school from any device,n
+1354,46,p,Reset Your password,n
+1417,0,div,Please Wait....,n
+1425,0,text,​,n
+1430,0,div,,n
+1436,1430,h1,Original text,n
+1442,1430,div,Contribute a better translation,n

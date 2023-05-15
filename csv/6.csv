@@ -1,0 +1,31 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,ul,,n
+6,4,li,School Supply Lists,n
+8,4,li,6th Grade Supply List,n
+10,4,li,7th Grade Supply List,n
+12,4,li,8th Grade Supply List,n
+16,0,div,,n
+20,16,p,Download PDF version,n
+22,16,div,,n
+25,22,h2,MOUNT LOGAN MIDDLE SCHOOL,n
+28,22,h3,EIGHTH GRADE SUPPLY LIST,n
+32,22,h3,items that will help your student be organized and successful.,n
+33,22,ul,,n
+35,33,li,Pencils,y
+37,33,li,Binder,y
+39,33,li,"Lined, 3-hole punched paper",y
+41,33,li,Graph ruled composition book,y
+43,33,li,2 pocket folder,y
+45,33,li,TI-30XIIS calculator .,y
+47,33,li,Whiteboard markers,y
+50,22,h3,PLEASE NOTE,n
+51,22,ul,,n
+53,51,li,Label all supplies with student's name in permanent marker.,n
+55,51,li,school.,n
+57,51,li,Some teachers may require other supplies,n
+60,22,h3,PHYSICAL EDUCATION,n
+61,22,p,,n
+62,61,text,The standard MLMS P.E. Uniform is required,n
+65,61,text,through 8,n
+68,61,text,"grade students. P.E. uniforms may be purchased at the Finance Office. In addition to the uniform, your student will also need a pair of running shoes. .",n

@@ -1,0 +1,118 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+140,0,div,,n
+141,140,div,,n
+148,141,div,,n
+149,148,div,,n
+151,149,h1,Top 10 Things All Bird Watchers Need,n
+154,149,p,,n
+156,154,span,by,n
+158,154,span,"Bill Thompson, III | Editor, Bird Watcher's Digest",n
+164,148,div,"Birders at the New River Birding Festival in West Virginia. Photo by Bill Thompson, III.",n
+165,148,div,,n
+167,165,p,"Welcome to the wonderful world of bird watching, or birding, if you prefer. Let’s start off your new hobby by getting all the things you’ll need to have maximum enjoyment. Many birding festivals and events have vendor areas where you can shop for these items. Or you can visit a specialty bird store or nature shop at a local refuge or nature center. Big box outdoor stores and local outfitter shops will have many of these products, though perhaps not specifically manufactured for birders and birding . Of course you can always shop on the Internet for the items listed below, but I’m mostly an old school, feel-it-in-my-hand shopper.",n
+171,165,p,Here’s my top ten list of the stuff every bird watcher should have to get started—beyond the backyard—in this wonderful hobby. Learn more about how to get started in your backyard.,n
+173,165,p,,n
+175,173,strong,Binocular,y
+176,173,text,". A binocular is the primary tool for a bird watcher. It gives you the super power of 8-times to 10-times magnified vision, which helps you see birds better so you can identify them. Identifying birds is, after all, at the very core of birding. The best practice is to spend as much as you can afford on binoculars. But if you’re not sure that you’ll be birding on a regular basis, getting a binocular that’s affordable is a good compromise. Plan to spend about $150 to $350 for a good starter bino. If you want to go all in, you can easily spend $2,000 or more for the top-end optics. It’s really wise to try before you buy since you need to select a model that fits your hands, eyes, and style of birding, and is not too heavy in the hand or on the strap on your neck. Festivals are a great place to try a variety of makes and models of binoculars before making a purchase. So is the American Birding Expo.",n
+179,165,p,,n
+181,179,strong,Field Guide,y
+182,179,text,". If binoculars give you visual super power, a field guide is like a magic decoder ring. A field guide helps you identify birds by matching the image and text in the guide with the bird or birds you are seeing. Beginning and non-birders often say things like “They all look alike to me!” and “I can’t tell one little brown bird from another!” That’s where using a field guide, and a bit of time spent observing birds, can really be helpful. First look at the bird through your binocs and note the most obvious physical traits it shows . Then, when the bird is no longer in view, lower your optics and consult the guide. Field guides come in two basic forms: ones that use photographs of birds to illustrate field marks and ones that use artwork or illustrations. Each type has its advantages, so I always suggest owning more than one field guide. You’ll soon have a favorite that will become your trusted field companion. Some of the most popular field guides are: Peterson, Sibley, Kaufman, National Geographic, but there are many others.",n
+185,165,p,,n
+187,185,strong,Bird Club Membership,y
+188,185,text,". There’s no better way to expand your birding skills and opportunities than by joining a bird club. You’ll be welcomed into a new social circle of people who share you interest in birds, and you’ll be able to participate in the club’s activities, such as field trips, bird counts, meetings, and presentations. Most bird clubs are eager to welcome new members. Find a bird club near you.",n
+190,165,p,,n
+192,190,strong,Field Journal or Life List.,y
+193,190,text,"Many birders enjoy keeping notes about their field trips or bird watching experiences. And most of us also keep a life list of our sightings. A life list is a list of all the bird species you’ve seen at least once in your life. And there are a lot of bird species out there to see—more than 900 regularly occurring in North America north of Mexico and, according to recent research, more than 18,000 species worldwide. Your journal and records can be kept in either print or digital form. I prefer printed records since their batteries never need recharging. Digital options include a variety of apps, software, and online databases, such as ebird.org .",n
+196,165,p,,n
+198,196,strong,Birding Pack or Birding Vest,y
+199,196,text,. You’ve got to have a way to carry all of your stuff when you’re out birding. Two of the most popular methods are a birding vest with lots of large pockets or a birding pack. Packs can come in a variety of sizes and intended uses. I prefer a waist pack that attaches to my belt . Over time you’ll discover your preferred method of carrying your necessary birding items.,n
+200,165,p,,n
+202,200,strong,Comfy Footwear.,y
+203,200,text,"If your feet aren’t comfortable, it’s hard to enjoy yourself while birding. Footwear design and construction has made great strides since the days of leather hiking boots and hard rubber soles. I match my birding footwear to the terrain I’ll be in. Ankle-supporting hikers for woodland or rocky trails, rubber boots for marshy, muddy birding, lightweight tennis shoes or even sturdy sandals for casual birding along a boardwalk.",n
+204,165,p,,n
+206,204,strong,Brimmed Hat.,y
+207,204,text,"The sun used to be our friend and we wanted to be out in it as much as possible. For most sensible humans this is no longer the case. A hat with a brim keeps the sun out of your eyes while birding, which makes for a clearer, brighter view. Several bad sunburns in my youth are now coming back to haunt me. I’m a member of the total cover-up from the sun club since my skin can’t take any more sunburns or sun damage. For this reason, I not only wear a wide-brimmed hat with a neck-covering curtain in back, I also wear sun-blocking, long-sleeved shirts, long pants, and sun-blocking gloves. I may look like the Invisible Man while birding in sunny settings, but I’m trying to avoid unnecessary trips to my dermatologist.",n
+208,165,p,,n
+210,208,strong,Bird Song App or CDs.,y
+211,208,text,"Being able to bird by ear—identifying birds by the songs and sounds they make—is a wonderful way to expand your ability to enjoy birds. Birds are amazing sound makers. From the chainsaw-like moan of the Atlantic puffin to the heartbreakingly beautiful song of the Swainson’s thrush, when you tune your ears to the “wild bird channel” you will be amazed. If you want to do more than appreciate them, and you’d like to know how to identify birds by ear, check out online sound databases such as musicofnature.com , allaboutbirds.org and xeno-canto.org . Then there are the CDs, bird sound apps, and field guides with sounds for your digital device. A neat app with a bird sounds quiz feature is larkwire.com .",n
+220,165,p,,n
+222,220,strong,Skill-building Book or Course,y
+223,220,text,". As you spend more time watching birds, you’ll notice that your skills will improve. Often this is helped along by a birding mentor, or experienced birding friends. To take a giant leap forward, you’ll want to take a course, attend a seminar, consult a book, or watch online birding tutorial videos. All of these things are readily available to bird watchers through the magic and connectivity of the Internet.",n
+224,165,p,,n
+226,224,strong,Extra or Spare Binocs,y
+227,224,text,". Smart birders keep their binoculars in one convenient, familiar place for quick and easy access. I prefer to have additional bins handy by all the places I spend a lot of time: in my office, in my car, and in the places in my house where I have a birdy view. These are my quick-grab pairs and they have helped me see lots of neat birds, especially those that were present only a few minutes. Consider getting a second pair of binoculars to keep in near your best viewing locations. Remember, birds can be seen almost anywhere. There are a number of inexpensive 8x binoculars on the market today.",n
+229,165,p,"I hope these ten suggestions will be helpful to you as you immerse yourself in this wonderful, lifelong activity.",n
+231,165,div,,n
+232,231,div,,n
+236,232,span,Share,n
+238,232,span,8,n
+244,231,div,Tweet,n
+245,231,div,,n
+249,245,span,Pin,n
+251,245,span,4,n
+253,231,div,,n
+254,253,text,12,n
+256,253,span,Shares,n
+258,141,div,,n
+261,258,h3,More In This Section,n
+262,258,div,,n
+267,262,h4,Spring »,n
+272,262,h4,Top 10 Backyard Questions »,n
+277,262,h4,Top 10 Weird Things to Feed Birds »,n
+282,262,h4,Top 10 Reasons to Be a Bird Watcher »,n
+287,262,h4,Top 10 Tips,n
+292,262,h4,Top 10 Things to Watch,n
+297,262,h4,Top 10 Reasons to Go to a Bird Festival »,n
+302,262,h4,Top 10 Foods,n
+307,262,h4,Top 10 Things to do in Winter »,n
+312,262,h4,Top 10 Ways to Help Birds in Bad Weather »,n
+317,262,h4,Top 10 Ways to Help Birds in Fall »,n
+322,262,h4,Top 10 Reasons to Participate in The Big Sit! »,n
+327,262,h4,Top 10 Bird Conservation Ideas »,n
+332,262,h4,Things You Can Do to Prevent Window Strikes »,n
+337,262,h4,Top 10 Ways to Get Better at Bird Identification »,n
+342,262,h4,Top 10 Reasons to Love Suet Dough »,n
+347,262,h4,Top 10 Ways to Help Nesting Birds »,n
+348,140,div,,n
+351,348,div,,n
+354,351,div,Featured Freebie,n
+355,351,div,,n
+357,355,div,Tips,n
+361,355,div,,n
+362,361,text,"Identifying birds is at the very heart of bird watching. Each bird encountered is like a little puzzle or mystery to solve, because, while birds of a single species all share a certain set of physical traits, no two individual birds, like no two individual humans, are exactly alike.",n
+364,361,p,Get It Now »,n
+366,348,div,,n
+369,366,div,More From BWD,n
+371,366,div,,n
+374,371,div,,n
+376,374,strong,OUT THERE WITH THE BIRDS,n
+377,374,text,To Twitch or Not to Twitch? »,n
+380,371,div,,n
+382,380,strong,THIS BIRDING LIFE,n
+383,380,text,Episode 90,n
+384,0,div,,n
+385,384,div,,n
+386,385,div,,n
+388,386,h3,Most Popular,n
+389,386,ul,,n
+391,389,li,Home,n
+395,389,li,This Birding Life,n
+397,389,li,Out There With the Birds,n
+399,389,li,Bird Identification Guide,n
+401,389,li,Freebies,n
+404,385,h3,Bird Watcher's Digest,n
+414,385,h3,Watching Backyard Birds,n
+422,385,div,,n
+424,422,h3,Additional Info,n
+425,422,ul,,n
+427,425,li,Privacy Policy—UPDATED,n
+429,425,li,Your CA Privacy Rights,n
+431,425,li,Do Not Sell My Info,n
+433,425,li,Use,n
+435,384,div,,n
+436,435,text,Bird Watcher's Digest,n
+437,435,div,,n
+439,437,h4,Copyright © 2022 Bird Watcher's Digest . All Rights Reserved.,n
+442,437,text,"No material, information, or images from this site may be used without express permission from Bird Watcher's Digest .",n
+448,0,span,Scroll Up,n

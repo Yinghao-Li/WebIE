@@ -1,0 +1,98 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+4,0,div,,n
+6,4,h3,BWF Approved Equipment,n
+8,4,p,Application and Renewal Process,n
+9,0,div,,n
+10,9,div,,n
+14,10,h3,Equipment Approval Scheme,n
+19,10,h3,19 DOWNLOADS,n
+22,9,div,,n
+26,22,div,Certification - Terms and Conditions,n
+30,22,div,BWF Sanctioned Tournament - Flooring Requirements,n
+34,22,div,BWF Preferred Equipment Suppliers process 2021,n
+38,22,div,PES - Application Form Mats and Sub-flooring,n
+42,22,div,PES_-_Application_Form_Shuttlecocks,n
+46,22,div,Flooring Overview,n
+50,22,div,New Flooring Application Form,n
+54,22,div,Flooring Application Form _Renewal_,n
+58,22,div,Shuttlecocks Overview,n
+62,22,div,Shuttlecock Application Form,n
+66,22,div,Net Overview,n
+70,22,div,Net Application Form _New_,n
+74,22,div,Net Application Form _Renewal_,n
+78,22,div,Net Posts Overview,n
+82,22,div,Net Posts Application Form _New_,n
+86,22,div,Net Posts Application Form _Renewal_,n
+90,22,div,Service Height Measuring Device _Overview_,n
+94,22,div,Service Height Measuring Device _SHMD_ Application Form _New,n
+98,22,div,Service Height Measuring Device _SHMD_ Application Form _Renewal,n
+99,9,div,,n
+105,99,div,,n
+107,105,p,The Equipment Approval Scheme is an opportunity for manufacturers of badminton products to apply to be included on the official list of BWF Approved Equipment according to the minimum standards established by the BWF. Manufacturers of BWF Approved Equipment have certain rights when advertising their products.,n
+109,105,p,The Approval Scheme was introduced in 1988 to maintain a satisfactory standard of feather shuttles and court equipment used in international badminton events. BWF approves five product categories.,n
+110,105,ul,,n
+112,110,li,Shuttlecocks,y
+114,110,li,Flooring,y
+116,110,li,Nets,y
+118,110,li,Net posts,y
+120,110,li,Service Height Measuring Device,y
+126,99,div,,n
+129,126,p,Application Process,n
+131,126,p,The application process may take two months or more to complete so manufacturers should take this into account. No temporary certificate requests or immediate approval requests will be considered.,n
+133,126,p,"Shuttlecocks, nets, net posts, service height measuring device and flooring undergo tests by laboratories and or or testing providers. The results of all the tests are examined by the BWF and if the product meets the required standard, the product or manufacturer will be entitled to include the wording “Approved by the BWF for International Play” on the packaging and advertising for that approved brand and grade. All tests performed are at the expense of the applicants.",n
+135,126,p,terms and conditions,n
+139,126,p,All applications must be sent to Thevagi Suppiah – s.thevagi@bwf.sport,n
+152,99,div,,n
+155,152,p,Applications – Shuttlecock,n
+157,152,p,Shuttlecock testing is conducted two times each year in May and November.,n
+159,152,p,,n
+160,159,text,All sample shuttles must reach BWF Secretariat address by 31,n
+162,159,sup,st,n
+163,159,text,March and 30,n
+165,159,sup,th,n
+166,159,text,September.,n
+168,152,p,The certification period runs for one year beginning from the certification date. BWF reserves the right to withdraw BWF certification at any time.,n
+170,152,p,Download and read the overview below and then download and complete the application form.,n
+171,152,ul,,n
+173,171,li,Overview – Application Process – Shuttlecock,n
+175,171,li,Shuttlecock Application Form,n
+187,99,div,,n
+190,187,p,Applications – Flooring,n
+192,187,p,Applications for approved flooring can take place throughout the year. The approval period is for two years beginning from approval date.,n
+195,187,ul,,n
+197,195,li,Overview – Application Process – Flooring,n
+199,195,li,Flooring Application Form,n
+201,195,li,Flooring Application Form,n
+213,99,div,,n
+216,213,p,Applications – Nets,n
+218,213,p,Applications for approved nets can take place throughout the year. The approval period is for two years beginning from approval date.,n
+221,213,ul,,n
+223,221,li,Overview – Application Process – Nets,n
+225,221,li,Net Application Form,n
+227,221,li,Net Application Form,n
+239,99,div,,n
+242,239,p,Applications -Service Height Measuring Device,n
+244,239,p,Applications for approved Service Height Measuring Device can take place throughout the year. The approval period is for two years beginning from approval date.,n
+247,239,ul,,n
+249,247,li,Overview – Application Process – Service Height Measuring Device,n
+251,247,li,Service Height Measuring Device Application Form,n
+253,247,li,Service Height Measuring Device Application Form,n
+265,99,div,,n
+268,265,p,Applications – Net Posts,n
+270,265,p,Applications for approved net posts can take place throughout the year. The approval period is for two years beginning from approval date.,n
+273,265,ul,,n
+275,273,li,Overview – Application Process – Net Posts,n
+277,273,li,Net Post Application Form,n
+279,273,li,Net Post Application Form,n
+291,99,div,,n
+294,291,p,BWF Preferred Equipment Suppliers,n
+295,291,p,,n
+296,295,text,BWF is certifying “,n
+298,295,strong,BWF Preferred Equipment Suppliers,n
+299,295,text,"” in different product categories to ensure that the highest level of equipment is used in the highest level BWF tournaments, including multi-sports events.",n
+301,291,p,the following product categories:,n
+302,291,ul,,n
+304,302,li,Badminton Feather Shuttlecocks,n
+306,302,li,Badminton Court Mats,n
+308,302,li,Badminton Sub-floors,n

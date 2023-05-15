@@ -1,0 +1,57 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+3,0,div,,n
+22,3,div,,n
+25,22,h2,Supplies needed,n
+28,22,p,"Students in the College of Art and Design will find many, if not all, of the following items useful throughout their time in college, and in life in general!",n
+30,22,p,,n
+33,30,strong,Illustration,n
+36,30,strong,Medical Illustration,n
+39,30,strong,Studio Arts,n
+42,30,strong,Graphic Design,n
+45,30,strong,Industrial Design,n
+48,30,strong,"Interior Design, Photography, Motion Picture Science",n
+51,30,strong,Film Production,n
+52,30,text,"are encourage to bring the “required” items to school with them to avoid delays in ordering online, and needing to make shopping trips.",n
+54,22,p,,n
+57,54,strong,"3DDD,",n
+59,54,strong,"New Media Design,",n
+62,54,strong,Animation,n
+63,54,text,these items in their freshmen foundation courses.,n
+66,22,p,"For health and safety reasons, we recommend you avoid sharing supplies, and consider bringing as many of these basic household items, as possible, to school with you in fall.",n
+68,22,h3,Required,n
+69,22,ol,,n
+72,69,li,"Basic writing or drawing tools, such as, pens, pencils, highlighters, etc.",y
+74,69,li,"Ruler- Steel with cork backing 18""-24""",y
+76,69,li,Hot Glue Gun​,y
+78,69,li,​Super Glue,y
+80,69,li,Packing Tape,y
+82,69,li,Masking Tape,y
+84,69,li,Double Sided Tape,y
+86,69,li,Scissors,y
+88,69,li,Exacto Knife,y
+90,69,li,Utility Knife,y
+92,69,li,Needle Nose Pliers,y
+95,69,li,Gaffer Tape,y
+98,69,li,3-hole punch,y
+100,22,h3,Recommended,n
+101,22,ol,,n
+103,101,li,Tape Measure,y
+105,101,li,Multi-tip Screw Driver,y
+107,101,li,Allen Wrenches- Metric and Imperial,y
+109,101,li,Hammer or Mallet,y
+111,101,li,Adjustable Wrench,y
+113,101,li,Diagonal Side Cutting Pliers,y
+115,101,li,​Files,y
+117,101,li,Rasps,y
+119,101,li,Saws,y
+121,101,li,Putty Knife,y
+124,22,p,,n
+125,124,text,+++,n
+127,124,br,"To get back to the Main CAD recommendation page, click the link below:",n
+129,124,br,2201 Hardware and Software Recommendations,n
+137,3,li,,n
+138,137,text,Supplies needed,n
+139,137,ol,,n
+141,139,li,Required,n
+143,139,li,Recommended,n

@@ -1,0 +1,233 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+5,0,div,,n
+9,5,div,,n
+10,9,section,,n
+12,10,nav,,n
+14,12,li,Expert Advice,n
+18,12,li,Watersports,n
+22,12,li,Canoeing,n
+24,10,div,,n
+25,24,div,,n
+32,25,span,,n
+34,32,span,371,n
+36,32,span,Reviews,n
+38,25,span,4.4 out of 5 stars,n
+39,24,ul,,n
+43,39,li,Print,n
+46,39,li,Facebook,n
+49,39,li,Twitter,n
+52,39,li,Pinterest,n
+55,9,div,,n
+59,55,p,"Planning a paddle-camping vacation by canoe? Our comprehensive checklist includes required and optional gear, clothing, accessories and more.",n
+65,55,p,Printer-friendly version,n
+70,55,h2,Canoe Basics,n
+73,55,ul,,n
+75,73,li,Canoe,y
+77,73,li,Paddle,y
+79,73,li,Extra paddle,y
+81,73,li,Personal flotation device,y
+83,73,li,Extra PFD,y
+85,73,li,Seat,y
+87,73,li,Knee pads,y
+89,73,li,Yoke,y
+91,73,li,Dry bags,y
+93,73,li,Spray covers,y
+95,73,li,Weather or VHF radio,y
+97,73,li,Signaling devices,y
+99,73,li,Float bags,y
+101,73,li,Emergency floating throw line,y
+103,73,li,Bailer or bilge pump,y
+105,73,li,Sponges,y
+112,55,h2,Core Gear,y
+115,55,ul,,n
+117,115,li,Maps and charts in waterproof case,y
+119,115,li,Compass,y
+121,115,li,GPS,y
+123,115,li,Matches or lighter or fire starter in waterproof container,y
+126,115,li,Knife or multi-tool,y
+130,115,li,Two-way radios,y
+132,115,li,Cell phone in protective bag,y
+134,115,li,Multifunction watch,y
+136,115,li,Headlamp or flashlight,y
+143,115,li,First-aid supplies,y
+148,115,li,Sunglasses,y
+150,115,li,Sunscreen,y
+152,115,li,Lip balm,y
+154,115,li,Water bottles,y
+156,115,li,Water treatment method,y
+159,115,li,Energy food,y
+161,115,li,Beverages or powdered drinks,y
+168,55,h2,Camping Basics,y
+172,55,p,"See our Backpacking , Camping, or Day Hiking checklists",n
+181,55,ul,,n
+183,181,li,"Tent , tarp or bivy sack",y
+189,181,li,Sleeping bag,y
+191,181,li,Sleeping pad,y
+193,181,li,Meals and snacks,y
+195,181,li,Cooler,y
+198,181,li,Stove and fuel,y
+202,181,li,Cookset and utensils,y
+206,181,li,"Dishes , bowls and cups",y
+212,181,li,Insect repellent,y
+215,181,li,Toilet paper and sanitation trowel,y
+219,181,li,Hand sanitizer,y
+221,181,li,Camera,y
+223,181,li,Binoculars,y
+225,181,li,Packable lantern,y
+227,181,li,cash,y
+229,181,li,Trip itinerary left with friend + under car seat,y
+236,55,h2,Clothing,y
+239,55,ul,,n
+241,239,li,Dry suit or top,y
+243,239,li,Paddling gloves or pogies,y
+245,239,li,Neoprene footwear,y
+247,239,li,Sandals,y
+249,239,li,Helmet,y
+251,239,li,Sun-shielding hat,y
+253,239,li,Hat or cap retainer,y
+255,239,li,Skullcap,y
+257,239,li,Bandana or buff,y
+259,239,li,Wool or synthetic cap or balaclava,y
+261,239,li,Moisture-wicking T-shirt,y
+263,239,li,Moisture-wicking underwear,y
+265,239,li,Rashguard,y
+267,239,li,Swimsuit,y
+269,239,li,Shorts or convertible pants,y
+271,239,li,Sun-shielding shirt and pants,y
+273,239,li,Spray jacket or rainwear,y
+275,239,li,Synthetic vest or jacket,y
+277,239,li,Synthetic gloves or mittens,y
+284,55,h2,Repair-Kit Options,n
+287,55,ul,,n
+289,287,li,Sealant,y
+291,287,li,Bailing wire,y
+293,287,li,Nylon cord,y
+295,287,li,Putty,y
+297,287,li,Replacement nuts or bolts,y
+299,287,li,Repair or duct tape,y
+305,9,div,,n
+309,305,div,,n
+311,309,h2,Rate this article,n
+314,309,p,,n
+315,314,text,How helpful was this article?,n
+317,314,span,Click a star to rate.,n
+331,309,button,Submit Rating,n
+335,305,div,Back to top,n
+336,5,footer,,n
+338,336,div,,n
+340,338,p,How are we doing?,n
+341,338,p,,n
+343,341,button,Give us feedback,n
+344,341,text,on this page.,n
+346,336,div,,n
+352,346,h2,Sign up,n
+356,346,p,"Co-op offers, events and cool new gear",n
+357,346,form,,n
+359,357,div,,n
+361,359,label,Email,n
+365,359,span,,n
+367,365,span,Error,n
+368,365,text,Is your email address correct?,n
+371,357,div,Sign me up!,n
+375,346,div,REI Privacy Policy,n
+378,346,div,,n
+382,378,h2,Thank you!,n
+385,378,div,,n
+387,385,strong,Check your inbox,n
+388,385,text,for your first email from REI. We'll send you a few emails every week. You can easily unsubscribe at any time.,n
+389,346,div,,n
+393,389,h2,System Maintenance,n
+397,389,p,The newletter sign-up system is currently down,n
+398,336,div,,n
+400,398,div,,n
+401,400,div,,n
+403,401,h2,Who we are,n
+404,401,p,,n
+406,404,span,"At REI, we believe that a life outdoors is a life well lived. We've been sharing our passion for the outdoors since 1938.",n
+407,404,text,Read our story,n
+408,400,div,,n
+410,408,h2,Become a co-op member,n
+411,408,p,,n
+413,411,span,"Anyone can join, and everyone belongs. Benefits include great gear offers, special pricing on events, and an annual Co-op Member Reward—for life. Join once, enjoy forever.",n
+414,411,text,Join us,n
+415,400,div,,n
+417,415,h2,Take a stand,n
+418,415,p,,n
+420,418,span,"Outdoor equity, climate action, places we love. Raise your voice in the movement to protect and share life outdoors.",n
+421,418,text,REI Cooperative Action Network,n
+422,400,div,,n
+423,422,h2,,n
+424,423,text,REI Co-op Mastercard,n
+426,423,sup,®,n
+429,422,ul,,n
+433,429,li,Check back in August,n
+436,429,li,,n
+438,436,span,Have the card already?,n
+439,436,text,Manage your account here.,n
+440,398,div,,n
+442,440,div,,n
+443,442,ul,,n
+445,443,li,Returns and Exchanges,n
+447,443,li,Your Online Account,n
+449,443,li,Purchase Status,n
+451,443,li,Shipping Info,n
+453,443,li,Membership,n
+455,443,li,Find Member Number,n
+457,443,li,Total REI Rewards Lookup,n
+458,442,ul,,n
+460,458,li,Expert Advice,n
+462,458,li,"Classes, Tours and Events",n
+464,458,li,Store Events,n
+466,458,li,REI Adventures Trips,n
+468,458,li,Uncommon Path,n
+470,458,li,Conversations,n
+472,458,li,REI Cooperative Action Fund,n
+474,458,li,Path Ahead Ventures,n
+476,440,div,,n
+477,476,ul,,n
+479,477,li,Virtual Outfitting,y
+481,477,li,Gift Cards,y
+483,477,li,Gift Registry,y
+485,477,li,Wish Lists,y
+487,477,li,Gear Collections,y
+489,477,li,"Coupons, Rebates and Discounts",y
+491,477,li,Free Shipping Details,y
+492,476,ul,,n
+494,492,li,About REI,y
+496,492,li,Stewardship,y
+498,492,li,Jobs,y
+500,492,li,Newsroom,y
+502,492,li,Technology Blog,y
+504,492,li,Sell at REI,y
+506,492,li,Affiliate Program,y
+508,492,li,Corporate and Group Sales,y
+510,492,li,Store Locator,y
+512,492,li,Live Chat,y
+514,492,li,Help Center,y
+515,398,div,,n
+518,515,div,,n
+520,518,p,Help Center,n
+522,518,p,Find answers online anytime.,n
+527,515,p,Live Chat,n
+535,515,p,,n
+537,535,span,Call us at,n
+538,535,text,-,n
+543,398,div,,n
+545,543,div,,n
+551,545,li,Get REI apps,n
+553,545,div,,n
+556,553,span,twitter,n
+559,553,span,facebook,n
+562,553,span,pinterest,n
+565,553,span,youtube,n
+568,553,span,instagram,n
+570,543,div,,n
+572,570,p,"© 2022 Recreational Equipment, Inc. All rights reserved. REI and the REI Co-op logo are trademarks of Recreational Equipment, Inc.",n
+574,570,ul,,n
+576,574,li,Use,y
+578,574,li,Privacy Policy,y
+580,574,li,Interest Based Ads,y
+582,574,li,Product Recalls,y
+584,574,li,CA Transparency Act,y
+586,574,li,REI Accessibility Statement,y

@@ -1,0 +1,807 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+31,0,div,,n
+1307,31,div,,n
+1311,1307,div,,n
+1315,1311,h1,,n
+1316,1315,text,Shop,n
+1318,1315,span,Ceramics,n
+1320,1311,p,Find everything you need,n
+1321,1311,div,,n
+1325,1321,div,Carving Tools,y
+1329,1321,div,Modeling Clay,y
+1333,1321,div,Glazes,y
+1337,1321,div,Kiln Supplies,y
+1339,1311,div,,n
+1343,1339,div,Kilns,y
+1347,1339,div,Modeling Dough,y
+1351,1339,div,Pottery Wheels,y
+1355,1339,div,Sculpting Supplies,y
+1357,1307,div,,n
+1359,1357,div,,n
+1361,1359,p,Category,n
+1363,1359,h2,Ceramics,n
+1364,1357,div,,n
+1366,1364,h3,Select Ceramics Type,n
+1377,1364,ul,,n
+1380,1377,li,Carving Tools,y
+1383,1377,li,Ceramic Accessories,y
+1386,1377,li,Ceramic Supplies,y
+1389,1377,li,Clay - Firing,y
+1392,1377,li,Clay - Modeling,y
+1395,1377,li,Glaze Applicators,y
+1398,1377,li,Glazes - Ceramics,y
+1401,1377,li,Kiln Supplies,y
+1404,1377,li,Kiln Vent,y
+1407,1377,li,Kiln,y
+1410,1377,li,Modeling Dough,y
+1413,1377,li,Pottery Kits,y
+1416,1377,li,Pottery Supplies,y
+1419,1377,li,Pottery Wheels,y
+1422,1377,li,Sculpting Supplies,y
+1425,1377,li,Wire,y
+1429,1357,div,,n
+1431,1429,h3,Filter by,n
+1435,1429,text,Clear All,n
+1439,1429,div,,n
+1440,1439,fieldset,,n
+1442,1440,legend,Color,n
+1444,1440,div,,n
+1447,1444,div,color,n
+1449,1444,ul,,n
+1450,1449,li,,n
+1457,1450,span,,n
+1459,1457,span,White,n
+1463,1457,div,47,n
+1466,1450,span,White,n
+1469,1449,li,,n
+1476,1469,span,,n
+1478,1476,span,Assorted,n
+1482,1476,div,40,n
+1485,1469,span,Assorted,n
+1488,1449,li,,n
+1497,1488,span,Gray,n
+1504,1488,span,Gray,n
+1507,1449,li,,n
+1514,1507,span,,n
+1516,1514,span,Black,n
+1520,1514,div,20,n
+1523,1507,span,Black,n
+1526,1449,li,,n
+1533,1526,span,,n
+1535,1533,span,Silver,n
+1539,1533,div,14,n
+1542,1526,span,Silver,n
+1545,1449,li,,n
+1554,1545,span,Assorted ****,n
+1561,1545,span,Assorted ****,n
+1564,1449,li,,n
+1573,1564,span,Black or Blue,n
+1580,1564,span,Black or Blue,n
+1583,1449,li,,n
+1592,1583,span,Red,n
+1599,1583,span,Red,n
+1602,1449,li,,n
+1609,1602,span,,n
+1611,1609,span,Metallic,n
+1615,1609,div,11,n
+1618,1602,span,Metallic,n
+1621,1449,li,,n
+1630,1621,span,Brown,n
+1637,1621,span,Brown,n
+1647,1439,fieldset,,n
+1649,1647,legend,Specialty Shops,n
+1651,1647,div,,n
+1654,1651,div,specialty shops,n
+1656,1651,ul,,n
+1666,1656,li,Clearance,n
+1685,1656,li,Sale,n
+1704,1656,li,Specialty Priced,n
+1714,1656,li,,n
+1721,1714,span,,n
+1723,1721,span,Teacher Favorite,n
+1727,1721,div,45,n
+1730,1714,span,Teacher Favorite,n
+1733,1656,li,,n
+1740,1733,span,,n
+1742,1740,span,Exclusive,n
+1746,1740,div,179,n
+1749,1733,span,Exclusive,n
+1752,1656,li,,n
+1759,1752,span,,n
+1761,1759,span,Made in America,n
+1765,1759,div,141,n
+1768,1752,span,Made in America,n
+1780,1656,li,New,n
+1790,1656,li,,n
+1797,1790,span,,n
+1799,1797,span,Adapted - Inclusive,n
+1803,1797,div,26,n
+1806,1790,span,Adapted - Inclusive,n
+1809,1656,li,,n
+1816,1809,span,,n
+1818,1816,span,Classroom Pack,n
+1822,1816,div,38,n
+1825,1809,span,Classroom Pack,n
+1828,1656,li,,n
+1837,1828,span,B2B Sale,n
+1844,1828,span,B2B Sale,n
+1854,1439,fieldset,,n
+1856,1854,legend,BRAND,n
+1858,1854,div,,n
+1861,1858,div,brand,n
+1863,1858,ul,,n
+1864,1863,li,,n
+1871,1864,span,,n
+1873,1871,span,Amaco,n
+1877,1871,div,327,n
+1880,1864,span,Amaco,n
+1883,1863,li,,n
+1890,1883,span,,n
+1892,1890,span,Mayco,n
+1896,1890,div,203,n
+1899,1883,span,Mayco,n
+1902,1863,li,,n
+1909,1902,span,,n
+1911,1909,span,Sax,n
+1915,1909,div,144,n
+1918,1902,span,Sax,n
+1921,1863,li,,n
+1928,1921,span,,n
+1930,1928,span,Skutt,n
+1934,1928,div,135,n
+1937,1921,span,Skutt,n
+1940,1863,li,,n
+1947,1940,span,,n
+1949,1947,span,Paragon,n
+1953,1947,div,82,n
+1956,1940,span,Paragon,n
+1959,1863,li,,n
+1966,1959,span,,n
+1968,1966,span,Crayola,n
+1972,1966,div,46,n
+1975,1959,span,Crayola,n
+1978,1863,li,,n
+1985,1978,span,,n
+1987,1985,span,AMACO Excel,n
+1991,1985,div,34,n
+1994,1978,span,AMACO Excel,n
+1997,1863,li,,n
+2004,1997,span,,n
+2006,2004,span,Jack Richeson,n
+2010,2004,div,32,n
+2013,1997,span,Jack Richeson,n
+2016,1863,li,,n
+2023,2016,span,,n
+2025,2023,span,School Smart,n
+2029,2023,div,24,n
+2032,2016,span,School Smart,n
+2035,1863,li,,n
+2042,2035,span,,n
+2044,2042,span,Brent,n
+2048,2042,div,21,n
+2051,2035,span,Brent,n
+2061,1439,fieldset,,n
+2063,2061,legend,PRICE,n
+2065,2061,div,,n
+2068,2065,div,price,n
+2070,2065,ul,,n
+2071,2070,li,,n
+2078,2071,span,,n
+2080,2078,span,Less than $100,n
+2084,2078,div,823,n
+2087,2071,span,Less than $100,n
+2090,2070,li,,n
+2097,2090,span,,n
+2099,2097,span,Between $100 and $200,n
+2103,2097,div,86,n
+2106,2090,span,Between $100 and $200,n
+2109,2070,li,,n
+2116,2109,span,,n
+2118,2116,span,Between $200 and $300,n
+2122,2116,div,31,n
+2125,2109,span,Between $200 and $300,n
+2128,2070,li,,n
+2135,2128,span,,n
+2137,2135,span,Between $300 and $400,n
+2141,2135,div,17,n
+2144,2128,span,Between $300 and $400,n
+2147,2070,li,,n
+2156,2147,span,Between $400 and $500,n
+2163,2147,span,Between $400 and $500,n
+2166,2070,li,,n
+2173,2166,span,,n
+2175,2173,span,More than $500,n
+2179,2173,div,284,n
+2182,2166,span,More than $500,n
+2186,2070,li,,n
+2189,2186,span,Lower Bound,n
+2192,2186,span,Upper Bound,n
+2197,2186,span,-,n
+2204,1439,fieldset,,n
+2206,2204,legend,Size,n
+2208,2204,div,,n
+2211,2208,div,size,n
+2213,2208,ul,,n
+2214,2213,li,,n
+2221,2214,span,,n
+2223,2221,span,Pint,n
+2227,2221,div,524,n
+2230,2214,span,Pint,n
+2233,2213,li,,n
+2240,2233,span,,n
+2242,2240,span,Gallon,n
+2246,2240,div,30,n
+2249,2233,span,Gallon,n
+2252,2213,li,,n
+2259,2252,span,,n
+2261,2259,span,4 oz,n
+2265,2259,div,16,n
+2268,2252,span,4 oz,n
+2271,2213,li,,n
+2280,2271,span,2 oz,n
+2287,2271,span,2 oz,n
+2290,2213,li,,n
+2299,2290,span,3 oz,n
+2306,2290,span,3 oz,n
+2309,2213,li,,n
+2318,2309,span,3 lbs,n
+2325,2309,span,3 lbs,n
+2328,2213,li,,n
+2337,2328,span,3 lbs,n
+2344,2328,span,3 lbs,n
+2347,2213,li,,n
+2356,2347,span,10 oz,n
+2363,2347,span,10 oz,n
+2366,2213,li,,n
+2375,2366,span,5 lbs,n
+2382,2366,span,5 lbs,n
+2385,2213,li,,n
+2394,2385,span,8 oz,n
+2401,2385,span,8 oz,n
+2411,1439,fieldset,,n
+2413,2411,legend,Dimensions,n
+2415,2411,div,,n
+2418,2415,div,dimensions,n
+2420,2415,ul,,n
+2421,2420,li,,n
+2430,2421,span,35 oz,n
+2437,2421,span,35 oz,n
+2440,2420,li,,n
+2449,2440,span,1 x 1 x 4 in,n
+2456,2440,span,1 x 1 x 4 in,n
+2459,2420,li,,n
+2468,2459,span,1 x 1 x 6 in,n
+2475,2459,span,1 x 1 x 6 in,n
+2478,2420,li,,n
+2487,2478,span,or 8 in,n
+2494,2478,span,or 8 in,n
+2497,2420,li,,n
+2506,2497,span,or 4 in Dia,n
+2513,2497,span,or 4 in Dia,n
+2516,2420,li,,n
+2525,2516,span,or 4 xor 4 in,n
+2532,2516,span,or 4 xor 4 in,n
+2535,2420,li,,n
+2544,2535,span,or 8 in,n
+2551,2535,span,or 8 in,n
+2554,2420,li,,n
+2563,2554,span,or 8 xor 8 x 10 in,n
+2570,2554,span,or 8 xor 8 x 10 in,n
+2573,2420,li,,n
+2582,2573,span,or 16 in,n
+2589,2573,span,or 16 in,n
+2592,2420,li,,n
+2601,2592,span,1 or-3 or 4 in,n
+2608,2592,span,1 or-3 or 4 in,n
+2618,1439,fieldset,,n
+2620,2618,legend,Grade Level,n
+2622,2618,div,,n
+2625,2622,div,grade level,n
+2627,2622,ul,,n
+2628,2627,li,,n
+2635,2628,span,,n
+2637,2635,span,Not Specified,n
+2641,2635,div,1003,n
+2644,2628,span,Not Specified,n
+2647,2627,li,,n
+2654,2647,span,,n
+2656,2654,span,Middle-High School,n
+2660,2654,div,125,n
+2663,2647,span,Middle-High School,n
+2666,2627,li,,n
+2675,2666,span,Teacher-Parent Resources,n
+2682,2666,span,Teacher-Parent Resources,n
+2685,2627,li,,n
+2694,2685,span,Preschool-Early Childhood,n
+2701,2685,span,Preschool-Early Childhood,n
+2704,2627,li,,n
+2711,2704,span,,n
+2713,2711,span,Early Childhood-Elementary,n
+2717,2711,div,3,n
+2720,2704,span,Early Childhood-Elementary,n
+2723,2627,li,,n
+2732,2723,span,Grades,n
+2739,2723,span,Grades,n
+2742,2627,li,,n
+2751,2742,span,High School-College,n
+2758,2742,span,High School-College,n
+2761,2627,li,,n
+2770,2761,span,High School,n
+2777,2761,span,High School,n
+2781,1439,fieldset,,n
+2783,2781,legend,Top Type,n
+2785,2781,div,,n
+2788,2785,div,top type,n
+2791,2785,li,,n
+2800,2791,span,Laminated Particleboard,n
+2807,2791,span,Laminated Particleboard,n
+2811,1439,fieldset,,n
+2813,2811,legend,Shipping,n
+2815,2811,div,,n
+2818,2815,div,shipping,n
+2820,2815,ul,,n
+2821,2820,li,,n
+2828,2821,span,,n
+2830,2828,span,NA,n
+2834,2828,div,910,n
+2837,2821,span,NA,n
+2840,2820,li,,n
+2847,2840,span,,n
+2849,2847,span,EXTENDED SHIPPINGWEEKS,n
+2853,2847,div,202,n
+2856,2840,span,EXTENDED SHIPPINGWEEKS,n
+2859,2820,li,,n
+2866,2859,span,,n
+2868,2866,span,FRAGILE,n
+2872,2866,div,63,n
+2875,2859,span,FRAGILE,n
+2878,2820,li,,n
+2887,2878,span,OVERSIZED,n
+2894,2878,span,OVERSIZED,n
+2897,2820,li,,n
+2904,2897,span,,n
+2906,2904,span,Quickship 2 Weeks,n
+2910,2904,div,19,n
+2913,2897,span,Quickship 2 Weeks,n
+2923,1307,div,,n
+2925,2923,span,Product List,n
+2926,2923,div,,n
+2927,2926,div,,n
+2929,2927,div,,n
+2934,2929,span,Sort,n
+2936,2929,div,,n
+2938,2936,option,Relevance,n
+2940,2936,option,Brand,n
+2942,2936,option,Name,n
+2944,2936,option,Name,n
+2946,2936,option,Price,n
+2948,2936,option,Price,n
+2983,2927,ul,,n
+2984,2983,li,,n
+2986,2984,div,} ],n
+2987,2984,div,,n
+2994,2987,div,Teacher Favorite,n
+2995,2987,div,,n
+2997,2995,div,6,n
+2998,2995,div,,n
+3001,2998,div,Item #,n
+3002,2998,div,,n
+3004,3002,span,$65.99,n
+3006,3002,span,$49.49,n
+3026,2995,div,"if == ""undefined"" || shoppingListJS3074457345616689471_3074457345618288753 == null || !shoppingListJS3074457345616689471_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616689471_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+3049,2983,li,,n
+3051,3049,div,} ],n
+3060,3049,div,,n
+3062,3060,div,"Sax True Flow Gloss Glaze, Eggplant Purple, 1 Pint",n
+3066,3060,div,Item #,n
+3091,3060,div,"if == ""undefined"" || shoppingListJS3074457345619096284_3074457345618288753 == null || !shoppingListJS3074457345619096284_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345619096284_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+3114,2983,li,,n
+3116,3114,div,} ],n
+3125,3114,div,,n
+3127,3125,div,"Sax True Flow Gloss Glaze, Poppy Red, 1 Pint",n
+3131,3125,div,Item #,n
+3156,3125,div,"if == ""undefined"" || shoppingListJS3074457345619096285_3074457345618288753 == null || !shoppingListJS3074457345619096285_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345619096285_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+3179,2983,li,,n
+3181,3179,div,} ],n
+3190,3179,div,,n
+3192,3190,div,"Sax True Flow Gloss Glaze, Sunflower Yellow, 1 Pint",n
+3196,3190,div,Item #,n
+3221,3190,div,"if == ""undefined"" || shoppingListJS3074457345619096286_3074457345618288753 == null || !shoppingListJS3074457345619096286_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345619096286_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+3244,2983,li,,n
+3246,3244,div,} ],n
+3255,3244,div,,n
+3257,3255,div,"Sax True Flow Gloss Glaze, Slate Gray, 1 Pint",n
+3261,3255,div,Item #,n
+3286,3255,div,"if == ""undefined"" || shoppingListJS3074457345619096287_3074457345618288753 == null || !shoppingListJS3074457345619096287_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345619096287_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+3309,2983,li,,n
+3311,3309,div,} ],n
+3320,3309,div,,n
+3322,3320,div,6 Pints,n
+3323,3320,div,,n
+3326,3323,div,Item #,n
+3327,3323,div,,n
+3329,3327,span,$125.99,n
+3331,3327,span,$94.49,n
+3351,3320,div,"if == ""undefined"" || shoppingListJS3074457345619096288_3074457345618288753 == null || !shoppingListJS3074457345619096288_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345619096288_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+3374,2983,li,,n
+3376,3374,div,} ],n
+3385,3374,div,,n
+3387,3385,div,"Sax True Flow Gloss Glaze, Pastel Pink, 1 Pint",n
+3391,3385,div,Item #,n
+3416,3385,div,"if == ""undefined"" || shoppingListJS3074457345619096289_3074457345618288753 == null || !shoppingListJS3074457345619096289_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345619096289_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+3439,2983,li,,n
+3441,3439,div,} ],n
+3450,3439,div,,n
+3452,3450,div,"Sax True Flow Gloss Glaze, Bright Orange, 1 Pint",n
+3456,3450,div,Item #,n
+3481,3450,div,"if == ""undefined"" || shoppingListJS3074457345616690441_3074457345618288753 == null || !shoppingListJS3074457345616690441_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616690441_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+3504,2983,li,,n
+3506,3504,div,} ],n
+3515,3504,div,,n
+3517,3515,div,"Sax True Flow Underglaze, Chocolate, 1 Pint",n
+3521,3515,div,Item #,n
+3546,3515,div,"if == ""undefined"" || shoppingListJS3074457345616692824_3074457345618288753 == null || !shoppingListJS3074457345616692824_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616692824_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+3569,2983,li,,n
+3571,3569,div,} ],n
+3580,3569,div,,n
+3582,3580,div,"Sax Low Fire Moist Earthenware Clay, White, 50 Pounds",n
+3583,3580,div,,n
+3586,3583,div,Item #,n
+3587,3583,div,,n
+3589,3587,span,$37.99,n
+3591,3587,span,$28.49,n
+3611,3580,div,"if == ""undefined"" || shoppingListJS3074457345616693280_3074457345618288753 == null || !shoppingListJS3074457345616693280_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616693280_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+3634,2983,li,,n
+3636,3634,div,} ],n
+3645,3634,div,,n
+3647,3645,div,"Sax True Flow Gloss Glaze, Ivy Green, 1 Pint",n
+3651,3645,div,Item #,n
+3676,3645,div,"if == ""undefined"" || shoppingListJS3074457345616693311_3074457345618288753 == null || !shoppingListJS3074457345616693311_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616693311_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+3699,2983,li,,n
+3701,3699,div,} ],n
+3710,3699,div,,n
+3712,3710,div,"Sax True Flow Gloss Glaze, Mosaic Blue, 1 Pint",n
+3716,3710,div,Item #,n
+3741,3710,div,"if == ""undefined"" || shoppingListJS3074457345616693551_3074457345618288753 == null || !shoppingListJS3074457345616693551_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616693551_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+3764,2983,li,,n
+3766,3764,div,} ],n
+3775,3764,div,,n
+3777,3775,div,"Sax High Fire Moist Stoneware Clay, Speckled Buff, 50 Pounds",n
+3778,3775,div,,n
+3781,3778,div,Item #,n
+3782,3778,div,,n
+3784,3782,span,$35.99,n
+3786,3782,span,$26.99,n
+3806,3775,div,"if == ""undefined"" || shoppingListJS3074457345616693816_3074457345618288753 == null || !shoppingListJS3074457345616693816_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616693816_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+3829,2983,li,,n
+3831,3829,div,} ],n
+3840,3829,div,,n
+3842,3840,div,"Sax True Flow Gloss Glaze, Wisteria Purple, 1 Pint",n
+3846,3840,div,Item #,n
+3871,3840,div,"if == ""undefined"" || shoppingListJS3074457345616693943_3074457345618288753 == null || !shoppingListJS3074457345616693943_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616693943_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+3894,2983,li,,n
+3896,3894,div,} ],n
+3905,3894,div,,n
+3907,3905,div,"Sax True Flow Gloss Glaze, Lilac, 1 Pint",n
+3911,3905,div,Item #,n
+3936,3905,div,"if == ""undefined"" || shoppingListJS3074457345616693966_3074457345618288753 == null || !shoppingListJS3074457345616693966_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616693966_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+3959,2983,li,,n
+3961,3959,div,} ],n
+3970,3959,div,,n
+3972,3970,div,"Sax True Flow Crystal Magic Glaze, Cheetah, 1 Pint",n
+3976,3970,div,Item #,n
+4001,3970,div,"if == ""undefined"" || shoppingListJS3074457345616694409_3074457345618288753 == null || !shoppingListJS3074457345616694409_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616694409_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+4024,2983,li,,n
+4026,4024,div,} ],n
+4035,4024,div,,n
+4037,4035,div,"Sax True Flow Underglaze, Leaf Green, 1 Pint",n
+4041,4035,div,Item #,n
+4066,4035,div,"if == ""undefined"" || shoppingListJS3074457345616694417_3074457345618288753 == null || !shoppingListJS3074457345616694417_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616694417_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+4089,2983,li,,n
+4091,4089,div,} ],n
+4100,4089,div,,n
+4102,4100,div,"Sax True Flow Underglaze, King's Blue, 1 Pint",n
+4106,4100,div,Item #,n
+4131,4100,div,"if == ""undefined"" || shoppingListJS3074457345616694501_3074457345618288753 == null || !shoppingListJS3074457345616694501_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616694501_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+4154,2983,li,,n
+4156,4154,div,} ],n
+4165,4154,div,,n
+4167,4165,div,"Sax True Flow Crystal Magic Glaze, Kaboom, 1 Pint",n
+4171,4165,div,Item #,n
+4196,4165,div,"if == ""undefined"" || shoppingListJS3074457345616694606_3074457345618288753 == null || !shoppingListJS3074457345616694606_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616694606_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+4219,2983,li,,n
+4221,4219,div,} ],n
+4230,4219,div,,n
+4232,4230,div,"Sax True Flow Underglaze, Jet Black, 1 Pint",n
+4236,4230,div,Item #,n
+4261,4230,div,"if == ""undefined"" || shoppingListJS3074457345616694671_3074457345618288753 == null || !shoppingListJS3074457345616694671_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616694671_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+4284,2983,li,,n
+4286,4284,div,} ],n
+4295,4284,div,,n
+4297,4295,div,"Sax True Flow Gloss Glaze, Natural Clear, Gallon",n
+4298,4295,div,,n
+4301,4298,div,Item #,n
+4302,4298,div,,n
+4304,4302,span,$39.99,n
+4306,4302,span,$29.99,n
+4326,4295,div,"if == ""undefined"" || shoppingListJS3074457345616694677_3074457345618288753 == null || !shoppingListJS3074457345616694677_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616694677_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+4349,2983,li,,n
+4351,4349,div,} ],n
+4360,4349,div,,n
+4362,4360,div,"Sax True Flow Crystal Magic Glaze, Buttercup Blue, 1 Pint",n
+4366,4360,div,Item #,n
+4391,4360,div,"if == ""undefined"" || shoppingListJS3074457345616694830_3074457345618288753 == null || !shoppingListJS3074457345616694830_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616694830_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+4414,2983,li,,n
+4416,4414,div,} ],n
+4425,4414,div,,n
+4427,4425,div,"Sax True Flow Underglaze, Wedgewood Blue, 1 Pint",n
+4431,4425,div,Item #,n
+4456,4425,div,"if == ""undefined"" || shoppingListJS3074457345616695057_3074457345618288753 == null || !shoppingListJS3074457345616695057_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616695057_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+4479,2983,li,,n
+4481,4479,div,} ],n
+4490,4479,div,,n
+4492,4490,div,"Sax True Flow Crystal Magic Glaze, Herb Garden, 1 Pint",n
+4496,4490,div,Item #,n
+4521,4490,div,"if == ""undefined"" || shoppingListJS3074457345616695084_3074457345618288753 == null || !shoppingListJS3074457345616695084_3074457345618288753) , , skus: }, , ""shoppingListJS3074457345616695084_3074457345618288753""); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.topic.subscribe ;""); }); dojo.connect,""onmouseover"", function); dojo.connect,""onmouseover"", function.focus; }); }",n
+4578,2926,div,},n
+4579,2926,div,,n
+4583,4579,label,Add more to compare,n
+4585,4579,label,Added,n
+4591,31,div,,n
+4592,4591,div,,n
+4598,4592,div,See What's New,n
+4604,4592,div,Shop Clearance,n
+4616,4592,div,Become a Select Customer,n
+4617,4591,div,,n
+4618,4617,div,,n
+4620,4618,p,Shop By Product Category,n
+4621,4618,div,,n
+4623,4621,div,Furniture,n
+4625,4621,div,School - Office Supplies,n
+4627,4621,div,Art Supplies - Craft Supplies,n
+4629,4621,div,Paper,n
+4631,4621,div,Early Childhood,n
+4633,4621,div,Physical Education - Sport,n
+4635,4621,div,Educational Technology,n
+4637,4621,div,English Language Arts,n
+4638,4618,div,,n
+4640,4638,div,Science,n
+4642,4638,div,Math,n
+4644,4638,div,Special Needs,n
+4646,4638,div,Outdoor - Playground,n
+4648,4638,div,School Safety,n
+4650,4638,div,Cleaning - Facility Supplies,n
+4652,4638,div,Career - Technical,n
+4654,4617,div,,n
+4656,4654,p,Sign Up to Receive Special Offers,n
+4662,4654,p,Follow Us,n
+4671,4617,div,,n
+4673,4671,p,Information,n
+4674,4671,div,,n
+4678,4674,div,Our Brands,n
+4681,4674,div,Help,n
+4684,4674,div,Request Catalogs,n
+4687,4674,div,Digital Catalogs,n
+4691,4674,div,International Shipping,n
+4694,4674,div,Shop in Canada,n
+4696,4591,div,,n
+4698,4696,div,,n
+4699,4698,text,Corporate Home,n
+4702,4698,text,Our Story,n
+4705,4698,text,About Us,n
+4708,4698,text,Careers,n
+4711,4698,text,Terms and Conditions,n
+4714,4698,text,User Agreement,n
+4717,4698,text,Privacy Statement,n
+4720,4698,text,Social Media Statement,n
+4723,4698,text,Contact Us,n
+4725,4696,div,,n
+4727,4725,span,School Specialty,n
+4730,4725,div,,n
+4732,4730,span,"W6316 Design Drive,",n
+4734,4730,span,"Greenville,",n
+4736,4730,span,WI,n
+4738,4730,span,54942,n
+4742,4725,span,-,n
+4746,4725,span,Web Support,n
+4752,4725,span,"©2022 School Specialty, LLC. All rights reserved.",n
+4754,4696,div,Do Not Sell My Personal Information - CA Resident Only,n
+4776,0,div,,n
+4779,4776,div,Product Comparison,n
+4793,4776,div,,n
+4796,4793,div,Product Comparison,n
+4799,4793,div,products that can be compared is 4. Please refine your selection.,n
+4814,0,div,,n
+4817,4814,div,Inactivity Warning Dialog,n
+4836,4814,div,Your session is about to timeout due to inactivity. Click OK to extend your time for an additional 0 minutes.,n
+4862,0,div,Quick Info Content,n
+4864,0,div,,n
+4867,4864,div,This item has been successfully added to your list.,n
+4881,4864,div,,n
+4884,4881,div,This item has been successfully added to your list.,n
+4894,4881,div,Continue Shopping,n
+7262,0,div,,n
+7263,7262,div,,n
+7270,7263,div,,n
+7272,7270,span,Accessibility Adjustments,n
+7273,7270,div,,n
+7275,7273,span,Reset Settings,n
+7277,7273,span,Statement,n
+7279,7273,span,Hide Interface,n
+7287,7263,div,,n
+7288,7287,div,,n
+7290,7288,div,Choose the right accessibility profile,n
+7291,7288,div,,n
+7292,7291,div,,n
+7299,7292,div,,n
+7301,7299,span,Seizure Safe Profile,n
+7303,7299,span,Clear flashes and reduces color,n
+7305,7292,div,This profile enables epileptic and seizure prone users to browse safely by eliminating the risk of seizures that result from flashing or blinking animations and risky color combinations.,n
+7306,7291,div,,n
+7313,7306,div,,n
+7315,7313,span,Vision Impaired Profile,n
+7317,7313,span,Enhances website's visuals,n
+7319,7306,div,"This profile adjusts the website, so that it is accessible to the majority of visual impairments such as Degrading Eyesight, Tunnel Vision, Cataract, Glaucoma, and others.",n
+7320,7291,div,,n
+7327,7320,div,,n
+7329,7327,span,ADHD Friendly Profile,n
+7331,7327,span,More focus and fewer distractions,n
+7333,7320,div,"This profile significantly reduces distractions, to help people with ADHD and Neurodevelopmental disorders browse, read, and focus on the essential elements of the website more easily.",n
+7334,7291,div,,n
+7341,7334,div,,n
+7343,7341,span,Cognitive Disability Profile,n
+7345,7341,span,Assists with reading and focusing,n
+7347,7334,div,"This profile provides various assistive features to help users with cognitive disabilities such as Autism, Dyslexia, CVA, and others, to focus on the essential elements of the website more easily.",n
+7348,7291,div,,n
+7355,7348,div,,n
+7357,7355,span,Keyboard Navigation,n
+7359,7355,span,Use website with the keyboard,n
+7366,7348,div,This profile prompts automatically,n
+7367,7291,div,,n
+7374,7367,div,,n
+7376,7374,span,Blind Users,n
+7378,7374,span,Optimize website,n
+7379,7367,div,,n
+7380,7379,text,"This profile adjusts the website to be compatible with screen-readers such as JAWS, NVDA, VoiceOver, and TalkBack. A screen-reader is software that is installed on the blind user’s computer and smartphone, and websites should ensure compatibility with it.",n
+7385,7379,br,This profile prompts automatically to screen-readers.,n
+7386,7287,div,,n
+7388,7386,div,Content Adjustments,n
+7389,7386,div,,n
+7393,7389,div,Content Scaling,n
+7403,7389,div,Readable Font,n
+7407,7389,div,Highlight Titles,n
+7411,7389,div,Highlight Links,n
+7415,7389,div,Text Magnifier,n
+7419,7389,div,Adjust Font Sizing,n
+7429,7389,div,Align Center,n
+7433,7389,div,Align Left,n
+7437,7389,div,Adjust Line Height,n
+7447,7389,div,Adjust Letter Spacing,n
+7457,7389,div,Align Right,n
+7458,7287,div,,n
+7460,7458,div,Color Adjustments,n
+7461,7458,div,,n
+7465,7461,div,Dark Contrast,n
+7469,7461,div,Light Contrast,n
+7473,7461,div,High Contrast,n
+7477,7461,div,Low Saturation,n
+7481,7461,div,High Saturation,n
+7485,7461,div,Adjust Text Colors,n
+7501,7461,div,Monochrome,n
+7505,7461,div,Adjust Title Colors,n
+7521,7461,div,Adjust Background Colors,n
+7534,7287,div,,n
+7536,7534,div,Orientation Adjustments,n
+7537,7534,div,,n
+7541,7537,div,Mute Sounds,n
+7545,7537,div,Hide Images,n
+7553,7537,div,Reading Guide,n
+7554,7537,div,,n
+7557,7554,div,Useful Links,n
+7560,7554,div,,n
+7562,7560,option,Select an option,n
+7564,7560,option,Home,n
+7566,7560,option,Header,n
+7568,7560,option,Footer,n
+7570,7560,option,Main Content,n
+7574,7537,div,Stop Animations,n
+7578,7537,div,Reading Mask,n
+7582,7537,div,Highlight Hover,n
+7586,7537,div,Highlight Focus,n
+7590,7537,div,Big Black Cursor,n
+7594,7537,div,Big White Cursor,n
+7595,7287,div,,n
+7597,7595,div,HIDDEN_ADJUSTMENTS,n
+7598,7595,div,,n
+7602,7598,div,Keyboard Navigation,n
+7606,7598,div,Accessible Mode,n
+7610,7598,div,Screen Reader Adjustments,n
+7616,7262,div,Web Accessibility Solution By accessiBe,n
+7622,7262,div,,n
+7624,7622,span,Choose the Interface Language,n
+7625,7622,div,,n
+7635,7625,div,Español,n
+7640,7625,div,Deutsch,n
+7645,7625,div,Português,n
+7650,7625,div,Français,n
+7655,7625,div,Italiano,n
+7660,7625,div,עברית,n
+7670,7625,div,Pусский,n
+7685,7625,div,Nederlands,n
+7701,7262,div,,n
+7703,7701,strong,Accessibility Statement,n
+7705,7701,strong,Compliance status,n
+7707,7701,p,"We firmly believe that the internet should be available and accessible to anyone and are committed to providing a website that is accessible to the broadest possible audience, regardless of ability.",n
+7709,7701,p,"To fulfill this, we aim to adhere as strictly as possible to the World Wide Web Consortium’s Web Content Accessibility Guidelines 2.1 at the AA level. These guidelines explain how to make web content accessible to people with a wide array of disabilities. Complying with those guidelines helps us ensure that the website is accessible to blind people, people with motor impairments, visual impairment, cognitive disabilities, and more.",n
+7711,7701,p,This website utilizes various technologies that are meant to make it as accessible as possible at all times. We utilize an accessibility interface that allows persons with specific disabilities to adjust the website’s UI and design it to their personal needs.,n
+7713,7701,p,"Additionally, the website utilizes an AI-based application that runs in the background and optimizes its accessibility level constantly. This application remediates the website’s HTML, adapts its functionality and behavior for screen-readers used by blind users, and for keyboard functions used by individuals with motor impairments.",n
+7715,7701,p,If you wish to contact the website’s owner please use the website's form,n
+7717,7701,strong,Screen-reader and keyboard navigation,n
+7719,7701,p,"Our website implements the ARIA attributes technique, alongside various behavioral changes, to ensure blind users visiting with screen-readers can read, comprehend, and enjoy the website’s functions. As soon as a user with a screen-reader enters your site, they immediately receive a prompt to enter the Screen-Reader Profile so they can browse and operate your site effectively. Here’s how our website covers some of the most important screen-reader requirements:",n
+7720,7701,ol,,n
+7721,7720,li,,n
+7723,7721,strong,Screen-reader optimization,n
+7724,7721,text,"we run a process that learns the website’s components from top to bottom, to ensure ongoing compliance even when updating the website. In this process, we provide screen-readers with meaningful data using the ARIA set of attributes. For example, we provide accurate form labels; descriptions for actionable icons ; validation guidance for form inputs; element roles such as buttons, menus, modal dialogues , and others.",n
+7727,7721,br,"Additionally, the background process scans all of the website’s images. It provides an accurate and meaningful image-object-recognition-based description as an ALT tag for images that are not described. It will also extract texts embedded within the image using an OCR technology. To turn on screen-reader adjustments at any time, users need only to press the Alt+1 keyboard combination. Screen-reader users also get automatic announcements to turn the Screen-reader mode on as soon as they enter the website.",n
+7730,7721,br,"These adjustments are compatible with popular screen readers such as JAWS, NVDA, VoiceOver, and TalkBack.",n
+7733,7720,li,,n
+7735,7733,strong,Keyboard navigation optimization,n
+7736,7733,text,"The background process also adjusts the website’s HTML and adds various behaviors using JavaScript code to make the website operable by the keyboard. This includes the ability to navigate the website using the Tab and Shift+Tab keys, operate dropdowns with the arrow keys, close them with Esc, trigger buttons and links using the Enter key, navigate between radio and checkbox elements using the arrow keys, and fill them in with the Spacebar or Enter key.",n
+7739,7733,br,"Additionally, keyboard users will find content-skip menus available at any time by clicking Alt+2, or as the first element of the site while navigating with the keyboard. The background process also handles triggered popups by moving the keyboard focus towards them as soon as they appear, not allowing the focus to drift outside.",n
+7742,7733,br,"Users can also use shortcuts such as “M” , “H” , “F” , “B” , and “G” to jump to specific elements.",n
+7745,7701,strong,Disability profiles supported on our website,n
+7746,7701,ul,,n
+7747,7746,li,,n
+7749,7747,strong,Epilepsy Safe Profile,n
+7750,7747,text,this profile enables people with epilepsy to safely use the website by eliminating the risk of seizures resulting from flashing or blinking animations and risky color combinations.,n
+7751,7746,li,,n
+7753,7751,strong,Vision Impaired Profile,n
+7754,7751,text,"this profile adjusts the website so that it is accessible to the majority of visual impairments such as Degrading Eyesight, Tunnel Vision, Cataract, Glaucoma, and others.",n
+7755,7746,li,,n
+7757,7755,strong,Cognitive Disability Profile,n
+7758,7755,text,"this profile provides various assistive features to help users with cognitive disabilities such as Autism, Dyslexia, CVA, and others, to focus on the essential elements more easily.",n
+7761,7746,li,ADHD Friendly Profile,n
+7763,7746,li,,n
+7765,7763,strong,Blind Users Profile,n
+7766,7763,text,"this profile adjusts the website to be compatible with screen-readers such as JAWS, NVDA, VoiceOver, and TalkBack. A screen-reader is installed on the blind user’s computer, and this site is compatible with it.",n
+7769,7746,li,Keyboard Navigation Profile,n
+7773,7701,strong,"Additional UI, design, and readability adjustments",n
+7774,7701,ol,,n
+7775,7774,li,,n
+7776,7775,strong,,n
+7778,7776,span,Font adjustments,n
+7779,7776,text,–,n
+7781,7775,span,"users can increase and decrease its size, change its family , adjust the spacing, alignment, line height, and more.",n
+7782,7774,li,,n
+7785,7782,span,Color adjustments –,n
+7787,7782,span,"users can select various color contrast profiles such as light, dark, inverted, and monochrome. Additionally, users can swap color schemes of titles, texts, and backgrounds with over seven different coloring options.",n
+7788,7774,li,,n
+7791,7788,span,Animations –,n
+7792,7788,text,"epileptic users can stop all running animations with the click of a button. Animations controlled by the interface include videos, GIFs, and CSS flashing transitions.",n
+7793,7774,li,,n
+7796,7793,span,Content highlighting –,n
+7798,7793,span,users can choose to emphasize essential elements such as links and titles. They can also choose to highlight focused or hovered elements only.,n
+7799,7774,li,,n
+7802,7799,span,Audio muting –,n
+7804,7799,span,users with hearing devices may experience headaches or other issues due to automatic audio playing. This option lets users mute the entire website instantly.,n
+7805,7774,li,,n
+7808,7805,span,Cognitive disorders –,n
+7810,7805,span,"we utilize a search engine linked to Wikipedia and Wiktionary, allowing people with cognitive disorders to decipher meanings of phrases, initials, slang, and others.",n
+7811,7774,li,,n
+7814,7811,strong,Additional functions,n
+7815,7811,span,,n
+7817,7815,strong,–,n
+7818,7815,text,"we allow users to change cursor color and size, use a printing mode, enable a virtual keyboard, and many other functions.",n
+7820,7701,strong,Assistive technology and browser compatibility,n
+7822,7701,p,"We aim to support as many browsers and assistive technologies as possible, so our users can choose the best fitting tools for them, with as few limitations as possible. Therefore, we have worked very hard to be able to support all major systems that comprise over 95% of the user market share, including Google Chrome, Mozilla Firefox, Apple Safari, Opera and Microsoft Edge, JAWS, and NVDA , both for Windows and MAC users.",n
+7824,7701,strong,"Notes, comments, and feedback",n
+7826,7701,p,"Despite our very best efforts to allow anybody to adjust the website to their needs, there may still be pages or sections that are not fully accessible, are in the process of becoming accessible, or are lacking an adequate technological solution to make them accessible. Still, we are continually improving our accessibility, adding, updating, improving its options and features, and developing and adopting new technologies. All this is meant to reach the optimal level of accessibility following technological advancements. If you wish to contact the website’s owner, please use the website's form",n
+7832,7262,div,,n
+7834,7832,span,Hide Accessibility Interface?,n
+7836,7832,span,Please note,n
+7837,7832,div,,n
+7839,7837,span,Accept,n
+7841,7837,span,Cancel,n
+7849,7262,div,Continue,n
+7860,0,div,"Processing the data, please give it a few seconds...",n

@@ -1,0 +1,54 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+1,0,div,,n
+3,1,div,,n
+5,3,div,,n
+11,5,div,Getty Images or Gabe Ginsberg or Contributor,n
+12,5,div,,n
+13,12,div,,n
+15,13,span,By,n
+16,13,text,Rachel Lapidos,n
+20,12,div,"June 23, 2021",n
+24,3,div,,n
+26,24,p,"Alyssa Edwards tells me over Zoom that she was a “shy, awkward, introverted little boy.” One of seven children, Edwards admits that, at one point, she overheard her parents having a conversation and asking each other if Edwards was ever going to talk. But then she discovered dance. “Dancing was my safe space,” she says. “It was where I could be me, unapologetically.”",n
+29,24,p,"Fast forward to today, and Edwards is a widely-known drag queen , choreographer, and performer who’s starred on multiple seasons of RuPaul’s Drag Race as well as her own docu-series, Dancing Queen . When Bustle chats with the star, she’s prepping for her London-based one-woman show, Alyssa, Memoirs of a Queen . She’s really just happy to move: “I think is a universal language — we’re all born to dance,” says Edwards. “There’s no right or wrong way. When a song comes on that resonates with you, enjoy it!”",n
+45,24,p,"Of course, wearing all sorts of colorful makeup looks onstage is another reason why Edwards loves what she does. “I love glamour. I love the power that makeup provides me,” she tells Bustle. Her go-to look? “I would say my favorite thing to wear is my signature Alyssa look: a big, bold red lip , pink eyeshadow, and a big lash — a Texas-sized lash, rather,” Edwards, a Lone Star native, laughs.",n
+51,24,p,"That’s not to say she isn’t tactical about her beauty routine, though. Edwards recently partnered with Degree deodorant on its “Move Again” campaign that encourages people to engage in physical activity as quarantine ends . As for the rest of her regimen? Here, Edwards reveals the three biggest makeup lessons she’s learned as a drag queen.",n
+55,24,h2,Take Care Of Your Skin,n
+57,24,p,"The most important thing of all in beauty, says Edwards, is your complexion. “It all starts with a good canvas,” she tells Bustle. “Putting on makeup, especially this amount, and then taking it off and then putting it back on, can really damage your skin. So I really try to nurture and protect my skin as much as I can.” Her favorite skin care brand is Ogee , a jojoba oil -based line of essentials Edwards says plays well with her complexion. Oh, and: “I always say your best friend as a queen should be a female and an esthetician,” she laughs.",n
+67,24,h2,Use A Setting Spray,n
+69,24,p,"Any active person knows how hard it is to prevent your makeup from melting off your face. The secret, Edwards says, is to always spritz on a setting spray . “This Charlotte Tilbury Airbrush Flawless Setting Spray is great for stage,” she tells Bustle. “My makeup will not move. And I’m a high-energy performer.”",n
+75,24,h2,Have Fun With It,n
+77,24,p,"A makeup tip Edwards wishes everyone would follow? “You can’t make a mistake,” she says. “You’re going to wash it off, so have fun with it. There really is no right or wrong way to do wear makeup.” And with that, I’m off to grab all of my eyeshadow palettes.",n
+89,1,div,,n
+92,89,div,,n
+95,92,span,SEARCH,n
+99,92,span,CLOSE,n
+107,89,form,,n
+109,107,div,,n
+113,109,div,Entertainment,n
+116,109,div,See All TV and Movies Books Celebrity Music Streaming,n
+122,107,div,,n
+126,122,div,Style,n
+129,122,div,See All Fashion Beauty Celebrity Style,n
+133,107,div,,n
+137,133,div,Wellness,n
+140,133,div,See All Health Relationships Self,n
+144,107,div,,n
+148,144,div,Life,n
+151,144,div,See All Astrology Tech Food Travel,n
+158,107,div,Rule Breakers,n
+161,107,div,Originals,n
+164,107,div,Amplifying Our Voices,n
+167,107,div,Shop,n
+170,107,div,Video,n
+173,107,div,Beautopia,n
+174,89,div,,n
+176,174,div,,n
+178,176,p,Choose an edition,n
+180,176,button,US,n
+182,176,span,or,n
+184,176,button,UK,n
+186,174,div,,n
+188,186,div,Newsletter About Archive DMCA Advertise Terms Privacy Masthead Editorial Standards,n
+200,186,div,"© 2022 BDG Media, Inc. All rights reserved.",n

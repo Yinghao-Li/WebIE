@@ -1,0 +1,354 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+8,0,div,,n
+9,8,text,Updated on,n
+11,8,time,"January 12, 2022",n
+12,8,span,,n
+13,12,text,by,n
+15,12,span,Asher Fergusson,n
+17,0,div,,n
+19,17,div,,n
+20,19,p,,n
+22,20,span,T,n
+23,20,text,"here’s no better way to make the most of winter than hitting the slopes! Whether you’ll be taking it easy on the bunny hills or flying down the more advanced runs, being prepared is key.",n
+25,19,p,Check out this list of my 17 snowboard trip must-haves and make sure you don’t forget a thing!,n
+27,19,p,One thing to keep in mind is that you’ll be likely going to a significantly higher elevation than you’re used to so be sure to drink a ton of water and take it easy if you’re feeling any kind of altitude sickness when you first arrive. Also start taking this Chloroxogen altitude medicine at least a week before you go.,n
+33,17,div,,n
+35,33,span,Contents,n
+37,33,nav,,n
+40,37,li,What to Pack,n
+43,37,li,Other packing list items,n
+46,37,li,What to Wear in Snowboarding,n
+49,37,li,What NOT to brings Snowboarding,n
+52,37,li,FAQs about Traveling in Snowboarding,n
+55,0,div,,n
+57,55,h2,What to Pack,n
+58,55,ul,,n
+59,58,li,,n
+63,59,h3,Neck Wallet,y
+66,59,p,"You’ll be happy you brought your handy neck wallet when you hit the lodge after a long day out on the slopes. Large enough to hold your phone, wallet, passport, and any other necessity, wear this neck wallet under your clothes to keep your valuables organized and secure until you need them. The last thing you want is your smartphone or wallet falling out of your pocket when you’re riding up the chairlift!",n
+70,58,li,,n
+74,70,h3,Snowboard,y
+77,70,p,"This one is a no-brainer. Obviously you need a snowboard to go snowboarding. I bet you didn’t know you could find a high quality one on Amazon, though. This one has awesome reviews and isn’t too expensive, and comes with the bindings and boots too! Also consider bringing a snowboard lock to keep your board secure when you break for drinks and snacks in the lodge.",n
+83,58,li,,n
+87,83,h3,Snowboard Bag,y
+90,83,p,"Of course, you’re going to need a bag to transport all of your gear. The awkward shape of much of your stuff definitely calls for a specialized snowboard bag like this one, that can fit all your gear and is extremely durable.",n
+94,58,li,,n
+98,94,h3,Packing Cubes,y
+101,94,p,"Packing cubes are a travel must-have, no matter where you’re going or for how long. These will help you to stay organized and not overpack, which will be a godsend when you’re lugging all your snowboarding gear. This set of packing cubes is awesome because it comes with an extra bag for your shoes and another for dirty laundry.",n
+105,58,li,,n
+109,105,h3,Lipstick-Size Portable Charger,y
+112,105,p,"Finally, a lipstick-sized portable charger is an invaluable item to bring with you on your snowboarding trip. Whether you’re using your phone for photos, videos, music, or navigation, you won’t want to get stuck if your phone dies out on the slopes. Stick this small portable charger in your pocket and recharge your smartphone as necessary throughout the day without having to stop for a break in the lodge.",n
+116,58,li,,n
+120,116,h3,Virtual Private Network,y
+121,116,div,,n
+123,121,p,"A VPN is an underratedly important thing to have whenever you’re traveling and connecting to public WiFi. In remote ski resorts or mountain lodges where cellular data is spotty, you’ll likely need to connect to the WiFi which means you’ll be vulnerable to potential hackers. Using a VPN will keep your private information secure, so you won’t have to worry about your passwords and credit card numbers getting compromised. A VPN will also grant you access to sites that may be blocked or censored in the country you’re visiting.",n
+125,121,p,View NordVPN.com Options,n
+127,58,li,,n
+131,127,h3,Waterproof Snow Pants,y
+134,127,p,"The last thing you’ll want to worry about on your snowboarding holiday is wet pants! You can’t help exposing your clothing to the snow and ice, so having waterproof pants is key. These snow pants are highly rated and extremely insulated, yet breathable. I find it helpful to buy pants in colors that won’t show dirt or marks , since you’ll likely be getting pretty roughed up while snowboarding.",n
+138,58,li,,n
+142,138,h3,Altitude Sickness Medication,y
+145,138,p,"You may not realize it before you head out there, but snowboarding at high altitudes can really have a significant effect on your body. Be prepared to fight altitude sickness with this medication that uses all natural ingredients. We never hit the slopes without it!",n
+149,58,li,,n
+153,149,h3,Warm Hat,y
+156,149,p,"Did you know that a lot of your body heat is lost through your head? Keep that heat in and regulate your overall body temperature by wearing a warm hat. This beanie is perfect for slipping on under your ski mask, and is a good alternative to earmuffs. You’ll have loads more fun when you’re comfortable and at a good body temp.",n
+160,58,li,,n
+164,160,h3,Long Underwear,y
+167,160,p,"This is an important base layer of your snowboarding outfit. Make sure that the long underwear you buy fits properly, not too loose or too tight. These ones are sweat-wicking, insulating and ultra comfortable.",n
+171,58,li,,n
+175,171,h3,Travel Insurance,y
+176,171,div,,n
+178,176,p,"You won’t regret having travel insurance when you leave for your snowboarding trip, even if it’s just for peace of mind. Especially if you’re traveling overseas, you’ll want to make sure you’re covered. We love using TravelInsurance.com any time we travel because they allow you to compare great plans that cover the costs for lost or stolen luggage, flight cancellations, and medical expenses in the case of an accident on the slopes.",n
+182,176,p,Compare policies at TravelInsurance.com,n
+184,58,li,,n
+188,184,h3,Buff or Neck Warmer,y
+191,184,p,A buff is another name for a neck warmer and muffler combo. It can also be used as a headband or sweatband. Buffs are super multipurpose and very handy while snowboarding. Use it to keep warm and protected from the wind while you’re cruising down the slopes.,n
+195,58,li,,n
+199,195,h3,Universal Power Adapter,y
+202,195,p,"Don’t get stuck without a way to plug in and charge up your electronics when you get to the mountain. Particularly if you’re headed on a snowboarding trip abroad, you can’t go wrong with packing a universal power adapter. This one works almost everywhere in the world and includes USB ports so you can plug in multiple devices at once.",n
+206,58,li,,n
+210,206,h3,Snow Boots,y
+213,206,p,"For those occasions during your snowboarding trip in which you are not on the hills, it’s handy to have some trendy, warm snow boots with you. Slip these white ones on with any outfit and feel like a bona fide snow bunny!",n
+217,58,li,,n
+221,217,h3,Waterproof Socks,y
+224,217,p,"Good socks are vital to any enjoyable snow experience. Snowboarding in socks that absorb water will leave you cold and blistered at the end of the day. Stick with waterproof socks. You can wash them after a day of snowboarding, hang them to dry in your hotel room, and they’ll be ready to go the next day. These ones are breathable, waterproof and perfect for a day in the snow.",n
+228,58,li,,n
+232,228,h3,Affordable Underwater Camera,y
+235,228,p,"Even if you’re just a beginner, a snowboarding trip almost guarantees awesome views! Bring an affordable waterproof camera to capture all the incredible moments set in your snowy wonderland. There are special attachments you can get to link the camera to your helmet for first-person action footage. When you get home you’ll love being able to go back in time and relive your favorite moments!",n
+239,58,li,,n
+243,239,h3,Gloves,y
+246,239,p,"Gloves are one of the most important things you’ll be bringing on your trip to the slopes. Make sure you get winter sport-specific gloves so that your hands don’t overheat, but still stay protected from the wind and snow. These ones work great for snowboarding.",n
+252,0,div,,n
+254,252,h2,Other packing list items,n
+255,252,ul,,n
+257,255,li,Laundry bag,y
+259,255,li,Travel journal,y
+261,255,li,Toiletries,y
+263,255,li,Wet wipes,y
+265,255,li,Hairdryer,y
+267,255,li,Glasses or contacts,y
+269,255,li,Slippers,y
+271,255,li,Makeup removing wipes,y
+273,255,li,Headphones,y
+275,255,li,Tide-to-go pen,y
+277,255,li,Deodorant,y
+279,255,li,Sewing kit,y
+282,0,div,,n
+284,282,h2,What to Wear in Snowboarding,n
+287,282,p,"Layering is key when dressing for a day of snowboarding. Start with your base layers of thermal underwear and a synthetic long sleeve shirt. Your mid-layer is your insulating layer. It should be a soft-shell jacket or pullover. Your next layer is your protective layer including your snow pants. They should be waterproof, and wind resistant. Make sure you wear your waterproof socks, and maybe tuck an extra pair into your snowboard bag in case water or snow gets inside your socks. Gloves are very important as well. Don’t forget your goggles, buff and any other accessories you want to wear.",n
+291,0,div,,n
+293,291,h2,What NOT to brings Snowboarding,n
+294,291,ul,,n
+296,294,li,,n
+300,296,h6,Scarf,y
+303,296,p,"A buff is a much more logical item of snow-wear. An ordinary scarf runs the risk of flying off of your neck. A buff can be a scarf, a face guard, a headband, or a sweatband.",n
+305,294,li,,n
+309,305,h6,Cotton clothing or socks,y
+312,305,p,"Cotton absorbs water and sweat easily, and then takes forever to dry. In freezing temperatures this is highly dangerous, and even puts you at risk for hypothermia. Opt for synthetic fabrics that are marketed as quick-dry or sweat-wicking.",n
+314,294,li,,n
+318,314,h6,Dressy clothes,y
+321,314,p,"Ski towns are very laid back. After skiing or snowboarding most people go out for dinner or a beer in their ski clothes! If you’re in a nicer place like Aspen, CO, though, and are planning on having a fancier night out, go ahead and bring some nicer clothes.",n
+323,294,li,,n
+327,323,h6,Jewelry,y
+330,323,p,"Like I said before, most ski towns are relatively laid back. Leave the jewelry at home unless you have a special occasion planned!",n
+332,294,li,,n
+336,332,h6,electronics,y
+339,332,p,"Definitely bring your camera, GoPro and iPhone, but possibly consider taking this trip as on opportunity to disconnect. Leave the computer and tablet behind!",n
+342,0,div,,n
+344,342,h2,FAQs about Traveling in Snowboarding,n
+345,342,ul,,n
+346,345,li,,n
+350,346,h3,Should I bring my own gear or rent?,n
+354,346,p,"If you have your own gear, by all means bring it ! If not, or if it’s more economical to just rent your gear there, opt for that instead. Research prices for your specific destination online before deciding one way or another.",n
+356,345,li,,n
+360,356,h3,lodging options are available?,n
+364,356,p,"There are usually ski resorts, lodges and cabin options available in ski towns in the US! It’s always a good idea to check Airbnb for some better deals and a more local experience.",n
+366,345,li,,n
+370,366,h3,"What if snowboarding is not my thing, but I still want to go?",n
+374,366,p,Some people prefer the warm atmosphere of the lodge to the actual skiing. There are probably many different festive activities to engage in at your lodge or in the town you’re in. Plenty of people can be found cozying up to a good book by the fire of bonding over cider. A snowy getaway can be just as fun without hitting the slopes!,n
+376,345,li,,n
+380,376,h3,What other activities can I enjoy on a ski trip besides skiing?,n
+384,376,p,"Check online before you go. There could be snowboarding, sledding, ice sculpting competitions, and so much more. The sky’s the limit!",n
+388,0,div,,n
+390,388,h2,Other packing lists you may like…,n
+392,388,h4,North America,n
+393,388,ul,,n
+395,393,li,3-Day packing list,n
+397,393,li,What to wear in Arizona,n
+399,393,li,Things to bring to Baby,n
+401,393,li,What to pack,n
+404,393,li,Bachelorette Party essentials,n
+406,393,li,Clothes,n
+408,393,li,Packing list,n
+410,393,li,Clothes,n
+412,393,li,What to pack,n
+414,393,li,Things to bring to Colorado,n
+416,393,li,Cruise essentials,n
+418,393,li,What to bring to Day Hike,n
+420,393,li,What to wear in Diaper Bag,n
+422,393,li,Things to bring to Digital Nomad,n
+424,393,li,Clothes,n
+426,393,li,Clothes,n
+428,393,li,What to bring to Glamping,n
+430,393,li,Things to bring to Grand Teton NP,n
+432,393,li,Hawaii packing list,n
+434,393,li,Packing list,n
+436,393,li,What to bring to Island Vacation,n
+438,393,li,What to pack,n
+440,393,li,Kauai packing list,n
+442,393,li,What to wear in Long-Term Travel,n
+444,393,li,What to pack,n
+446,393,li,Music Festival packing list,n
+448,393,li,What to pack,n
+450,393,li,Packing list,n
+452,393,li,Things to bring to Oregon Coast,n
+454,393,li,Things to bring to Orlando,n
+456,393,li,Things to bring to Overnight Trip,n
+458,393,li,Things to bring to Pacific Crest Trail,n
+460,393,li,Clothes,n
+462,393,li,What to pack,n
+464,393,li,What to pack,n
+466,393,li,What to pack,n
+468,393,li,What to bring to Sedona,n
+470,393,li,What to pack,n
+472,393,li,What to wear in Two-week,n
+474,393,li,What to pack,n
+475,388,div,,n
+478,475,h4,Africa,n
+480,475,ul,,n
+482,480,li,What to bring to Africa,n
+484,480,li,Clothes,n
+486,480,li,Packing list,n
+488,480,li,Clothes,n
+490,480,li,Things to bring to Safari,n
+492,480,li,What to wear in South Africa,n
+494,480,li,What to bring to Tanzania,n
+496,480,li,Uganda essentials,n
+497,388,div,,n
+500,497,h4,Asia,n
+502,497,ul,,n
+504,502,li,What to pack,n
+506,502,li,Packing list,n
+508,502,li,Bali essentials,n
+510,502,li,Things to bring to Cambodia,n
+512,502,li,Clothes,n
+514,502,li,What to wear in India,n
+516,502,li,What to pack,n
+518,502,li,What to wear in Japan,n
+520,502,li,Clothes,n
+522,502,li,Clothes,n
+524,502,li,Clothes,n
+526,502,li,Southeast Asia essentials,n
+528,502,li,What to pack,n
+530,502,li,Clothes,n
+532,502,li,Vietnam packing list,n
+533,388,div,,n
+536,533,h4,Central America,n
+538,533,ul,,n
+540,538,li,What to pack,n
+542,538,li,Things to bring to Bahamas,n
+544,538,li,Clothes,n
+546,538,li,What to bring to Cabo,n
+548,538,li,Caribbean packing list,n
+550,538,li,Clothes,n
+552,538,li,Costa Rica essentials,n
+554,538,li,What to pack,n
+556,538,li,Cuba essentials,n
+558,538,li,Things to bring to Dominican Republic,n
+560,538,li,Things to bring to Guatemala,n
+562,538,li,What to pack,n
+564,538,li,What to bring to Merida or Yucatan,n
+566,538,li,Mexico packing list,n
+568,538,li,What to wear in Mexico City,n
+570,538,li,Nicaragua packing list,n
+572,538,li,What to bring to Playa del Carmen,n
+574,538,li,Virgin Islands packing list,n
+575,388,div,,n
+578,575,h4,Europe,n
+580,575,ul,,n
+582,580,li,What to wear in Amsterdam,n
+584,580,li,Barcelona essentials,n
+586,580,li,Clothes,n
+588,580,li,Clothes,n
+590,580,li,What to wear in Croatia,n
+592,580,li,What to bring to Europe,n
+594,580,li,France essentials,n
+596,580,li,What to pack,n
+598,580,li,Things to bring to Greece,n
+600,580,li,Things to bring to Hungary,n
+602,580,li,Iceland essentials,n
+604,580,li,What to bring to International,n
+606,580,li,What to bring to Ireland,n
+608,580,li,What to wear in Italy,n
+610,580,li,Things to bring to London and UK,n
+612,580,li,Mediterranean Cruise essentials,n
+614,580,li,What to wear in Moving Abroad,n
+616,580,li,Packing list,n
+618,580,li,Paris packing list,n
+620,580,li,Clothes,n
+622,580,li,What to pack,n
+624,580,li,Clothes,n
+626,580,li,What to bring to Rome,n
+628,580,li,Packing list,n
+630,580,li,What to pack,n
+632,580,li,Study Abroad packing list,n
+634,580,li,Switzerland essentials,n
+636,580,li,Turkey packing list,n
+637,388,div,,n
+640,637,h4,Middle East,n
+642,637,ul,,n
+644,642,li,Abu Dhabi essentials,n
+646,642,li,Things to bring to Birthright,n
+648,642,li,What to wear in Dubai,n
+650,642,li,What to wear in Israel,n
+652,642,li,What to wear in Jordan,n
+654,642,li,What to pack,n
+655,388,div,,n
+658,655,h4,Oceania,n
+660,655,ul,,n
+662,660,li,Australia essentials,n
+664,660,li,Things to bring to New Zealand,n
+665,388,div,,n
+668,665,h4,South America,n
+670,665,ul,,n
+672,670,li,Clothes,n
+674,670,li,Clothes,n
+676,670,li,Ecuador packing list,n
+678,670,li,Clothes,n
+680,670,li,What to wear in Machu Picchu,n
+682,670,li,Clothes,n
+684,670,li,Clothes,n
+686,670,li,Clothes,n
+687,388,div,,n
+690,687,h4,Where to stay,n
+694,687,li,What to wear in Maui,n
+695,388,div,,n
+698,695,h4,Country-Specific Guides to Power Adapters,n
+700,695,ul,,n
+702,700,li,Argentina,n
+704,700,li,Australia,n
+706,700,li,Bali,n
+708,700,li,China,n
+710,700,li,Costa Rica,n
+712,700,li,Croatia,n
+714,700,li,Cuba,n
+716,700,li,Czech Republic,n
+718,700,li,France,n
+720,700,li,Germany,n
+722,700,li,Greece,n
+724,700,li,Hong Kong,n
+726,700,li,Hungary,n
+728,700,li,Iceland,n
+730,700,li,Indonesia,n
+732,700,li,Ireland,n
+734,700,li,Japan,n
+736,700,li,Nepal,n
+738,700,li,Netherlands,n
+740,700,li,New Zealand,n
+742,700,li,Peru,n
+744,700,li,Philippines,n
+746,700,li,Portugal,n
+748,700,li,Scotland,n
+750,700,li,Singapore,n
+773,0,div,@asherandlyric on Instragram »,n
+775,0,div,,n
+777,775,div,,n
+790,777,p,,n
+791,790,text,"1680 Hwy 1, Ste 3450, Fairfield,",n
+793,790,br,"Iowa, 52556, USA",n
+795,777,div,Copyright ©• Asher and Lyric • All Rights Reserved • Site by FazeDesigns,n
+798,775,div,,n
+800,798,div,,n
+802,800,h5,Site Navigation,n
+804,800,ul,,n
+806,804,li,About us,n
+808,804,li,India Tips,n
+810,804,li,Babies and Toddlers,n
+812,804,li,Home and Garden,n
+814,804,li,Contact us,n
+816,804,li,Study Abroad Scholarship,n
+818,804,li,Affiliate Disclosure,n
+820,804,li,Privacy Policy,n
+822,798,div,,n
+824,822,h5,Top Packing Lists,n
+826,822,ul,,n
+828,826,li,Beach,n
+830,826,li,Cruise,n
+832,826,li,Europe,n
+834,826,li,Hawaii,n
+836,826,li,India,n
+838,826,li,Mexico,n
+840,826,li,Spain,n
+842,826,li,Thailand,n
+844,798,div,,n
+846,844,h5,Affiliate Disclosure,n
+848,844,p,As an Amazon Associate we earn from qualifying purchases.,n
+850,844,p,"To learn about all the affiliate programs we are a participant in, please visit our disclosure page .",n
+853,844,p,,n
+855,853,strong,Please Note,n
+856,853,text,This website uses cookies. To learn more visit our privacy page .,n
+860,798,div,,n
+862,860,h5,Sustainability,n
+864,860,p,We are committed to creating a healthy planet and regularly donate to important projects supporting sustainability.,n
+866,860,p,This website is hosted on the Google Cloud which is a 100% carbon neutral platform powered by renewable energy.,n

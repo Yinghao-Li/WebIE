@@ -1,0 +1,63 @@
+node_id,parent_id,tag,text,label
+0,,ROOT,,n
+60,0,div,,n
+62,60,h1,"Nail Tech School in Orlando, FL",n
+63,60,p,,n
+64,63,text,"Beautiful, healthy nails are the best accessories",n
+66,63,strong,Beauty Academy,n
+67,63,text,", a nail tech school in Orlando, FL. From polish to manicures, our nail specialty course covers everything you need to know to be licensed to work in our state. The course is 180 hours and can be easily combined with our other training programs . Start our program today to get one step closer to meeting your beauty career goals.",n
+71,60,h2,Educational Objectives,n
+73,60,p,"The objective of our nail specialty program is to teach you the right techniques to attain a license to practice professionally. We teach the correct procedures for shaping and polishing nails, in addition to the necessary safety and sanitary procedures. In addition, you learn the proper usage of professional manicuring implements and supplies. Our students also learn the differences between the basic types of artificial and sculpted nails and nail extensions.",n
+76,60,p,Supply List,n
+77,60,ul,,n
+79,77,li,Acrylic Powder,y
+81,77,li,Nail Liquid,y
+83,77,li,Cuticle Oil,y
+85,77,li,File,y
+87,77,li,Top Coat,y
+89,77,li,Nail Clipper,y
+91,77,li,Nail Brush,y
+93,77,li,Nail Polishes,y
+95,77,li,Dappen Dish,y
+97,77,li,Nail Buffer,y
+99,77,li,Tip,y
+101,77,li,Practice Finger,y
+104,60,p,Nail Specialty Program Costs,n
+106,60,p,Becoming a nail technician is more affordable than you may think. The total cost for our course is just $950.00. Your down payment is $500.00 and monthly payments afterward are only $200.00. The $950.00 total includes the following:,n
+107,60,ul,,n
+109,107,li,Registration - $200.00,n
+111,107,li,Tuition - $655.00,n
+113,107,li,Supplies - $95,n
+115,60,p,Learn more about our academy and find out if our nail courses are the right fit for you by speaking with our helpful. We look forward to working with you and helping you diversify your increase your professional cosmetology skills.,n
+117,60,p,"Contact us for further information on the offerings available at our nail tech school. Our school serves students and clients in Orlando, Florida.",n
+120,0,div,,n
+123,120,div,,n
+125,123,h2,We Offer Easy Monthly Tuition Payments,n
+126,123,p,,n
+127,126,text,Call Us Today For More Information –,n
+129,126,strong,893.6669,n
+133,120,div,,n
+135,133,h2,Contact Us Today,n
+136,133,div,,n
+140,136,span,"Orlando, FL 32808",n
+141,136,span,,n
+143,141,strong,Phone,n
+144,141,text,893.6669,n
+145,136,span,,n
+147,145,strong,Email,n
+148,145,text,wbafl6111@gmail.com,n
+149,133,div,,n
+151,149,h3,Available Hours,n
+153,149,strong,Monday - Friday,n
+154,149,text,9:30 a.m. - 7:00 p.m.,n
+158,149,br,Closed,n
+157,149,strong,Saturday,n
+162,149,br,10:00 a.m. – 6:00 p.m.,n
+161,149,strong,Sunday,n
+167,120,div,,n
+168,167,div,,n
+169,168,div,,n
+171,169,span,893.6669,n
+173,169,span,wbafl6111@gmail.com,n
+177,168,div,"Orlando, FL 32808",n
+180,167,div,Beauty Academy. All Rights Reserved.,n
